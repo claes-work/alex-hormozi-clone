@@ -3,6 +3,18 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 12: 8 @MoreMozi P1 (L2)
+
+8 @MoreMozi 2026 coaching/behind-scenes videos via source-only subagents. 3 L3-cands:
+QX1tnRsIbqU (★ Money Models writing bio — ~1,000 hrs, wrote all 3 books at once then split,
+re-filmed course 3×, 4-year trilogy arc), S1Lq8ITwtHQ (exit philosophy — "$10-30M is the
+hardest sell range; cut complexity 80% then franchise"), PgiqKklXUaA (enterprise lead-gen
+engine: conferences + affiliates + outbound). Others L2 coaching cases (service-to-100M,
+$30M online, two-companies focus, UK-dental 6X). Owner situations flagged as context
+throughout. Ledger: L2=82, 37 L3-candidates. The @MoreMozi coaching content is fairly
+repetitive (same scaling frameworks applied per case) — high-value stuff is thinning; will
+shift to P2/other channels and the topic-synthesis pass soon. Next: remaining P1.
+
 ## [2026-07-08] ingest | Stage B batch 11: 2 @ACQofficial + 6 @MoreMozi P1 (L2)
 
 Finished @ACQofficial P1 (mUpty7tscJo ★ his most complete content playbook — frame/"how I"/

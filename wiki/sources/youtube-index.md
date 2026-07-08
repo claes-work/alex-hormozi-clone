@@ -94,6 +94,14 @@ situation is context-only, only Alex's advice is persona data.
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2026-06-17 | [[2026-06-17-yt-i-4IiGGS1wE]] | Scale two companies — focus/opportunity-cost, fire-sell the slower one | |
+| 2026-06-17 | [[2026-06-17-yt-PgiqKklXUaA]] | $15M consulting → $100M by 2029 — enterprise lead-gen engine (conf+affiliates+outbound) | ★ |
+| 2026-06-20 | [[2026-06-20-yt-vMVForz7IPM]] | $1.5M→$9.4M UK dental (one advice) — now retention as compounding vehicle | |
+| 2026-06-21 | [[2026-06-21-yt-QX1tnRsIbqU]] | Inside the 1,000 hours writing Money Models — writing process + trilogy arc (bio) | ★ |
+| 2026-06-21 | [[2026-06-21-yt-S1Lq8ITwtHQ]] | Why a $25M exit is harder than $100M — exit/M&A philosophy | ★ |
+| 2026-06-21 | [[2026-06-21-yt-2Is-h74fklE]] | $30M online service → $100M — dollars-per-lead reframe | |
+| 2026-06-22 | [[2026-06-22-yt-L4LEf_zbbyo]] | Path $1M→$100M for service businesses — brand via centers of influence | |
+| 2026-06-22 | [[2026-06-22-yt-2t_9g_8ZA_I]] | $100M service playbook — affiliate acquisition for stigmatized products | |
 | 2026-06-22 | [[2026-06-22-yt-Bh3QhADMqg4]] | Scale $1.2M→$3.5M (duct-cleaning supply) — 3 revenue wheels, retention annuity | |
 | 2026-06-22 | [[2026-06-22-yt-zJDtRUr4Huk]] | Real-estate developer to $100M — outreach + conference deal flow | |
 | 2026-06-23 | [[2026-06-23-yt-tZUmwYquIi4]] | Cybersecurity $5M→$3.6M recovery — conference net-fishing + SDR | |
@@ -101,6 +109,6 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-01 | [[2026-07-01-yt-88oj6ZlmEi8]] | $6M roofing wants $100M — "want less or trade more", the who game | ★ |
 | 2026-07-07 | [[2026-07-07-yt-ndne_8qRh8o]] | Marketing agency $1.2M→$8M — price to worst month, go up-market | |
 
-_74 videos ingested (L2). 34 flagged L3-candidate for the next synthesis pass. 5 videos
+_82 videos ingested (L2). 37 flagged L3-candidate for the next synthesis pass. 5 videos
 contain no Alex speech (3 Leila solo talks + 2 Leila+exec debriefs) — kept as record/bio-fact
 and cross-check citations only, excluded from voice/persona data._
