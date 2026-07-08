@@ -18,6 +18,19 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — sales-9, product-first, get-busy (L2=317)
+
+Loop iteration 35. 8 @AlexHormozi P2 (2024-06). 3 L3-candidates: cy2k1GdA-9o "sales 9 concepts"
+(★ 3-job framework [maximize opportunities/conversion/consistency] + a distinct leads-maximization
+OS: availability-as-#1-lever, pull-up tactic, BAMFAM, kill-list, on/off-call SOPs → sales-operations
+material), Uki3IUkUu7Q "get rich by not focusing on it" (★ product-first/LTV-first, build back-to-
+front, learn-not-earn), H_ZLs1-jOKQ "get busy" (★ "unskilled not unscalable", DFY/DWY/DIY pyramid,
+sales-to-fulfillment continuum). Rest L2, increasingly overlapping older material: email-campaign
+breakdown (feeds email-marketing), 80%-time (maker/manager dup), 7-millionaires (sibling of 10-
+millionaires), 7-free-customers (referral tactics), failures-rich (failure resume). Ledger: L2=317.
+Overlap is rising as the ingest reaches mid-2024 — core frameworks now largely captured across 35
+topic pages. Next: continue @AlexHormozi P2 (318 left).
+
 ## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — LTGP:CAC + 13 moats + focus (L2=309)
 
 Loop iteration 33. 8 @AlexHormozi P2 (2024-06→07). 6 L3-candidates, two flagship: jzKpAtzKQ54 "the
