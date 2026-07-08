@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-08
-sources: 21
+sources: 26
 ---
 
 # Biography
@@ -62,7 +62,8 @@ decision-lens shift.
 | Realization ~age 27 (told Apr 2024) | Recounts the "180-degree flip" from anti-organic-content operator (cold outreach + ads; podcast ep. 7 literally titled "Stop Branding") to deliberately building a huge personal brand. Trigger: **Kylie Jenner** becoming a billionaire at 20 while he was **27** ("she is way richer than I am… she's doing something different by an order of magnitude"), then a ~12-month cluster of celebrity-brand exits (Huda Beauty, McGregor/Proper 12, Clooney/Casamigos, The Rock/Teremana, Logan Paul/Prime). The "last straw" was a famous friend telling him fame was a price worth paying for impact — he "started making content that week." His ledger: fame is a money-making "time warp" (talent attraction, pre-trained hires, deal trust) whose one umbrella cost is loss of privacy, which is irreversible [[../wiki/sources/2024-04-02-yt-J9Y6FXMELtA]] | 🗣️ |
 | Jan 2024 | Announced Skool investment alongside Sam Ovens — "biggest investment of my life"; stake size unverified; Skool Games launched | 📰/🗣️ |
 | Aug 16, 2025 | *$100M Money Models* launch: 9.5-hour livestream; Guinness World Record "fastest-selling non-fiction book" (2,917,443 copies by Aug 17) ✅; ~$87M day-one revenue claim 🗣️. He later frames the launch as deliberately demonstrating the book's own ideas — using **12 of the book's ~15 monetization mechanisms** live to culminate in a **$100M / 72-hour** result; free copies given away did **not** count toward the record [[../wiki/sources/2026-02-15-yt-8ExRKuE_KFs]] | ✅/🗣️ |
-| ~Sep 19, 2025 | His mother Florence died in an accident at her Baltimore home | 🗣️ |
+| ~Sep 2025 | His mother **Florence** died suddenly. He recorded a mental-toughness video the following week reflecting on it — "on Friday" relative to the 2025-10-03 publication implies **~Sep 26, 2025** [[../wiki/sources/2025-10-03-yt-Avp3xh3Y1Ic]]; weeks later he says he wrote **her eulogy** and used his own grief as the case study for that framework [[../wiki/sources/2025-11-21-yt-SE9_1PYsaP0]]; he lists her sudden death among the defining events of 2025 [[../wiki/sources/2025-12-21-yt-YONIUpk-kAs]]. (The earlier dossier gave "~Sep 19" at "her Baltimore home"; the ~Sep 26 "previous Friday" anchor is his own telling — treat the exact day as loose.) | 🗣️ |
+| 2025 (year in review) | Self-describes 2025 as his **biggest financial year ever** — his companies did **>$250M in revenue** — the same year his mother died suddenly. Says the `$100M Money Models` launch did **$106M in sales in under 72 hours** (year-end figure; cf. the ~$87M day-one / "$100M/72hr" claims on the Aug 16 row) and set the Guinness World Record for fastest-selling non-fiction book. Adds he has reached his "enough" number and is shifting to plan his personal life first, letting business "fill the cracks" [[../wiki/sources/2025-12-21-yt-YONIUpk-kAs]] | 🗣️ |
 
 ## Family & background
 
@@ -93,7 +94,18 @@ decision-lens shift.
   [[../wiki/sources/2021-08-23-yt-_qspvJAq34M]]. 🗣️
 - **Mother** 🗣️: Florence — among the first women in Johns Hopkins' first coed class,
   ran a private eye-surgery practice, sight-restoration charity work in Africa,
-  converted to Christianity at 42. Alex saw little of her growing up. Died Sep 2025.
+  converted to Christianity at 42. Alex saw little of her growing up. Died suddenly
+  ~Sep 2025 [[../wiki/sources/2025-10-03-yt-Avp3xh3Y1Ic]]
+  [[../wiki/sources/2025-11-21-yt-SE9_1PYsaP0]]
+  [[../wiki/sources/2025-12-21-yt-YONIUpk-kAs]].
+- **Maternal grandfather** 🗣️: the family member Alex says he was closest to. An
+  immigrant, **one of nine children, born in Macedonia**; sent to boarding school as the
+  smartest sibling; **ran from the Nazis for years during the Holocaust**; came to the US
+  after WWII and had to **retake all his professional exams** in a language he didn't know
+  (his European credentials didn't count). Lineage he draws: grandfather → his mother
+  Florence → Alex. His saying: **"You have two hands and one mind. That's it."**
+  Note this maternal (Macedonian/Holocaust) line is distinct from the paternal
+  (Iranian-refugee) line above [[../wiki/sources/2026-02-17-yt-_KlZoPxbStk]].
 - **Siblings** 📰: consistently described as an only child (no primary source).
 - **Identity** 🗣️: first-generation Iranian-American.
 - **Wife**: [[../wiki/entities/leila-hormozi|Leila Hormozi]] (context page — this
@@ -156,9 +168,23 @@ decision-lens shift.
      ~2016; later if he means her ~2019 Forbes cover)
      [[../wiki/sources/2024-04-02-yt-J9Y6FXMELtA]];
    - said he was **"28"** in Aug 2021 (→ born ~1993)
-     [[../wiki/sources/2021-08-23-yt-_qspvJAq34M]].
-   His age statements are mutually inconsistent and none cleanly fit the reported 1988
-   birth year. No registry source; treat every self-reported age as loose.
+     [[../wiki/sources/2021-08-23-yt-_qspvJAq34M]];
+   - **states his age as "36"** in a 2026-02-17 video (→ born ~1989–1990)
+     [[../wiki/sources/2026-02-17-yt-_KlZoPxbStk]];
+   - a Nov 2025 video is titled "…Truths I Know at **36**…" (→ born ~1989), but note the
+     **"36" appears only in the title — it is NOT stated in the transcript**
+     [[../wiki/sources/2025-11-17-yt-XGm2ERU9qtA]];
+   - says he took **"$42M in distributions before his $46M exit, at 31"** — if the exit is
+     the ~2021 Gym Launch/Prestige sale (row above), "at 31" implies born ~1990
+     [[../wiki/sources/2026-02-17-yt-_KlZoPxbStk]];
+   - says **"I've been in business 14 years"** as of 2025 (→ started ~2011), consistent
+     with the ~2011–2013 consulting-quit / first-gym window
+     [[../wiki/sources/2025-11-17-yt-XGm2ERU9qtA]].
+   His age statements are mutually inconsistent and none cleanly fit the reported **1988**
+   birth year — but the **newer (2025–2026) datapoints cluster tighter around a ~1989–1990
+   birth**: "36" as of early 2026 and an "exit at 31" in ~2021 both point there, pulling
+   slightly *later* than the reported 1988 (and away from the outlier "22"→1991 and
+   "28"→1993 readings). No registry source; treat every self-reported age as loose.
 2. **Rock-bottom balance: $1,036 (dossier) vs $1,000 (his 2021 telling).** Same event
    (late-2016 wind-down), two figures. The video attributes the $1,000 to wiring a
    ~$22,000 commission out of ~$23,000 left "to do right by everyone"

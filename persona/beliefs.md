@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-08
-sources: 16
+sources: 22
 ---
 
 # Beliefs
@@ -46,6 +46,17 @@ their L2 source videos (2020–2026).
   and backfill the rest. His favorite moat is brand ("you can make anything that's a
   commodity unique by adding a brand to it").
   [[../wiki/sources/2026-05-02-yt-3fsJFUvA6Ts]]
+- **The four "shapes" of business** (2026) — almost every business is one of four types,
+  each with a signature "big hairy problem" that is "a feature… not a bug": **e-commerce**
+  (fast growth but cash-flow/inventory-capped; the only uncopyable moat is **brand**),
+  **service** (~78% of US businesses; slow, steady, **talent-bottlenecked** — "if you're
+  in a service business, you're actually in a teaching business"; north-star metric = what
+  you charge), **education/info** (scales fastest then hard-stops; structurally low
+  retention; win with brand + **real-world proof**), and **software/SaaS** (slowest start,
+  highest ceiling; the problem is surviving the pre-PMF runway and achieving **revenue
+  retention**). Whoever solves their shape's signature constraint "unlocks huge amounts of
+  enterprise value." (Self-reported: he claims to have owned all four types.)
+  [[../wiki/sources/2026-01-14-yt-qsXxckCbci0]]
 
 ## Values
 
@@ -110,6 +121,17 @@ sources, 2020–2026).
   underpricing** (~80% close = 3–4× headroom); price is **two-way communication** that lets
   the right customers self-select; **sell to the rich** — "if you sell to rich people long
   enough, they will make you one of them."
+- **The tiered price ladder — build top-down** (2026) — "you aren't making as much money as
+  you want because you don't know how to get it from the people who've got it." Because
+  wealth is power-law concentrated (top 10% hold ~69%), sell up, not down. Rule of thumb:
+  for **every new tier, 5–10x the price and expect ~20% to take it**, each tier roughly
+  doubling total revenue (a $1K buyer's next rung is $5K–$10K, not $1.5K). Build **top-down**
+  (the Tesla ladder: Roadster → Model S → Model 3), because a new high tier lands on
+  already-covered overhead and drops disproportionately to profit. Think **absolute profit,
+  not relative** ("the sweet spot isn't the most yes's, it's the most money"). Serving the
+  poor masses profitably requires already having tons of money + automation, which most
+  service businesses lack — so go the opposite way: best customer, highest price.
+  [[../wiki/sources/2026-02-23-yt-ZuJryiwxjDw]]
 - **Scaling a sales team** — the 2020 **five C's** (Closer, Call recordings, Comms, Cut the
   bottom 10%, Competition/leaderboards) and the 2022 **outbound org chart** (BDR → SDS → BC
   "Christmas tree," paid on shows, ~$500 CAC vs. $40k LTV, a "baseball farm system" with
@@ -149,6 +171,15 @@ Synthesized from [[../wiki/topics/business/scaling-and-enterprise-value|scaling-
   *easier* to close than a $25M one. Service-/talent-heavy businesses sell cheap; **franchise
   and licensing are far more sellable**; the prescription is **"cut the complexity by 80%,
   then franchise it."**
+- **"My market is saturated" is almost always an excuse** (2025) — 99% of people who say it
+  are wrong; the average entrepreneur has tapped **less than 1%** of a TAM that's usually
+  100x–1,000x bigger than they think, because they advertise on one platform, in one format,
+  to one level of awareness. "You haven't saturated your market… your ads suck." **Red
+  oceans are good** — "the bloodier the water, the more fish are there." Reconcile "riches
+  in the niches" with going broad by being **"the biggest guy in a puddle"** first, then
+  expanding **puddle → pond → lake → ocean** as skill grows. (Reinforces the "five ways to
+  scale" TAM move above; both credit the "features, not bugs" business-shape framing as
+  borrowed.) [[../wiki/sources/2025-10-24-yt-hnmBXTyMFKI]]
 
 ## Frameworks — Customer acquisition (2021–2024)
 
@@ -177,6 +208,29 @@ video sources).
 - **Low-capex, high-margin, pricing power** (2024) — the best businesses can 10× units without
   materially changing cost basis; rule of thumb for a service business is **gross margins
   above 80% (charge ≥5× COGS)** — high margin is what *funds* aggressive acquisition.
+- **The math of business — paired-metric benchmarks** (2026) — his diagnostic rules of
+  thumb (almost every business term is a relationship between two numbers): **LTV:CAC scaled
+  by operational drag** — 3:1 if fully scalable (no humans), 6:1 one human, 9:1 two, 12:1
+  fully-human service (each human added creates "lumpiness" you must absorb); **call leads
+  within 60 seconds** ("how you do one thing is how you do everything"); **recover CAC within
+  30 days** (30 days of interest-free credit-card float enables limitless bootstrapped
+  growth); **gross margins ≥80% for services** ("your net margins cannot exceed your gross
+  margins" — he won't enter a business under 80%); **>80% annual retention** ("you don't want
+  to be in the sales business, you want to be in the reselling business" — borrowed from John
+  Paul DeJoria); and **70% sales-calendar utilization**. "Industry averages are dumb… play to
+  win; only physics limits the outcome." (Self-reported peak: gym-launch year-1 LTV:CAC of
+  100:1.) [[../wiki/sources/2026-01-09-yt-A_tx40lNpf8]]
+- **Lead-magnet doctrine — reveal the problem** (2025) — don't send cold traffic straight to
+  "buy" or "book a call" (most visitors aren't ready — they leave and never come back).
+  Offer a **free/low-cost mini offer that fully solves a *narrow* problem and reveals the
+  problem your core offer solves** ("sell at the point of greatest deprivation" — entrée vs.
+  dessert; the mini offer must *not* solve the same problem the core does). Same traffic
+  yields **3–5x** the hand-raisers, and the gain "just drops to your bottom line." Three
+  types (**reveal-a-problem/assessment** — his favorite; **free trial/sample**; **one step
+  of a multi-step process**) × four delivery mechanisms (**software/tools, information,
+  services, physical products**). **Advertise the result, not the vehicle**, and test the
+  headline harder than the contents ("if I'm going to spend two years writing the book, I
+  can spend two days testing the headline"). [[../wiki/sources/2025-11-08-yt-Mst4hreQYl0]]
 
 ## Frameworks — Content & branding (2021–2026)
 
@@ -304,6 +358,18 @@ video sources; nearly every figure is self-reported napkin math).
   friends-and-family money. (Self-reported: he says he has run all four — gym/Prestige Labs
   bootstrapped, Skool venture-backed, acquisition.com investing, ACQ real estate as GP.)
   [[../wiki/sources/2026-06-04-yt-sL16tsGafcQ]]
+- **The 6 levels of making money (a risk ladder)** (2026) — there are only four ways to get
+  money (steal, inherit, marry into it, **trade for it**), and within trading you are "paid
+  in proportion to the risk you're willing to take — the key is the *perceived* risk."
+  Ranked worst→best: (1) **"I work, then you pay"** (W-2 — lowest risk, least upside); (2)
+  **"you pay as we go"** (contractor); (3) **"you pay, then I work"** (paid upfront — surgeon,
+  retainer, his "business-owner layaway"); (4) **"when X happens, you pay me"** (outcome —
+  rev share, bonuses, equity); (5) **"buy and sell risk itself"** (insurance/warranties —
+  "when nothing happens, you still get paid, and that becomes profit"); (6) **"no matter
+  what, you pay me"** (taxation, franchisors, payment processors who control the money flow).
+  "Where you get best rewarded is where the world perceives you to be taking on far more risk
+  than you really are." Prefer **rev share over profit share** (profit is manipulable via
+  overspending; revenue is not). [[../wiki/sources/2026-03-09-yt-rMJIOK_FgJk]]
 
 ## Frameworks — AI era (2026)
 

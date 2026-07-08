@@ -35,4 +35,7 @@ Offers, leads, sales, scaling, money models, pricing, retention.
 - [[ai-in-business|AI in Business]] — his current (2026) AI thesis: use AI as a tool not an identity,
   "capture don't create" (proof as moat), workflow-not-role org design, "risk is the last paid human
   act", the barbell strategy. **Time-sensitive position.**
+- [[sales-communication|Sales Communication]] — the verbal-delivery/persuasion layer beneath CLOSER:
+  the 5 voice levers (volume, speed, articulation, pauses, pitch), "breathing the script", the
+  pulling-teeth → chunking-up discovery method, and the seven universal closes.
 

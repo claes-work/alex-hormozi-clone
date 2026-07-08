@@ -3,6 +3,25 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] lint | Synthesis pass 4 — biography v5, beliefs 22src, 3 topics, system-prompt v6
+
+Loop iteration 19 (maintenance/synthesis). Consolidated the P2 L3-cand backlog via 5 parallel
+agents + recompile:
+- **persona/biography.md → v5** (21→26 sources): **mother Florence's death ~Sep 26, 2025** (+ eulogy,
+  grief-as-case-study), **2025 as loss-and-peak record year** (>$250M rev, $106M/24h Guinness launch,
+  "enough" reached), **maternal grandfather** (Macedonia, fled Nazis) kept distinct from the paternal
+  Iranian line, age datapoints now converging ~1989-1990 (still loose). Mother's-death date
+  discrepancy (Sep 19 vs Sep 26) flagged.
+- **persona/beliefs.md** (16→22 sources): 4-shapes of business, 6-levels risk ladder, tiered 5-10x
+  pricing, TAM/"saturated"-is-an-excuse, business-math benchmarks, lead-magnet doctrine.
+- **3 new topic pages**: business/sales-communication.md (5 voice levers, breathing the script,
+  chunk-up discovery), content-strategy/audience-growth.md (SPCL, social→interest media, 6 shifts,
+  4 monetization paths — 2026 time-sensitive), mindset/mental-toughness-and-learning.md (4-model,
+  learning method, passion-vs-proficiency-vs-pain). Wired into hubs + index. **26 topic pages now.**
+- **persona/system-prompt.md → v6** (compiled_from_sources 183→215). Logged 2 new gaps (voice.md
+  back-fill for the 4 new frameworks; mother's-death date looseness).
+Next: resume @AlexHormozi P2 ingestion (422 left).
+
 ## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — social-media-2026, lead-magnet
 
 Loop iteration 18. 8 @AlexHormozi solo P2 (2025-10→11). 4 L3-candidates: dMZ-n2KSlxE (★ "my actual

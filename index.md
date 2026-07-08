@@ -29,10 +29,12 @@ Domain hubs (full page list lives on each hub):
   - [scaling-and-enterprise-value](wiki/topics/business/scaling-and-enterprise-value.md) — $0→$10M ladder, 5 ways to scale, scale-zero, EV = customers × LTGP ÷ risk, exit/M&A, talent-side LTV:CAC.
   - [acquisition-channels](wiki/topics/business/acquisition-channels.md) — Big 4 vs 6 sources vs Core Four reconciled; Client Financed Acquisition, word-of-mouth as only exponential channel, Rule of 100, MAGIC naming.
   - [ai-in-business](wiki/topics/business/ai-in-business.md) — his current (2026) AI thesis: use AI as a tool, capture-don't-create, workflow-not-role, risk-is-the-last-paid-human-act, barbell strategy (time-sensitive).
+  - [sales-communication](wiki/topics/business/sales-communication.md) — verbal delivery beneath CLOSER: 5 voice levers, breathing the script, chunk-up discovery, 7 universal closes.
 - [wiki/topics/marketing/marketing.md](wiki/topics/marketing/marketing.md) — Content marketing, ads, branding, audience building.
   - [book-launch-affiliate-playbook](wiki/topics/marketing/book-launch-affiliate-playbook.md) — how a mass book launch runs on an affiliate army.
 - [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — Discipline, self-belief, decision-making, pain and identity.
   - [discipline-and-decision-making](wiki/topics/mindset/discipline-and-decision-making.md) — "12 by 30" work ethic, to-sacrifice list, radical ownership, irreversible decisions, confidence-from-proof, infinite game, money = condensed time.
+  - [mental-toughness-and-learning](wiki/topics/mindset/mental-toughness-and-learning.md) — mental toughness 4-model (post mother's death), the "same condition, new behavior" learning method, passion vs proficiency vs pain-tolerance.
 - [wiki/topics/wealth/wealth.md](wiki/topics/wealth/wealth.md) — Investing, net-worth philosophy, spending.
   - [investing-and-wealth](wiki/topics/wealth/investing-and-wealth.md) — Buy-and-hold vs trading, play-money quarantine, keep-passive-passive, proximity to wealth, wealth = what you own.
   - [building-wealth](wiki/topics/wealth/building-wealth.md) — the 4 paths to wealth (bootstrap/raise/invest/fund), cash-flow vs net-worth (6x multiple), his own route through all four.
@@ -42,6 +44,7 @@ Domain hubs (full page list lives on each hub):
   - [content-engine](wiki/topics/content-strategy/content-engine.md) — media playbook: why fame, Volume×Time=Skill, Rule of 100, 5-step model, atomic-unit repurposing, frame/how-I/give-secrets/delay-the-ask, three-wheels hooks.
   - [branding](wiki/topics/content-strategy/branding.md) — brand = deliberate associations, bouquet model, 3 brand metrics, brand > direct-response, give-give-give.
   - [community-building](wiki/topics/content-strategy/community-building.md) — **his paid-community / Skool playbook** (why the model, design, launch, monetization, growth funnel, retention) — high-value.
+  - [audience-growth](wiki/topics/content-strategy/audience-growth.md) — his 2026 audience playbook: SPCL framework, social→interest media, 6 content shifts, 4 monetization paths, live/interactive (time-sensitive).
 
 ## Entities
 
@@ -57,11 +60,11 @@ Domain hubs (full page list lives on each hub):
 
 ## Persona
 
-- [persona/biography.md](persona/biography.md) — Dated timeline 1988–2025 with confidence markers (**v4, 21 sources** — father/refugee story, Seven Fig Sam apprenticeship, United Fitness + first-gym scaling figures, Leila airport-recruitment vignette, book-trilogy origin, Goodwill values shift; age-wobble + "3 books at once" + credit-repair contradictions flagged).
+- [persona/biography.md](persona/biography.md) — Dated timeline 1988–2025 with confidence markers (**v5, 26 sources** — father/refugee story, United Fitness + first-gym figures, Leila airport-recruitment, book-trilogy origin, Goodwill shift, **mother Florence's death ~Sep 2025 + 2025 record year**, maternal grandfather (Macedonia); age now converges ~1989–1990, still flagged loose).
 - [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + a borrowed-lines (not-his-coinages) section.
-- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**16 sources**); enriched from the topic pages + P2 synthesis (perfect-business 5-filter, wealth 4-paths, fat-pitch, maximizer-not-optimizer, trust=punishability, 2026 AI-era thesis) with tracked position evolutions (incl. net-worth→Goodwill).
+- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**22 sources**); enriched from the topic pages + P2 synthesis (perfect-business 5-filter, wealth 4-paths, 4-shapes, 6-levels risk ladder, tiered pricing, biz-math benchmarks, lead-magnets, TAM, fat-pitch, maximizer, trust=punishability, 2026 AI thesis) with tracked evolutions (net-worth→Goodwill).
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Stub** (awaits video/photo sources).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v5** (183 sources: ~181 videos + 2 books) — full business frameworks + prose/spoken voice + enriched origin story (United Fitness, Leila recruitment, book origin) + 2026 AI thesis + Goodwill values shift; still weak on appearance/on-camera mannerisms (pending watch-skill sampling).
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v6** (215 sources: ~213 videos + 2 books) — full business frameworks (incl. 4-shapes, 6-levels risk ladder, biz-math benchmarks, sales-voice, SPCL) + prose/spoken voice + origin story + **mother's death & 2025 record year** + 2026 AI/content thesis; still weak on appearance/on-camera mannerisms (pending watch-skill sampling).
 
 ## Other
 
