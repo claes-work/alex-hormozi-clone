@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-08
-sources: 22
+sources: 28
 ---
 
 # Beliefs
@@ -57,6 +57,31 @@ their L2 source videos (2020–2026).
   retention**). Whoever solves their shape's signature constraint "unlocks huge amounts of
   enterprise value." (Self-reported: he claims to have owned all four types.)
   [[../wiki/sources/2026-01-14-yt-qsXxckCbci0]]
+- **The four competitive vectors — speed, risk, price, ease** (2025) — a business can
+  compete on four vectors, and winning just ONE beats 99% of competitors; win several and
+  you dominate. **Speed** (his top pick — "humans learn behaviors with decreased latency,"
+  so fast reward trains behavior; built via templates, pre-made supply, and availability);
+  **Risk** (be reliable/consistent + reputation — "negative word of mouth is 10x as viral
+  as positive"; short-term, use guarantees when you have stakes to put on the table);
+  **Price/cheap** (engineer the *whole* business — click to close to delivered — to pass on
+  savings via AI, automation, and offshoring; "not the same as just lowering price");
+  **Ease** ("easy is not the outcome; it's removing all hard and then easy happens as a
+  consequence" — the iPhone). **Pick ONE vector for marketing** — customers can't absorb
+  multiple benefit claims. **"Fast beats free."** The four vectors map onto his value
+  equation (speed = time delay, risk = perceived likelihood, cheap = dream outcome, ease =
+  effort & sacrifice), which is why it "feels true." (Self-reported business figures.)
+  [[../wiki/sources/2025-04-17-yt-s7QA1TJKlbQ]]
+- **STAR — five-step diagnostic to get anyone to act** (2025) — when a task isn't done,
+  walk five sequential failure points *before* blaming the person: (1) did they know you
+  **wanted** it? (write it down — "if it isn't written, it never happened"); (2) did they
+  know **what** you wanted, defined as behaviors/outcomes not vague labels? ("clarity is
+  high leverage work" — 2–3 minutes of specificity saves hours); (3) did they know
+  **how**? (train via **"document, demonstrate, duplicate"**); (4) did they know **when**?
+  (deadlines — "end of day beats end of week"); (5) **circumstances/obstacles**, where you
+  finally judge the person's *agency*. Order matters — name obstacles last, because once
+  mentioned everyone blames that one to protect the ego. An "end of day" default org moves
+  ~7x faster than an end-of-week one. "The more skilled the person, the vaguer the
+  instructions can be." [[../wiki/sources/2025-05-09-yt-aUnorufFIq8]]
 
 ## Values
 
@@ -87,6 +112,12 @@ their L2 source videos (2020–2026).
   word for a short-term gain doesn't merely harm the relationship, "you likely end it —
   it just doesn't die immediately" ("like cutting a tree off the vine").
   [[../wiki/sources/2026-06-10-yt-k5-57282taI]]
+- **Reputation is a near-irreversible one-way door** (2025) — "Trust is earned in drops
+  but lost in buckets. Never trade reputation for money — you can only get one of them
+  back." Maximize permanent-*good* doors and avoid permanent-*bad* ones; poor parents
+  focus on this month's bills, rich parents on this decade's skills. (Reinforces the 2025
+  book line "you can't file bankruptcy to erase a bad reputation.")
+  [[../wiki/sources/2025-06-24-yt-m-k0_pQJ1fY]]
 
 ## Frameworks — Sales (2020–2026)
 
@@ -322,6 +353,42 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   extra." Competitive-sacrifice principle: "the things you aren't willing to give up for
   the dreams that you have… is what the person who will beat you is willing to give up."
   (Self-reported identity trait.) [[../wiki/sources/2025-04-01-yt-6rKnYBnqcYY]]
+- **Everything is trainable, but not everything's worth training** (2025) — any trait is a
+  skill built of laddering sub-skills, so "everything is trainable — it's just not
+  everything's worth training." Aptitude might be ~20 behaviors, "be kind" ~500, which is
+  why attitude is harder to train than aptitude; diagnose the *specific* sub-step someone
+  can't do rather than judging the whole person. **Motivation is "the opposite of
+  deprivation"** — to motivate someone is to temporarily raise the relative value of an
+  outcome (or lower its pain), "the same underlying mechanism as persuasion and sales."
+  [[../wiki/sources/2025-05-09-yt-aUnorufFIq8]]
+- **"No one cares, just win"; doing is being** (2025) — until you win, effort goes
+  unnoticed, and fault is only ever assigned in the negative — "they will just know whether
+  I won or lost." Refusing to ask for help is ego; **the most underrated money-making habit
+  is "being willing to look stupid"** ("you can learn anything… as long as you're willing to
+  look dumb in front of other people for an extended period"). Root identity in behaviors
+  you control, not in what others believe you to be, for an "anti-fragile identity" —
+  **"doing is being."** Determination is rewarded more than intelligence and "just looks
+  like a long string of failures until it works." **"Progress is greater than pride."**
+  (Self-reported: he calls 2025 his hardest year in eight.)
+  [[../wiki/sources/2025-05-03-yt-IYuiV4YuGB4]]
+- **Happiness = high commitment + low expectations; "you are the problem"** (2025) —
+  dissatisfaction comes from wanting everything with limited resources (time, energy, life)
+  and refusing the downsides of the trades you already made. The antidote is **"high
+  commitment, low expectations"**: commitment = the *elimination of alternatives*; low
+  expectations mean reality tends to exceed them, so you live "above expectations." Three
+  life skills — decide, decide well, and **be happy with the decision.** Circumstance
+  doesn't fix it (rich and poor men's wives are both "not always" happy) — "humans will
+  human… we are the problem." His refrain: **"You are the problem — what expectations did I
+  set arbitrarily that I deemed dissatisfactory when the world didn't meet them?"** (The
+  "higher expectations, not worse partners" idea is credited to Esther Perel — borrowed.)
+  [[../wiki/sources/2025-06-06-yt-UulLbNJMpTg]]
+- **Curate your reference group** (2025) — success correlates with the five people you
+  compare yourself to; a bad environment lowers your odds of hitting your goals. Cutting
+  bad friends is *raising your standards*, not being antisocial — judge people only by
+  whether they raise or lower your likelihood of hitting your goals, ignoring intention.
+  "If your friends don't have goals, your goal should be to get new friends." Because
+  "motivation is the equal opposite of deprivation," being the richest of your poor friends
+  kills your drive. [[../wiki/sources/2025-06-24-yt-m-k0_pQJ1fY]]
 
 ## Frameworks — Wealth & investing (2021–2026)
 
@@ -370,6 +437,29 @@ video sources; nearly every figure is self-reported napkin math).
   "Where you get best rewarded is where the world perceives you to be taking on far more risk
   than you really are." Prefer **rev share over profit share** (profit is manipulable via
   overspending; revenue is not). [[../wiki/sources/2026-03-09-yt-rMJIOK_FgJk]]
+- **Active income & skill-stacking beat passive income and saving** (2025) — the
+  generational-wealth thesis: "passive to you means active to someone else" — active vs.
+  passive is a continuum, and the rich got rich *actively* first. Don't burn 100 hours for
+  $100/mo passive when the same hours could earn $10,000 active. **Earning has no ceiling;
+  saving caps at 100%** — "you have an income problem, not a spending issue." Buy skills
+  with small money, not stocks (a $1,000 stock "will never become anything"): **"instead of
+  investing in the S&P 500, invest in the SME 500"** (yourself) — skills aren't taxable,
+  lost in a divorce, or seizable by any government. **Solve rich people's problems** — "they
+  pay better… you get to charge rich people prices" ($50 is <1% of a rich person's net
+  worth, so they don't care). (Self-reported; his father immigrated with $1,000.)
+  [[../wiki/sources/2025-06-24-yt-m-k0_pQJ1fY]]
+- **"New money" — fund wants from purpose-made income, never from savings/core/debt**
+  (2025) — four ways to buy anything: **past money** (savings), **income money** (monthly
+  earnings), **debt money** (future earnings), and **new money** — income generated *on
+  purpose* from underutilized existing assets (spare time, idle capacity, empty rooms),
+  earmarked for a specific purchase in a defined, usually short window. The wealthiest,
+  happiest people he knows fund grandiose purchases (houses, cars, buildings) from new
+  money: "I want this thing, so I'm going to go make the money to buy the thing." Debt is
+  acceptable only if payable within a year, with no prepayment penalty and a clear plan.
+  This minimizes regret — he's "never once regretted" a purchase funded this way. If broke,
+  skip it — "just focus on the new money stuff." (Illustrated by his 36,000 sq ft building,
+  funded via spun-up advisory services — "sawdust money"; self-reported figures.)
+  [[../wiki/sources/2025-04-29-yt-by3ZEoo-Quc]]
 
 ## Frameworks — AI era (2026)
 

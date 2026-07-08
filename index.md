@@ -30,8 +30,11 @@ Domain hubs (full page list lives on each hub):
   - [acquisition-channels](wiki/topics/business/acquisition-channels.md) — Big 4 vs 6 sources vs Core Four reconciled; Client Financed Acquisition, word-of-mouth as only exponential channel, Rule of 100, MAGIC naming.
   - [ai-in-business](wiki/topics/business/ai-in-business.md) — his current (2026) AI thesis: use AI as a tool, capture-don't-create, workflow-not-role, risk-is-the-last-paid-human-act, barbell strategy (time-sensitive).
   - [sales-communication](wiki/topics/business/sales-communication.md) — verbal delivery beneath CLOSER: 5 voice levers, breathing the script, chunk-up discovery, 7 universal closes.
+  - [negotiation](wiki/topics/business/negotiation.md) — 5 tactics (BATNA, anchoring, MESO, reciprocity, framing) via his ~$20M home purchase.
+  - [business-diagnostics](wiki/topics/business/business-diagnostics.md) — supply-vs-demand constraint, "what business are you really in", 4 competitive vectors, 4 shapes, growth-stage traps.
 - [wiki/topics/marketing/marketing.md](wiki/topics/marketing/marketing.md) — Content marketing, ads, branding, audience building.
   - [book-launch-affiliate-playbook](wiki/topics/marketing/book-launch-affiliate-playbook.md) — how a mass book launch runs on an affiliate army.
+  - [copywriting-hacks](wiki/topics/marketing/copywriting-hacks.md) — the 12+1 ad-copy hacks, 5 levels of awareness, scarcity vs urgency, damaging admissions, proof beats promise.
 - [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — Discipline, self-belief, decision-making, pain and identity.
   - [discipline-and-decision-making](wiki/topics/mindset/discipline-and-decision-making.md) — "12 by 30" work ethic, to-sacrifice list, radical ownership, irreversible decisions, confidence-from-proof, infinite game, money = condensed time.
   - [mental-toughness-and-learning](wiki/topics/mindset/mental-toughness-and-learning.md) — mental toughness 4-model (post mother's death), the "same condition, new behavior" learning method, passion vs proficiency vs pain-tolerance.
@@ -62,9 +65,9 @@ Domain hubs (full page list lives on each hub):
 
 - [persona/biography.md](persona/biography.md) — Dated timeline 1988–2025 with confidence markers (**v5, 26 sources** — father/refugee story, United Fitness + first-gym figures, Leila airport-recruitment, book-trilogy origin, Goodwill shift, **mother Florence's death ~Sep 2025 + 2025 record year**, maternal grandfather (Macedonia); age now converges ~1989–1990, still flagged loose).
 - [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + a borrowed-lines (not-his-coinages) section.
-- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**22 sources**); enriched from the topic pages + P2 synthesis (perfect-business 5-filter, wealth 4-paths, 4-shapes, 6-levels risk ladder, tiered pricing, biz-math benchmarks, lead-magnets, TAM, fat-pitch, maximizer, trust=punishability, 2026 AI thesis) with tracked evolutions (net-worth→Goodwill).
+- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**28 sources**); enriched from the topic pages + P2 synthesis (perfect-business 5-filter, wealth 4-paths, 4-shapes, 6-levels risk ladder, tiered pricing, biz-math benchmarks, lead-magnets, TAM, fat-pitch, maximizer, trust=punishability, 2026 AI thesis) with tracked evolutions (net-worth→Goodwill).
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Stub** (awaits video/photo sources).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v6** (215 sources: ~213 videos + 2 books) — full business frameworks (incl. 4-shapes, 6-levels risk ladder, biz-math benchmarks, sales-voice, SPCL) + prose/spoken voice + origin story + **mother's death & 2025 record year** + 2026 AI/content thesis; still weak on appearance/on-camera mannerisms (pending watch-skill sampling).
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v7** (255 sources: ~253 videos + 2 books) — full business frameworks (4-shapes, 6-levels, biz-math, sales-voice, SPCL, 4-vectors, business-diagnostics, negotiation, copywriting-hacks, STAR) + prose/spoken voice + origin story + mother's death & 2025 record year + 2026 AI/content thesis; still weak on appearance/on-camera mannerisms (pending watch-skill sampling).
 
 ## Other
 

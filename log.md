@@ -3,6 +3,22 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-09] lint | Synthesis pass 5 — beliefs 28src, 3 topics, system-prompt v7
+
+Loop iteration 25 (maintenance/synthesis). Cleared the large P2 L3-cand backlog via 4 parallel
+agents + recompile:
+- **3 new topic pages**: marketing/copywriting-hacks.md (12+1 hacks, 5 awareness levels, scarcity-
+  vs-urgency, damaging-admissions "but"-mechanic, proof-beats-promise), business/negotiation.md
+  (BATNA/anchoring/MESO/reciprocity/framing via the ~$20M home purchase), business/business-
+  diagnostics.md (supply-vs-demand constraint, "what business are you really in", 4 competitive
+  vectors ↔ value equation, 4 shapes, "the swamp"/cost-of-change). Wired into hubs + index. **29
+  topic pages now.**
+- **persona/beliefs.md** (22→28 sources): 4-vectors, STAR system, reputation-as-one-way-door,
+  everything-trainable, no-one-cares-just-win, happiness=commitment+low-expectations, curate-your-
+  reference-group, active-income>passive, "new money" spending rule.
+- **persona/system-prompt.md → v7** (compiled_from_sources 215→255).
+Next: resume @AlexHormozi P2 ingestion (382 left).
+
 ## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — 4-vectors, what-business-really-in
 
 Loop iteration 24. 8 @AlexHormozi solo P2 (2025-04). 3 L3-candidates: s7QA1TJKlbQ (★ the 4

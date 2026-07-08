@@ -38,4 +38,9 @@ Offers, leads, sales, scaling, money models, pricing, retention.
 - [[sales-communication|Sales Communication]] — the verbal-delivery/persuasion layer beneath CLOSER:
   the 5 voice levers (volume, speed, articulation, pauses, pitch), "breathing the script", the
   pulling-teeth → chunking-up discovery method, and the seven universal closes.
+- [[negotiation|Negotiation]] — his 5 tactics (BATNA, anchoring, MESO, reciprocity, framing),
+  worked through his ~$20M home purchase.
+- [[business-diagnostics|Business Diagnostics]] — diagnose before you fix: supply-vs-demand constraint,
+  "what business are you really in / the big-hairy-problem", the 4 competitive vectors (↔ value
+  equation), the 4 shapes of business, and growth-stage traps ("the swamp", cost-of-change).
 
