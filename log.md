@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — bio + entity finds
+
+Loop iteration 13. 8 @AlexHormozi P2 (2026-03→04). Two L3-candidates: Q8xXSMe8E4Q "Reacting to my
+first videos 10 yrs later" (★ NEW bio — early gym brand **"United Fitness"**, the free gym-launch/
+revenue-split service that "sprouted the entire new business" (3 gyms in 1 month), early content
+formats, ~6 pivots before product-market fit → biography + maybe a United-Fitness entity stub) and
+hHkdbr6_JJs "How Acquisition.com Makes Money" (★ full ACQ flywheel — media→conversion→advisory
+[L1≈$5K/L2≈$35K/L3≈$135K]→cash redeploy into ACQ RE/Ventures/PE; ACQ Network 2026; Skool as
+portfolio co ~$9/mo with equity+distributions → acquisition-com entity page). Also an **AI-2026
+cluster** (9q5ojtkqsBs win-with-AI, fr78adfAnuA use-AI, + earlier XsWSvz-aewA AI-content) with heavy
+mutual overlap → consolidate into one AI topic page at synthesis. Rest L2 coaching (ecom seminar,
+edu-4, stranger-$1M railing store [dup], progress/cringe). Ledger: L2=181. Next: continue @AlexHormozi
+P2 (454 left).
+
 ## [2026-07-08] ingest | Stage B: 8 @AlexHormozi P2 (L2) — P2 tier begins, 4 L3-cands
 
 Loop iteration 12. First P2 batch — 8 @AlexHormozi solo videos (2026-04→06), the highest-value P2
