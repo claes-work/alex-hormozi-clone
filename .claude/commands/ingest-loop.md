@@ -56,8 +56,13 @@ Log (`ingest` entry), commit (`ledger: enumerate <handle>`), push. Stop.
 
 ## Stage B — Ingest batch (the normal case)
 
+0. **One-time catch-up**: if any @AlexHormozi long-form row still has `published=NA`
+   (it was enumerated before backfill_metadata.py existed), run
+   `python tools/backfill_metadata.py --channel @AlexHormozi --top 50` first, commit
+   (`ledger: backfill @AlexHormozi metadata`), then proceed. Skip once dates are present.
 1. Select the next batch of OPEN long-form rows: priority ASC, then oldest published
-   first within P1 (his origin-era content seeds the persona best).
+   first within P1 (his origin-era content seeds the persona best). If `published` is
+   still NA (backfill rate-limited), fall back to ledger order — don't block.
 2. For each video:
    a. `tools/fetch_captions.ps1 -VideoUrl <url> -Channel <handle>` then
       `python tools/vtt_to_text.py <vtt>`. Prefer manual captions over auto.
