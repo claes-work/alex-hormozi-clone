@@ -3,6 +3,22 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — paid-ads masterclass + offer/brand (L2=301)
+
+Loop iteration 32. 8 @AlexHormozi P2 (2024-07). 5 L3-candidates: fSbqaTlWaYI "learn paid ads in 30
+min" (★ distinct paid-ads framework — creative scaling [80% reskin proven winners, splice winning
+3-sec hooks, 70/20/10 budget], pain-led hooks, Meta lookalikes, spend-more-when-ROAS-healthy →
+warrants its own marketing topic page, parallel to email-marketing), F84olnKkseM (★ the 4 "rock-and-
+a-hard-place" problems: ideal-customer / broken-unit-economics / overexpansion / focus), 5MjjpB8SPMo
+(★ offer/pricing — WTP buckets, one-bonus-worth-the-price, price-to-worst-month, qualify-in-the-ad),
+6m6DCQMASEM (★ 10-millionaires Q&A — raise price, sell-goal-not-program, model-before-hiring, self-
+financing hires), UGEc9-7X3OQ (★ brand-easy — brand=association [influence/direction/reach], give-
+content/ask-ads, ~350 pieces/week). L2: JE2_7elAcxM "sell better (4-hr guide)" is a sibling
+compilation of the Ultimate Sales Training (distinct bits: 6-C team-scaling system, 21 beliefs,
+decision/power objection philosophy — flagged for a future sales-team-scaling topic); kloJJeiysxg
+(multi-speaker, dup business-diagnostics); rich-in-20s dup. Ledger: L2=301. Distinct topic-worthy
+backlog now: paid-ads, sales-team-scaling, retention, articulation. Next: continue @AlexHormozi P2 (334 left).
+
 ## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — retention, articulation, top-1% valuation
 
 Loop iteration 31. 8 @AlexHormozi P2 (2024-08→09). 5 L3-candidates: afbP6sB_Atc (★ retention case

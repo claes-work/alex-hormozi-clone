@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-06 | [[2023-12-06-yt-Tu6YDG0AZ5k]] | The Game Ep 012 — billion-dollar-decision reasoning | |
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
+| 2024-07-15 | [[2024-07-15-yt-F84olnKkseM]] | Business was hard until these 4 concepts — ideal customer, unit economics, overexpansion, focus | ★ |
+| 2024-07-17 | [[2024-07-17-yt-5MjjpB8SPMo]] | Genius strategy to make everyone buy — WTP buckets, one-bonus-worth-price, price-to-worst-month | ★ |
+| 2024-07-20 | [[2024-07-20-yt-fSbqaTlWaYI]] | Learn paid ads in 30 min — creative scaling (80% reskin winners, 70/20/10), pain-led hooks | ★ |
+| 2024-07-23 | [[2024-07-23-yt-6m6DCQMASEM]] | 10 millionaires asked how to get richer — raise price, sell the goal, model-before-hiring | ★ |
+| 2024-07-26 | [[2024-07-26-yt-aFoMYz_jWcs]] | How to actually get rich in your 20s — energy-for-skill-reps, reference group (dup) | |
+| 2024-07-29 | [[2024-07-29-yt-UGEc9-7X3OQ]] | Building a brand on easy mode — brand = association, give-content/ask-ads, ~350 pieces/week | ★ |
+| 2024-07-30 | [[2024-07-30-yt-kloJJeiysxg]] | 4 steps to unf*** your business — traffic/conversion/price/churn + more→better→new→who (multi-speaker) | |
+| 2024-07-31 | [[2024-07-31-yt-JE2_7elAcxM]] | Sell better than 99% (4-hr guide) — sibling of the sales course; distinct: 6-C team scaling, 21 beliefs | |
 | 2024-08-06 | [[2024-08-06-yt-fD-sxKiB30M]] | How the top 1% make money — multiple × EBITDA, the 6 multiple levers | ★ |
 | 2024-08-09 | [[2024-08-09-yt-oRMG_HpOAN4]] | 13 years of business advice in 79 min — 20-lesson compilation (re-cut) | |
 | 2024-08-20 | [[2024-08-20-yt-lEIqyLE4iOY]] | More followers won't make you rich — proof-led content, Twitter home-base repurposing engine | ★ |
@@ -323,7 +331,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_293 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_301 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
