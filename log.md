@@ -3,6 +3,16 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 4 final @TheSkoolSchool P1 (L2) — channel P1 complete
+
+Loop iteration 7. Last 4 @TheSkoolSchool P1: dY1Mp1LVO0o (★ starting-from-zero — 12mo horizon,
+give-free/monetize-next, rule of 300), nO-CUYy-ry4 (★ beginner monetization — "obscurity is the
+enemy" + Skool community playbook), G39PB9jJ6so (lonely-at-top, host Chris Williamson; NEW bio:
+writing scholarship, newspaper VP, creative-writing-magazine editor — for biography), 18W9sI1uPx8
+(★ Musk 5-step time algorithm, overlaps pWPvVFjXKRs). **@TheSkoolSchool P1 fully done** (all Alex
+content). Ledger: L2=133. Next: build wiki/topics/content-strategy/community-building.md from the
+accumulated Skool material (high-value for the user), then @MoreMozi P1 → @GymLaunch triage → P2 → shorts.
+
 ## [2026-07-08] ingest | Stage B: 8 @TheSkoolSchool P1 (L2) — Skool reclassified HIGH-VALUE
 
 Loop iteration 6. **User directive mid-batch: Skool/paid-community content is HIGH-VALUE (they

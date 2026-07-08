@@ -155,6 +155,10 @@ attributed out. (yt-7P9O0wpPnMc 2025-01-01 has no captions → L1.)
 | 2025-04-01 | [[2025-04-01-yt-6rKnYBnqcYY]] | Maximizer vs. optimizer identity; bio: Leila frozen-yogurt first date | ★ |
 | 2025-04-04 | [[2025-04-04-yt-K0ZBQvSkqS8]] | Unlock potential — 3-step model, Rule of 100, resilience-as-return-time | ★ |
 | 2025-04-12 | [[2025-04-12-yt-52CKJDJe7H8]] | 5-step framework to pick + launch a first business | ★ |
+| 2025-04-18 | [[2025-04-18-yt-dY1Mp1LVO0o]] | Starting from zero — 12-month horizon, give-free/monetize-next, "do epic shit" | ★ |
+| 2025-04-27 | [[2025-04-27-yt-nO-CUYy-ry4]] | Beginner monetization — "obscurity is the enemy", unscalable-free → reciprocity → upsell | ★ |
+| 2025-05-09 | [[2025-05-09-yt-G39PB9jJ6so]] | Lonely at the top — hate as a leading indicator (host Chris Williamson); NEW bio: writing scholarship/newspaper-VP | |
+| 2025-05-14 | [[2025-05-14-yt-18W9sI1uPx8]] | Use your time — Musk's 5-step algorithm (overlaps the productivity cluster) | ★ |
 
 ## @GymLaunch
 
@@ -172,7 +176,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-08-16 | [[2022-08-16-yt-phyR1Fq6_Ho]] | **Alex solo** — Client Finance Acquisition (no marketing budget) | |
 | 2022-08-18 | [[2022-08-18-yt-hmN2WbLlvxs]] | ⚠️ no Alex — Kale (Legion Scrambler ad system) | |
 
-_129 videos ingested (L2). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_133 videos ingested (L2). @TheSkoolSchool P1 complete. The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
