@@ -3,6 +3,21 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-09] lint | Synthesis pass 7 — beliefs 34src, +4 topics, system-prompt v9
+
+Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog via 5 parallel agents
++ recompile:
+- **4 new topic pages**: marketing/paid-ads.md (creative reskin-winners, 70/20/10 budget, ROAS-gated
+  scaling), business/competitive-moats.md (the 13 legal moats, demand/supply/structural), business/
+  retention.md (revenue-retention, leaky bucket, onboarding, tenure thresholds — consolidates the
+  retention case study + Skool playbook), business/communication-and-management.md (articulation:
+  debundle terms into behaviors + the Management Diamond). Wired into hubs + index. **35 topic pages now.**
+- **persona/beliefs.md** (28→34 sources): LTV:CAC = fundamental economic unit, output=volume×leverage
+  + buy-back-time, focus-as-superpower (ignorance debt), competitive-moats/monopoly, education=income-
+  vs-asset, "sell the goal not the program".
+- **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
+Next: resume @AlexHormozi P2 ingestion (326 left).
+
 ## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — LTGP:CAC + 13 moats + focus (L2=309)
 
 Loop iteration 33. 8 @AlexHormozi P2 (2024-06→07). 6 L3-candidates, two flagship: jzKpAtzKQ54 "the

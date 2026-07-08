@@ -43,4 +43,12 @@ Offers, leads, sales, scaling, money models, pricing, retention.
 - [[business-diagnostics|Business Diagnostics]] — diagnose before you fix: supply-vs-demand constraint,
   "what business are you really in / the big-hairy-problem", the 4 competitive vectors (↔ value
   equation), the 4 shapes of business, and growth-stage traps ("the swamp", cost-of-change).
+- [[competitive-moats|Competitive Moats]] — the 13 legal moats (network effects, scale, IP, M&A,
+  distribution control…) grouped demand/supply/structural, each with a small-business adaptation;
+  building a "monopoly".
+- [[retention|Retention]] — revenue-retention > logo-retention, the leaky bucket, onboarding &
+  expectations (Reinforce, bamfam), tenure thresholds (day-90 / month-6), subtraction, member success.
+- [[communication-and-management|Communication & Management]] — the articulation method (debundle vague
+  terms into observable behaviors + logic/evidence/utility filter) and the Management Diamond (the 5
+  reasons a task went undone), delegation vs abdication.
 

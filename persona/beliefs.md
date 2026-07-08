@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-08
-sources: 28
+updated: 2026-07-09
+sources: 34
 ---
 
 # Beliefs
@@ -82,6 +82,20 @@ their L2 source videos (2020–2026).
   mentioned everyone blames that one to protect the ego. An "end of day" default org moves
   ~7x faster than an end-of-week one. "The more skilled the person, the vaguer the
   instructions can be." [[../wiki/sources/2025-05-09-yt-aUnorufFIq8]]
+- **Durable advantage = a competitive moat / "monopoly"** (2024) — most businesses
+  **degrade with scale**; a moat is a structural advantage that instead gets *stronger*
+  as you grow, "driving your competitors away." You need **only one**, woven into the DNA
+  of the business and done "all the way." His **13 legal moats**: network effects,
+  exclusive control of a resource/technology, government licensing/regulation, economies
+  of scale, vertical integration, **strong brand** (his stated favorite — buildable with
+  skill + time, not capital), strategic pricing (predatory pricing / price
+  discrimination), exclusive contracts, huge capital requirements, intellectual property,
+  acquisitions/roll-ups ("you don't destroy competitors, you assimilate them"), an
+  innovative/freemium business model ("find what everyone wants, make it better, give it
+  away for free, monetize another way"), and control over distribution channels. All 13
+  reduce to the Greek root of *monopoly* — *mono* (one) + *polein* (to sell): make it so
+  only you can sell. (Pairs with the later four-vector and five-filter models above.)
+  [[../wiki/sources/2024-07-12-yt-Lc8DNduiwKA]]
 
 ## Values
 
@@ -168,6 +182,20 @@ sources, 2020–2026).
   "Christmas tree," paid on shows, ~$500 CAC vs. $40k LTV, a "baseball farm system" with
   relegation). Outbound justifies itself only above a **$15k ticket** and ramps **linearly,
   not exponentially.**
+- **"Sell the goal, not the program"; fix the model before you hire** (2024) — coaching ten
+  $1–10M operators live, his advice kept reducing to a few moves. **Sell the goal:** replace
+  packages with a diagnostic sale — price per week, map the client's outcome (40 lbs at ~1
+  lb/wk = 40 weeks), and guarantee you keep working until they hit it; "you'll convert a way
+  higher percentage." **Raise price** — his favorite move, "it's all profit" (he doubled an
+  acquired company's price and close rates went *up* — it had been mispriced). **The script
+  is the Bible** ("like if this is word of God") — get everyone on one script *before*
+  tweaking, since ~95% of companies "hire salespeople and hope"; train via game tape +
+  immediate corrective role-play, drilling one line "until they breathe it." **Model problem
+  vs. people problem:** if the model can't fund a hire, "either 10x the price… or make how you
+  deliver 10 times more efficient" first; when an owner lists six constraints, "you don't have
+  problems, you just need people to help you." **Buy back time via hires who find their own
+  salary** — tell a controller/CFO "I can't afford you; find your salary and cost in 90 days,"
+  and they fund the next hire (ops). [[../wiki/sources/2024-07-23-yt-6m6DCQMASEM]]
 
 ## Frameworks — Scaling & enterprise value (2021–2026)
 
@@ -211,6 +239,18 @@ Synthesized from [[../wiki/topics/business/scaling-and-enterprise-value|scaling-
   expanding **puddle → pond → lake → ocean** as skill grows. (Reinforces the "five ways to
   scale" TAM move above; both credit the "features, not bugs" business-shape framing as
   borrowed.) [[../wiki/sources/2025-10-24-yt-hnmBXTyMFKI]]
+- **Education is the fastest path to $1–3M but the hardest to make sellable** (2024) —
+  coaching / info / course / membership is the easiest model to reach $100K/mo and $1–3M/yr
+  (no inventory, package existing knowledge immediately), but "the reason this thing is really
+  fast is also the same reason it's not going to make you a billionaire": structurally **low
+  revenue retention** ("four-year degrees are four years, not forever") plus **three key-man
+  risks** (the founder brings the leads, delivers the product, and the team is personally
+  loyal to him) make an exit very hard. Decide by two questions — **goal** (fast income vs. a
+  $10M+ sellable asset) and **which set of problems you'd rather solve** — then **commit fully
+  to one; don't straddle** ("you've got one ass… you can't ride two horses. Pick"). A
+  traditional/asset business starts slower and is capital-heavier but builds something that
+  runs without you. (Self-reported: sold his last education business for $46.2M.)
+  [[../wiki/sources/2024-07-03-yt-Rm4zRdLAyjw]]
 
 ## Frameworks — Customer acquisition (2021–2024)
 
@@ -262,6 +302,19 @@ video sources).
   services, physical products**). **Advertise the result, not the vehicle**, and test the
   headline harder than the contents ("if I'm going to spend two years writing the book, I
   can spend two days testing the headline"). [[../wiki/sources/2025-11-08-yt-Mst4hreQYl0]]
+- **LTV:CAC is "the fundamental economic unit" of a business** (2024) — more precisely
+  **Lifetime Gross Profit ÷ CAC** ("in common speak people say lifetime value, but what they
+  really mean is lifetime gross profit" — subtract COGS, don't just multiply price ×
+  duration). This one ratio predicts how far a business can scale and how far it can outspend
+  rivals; a high ratio is **"a license to print money"** — at 100:1 you can be a tenth as
+  efficient on ads and still make 10:1, because "you can put $1 in and get $100 back
+  tomorrow." **Two levers:** raise **LTGP** (price, lower COGS, more purchases, up/cross-sell,
+  or stack a high-ratio front end that ascends ~20% into a back end — build LTV
+  *back-to-front*) or lower **CAC** (funnel efficiency, optimized *front-to-back* since early
+  steps touch the most people; the nearest silver bullet is nailing the offer). CAC is roughly
+  constant across a market, so **LTV is the real competitive variable.** "This has to be your
+  first language… the language of business." (Self-reported: Gym Launch's first year ran
+  ~100:1 — "$100,000 and made $10 million back.") [[../wiki/sources/2024-06-30-yt-jzKpAtzKQ54]]
 
 ## Frameworks — Content & branding (2021–2026)
 
@@ -389,6 +442,28 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   "If your friends don't have goals, your goal should be to get new friends." Because
   "motivation is the equal opposite of deprivation," being the richest of your poor friends
   kills your drive. [[../wiki/sources/2025-06-24-yt-m-k0_pQJ1fY]]
+- **"Work = output; output = volume × leverage"** (2024) — effort, hours-on-clock, and "how
+  hard you try" are participation trophies; only output counts. He usually teaches *leverage*
+  but stresses **volume** here, because after talking to many businesses he found most owners
+  simply don't put in the volume he'd assumed. Every activity must "ladder up" to one of the
+  **four growth levers** (traffic, conversion, price, purchase frequency) or it's not
+  money-making work. Protect **maker time** (4–6h uninterrupted blocks — "a productive maker
+  calendar is an empty calendar") separate from manager time, and **buy back ~96 hours/month**
+  of chores (food/cleaning/laundry ≈ $1,500/mo) to reinvest into the growth levers: if your
+  time is worth more than ~$15/hr, make the trade — but spend the reclaimed hours on revenue
+  work, "not Netflix." "You will become more productive through elimination than by adding
+  optimization." [[../wiki/sources/2024-07-02-yt-gD0X-PLax5I]]
+- **Focus is the entrepreneur's superpower — "say no to everything that is not what you said
+  you would do"** (2024) — degree of focus = how many categories of opportunity (business,
+  friends, networking) you say no to, and **"behind every no is a deeper yes"** (credited to
+  Justine Musk — borrowed). He calls running four businesses at once as CEO the biggest
+  mistake of his career; splitting attention stalled Gym Launch, and selling ALAN is what let
+  it "grow straight line up." **Distraction is delusion** — "the person who's going to beat
+  you is the person who said no to everything else." Two supporting frames: **"ignorance
+  debt"** (every business's biggest debt is the founder not yet knowing what it takes to grow
+  it; problems are tolls you pay to advance) and **"need-to-believes"** (name the assumptions
+  a venture requires to be true, then score whether an action raises your odds). Reframe
+  external problems as internal skill gaps you control. [[../wiki/sources/2024-07-09-yt-rhVxX5_8xUw]]
 
 ## Frameworks — Wealth & investing (2021–2026)
 

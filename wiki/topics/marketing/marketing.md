@@ -19,4 +19,6 @@ Content marketing, ads, branding, audience building.
 - [[email-marketing|Email Marketing]] — his email system: guaranteed-delivery content, list building
   & opt-ins, deliverability, the 5-part reward-loop template, cadence & segmentation ("Mozi Money
   Minute").
+- [[paid-ads|Paid Ads]] — his paid-ads playbook: creative scaling (80% reskin proven winners, 3-second
+  hook splicing), the 70/20/10 budget split, Meta lookalikes, ROAS-gated scaling.
 
