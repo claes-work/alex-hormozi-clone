@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-06 | [[2023-12-06-yt-Tu6YDG0AZ5k]] | The Game Ep 012 — billion-dollar-decision reasoning | |
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
+| 2025-11-12 | [[2025-11-12-yt-sGakuNs9mT4]] | Speak so well people give you money — 5 voice levers, "breathing the script", chunk-up discovery | ★ |
+| 2025-11-17 | [[2025-11-17-yt-XGm2ERU9qtA]] | 15 brutal truths (title says "at 36") — suffering as fixed cost, pick a goal worth it | |
+| 2025-11-21 | [[2025-11-21-yt-SE9_1PYsaP0]] | Build a mind so strong — mental-toughness 4-model; **bio: his mother's death** | ★ |
+| 2025-11-30 | [[2025-11-30-yt-spXH1kJ6q-Q]] | Get ahead in 2026 — frameworks hub (SPCL, management diamond, scale-zero, deprivation pricing) | ★ |
+| 2025-12-06 | [[2025-12-06-yt-uWdIgftpvBI]] | If I started a business in 2026 — expensive-to-few / cheap-to-many, high-ticket bootstrapping | |
+| 2025-12-12 | [[2025-12-12-yt-UDBkiBnMrHs]] | Ambitious but inconsistent — passion vs proficiency vs pain-tolerance; "nostalgia = memory − pain" | ★ |
+| 2025-12-18 | [[2025-12-18-yt-q9qBqnhdWKw]] | How to outlearn everyone — "same condition, new behavior", model the top 1%, ignore the black box | ★ |
+| 2025-12-21 | [[2025-12-21-yt-YONIUpk-kAs]] | 26 harsh lessons of 2025 — year-end synthesis; **bio: mother's death**; $250M/$106M year | ★ |
 | 2025-12-31 | [[2025-12-31-yt-vhOV_Od0A3M]] | Best year 2026 — poverty-mindset + 18 early-success lessons (re-cut compilation) | |
 | 2026-01-02 | [[2026-01-02-yt-u3H7CfpfwHQ]] | Guinness world record in 24h — Money Models launch doc (book split-in-3, beat "Spare") | |
 | 2026-01-09 | [[2026-01-09-yt-A_tx40lNpf8]] | The mathematics of business — 12 benchmark rules (LTV:CAC 3/6/9/12, 60s response, 30d payback) | ★ |
@@ -227,7 +235,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_197 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,334, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_205 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,326, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700). ⚠️ Biography gap: his mother's death (late 2025) surfaced in two Nov–Dec 2025 videos — pending biography synthesis._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

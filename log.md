@@ -3,6 +3,23 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — 6 L3-cands + mother's-death bio
+
+Loop iteration 17. 8 @AlexHormozi solo P2 (2025-11→12). 6 L3-candidates: sGakuNs9mT4 (★ L3
+speaking-for-sales — 5 voice levers [volume/speed 135-185wpm/articulation + pauses/pitch],
+"breathing the script", pulling-teeth→chunking-up discovery — builds on CLOSER), spXH1kJ6q-Q
+(★ frameworks hub — SPCL, management diamond, scale-zero, point-of-greatest-deprivation,
+declarative-vs-procedural selling), YONIUpk-kAs (★ L3 year-end 26-lessons synthesis), q9qBqnhdWKw
+(★ learning method — "same condition, new behavior", model top 1%, ignore the black box),
+UDBkiBnMrHs (★ passion-vs-proficiency-vs-pain-tolerance), SE9_1PYsaP0 (★ mental-toughness 4-model).
+**⚠️ NEW BIOGRAPHY EVENT: Alex's mother died (late 2025)** — referenced in SE9_1PYsaP0 (framework
+written in its wake, eulogy) and YONIUpk-kAs; needs a dated biography.md entry at next synthesis.
+Fidelity catch: XGm2ERU9qtA's "36" is title-only (he says "14 years in business", not his age).
+uWdIgftpvBI = L2 dup. Ledger: L2=205. The accumulating L3-cands (voice/sales-tone, learning
+method, mental toughness, SPCL, risk-ladder, 4-shapes, biz-math, sell-to-rich, retention) now
+justify a **second synthesis pass soon** (new topic pages + biography mother's-death + system-prompt
+v6). Next: continue @AlexHormozi P2 (430 left).
+
 ## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — masterclass + biz-math + Guinness
 
 Loop iteration 16. 8 @AlexHormozi solo P2 (2025-12→2026-02). 3 L3-candidates: qsXxckCbci0
