@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — social-media-2026, lead-magnet
+
+Loop iteration 18. 8 @AlexHormozi solo P2 (2025-10→11). 4 L3-candidates: dMZ-n2KSlxE (★ "my actual
+social media strategy 2026" — SPCL framework, social→interest media / content-is-the-targeting,
+live/interactive bet — his stated current playbook), Mst4hreQYl0 (★ lead-magnet framework: 3 types,
+4 delivery mechanisms, naming, CTA), hnmBXTyMFKI (★ TAM/"my-market-is-saturated" debunk, puddle→
+pond→lake→ocean, 5 directions to move a market), Avp3xh3Y1Ic (★ mental-toughness 4-model — and it
+**dates the mother's death ~2025-09-26**; same framework as SE9_1PYsaP0). Rest L2 (consistency/
+infinite-game, 20s-30s "more", runs-itself delegation, stranger-1M trash-hauler dup). Ledger: L2=213.
+Mother's death now corroborated across 3 videos (Avp3xh3Y1Ic, SE9_1PYsaP0, YONIUpk-kAs) w/ date.
+**Next iteration = synthesis pass 4**: biography (mother's death, age-36 datapoints) + new topic
+pages from accumulated L3-cands (sales-tone/communication, lead-magnets, mental-toughness, learning
+method, 6-levels risk ladder, 4-shapes, SPCL/audience-2026) + beliefs + system-prompt v6.
+
 ## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — 6 L3-cands + mother's-death bio
 
 Loop iteration 17. 8 @AlexHormozi solo P2 (2025-11→12). 6 L3-candidates: sGakuNs9mT4 (★ L3
