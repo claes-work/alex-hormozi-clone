@@ -3,6 +3,21 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — 7 L3-cands, framework-dense
+
+Loop iteration 15. 8 @AlexHormozi solo P2 (2026-02→03) — an exceptionally rich batch, 7 of 8 are
+L3-candidates: rMJIOK_FgJk "6 levels of making money" (★ risk-ladder framework), Jmkq5RLjm0U "grow
+an audience 2026" (★ L3 — SPCL Status/Power/Credibility/Likeness, 4 ways to monetize, 6 content
+shifts), ZuJryiwxjDw "why you aren't making money" (★ sell-to-the-rich, tiered 5-10x pricing,
+close-rate as pricing signal), jfW6gL6hKhk "first $100K" (★ 4-4-4, maker/manager, 10k iterations —
+dedup vs EonibwnAEME), -j8_YCWZ05Q "customers stay forever" (★ Skool retention playbook — aligns
+w/ Skool high-value note), jqo0lVveh98 "service business" (★ drop-low-or-go-high agency model),
+_KlZoPxbStk "36 years" (★ bio: states **age 36** as of 2026-02; "$42M distributions before $46M
+exit at 31"; grandfather Macedonia/Nazi-flight; purpose "helping men provide"; passion=suffering
+reframe → feeds biography + age contradiction). MH-IMJxbUY4 stranger-$12M = L2 dup. Ledger: L2=189.
+These L3-cands (6-levels, SPCL, sell-to-rich, retention, first-100K) queue for the NEXT synthesis
+pass (new pricing/risk + audience-growth topic material). Next: continue @AlexHormozi P2 (446 left).
+
 ## [2026-07-08] lint | Synthesis pass 3 — biography v4, beliefs 16src, 2 topics, system-prompt v5
 
 Loop iteration 14 (maintenance/synthesis). Consolidated the accumulated P1+P2 gains via 5 parallel
