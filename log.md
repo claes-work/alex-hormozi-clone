@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 5: 8 @ACQofficial P1 videos (L2)
+
+First non-@AlexHormozi ingest batch — 8 P1 @ACQofficial videos via source-only subagents.
+6 are Alex-led interviews/clips (interviewer/host lines attributed out): lXRqOG2yn6E
+★L3-cand (origin story — "Seven Fig Sam" mentor, first gym at 22; new bio), nlEUcZoBBmY
+★L3-cand (give-first/IOU networking), aNyuMP4jCWY (wealthy #1 lesson), E11Rbm0vAYo,
+oUWv5LZ24gQ, YtbHaogHlpY (broke-to-rich). ⚠️ Two 2025 videos contain **no Alex speech**
+(ZklXJzHzW2U Operator Pod = Leila+operator; EuMu6LaxBSk $106M debrief = Leila+exec) —
+attribution guard worked: agents wrote minimal pages with empty quote banks, flagged
+no-Alex; ledger notes mark them non-persona (EuMu keeps launch/bio facts: $106M/72h GWR,
+Alex's 90-day pre-launch practice). Ledger: L2=32; 17 L3-candidates. Sub-index gained an
+@ACQofficial section. Next: remaining @ACQofficial/@GymLaunch/@MoreMozi P1.
+
 ## [2026-07-08] lint | Synthesis pass 1: biography v2 + system-prompt v2
 
 Milestone: all P1 @AlexHormozi landmark videos ingested (0 open P1 on the main channel;

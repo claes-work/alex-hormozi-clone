@@ -38,4 +38,18 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
 
-_24 videos ingested (L2). 15 flagged L3-candidate for the next synthesis pass._
+## @ACQofficial
+
+| Date | Page | Topic | ★ |
+|---|---|---|---|
+| 2024-04-07 | [[2024-04-07-yt-aNyuMP4jCWY]] | #1 lesson from the wealthy — proximity, arbitrage-stacking | |
+| 2024-04-09 | [[2024-04-09-yt-lXRqOG2yn6E]] | "Shocking truth of his first business" — origin, Seven Fig Sam mentor, first gym at 22 | ★ |
+| 2024-04-13 | [[2024-04-13-yt-nlEUcZoBBmY]] | Give-first / IOU networking framework | ★ |
+| 2024-04-16 | [[2024-04-16-yt-E11Rbm0vAYo]] | Opportunity-vehicle: reach goals 10x faster (clip) | |
+| 2024-04-21 | [[2024-04-21-yt-oUWv5LZ24gQ]] | How Acquisition.com builds companies — theory of constraints (clip) | |
+| 2024-04-22 | [[2024-04-22-yt-YtbHaogHlpY]] | Broke-to-rich staged blueprint | |
+| 2025-07-21 | [[2025-07-21-yt-ZklXJzHzW2U]] | Operator Pod Ep.1 — ⚠️ **no Alex** (Leila + operator), not persona data | |
+| 2025-09-13 | [[2025-09-13-yt-EuMu6LaxBSk]] | $106M/72h launch debrief — ⚠️ **no Alex** (Leila + exec); useful launch/bio facts | |
+
+_32 videos ingested (L2). 17 flagged L3-candidate for the next synthesis pass. 2 videos
+(@ACQofficial 2025) contain no Alex speech — kept as record/bio-fact citations only._
