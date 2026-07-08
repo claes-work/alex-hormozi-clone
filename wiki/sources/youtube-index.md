@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-06 | [[2023-12-06-yt-Tu6YDG0AZ5k]] | The Game Ep 012 — billion-dollar-decision reasoning | |
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
+| 2024-11-20 | [[2024-11-20-yt-rn5-yLUaNw0]] | ⚠️ Skool comedic ad (Old Spice parody) — positioning only, not a teaching video | |
+| 2024-11-27 | [[2024-11-27-yt-oDK4g5na4Jw]] | No BS advice to get rich like the 1% — 4 pairings, 100x volume (dup of cnbHgYYHzyE) | |
+| 2024-12-03 | [[2024-12-03-yt-ovL6Z5z0jxQ]] | 3 fastest ways to grow any business — arbitrage, giveaways, pricing (+ monetize your list) | ★ |
+| 2024-12-04 | [[2024-12-04-yt-QTZsh3BgOwY]] | You're wasting your chance — the "six horsemen" + a 5%→30% profit turnaround case | ★ |
+| 2024-12-05 | [[2024-12-05-yt-k-3PoOT4vOM]] | Make money so fast it feels illegal — value equation, client-financed acquisition, "wealth alchemy" | ★ |
+| 2024-12-10 | [[2024-12-10-yt-wtsX7WHQMFM]] | How the top 1% actually make money — 3-layer model (Build/Sell/Lead × Risk) | ★ |
+| 2024-12-11 | [[2024-12-11-yt-4Yz8ggEv0NU]] | So rich money has no meaning — brand/inputs/lead-getters; bio: 27→$1M, 29→$20M, 35 at recording | ★ |
+| 2024-12-14 | [[2024-12-14-yt-ymFWgFiKUvM]] | If you have <$10K saved — the 6-step broke-to-wealthy ladder; "wealth is a decision" | |
 | 2024-12-16 | [[2024-12-16-yt-FMzKk73iUhw]] | Get customers so fast it feels illegal — 11 acquisition levers (free value, peel-a-corner affiliates) | ★ |
 | 2024-12-19 | [[2024-12-19-yt-cnbHgYYHzyE]] | No BS advice to get rich — 2024 year-review: six horsemen of stagnation, SCALE, "kind not nice" | ★ |
 | 2024-12-22 | [[2024-12-22-yt-thDTmy7VGIw]] | Make your business unstoppable — sell up-market vs structural churn, ask-don't-tell | ★ |
@@ -299,7 +307,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_269 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,310, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_277 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,310, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — wealth cluster + six-horsemen
+
+Loop iteration 28. 8 @AlexHormozi solo P2 (2024-11→12, a wealth-heavy cluster). 5 L3-candidates:
+QTZsh3BgOwY (★ the "six horsemen" of business problems — too-many-avatars/underpricing/over-
+extension "woman in the red dress"/no-"who"/no-data + a 5%→30% profit turnaround case), k-3PoOT4vOM
+(★ value equation + client-financed-acquisition + "wealth alchemy" EV/tax arbitrage), wtsX7WHQMFM
+(★ top-1% 3-layer model: global / individual Build-Sell-Lead×Risk / environmental), 4Yz8ggEv0NU
+(★ brand/inputs/lead-getters + rich bio: 27→$1M, 29→$20M+, **35 at Dec 2024** → born ~1989, United
+Fitness/Huntington Beach, $46.2M sale), ovL6Z5z0jxQ (★ 3 fastest ways: arbitrage/giveaways/pricing).
+⚠️ rn5-yLUaNw0 "best business 2026 = Skool community" is a ~37-sec COMEDIC AD (Old Spice parody),
+NOT a teaching video — flagged, thin substance. Rest L2 (no-BS-1% dup of cnbHgYYHzyE, 6-step
+broke-to-wealthy ladder). Age-35-at-Dec-2024 corroborates the ~1989 birth convergence. Ledger:
+L2=277. Next: continue @AlexHormozi P2 (358 left).
+
 ## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — LANDMARK full sales course + 5 L3-cands
 
 Loop iteration 27. 8 @AlexHormozi solo P2 (2024-12→2025-01). 5 L3-candidates incl. a landmark:
