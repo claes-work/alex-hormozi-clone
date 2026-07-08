@@ -18,6 +18,20 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — complaint-handling + pricing (L2=325)
+
+Loop iteration 36. 8 @AlexHormozi P2 (2024-05→06). 5 L3-candidates, most overlap existing pages —
+the standout distinct one: p39nLmVtOjc "you made customers angry" (★ complaint-handling framework —
+"refund = only an apology", the "angry boat" [own it fast, be angrier than they are, validate],
+tragic-to-magic, "box of responsibility" for front-line staff → a genuinely new topic, no page yet).
+Others (dedupe candidates): 9unucIBuNio (★ 6-step branding — title says pricing but it's branding →
+enriches branding page), 41EvCgwPrDc (★ 5 pricing concepts, LTV=price/churn, look-back window),
+VxKwz6hBVZU (★ sellable company, goose/golden-eggs → scaling-EV), JOfsujnXxCg (★ 30-day content
+experiment, the 6 shifts → audience-growth). L2: 5800-followers case study (vanity≠business metrics),
+reisEL_D7xc 85-min marketing compilation (dup of the 14-yr masterclass), not-rich-yet (dup diagnostic).
+Ledger: L2=325. Only genuinely new topic-worthy item this batch = complaint-handling. Next: continue
+@AlexHormozi P2 (310 left).
+
 ## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — sales-9, product-first, get-busy (L2=317)
 
 Loop iteration 35. 8 @AlexHormozi P2 (2024-06). 3 L3-candidates: cy2k1GdA-9o "sales 9 concepts"
