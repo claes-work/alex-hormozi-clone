@@ -13,6 +13,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2020-12-03 | [[2020-12-03-yt-bgmh7p1s7zs]] | 20+ sales team — CLOSER framework + 5 Cs sales ops | ★ |
+| 2021-02-11 | [[2021-02-11-yt-FTgJ0mQi0uU]] | #1 lesson for young entrepreneurs: right-vs-wrong lesson, sustainable growth | |
+| 2021-03-25 | [[2021-03-25-yt-sKCrYIWPHLc]] | "Built my $100M business wrong" — scale zero, oceans not lakes (bio) | ★ |
+| 2021-04-15 | [[2021-04-15-yt-0BZ7-PZR8jE]] | 106M ad impressions — three-wheels statistical hook framework | ★ |
+| 2021-05-19 | [[2021-05-19-yt-c5Lw12PXkgU]] | $217k day-trade loss → buy-and-hold investing philosophy (bio) | ★ |
+| 2021-07-07 | [[2021-07-07-yt-_x6n-CmZqjo]] | A billionaire's advice on $100M→$1B (attribution caution) | ★ |
+| 2021-08-02 | [[2021-08-02-yt-ug5N9qmFVKQ]] | Billion-dollar empire in 2-3 days/wk — leverage/holding-co; early Acquisition.com vision | ★ |
+| 2021-08-23 | [[2021-08-23-yt-_qspvJAq34M]] | 700×$40k — canonical Value Equation + Gym Launch (bio) | ★ |
 | 2021-09-17 | [[2021-09-17-yt-Xb9ZOA6zypU]] | 7-year journey to first million (origin story, DUI, $1k rock bottom) | ★ strong |
 | 2021-10-20 | [[2021-10-20-yt-MA-5y9s80Qs]] | Customer-surplus / word-of-mouth virality formula | |
 | 2021-10-25 | [[2021-10-25-yt-neTSqOAMgao]] | Canonical $100M Offers explainer (value equation, 6 channels) — hosted interview | ★ |
@@ -30,4 +38,4 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
 
-_16 videos ingested (L2). 8 flagged L3-candidate for the next synthesis pass._
+_24 videos ingested (L2). 15 flagged L3-candidate for the next synthesis pass._

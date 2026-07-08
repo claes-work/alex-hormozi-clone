@@ -3,6 +3,22 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 4: 8 earliest @AlexHormozi videos (2020–2021, L2)
+
+8 P1 videos via source-only subagents (his 2020-12 → 2021-08 channel origins). All L2.
+Especially rich — several foundational frameworks first stated here + dense bio:
+- _qspvJAq34M ★ canonical **Value Equation** (the $100M Offers core) + Gym Launch bio
+- bgmh7p1s7zs ★ **CLOSER** sales framework + 5 Cs sales-team ops (Marcus credited 5C)
+- 0BZ7-PZR8jE ★ three-wheels statistical hook framework
+- ug5N9qmFVKQ ★ leverage/holding-co philosophy + early Acquisition.com $85M→$1B vision
+- _x6n-CmZqjo ★ billionaire's advice (⚠️ ATTRIBUTION: keep billionaire's words out of beliefs)
+- c5Lw12PXkgU ★ $217k day-trade loss → buy-and-hold investing philosophy (bio)
+- sKCrYIWPHLc ★ "built it wrong" — scale zero, oceans-not-lakes (bio)
+- FTgJ0mQi0uU — right-vs-wrong lesson (bio: married Leila before love)
+Ledger: L2=24; L3-candidates now 15 accumulating. The persona pages (biography especially)
+are due a synthesis pass soon — much new primary-source bio (DUI, day-trade loss, marriage,
+Gym Launch specifics) not yet reflected in persona/biography.md v1.
+
 ## [2026-07-08] ingest | Stage B batch 3: 8 @AlexHormozi early videos (2021–2022, L2)
 
 Batch of 8 P1 solo/early videos via one source-only subagent each (concurrency fix
