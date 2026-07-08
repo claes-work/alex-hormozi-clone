@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — 4-vectors, what-business-really-in
+
+Loop iteration 24. 8 @AlexHormozi solo P2 (2025-04). 3 L3-candidates: s7QA1TJKlbQ (★ the 4
+competitive vectors — speed/risk/price/ease — mapped onto the Value Equation, "win one to beat
+99%"), q9OmYf_IlQ0 (★ top-1%-aren't-smarter — "what business are you really in", the big-hairy-
+problem, the $100M-version-of-any-business), uYds0zcAFWM (★ 5 lessons from crossing $250M — 20%
+cost-of-change, LTV:CAC scaled to how manual the business is [3:1→20-30:1], "the swamp" at $1-3M,
+"rush is imaginary"; a dated shift on virality/word-of-mouth). Rest L2 (15 truths, following-dreams
+dup, two stranger-build/failing-business dups, scalability-myth). Ledger: L2=253. The L3-cand
+backlog is now large (marketing masterclass, STAR, negotiation, Harvard, 4-vectors, constraint-
+diagnostic, 6-levels, 4-shapes, biz-math, generational-wealth, simple-business) → **synthesis pass 5
+next** (new topic pages: marketing-hacks, negotiation, leadership/influence, business-diagnostics;
++ beliefs; + system-prompt v7). Next: synthesis, then continue @AlexHormozi P2 (382 left).
+
 ## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — marketing masterclass + STAR + negotiation
 
 Loop iteration 23. 8 @AlexHormozi solo P2 (2025-04→05). 4 L3-candidates: JDR-R--4HhM "14 years of

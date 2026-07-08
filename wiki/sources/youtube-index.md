@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-06 | [[2023-12-06-yt-Tu6YDG0AZ5k]] | The Game Ep 012 — billion-dollar-decision reasoning | |
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
+| 2025-04-03 | [[2025-04-03-yt-n6SHLmKcY0E]] | Building $3M for a stranger (cocktail consultant) — lead magnet + $5,800 pricing booster | |
+| 2025-04-08 | [[2025-04-08-yt-MzAIP_WJ-jE]] | 15 brutally honest truths — hard work is the goal, pain is the price | |
+| 2025-04-10 | [[2025-04-10-yt-6uhd-FiCggg]] | Why following your dreams keeps you poor — passion follows competence (dup) | |
+| 2025-04-11 | [[2025-04-11-yt-6Fg4VXjRphQ]] | Confronted a failing business (attorney) — kill the money-loser, one high-ticket offer | |
+| 2025-04-15 | [[2025-04-15-yt-q9OmYf_IlQ0]] | Top 1% aren't smarter — "what business are you really in", the big-hairy-problem | ★ |
+| 2025-04-17 | [[2025-04-17-yt-s7QA1TJKlbQ]] | 4 ways to get ahead of 99% — the 4 vectors (speed/risk/price/ease) ↔ the value equation | ★ |
+| 2025-04-18 | [[2025-04-18-yt-uYds0zcAFWM]] | Learned after 14 years — cost-of-change, LTV:CAC by manual-ness, "the swamp" ($1-3M) | ★ |
+| 2025-04-22 | [[2025-04-22-yt-kQFSiEDvXws]] | The biggest myth — every business scales; difficulty is a feature, not a bug | |
 | 2025-04-23 | [[2025-04-23-yt-Jc2UW3nlNBA]] | How to get what you want — 5 negotiation tactics (BATNA, anchor, MESO, reciprocity, framing) | ★ |
 | 2025-04-29 | [[2025-04-29-yt-by3ZEoo-Quc]] | Buy anything without going broke — "new money" (fund from purpose-made income) | |
 | 2025-05-01 | [[2025-05-01-yt-h9UyQiLjSHg]] | Building $3.5M for two strangers (Thai restaurant) — charm/surge pricing, menu-for-profit | |
@@ -275,7 +283,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_245 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,310, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_253 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,310, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
