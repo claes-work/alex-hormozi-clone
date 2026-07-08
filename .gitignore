@@ -1,0 +1,7 @@
+# Copyrighted source material — never published
+raw/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.obsidian/workspace.json
