@@ -94,6 +94,14 @@ situation is context-only, only Alex's advice is persona data.
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2025-10-10 | [[2025-10-10-yt-kefMtQqgQBc]] | "If you went broke, how would you start over?" — gun-to-head test, rebuild-faster | ★ |
+| 2025-11-08 | [[2025-11-08-yt-k2u86J2VBsM]] | $100M Leads for real-estate deals (dup of Richard case) | |
+| 2026-02-13 | [[2026-02-13-yt-JlY8cvqlXoI]] | **How I Started Gym Launch** — origin (Leila recruitment, 32 gyms/18mo, $6.8M→$26M) | ★ |
+| 2026-02-15 | [[2026-02-15-yt-8ExRKuE_KFs]] | **Story behind the $100M book series** — manuscript origin, Leila "publish it", all 3 at once | ★ |
+| 2026-02-17 | [[2026-02-17-yt-o-TQtwQfK9o]] | $3.5M men's coach → $100M (brand-as-constraint; overlaps taboo-niche) | |
+| 2026-02-20 | [[2026-02-20-yt-F60wS3_hc9Q]] | "I hit my first million. What now?" — constraint is leads not supply | |
+| 2026-03-16 | [[2026-03-16-yt-FViIzlFrj10]] | Online service $30M → $100M — scale via training not selection, 5:1 LTV:CAC | |
+| 2026-03-18 | [[2026-03-18-yt-06ssvoeqIo0]] | Real-estate consulting → $100M — attribution taxonomy, duplicate top reps | |
 | 2026-03-19 | [[2026-03-19-yt-hTMqnR-LFZ4]] | Online men's-health service → $100M — taboo-niche affiliate brand (light) | |
 | 2026-03-19 | [[2026-03-19-yt-y7ToMgdDcIs]] | Construction + elevator → $100M — burn-it-down (likely dup of i-4IiGGS1wE) (light) | |
 | 2026-03-20 | [[2026-03-20-yt-UKd3hu6IRbY]] | Home services → $100M — sell membership on the back end (light) | |
@@ -176,7 +184,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-08-16 | [[2022-08-16-yt-phyR1Fq6_Ho]] | **Alex solo** — Client Finance Acquisition (no marketing budget) | |
 | 2022-08-18 | [[2022-08-18-yt-hmN2WbLlvxs]] | ⚠️ no Alex — Kale (Legion Scrambler ad system) | |
 
-_133 videos ingested (L2). @TheSkoolSchool P1 complete. The first 44 L3-candidates were **synthesized into 7 topic pages**
+_141 videos ingested (L2). @TheSkoolSchool P1 complete; @MoreMozi P1 nearly done. The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

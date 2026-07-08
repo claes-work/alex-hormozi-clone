@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 @MoreMozi P1 (L2) — 2 rich origin-story videos
+
+Loop iteration 8. 8 @MoreMozi P1. Two are HIGH-VALUE biographical (feed biography.md at next
+synthesis): JlY8cvqlXoI "How I Started Gym Launch" (★ Leila airport-recruitment vignette, "32 gyms
+in 18 months", 6→8→10→12k price escalation, ~$6.8M→$26M/$17M-profit split) and 8ExRKuE_KFs "$100M
+book series story" (★ original manuscript "Lead Generation and Monetization Structures", Leila's
+"Publish it" catalyst, claims all 3 books written at once — reconciles the staggered 2021/23/25
+launches, flagged not-a-hard-contradiction). Plus kefMtQqgQBc ★ (start-over: gun-to-head test,
+RE-makes-millionaires/business-makes-billionaires). Others L2 coaching (first-million, RE-leads
+[dup of Richard], men's-coach [overlaps taboo-niche], online-$30M [training-vs-selection], RE-
+consulting [attribution taxonomy]). Ledger: L2=141. Next: 3 remaining @MoreMozi P1, then @GymLaunch
+light-triage (46, ~75% non-Alex), then P2, then shorts dedup.
+
 ## [2026-07-08] lint | Topic page: community-building (Skool playbook) — high-value
 
 Built wiki/topics/content-strategy/community-building.md (delegated) from ~9 Skool source pages —
