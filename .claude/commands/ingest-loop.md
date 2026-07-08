@@ -63,7 +63,11 @@ Log (`ingest` entry), commit (`ledger: enumerate <handle>`), push. Stop.
 1. Select the next batch of OPEN long-form rows: priority ASC, then oldest published
    first within P1 (his origin-era content seeds the persona best). If `published` is
    still NA (backfill rate-limited), fall back to ledger order — don't block.
-2. For each video:
+2. For each video (parallelize with one subagent per video — keeps huge transcripts out
+   of the coordinator's context). **Concurrency rule: subagents write ONLY their own
+   `wiki/sources/<page>.md`. They must NOT touch index.md, log.md, or pipeline/ledger.csv
+   — the coordinator makes all shared-file updates after agents return, to avoid
+   concurrent-write clobbering.** Steps per video:
    a. `tools/fetch_captions.ps1 -VideoUrl <url> -Channel <handle>` then
       `python tools/vtt_to_text.py <vtt>`. Prefer manual captions over auto.
       If BOTH missing → mark ledger `notes: no-captions`, status stays L1, skip

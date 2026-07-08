@@ -3,6 +3,22 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 2: 4 @AlexHormozi videos (L2) + no-caption handling
+
+Larger batch (8 P1 attempted) via one subagent per video. Ingested L2: 2022-05-17 KEYNOTE
+(yt-XwZH-lOKG9c — **strong L3-candidate**, live precursor to both books: Client Financed
+Acquisition, value equation, 6 traffic sources, MAGIC naming, LTGP levers + origin story);
+2022-07-07 Offers-to-e-commerce (yt-NA61omfYgvI); 2023-07-29 affiliate playbook
+(yt-60_7PU9JDIw — whisper-tease-shout, 2-customer model); 2023-08-26 Leads-launch
+behind-scenes (yt-qel9bf653Es — L3-candidate, declined ~$50M, bio material). WrCt0R3FBFs
+(audience playbook) has its own entry below. Skipped yt-cHXYi7MqP5c (promo trailer). Marked
+L1 no-captions: yt-OVhNSzFSoZs, yt-FXzDLLdxsCk (no auto/manual subs — not Whisper'd without
+approval). Ledger: L2=8, skipped=2, L1(no-cap)=2 + RSS backlog.
+
+Process note: some subagents self-edited index/log/ledger (following CLAUDE.md). To prevent
+concurrent-write clobbering of shared files, subagents will henceforth write ONLY their
+source page; the coordinator does all index/log/ledger updates. Loop command updated.
+
 ## [2026-07-08] ingest | Stage B batch 1: first 3 @AlexHormozi videos (L2)
 
 First real video ingestion. The @AlexHormozi metadata backfill (505 videos) stalled on
@@ -106,6 +122,22 @@ Created /ingest-loop slash command (.claude/commands/ingest-loop.md) encoding th
 Phase-3 autonomous batch protocol. Raw book material received ($100M Money Models +
 Affiliate Black Book) — queued for Phase-2 L3 ingest. Company-registry research
 (part 3/3) still running.
+
+## [2026-07-08] ingest | YouTube L2: How I built a 1.2M follower audience in 6 months (yt-WrCt0R3FBFs)
+
+L2 light ingest of 2022-05-27 solo live (wiki/sources/2022-05-27-yt-WrCt0R3FBFs.md).
+Domains: content-strategy; marketing; business; wealth; mindset. Canonical early
+statement of his content playbook — 5-step engine (test on Twitter → record → CTAs →
+contextualize → distribute at volume), "how I vs. how to" authority reframe, rule of 100,
+"give away the secrets, sell the implementation," reciprocity/value-ladder, leverage =
+inputs/outputs, time-mastery-as-wealth. Q&A adds sales-team scaling (recruit → train on
+prospect → manage for conviction) and ethical closing frameworks (circumstances/other
+people/avoidance; past-present-future; reason + hypothetical closes). All growth stats
+self-reported (180k→1.2M audience; 20k→400k podcast downloads; 7→80 posts/week). Cardone
+"volume bro," flyer mentor, Evan Carmichael, and unnamed 3-traits study flagged as
+non-Alex/uncertain attribution. Dated bio marker (May 2022) noted for biography.md; Leads
+book still unreleased at this date. Ledger row → L2. Recommended for L3 promotion into a
+dedicated content-strategy topic page.
 
 ## [2026-07-08] ingest | Biography research dossier (Phase 1, part 1/3)
 

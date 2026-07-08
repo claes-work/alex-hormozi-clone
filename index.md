@@ -16,6 +16,11 @@ _Last updated: 2026-07-08 (first book ingest: $100M Money Models + Affiliate Bla
 - [2024-04-20-yt-VQM3DrnVTcs](wiki/sources/2024-04-20-yt-VQM3DrnVTcs.md) — "How to Build a Brand in 2024": his most complete branding articulation (definition, 3 metrics, bouquet model). **L3-candidate.**
 - [2025-03-17-yt--9kOXNCUdE](wiki/sources/2025-03-17-yt--9kOXNCUdE.md) — 1hr multi-business live Q&A: cash-pay transitions, front-end offers, affiliates, guarantees.
 - [2023-12-06-yt-Tu6YDG0AZ5k](wiki/sources/2023-12-06-yt-Tu6YDG0AZ5k.md) — The Game Ep 012: billion-dollar-decision reasoning (irreversibility, no half measures); bio-marker Dec 2023.
+- [2022-05-27-yt-WrCt0R3FBFs](wiki/sources/2022-05-27-yt-WrCt0R3FBFs.md) — "How I built a 1.2M follower audience in 6 months": his 5-step content engine, "how I vs. how to," rule of 100, give-secrets/sell-implementation; sales-team + closing Q&A. **L3-candidate.**
+- [2022-05-17-yt-XwZH-lOKG9c](wiki/sources/2022-05-17-yt-XwZH-lOKG9c.md) — KEYNOTE "Small to BIG / Big 4 Acquisition Models": live precursor to both books — Client Financed Acquisition, value equation, 6 traffic sources, MAGIC naming, 6 LTGP levers + origin story. **L3-candidate (strong).**
+- [2022-07-07-yt-NA61omfYgvI](wiki/sources/2022-07-07-yt-NA61omfYgvI.md) — "$100M Offers applied to E-Commerce": value equation + offer enhancers mapped to physical products.
+- [2023-07-29-yt-60_7PU9JDIw](wiki/sources/2023-07-29-yt-60_7PU9JDIw.md) — "$100M Leads Affiliate Marketing Guide": two-customer model, whisper-tease-shout timeline, missionaries-not-mercenaries.
+- [2023-08-26-yt-qel9bf653Es](wiki/sources/2023-08-26-yt-qel9bf653Es.md) — Behind the scenes of the $100M Leads launch: 17-min offer stack, presentation method, declined ~$50M as a brand bet; bio. **L3-candidate.**
 
 ## Topics
 
