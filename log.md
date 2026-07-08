@@ -10,7 +10,10 @@ Second half of the user's choice: light-treatment ingest of the 6 near-duplicate
 single agent (brief summary + 3-5 advice bullets + few quotes each). All Alex-led, owners
 flagged as context. Distinct ones: 0_Yyxwtrt_Q (resort-wear retention 30→65% + price-matched
 influencers), y7ToMgdDcIs (construction+elevator burn-it-down + six-gyms story — likely a
-dup of yt-i-4IiGGS1wE, noted). Ledger: L2=98. **P1 tier now fully drained across all channels.**
+dup of yt-i-4IiGGS1wE, noted). Ledger: L2=98. Correction: **65 P1 videos still open** —
+mainly @GymLaunch (46, not yet touched) + remaining @MoreMozi. @AlexHormozi + @ACQofficial P1
+are done; @MoreMozi P1 mostly done. These 65 are lower unique value (older company content /
+more coaching); ingest them only if corpus completeness is wanted over persona improvement.
 
 ## [2026-07-08] lint | Topic-synthesis pass: 7 new topic pages from 44 L3-candidates
 
