@@ -3,6 +3,22 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — Bumstead workout (DOB!) + email + millionaire
+
+Loop iteration 29. 8 @AlexHormozi P2 (2024-10→11). 6 L3-candidates, TWO high-value: 7qy-EPc2gYU
+"workout with Chris Bumstead" (★ **FITNESS/APPEARANCE/BIO GOLD** — fills the long-standing
+appearance/fitness gap: calves-are-signature, PRs [465×20 DL, 415 bench], 235lb natural, ~6000cal
+bulk; and **RESOLVES the age puzzle: turning 35 in Aug 2024 → DOB ~August 1989**, consistent w/
+birthday ~Aug 9; bodybuilding ~14-22, state record, dropped out at 22, Kylie-Jenner-Forbes "$17M
+still a failure" 7-day depression → brand pivot) and pLhQOYMGa88 "email marketing in 39 min" (★ L3
+distinct email framework — list/deliverability/reward-loop copy/segmentation, his "Mozi Money
+Minute" → warrants its own marketing topic page). Plus AN2KpRBsmRY (★ landmark millionaire blueprint
+3-level synthesis), 4GQLJjH9-oA (★ $10M/yr turnaround via 3 metrics, no new offer), RVbvhPGFi6E
+(★ "reframing" 3A closing method), wR8KoE8u1p0 (★ platform tier-list from his CRM). Rest L2
+(from-scratch origin dup, get-ahead-99% dup). Ledger: L2=285. **Next synthesis should build fitness
++ appearance.md + email-marketing topic, and set biography DOB ~Aug 1989.** Next: continue
+@AlexHormozi P2 (350 left).
+
 ## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — wealth cluster + six-horsemen
 
 Loop iteration 28. 8 @AlexHormozi solo P2 (2024-11→12, a wealth-heavy cluster). 5 L3-candidates:
