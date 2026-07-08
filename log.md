@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 9: 7 @ACQofficial P1 clips (July 2023, L2) + 1 vlog skipped
+
+7 @ACQofficial July-2023 clips via source-only subagents; 2 L3-cands: M2VP64Tc60w (5-move
+scaling model), mNcDKnq6-q8 ("this is what hard feels like" resilience + "power follows the
+blame finger"). Others L2: x1j6hfL3U9U (ego/comparison, host Lewis Howes), obmdEvHJlAg
+(rock-bottom reframe, host ~Chris Williamson), BFTDW_Bppbg (Planet Fitness case study,
+Acquired pod — secondhand), h2tokrQ4r-0 (word-of-mouth = only exponential channel).
+⚠️ New self-reported bio wrinkle in h2tokrQ4r-0: "credit-repair booklet at 18" as a
+direct-response origin — in TENSION with the consulting→gym timeline; flagged for
+verification before it touches biography.md. YuQ8ve1Amto is a near-duplicate of the
+2024-04-13 give-first clip (noted, promote once across the pair). Skipped 1 office-shopping
+vlog. Ledger: L2=59, skipped=7, 28 L3-candidates. Guest hosts (Howes, Williamson, Andy
+Frisella) attributed out throughout. Next: remaining @ACQofficial P1, then @GymLaunch/@MoreMozi.
+
 ## [2026-07-08] ingest | Stage B batch 8: 7 @ACQofficial P1 clips (Aug–Oct 2023, L2) + 1 Leila skipped
 
 7 Alex solo/interview @ACQofficial clips via source-only subagents; 3 L3-cands: OtYbBEa8x6w

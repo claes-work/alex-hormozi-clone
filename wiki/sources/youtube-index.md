@@ -42,6 +42,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2023-07-01 | [[2023-07-01-yt-M2VP64Tc60w]] | 5 ways to scale — up/down/adjacent/broader/narrower market | ★ |
+| 2023-07-04 | [[2023-07-04-yt-x1j6hfL3U9U]] | Ego is keeping you poor — comparison/humility (host Lewis Howes) | |
+| 2023-07-07 | [[2023-07-07-yt-obmdEvHJlAg]] | Rock bottom is good — nothing to lose, "shame only in the shadows" | |
+| 2023-07-11 | [[2023-07-11-yt-mNcDKnq6-q8]] | Why you're not successful — "this is what hard feels like", radical ownership | ★ |
+| 2023-07-15 | [[2023-07-15-yt-BFTDW_Bppbg]] | Planet Fitness "evil genius" model — case study (secondhand) | |
+| 2023-07-16 | [[2023-07-16-yt-h2tokrQ4r-0]] | Word of mouth = only exponential channel; two enduring-company paths | |
+| 2023-07-22 | [[2023-07-22-yt-YuQ8ve1Amto]] | Networking — give-first / IOU (near-dup of 2024-04-13) | |
 | 2023-08-15 | [[2023-08-15-yt-UhqMBvBzjT0]] | Harsh truth of ownership — owner paid for risk, volatility/thin margins | |
 | 2023-08-31 | [[2023-08-31-yt-p9PD0m7a0DM]] | Formula for a $100M business — Enterprise Value = customers × LTGP ÷ risk | |
 | 2023-09-11 | [[2023-09-11-yt-Kt6l-Q-tW7Q]] | Risks of info businesses — consumables retain value; sell implementation | |
@@ -71,6 +78,6 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-07-21 | [[2025-07-21-yt-ZklXJzHzW2U]] | Operator Pod Ep.1 — ⚠️ **no Alex** (Leila + operator), not persona data | |
 | 2025-09-13 | [[2025-09-13-yt-EuMu6LaxBSk]] | $106M/72h launch debrief — ⚠️ **no Alex** (Leila + exec); useful launch/bio facts | |
 
-_52 videos ingested (L2). 26 flagged L3-candidate for the next synthesis pass. 3 videos
+_59 videos ingested (L2). 28 flagged L3-candidate for the next synthesis pass. 3 videos
 contain no Alex speech (2 Leila+exec debriefs, 1 Leila-on-Alex) — kept as record/bio-fact
 citations only, excluded from voice data._
