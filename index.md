@@ -39,6 +39,7 @@ Domain hubs (full page list lives on each hub):
   - [hormozi-writing-guidelines](wiki/topics/content-strategy/hormozi-writing-guidelines.md) — his 8 codified writing rules.
   - [content-engine](wiki/topics/content-strategy/content-engine.md) — media playbook: why fame, Volume×Time=Skill, Rule of 100, 5-step model, atomic-unit repurposing, frame/how-I/give-secrets/delay-the-ask, three-wheels hooks.
   - [branding](wiki/topics/content-strategy/branding.md) — brand = deliberate associations, bouquet model, 3 brand metrics, brand > direct-response, give-give-give.
+  - [community-building](wiki/topics/content-strategy/community-building.md) — **his paid-community / Skool playbook** (why the model, design, launch, monetization, growth funnel, retention) — high-value.
 
 ## Entities
 

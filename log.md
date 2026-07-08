@@ -3,6 +3,18 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] lint | Topic page: community-building (Skool playbook) — high-value
+
+Built wiki/topics/content-strategy/community-building.md (delegated) from ~9 Skool source pages —
+the user's priority topic (they run a Skool community). Sections: why the model (unit economics,
+endurance), design (who / free-vs-paid / access-content-events buckets, Value Equation), launch
+(10 true regulars, start with 3 paying, text ~400-800 contacts, 1000 True Fans + niche stacking),
+monetization (4 paths, $19-299 value pricing, grandfathering ethics, price×N reverse-engineering,
+dual free+paid), growth (traffic→about→community funnel, 6 sources, influencer arbitrage, referral
+compounding), engagement/retention (make it fun, peer cohort, public progress, member success). All
+cited; self-reported/promotional stats flagged. Wired into content-strategy hub + index. 21 topic
+pages now. Next: resume ingest loop — @MoreMozi P1 → @GymLaunch triage → P2 → shorts dedup.
+
 ## [2026-07-08] ingest | Stage B: 4 final @TheSkoolSchool P1 (L2) — channel P1 complete
 
 Loop iteration 7. Last 4 @TheSkoolSchool P1: dY1Mp1LVO0o (★ starting-from-zero — 12mo horizon,

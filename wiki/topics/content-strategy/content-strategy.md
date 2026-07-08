@@ -18,4 +18,8 @@ His own media playbook: platforms, formats, hooks, volume.
   three-wheels statistical hooks (from the YouTube corpus).
 - [[branding|Branding]] — brand = deliberate associations, the bouquet model, 3 brand metrics,
   brand > direct-response, give-give-give-until-they-ask (from the YouTube corpus).
+- [[community-building|Community Building]] — his paid-community / Skool playbook: why the model,
+  design (access/content/events), launch (10 regulars, start with 3, 1000 True Fans),
+  monetization (pricing, grandfathering, price×N), growth funnel + 6 traffic sources, engagement
+  & retention. **High-value topic** (from the Skool corpus).
 
