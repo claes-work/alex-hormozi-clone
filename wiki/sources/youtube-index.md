@@ -42,6 +42,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2024-02-12 | [[2024-02-12-yt-z8WPl1v39P8]] | Why you need a brand in 2024 — brand>direct-response, 8 ways to get customers, give-give-give | ★ |
+| 2024-02-19 | [[2024-02-19-yt-qku04Qv9fv0]] | Find the best business opportunities — low-capex/high-margin (80%) filter | ★ |
+| 2024-03-05 | [[2024-03-05-yt-XclY0Yl8u9M]] | Biggest difference rich vs poor — money = condensed time (Lewis Howes iv) | ★ |
+| 2024-03-31 | [[2024-03-31-yt-FcUDVh6hr_o]] | Master these traits to become wealthy — Rule of 100 + advertise/sell/product stack | ★ |
+| 2024-04-02 | [[2024-04-02-yt-J9Y6FXMELtA]] | Why he decided to become famous — Kylie realization, fame cost/benefit ledger | ★ |
+| 2024-04-02 | [[2024-04-02-yt-cxrI5USf89A]] | "What you don't know about Alex" — ⚠️ **no Alex** (Leila 3rd-person on his character) | |
 | 2024-04-07 | [[2024-04-07-yt-aNyuMP4jCWY]] | #1 lesson from the wealthy — proximity, arbitrage-stacking | |
 | 2024-04-09 | [[2024-04-09-yt-lXRqOG2yn6E]] | "Shocking truth of his first business" — origin, Seven Fig Sam mentor, first gym at 22 | ★ |
 | 2024-04-13 | [[2024-04-13-yt-nlEUcZoBBmY]] | Give-first / IOU networking framework | ★ |
@@ -51,5 +57,6 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-07-21 | [[2025-07-21-yt-ZklXJzHzW2U]] | Operator Pod Ep.1 — ⚠️ **no Alex** (Leila + operator), not persona data | |
 | 2025-09-13 | [[2025-09-13-yt-EuMu6LaxBSk]] | $106M/72h launch debrief — ⚠️ **no Alex** (Leila + exec); useful launch/bio facts | |
 
-_32 videos ingested (L2). 17 flagged L3-candidate for the next synthesis pass. 2 videos
-(@ACQofficial 2025) contain no Alex speech — kept as record/bio-fact citations only._
+_38 videos ingested (L2). 22 flagged L3-candidate for the next synthesis pass. 3 videos
+contain no Alex speech (2 Leila+exec debriefs, 1 Leila-on-Alex) — kept as record/bio-fact
+citations only, excluded from voice data._

@@ -3,6 +3,17 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 6: 6 @ACQofficial P1 clips (L2) + 2 Leila skipped
+
+6 Alex-led @ACQofficial 2024 interview clips via source-only subagents; 5 are L3-candidates:
+FcUDVh6hr_o (Rule of 100 + skill stack), XclY0Yl8u9M (money = condensed time; interviewer
+= Lewis Howes), qku04Qv9fv0 (low-capex/high-margin opportunity filter), z8WPl1v39P8 (brand
+> direct-response, 8 ways to get customers, "give give give"), J9Y6FXMELtA (why he chose
+fame — Kylie realization, bio). cxrI5USf89A is Leila describing him in 3rd person → no-Alex,
+empty quote bank. Skipped 2 Leila-focused videos (relationships, weight-loss journey) as
+out-of-scope (persona clones Alex). Ledger: L2=38, skipped=4, 22 L3-candidates. Interviewers
+attributed out across all clips. Next: remaining P1 (@GymLaunch/@MoreMozi), then P2.
+
 ## [2026-07-08] ingest | Stage B batch 5: 8 @ACQofficial P1 videos (L2)
 
 First non-@AlexHormozi ingest batch — 8 P1 @ACQofficial videos via source-only subagents.
