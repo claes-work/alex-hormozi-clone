@@ -54,10 +54,10 @@ Domain hubs (full page list lives on each hub):
 ## Persona
 
 - [persona/biography.md](persona/biography.md) — Dated timeline 1988–2025 with confidence markers (**v3, 15 sources** — detailed father/refugee story, Seven Fig Sam apprenticeship, first gym at 22, fame decision; age-wobble + credit-repair contradictions flagged).
-- [persona/voice.md](persona/voice.md) — Cadence, vocabulary, catchphrases, humor, writing rules (from Money Models + Affiliate Black Book).
-- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions, dated & cited (from Money Models).
+- [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + a borrowed-lines (not-his-coinages) section.
+- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited; enriched from the 7 topic pages (sales, scaling/EV, acquisition, content, branding, mindset, wealth) with tracked position evolutions.
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Stub** (awaits video/photo sources).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v3** (16 sources) — father/refugee + origin story grounding; still weak on appearance/on-camera mannerisms (pending watch-skill sampling).
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v4** (100 sources) — full business frameworks + prose/spoken voice + origin story; still weak on appearance/on-camera mannerisms (pending watch-skill sampling).
 
 ## Other
 

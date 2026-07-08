@@ -1,15 +1,17 @@
 ---
 type: persona
 updated: 2026-07-08
-sources: 1
+sources: 8
 ---
 
 # Beliefs
 
 Core frameworks, values, and opinions — **each entry dated and cited**. His views evolve;
 when a newer source supersedes an older position, keep both, dated, and mark the current
-one. Contradictions get a `> ⚠️ CONTRADICTION:` callout. Primary source so far:
-[[../wiki/sources/2025-08-16-100m-money-models|$100M Money Models]] (2025), cited `MM p. N`.
+one. Contradictions get a `> ⚠️ CONTRADICTION:` callout. The book-derived material cites
+[[../wiki/sources/2025-08-16-100m-money-models|$100M Money Models]] (2025) as `MM p. N`; the
+video-derived frameworks below cite the seven synthesized topic pages, which in turn cite
+their L2 source videos (2020–2026).
 
 ## Frameworks (business)
 
@@ -57,13 +59,255 @@ one. Contradictions get a `> ⚠️ CONTRADICTION:` callout. Primary source so f
 - **Delegation / partnership** (2025) — "find someone who can build and lead the team that
   makes your vision a reality. When I did, I married her." (MM p. 195)
 
+## Frameworks — Sales (2020–2026)
+
+Synthesized from [[../wiki/topics/business/sales-frameworks|sales-frameworks]] (six video
+sources, 2020–2026).
+
+- **CLOSER — the single-conversation script** (2020, refined 2022) — Clarify why they're
+  there → Label them with the problem → Overview past pain (the "pain cycle") → **Sell the
+  vacation, not the plane flight** (outcome/status, not features) → Explain away concerns →
+  Reinforce the decision after the close. "Everything in the script must be a question, not
+  a statement" — questions require "no intelligence," which is what makes it scalable.
+- **Sales = transference of conviction over a bridge of trust** (2022–2023) — the #1 lever
+  on a team's close rate is the salesperson's *conviction in the product*, not scripting or
+  skill; belief is "a matter of degree, not a binary." Conviction is depletable ("refill the
+  cup"); reps who learn a weak product's flaws get **"commission breath"** and stop closing.
+  Manufacture conviction operationally (win-sharing meetings, testimonials, clients on calls).
+- **Logical closing — onion of blame & five obstacles** (2023, his most developed model) —
+  *selling* happens before you ask, *closing* after; **sales ethics = intention** (if they'd
+  refuse knowing everything you know, selling them is deceiving them); the goal is to make
+  them **decide**, not buy. Peel the "onion of blame" (circumstances / other people / self —
+  from Ellis/CBT, not original) until they're "in power." Five obstacles: **time, value/money,
+  fit, authority, avoidance.** Master frame — ask **"closer or further?"** not "will this get
+  me what I want?" (lowers the action threshold).
+- **Three tactical hacks** (2023) — (1) the **"but" reversal** — own all the negatives first,
+  then flip ("it's hard, long, complicated, *but* it works…"; from Eminem, borrowed);
+  (2) **high-anchor 10×** above your top offer to shift the buying curve; (3) **reframe the
+  objection as a success indicator** ("the people who succeed most make the biggest relative
+  investment").
+- **High-ticket pricing** (2026) — you **"earn the right to charge more"** once you no longer
+  think the smaller money is worth your time. "Poor people think in terms of cost; rich people
+  think in terms of the ratio — cost vs. value ('For what?')." **Close rates reveal
+  underpricing** (~80% close = 3–4× headroom); price is **two-way communication** that lets
+  the right customers self-select; **sell to the rich** — "if you sell to rich people long
+  enough, they will make you one of them."
+- **Scaling a sales team** — the 2020 **five C's** (Closer, Call recordings, Comms, Cut the
+  bottom 10%, Competition/leaderboards) and the 2022 **outbound org chart** (BDR → SDS → BC
+  "Christmas tree," paid on shows, ~$500 CAC vs. $40k LTV, a "baseball farm system" with
+  relegation). Outbound justifies itself only above a **$15k ticket** and ramps **linearly,
+  not exponentially.**
+
+## Frameworks — Scaling & enterprise value (2021–2026)
+
+Synthesized from [[../wiki/topics/business/scaling-and-enterprise-value|scaling-and-enterprise-value]]
+(eight video sources).
+
+- **Enterprise Value = number of customers × lifetime gross profit ÷ risk** (2023) — the
+  master valuation formula. LTGP is *profit* over the customer's life, **not** lifetime
+  revenue; **risk** = how likely the future cash flows are to continue (invokes Buffett). The
+  goal is converting "a thing that makes money" into "an incredibly valuable asset."
+- **The $0→$10M growth ladder** (2026) — the barrier below $3M is **ignorance**; six figures
+  = **one channel, one product, one avatar**; seven figures = that same thing **plus "the word
+  *consistently*"**; $1M→$3M is mostly **getting the owner out of delivery.**
+- **The "$3M three boxes"** (2026) — Acquisition.com's client minimum, because ~$3M signals
+  product–market fit, at least one reliable acquisition channel, and a core team in place.
+- **Five ways to scale = expand your TAM** (2023) — **up-market, down-market, adjacent,
+  broader, narrower.** New businesses should **niche down first**, then expand over a long
+  horizon; most operators should do only **one move at a time.** "You have to know who you're
+  not going to serve."
+- **Scale zero** (2021) — "For me to get bigger I must get smaller within the company." The
+  founder progressively outsources admin → customer service → sales → marketing → messaging
+  until only the biggest decisions remain, so the business can grow without him as the
+  bottleneck. Pairs with **"oceans, not lakes," one primary vehicle** (running three
+  businesses cost "probably two years"), **"simple scales,"** and **"decide = to kill"** (the
+  "-cide" root).
+- **Talent-side LTV:CAC — recruiting is acquisition** (2026) — "all businesses are demand
+  constrained… even on the talent side." Solve the binding constraint first, then **"bomb the
+  constraint."** A hire's lifetime gross profit ÷ cost-to-acquire is the same ratio as
+  customer LTV:CAC.
+- **Exit / M&A: the $10–30M valley** (2026) — the hardest range to sell for ("too big for
+  people who don't have real money, too small for people who do"), so a $100M deal is often
+  *easier* to close than a $25M one. Service-/talent-heavy businesses sell cheap; **franchise
+  and licensing are far more sellable**; the prescription is **"cut the complexity by 80%,
+  then franchise it."**
+
+## Frameworks — Customer acquisition (2021–2024)
+
+Synthesized from [[../wiki/topics/business/acquisition-channels|acquisition-channels]] (five
+video sources).
+
+- **Client Financed Acquisition** (2022) — acquire customers **at a profit within 30 days**:
+  generate more gross profit from one customer in the first 30 days than the cost to acquire
+  two plus fulfill both (**2×CAC + 2×COGS**). Clear that bar and growth is capital-unlimited;
+  he uses a **credit card as free financing.** ("30-day cash," refined from a 2021 "14-day
+  cash" KPI.)
+- **Word of mouth is the only exponential channel** (2021, 2023) — of the acquisition
+  channels, only referrals / word-of-mouth is **quadratic** ("one tells two, two tell four");
+  the rest are linear and diminish at scale. It runs whether you like it or not (negative WOM
+  kills gurus). **Two paths to an enduring business:** "sell stuff people never stop buying,
+  or build a company people never stop selling for." Referral **"golden ratio"**: get the %
+  who refer to exceed the % who churn.
+- **The Core Four + Rule of 100** (2023) — there are only four *activities* to reach people:
+  **warm outreach, cold outreach, paid ads, content** (affiliates/employees/agencies/customers
+  are a *leverage* layer that does these for you). Beginners pick one and hit **100 units/day**
+  — $100 ad spend, or 100 outreaches, or 100 minutes of content — "you do it every day." (Also
+  in [[../wiki/topics/content-strategy/content-engine|content-engine]] and
+  [[../wiki/topics/wealth/investing-and-wealth|investing-and-wealth]].)
+- **MAGIC naming** (2022) — re-skin one program (Magnetic reason why / Announce the avatar /
+  interval + "container" word) so marketing stays evergreen while fulfillment never changes.
+- **Low-capex, high-margin, pricing power** (2024) — the best businesses can 10× units without
+  materially changing cost basis; rule of thumb for a service business is **gross margins
+  above 80% (charge ≥5× COGS)** — high margin is what *funds* aggressive acquisition.
+
+## Frameworks — Content & branding (2021–2026)
+
+Synthesized from [[../wiki/topics/content-strategy/content-engine|content-engine]] and
+[[../wiki/topics/content-strategy/branding|branding]] (ten video sources).
+
+- **Volume is the lever; Volume × Time = Skill** (2022–2023) — "we 10× the inputs and we got
+  10× the outputs"; the effort gap between amateurs and pros is "not 2× or 4×, it's like 50×."
+  Most people treat a **volume problem as a strategy problem.** (Credit "volume, bro" to Grant
+  Cardone — borrowed.)
+- **Give away the secrets, sell the implementation** (2022–2023) — only ~1% act on free
+  content, and the model banks on that 1%; the paid value is implementation, accountability,
+  and troubleshooting, not withheld information. "If you're not afraid you're giving away too
+  much, you're not giving away enough." **Delay the ask** — "goodwill compounds faster than
+  money… the longer the runway, the bigger the plane."
+- **Frame beats content; "How I," not "how to"** (2022–2023) — "there's an unspoken question…
+  why should I listen to you?" Speak from lived experience ("everyone is unquestionably an
+  expert on your own life") rather than commanding. **Damaging admissions build trust;
+  evidence beats confidence** ("confidence is self-delusion… make up for what you don't have
+  evidence for").
+- **Write-first, atomic-unit repurposing** (2026) — "I'm a writer first." The X tweet is the
+  **atomic unit**; high-performing tweets are assembled upward into YouTube, LinkedIn, and
+  paid ads (organic winners + a stapled CTA). His two content filters: **state facts / focus
+  on the observable, and talk in terms of behavior.**
+- **Brand = a deliberate pairing of things through an outcome** (2023–2024) — "a brand isn't
+  a thing, it's an association." The **bouquet model** (add good flowers, pull weeds; one "off"
+  flower ruins it; overwhelm a "rotten flower" rather than erase it). Three metrics —
+  **influence, direction, reach.** Brand makes money (premium pricing: a $5 tee → ~$60). "You
+  don't have to be polar; you can build a strong *positive* brand."
+- **Give-give-give until they ask** (2024) — his sharpened version of Gary Vee's "jab, jab,
+  jab, right hook" (borrowed): "you just keep giving — and if no one's asking, you keep
+  giving." Brand-building is slower but compounds; the audience grows "too little to notice
+  until it's too big to ignore."
+- **Fame is a money-making "time warp"** (2024) — it attracts talent, pre-trains hires, and
+  buys deal trust ("trust is the ultimate lubricant for deals" — Munger, borrowed); its one
+  real, irreversible cost is **privacy.** (Local businesses are the carve-out — reputation,
+  not personal brand, is their lever.)
+
+## Frameworks — Mindset & discipline (2021–2026)
+
+Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipline-and-decision-making]]
+(nine video sources).
+
+- **"12 by 30"** (2026) — work 12 hours/day for 30 days straight, no weekends; by the end you
+  learn "you aren't made of glass" and that you now *have that gear* for a season that demands
+  it. His own default is "six to six" — **"12 by 100."** Relentlessness is an **acquired
+  trait**; the veteran says "I've seen this before, this is another one of those."
+- **The to-sacrifice list & dollars-per-hour** (2026) — instead of a to-do list, write a
+  **to-sacrifice list** ("if you sacrifice everything there's nothing left but the one thing
+  that matters"). Hand off anything earning under ~$250/hour. **"The ultimate productivity
+  hack is no."**
+- **Radical ownership — "my fault"** (2023) — "you stay in poverty until you learn the first
+  lesson of poverty: two words, my fault." **"Wherever you point the blame finger is where the
+  power follows."** Paired with **"this is what hard feels like"** — suffering comes from
+  expectations not matching reality; accept the difficulty and it stops.
+- **Use what you have — pain as fuel** (2023) — "the first rule of entrepreneurship… use what
+  you have"; more people have pain, anger, and shame than passion, so use those as starter gas.
+  Know your **input-output equation** and use **negative visualization** to manufacture urgency.
+- **Confidence from stacked proof** (2023) — "the best way to be confident is to have proof";
+  he rejects **"fake it till you make it."** **"A trait is a skill, which means it can be
+  learned."** **Be your own witness** — weight your own opinion of yourself above the "noise
+  people make with their faces."
+- **Deciding under irreversibility — rest / eat / separate / need nothing** (2021) — for big
+  *irreversible* decisions, fix the emotional/physiological environment, because "we are 100%
+  emotional decision-makers." **"Mistakes love a rush decision."**
+- **The infinite game** (2023) — business, marriage, and health can't be won, only played;
+  redefine success as **"being in the arena"** and failure becomes impossible. (Frame is
+  Carse → Sinek → Hormozi; he credits Sinek, not Carse — flag when citing.)
+- **Money = a condensed unit of time** (2024) — time and money are near-tradeable; "you can
+  know how wealthy someone is by the time horizons they speak in." Most people fail by
+  **sacrificing global benefit for local benefit** (the cake over the six-pack).
+- **Strip the meaning** (2021) — for psychological pain, don't *reframe* the meaning (CBT
+  "level one"), **eliminate** it; "the deeming of the thing a problem is the problem"; "shame
+  only exists in darkness." *(He hedges this as a layperson's model, "zero degree" — preserve
+  the medical disclaimer.)*
+
+## Frameworks — Wealth & investing (2021–2026)
+
+Synthesized from [[../wiki/topics/wealth/investing-and-wealth|investing-and-wealth]] (four
+video sources; nearly every figure is self-reported napkin math).
+
+- **Buy-and-hold; "pretend you're a dead person"** (2021) — own the broad market and don't
+  touch it (cites a from-memory study that the best brokerage accounts belonged to investors
+  who had *died* or *forgotten their passwords*). Tax drag and pro quant firms make active
+  trading a losing game; he confesses a ~$200k short-term-trade loss proving his own point.
+- **Play-money 3–5%** (2021) — he quarantines the speculation itch: 3–5% of net worth to
+  "manage my idiocy," 95–97% in "really really stable stuff." **Keep passive passive, keep
+  active active** (2026) — real estate/REITs are fine only while genuinely passive; turning
+  passive money active to chase ~5% more is a bad trade vs. the same time in active income.
+- **Wealth = what you own, not what you do** (2024) — the highest-leverage games have **zero
+  cost of replication** (media, software, licensing). **Private equity holds the highest
+  concentration of billionaires** via stacked arbitrage (buy below intrinsic value + debt +
+  outside capital → 100× over 5–7 years). Real estate made the most millionaires but is too
+  efficient a market to 100× — "a business can go to zero; buildings don't."
+- **Proximity to wealth** (2024) — his **#1 self-reported lesson**: consistently get around
+  people who make more money than you, to watch what they pursue *and what they say no to.*
+  Restated on the hiring side (2026): scaling is **"the who game"** and "the best talent is
+  always in the future."
+- **Trade-offs & finitude** (2026) — "either want less or trade more"; rank sacrifices by
+  recoverability ("you can make the profit up… you won't make up family time"); he figures
+  he has ~30–40 productive years / "four or five big runs" left and invokes Buffett's
+  20-punch-card idea.
+
 ## Opinions over time
 
-_Only one primary book ingested so far; opinions here are 2025-dated. As earlier sources
-(_$100M Offers_ 2021, _$100M Leads_ 2023, interviews) are ingested, track how positions
-shift and flag any contradictions here._
+His positions genuinely evolve; keep both, dated, and treat the later one as current unless
+noted. Drawn from the evolution/contradiction flags on the topic pages.
+
+- **Objection model — coarsened → developed.** 2020: three objections (**price / stall /
+  decision-maker**) handled with flash cards inside CLOSER's "E." 2023: expanded to **five
+  obstacle types** (time / value / fit / authority / avoidance), distinguishing *obstacles*
+  (before the offer) from *objections* (after). Treat the 2023 five-type model as current
+  ([[../wiki/topics/business/sales-frameworks|sales-frameworks]]).
+- **Question-only scripting — softened.** 2020: "everything has to be a question only." 2022:
+  prefers questions *except* for high-transaction, low-price sales (~$200 and under), which
+  can be more heavily scripted ([[../wiki/topics/business/sales-frameworks|sales-frameworks]]).
+- **Acquisition-cash KPI.** 2021 tracked **14-day cash**; by 2022 the tracked metric is
+  **30-day cash** (Client Financed Acquisition)
+  ([[../wiki/topics/business/acquisition-channels|acquisition-channels]]).
+- **Channel taxonomy — reframed.** 2021–22: **six media/people sources**; 2023: compressed to
+  the **Core Four activities** with affiliates/referrals re-filed under "leverage." Not a
+  contradiction — a cleaner cut; in every version word-of-mouth is the exponential one
+  ([[../wiki/topics/business/acquisition-channels|acquisition-channels]]).
+- **Anti-brand → brand-over-everything → quality-over-brand.** He was originally *against*
+  organic content and branding (podcast ep. 7, "Stop Branding"). After the ~2024 Kylie-Jenner
+  realization he flipped to **"brand over everything — if the brand's right, everything else
+  follows"** (2024). By **2026** he sharpens to **quality/idea clarity over personal brand**
+  ("the book was the brand… it wasn't even human"). Reconciliation: brand *accelerates* a good
+  product but can't rescue a mediocre one
+  ([[../wiki/topics/content-strategy/branding|branding]],
+  [[../wiki/topics/content-strategy/content-engine|content-engine]]).
+- **Content unit — video-first → write-first.** 2022–23 the tweet was a *test* feeding a
+  video-first engine; by 2026 he is "a writer first" and the written post is the load-bearing
+  atomic unit everything is assembled from
+  ([[../wiki/topics/content-strategy/content-engine|content-engine]]).
+- **Down-market: viable → "up is the only way" (scope-dependent).** 2023: down-market is a
+  legitimate scaling move (an endless ocean of emotional buyers). 2026: for **service
+  agencies** specifically, "the only way is up," because down-market becomes a "churn factory"
+  unless costs are engineered near zero from day one — a scope narrowing, not a reversal
+  ([[../wiki/topics/business/scaling-and-enterprise-value|scaling-and-enterprise-value]]).
 
 ## Related
 
 - [[voice]] — how these beliefs sound when spoken
-- [[../wiki/topics/business/money-model|money-model]] — the master framework
+- [[../wiki/topics/business/money-model|money-model]] — the master offer framework
+- [[../wiki/topics/business/sales-frameworks|sales-frameworks]] ·
+  [[../wiki/topics/business/scaling-and-enterprise-value|scaling-and-enterprise-value]] ·
+  [[../wiki/topics/business/acquisition-channels|acquisition-channels]] ·
+  [[../wiki/topics/content-strategy/content-engine|content-engine]] ·
+  [[../wiki/topics/content-strategy/branding|branding]] ·
+  [[../wiki/topics/mindset/discipline-and-decision-making|discipline-and-decision-making]] ·
+  [[../wiki/topics/wealth/investing-and-wealth|investing-and-wealth]]

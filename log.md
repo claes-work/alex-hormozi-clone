@@ -3,6 +3,18 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] lint | Persona pass v4 (Stage P) — beliefs/voice enriched from topic pages
+
+First iteration of the finish-everything loop. Delegated persona refresh (persona-files-only):
+beliefs.md grew from book-only to 6 new dated+cited framework sections (sales, scaling/EV,
+acquisition, content/branding, mindset, wealth) drawn from the 7 topic pages, with a filled
+"opinions over time" recording 7 tracked evolutions (3→5 objection model; 14→30-day cash;
+6-source→Core-Four; anti-brand→brand-over-everything 2024→quality-over-brand 2026; video→write
+-first). voice.md gained a spoken-catchphrases section + a "borrowed lines — not his coinages"
+attribution block (Cardone, Eminem, Munger, Sinek/Carse, Gary Vee, Robbins, Buffett…).
+system-prompt.md recompiled v3→v4 (compiled_from_sources 16→100). Next iteration: Stage A —
+enumerate @TheSkoolSchool.
+
 ## [2026-07-08] plan | Comprehensive "finish everything" loop authored + @TheSkoolSchool found
 
 User directive: keep going autonomously in the loop until EVERYTHING is done — persona
