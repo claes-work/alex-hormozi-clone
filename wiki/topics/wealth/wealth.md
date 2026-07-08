@@ -10,5 +10,5 @@ Investing, net-worth philosophy, spending.
 
 ## Pages
 
-_(none yet)_
+- [[investing-and-wealth]] — buy-and-hold vs trading, play-money quarantine, keep-passive-passive, proximity to wealth, wealth = what you own not what you do.
 

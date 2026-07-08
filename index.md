@@ -25,13 +25,20 @@ Domain hubs (full page list lives on each hub):
   - [upsell-offers](wiki/topics/business/upsell-offers.md) — Stage II: get customers to spend more (Classic/Menu/Anchor/Rollover).
   - [downsell-offers](wiki/topics/business/downsell-offers.md) — Stage II: turn "no" into "yes" (payment plans, trials, feature downsells).
   - [continuity-offers](wiki/topics/business/continuity-offers.md) — Stage III: recurring revenue (bonus/discount/waived-fee).
+  - [sales-frameworks](wiki/topics/business/sales-frameworks.md) — CLOSER, logical closing (onion of blame + 5 obstacles), sales hacks, transference of conviction, high-ticket pricing, sales-team scaling.
+  - [scaling-and-enterprise-value](wiki/topics/business/scaling-and-enterprise-value.md) — $0→$10M ladder, 5 ways to scale, scale-zero, EV = customers × LTGP ÷ risk, exit/M&A, talent-side LTV:CAC.
+  - [acquisition-channels](wiki/topics/business/acquisition-channels.md) — Big 4 vs 6 sources vs Core Four reconciled; Client Financed Acquisition, word-of-mouth as only exponential channel, Rule of 100, MAGIC naming.
 - [wiki/topics/marketing/marketing.md](wiki/topics/marketing/marketing.md) — Content marketing, ads, branding, audience building.
   - [book-launch-affiliate-playbook](wiki/topics/marketing/book-launch-affiliate-playbook.md) — how a mass book launch runs on an affiliate army.
 - [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — Discipline, self-belief, decision-making, pain and identity.
+  - [discipline-and-decision-making](wiki/topics/mindset/discipline-and-decision-making.md) — "12 by 30" work ethic, to-sacrifice list, radical ownership, irreversible decisions, confidence-from-proof, infinite game, money = condensed time.
 - [wiki/topics/wealth/wealth.md](wiki/topics/wealth/wealth.md) — Investing, net-worth philosophy, spending.
+  - [investing-and-wealth](wiki/topics/wealth/investing-and-wealth.md) — Buy-and-hold vs trading, play-money quarantine, keep-passive-passive, proximity to wealth, wealth = what you own.
 - [wiki/topics/fitness/fitness.md](wiki/topics/fitness/fitness.md) — Training, nutrition, his athletic background.
 - [wiki/topics/content-strategy/content-strategy.md](wiki/topics/content-strategy/content-strategy.md) — His own media playbook: platforms, formats, hooks, volume.
   - [hormozi-writing-guidelines](wiki/topics/content-strategy/hormozi-writing-guidelines.md) — his 8 codified writing rules.
+  - [content-engine](wiki/topics/content-strategy/content-engine.md) — media playbook: why fame, Volume×Time=Skill, Rule of 100, 5-step model, atomic-unit repurposing, frame/how-I/give-secrets/delay-the-ask, three-wheels hooks.
+  - [branding](wiki/topics/content-strategy/branding.md) — brand = deliberate associations, bouquet model, 3 brand metrics, brand > direct-response, give-give-give.
 
 ## Entities
 

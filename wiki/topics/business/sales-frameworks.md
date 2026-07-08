@@ -1,0 +1,410 @@
+---
+type: topic
+domains: [business]
+created: 2026-07-08
+updated: 2026-07-08
+tags: [sales]
+sources: 6
+---
+
+# Sales Frameworks
+
+Hormozi's sales methodology, synthesized from six sources spanning 2020–2026. The
+through-line: sales is not manipulation but **the transference of conviction over a
+bridge of trust**, delivered through a repeatable question-based script (**CLOSER**),
+logical objection-dismantling (the **onion of blame** / five obstacles), and a set of
+tactical persuasion moves — all wrapped in a scalable sales-team operating system.
+
+All claims below are **paraphrase unless shown as a quote block**. Every claim cites
+the source page it came from. Opinions carry the date of the source that established
+them, because his framing evolved between 2020 and 2026.
+
+---
+
+## 1. CLOSER — the single-conversation script
+
+Hormozi's core sales script for running one conversation, first laid out in a 2020 stage
+talk and repeated (with refinements) in a 2022 mastermind keynote
+([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]; [[../../sources/2022-01-19-yt-okA9Yt2KZuk]]).
+The acronym:
+
+- **C — Clarify** why they're there. Ask their goal, why it's important, and what the
+  ideal outcome looks like 12 months out ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]).
+- **L — Label** them with the problem. Reflect back what they've done and the missing
+  link, get a "yes" — framed as "you now have cancer, I can cure it"
+  ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]).
+- **O — Overview past pain** (the "pain cycle"). Ask what they've tried and why it didn't
+  work; the rep always has the advantage because the prospect is on the phone with them —
+  proof the past didn't work. Run the cycle until they have nothing left, then recap
+  ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]).
+- **S — Sell the vacation**, not the plane flight. Sell the outcome/status ("the trees and
+  the wind"), not the features/mechanism. Tell **three** short (~30-second) illustrative
+  stories of what they're missing — limit to three points
+  ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]; [[../../sources/2022-01-19-yt-okA9Yt2KZuk]]).
+- **E — Explain away concerns.** Handle objections (see §2 and §3)
+  ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]).
+- **R — Reinforce the decision** after the close, because people back out. Use a 30-second
+  founder video, a personalized handwritten card, or a t-shirt to "make their feet nice
+  and hot." In 2022 he reframes this as **a handshake, not a handoff** to customer
+  success — an immediate personalized welcome video to kill buyer's remorse
+  ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]; [[../../sources/2022-01-19-yt-okA9Yt2KZuk]]).
+
+**Everything in the script must be a question, not a statement.** Reps who read
+statements start reading paragraphs and "can't think"; questions let them pause and ask
+the next question, requiring "no intelligence," which is what makes the script scalable
+([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]).
+
+> "Now, when you use this framework, everything that's in your framework has to be a
+> question only. Do not put paragraphs, do not put statements because they will start
+> reading them. They can't think that way." — Alex Hormozi, 2020
+> ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]])
+
+> "I now have a problem. You now have cancer. I can cure it." — 2020
+> ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]])
+
+> "You can never make a sale if you never ask for it." — 2020
+> ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]])
+
+**In 2020**, "Explain away concerns" recognized only **three objections: price, stall,
+and decision-maker** — price = a value discrepancy; decision-maker = lean on the
+prospect's own implied past agreements with their partner; all objections drilled with
+flash cards ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]). In 2022 he adds the mechanics:
+objection handling uses **concession → reciprocity → "fair enough"** (people don't like
+to feel they're being unfair), and price objections are solved by drilling the *sales
+team's* belief, not the prospect's ([[../../sources/2022-01-19-yt-okA9Yt2KZuk]]).
+
+> ⚠️ EVOLUTION (not a hard contradiction): The 2020 talk frames concerns as **three
+> objections** (price / stall / decision-maker) inside CLOSER's "E." The 2023 logic talk
+> ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]) expands this to **five obstacle types**
+> (time / value / fit / authority / avoidance) and distinguishes *obstacles* (before the
+> offer) from *objections* (after). Treat the 2023 five-type model as the later, more
+> developed position; the 2020 three-objection list is the earlier, coarser version.
+
+> ⚠️ REFINEMENT on question-only scripting: The 2020 talk says everything "has to be a
+> question only" ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]). The 2022 keynote softens
+> this — he prefers questions *except* for high-transaction, low-price sales (~$200 and
+> under), which can be more heavily scripted ([[../../sources/2022-01-19-yt-okA9Yt2KZuk]]).
+
+---
+
+## 2. Logical closing — the onion of blame & five obstacles
+
+From a 2023 live sales training to gym owners, Hormozi's most developed closing model
+([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]). He positions himself as a **logical
+closer**: emotion fades in ~two weeks, so the *logic* must still be there for the decision
+to hold.
+
+**Definitions and ethics** ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]):
+- **Selling happens before you ask; closing happens after** you present the offer (the
+  "red zone" / "last five yards").
+- **Sales ethics = intention.** If the prospect knew everything you knew and would still
+  choose *not* to buy, then selling them is deceiving them.
+- **Prospect breakdown:** ~10% never buy, ~10% buy regardless ("scarecrow" sale), ~80%
+  need help deciding. You train for the 80%.
+- **The goal of closing is to get someone to *decide*, not to buy** — reward the deciding
+  activity, not the outcome, because the team can only control what they do.
+
+**The onion of blame** — borrowed from Albert Ellis / CBT (see §7, not original to Alex).
+People cast their power to three sources of emotional disturbance: **circumstances, other
+people, and self.** A circumstance objection is the outermost layer; expect two or three
+more layers underneath. Peel layers until the prospect is "in power" and can decide
+([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+
+**Five obstacle types + counters** ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]):
+
+| Obstacle | Core counter |
+|---|---|
+| **Time** ("I'm too busy") | Macro: "busy is the best time" (you'll always be busy). Micro: "everyone has the same 24 hours." Kill the **"when-then" fallacy** ("I'll start when…" reverses the required order). |
+| **Value / money** ("can't afford it") | Means "not valuable enough" (the $5k-Ferrari thought experiment). Split price from belief; "you'll buy the lessons either way"; **be resourceful, not resourced** (Phil Knight / *Shoe Dog*). |
+| **Fit** ("I'm a special snowflake") | New identity → new priorities ("we vote with our dollars"); pain of change < pain of staying same (Tony Robbins); the **hypothetical isolate** ("if the program had everything you needed, would you do it?"). |
+| **Authority** ("I have to ask my spouse") | Hardest to overcome. 3 steps: isolate/collapse the foil → realize permission was already given → realize you never needed permission. |
+| **Avoidance** ("I need to think about it") | = fear of a mistake. Frame across past/present/future: stack past actions ("another year of *almost*"); **rocking-chair close** in the present; future-pace both good and bad outcomes. |
+
+**Closing frames** ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]):
+- **Best-case / worst-case (risk-free) close:** both options are risk-free, but only one
+  moves you toward your goal — walking out is *guaranteed* not to get what you want. (This
+  matches the 2022 "best-case/worst-case + decision framework" for the "think about it"
+  stall: [[../../sources/2022-01-19-yt-okA9Yt2KZuk]].)
+- **Bonus close:** whatever reason the prospect gives is usually the exact reason they
+  should do it ("I don't have time" → perfect reason).
+- **Decision-making = product + trust + access to money:** do you believe it works, do you
+  trust us, will it work for *you*, do you have access to the money. If yes → decide.
+- **Master frame — "closer or further?"** Don't ask "will this get me what I want?"
+  (needs high predictive accuracy); ask "will this get me *closer or further*?" This lowers
+  the action threshold.
+
+> "Selling is a transference of belief over a bridge of trust." — 2023
+> ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]])
+
+> "The difference between help and manipulation is intention." — 2023
+> ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]])
+
+> "Closing is a dance, not a fight. It is seduction, not rape." — 2023
+> ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]])
+
+> "The perfect decision maker makes none. The directional decision maker makes many and
+> then course corrects much faster." — 2023
+> ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]])
+
+> "You're looking for permission when you really need support." — 2023
+> ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]])
+
+---
+
+## 3. Three tactical sales "hacks"
+
+From a 2023 short clip ([[../../sources/2023-09-26-yt-Uu14KTSVdfk]]):
+
+1. **The "but" reversal — own the negatives.** "But" signals a contrast; most people say
+   *good* but *bad*, which lands negatively. Flip it: state the negative first, then reverse
+   into the positive — e.g. "our program's really hard, it's really long, it's honestly very
+   complicated, **but** it works better than anything you've ever tried before." Hormozi
+   credits the "own all the negatives about yourself so no one else can" idea to **Eminem's**
+   rap technique (borrowed — see §7).
+2. **High-anchor to shift the buying curve.** Invent a service level **10x higher** than
+   your most expensive offer. Either a rare "whale" buyer takes it, or (far more commonly)
+   the buying curve shifts up and more people take the second-highest option because it's
+   now anchored against a bigger number. "The first number someone sees" becomes the
+   psychological reference point.
+3. **Align the objection with buying behavior.** When a prospect objects ("this seems like
+   a lot of money"), agree, then re-label the objection as a **success indicator**: the
+   people who succeed most make the biggest relative investment. Whatever the objection is,
+   associate it with the label of someone who's going to win.
+
+> "You want to say every negative thing you possibly can about yourself so no one else
+> can." — 2023 ([[../../sources/2023-09-26-yt-Uu14KTSVdfk]])
+
+> "Anchor something really high, knowing that it's okay that they don't take it." — 2023
+> ([[../../sources/2023-09-26-yt-Uu14KTSVdfk]])
+
+> "The people who succeed the most are the ones who make the biggest relative
+> investment." — 2023 ([[../../sources/2023-09-26-yt-Uu14KTSVdfk]])
+
+---
+
+## 4. Sales = transference of conviction
+
+Hormozi's foundational redefinition of what selling *is*, argued most fully in a 2022 solo
+video ([[../../sources/2022-03-16-yt-bHnVItVGJPA]]) and echoed across the 2022 keynote and
+2023 talk ([[../../sources/2022-01-19-yt-okA9Yt2KZuk]]; [[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+
+- The **#1 lever on a team's close rate is the salesperson's conviction in the product** —
+  not scripting or skills. A rep with no belief has no baseline conviction to transfer, so
+  no script compensates ([[../../sources/2022-03-16-yt-bHnVItVGJPA]]).
+- **Conviction is a matter of degree, not a binary** — "to what extent do you believe" is
+  the real predictor of closing ability, which is why founders are often the best promoters
+  of their own businesses ([[../../sources/2022-03-16-yt-bHnVItVGJPA]]). The 2023 talk makes
+  the same point about belief *and trust* being continuums: "ask *how much*, not *do they /
+  don't they*" ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+- **"Commission breath":** reps who learn more about a weak product lose belief and
+  unconsciously stop closing; humans sniff out intention. Fix belief (and the product)
+  first ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+- **Conviction is a depletable resource** — prospects spread doubt into reps ("mojo" goes
+  off), so leaders must continually "refill the cup." A rep who starts strong then declines
+  usually has a *conviction* problem, not a skills problem; training won't fix it
+  ([[../../sources/2022-03-16-yt-bHnVItVGJPA]]).
+- **Operational system to manufacture conviction:** a weekly cross-departmental meeting
+  where customer success shares client wins with sales; a pipeline to collect
+  testimonials/reviews; putting real clients on calls with the team; sales directors reading
+  testimonials each morning to set the day's cadence
+  ([[../../sources/2022-03-16-yt-bHnVItVGJPA]]).
+- **Proof point (self-reported):** on gym program "weigh-out"/graduation days, close rates
+  hit ~100% because reps were surrounded by fresh transformations, and consults took half
+  as long ([[../../sources/2022-03-16-yt-bHnVItVGJPA]]).
+- Skills/scripts are "tools in the tool belt" — they communicate and build trust so
+  conviction can transfer, but they are **secondary** to the conviction itself
+  ([[../../sources/2022-03-16-yt-bHnVItVGJPA]]).
+
+> "Sales is a transference of conviction. And so you've got some person who doesn't
+> believe, one person who does believe, and trust is what completes the transfer." — 2022
+> ([[../../sources/2022-03-16-yt-bHnVItVGJPA]])
+
+> "Conviction... is not do you believe in the product, do you not believe in the product,
+> but to what extent do you believe in the product, how much and how deeply do you believe
+> that is the predictor of your ability to close." — 2022
+> ([[../../sources/2022-03-16-yt-bHnVItVGJPA]])
+
+> "We need to be reminded more than we need to be taught. People who believe in something
+> automatically sell it." — 2022 ([[../../sources/2022-03-16-yt-bHnVItVGJPA]])
+
+**Terminology note:** Hormozi uses **"conviction"** and **"belief"** interchangeably for
+the same idea across all three sources (2022 solo: "transference of conviction"; 2023
+talk and 2022 keynote: "transference of belief"). The bridge in every version is **trust**
+([[../../sources/2022-03-16-yt-bHnVItVGJPA]]; [[../../sources/2023-06-06-yt-iqAtBbGr3VY]];
+[[../../sources/2022-01-19-yt-okA9Yt2KZuk]]).
+
+---
+
+## 5. High-ticket pricing & the first high-ticket sale
+
+Origin story and pricing lesson from a 2026 solo video
+([[../../sources/2026-06-04-yt-B7P5WCVfnPE]]).
+
+**The story (self-reported, undated within the video, early gym-launch era):** Winding down
+the gym-launch model, Hormozi had eight gyms to call and cancel on. On the first call, wanting
+the buyer to refuse, he quoted **$6,000** (a 12x on his usual $500 package) and said he
+wouldn't even fly out. The buyer said **"Done."** He repeated it across the day — raising to
+$8,000, then $10,000 — and collected **$60,000 in a single morning**, before he'd even built
+the product. He calls this "the moment where my life really changed"
+([[../../sources/2026-06-04-yt-B7P5WCVfnPE]]).
+
+**The pricing lesson:**
+- You **earn the right to charge more** when you no longer think the smaller amount of money
+  is worth your time — a belief/behavior shift, not just a skill
+  ([[../../sources/2026-06-04-yt-B7P5WCVfnPE]]).
+- **Poor people think in terms of cost; rich people think in terms of the ratio — cost vs.
+  value ("For what?").** A $20,000 price is "expensive" to one buyer and "for what?" to the
+  other ([[../../sources/2026-06-04-yt-B7P5WCVfnPE]]).
+- **Anchoring tactic:** before stating a high price, say *"before I tell you the price, it's
+  super expensive."* This creates an emotional anchor accommodating the prospect's buying
+  power and gives the seller a breather at the moment most salespeople choke
+  ([[../../sources/2026-06-04-yt-B7P5WCVfnPE]]). (Same anchoring instinct as Hack 3 in §3 and
+  the high-anchor in §3 Hack 2.)
+- **Close rates reveal underpricing.** Rough tiers Hormozi gives
+  ([[../../sources/2026-06-04-yt-B7P5WCVfnPE]]):
+
+  | Close rate | Pricing headroom |
+  |---|---|
+  | ~80% | 3–4x |
+  | 60–80% | 2–3x |
+  | 50–60% | 1.5–2x |
+  | 40–50% | 1.25–1.5x |
+  | 30–40% | priced about right |
+  | below 30% | get better at selling (better offer or better customers) |
+
+  Raise price 4x and let close rate fall from 80% to ~35%, and you still make ~120% of prior
+  revenue — more money from fewer customers.
+- **Pricing is two-way communication:** it signals what you're about and lets the correct
+  customers self-select; people read price as an indicator of value
+  ([[../../sources/2026-06-04-yt-B7P5WCVfnPE]]).
+- **Virtuous cycle:** higher price → higher gross margins → better talent → better service →
+  better reputation → more demand → higher price
+  ([[../../sources/2026-06-04-yt-B7P5WCVfnPE]]).
+- Rich buyers want **fast, easy, and guaranteed**, and will pay to have work pre-done
+  ([[../../sources/2026-06-04-yt-B7P5WCVfnPE]]).
+
+> "You earn the right to charge more because you no longer think the smaller amount of money
+> is worth your time." — 2026 ([[../../sources/2026-06-04-yt-B7P5WCVfnPE]])
+
+> "Poor people will think in terms of cost, and I would say rich people will think in terms
+> of the ratio, the return, cost versus value." — 2026
+> ([[../../sources/2026-06-04-yt-B7P5WCVfnPE]])
+
+> "Before I tell you the price, it's super expensive. ... You take a breath, they take a
+> breath, then you deliver." — 2026 ([[../../sources/2026-06-04-yt-B7P5WCVfnPE]])
+
+> "Sell to the rich, they pay better. It's better to sell fewer expensive customers than
+> many broke customers. And if you sell to rich people for long enough, they will make you
+> one of them." — 2026 ([[../../sources/2026-06-04-yt-B7P5WCVfnPE]])
+
+---
+
+## 6. Scaling a sales team
+
+Two overlapping operating systems: the 2020 **"five C's"** for keeping results consistent
+([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]), and the 2022 **outbound org chart + comp
+model** ([[../../sources/2022-01-19-yt-okA9Yt2KZuk]]).
+
+### The five C's (2020) ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]])
+- **Closer** — the framework/sequence (CLOSER, §1).
+- **Call recordings** — record every call (a compliance requirement; also makes reps
+  accountable to the script). He recommends **Gong** for Zoom-based teams *(dated tooling,
+  2020)*.
+- **Comms** — daily huddles (share testimonials), weekly one-on-ones, monthly reviews. In
+  one-on-ones, reps tag their best/worst/average call.
+- **Cut** — regularly cut the bottom 10%; he claims a ~30% productivity jump every time.
+- **Competition** — a published, daily-visible leaderboard; ~six-week competitions in
+  three-person teams so reps share best practices instead of being cutthroat. Prize budget
+  ~25% of one month's check per person.
+
+> "When you cut the bottom, you'll see a 30% jump in productivity every time. So if you can
+> have a persistent 30% jump, why would you not do that?" — 2020
+> ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]])
+
+### The outbound org chart & comp (2022) ([[../../sources/2022-01-19-yt-okA9Yt2KZuk]])
+
+Hormozi added cold outbound as a **second acquisition channel** after PE diligence flagged
+that his gym-licensing business was 100% channel-dependent on Instagram/Facebook, that his
+name was the brand, and that churn was high. Portfolio was then ~$85M/year; largest sales
+team = 26 people.
+
+- **Three roles (a "Christmas tree" org chart):**
+  - **BDR** (Business Development Rep) — first-touch outbound; "replace the advertisement."
+  - **SDS** (Sales Development Specialist) — qualifies the lead, delivers promised value.
+  - **BC** (Business Consultant) — the closer. A separate "ascensions" team sells the $40k
+    product.
+- **BDR funnel math:** 100 dials/day → ~20 pickups → ~2 appointments that show. BDRs are
+  paid **only on shows** ($50/show), work **4-hour blocks**, and dial via **Phone Burner**
+  wrapped with a **local area code** *(dated tooling, 2022)*.
+- **SDS call** (~45 min): ~30 min delivering genuinely valuable help + ~15 min "frame
+  shift," then a **live scripted speaker-phone handoff** to the closer (this fixed a
+  two-month no-show problem).
+- **BC/closer** closes ~10% of showed SDS appointments. CAC ≈ $500 against a $40k LTV.
+- **Economics rule:** to justify manual outbound, the ticket should be **at least $15k** (he
+  prefers $20k+). Outbound ramps **linearly, not exponentially** (m1=1, m2=2, m3=4, … ~45
+  sales/month by month 14).
+- **Baseball farm system:** AA = BDRs, AAA = SDS, "the bigs" = BC. Four tiers per role, with
+  milestone-based promotions paced ~8 weeks apart because "a salesperson has six to eight
+  weeks of steam before they get disheartened." Each promotion = title bump + tiny symbolic
+  pay bump. **Relegation** exists.
+- **On-target earnings (OTE):** BDR ~$40k; SDS ~$55–65k; BC ~$120–220k (top ~$225k). BDRs
+  accept $40k because the clear path shows ~$200k in 9–12 months — "pure meritocracy."
+- **Try-or-die for new closers:** first 10 deals / ~2 weeks; must close ≥1 of 10. Inbound
+  close rate rose from ~20–25% to ~60% because closers "cut their teeth" on cold outbound.
+- **Recruiting fix:** stop over-screening BDRs (ramp is ~2 days, near-zero cost-per-lead) —
+  "let them all in and see how they do."
+
+> "You don't get promoted, you get the ability to be promoted." — 2022
+> ([[../../sources/2022-01-19-yt-okA9Yt2KZuk]])
+
+> "I have yet to find a killer who doesn't close in the first two weeks." — 2022
+> ([[../../sources/2022-01-19-yt-okA9Yt2KZuk]])
+
+> "Tons of guys who start hot and then fizzle, but no one who starts cold and then gets
+> good." — 2022 ([[../../sources/2022-01-19-yt-okA9Yt2KZuk]])
+
+---
+
+## 7. Borrowed ideas (NOT original to Alex)
+
+Per fidelity rules, ideas Hormozi explicitly attributes to others — do not train these as
+his own coinages:
+
+- **Albert Ellis / CBT** — the three causes of emotional disturbance (circumstances / other
+  people / self), which Hormozi builds into the "onion of blame"
+  ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+- **Eminem** — "own all the negatives about yourself so no one else can," the basis of the
+  "but" reversal ([[../../sources/2023-09-26-yt-Uu14KTSVdfk]]).
+- **Tony Robbins** — you change when the pain of change < pain of staying the same (fit
+  obstacle) ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+- **Phil Knight / *Shoe Dog*** — "resourceful, not resourced" (value obstacle)
+  ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+- **Charlie Munger** — "high moral responsibility to be rational" (invoked in the logical-
+  closing frame) ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+- Other thinkers cited in the 2023 talk's supporting material (Feynman, Confucius, Dale
+  Carnegie) are general influences rather than sales mechanisms
+  ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+- Hormozi **claims the "rocking chair close" as his own** invention
+  ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+
+---
+
+## Related pages
+
+- Hub: [[business]]
+- Pricing / offer design overlaps: [[money-model]], [[upsell-offers]],
+  [[attraction-offers]]
+
+## Sources
+
+- [[../../sources/2020-12-03-yt-bgmh7p1s7zs]] — CLOSER framework + the five C's of sales
+  ops (2020)
+- [[../../sources/2023-06-06-yt-iqAtBbGr3VY]] — logical closing: onion of blame, five
+  obstacles, closer-vs-further (2023)
+- [[../../sources/2023-09-26-yt-Uu14KTSVdfk]] — three sales hacks: "but" reversal, high
+  anchor, objection-reframe (2023)
+- [[../../sources/2022-03-16-yt-bHnVItVGJPA]] — sales as transference of conviction (2022)
+- [[../../sources/2022-01-19-yt-okA9Yt2KZuk]] — sales-team org chart, comp/OTE, CLOSER
+  breakdown (2022)
+- [[../../sources/2026-06-04-yt-B7P5WCVfnPE]] — first high-ticket sale; cost-vs-value
+  pricing; underpricing tiers (2026)

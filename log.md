@@ -3,6 +3,27 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] lint | Topic-synthesis pass: 7 new topic pages from 44 L3-candidates
+
+User chose topic-synthesis over more raw ingestion. Six parallel domain agents (source-page-
+only, hubs/index/persona left to the coordinator) built 7 new queryable topic pages from the
+accumulated L3-candidate video sources:
+- business/sales-frameworks.md (CLOSER, onion-of-blame + 5 obstacles, 3 hacks, conviction,
+  high-ticket pricing, sales-team ops) — flagged the 2020→2023 objection-model evolution
+- business/scaling-and-enterprise-value.md ($0→$10M ladder, 5 ways to scale, scale-zero,
+  EV=customers×LTGP÷risk, exit philosophy, talent-side LTV:CAC) — flagged 2023 vs 2026 up/down-market
+- business/acquisition-channels.md — reconciled Big-4 vs 6-sources vs Core-Four as levels/vintages
+  of one taxonomy (word-of-mouth = only exponential channel, the consistent thread); CFA, Rule of 100
+- content-strategy/content-engine.md + branding.md (media playbook + branding framework) —
+  flagged the 2024 "brand over everything" vs 2026 "quality over brand" tension
+- mindset/discipline-and-decision-making.md — infinite-game misattribution (Carse→Sinek) + therapy
+  medical-disclaimer preserved as callouts
+- wealth/investing-and-wealth.md — build vs hold layers, all self-reported figures flagged
+All claims cited to source pages, verbatim quotes preserved, contradictions/evolutions flagged.
+Wired into the 4 domain hubs + index.md. The wiki is now materially more queryable — the 44
+L3-candidates are synthesized. Still pending (user also requested): light-treatment ingest of the
+6 remaining near-duplicate coaching Q&As; a persona beliefs/voice refresh + system-prompt v4.
+
 ## [2026-07-08] ingest | Stage B batch 14: 2 high-value @MoreMozi (L2) — deliberate small batch
 
 **Diminishing-returns decision point.** Of the next 8 P1, 6 were near-identical

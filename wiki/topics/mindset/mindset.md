@@ -10,5 +10,5 @@ Discipline, self-belief, decision-making, pain and identity.
 
 ## Pages
 
-_(none yet)_
+- [[discipline-and-decision-making]] — "12 by 30" work ethic, sacrifice & focus, radical ownership, irreversible-decision framework, confidence-from-proof, infinite game, time & wealth psychology.
 
