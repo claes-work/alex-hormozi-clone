@@ -42,6 +42,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2023-10-13 | [[2023-10-13-yt-tr5OSrODjpw]] | "Stop doing this to yourself" — input-output equation, pain-as-fuel | |
+| 2023-10-15 | [[2023-10-15-yt-Fqkxu_Ny5Ys]] | Marketing doesn't matter — product > marketing (co-host ~Andy Frisella) | |
+| 2023-10-17 | [[2023-10-17-yt-W3CtoJRwjns]] | "If you were his friend" — personal: hard-to-befriend, Skittle feedback | |
+| 2023-11-05 | [[2023-11-05-yt-OO4mRCLcANs]] | Good relationships — operant conditioning (Leila co-speaker, excluded) | |
+| 2023-11-17 | [[2023-11-17-yt-V0duypXA0bo]] | Reflects on world-record Leads launch (137k ads / 104k affiliates) | |
+| 2023-12-15 | [[2023-12-15-yt-Rqu9IAi2Y9Q]] | Three skills for first million (clip delivers: sales); high-ticket easier | |
+| 2023-12-30 | [[2023-12-30-yt--ouJJs1KaiE]] | Become more confident — confidence-from-proof, traits-are-skills | ★ |
 | 2024-02-12 | [[2024-02-12-yt-z8WPl1v39P8]] | Why you need a brand in 2024 — brand>direct-response, 8 ways to get customers, give-give-give | ★ |
 | 2024-02-19 | [[2024-02-19-yt-qku04Qv9fv0]] | Find the best business opportunities — low-capex/high-margin (80%) filter | ★ |
 | 2024-03-05 | [[2024-03-05-yt-XclY0Yl8u9M]] | Biggest difference rich vs poor — money = condensed time (Lewis Howes iv) | ★ |
@@ -57,6 +64,6 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-07-21 | [[2025-07-21-yt-ZklXJzHzW2U]] | Operator Pod Ep.1 — ⚠️ **no Alex** (Leila + operator), not persona data | |
 | 2025-09-13 | [[2025-09-13-yt-EuMu6LaxBSk]] | $106M/72h launch debrief — ⚠️ **no Alex** (Leila + exec); useful launch/bio facts | |
 
-_38 videos ingested (L2). 22 flagged L3-candidate for the next synthesis pass. 3 videos
+_45 videos ingested (L2). 23 flagged L3-candidate for the next synthesis pass. 3 videos
 contain no Alex speech (2 Leila+exec debriefs, 1 Leila-on-Alex) — kept as record/bio-fact
 citations only, excluded from voice data._

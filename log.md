@@ -3,6 +3,17 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 7: 7 @ACQofficial P1 clips (late-2023, L2) + 1 Leila skipped
+
+7 Alex-led @ACQofficial late-2023 interview clips via source-only subagents. Mostly
+repetitive/clip-grade (1 L3-cand: -ouJJs1KaiE confidence-from-proof). Others: tr5OSrODjpw
+(pain-as-fuel), Fqkxu_Ny5Ys (product>marketing; co-host inferred Andy Frisella; bio: Offers
+25-28k copies/mo), W3CtoJRwjns (personal — "hard to be friends with", Trevor/Leila Skittle
+feedback), OO4mRCLcANs (operant conditioning w/ Leila, her lines excluded), V0duypXA0bo
+(Leads launch numbers 137k ads / 104k via 27k affiliates), Rqu9IAi2Y9Q (sales as #1 skill).
+Skipped 1 Leila video (dad viral). Ledger: L2=45, skipped=5, 23 L3-candidates. Guest/co-host
+attribution handled throughout. Next: remaining @ACQofficial P1, then @GymLaunch/@MoreMozi.
+
 ## [2026-07-08] ingest | Stage B batch 6: 6 @ACQofficial P1 clips (L2) + 2 Leila skipped
 
 6 Alex-led @ACQofficial 2024 interview clips via source-only subagents; 5 are L3-candidates:
