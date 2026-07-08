@@ -3,6 +3,17 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 14: 2 high-value @MoreMozi (L2) — deliberate small batch
+
+**Diminishing-returns decision point.** Of the next 8 P1, 6 were near-identical
+"Helping a $XM [business] scale to $100M" coaching Q&As (same frameworks re-applied,
+~10 already ingested). Deliberately ingested only the 2 genuinely distinct videos —
+XWHqOYR0IHM (victims-vs-champions past reframe) and lIL8wDuLWac (shiny-object / tech-enabled
+-vs-SaaS-multiple) — both L2, both fairly standard (no L3-cand). The remaining 6 coaching
+Q&As left OPEN (L0) pending a decision: either bulk-ingest them at light treatment, or
+(recommended) run the TOPIC-SYNTHESIS pass on the 44 accumulated L3-candidates first, since
+unique persona value per new coaching video is now near zero. Ledger: L2=92, 44 L3-candidates.
+
 ## [2026-07-08] ingest | Stage B batch 13: 8 @MoreMozi P1 (L2, richer batch)
 
 8 @MoreMozi videos; 7 L3-cands (much richer than batch 12): _TZEJAYUeCo ($0→$10M stage
