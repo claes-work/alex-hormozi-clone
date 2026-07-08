@@ -6,6 +6,7 @@ _Last updated: 2026-07-08 (Phase 0)_
 ## Sources
 
 - [wiki/sources/2026-07-08-research-biography-dossier.md](wiki/sources/2026-07-08-research-biography-dossier.md) — Web-research dossier: full life timeline, family, net worth, 10 tracked contradictions, ranked primary-source list.
+- [wiki/sources/2026-07-08-research-media-inventory-dossier.md](wiki/sources/2026-07-08-research-media-inventory-dossier.md) — Complete channel/podcast/website/social inventory with verified IDs and counts; Phase-3 enumeration order.
 
 ## Topics
 
@@ -21,6 +22,9 @@ Domain hubs (pages listed on each hub):
 ## Entities
 
 - [wiki/entities/leila-hormozi.md](wiki/entities/leila-hormozi.md) — Wife/co-founder/Acquisition.com CEO. Context only — persona clones Alex.
+- [wiki/entities/youtube-channels.md](wiki/entities/youtube-channels.md) — All channels with IDs and counts: 4 ingestion targets (2,561 long-form, 7,725 shorts), 5 excluded.
+- [wiki/entities/the-game-podcast.md](wiki/entities/the-game-podcast.md) — The Game podcast: RSS, 1,133 episodes since 2017-07-01, only source for 2017–2021 material.
+- [wiki/entities/web-and-social-presence.md](wiki/entities/web-and-social-presence.md) — Websites, socials, newsletter with scrapeability assessment.
 
 ## Persona
 
@@ -36,3 +40,4 @@ Domain hubs (pages listed on each hub):
 - [ROADMAP.md](ROADMAP.md) — Phased mass-ingestion plan with per-phase status.
 - [pipeline/ledger.csv](pipeline/ledger.csv) — Machine-readable source tracking (empty, seeded in Phases 1/3).
 - `tools/` — fetch_channel.ps1, fetch_captions.ps1, vtt_to_text.py, ledger_report.py.
+- `.claude/commands/ingest-loop.md` — `/ingest-loop` slash command: one autonomous Phase-3 ingestion iteration; run continuously via `/loop /ingest-loop`.

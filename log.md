@@ -3,6 +3,17 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Media-presence inventory (Phase 1, part 2/3)
+
+Channel/podcast/web inventory dossier filed + 3 entity pages (youtube-channels,
+the-game-podcast, web-and-social-presence). Ingestion universe quantified: 2,561
+long-form videos + 7,725 shorts across 4 target channels; The Game RSS with 1,133
+episodes (sole source for 2017–2021); X threads high-value but login-walled.
+Created /ingest-loop slash command (.claude/commands/ingest-loop.md) encoding the
+Phase-3 autonomous batch protocol. Raw book material received ($100M Money Models +
+Affiliate Black Book) — queued for Phase-2 L3 ingest. Company-registry research
+(part 3/3) still running.
+
 ## [2026-07-08] ingest | Biography research dossier (Phase 1, part 1/3)
 
 Web-research dossier filed (wiki/sources/2026-07-08-research-biography-dossier.md):

@@ -157,7 +157,8 @@ scheduling.*
 
 ## Inputs still needed from the user
 
-- **Phase 2 (blocking)**: the three book texts, chapter-ordered, dropped into
-  `raw/books/<book-slug>/` or provided as paths, plus edition metadata.
+- **Phase 2 (partially unblocked 2026-07-08)**: *$100M Money Models* + the Affiliate
+  Black Book received in `raw/` (PDF + extracted md) — queued for L3 ingest.
+  Still needed: *$100M Offers* and *$100M Leads* texts.
 - **Phase 4 (later)**: clipped exports for social platforms where scraping is blocked.
 - **Phase 5 (later)**: consent to install cron schedules.
