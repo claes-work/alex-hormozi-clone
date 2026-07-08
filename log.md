@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — retention, articulation, top-1% valuation
+
+Loop iteration 31. 8 @AlexHormozi P2 (2024-08→09). 5 L3-candidates: afbP6sB_Atc (★ retention case
+study — saved a SaaS $2M, 61% fewer cancels via onboarding/expectations/incentives; bamfam,
+escalations team, bow-tie reach-out → warrants a retention topic page), s6tkRztZwYc (★ articulation/
+communication — debundle vague terms into observable behaviors + logic/evidence/utility filter; the
+"Management Diamond" 5-reasons framework), fD-sxKiB30M (★ top-1% valuation — multiple×EBITDA + 6
+multiple levers; dedup wtsX7WHQMFM), lEIqyLE4iOY (★ followers-are-vanity — proof-led content, Twitter
+home-base repurposing engine), zNiXk_3C_Io (★ problem-vs-missed-opportunity taxonomy; "strategy =
+limited resources vs unlimited opportunities"). Two compilations kept L2: oRMG_HpOAN4 "13 years in
+79 min" (re-cut) and TooAB8Ow6cQ "3 hours" (⚠️ multi-speaker Skool mastermind — Sam Ovens correctly
+excluded from persona data). Ledger: L2=293. Next: continue @AlexHormozi P2 (342 left).
+
 ## [2026-07-09] lint | Synthesis pass 6 — appearance populated, DOB resolved, +2 topics, system-prompt v8
 
 Loop iteration 30 (maintenance/synthesis). The Bumstead workout (2024-11-18) unlocked two long-open
