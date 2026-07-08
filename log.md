@@ -3,6 +3,18 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] plan | Comprehensive "finish everything" loop authored + @TheSkoolSchool found
+
+User directive: keep going autonomously in the loop until EVERYTHING is done — persona
+refinement, remaining P1 then P2, shorts dedup — no stopping/pausing recommendations.
+Rewrote .claude/commands/ingest-loop.md into a comprehensive self-driving loop with stages
+P (persona refinement, delegated), A (enumerate), B (ingest P1→P2), C (shorts dedup), D
+(final wrap-up + stop). Channel-completeness check per user request: the 4 known channels
+were NOT all — **@TheSkoolSchool (UCdZZPEqm3ERa8VQJh7DqeHw) has substantial solo Alex content**
+and is reclassified from excluded to TARGET (enumerate on first pass). Spanish dub, @mozimedia,
+Skool Games Challenge, Leila's channel remain excluded. First loop iteration = Stage P (the 7
+synthesized topic pages are not yet reflected in beliefs.md/voice.md → persona is stale).
+
 ## [2026-07-08] ingest | Light L2: 6 remaining coaching Q&As (single agent)
 
 Second half of the user's choice: light-treatment ingest of the 6 near-duplicate

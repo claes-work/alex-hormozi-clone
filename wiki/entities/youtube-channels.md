@@ -19,11 +19,12 @@ as of 2026-07-08, verified via yt-dlp. Source:
 | 2 | **@ACQofficial** (114K) | UCZuY75gOI808Rqyr6LgxVww | 89 | 2,178 | Lectures/keynotes — high signal per video |
 | 3 | **@MoreMozi** (93.5K) | UCrvchO1h6lWZAuGaa1LqX9Q | 1,841 | 785 | Official second channel (since 2025-09-25); high-volume Q&A; grows fast — incremental |
 | 4 | **@GymLaunch** (12.7K) | UCZOQI7xpdJ9da0sb1E6kngA | 124 | — | Gym-Launch-era videos featuring him |
+| 5 | **@TheSkoolSchool** (13.5K) | UCdZZPEqm3ERa8VQJh7DqeHw | TBD | TBD | **Reclassified to TARGET (2026-07-08)**: hosts substantial solo Alex content ("… - Alex Hormozi"); some Skool Games recordings feature others → attribute per video |
 
 ## Excluded / parked
 
 - **Alex Hormozi en Español** (UCmJM2Giuzet9olsQvAjIf1Q, 12 videos) — dubbed, skip for English corpus.
-- **@TheSkoolSchool** (UCdZZPEqm3ERa8VQJh7DqeHw) — only the quarterly "Skool Games ft. Alex Hormozi" recordings are relevant; cherry-pick.
+- ~~@TheSkoolSchool~~ — **reclassified as a TARGET** (see targets table above); it has substantial solo Alex content, not just Skool Games recordings.
 - **Skool Games Challenge** (UCAbnERwmWVDOgem3YtvJoug) — likely abandoned.
 - **@mozimedia** (UC_s_pgY3yaNhIQN8JWYEFXg) — empty placeholder.
 - **Leila Hormozi** (UCxCcu9pet4dljrBLf8R5nwA, 1.65M) — separate person, out of scope.
