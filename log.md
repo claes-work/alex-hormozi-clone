@@ -3,6 +3,14 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage A: @TheSkoolSchool enumerated (60 video + 161 shorts)
+
+Loop iteration 2. Enumerated the newly-found target @TheSkoolSchool: 60 long-form + 161 shorts;
+backfill filled 60 videos, promoted 28 to P1. Ledger now 11,294 rows. All 5 target channels now
+enumerated. Next: Stage B — ingest open P1 long-form (oldest-first: @GymLaunch Gym-Launch-era +
+@TheSkoolSchool + @MoreMozi remainder). Attribute per video (Skool Games recordings may feature
+others).
+
 ## [2026-07-08] lint | Persona pass v4 (Stage P) — beliefs/voice enriched from topic pages
 
 First iteration of the finish-everything loop. Delegated persona refresh (persona-files-only):
