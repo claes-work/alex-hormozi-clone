@@ -192,8 +192,10 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-08-24 | [[2022-08-24-yt-hrvm3hQyS44]] | ⚠️ no Alex — Kale (presale questionnaire, close 90%) | |
 | 2022-08-30 | [[2022-08-30-yt-94EB6J-ch0k]] | ⚠️ no Alex — Kale (8-part irresistible offer; credits Alex for downsell-upsell) | |
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
+| 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
+| 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_149 videos ingested (L2). @AlexHormozi + @ACQofficial + @TheSkoolSchool + @MoreMozi P1 all complete; @GymLaunch P1 in progress (mostly non-Alex). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_165 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels.** Remaining: P2 (~2,366, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

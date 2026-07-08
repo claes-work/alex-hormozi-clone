@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: @GymLaunch P1 COMPLETE — ALL P1 DONE (5/5 channels)
+
+Loop iteration 11. Title-triaged the 8 remaining Alex-candidate @GymLaunch videos: only ONE is
+Alex (4Z6-iA-Pg6I "Gym Business Talk With Alex Hormozi", live Gym Lords Q&A — NEW bio: his
+decision-lens shift from net-worth to Goodwill ~Dec 2022, tied to the fame pivot; for beliefs.md).
+The other 7 are Kale/staff/clients — notably the "sleeping in a gym" video is a CLIENT's story
+(not Alex's — triage prevented a mis-attribution). Plus 24 generic Kale titles bulk-cataloged as
+skipped (title-triaged, not watched, transparently noted). **🏁 MILESTONE: 0 open P1 — ALL P1
+landmark videos across all 5 channels are ingested.** Ledger: L2=165, skipped=33. @GymLaunch has
+just 2 genuine Alex videos total (phyR1Fq6_Ho + 4Z6-iA-Pg6I); the channel is otherwise the Kale
+company channel. **Next: P2 tier (~2,366 long-form).** Priority order by value: @AlexHormozi P2
+(470, his solo content) → @ACQofficial/@TheSkoolSchool P2 (58) → @MoreMozi P2 (1,775, Q&A cuts —
+lighter/dedup) → @GymLaunch P2 (63, title-triage). Then shorts dedup (~8,700).
+
 ## [2026-07-08] ingest | Stage B: 8 @GymLaunch triage (L2) — all Kale Owen, 0 Alex
 
 Loop iteration 10. Triaged 8 more @GymLaunch P1 (2022-09) via single agent — ALL CEO Kale Owen,
