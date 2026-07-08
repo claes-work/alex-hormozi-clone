@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 1: first 3 @AlexHormozi videos (L2)
+
+First real video ingestion. The @AlexHormozi metadata backfill (505 videos) stalled on
+slow per-video yt-dlp extraction and was killed — captions themselves fetch fast (~5s
+for a full transcript), so ingestion proceeds on title-heuristic priorities; per-video
+dates are captured from caption filenames instead. Ingested 3 P1 solo videos via one
+subagent each (keeps transcript-reading out of the main context — the scalable pattern):
+- 2024-04-20-yt-VQM3DrnVTcs — branding framework (**flagged L3-candidate** for synthesis)
+- 2025-03-17-yt--9kOXNCUdE — 1hr multi-business Q&A
+- 2023-12-06-yt-Tu6YDG0AZ5k — The Game Ep 012, billion-dollar decision (bio-marker Dec 2023)
+Skipped yt-c6wfunUDDOs ("$100M Money Models Rick Roll" — joke video, title false-positive).
+Added tools/ledger_set.py helper. Ledger: L2=3, skipped=1, L0=11,066. Guest attribution
+handled by agents (Leila/co-hosts excluded from voice data; retold maxims flagged).
+
 ## [2026-07-08] ingest | Stage A: @GymLaunch enumerated — all 4 channels done
 
 Loop iteration 3. Enumerated @GymLaunch: 124 long-form + 766 shorts; backfill filled

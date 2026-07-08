@@ -11,6 +11,12 @@ _Last updated: 2026-07-08 (first book ingest: $100M Money Models + Affiliate Bla
 - [wiki/sources/2026-07-08-research-media-inventory-dossier.md](wiki/sources/2026-07-08-research-media-inventory-dossier.md) — Complete channel/podcast/website/social inventory with verified IDs and counts; Phase-3 enumeration order.
 - [wiki/sources/2026-07-08-research-companies-dossier.md](wiki/sources/2026-07-08-research-companies-dossier.md) — Registry-grounded company profiles (WY/TX Gym Launch numbers, the APG deal, self-reported financials) + open registry items.
 
+### YouTube (L2)
+
+- [2024-04-20-yt-VQM3DrnVTcs](wiki/sources/2024-04-20-yt-VQM3DrnVTcs.md) — "How to Build a Brand in 2024": his most complete branding articulation (definition, 3 metrics, bouquet model). **L3-candidate.**
+- [2025-03-17-yt--9kOXNCUdE](wiki/sources/2025-03-17-yt--9kOXNCUdE.md) — 1hr multi-business live Q&A: cash-pay transitions, front-end offers, affiliates, guarantees.
+- [2023-12-06-yt-Tu6YDG0AZ5k](wiki/sources/2023-12-06-yt-Tu6YDG0AZ5k.md) — The Game Ep 012: billion-dollar-decision reasoning (irreversibility, no half measures); bio-marker Dec 2023.
+
 ## Topics
 
 Domain hubs (full page list lives on each hub):
