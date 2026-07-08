@@ -3,6 +3,25 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Phase 3 started: @AlexHormozi enumerated + loop hardened
+
+Committed the enumeration checkpoint (was uncommitted in the working tree): @AlexHormozi
+fully enumerated into pipeline/ledger.csv — 505 long-form + 4,765 shorts + The Game RSS
+backlog row (5,273 rows total). Priorities via title heuristic (P1=29, P2=474, P3=4,770)
+using the new tools/merge_staging.py; encoding clean after the fetch_channel.ps1 UTF-8 fix.
+
+Fixes this pass: (1) tools/backfill_metadata.py added — fills published dates + view
+counts via yt-dlp and promotes each channel's top-50-by-views solo videos to P1
+(guests stay P3). (2) /ingest-loop Stage-selection bug fixed: Stage A now fires while
+ANY of the 4 target channels is unenumerated (previously only when the ledger had zero
+yt rows → the other 3 channels would never have been enumerated). Stage A now calls
+merge_staging + backfill_metadata explicitly.
+
+⚠️ Two network-bound follow-ups for the USER's side (my tool sandbox has NO network —
+only web-search works): (a) run `python tools/backfill_metadata.py --channel @AlexHormozi`
+once to fill dates/views for the already-enumerated main channel; (b) resume
+`/loop /ingest-loop` — it will enumerate the remaining 3 channels, then ingest.
+
 ## [2026-07-08] ingest | Book (L3): $100M Money Models
 
 Full L3 ingest of the trilogy's third book (2025, user-purchased PDF, 214 pp.). Extracted

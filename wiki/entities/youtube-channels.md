@@ -29,6 +29,17 @@ as of 2026-07-08, verified via yt-dlp. Source:
 - **Leila Hormozi** (UCxCcu9pet4dljrBLf8R5nwA, 1.65M) — separate person, out of scope.
 - Fan/clip channels — unofficial, excluded.
 
+## Enumeration status
+
+- **@AlexHormozi — enumerated 2026-07-08** into the ledger: 507 long-form + 4,763
+  shorts (2 videos-tab items were ≤62 s and typed `short`). All start `L0-discovered`.
+  Long-form priorities assigned by title heuristic (P1 landmark/origin/keynote/book =
+  28, P3 guest/interview = 7, P2 remaining solo). **Refinement pending**: flat
+  enumeration returns no `view_count` for the /videos tab, so the roadmap's "top-50 by
+  views → P1" cannot yet be applied — needs a per-video metadata pass. Published dates
+  also absent (all `NA`) → Stage-B "oldest-first" ordering degraded until backfilled.
+- @ACQofficial, @MoreMozi, @GymLaunch — not yet enumerated.
+
 ## Notes
 
 - Main channel's pre-2018 Gym-Launch-era uploads appear removed/private; the channel

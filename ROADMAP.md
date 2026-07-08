@@ -150,8 +150,8 @@ scheduling.*
 
 - [x] Phase 0 — Infrastructure (done 2026-07-08)
 - [x] Phase 1 — Biography & source map (done 2026-07-08; USPTO/SOS registry items parked for a later manual pass)
-- [ ] Phase 2 — Books
-- [ ] Phase 3 — YouTube corpus
+- [~] Phase 2 — Books (in progress: $100M Money Models + Affiliate Black Book done L3; $100M Offers + $100M Leads pending texts)
+- [~] Phase 3 — YouTube corpus (in progress: @AlexHormozi enumerated; ingestion via /ingest-loop)
 - [ ] Phase 4 — Articles & social
 - [ ] Phase 5 — Automation
 

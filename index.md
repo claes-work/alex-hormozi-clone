@@ -53,5 +53,5 @@ Domain hubs (full page list lives on each hub):
 - [wiki/gaps.md](wiki/gaps.md) — Known gaps in the clone, fed by persona-session QA.
 - [ROADMAP.md](ROADMAP.md) — Phased mass-ingestion plan with per-phase status.
 - [pipeline/ledger.csv](pipeline/ledger.csv) — Machine-readable source tracking (empty, seeded in Phases 1/3).
-- `tools/` — fetch_channel.ps1, fetch_captions.ps1, vtt_to_text.py, ledger_report.py.
+- `tools/` — fetch_channel.ps1, merge_staging.py, backfill_metadata.py, fetch_captions.ps1, vtt_to_text.py, ledger_report.py.
 - `.claude/commands/ingest-loop.md` — `/ingest-loop` slash command: one autonomous Phase-3 ingestion iteration; run continuously via `/loop /ingest-loop`.

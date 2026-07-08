@@ -8,14 +8,16 @@ param(
     [Parameter(Mandatory = $true)][string]$Out
 )
 
-# yt-dlp emits UTF-8; make PowerShell decode native stdout as UTF-8 so non-ASCII
-# characters in titles (curly quotes, em dashes, emoji) survive instead of turning
-# into replacement chars.
+# Non-ASCII in titles (curly quotes, em dashes, emoji) must survive the yt-dlp -> pipe
+# -> PowerShell hop. Two ends to fix: (1) yt-dlp's own `--encoding utf-8` forces it to
+# WRITE UTF-8 instead of the lossy Windows console codepage (PYTHONIOENCODING/PYTHONUTF8
+# are NOT honored here — verified: they still emit U+FFFD for U+2019); (2) make
+# PowerShell DECODE the native stdout as UTF-8.
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 $OutputEncoding = [System.Text.Encoding]::UTF8
 
 $today = Get-Date -Format 'yyyy-MM-dd'
-$rows = yt-dlp --flat-playlist --print '%(id)s;%(title)s;%(upload_date>%Y-%m-%d|NA)s;%(duration|0)s;%(view_count|0)s;%(channel|NA)s' $Url
+$rows = yt-dlp --encoding utf-8 --flat-playlist --print '%(id)s;%(title)s;%(upload_date>%Y-%m-%d|NA)s;%(duration|0)s;%(view_count|0)s;%(channel|NA)s' $Url
 
 $csv = foreach ($r in $rows) {
     $p = $r -split ';', 6

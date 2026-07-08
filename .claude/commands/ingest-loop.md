@@ -12,10 +12,17 @@ Batch size: $ARGUMENTS (default 10 if empty).
    (`grep "^## \[" log.md | tail -5` via Bash).
 2. Run `python tools/ledger_report.py 30` for pipeline state.
 3. Decide the stage for THIS iteration (first matching rule wins):
-   - No `yt-*` rows in ledger → **Stage A (enumerate)**.
+   - **Any of the 4 target channels has ZERO rows in the ledger** (check the
+     `channel_or_publisher` column against the handles below) → **Stage A
+     (enumerate that channel)**. This must keep firing until all 4 are enumerated —
+     do NOT gate it on "ledger empty".
    - Open (`L0-discovered`/`L1`) long-form rows exist → **Stage B (ingest batch)**.
    - Only shorts left open → **Stage C (shorts dedup)**.
    - Ledger drained → **Stage D (wrap-up)**.
+
+   Enumeration state as of 2026-07-08: **@AlexHormozi done** (505 long-form + 4,765
+   shorts in ledger); @ACQofficial, @MoreMozi, @GymLaunch still pending → the next
+   Stage-A iterations handle them before Stage B ingestion continues.
 
 ## Stage A — Enumerate (one channel per iteration)
 
@@ -26,17 +33,24 @@ wiki/entities/youtube-channels.md):
 3. @MoreMozi (UCrvchO1h6lWZAuGaa1LqX9Q)
 4. @GymLaunch (UCZOQI7xpdJ9da0sb1E6kngA)
 
-Use `tools/fetch_channel.ps1 -Url "https://www.youtube.com/channel/<ID>/videos" -Out "pipeline/staging-<handle>.csv"`
-(and once more with `/shorts` for the shorts tab). Merge staging rows into
-pipeline/ledger.csv (dedupe by id; keep existing rows), delete the staging file,
-then assign priorities on the new rows:
-- **P1**: book-launch/origin-story/keynote videos and the channel's ~top-50 by views
-- **P2**: remaining solo long-form
-- **P3**: interviews/podcast episodes with guests, all @MoreMozi Q&A, all shorts
+Steps (all yt-dlp/network steps must run on a machine that can reach youtube.com):
+1. Enumerate both tabs:
+   `tools/fetch_channel.ps1 -Url ".../channel/<ID>/videos" -Out "pipeline/staging-<handle>-videos.csv"`
+   and again with `/shorts` → `staging-<handle>-shorts.csv`.
+2. Merge into the ledger with the dedup+priority tool (do NOT hand-merge):
+   `python tools/merge_staging.py --channel <handle> --videos <videos.csv> --shorts <shorts.csv>`
+   It dedupes by id (existing rows win), stamps the handle, forces shorts to P3, and
+   assigns a title-heuristic priority (P1 landmark / P3 guest / P2 rest).
+3. **Backfill metadata + view-based priority** (needs network):
+   `python tools/backfill_metadata.py --channel <handle> --top 50`
+   This fills `published` + view counts and promotes the top-50-by-views solo videos
+   to P1. If it errors (rate-limit), log it and continue — title priorities still hold.
+4. Delete the staging CSVs.
 
-Also on the FIRST Stage-A run: add one ledger row for The Game RSS backlog
+On the FIRST Stage-A run only: add one ledger row for The Game RSS backlog
 (`pod-the-game-backlog`, status L1, priority 2, note: 2017–2021 episodes need
-transcription — cost decision pending, do NOT auto-transcribe).
+transcription — cost decision pending, do NOT auto-transcribe). *(Already present as
+of 2026-07-08 — skip if the row exists.)*
 
 Log (`ingest` entry), commit (`ledger: enumerate <handle>`), push. Stop.
 
