@@ -3,6 +3,18 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 @TheSkoolSchool P1 2025 (L2)
+
+Loop iteration 5. 8 more @TheSkoolSchool P1 (2025-01 → 2025-03), all Alex solo/monologue. 3
+L3-cands: pWPvVFjXKRs (Musk's 5-step algorithm applied; prioritization = CEO's #1 job),
+5T7NAfL907s (focus = resolve "unmade decisions" + "seasons of no"), Ihfq36wuxQY (the
+"damaging admission"/"but"-amplifier sales tactic → feeds sales-frameworks). Others L2:
+win-in-20s, a Skool VSL, pain hero/villain (⚠️ agent flagged an uncertain "only child" claim
+and correctly kept it OUT of biography), a compilation montage, and an elite-focus talk that
+overlaps other focus videos. Borrowed lines (Musk, Buffett, Goggins, Munger, Donald Miller)
+attributed out. Ledger: L2=121. Next: continue P1 tail (@TheSkoolSchool remainder, @MoreMozi,
+@GymLaunch light-triage), then P2, then shorts.
+
 ## [2026-07-08] ingest | Stage B: 7 @TheSkoolSchool P1 (L2) — genuine Alex content
 
 Loop iteration 4. Interleaved the higher-Alex channel: 7 @TheSkoolSchool P1 (2024-11 → 2025-01),

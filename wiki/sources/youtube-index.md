@@ -139,6 +139,14 @@ attributed out. (yt-7P9O0wpPnMc 2025-01-01 has no captions → L1.)
 | 2024-12-25 | [[2024-12-25-yt-wESCqK-qTC8]] | For those in the lonely chapter — hardship as selection effect | |
 | 2024-12-27 | [[2024-12-27-yt-rwgiScq123s]] | Lonely chapter Pt.2 — the "most epic story" decision razor | ★ |
 | 2025-01-18 | [[2025-01-18-yt-J7DWZsKr3bI]] | Skool Games VSL — "easiest business to start" (voice/offer material) | |
+| 2025-01-27 | [[2025-01-27-yt-3kbXlRlSpQg]] | Advice for men to win in their 20s — energy→skills, save→patience | |
+| 2025-02-20 | [[2025-02-20-yt-pWPvVFjXKRs]] | Musk's 5-step algorithm applied — prioritization is the CEO's #1 job | ★ |
+| 2025-02-22 | [[2025-02-22-yt-_Nz_0qxIyok]] | #1 online business VSL (Skool, promotional) | |
+| 2025-02-26 | [[2025-02-26-yt-5T7NAfL907s]] | Power of focus — resolve "unmade decisions", "seasons of no" | ★ |
+| 2025-02-28 | [[2025-02-28-yt-iM2_bDgF_3I]] | Become a hero using pain — use pain vs. used by pain (⚠️ uncertain "only child" not filed) | |
+| 2025-03-09 | [[2025-03-09-yt-6PP8HFhqOjY]] | 9-min compilation of known mindset clips | |
+| 2025-03-12 | [[2025-03-12-yt-Ur0esPHp8qQ]] | Elite focus — "a focused fool beats a distracted genius" (overlaps) | |
+| 2025-03-15 | [[2025-03-15-yt-Ihfq36wuxQY]] | Sell anything — the "damaging admission" / "but"-amplifier tactic | ★ |
 
 ## @GymLaunch
 
@@ -156,7 +164,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-08-16 | [[2022-08-16-yt-phyR1Fq6_Ho]] | **Alex solo** — Client Finance Acquisition (no marketing budget) | |
 | 2022-08-18 | [[2022-08-18-yt-hmN2WbLlvxs]] | ⚠️ no Alex — Kale (Legion Scrambler ad system) | |
 
-_113 videos ingested (L2). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_121 videos ingested (L2). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
