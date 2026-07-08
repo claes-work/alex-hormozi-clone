@@ -18,6 +18,21 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @TheSkoolSchool P2 (L2) — Skool entity + revenge; pivoted from @AlexHormozi
+
+Loop iteration 37. **Pivoted to @TheSkoolSchool P2** (30 videos, Skool = user's high-value interest)
+since @AlexHormozi P2 overlap had gone high. 8 videos (2025-03→04). 2 L3-candidates: YoGOongsiD4
+"why Alex invested in Skool" (★ ENTITY GOLD — he's **co-owner of Skool**, his single largest
+investment / "billion-dollar decision", closed after ~6mo talks; diligence on the referral÷churn
+"golden ratio"; education crisscross [formal -6%/yr, alternative +20%/yr] → **warrants a
+wiki/entities/skool.md page**), nIDo9hicX80 "make them regret" (★ "success is the only revenge",
+out-earning his father, won-a-game-he-never-chose at 28 → biography/mindset). Notable attribution
+win: the earlier ⚠️ "only child" flag (from 2025-02-28) is RESOLVED — that bio line was a co-host's,
+not Alex (he's American); also correctly excluded co-hosts Chris Williamson (happiness) & the UK host.
+Rest L2 dups (branding ×2, maximize [dup 6rKnYBnqcYY], 28-ways-rich [Munger inversion], happiness
+[dup UulLbNJMpTg], Skool-onboarding pitch). Ledger: L2=333. Next: continue @TheSkoolSchool P2 (22
+left), then @ACQofficial P2, then back to @AlexHormozi/@MoreMozi.
+
 ## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — complaint-handling + pricing (L2=325)
 
 Loop iteration 36. 8 @AlexHormozi P2 (2024-05→06). 5 L3-candidates, most overlap existing pages —

@@ -314,7 +314,15 @@ attributed out. (yt-7P9O0wpPnMc 2025-01-01 has no captions → L1.)
 | 2025-02-20 | [[2025-02-20-yt-pWPvVFjXKRs]] | Musk's 5-step algorithm applied — prioritization is the CEO's #1 job | ★ |
 | 2025-02-22 | [[2025-02-22-yt-_Nz_0qxIyok]] | #1 online business VSL (Skool, promotional) | |
 | 2025-02-26 | [[2025-02-26-yt-5T7NAfL907s]] | Power of focus — resolve "unmade decisions", "seasons of no" | ★ |
-| 2025-02-28 | [[2025-02-28-yt-iM2_bDgF_3I]] | Become a hero using pain — use pain vs. used by pain (⚠️ uncertain "only child" not filed) | |
+| 2025-02-28 | [[2025-02-28-yt-iM2_bDgF_3I]] | Become a hero using pain — use pain vs. used by pain (the "only child" line was a co-host's, not Alex — resolved via 2025-03-04) | |
+| 2025-03-02 | [[2025-03-02-yt-IiyRLlm7gGA]] | "Building a brand" (actually focus/constraint) — track/convert/deliver, optimize vs maximize | |
+| 2025-03-04 | [[2025-03-04-yt-nIDo9hicX80]] | Make them regret doubting you — "success is the only revenge"; out-earning his father | ★ |
+| 2025-03-07 | [[2025-03-07-yt-GpntV1okpOc]] | Master branding — brand = association (influence/directionality/reach), framework-for-frameworks | |
+| 2025-03-14 | [[2025-03-14-yt-RlXAG1RxR7Q]] | Maximize instead of optimize — the "season of no", insults as chosen truths | |
+| 2025-03-21 | [[2025-03-21-yt-7td2FECKjAk]] | 28 ways to be rich — Munger inversion (28 ways to stay poor) | |
+| 2025-03-23 | [[2025-03-23-yt-YoGOongsiD4]] | **Why Alex invested in Skool** — co-owner, "billion-dollar decision", golden-ratio (referral÷churn) | ★ |
+| 2025-03-24 | [[2025-03-24-yt-q6nUhd51NuA]] | Why the best business in 2025 is a Skool community — content→community→MRR funnel | |
+| 2025-04-08 | [[2025-04-08-yt-KLTtZSxWaY0]] | How to achieve happiness — pursuit over achievement, 85-year-old-self gratitude (co-host: Chris Williamson) | |
 | 2025-03-09 | [[2025-03-09-yt-6PP8HFhqOjY]] | 9-min compilation of known mindset clips | |
 | 2025-03-12 | [[2025-03-12-yt-Ur0esPHp8qQ]] | Elite focus — "a focused fool beats a distracted genius" (overlaps) | |
 | 2025-03-15 | [[2025-03-15-yt-Ihfq36wuxQY]] | Sell anything — the "damaging admission" / "but"-amplifier tactic | ★ |
@@ -355,7 +363,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_325 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_333 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
