@@ -3,6 +3,17 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 @GymLaunch triage (L2) — all Kale Owen, 0 Alex
+
+Loop iteration 10. Triaged 8 more @GymLaunch P1 (2022-09) via single agent — ALL CEO Kale Owen,
+zero Alex (running tally now 21/21 @GymLaunch checked = 100% non-Alex, except the earlier lone
+phyR1Fq6_Ho Alex solo). Minimal pages, empty quote banks. Two teach Alex-ORIGINATED frameworks
+(CLOSER, wedding-cake model) but Kale is speaking → not persona voice. Ledger: L2=157.
+**Efficiency decision (token-conscious per user):** the ~33 remaining @GymLaunch P1 are almost
+certainly Kale/company content. Rather than fully read each, the next passes TITLE-SCAN: any
+"Alex Hormozi"-named or atypical title → full ingest; generic Kale gym-tactic titles → bulk-
+catalog as L2 no-Alex company content (completeness without the read cost). Logged transparently.
+
 ## [2026-07-08] ingest | Stage B: 3 final @MoreMozi P1 + 5 @GymLaunch triage (L2)
 
 Loop iteration 9. **@MoreMozi P1 complete** — 3 final: 3T7k-zVKOvg "How I Scaled My First Gyms"
