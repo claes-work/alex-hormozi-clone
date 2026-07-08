@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 @AlexHormozi P2 (L2) — P2 tier begins, 4 L3-cands
+
+Loop iteration 12. First P2 batch — 8 @AlexHormozi solo videos (2026-04→06), the highest-value P2
+content. 4 L3-candidates with fresh frameworks: sL16tsGafcQ (★ wealth 4-paths 2x2 taxonomy —
+bootstrap/raise/invest/fund), XsWSvz-aewA (★ AI-era content — creator risk continuum, proof/
+demonstration-at-scale moat, "capture don't create"), 3fsJFUvA6Ts (★ perfect-business filter:
+Sticky/Expensive/Expansion/Air/Unique, retention #1), EonibwnAEME (★ build-capacity/fat-pitch +
+skill-stacking + stated "first $100K" mission). Also k5-57282taI (trust = "making yourself
+punishable", 4 types, zero-punishment fragility — strong synthesis cand), 0EqJD2o-Mnk + OQf2Ba-Lp_4
+(live coaching, L2), Z5rKn1ZIp3A (Scale-or-Fail show promo trailer, thin). Ledger: L2=173. These 4
+L3-cands (wealth-4-paths, AI-content, perfect-business, fat-pitch) are candidates for new topic
+pages at the next synthesis pass. Next: continue @AlexHormozi P2 (462 left), then other channels' P2.
+
 ## [2026-07-08] ingest | Stage B: @GymLaunch P1 COMPLETE — ALL P1 DONE (5/5 channels)
 
 Loop iteration 11. Title-triaged the 8 remaining Alex-candidate @GymLaunch videos: only ONE is

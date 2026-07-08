@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-06 | [[2023-12-06-yt-Tu6YDG0AZ5k]] | The Game Ep 012 — billion-dollar-decision reasoning | |
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
+| 2026-04-24 | [[2026-04-24-yt-0EqJD2o-Mnk]] | Rapid coaching of 6 owners — scaling chains, opportunity-cost exits | |
+| 2026-05-02 | [[2026-05-02-yt-3fsJFUvA6Ts]] | Perfect-business filter — Sticky/Expensive/Expansion/Air/Unique | ★ |
+| 2026-05-08 | [[2026-05-08-yt-OQf2Ba-Lp_4]] | HVAC live teardown — "productize" stage, prioritized growth plan | |
+| 2026-05-18 | [[2026-05-18-yt-EonibwnAEME]] | Catch up in life — build-capacity / fat-pitch + skill-stacking | ★ |
+| 2026-05-26 | [[2026-05-26-yt-XsWSvz-aewA]] | Content in the age of AI — risk continuum, proof-at-scale moat, "capture don't create" | ★ |
+| 2026-06-04 | [[2026-06-04-yt-sL16tsGafcQ]] | Create wealth (4 paths) — bootstrap / raise / invest / fund-management taxonomy | ★ |
+| 2026-06-10 | [[2026-06-10-yt-k5-57282taI]] | How the top 1% think about trust — "trust = punishability", 4 types, zero-punishment | |
+| 2026-06-22 | [[2026-06-22-yt-Z5rKn1ZIp3A]] | "I can't hide this anymore" — Scale-or-Fail competition-show trailer (promo) | |
 
 ## @ACQofficial
 
@@ -195,7 +203,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_165 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels.** Remaining: P2 (~2,366, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_173 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 first).** Remaining: P2 (~2,358, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
