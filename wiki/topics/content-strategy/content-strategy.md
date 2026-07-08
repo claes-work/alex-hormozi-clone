@@ -1,4 +1,4 @@
-﻿---
+---
 type: hub
 domain: content-strategy
 updated: 2026-07-08

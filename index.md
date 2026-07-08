@@ -5,7 +5,7 @@ _Last updated: 2026-07-08 (Phase 0)_
 
 ## Sources
 
-_(none yet)_
+- [wiki/sources/2026-07-08-research-biography-dossier.md](wiki/sources/2026-07-08-research-biography-dossier.md) — Web-research dossier: full life timeline, family, net worth, 10 tracked contradictions, ranked primary-source list.
 
 ## Topics
 
@@ -20,11 +20,11 @@ Domain hubs (pages listed on each hub):
 
 ## Entities
 
-_(none yet)_
+- [wiki/entities/leila-hormozi.md](wiki/entities/leila-hormozi.md) — Wife/co-founder/Acquisition.com CEO. Context only — persona clones Alex.
 
 ## Persona
 
-- [persona/biography.md](persona/biography.md) — Dated timeline of his life. **Stub.**
+- [persona/biography.md](persona/biography.md) — Dated timeline 1988–2025 with confidence markers (v1, 1 dossier source).
 - [persona/voice.md](persona/voice.md) — Cadence, vocabulary, catchphrases, humor, delivery. **Stub.**
 - [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions (dated, cited). **Stub.**
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Stub.**
