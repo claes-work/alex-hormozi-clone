@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-06 | [[2023-12-06-yt-Tu6YDG0AZ5k]] | The Game Ep 012 — billion-dollar-decision reasoning | |
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
+| 2025-05-15 | [[2025-05-15-yt-fcyIoN8CUOk]] | Why being fast wins — (actually decision trade-offs) "spell out the trade", focus | |
+| 2025-05-16 | [[2025-05-16-yt-qqjGxVW-Ae0]] | Stop caring what others think — 9 reframes, "master the middle" (bio: Vanderbilt in 3 yrs) | ★ |
+| 2025-05-17 | [[2025-05-17-yt--UzJOk85OZI]] | Progress faster — conviction in a plan (not plan-hopping), culture/talent/training | |
+| 2025-05-20 | [[2025-05-20-yt-Ds_Qp2U5I8U]] | "Easy mode 2026" (actually a funnel breakdown) — 4-step + 4.5, high-vs-low-info buyer | |
+| 2025-05-22 | [[2025-05-22-yt--JLN1d1ZKUU]] | Less is more — the "one thing" CEO question, let the little fires burn | ★ |
+| 2025-05-29 | [[2025-05-29-yt-unshZobTt6Q]] | Start a business from nothing — 26 gym lessons (first $100K at 23) | ★ |
+| 2025-05-31 | [[2025-05-31-yt--Koq14DPXC4]] | Building $2.3M for a stranger (eyelash salon) — equity swap, surge pricing, BAM FAM | |
+| 2025-06-03 | [[2025-06-03-yt-sGv2BTUCcCM]] | Grow so fast it makes your accountant nervous — supply-vs-demand constraint diagnostic | ★ |
 | 2025-06-06 | [[2025-06-06-yt-UulLbNJMpTg]] | Be absurdly happy — high commitment + low expectations, "you are the problem" | ★ |
 | 2025-06-10 | [[2025-06-10-yt-hfwZwPGsbIo]] | Why doing more makes less money — 20% cost-of-change rule, focus-as-magnifying-glass | ★ |
 | 2025-06-12 | [[2025-06-12-yt-i7bLRKwKSms]] | Build a business in 2026 — LTGP:CAC = the model not the method (ratio 3/6/9/12) | |
@@ -259,7 +267,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_229 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,310, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_237 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,310, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

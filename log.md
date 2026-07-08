@@ -3,6 +3,18 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — constraint diagnostic + 26-lessons
+
+Loop iteration 22. 8 @AlexHormozi solo P2 (2025-05→06). 4 L3-candidates: sGv2BTUCcCM (★ supply-vs-
+demand constraint diagnostic — 8 worked examples + pricing/ratio/headcount levers, "constraint
+accordion"), unshZobTt6Q (★ "start from nothing" 26-gym-lessons primer — first $100K at 23),
+-JLN1d1ZKUU (★ simplicity / the "one thing" CEO question, let-little-fires-burn), qqjGxVW-Ae0 (★
+"stop caring" 9 reframes + bio: Vanderbilt in 3 yrs, quitting consulting = hardest decision). Two
+title/content mismatches flagged: Ds_Qp2U5I8U "Easy mode 2026" is a classic funnel breakdown (NOT
+AI — its step-4.5 uses a Skool group to re-heat non-buyers), fcyIoN8CUOk "being fast" is actually
+about decision trade-offs. Rest L2 (progress-faster dup, stranger-2.3M eyelash-salon dup). Ledger:
+L2=237. Next: continue @AlexHormozi P2 (398 left).
+
 ## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — 6 L3-cands + ACQ-3.0 + bio finds
 
 Loop iteration 21. 8 @AlexHormozi solo P2 (2025-06). 6 L3-candidates: OUI12JmD-lM "We made a BIG
