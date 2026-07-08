@@ -66,6 +66,11 @@ coordinator does all shared-file updates after agents return.**
    oldest published first within a priority. Eyeball titles first: skip promo trailers, joke
    videos, and Leila-/guest-only videos (mark them `skipped` with a reason); flag likely
    duplicates.
+   **Skool = HIGH-VALUE (owner runs a Skool community, 2026-07-08):** always give Skool /
+   paid-community content FULL treatment — never light-triage a Skool video. Extract the whole
+   community-building playbook (offer, pricing, launch, engagement, retention, monetization),
+   not just voice snippets. Consider building/enriching a `wiki/topics/content-strategy/
+   community-building.md` topic page as this material accumulates.
    **@GymLaunch light-triage rule (verified 2026-07-08: this post-sale company channel is
    ~75% NOT Alex — Kayla/Kale Owen CEOs, team, testimonials):** for @GymLaunch batches, use a
    SINGLE agent that fetches+reads all N transcripts, classifies each speaker, and writes only

@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 @TheSkoolSchool P1 (L2) — Skool reclassified HIGH-VALUE
+
+Loop iteration 6. **User directive mid-batch: Skool/paid-community content is HIGH-VALUE (they
+run their own Skool community) — full treatment, never light-triage.** Stopped the light VSL
+agent and re-ran the 4 Skool videos with FULL agents extracting the community-building playbook:
+1s1PtaUAE84 (build — design sequence, access/content/events buckets, free→paid flip, skeleton-key
+leverage) ★, ogMxa_2DWZI (launch — 10 true regulars, start with 3 paying, text your contacts,
+1000 True Fans), C6d4BEyYszo (monetize — free→paid grandfathering ethics, dual model, price×N
+reverse-engineering) ★, hdawvvYqmYo (why — traffic→about→community funnel, 6 traffic sources) ★.
+Plus 4 substantive mindset/business: LTGedN6qwDY, 6rKnYBnqcYY (★ maximizer-vs-optimizer + Leila
+frozen-yogurt first-date bio), K0ZBQvSkqS8 ★, 52CKJDJe7H8 ★. Encoded Skool=high-value in the loop
+(Stage B) + a project memory. **A dedicated wiki/topics/content-strategy/community-building.md is
+now warranted** (accumulated Skool material). Ledger: L2=129. Next: continue P1.
+
 ## [2026-07-08] ingest | Stage B: 8 @TheSkoolSchool P1 2025 (L2)
 
 Loop iteration 5. 8 more @TheSkoolSchool P1 (2025-01 → 2025-03), all Alex solo/monologue. 3

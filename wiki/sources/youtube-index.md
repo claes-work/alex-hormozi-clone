@@ -147,6 +147,14 @@ attributed out. (yt-7P9O0wpPnMc 2025-01-01 has no captions → L1.)
 | 2025-03-09 | [[2025-03-09-yt-6PP8HFhqOjY]] | 9-min compilation of known mindset clips | |
 | 2025-03-12 | [[2025-03-12-yt-Ur0esPHp8qQ]] | Elite focus — "a focused fool beats a distracted genius" (overlaps) | |
 | 2025-03-15 | [[2025-03-15-yt-Ihfq36wuxQY]] | Sell anything — the "damaging admission" / "but"-amplifier tactic | ★ |
+| 2025-03-19 | [[2025-03-19-yt-LTGedN6qwDY]] | "No one tells you" — be your own witness; education vs. entertainment | |
+| 2025-03-25 | [[2025-03-25-yt-1s1PtaUAE84]] | **Skool — build a community**: design sequence, access/content/events, skeleton-key leverage | ★ |
+| 2025-03-26 | [[2025-03-26-yt-ogMxa_2DWZI]] | **Skool — launch**: 10 true regulars, start with 3 paying, text your contacts (1000 True Fans) | |
+| 2025-03-27 | [[2025-03-27-yt-C6d4BEyYszo]] | **Skool — monetize**: free→paid grandfathering, dual free+paid model, price×N method | ★ |
+| 2025-03-29 | [[2025-03-29-yt-hdawvvYqmYo]] | **Skool — why it works**: traffic→about-page→community funnel, 6 traffic sources | ★ |
+| 2025-04-01 | [[2025-04-01-yt-6rKnYBnqcYY]] | Maximizer vs. optimizer identity; bio: Leila frozen-yogurt first date | ★ |
+| 2025-04-04 | [[2025-04-04-yt-K0ZBQvSkqS8]] | Unlock potential — 3-step model, Rule of 100, resilience-as-return-time | ★ |
+| 2025-04-12 | [[2025-04-12-yt-52CKJDJe7H8]] | 5-step framework to pick + launch a first business | ★ |
 
 ## @GymLaunch
 
@@ -164,7 +172,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-08-16 | [[2022-08-16-yt-phyR1Fq6_Ho]] | **Alex solo** — Client Finance Acquisition (no marketing budget) | |
 | 2022-08-18 | [[2022-08-18-yt-hmN2WbLlvxs]] | ⚠️ no Alex — Kale (Legion Scrambler ad system) | |
 
-_121 videos ingested (L2). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_129 videos ingested (L2). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
