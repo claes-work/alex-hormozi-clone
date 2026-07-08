@@ -3,6 +3,18 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 3 final @MoreMozi P1 + 5 @GymLaunch triage (L2)
+
+Loop iteration 9. **@MoreMozi P1 complete** — 3 final: 3T7k-zVKOvg "How I Scaled My First Gyms"
+(origin, new figures: first gym ~$35k/mo, mo9 outsourced, mo15 2nd gym, $7M→$26M), krcUBz7kiUI ★
+(cash-flow-vs-net-worth 6x-multiple + delegation/exit framework), 8cw62svEXt8 (restaurant coaching:
+product is the only durable lever). **@GymLaunch triage batch** (single agent, 5 videos): ALL are
+CEO **Kale Owen**, zero Alex — minimal pages, empty quote banks, attribution:not-alex (confirms the
+~75%-non-Alex pattern; the light-triage rule is working). Note video 94EB6J-ch0k has Kale crediting
+Alex for the downsell-upsell framework (paraphrase, not Alex speaking). **P1 now complete on 4 of 5
+channels**; only @GymLaunch P1 remains (~41, mostly Kale/CEO — cataloged for completeness). Ledger:
+L2=149. Next: continue @GymLaunch triage, then P2 (~2400), then shorts dedup (~8700).
+
 ## [2026-07-08] ingest | Stage B: 8 @MoreMozi P1 (L2) — 2 rich origin-story videos
 
 Loop iteration 8. 8 @MoreMozi P1. Two are HIGH-VALUE biographical (feed biography.md at next

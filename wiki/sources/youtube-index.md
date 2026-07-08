@@ -101,6 +101,9 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-02-17 | [[2026-02-17-yt-o-TQtwQfK9o]] | $3.5M men's coach → $100M (brand-as-constraint; overlaps taboo-niche) | |
 | 2026-02-20 | [[2026-02-20-yt-F60wS3_hc9Q]] | "I hit my first million. What now?" — constraint is leads not supply | |
 | 2026-03-16 | [[2026-03-16-yt-FViIzlFrj10]] | Online service $30M → $100M — scale via training not selection, 5:1 LTV:CAC | |
+| 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
+| 2026-03-12 | [[2026-03-12-yt-3T7k-zVKOvg]] | **How I Scaled My First Gyms** — origin (first gym ~$35k/mo, mo9 outsourced, $7M→$26M) | |
+| 2026-03-15 | [[2026-03-15-yt-8cw62svEXt8]] | Restaurant → $100M — product is the only durable lever; product-premium = marketing | |
 | 2026-03-18 | [[2026-03-18-yt-06ssvoeqIo0]] | Real-estate consulting → $100M — attribution taxonomy, duplicate top reps | |
 | 2026-03-19 | [[2026-03-19-yt-hTMqnR-LFZ4]] | Online men's-health service → $100M — taboo-niche affiliate brand (light) | |
 | 2026-03-19 | [[2026-03-19-yt-y7ToMgdDcIs]] | Construction + elevator → $100M — burn-it-down (likely dup of i-4IiGGS1wE) (light) | |
@@ -183,8 +186,13 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-08-12 | [[2022-08-12-yt-Fd1D6jZG6rA]] | ⚠️ Alex uncertain — unnamed presenter ($50k ceiling) | |
 | 2022-08-16 | [[2022-08-16-yt-phyR1Fq6_Ho]] | **Alex solo** — Client Finance Acquisition (no marketing budget) | |
 | 2022-08-18 | [[2022-08-18-yt-hmN2WbLlvxs]] | ⚠️ no Alex — Kale (Legion Scrambler ad system) | |
+| 2022-08-18 | [[2022-08-18-yt-AIMnc4VB5B8]] | ⚠️ no Alex — Kale (CrossFit pricing levers $14k→$38k) | |
+| 2022-08-20 | [[2022-08-20-yt-cvLIh2KxAy4]] | ⚠️ no Alex — Kale (lead-nurture 4 pillars) | |
+| 2022-08-22 | [[2022-08-22-yt-bY1-QJQ5j64]] | ⚠️ no Alex — Kale (9-step sales process) | |
+| 2022-08-24 | [[2022-08-24-yt-hrvm3hQyS44]] | ⚠️ no Alex — Kale (presale questionnaire, close 90%) | |
+| 2022-08-30 | [[2022-08-30-yt-94EB6J-ch0k]] | ⚠️ no Alex — Kale (8-part irresistible offer; credits Alex for downsell-upsell) | |
 
-_141 videos ingested (L2). @TheSkoolSchool P1 complete; @MoreMozi P1 nearly done. The first 44 L3-candidates were **synthesized into 7 topic pages**
+_149 videos ingested (L2). @AlexHormozi + @ACQofficial + @TheSkoolSchool + @MoreMozi P1 all complete; @GymLaunch P1 in progress (mostly non-Alex). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
