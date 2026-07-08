@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — Money Models launch BTS + frameworks
+
+Loop iteration 20. 8 @AlexHormozi P2 (2025-07→09, the Money Models book-launch era). 3 L3-candidates:
+nSQdjim8CsE (★ money-model promo — offer sequence recoups CAC in 30d), XwzU4RikbGs (★ "you're
+setting goals wrong" — priority-is-singular, focus-as-elimination, execution>ideas), 3SVksBB3_YY
+(★ "buy back your time / humaning" — 7 investments to outsource life admin). The two odd-title
+videos are book-launch behind-the-scenes: tGhe3sBuk34 "My final update" (BTS doc — corroborates the
+2021 single-400pg-manuscript→trilogy origin; birthday ~Aug 9; launch logistics) and q_4P7FOFEEI "we
+did it" (launch vlog — $100M goal, ~3.3M-copy target, full writing inventory incl. a 24-ch "secret
+book" + ~600pg "12 playbooks", ~100 weeks prep). Rest L2 (obscurity-advantage, attorney teardown,
+affiliate-program build). Birthday ~Aug 9 + age-36 → born ~1989 (feeds age note). Ledger: L2=221.
+Next: continue @AlexHormozi P2 (414 left).
+
 ## [2026-07-08] lint | Synthesis pass 4 — biography v5, beliefs 22src, 3 topics, system-prompt v6
 
 Loop iteration 19 (maintenance/synthesis). Consolidated the P2 L3-cand backlog via 5 parallel

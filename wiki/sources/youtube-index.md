@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-06 | [[2023-12-06-yt-Tu6YDG0AZ5k]] | The Game Ep 012 — billion-dollar-decision reasoning | |
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
+| 2025-07-03 | [[2025-07-03-yt-DaRXece2ItE]] | Copy this strategy — affiliate/lead-getter program build (Money Models launch) | |
+| 2025-07-09 | [[2025-07-09-yt-nSQdjim8CsE]] | Making money is a game (cheat code) — money model = offer sequence recouping CAC in 30d | ★ |
+| 2025-07-17 | [[2025-07-17-yt-XwzU4RikbGs]] | You're setting goals wrong — priority is singular, focus = elimination, execution > ideas | ★ |
+| 2025-07-19 | [[2025-07-19-yt-3yAiVjcImQ4]] | Blew up a business (3 changes) — attorney teardown: "111" rule, free-education front-end, VSL/BANT | |
+| 2025-07-26 | [[2025-07-26-yt-prj1bnTAM8A]] | Your biggest advantage is obscurity — underdog wins, Rule of 100, nail-it-then-scale | |
+| 2025-08-15 | [[2025-08-15-yt-tGhe3sBuk34]] | "My final update" — Money Models launch BTS; corroborates 2021 single-manuscript origin; birthday ~Aug 9 | |
+| 2025-08-23 | [[2025-08-23-yt-q_4P7FOFEEI]] | "We did it" — launch vlog: $100M goal, 3.3M copies, secret book + 12 playbooks, ~100wk prep | |
+| 2025-09-19 | [[2025-09-19-yt-3SVksBB3_YY]] | 20 min for 20 years — buy back your time / "humaning" (7 investments to outsource) | ★ |
 | 2025-10-03 | [[2025-10-03-yt-Avp3xh3Y1Ic]] | If you have a hard life — mental-toughness 4-model; **bio: mother's death ~2025-09-26** | ★ |
 | 2025-10-13 | [[2025-10-13-yt-Wr6n_zNKvMk]] | Building $1M for a stranger (trash hauler) — one-avatar-one-channel, upfront-cash offer | |
 | 2025-10-18 | [[2025-10-18-yt-dMZ-n2KSlxE]] | My actual social media strategy 2026 — SPCL, social→interest media, live/interactive | ★ |
@@ -243,7 +251,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_213 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,318, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700). ⚠️ Biography gap: his mother's death (~2025-09-26) surfaced across three Oct–Dec 2025 videos — pending biography synthesis (pass 4)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_221 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,310, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
