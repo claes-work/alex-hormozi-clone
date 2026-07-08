@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — LTGP:CAC + 13 moats + focus (L2=309)
+
+Loop iteration 33. 8 @AlexHormozi P2 (2024-06→07). 6 L3-candidates, two flagship: jzKpAtzKQ54 "the
+one number" (★ LTGP:CAC deep-dive — "the fundamental economic unit", the two levers → warrants an
+ltgp-cac topic page or feeds scaling-and-enterprise-value) and Lc8DNduiwKA "13 ways to destroy your
+competition" (★ 13 competitive moats — network effects, scale, IP, M&A, distribution → warrants a
+competitive-moats topic page). Plus gD0X-PLax5I (★ output=volume×leverage + buy-back-time math),
+Rm4zRdLAyjw (★ easiest-million: coaching/education income-vs-asset — Skool-relevant), rhVxX5_8xUw
+(★ focus-as-superpower), 07jC6ooRIHw (★ shiny-object / what-business-really-in). L2: broke-what-
+business (re-teach), rc7cxL7ql7Y (58-min live-Q&A highlight compilation). Ledger: L2=309.
+**Distinct-topic backlog now large → synthesis pass 7 next**: paid-ads, competitive-moats, LTGP:CAC,
+retention, articulation/communication, sales-team-scaling. Next: synthesis, then @AlexHormozi P2 (326 left).
+
 ## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — paid-ads masterclass + offer/brand (L2=301)
 
 Loop iteration 32. 8 @AlexHormozi P2 (2024-07). 5 L3-candidates: fSbqaTlWaYI "learn paid ads in 30

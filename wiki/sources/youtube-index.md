@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-06 | [[2023-12-06-yt-Tu6YDG0AZ5k]] | The Game Ep 012 — billion-dollar-decision reasoning | |
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
+| 2024-06-26 | [[2024-06-26-yt-nIk3DedjxJM]] | "I'm broke, what business do I start?" — 5-step (3 Ps → Who → good/bad → Mad Lib) | |
+| 2024-06-30 | [[2024-06-30-yt-jzKpAtzKQ54]] | The one number you need — LTGP:CAC, "the fundamental economic unit" (license to print money) | ★ |
+| 2024-07-02 | [[2024-07-02-yt-gD0X-PLax5I]] | My system for outworking everyone — output = volume × leverage, maker/manager, buy-back-time | ★ |
+| 2024-07-03 | [[2024-07-03-yt-Rm4zRdLAyjw]] | Easiest million-dollar business — coaching/education (income vs asset, commitment); Skool-relevant | ★ |
+| 2024-07-06 | [[2024-07-06-yt-07jC6ooRIHw]] | Sick of shiny object syndrome — "what business are you really in", marry your business | ★ |
+| 2024-07-09 | [[2024-07-09-yt-rhVxX5_8xUw]] | Business owners, we have a problem — focus as the superpower (say no to all but one thing) | ★ |
+| 2024-07-10 | [[2024-07-10-yt-rc7cxL7ql7Y]] | 58 min of advice — live-Q&A highlight cut (acquisitions, churn, offers, hiring) | |
+| 2024-07-12 | [[2024-07-12-yt-Lc8DNduiwKA]] | 13 ways to destroy your competition (legally) — the 13 competitive moats | ★ |
 | 2024-07-15 | [[2024-07-15-yt-F84olnKkseM]] | Business was hard until these 4 concepts — ideal customer, unit economics, overexpansion, focus | ★ |
 | 2024-07-17 | [[2024-07-17-yt-5MjjpB8SPMo]] | Genius strategy to make everyone buy — WTP buckets, one-bonus-worth-price, price-to-worst-month | ★ |
 | 2024-07-20 | [[2024-07-20-yt-fSbqaTlWaYI]] | Learn paid ads in 30 min — creative scaling (80% reskin winners, 70/20/10), pain-led hooks | ★ |
@@ -331,7 +339,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_301 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_309 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
