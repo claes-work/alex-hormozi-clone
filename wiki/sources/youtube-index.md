@@ -42,6 +42,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2023-08-15 | [[2023-08-15-yt-UhqMBvBzjT0]] | Harsh truth of ownership — owner paid for risk, volatility/thin margins | |
+| 2023-08-31 | [[2023-08-31-yt-p9PD0m7a0DM]] | Formula for a $100M business — Enterprise Value = customers × LTGP ÷ risk | |
+| 2023-09-11 | [[2023-09-11-yt-Kt6l-Q-tW7Q]] | Risks of info businesses — consumables retain value; sell implementation | |
+| 2023-09-15 | [[2023-09-15-yt-h6gMI66HFJw]] | Why not invest under $1M profit — cushion for volatility/reinvestment | |
+| 2023-09-25 | [[2023-09-25-yt-OtYbBEa8x6w]] | Write a #1 bestseller — his 9 writing rules (corroborates writing-guidelines) | ★ |
+| 2023-09-26 | [[2023-09-26-yt-Uu14KTSVdfk]] | Top 3 sales hacks — but-reversal, high-anchor, objection-reframe | ★ |
+| 2023-10-03 | [[2023-10-03-yt-bkEJhzxHHnc]] | Infinite game of business — success reframe + 3 presence frames | ★ |
 | 2023-10-13 | [[2023-10-13-yt-tr5OSrODjpw]] | "Stop doing this to yourself" — input-output equation, pain-as-fuel | |
 | 2023-10-15 | [[2023-10-15-yt-Fqkxu_Ny5Ys]] | Marketing doesn't matter — product > marketing (co-host ~Andy Frisella) | |
 | 2023-10-17 | [[2023-10-17-yt-W3CtoJRwjns]] | "If you were his friend" — personal: hard-to-befriend, Skittle feedback | |
@@ -64,6 +71,6 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-07-21 | [[2025-07-21-yt-ZklXJzHzW2U]] | Operator Pod Ep.1 — ⚠️ **no Alex** (Leila + operator), not persona data | |
 | 2025-09-13 | [[2025-09-13-yt-EuMu6LaxBSk]] | $106M/72h launch debrief — ⚠️ **no Alex** (Leila + exec); useful launch/bio facts | |
 
-_45 videos ingested (L2). 23 flagged L3-candidate for the next synthesis pass. 3 videos
+_52 videos ingested (L2). 26 flagged L3-candidate for the next synthesis pass. 3 videos
 contain no Alex speech (2 Leila+exec debriefs, 1 Leila-on-Alex) — kept as record/bio-fact
 citations only, excluded from voice data._

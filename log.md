@@ -3,6 +3,17 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 8: 7 @ACQofficial P1 clips (Aug–Oct 2023, L2) + 1 Leila skipped
+
+7 Alex solo/interview @ACQofficial clips via source-only subagents; 3 L3-cands: OtYbBEa8x6w
+(9 writing rules — corroborates the Affiliate Black Book writing guidelines from a 2nd
+source), Uu14KTSVdfk (3 sales hacks: but-reversal/Eminem, high-anchor, objection-reframe),
+bkEJhzxHHnc (infinite-game success reframe + presence frames — flag: credits Sinek, true
+origin James Carse). Others L2: UhqMBvBzjT0 (owner-paid-for-risk), p9PD0m7a0DM (EV = customers
+× LTGP ÷ risk), Kt6l-Q-tW7Q (info-biz risks), h6gMI66HFJw (ACQ invest criteria: ≥$1M profit,
+prefer $2-3M+). Skipped 1 Leila video. Ledger: L2=52, skipped=6, 26 L3-candidates. Next:
+remaining @ACQofficial P1, then @GymLaunch/@MoreMozi.
+
 ## [2026-07-08] ingest | Stage B batch 7: 7 @ACQofficial P1 clips (late-2023, L2) + 1 Leila skipped
 
 7 Alex-led @ACQofficial late-2023 interview clips via source-only subagents. Mostly
