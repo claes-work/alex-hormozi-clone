@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — 6 L3-cands + ACQ-3.0 + bio finds
+
+Loop iteration 21. 8 @AlexHormozi solo P2 (2025-06). 6 L3-candidates: OUI12JmD-lM "We made a BIG
+decision" (★ milestone — first-ever ACQ holding-co partner, "acquisition.com 3.0"; partner likely
+Sharran Srivatsaa [inferred/unverified]; **NEW bio: pre-Leila Alex capped ~$2-3M/yr running 6
+businesses before she got him to focus → 9 figures**), IFElGv5ZmRM (★ 4-part enduring-hard-times
+framework; **NEW bio: a 72h multi-8-figure bill, a Leila cancer scare**), m-k0_pQJ1fY (★ generational
+wealth — 12 beliefs), SmiOK8Yun4s (★ client teardown "Ashley" — pricing/leads; title "secret
+business" is misleading, NOT a self-experiment — flagged), hfwZwPGsbIo (★ 20% cost-of-change rule +
+40%-at-50/50 change threshold decision razor), UulLbNJMpTg (★ happiness = high commitment + low
+expectations). Rest L2 (LTGP:CAC start-over dup, ambitious-20s/30s dup). Ledger: L2=229. New bio
+items (Leila cancer scare, ACQ-3.0 partner, pre-Leila $2-3M cap) queued for next biography synthesis.
+Next: continue @AlexHormozi P2 (406 left).
+
 ## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — Money Models launch BTS + frameworks
 
 Loop iteration 20. 8 @AlexHormozi P2 (2025-07→09, the Money Models book-launch era). 3 L3-candidates:

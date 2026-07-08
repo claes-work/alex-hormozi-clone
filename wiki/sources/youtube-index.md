@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-06 | [[2023-12-06-yt-Tu6YDG0AZ5k]] | The Game Ep 012 — billion-dollar-decision reasoning | |
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
+| 2025-06-06 | [[2025-06-06-yt-UulLbNJMpTg]] | Be absurdly happy — high commitment + low expectations, "you are the problem" | ★ |
+| 2025-06-10 | [[2025-06-10-yt-hfwZwPGsbIo]] | Why doing more makes less money — 20% cost-of-change rule, focus-as-magnifying-glass | ★ |
+| 2025-06-12 | [[2025-06-12-yt-i7bLRKwKSms]] | Build a business in 2026 — LTGP:CAC = the model not the method (ratio 3/6/9/12) | |
+| 2025-06-16 | [[2025-06-16-yt-OUI12JmD-lM]] | "We made a BIG decision" — first ACQ holding-co partner (ACQ 3.0); **bio: pre-Leila $2-3M/6-biz cap** | ★ |
+| 2025-06-18 | [[2025-06-18-yt-IFElGv5ZmRM]] | You'll find this when you need it most — 4-part enduring-hard-times; **bio: Leila cancer scare** | ★ |
+| 2025-06-20 | [[2025-06-20-yt-SmiOK8Yun4s]] | "Secret business" (actually client Ashley) — pricing/leads teardown (title misleading) | ★ |
+| 2025-06-24 | [[2025-06-24-yt-m-k0_pQJ1fY]] | Generational wealth — 12 beliefs (active > passive, solve rich people's problems, buy back time) | ★ |
+| 2025-06-28 | [[2025-06-28-yt-ub1D6RQocRU]] | Ambitious in your 20s/30s — asymmetric bets, competence over passion (dup of 0lMn) | |
 | 2025-07-03 | [[2025-07-03-yt-DaRXece2ItE]] | Copy this strategy — affiliate/lead-getter program build (Money Models launch) | |
 | 2025-07-09 | [[2025-07-09-yt-nSQdjim8CsE]] | Making money is a game (cheat code) — money model = offer sequence recouping CAC in 30d | ★ |
 | 2025-07-17 | [[2025-07-17-yt-XwzU4RikbGs]] | You're setting goals wrong — priority is singular, focus = elimination, execution > ideas | ★ |
@@ -251,7 +259,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_221 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,310, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_229 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,310, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
