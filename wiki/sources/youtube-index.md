@@ -42,6 +42,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2023-05-25 | [[2023-05-25-yt-2JLU4R8Zcgg]] | 66-min "$10M company" — ⚠️ **no Alex** (Leila's 5-principles-of-management talk) | |
+| 2023-05-30 | [[2023-05-30-yt-EimLrO6p3DI]] | Stop caring about competition — product-obsession vs marketing (Lewis Howes) | ★ |
+| 2023-06-06 | [[2023-06-06-yt-iqAtBbGr3VY]] | Selling with logic — onion of blame, 5 obstacle types (canonical sales) | ★ |
+| 2023-06-07 | [[2023-06-07-yt-LGq0uVspNms]] | Branding in 2023 — brand = associations, Rule of 100, theory of constraints | ★ |
+| 2023-06-12 | [[2023-06-12-yt-sJn1Hjcj8-g]] | Dark side of entrepreneurship — ⚠️ **no Alex** (Leila's angle; cross-check only) | |
+| 2023-06-13 | [[2023-06-13-yt-rOTT4vZgB5Y]] | Crumbl Cookies model — rotating variety to extend LTV (case study) | |
+| 2023-06-18 | [[2023-06-18-yt-B1-oIkRLh-8]] | Dad advice — his father's story (Iranian refugee, Tehran, 1979) + maxims | ★ |
 | 2023-07-01 | [[2023-07-01-yt-M2VP64Tc60w]] | 5 ways to scale — up/down/adjacent/broader/narrower market | ★ |
 | 2023-07-04 | [[2023-07-04-yt-x1j6hfL3U9U]] | Ego is keeping you poor — comparison/humility (host Lewis Howes) | |
 | 2023-07-07 | [[2023-07-07-yt-obmdEvHJlAg]] | Rock bottom is good — nothing to lose, "shame only in the shadows" | |
@@ -78,6 +85,6 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-07-21 | [[2025-07-21-yt-ZklXJzHzW2U]] | Operator Pod Ep.1 — ⚠️ **no Alex** (Leila + operator), not persona data | |
 | 2025-09-13 | [[2025-09-13-yt-EuMu6LaxBSk]] | $106M/72h launch debrief — ⚠️ **no Alex** (Leila + exec); useful launch/bio facts | |
 
-_59 videos ingested (L2). 28 flagged L3-candidate for the next synthesis pass. 3 videos
-contain no Alex speech (2 Leila+exec debriefs, 1 Leila-on-Alex) — kept as record/bio-fact
-citations only, excluded from voice data._
+_66 videos ingested (L2). 32 flagged L3-candidate for the next synthesis pass. 5 videos
+contain no Alex speech (3 Leila solo talks + 2 Leila+exec debriefs) — kept as record/bio-fact
+and cross-check citations only, excluded from voice/persona data._

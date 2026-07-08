@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 10: 7 @ACQofficial P1 (May–Jun 2023, L2) + 1 Leila skipped
+
+7 @ACQofficial mid-2023 videos via source-only subagents. 4 L3-cands: EimLrO6p3DI
+(product-obsession vs competition), iqAtBbGr3VY (canonical sales training — onion of blame,
+5 obstacle types), LGq0uVspNms (branding = associations + Rule of 100 + ToC), B1-oIkRLh-8
+(★ richest father bio yet: Iranian refugee, Tehran, ~18 at 1979 revolution, doctor, arrived
+with $1,000, no English — corroborates & deepens the dossier). ⚠️ TWO more no-Alex videos
+caught by attribution guard: 2JLU4R8Zcgg (66-min "$10M company" is LEILA's management talk)
+and sJn1Hjcj8-g (dark side = LEILA's angle) — both flagged, excluded from persona, kept as
+Leila-context/cross-check. rOTT4vZgB5Y (Crumbl case study) L2. Skipped 1 Leila video. Ledger:
+L2=66, skipped=8, 32 L3-candidates, 5 total no-Alex videos. Borrowed ideas (Munger, CBT,
+Robbins, Knight) attributed out of the sales talk. Next: remaining @ACQofficial P1, then
+@GymLaunch/@MoreMozi. **2nd synthesis pass due** — 32 L3-candidates + new father bio pending.
+
 ## [2026-07-08] ingest | Stage B batch 9: 7 @ACQofficial P1 clips (July 2023, L2) + 1 vlog skipped
 
 7 @ACQofficial July-2023 clips via source-only subagents; 2 L3-cands: M2VP64Tc60w (5-move
