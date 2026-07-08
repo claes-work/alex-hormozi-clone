@@ -66,6 +66,12 @@ coordinator does all shared-file updates after agents return.**
    oldest published first within a priority. Eyeball titles first: skip promo trailers, joke
    videos, and Leila-/guest-only videos (mark them `skipped` with a reason); flag likely
    duplicates.
+   **@GymLaunch light-triage rule (verified 2026-07-08: this post-sale company channel is
+   ~75% NOT Alex — Kayla/Kale Owen CEOs, team, testimonials):** for @GymLaunch batches, use a
+   SINGLE agent that fetches+reads all N transcripts, classifies each speaker, and writes only
+   brief pages — no-Alex/uncertain → one-line stub with `attribution` flag + empty quote bank;
+   clearly-Alex → normal L2. Don't spend 8 full agents to find 1 Alex video. Prefer interleaving
+   higher-Alex channels (@TheSkoolSchool, @MoreMozi remainder) when their P1 is still open.
 2. Per video: `tools/fetch_captions.ps1` → `python tools/vtt_to_text.py`. No captions →
    ledger `notes: no-captions`, status L1, skip (never Whisper without user approval). Then
    a subagent reads the transcript and writes the source page: frontmatter (type, source_date
