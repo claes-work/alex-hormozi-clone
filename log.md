@@ -18,6 +18,21 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 more @TheSkoolSchool P2 (L2) — more Skool entity facts (L2=341)
+
+Loop iteration 38. 8 @TheSkoolSchool P2 (2025-01→02). 4 L3-candidates: sDqOC2YtnKE "Skool: the
+future of business & education" (★ more Skool entity facts — $99/mo per group, gamification
+[points/status/unlocks], platform loses money by design, dev team all gaming devs, Discovery
+directory → strengthens the case for wiki/entities/skool.md), 9PV0eIXSyjI "make money from an
+audience 2025" (★ the 4 ways to monetize — affiliates/sponsors/partnerships-equity/own-brand on a
+difficulty×risk×exit continuum), qbWp-FObGyM "unmade decisions" (★ commitment = eliminating
+alternatives, age-19 blame→ownership flip — a host passage flagged attribution:uncertain),
+i2OMANdEpUQ "building a brand" (★ marry audience+product, "promise/proof/path" retention). Rest L2
+dups (best-year-2025, stop-caring-2, exceptional [co-host flagged], million-dollar-rule/rule-of-100).
+16 of 30 @TheSkoolSchool P2 now done. Ledger: L2=341. **entities/skool.md now clearly warranted**
+(Alex co-owner + platform economics across 3+ sources) — build at next synthesis. Next: continue
+@TheSkoolSchool P2 (14 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @TheSkoolSchool P2 (L2) — Skool entity + revenge; pivoted from @AlexHormozi
 
 Loop iteration 37. **Pivoted to @TheSkoolSchool P2** (30 videos, Skool = user's high-value interest)

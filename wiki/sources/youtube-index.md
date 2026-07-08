@@ -309,7 +309,15 @@ attributed out. (yt-7P9O0wpPnMc 2025-01-01 has no captions → L1.)
 | 2024-12-20 | [[2024-12-20-yt-yRP33A6nlU0]] | Niche content — relevance beats reach; monetization > views | ★ |
 | 2024-12-25 | [[2024-12-25-yt-wESCqK-qTC8]] | For those in the lonely chapter — hardship as selection effect | |
 | 2024-12-27 | [[2024-12-27-yt-rwgiScq123s]] | Lonely chapter Pt.2 — the "most epic story" decision razor | ★ |
+| 2025-01-16 | [[2025-01-16-yt-mDz0_HfyfTQ]] | How to make 2025 the best year — calendar/spending predict who you become (dup) | |
 | 2025-01-18 | [[2025-01-18-yt-J7DWZsKr3bI]] | Skool Games VSL — "easiest business to start" (voice/offer material) | |
+| 2025-01-21 | [[2025-01-21-yt-sDqOC2YtnKE]] | **Skool: the future of business & education** — community-as-business, $99/mo/group, gamification | ★ |
+| 2025-01-25 | [[2025-01-25-yt-Jf8u1Zp9uy4]] | Stop caring about opinions — mortality devices, father-approval upbringing | |
+| 2025-02-01 | [[2025-02-01-yt-qbWp-FObGyM]] | The heavy burden of unmade decisions — commitment = eliminating alternatives (age-19 flip) | ★ |
+| 2025-02-06 | [[2025-02-06-yt-i2OMANdEpUQ]] | Building a brand — marry audience+product, "promise / proof / path", give-content/ask-ads | ★ |
+| 2025-02-10 | [[2025-02-10-yt-Ky5d35w3LPQ]] | The hidden price of being exceptional — being different means unavoidable conflict | |
+| 2025-02-13 | [[2025-02-13-yt-9PV0eIXSyjI]] | Make money from an audience 2025 — 4 ways (affiliates / sponsors / partnerships / own brand) | ★ |
+| 2025-02-17 | [[2025-02-17-yt--9bwW835fU0]] | The million-dollar rule — rule of 100 → "open to goal", output = volume × leverage | |
 | 2025-01-27 | [[2025-01-27-yt-3kbXlRlSpQg]] | Advice for men to win in their 20s — energy→skills, save→patience | |
 | 2025-02-20 | [[2025-02-20-yt-pWPvVFjXKRs]] | Musk's 5-step algorithm applied — prioritization is the CEO's #1 job | ★ |
 | 2025-02-22 | [[2025-02-22-yt-_Nz_0qxIyok]] | #1 online business VSL (Skool, promotional) | |
@@ -363,7 +371,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_333 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_341 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
