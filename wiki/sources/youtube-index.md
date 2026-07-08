@@ -303,7 +303,13 @@ attributed out. (yt-7P9O0wpPnMc 2025-01-01 has no captions → L1.)
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2024-11-10 | [[2024-11-10-yt-LCTglLDEl3s]] | The harsh truth about time & risk — nothing to lose = max shots, "calendar > bank account" | |
+| 2024-11-17 | [[2024-11-17-yt-5pPxdcBBTI8]] | For people who want to become exceptional — exceptional = being an exception (dup) | |
+| 2024-11-24 | [[2024-11-24-yt-4TNXMEyKRu4]] | Turn anxiety & tough times into growth — anxiety = excitement, "pain is a signal you're alive" | |
 | 2024-11-28 | [[2024-11-28-yt-j0YeIT7O_ws]] | Finger-of-blame / revenge-as-self-improvement reframe | |
+| 2024-12-01 | [[2024-12-01-yt-v0-qnxp1Oys]] | Alex & Chris: the journey IS the destination — "the real mountain has no peak" (Chris Williamson) | |
+| 2024-12-08 | [[2024-12-08-yt-z-NrtDe5Ic4]] | How to master the game of business — skill > motivation, feedback-loop on reps | |
+| 2024-12-10 | [[2024-12-10-yt-iRKZEelCS5M]] | How this investment changes education forever — Skool co-owner, "Lollapalooza", education crisscross | ★ |
 | 2024-12-05 | [[2024-12-05-yt-EuRU5w53nNM]] | Most important rule = focus (woman-in-red-dress; business-type difficulty taxonomy) | ★ |
 | 2024-12-12 | [[2024-12-12-yt-xQ0O4dBjrOI]] | For people who believe in themselves — risk = opportunity in retrospect (co-host) | |
 | 2024-12-15 | [[2024-12-15-yt-5BqqXjl11V8]] | Why Skool is the best next thing — education undisrupted, golden ratio (referrals÷churn) | ★ |
@@ -379,7 +385,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_349 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_355 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

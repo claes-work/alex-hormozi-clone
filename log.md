@@ -18,6 +18,19 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: last 6 @TheSkoolSchool P2 (L2) — CHANNEL COMPLETE (L2=355)
+
+Loop iteration 40. Final 6 @TheSkoolSchool P2 (2024-11→12). **@TheSkoolSchool P2 now 100% done (30/30
++ P1 earlier → whole channel complete).** 1 L3-candidate: iRKZEelCS5M "how this investment changes
+education forever" (★ reinforces Skool co-ownership — "Lollapalooza effect"/"hundred golden BBs"
+decision framework, education crisscross [$850B formal -6%/yr vs $200-250B alternative +20%/yr], plus
+restated financials $46.2M sale / $100M net worth at 32 / ~$16M income at 27). Rest L2 dups
+(harsh-truth-time, become-exceptional [dup Ky5d35w3LPQ], anxiety-into-growth [crisp "pain is a signal"
+phrasing], Alex&Chris journey [Chris Williamson interview, speakers separated], game-of-business).
+Ledger: L2=355. **Synthesis pass 8 next** (now well-motivated): build wiki/entities/skool.md (Alex
+co-owner + platform economics + golden ratio + education-crisscross thesis — 7+ sources) + audience-
+monetization topic page + a dated Skool/education beliefs entry + recompile system-prompt v10.
+
 ## [2026-07-09] ingest | Stage B: 8 more @TheSkoolSchool P2 (L2) — Skool/education thesis (L2=349)
 
 Loop iteration 39. 8 @TheSkoolSchool P2 (2024-12→2025-01); used a bundled light-agent for the 4
