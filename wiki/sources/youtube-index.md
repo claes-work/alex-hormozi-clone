@@ -125,7 +125,23 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-01 | [[2026-07-01-yt-88oj6ZlmEi8]] | $6M roofing wants $100M — "want less or trade more", the who game | ★ |
 | 2026-07-07 | [[2026-07-07-yt-ndne_8qRh8o]] | Marketing agency $1.2M→$8M — price to worst month, go up-market | |
 
-_98 videos ingested (L2). The 44 L3-candidates were **synthesized into 7 topic pages**
+## @GymLaunch
+
+⚠️ Post-2021-sale company channel — **mostly NOT Alex** (CEOs Kayla & Kale Owen, team,
+testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry persona data.
+
+| Date | Page | Speaker / topic | ★ |
+|---|---|---|---|
+| 2021-08-12 | [[2021-08-12-yt-KDbQsaWuR8A]] | Alex interviews Dr. John Berardi (guest ~75%, Alex ~25%); bio: early PT client $2.4k/mo | |
+| 2022-02-14 | [[2022-02-14-yt-IbZ5_P2BcSY]] | ⚠️ no Alex — employee testimonial montage | |
+| 2022-07-29 | [[2022-07-29-yt-LI2ECxfsjBY]] | ⚠️ Alex uncertain — multi-coach Inner Circle panel | |
+| 2022-08-08 | [[2022-08-08-yt-WDAOzy8RQw4]] | ⚠️ no Alex — Kayla promo (7 money models PDF) | |
+| 2022-08-10 | [[2022-08-10-yt-OOac_nNxGO4]] | ⚠️ no Alex — Kale (sub-$20k gyms) | |
+| 2022-08-12 | [[2022-08-12-yt-Fd1D6jZG6rA]] | ⚠️ Alex uncertain — unnamed presenter ($50k ceiling) | |
+| 2022-08-16 | [[2022-08-16-yt-phyR1Fq6_Ho]] | **Alex solo** — Client Finance Acquisition (no marketing budget) | |
+| 2022-08-18 | [[2022-08-18-yt-hmN2WbLlvxs]] | ⚠️ no Alex — Kale (Legion Scrambler ad system) | |
+
+_106 videos ingested (L2). The 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

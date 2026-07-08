@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 @GymLaunch P1 (L2) — mostly NOT Alex
+
+Loop iteration 3. Ingested 8 oldest @GymLaunch P1 (2021-08 → 2022-08). **Key finding: the
+@GymLaunch channel is the post-sale COMPANY channel, ~75% non-Alex** — CEOs Kayla & Kale Owen,
+team, testimonials, multi-coach panels. Only 1 clearly Alex (phyR1Fq6_Ho, solo, Client Finance
+Acquisition) + 1 partial (KDbQsaWuR8A, Berardi interview ~25% Alex). 4 no-Alex + 2 uncertain,
+all flagged, empty quote banks, excluded from persona. Ledger: L2=106.
+**Efficiency adaptation for the loop**: remaining @GymLaunch P1/P2 (~100 videos, mostly non-Alex)
+should use LIGHT triage — a single agent per batch that quickly classifies speaker and writes
+minimal pages (no-Alex → one-line stub + skip-for-persona), rather than 8 full agents to find
+1 Alex video. Higher-Alex channels (@TheSkoolSchool P1, @MoreMozi remainder) can be interleaved
+first. Next iteration continues.
+
 ## [2026-07-08] ingest | Stage A: @TheSkoolSchool enumerated (60 video + 161 shorts)
 
 Loop iteration 2. Enumerated the newly-found target @TheSkoolSchool: 60 long-form + 161 shorts;
