@@ -94,7 +94,13 @@ situation is context-only, only Alex's advice is persona data.
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2026-03-19 | [[2026-03-19-yt-hTMqnR-LFZ4]] | Online men's-health service → $100M — taboo-niche affiliate brand (light) | |
+| 2026-03-19 | [[2026-03-19-yt-y7ToMgdDcIs]] | Construction + elevator → $100M — burn-it-down (likely dup of i-4IiGGS1wE) (light) | |
+| 2026-03-20 | [[2026-03-20-yt-UKd3hu6IRbY]] | Home services → $100M — sell membership on the back end (light) | |
 | 2026-03-26 | [[2026-03-26-yt-XWHqOYR0IHM]] | Champions see their past as origin story — victims-vs-champions reframe | |
+| 2026-03-31 | [[2026-03-31-yt-1Grge4LqDlM]] | Creator platform $4.3M — SaaS first then marketplace (light) | |
+| 2026-04-02 | [[2026-04-02-yt-0_Yyxwtrt_Q]] | Clothing brand $4.5M — retention 30→65% + price-matched influencers (light) | |
+| 2026-04-03 | [[2026-04-03-yt-W0Xw3-gAsJ8]] | Law firm $24M — focus, open more offices (light) | |
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
 | 2026-04-28 | [[2026-04-28-yt-_TZEJAYUeCo]] | Roadmap $0→$10M — stage ladder + the "$3M three boxes" | ★ |
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
@@ -119,6 +125,8 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-01 | [[2026-07-01-yt-88oj6ZlmEi8]] | $6M roofing wants $100M — "want less or trade more", the who game | ★ |
 | 2026-07-07 | [[2026-07-07-yt-ndne_8qRh8o]] | Marketing agency $1.2M→$8M — price to worst month, go up-market | |
 
-_92 videos ingested (L2). 44 flagged L3-candidate for the next synthesis pass. 5 videos
-contain no Alex speech (3 Leila solo talks + 2 Leila+exec debriefs) — kept as record/bio-fact
-and cross-check citations only, excluded from voice/persona data._
+_98 videos ingested (L2). The 44 L3-candidates were **synthesized into 7 topic pages**
+(2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
+content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
+wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
+Leila+exec debriefs) — record/bio-fact and cross-check citations only, excluded from persona._

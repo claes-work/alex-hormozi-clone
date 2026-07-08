@@ -3,6 +3,15 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Light L2: 6 remaining coaching Q&As (single agent)
+
+Second half of the user's choice: light-treatment ingest of the 6 near-duplicate
+"Helping a $XM business scale to $100M" coaching Q&As left open from batch 14, done by a
+single agent (brief summary + 3-5 advice bullets + few quotes each). All Alex-led, owners
+flagged as context. Distinct ones: 0_Yyxwtrt_Q (resort-wear retention 30→65% + price-matched
+influencers), y7ToMgdDcIs (construction+elevator burn-it-down + six-gyms story — likely a
+dup of yt-i-4IiGGS1wE, noted). Ledger: L2=98. **P1 tier now fully drained across all channels.**
+
 ## [2026-07-08] lint | Topic-synthesis pass: 7 new topic pages from 44 L3-candidates
 
 User chose topic-synthesis over more raw ingestion. Six parallel domain agents (source-page-
