@@ -125,6 +125,21 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-01 | [[2026-07-01-yt-88oj6ZlmEi8]] | $6M roofing wants $100M — "want less or trade more", the who game | ★ |
 | 2026-07-07 | [[2026-07-07-yt-ndne_8qRh8o]] | Marketing agency $1.2M→$8M — price to worst month, go up-market | |
 
+## @TheSkoolSchool
+
+Genuine Alex content (verified) — solo talks + VSLs promoting Skool; host interjections
+attributed out. (yt-7P9O0wpPnMc 2025-01-01 has no captions → L1.)
+
+| Date | Page | Topic | ★ |
+|---|---|---|---|
+| 2024-11-28 | [[2024-11-28-yt-j0YeIT7O_ws]] | Finger-of-blame / revenge-as-self-improvement reframe | |
+| 2024-12-05 | [[2024-12-05-yt-EuRU5w53nNM]] | Most important rule = focus (woman-in-red-dress; business-type difficulty taxonomy) | ★ |
+| 2024-12-18 | [[2024-12-18-yt-V5hkdejbybQ]] | Skool community VSL — "host a party" / "be like Wikipedia" analogies | |
+| 2024-12-20 | [[2024-12-20-yt-yRP33A6nlU0]] | Niche content — relevance beats reach; monetization > views | ★ |
+| 2024-12-25 | [[2024-12-25-yt-wESCqK-qTC8]] | For those in the lonely chapter — hardship as selection effect | |
+| 2024-12-27 | [[2024-12-27-yt-rwgiScq123s]] | Lonely chapter Pt.2 — the "most epic story" decision razor | ★ |
+| 2025-01-18 | [[2025-01-18-yt-J7DWZsKr3bI]] | Skool Games VSL — "easiest business to start" (voice/offer material) | |
+
 ## @GymLaunch
 
 ⚠️ Post-2021-sale company channel — **mostly NOT Alex** (CEOs Kayla & Kale Owen, team,
@@ -141,7 +156,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-08-16 | [[2022-08-16-yt-phyR1Fq6_Ho]] | **Alex solo** — Client Finance Acquisition (no marketing budget) | |
 | 2022-08-18 | [[2022-08-18-yt-hmN2WbLlvxs]] | ⚠️ no Alex — Kale (Legion Scrambler ad system) | |
 
-_106 videos ingested (L2). The 44 L3-candidates were **synthesized into 7 topic pages**
+_113 videos ingested (L2). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

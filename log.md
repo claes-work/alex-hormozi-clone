@@ -3,6 +3,16 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 7 @TheSkoolSchool P1 (L2) — genuine Alex content
+
+Loop iteration 4. Interleaved the higher-Alex channel: 7 @TheSkoolSchool P1 (2024-11 → 2025-01),
+all Alex-led (host interjections attributed out) — validates the reclassification. 3 L3-cands:
+EuRU5w53nNM (focus rule / woman-in-red-dress / business-type difficulty taxonomy), yRP33A6nlU0
+(niche content — relevance beats reach), rwgiScq123s ("most epic story" decision razor). Others
+L2 incl. two Skool VSLs (voice/offer material) + the two-part "lonely chapter" motivational
+pieces. 1 no-captions (7P9O0wpPnMc → L1). Ledger: L2=113. Next: continue P1 (remaining
+@TheSkoolSchool + @GymLaunch light-triage + @MoreMozi), then P2, then shorts dedup.
+
 ## [2026-07-08] ingest | Stage B: 8 @GymLaunch P1 (L2) — mostly NOT Alex
 
 Loop iteration 3. Ingested 8 oldest @GymLaunch P1 (2021-08 → 2022-08). **Key finding: the
