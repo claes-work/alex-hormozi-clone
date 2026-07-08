@@ -33,5 +33,7 @@ distribution engine of the $100M book series. Facts self-reported unless noted.
 
 ## Related
 
+- [[companies]] — the companies hub: registry status, the Bumble IP trademark structure,
+  and the wider roster (ALAN, Skool, Mozi Media)
 - [[gym-launch|Gym Launch]] — the exit that funded it
 - [[../topics/business/money-model|money-model]] — the framework it invests behind

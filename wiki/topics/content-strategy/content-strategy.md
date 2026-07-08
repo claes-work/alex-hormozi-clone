@@ -10,5 +10,7 @@ His own media playbook: platforms, formats, hooks, volume.
 
 ## Pages
 
-_(none yet)_
+- [[hormozi-writing-guidelines|Hormozi Writing Guidelines]] — his eight codified writing
+  rules (3rd-grade reading level, active voice, no adverbs, short sentences, positive
+  language), from the [[../../sources/2025-08-16-affiliate-black-book|Affiliate Black Book]].
 

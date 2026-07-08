@@ -10,5 +10,7 @@ Content marketing, ads, branding, audience building.
 
 ## Pages
 
-_(none yet)_
+- [[book-launch-affiliate-playbook|Book Launch Affiliate Playbook]] — how Acquisition.com
+  runs a mass book launch through an affiliate army (from the
+  [[../../sources/2025-08-16-affiliate-black-book|Affiliate Black Book]], 2025).
 

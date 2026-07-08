@@ -15,3 +15,6 @@ integration took combined revenue to $4.4M/month by month 20
 supplement-selling days at the gym also produced the Menu Upsell tactics (Unselling,
 Prescription Upselling, A/B Upselling, Card On File) described in
 [[../topics/business/upsell-offers|upsell-offers]] (PDF pp. 101 ff.).
+
+Registry facts and the 2021 APG deal: [[companies]] (launch year 2018 vs. 2019 is a
+tracked contradiction there).

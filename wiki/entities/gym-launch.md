@@ -32,5 +32,7 @@ All facts below are self-reported in that book.
 
 ## Related
 
+- [[companies]] — registry facts (registered name **Gym Launch Secrets LLC**, WY/TX
+  registrations) and the 2021 American Pacific Group exit that the $46.2M figure refers to
 - [[../sources/2025-08-16-100m-money-models|$100M Money Models]] — primary source
 - [[../topics/business/money-model|money-model]] — the framework it exemplifies

@@ -3,6 +3,27 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Book (L3): $100M Money Models
+
+Full L3 ingest of the trilogy's third book (2025, user-purchased PDF, 214 pp.). Extracted
+verbatim text → raw/2025-08-16-100m-money-models.{md,pdf}; six parallel section-extraction
+agents fed the write-up. Created source page + 6 business topic pages
+(money-model + attraction/upsell/downsell/continuity offers, each with per-page PDF
+citations and verbatim quotes) + entity detail pages gym-launch, prestige-labs,
+acquisition-com (the detail pages companies.md already pointed to). Populated persona
+beliefs.md + voice.md from the book and **compiled system-prompt.md v1** (Persona mode now
+usable; strong on business voice, weak on appearance/spoken mannerisms). Ledger row added.
+Note: one extraction agent + the attraction-offers writer hit the Fable 5 usage limit;
+recovered inline. Cross-linked with the parallel Phase-1 research (companies.md, biography).
+
+## [2026-07-08] ingest | Doc (L3): Affiliate Black Book
+
+Ingested the launch playbook distributed to affiliates for the Money Models launch
+(raw/2025-08-16-affiliate-black-book.{md,pdf}). Source page + two topic pages:
+book-launch-affiliate-playbook (marketing — campaign architecture, prize ladder, channel
+re-voicing) and hormozi-writing-guidelines (content-strategy — his 8 codified writing
+rules, which now anchor persona/voice.md). Ledger row added.
+
 ## [2026-07-08] ingest | Companies & registries — Phase 1 COMPLETE (part 3/3)
 
 Finished the companies research manually (the automated agent hit a usage limit at the
