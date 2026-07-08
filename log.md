@@ -3,6 +3,27 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] lint | Synthesis pass 3 — biography v4, beliefs 16src, 2 topics, system-prompt v5
+
+Loop iteration 14 (maintenance/synthesis). Consolidated the accumulated P1+P2 gains via 5 parallel
+agents + a recompile:
+- **persona/biography.md → v4** (15→21 sources): United Fitness era, first-gym scaling figures
+  ($5k→$35k/mo, mo9 outsourced, mo15 2nd gym), the ~2015 gym-launch/rev-split seed, Leila airport-
+  recruitment vignette + frozen-yogurt first date, 32-gyms/18mo model, 6→8→10→12k price escalation,
+  $6.8M→$26M/$17M-profit split, book-trilogy origin (single manuscript "Lead Generation and
+  Monetization Structures", Leila's "Publish it"), net-worth→Goodwill lens shift (~Dec 2022). New
+  contradiction #8 (3-books-at-once vs staggered launches). United Fitness flagged → **entity stub created**.
+- **persona/beliefs.md** (8→16 sources): perfect-business 5-filter, wealth 4-paths, build-capacity/
+  fat-pitch, maximizer-not-optimizer, trust=punishability, new **AI-era (2026)** section, net-worth→
+  Goodwill evolution.
+- **2 new topic pages**: wiki/topics/wealth/building-wealth.md (4 paths + cash-flow-vs-net-worth) and
+  wiki/topics/business/ai-in-business.md (consolidated 2026 AI thesis from 3 videos, time-sensitive).
+- **wiki/entities/acquisition-com.md**: added 2026 flywheel (advisory L1/L2/L3, ACQ RE/Ventures/PE,
+  ACQ Network, Skool equity). **wiki/entities/united-fitness.md**: new stub (self-reported).
+- **persona/system-prompt.md → v5** (compiled_from_sources 100→183). Wired new pages into hubs +
+  index; logged 3 open gaps (appearance stub, age inconsistency, 3-books contradiction) in gaps.md.
+23 topic pages now. Next: resume @AlexHormozi P2 ingestion (454 left).
+
 ## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — bio + entity finds
 
 Loop iteration 13. 8 @AlexHormozi P2 (2026-03→04). Two L3-candidates: Q8xXSMe8E4Q "Reacting to my

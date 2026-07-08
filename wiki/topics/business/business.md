@@ -32,4 +32,7 @@ Offers, leads, sales, scaling, money models, pricing, retention.
   to scale, scale-zero, EV = customers × LTGP ÷ risk, exit/M&A philosophy, talent-side LTV:CAC.
 - [[acquisition-channels|Acquisition Channels]] — Big 4 vs 6 sources vs Core Four reconciled;
   Client Financed Acquisition, word-of-mouth as the only exponential channel, Rule of 100, MAGIC naming.
+- [[ai-in-business|AI in Business]] — his current (2026) AI thesis: use AI as a tool not an identity,
+  "capture don't create" (proof as moat), workflow-not-role org design, "risk is the last paid human
+  act", the barbell strategy. **Time-sensitive position.**
 

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-08
-sources: 15
+sources: 21
 ---
 
 # Biography
@@ -14,7 +14,15 @@ videos have been ingested (L2); the origin-story rows below now carry his own da
 first-person tellings — all self-reported (🗣️), each cited to its video source page.
 Synthesis pass 2 (2026-07-08) added the detailed father/refugee story, the "Seven Fig
 Sam" apprenticeship and "at 22" first-gym telling, the fraternity origin of his work
-ethic, and the ~2024 decision to become famous.
+ethic, and the ~2024 decision to become famous. Synthesis pass 3 (2026-07-08) wove in a
+batch of L2 origin-story clips: the on-camera **United Fitness** ownership and earliest
+self-shot content formats, the granular first-gym month-by-month scaling, the free
+"launch-gyms-and-split-the-upside" seed of the gym-services business, the Leila
+airport-recruitment / "$100k of contracts" vignette and frozen-yogurt first date, the
+6→8→10→12k licensing price escalation and $6.8M→$26M by-year revenue split, the
+single-manuscript ("Lead Generation and Monetization Structures") origin of the book
+trilogy with Leila's "Publish it" catalyst, and the Dec 2022 net-worth→Goodwill
+decision-lens shift.
 
 ## Timeline
 
@@ -25,16 +33,17 @@ ethic, and the ~2024 decision to become famous.
 | ~college | Pledged a demanding fraternity (3 hrs/day study hall); credits it with a ~3.83 GPA semester and with first learning to "sacrifice everything" — the discipline he later transferred to business [[../wiki/sources/2021-08-02-yt-ug5N9qmFVKQ]]. Served as **fraternity president**; traces his signature line **"this is what hard feels like"** to resetting pledges' expectations to match reality, which made their suffering evaporate — the seed of his adult resilience philosophy ("power follows the blame finger," "my fault") [[../wiki/sources/2023-07-11-yt-mNcDKnq6-q8]] | 🗣️ |
 | ~2011–2013 | Management consultant in defense contracting / cyber intelligence, Washington DC — on a **subcontract under Booz Allen**; claims military "space cyber intelligence" work with top-secret clearance. Says he "hated it so much" he quit [[../wiki/sources/2024-04-09-yt-lXRqOG2yn6E]] | 🗣️ |
 | ~2013 ("at 22") | Quit consulting against his father's wishes; graduated a year early from a school in Tennessee, saved **~$50,000**, and **drove across the country to Southern California without telling anyone — until halfway there — specifically so his father couldn't talk him out of it**. Found a mentor by Googling "successful gym owner" → a "crappy HTML site" branded **"Seven Fig Sam"**; showed up "with no plan," slept at Sam's place, and apprenticed **~12 weeks** (working Sam's 4am–4pm shift). Ran his **first Facebook ad** for Sam's personal-training side — it made money and sold the first ~10–12 people. Then opened his own first gym in **Huntington Beach** (existing rows name it "United Fitness"); could afford only one rent, so **slept on the gym floor** ("my Rocky cut scene") [[../wiki/sources/2024-04-09-yt-lXRqOG2yn6E]] | 🗣️ |
-| ~2013 | First-gym offer: a **six-week weight-loss challenge** (~$500–600, "free if they lost 10% of body weight"), pre-sold via Facebook ads (new in 2013). Front-loaded cash let him build out each gym with incoming revenue and outspend competitors; grew ~$5k/month for 7–8 months, then opened a new location ~every six months up to **five locations**. Met Leila around the time he had five gyms [[../wiki/sources/2024-04-09-yt-lXRqOG2yn6E]] | 🗣️ |
-| 2013–2016 | Grew United Fitness to 6 locations | 🗣️ |
-| 2016 | Founded Gym Launch — done-for-you turnarounds of struggling gyms (claims 32+); met Leila Naghshineh (Bumble), she joined on his 4th turnaround | 🗣️ |
+| ~2013 | First-gym offer: a **six-week weight-loss challenge** (~$500–600, "free if they lost 10% of body weight"), pre-sold via Facebook ads (new in 2013). Front-loaded cash let him build out each gym with incoming revenue and outspend competitors; grew ~$5k/month for 7–8 months, then opened a new location ~every six months up to **five locations**. Met Leila around the time he had five gyms [[../wiki/sources/2024-04-09-yt-lXRqOG2yn6E]]. More granular self-telling: the first gym grew **~$5k/month for its first 7 months up to a ~$35k/month peak**, was **fully outsourced / just-managed by month 9**, and funded the **second gym at month 15** — pre-launched at full capacity ("did it the right way"), a method then repeated for locations 3–5 [[../wiki/sources/2026-03-12-yt-3T7k-zVKOvg]]. On his **first date with Leila** (a frozen-yogurt shop) he began breaking down the store's unit economics (weight × price per ounce) and was thrilled she independently ran the same analysis [[../wiki/sources/2025-04-01-yt-6rKnYBnqcYY]] | 🗣️ |
+| 2013–2016 | Grew **United Fitness** to 6 locations. Contemporary self-shot footage confirms the brand: he introduces himself on camera as **"the owner of United Fitness,"** running the free 6-week challenge with motivation-based screening, custom color nutrition plans, and body-fat tracking via bioelectrical-impedance machines, while producing his own rough early content — a recurring **"mind game series"** (e.g. love vs. discipline), commute/car voice-memo vlogs, and a **DC-area campaign** reference [[../wiki/sources/2026-04-09-yt-Q8xXSMe8E4Q]] | 🗣️ |
+| ~2015 | Seed of the gym-services business: he began a **free** service going *into* other gyms to launch them and **splitting the upside** he brought in; a prospect who saw him speak asked to buy before he even had an offer — "the weirdest, funniest sale I'd ever done from the stage" — which he says **"sprouted the entire new business,"** launching **three different gyms in a single month**. Says he changed his own approach **~6 times** before finding what worked [[../wiki/sources/2026-04-09-yt-Q8xXSMe8E4Q]] | 🗣️ |
+| 2016 | Founded Gym Launch — done-for-you turnarounds of struggling gyms (claims 32+); met Leila Naghshineh (Bumble), she joined on his 4th turnaround. Fuller self-telling: it began as an **in-person fill-up service** (fly out, set up a table, sell **~200 memberships in ~20 days**, ad economics ~30:1 — "$1k in ads → $30k–$100k in 30 days"; says he was **~26**), which scaled to **~32 gyms in ~18 months with a six-person flying sales team** before collapsing for **lack of delivery control** — the struggling owners couldn't retain the members he sold, driving refund/chargeback exposure that killed the model [[../wiki/sources/2026-02-13-yt-JlY8cvqlXoI]]. An interim **turnkey model** followed — he flew out and ran the entire marketing/sales operation himself, charged owners nothing up front, and **kept 100% of cash collected** at **~$100k/month with no employees** for "a year-ish," having escaped stagnation after an internet **mastermind** reframed him from gym owner to gym-marketing teacher [[../wiki/sources/2026-03-12-yt-3T7k-zVKOvg]]. **Leila's recruitment** (on his 4th turnaround): after ~3 gyms and 30 days of "Panda Express and Chipotle," he picked her up from the airport (big backpack) and, before the promised proper date, asked her to help process a **stack of ~$100,000 in contracts** on the POS; told the total was "100 grand," she said **"All right, I'm in"** — her question just before agreeing was **"Is this legal?"** ("Yes") [[../wiki/sources/2026-02-13-yt-JlY8cvqlXoI]] | 🗣️ |
 | ~2016 | Running ~9–10 businesses at once (six gyms + two agencies), "spread wildly too thin"; drinking half a bottle of Johnnie Walker a night to sleep. A **DUI head-on collision at ~60 mph** (walked away) is the catalyst that pushed him to confront delayed decisions and focus on one business [[../wiki/sources/2021-09-17-yt-Xb9ZOA6zypU]] | 🗣️ |
-| Late 2016 | Fire-sold five of six gyms, shut the two agencies, put proceeds into the last facility; his business partner (believing Alex had taken distributions) drained the account. Left with ~$23,000 after refund checks; wired a ~$22,000 commission owed to a salesman ("do right by everyone"), leaving himself **$1,000** [[../wiki/sources/2021-09-17-yt-Xb9ZOA6zypU]] | 🗣️ |
+| Late 2016 | Fire-sold five of six gyms, shut the two agencies, put proceeds into the last facility; his business partner (believing Alex had taken distributions) drained the account. Left with ~$23,000 after refund checks; wired a ~$22,000 commission owed to a salesman ("do right by everyone"), leaving himself **$1,000** [[../wiki/sources/2021-09-17-yt-Xb9ZOA6zypU]]. He compresses this whole stretch as "a million series of unfortunate events… **lose all the money like twice**. I sell the gyms. I go all in on the new concept." [[../wiki/sources/2026-03-12-yt-3T7k-zVKOvg]] | 🗣️ |
 | Dec 24, 2016 (Christmas Eve, "age 27") | At Leila's family's home; learns a payment processor is holding ~$100k for six months; resting pulse ~120 from stress. The moment he knew he'd marry Leila — she told him **"I would sleep with you under a bridge if it came to that."** [[../wiki/sources/2021-09-17-yt-Xb9ZOA6zypU]] | 🗣️ |
 | Dec 26, 2016 | Relaunched six gyms simultaneously with $1,000 to his name and a $100k-limit credit card (~$3,300/day debt). Renamed the service from **"Gym Rescue" → "Gym Launch"** ("no one wants to be rescued") [[../wiki/sources/2021-09-17-yt-Xb9ZOA6zypU]] | 🗣️ |
-| Early–mid 2017 | Processing crisis resolved via high-risk processor "Alex Roy" (stacked $50k/$100k/$150k limits); refunds peaked at **35%**; pivoted weight-loss sales online (~$1,000/day), then to the consulting/licensing model — quoted $6,000 to *deter* a gym owner, got a yes, raised to $8,000, then priced the system ~$16,000; did ~$60k in a day, ~$300k the next month; called ~32 already-launched gyms | 🗣️ |
+| Early–mid 2017 | Processing crisis resolved via high-risk processor "Alex Roy" (stacked $50k/$100k/$150k limits); refunds peaked at **35%**; pivoted weight-loss sales online (~$1,000/day), then to the consulting/licensing model — quoted $6,000 to *deter* a gym owner, got a yes, raised to $8,000, then priced the system ~$16,000; did ~$60k in a day, ~$300k the next month; called ~32 already-launched gyms. Another telling adds the price-escalation detail: he "picked the highest number I could think of" ($6,000) to deter a desperate owner ("I just mortgaged my house, I lost everything"), heard "It's done," then ran **~7 more calls for ~$60k in a day "selling air,"** escalating the quote **6 → 8 → 10 → 12k** as each closed. Same day, Leila — who had been selling toward a different pivot — said "I just sold two deals," telling him he'd sold her on how they were getting *out* of the gym business; he replied, "Yeah, but I think we're just doing it wrong" [[../wiki/sources/2026-02-13-yt-JlY8cvqlXoI]] | 🗣️ |
 | May 17, 2017 | Married Leila; he has said they married partly as a practical/financial/mission-aligned partnership and "fell in love later" | 📰/🗣️ |
-| 2017 | Gym Launch pivots to licensing model; claims $3M profit in first 6 months, $17M profit in the following 12; eventually "4,500+ facilities in 13 countries" | 🗣️ |
+| 2017 | Gym Launch pivots to licensing model; claims $3M profit in first 6 months, $17M profit in the following 12; eventually "4,500+ facilities in 13 countries". By-year self-telling of the turnkey→licensing jump: **~$6.8–7M in year 1 → ~$26M the next year (~$17M profit)**, with head count growing **8 → ~30 employees** in the first year; "that's when everything just took off like a rocket" [[../wiki/sources/2026-02-13-yt-JlY8cvqlXoI]] [[../wiki/sources/2026-03-12-yt-3T7k-zVKOvg]] | 🗣️ |
 | Mid-2017 → ~2018 | Consulting product takes off: monthly revenue ramp ~$100k → $300k → $480k → $780k → $1M → $1.2M → $1.5M → $1.8M → $2.2M; **~$3M profit in the last 4–5 months of 2017**, then **~$17M profit the following year** after switching from service to media/licensing (near-zero cost of reproduction) [[../wiki/sources/2021-09-17-yt-Xb9ZOA6zypU]] | 🗣️ |
 | 2018/2019 (conflicting) | Launched Prestige Labs, supplements sold through the Gym Launch network; claims $20M first-year revenue | 🗣️ |
 | Jan 1, 2019 | *Gym Launch Secrets* published (Gym Lords Media) | ✅ |
@@ -44,14 +53,15 @@ ethic, and the ~2024 decision to become famous.
 | Mar 2021 | Attends an eight-person "half-billion-dollar" mastermind (combined >$500M/yr); says he was the second smallest, projecting ~$32M for the year; names running **three businesses at once** as a "terrible idea" that cost ~2 years of his development ("scale zero," oceans-vs-lakes) [[../wiki/sources/2021-03-25-yt-sKCrYIWPHLc]] | 🗣️ |
 | May 2021 | Lost ~**$217,000** (rounds to "$200k") on a short-term day trade; states 3–5% of net worth is "play money," 95–97% in stable holdings; claims "$120M in sales in 44–45 months" [[../wiki/sources/2021-05-19-yt-c5Lw12PXkgU]] | 🗣️ |
 | 2021 (announced Jan 18, 2022) | Sold 66% of Gym Launch + Prestige Labs to American Pacific Group (all-cash); ALAN majority sold to a strategic partner. Deal ✅ (Capstone announcement); the $46.2M figure 🗣️ only | ✅/🗣️ |
-| Jul 13, 2021 | *$100M Offers* published (Acquisition.com Publishing), launched at $0.99 with one Instagram post; claims ~1,000 copies/day early | ✅ / 🗣️ |
+| Jul 13, 2021 | *$100M Offers* published (Acquisition.com Publishing), launched at $0.99 with one Instagram post; claims ~1,000 copies/day early. **Origin of the whole trilogy:** during his Gym Launch years a **mentor** told him to "crystallize all your knowledge now" before he forgot the details, so he wrote one large manuscript titled **"Lead Generation and Monetization Structures"**; friends found it "a lot," so he peeled off the offers section. He nearly kept the material as an **internal team manual** until **Leila said "Publish it."** At publication he had **~10,000 Instagram followers and nothing on YouTube**; sales grew by word of mouth. He says all three books were drafted from that single manuscript "at the same time" (see Contradictions #8) [[../wiki/sources/2026-02-15-yt-8ExRKuE_KFs]] | ✅ / 🗣️ |
 | Aug 2021 | Gym Launch's top-tier clients ~700 paying ~$42,000/yr; company ~135 employees; says he's "28" and "five or six years into" his career; teaches the **Value Equation** [[../wiki/sources/2021-08-23-yt-_qspvJAq34M]]. Self-reports Acquisition.com portfolio at **~$85M/yr revenue**, goal **$1B/yr**, working "2–3 days a week" [[../wiki/sources/2021-08-02-yt-ug5N9qmFVKQ]] | 🗣️ |
 | Dec 2021 | Describes having done self-administered "psychotherapy," a past period of being "very unhappy" and his "[expletive] happiness" mentality, later "significantly less unhappy"; still self-reports portfolio ~$85M/yr [[../wiki/sources/2021-12-08-yt-o7R_K6LwKNk]] | 🗣️ |
+| Dec 2022 | Says his personal decision lens is **shifting from net worth to "Goodwill."** For "the last four years" (~2018–2022) "every decision I made was, is this gonna increase my net worth"; he now frames that question as changing internally toward goodwill — visible in his more public-facing brand, and his choice not to extract value from his (much larger) audience because it wouldn't build goodwill. An early, dated marker of the public-brand pivot that culminates in the ~2024 "decision to become famous" [[../wiki/sources/2022-12-16-yt-4Z6-iA-Pg6I]] | 🗣️ |
 | Aug 19, 2023 | *$100M Leads* live launch event (day after his birthday); co-authored with **Trevor** over ~2 years; sold via Shopify (self-published); ~500k registered; ~**100k first-day sales**; says *Offers* had sold "just under 500,000 copies over two years"; **declined an estimated ~$50M payday** to keep it free [[../wiki/sources/2023-08-26-yt-qel9bf653Es]] | ✅ date / 🗣️ numbers |
 | Dec 2023 | Says he is actively weighing a major multi-year, **~billion-dollar decision** between two "relatively irreversible" paths; frames his base as "at 100" with a 10x litmus test; references home base **Las Vegas** and friendship with Sharran Srivatsaa (president of Real) [[../wiki/sources/2023-12-06-yt-Tu6YDG0AZ5k]] | 🗣️ |
 | Realization ~age 27 (told Apr 2024) | Recounts the "180-degree flip" from anti-organic-content operator (cold outreach + ads; podcast ep. 7 literally titled "Stop Branding") to deliberately building a huge personal brand. Trigger: **Kylie Jenner** becoming a billionaire at 20 while he was **27** ("she is way richer than I am… she's doing something different by an order of magnitude"), then a ~12-month cluster of celebrity-brand exits (Huda Beauty, McGregor/Proper 12, Clooney/Casamigos, The Rock/Teremana, Logan Paul/Prime). The "last straw" was a famous friend telling him fame was a price worth paying for impact — he "started making content that week." His ledger: fame is a money-making "time warp" (talent attraction, pre-trained hires, deal trust) whose one umbrella cost is loss of privacy, which is irreversible [[../wiki/sources/2024-04-02-yt-J9Y6FXMELtA]] | 🗣️ |
 | Jan 2024 | Announced Skool investment alongside Sam Ovens — "biggest investment of my life"; stake size unverified; Skool Games launched | 📰/🗣️ |
-| Aug 16, 2025 | *$100M Money Models* launch: 9.5-hour livestream; Guinness World Record "fastest-selling non-fiction book" (2,917,443 copies by Aug 17) ✅; ~$87M day-one revenue claim 🗣️ | ✅/🗣️ |
+| Aug 16, 2025 | *$100M Money Models* launch: 9.5-hour livestream; Guinness World Record "fastest-selling non-fiction book" (2,917,443 copies by Aug 17) ✅; ~$87M day-one revenue claim 🗣️. He later frames the launch as deliberately demonstrating the book's own ideas — using **12 of the book's ~15 monetization mechanisms** live to culminate in a **$100M / 72-hour** result; free copies given away did **not** count toward the record [[../wiki/sources/2026-02-15-yt-8ExRKuE_KFs]] | ✅/🗣️ |
 | ~Sep 19, 2025 | His mother Florence died in an accident at her Baltimore home | 🗣️ |
 
 ## Family & background
@@ -136,6 +146,10 @@ ethic, and the ~2024 decision to become famous.
    28, and ~32** in ways that don't cleanly fit a 1988 birth:
    - opened his **first gym "at 22"** — if ~2013, that implies born ~1991
      [[../wiki/sources/2024-04-09-yt-lXRqOG2yn6E]];
+   - was **"26" during the in-person gym fill-up era** (~2013–2015) and **"28" the
+     year Gym Launch did ~$26M** — both self-reported, mutually consistent with a ~2–3
+     year gap but not cleanly anchored to any birth year
+     [[../wiki/sources/2026-02-13-yt-JlY8cvqlXoI]] [[../wiki/sources/2026-03-12-yt-3T7k-zVKOvg]];
    - was **"age 27" on Christmas Eve 2016** (→ born ~1989)
      [[../wiki/sources/2021-09-17-yt-Xb9ZOA6zypU]];
    - was **"27" when Kylie Jenner became a billionaire at 20** (→ born ~1989 if he means
@@ -164,6 +178,15 @@ ethic, and the ~2024 decision to become famous.
    (the 500k figure is a 2023 snapshot), not a contradiction. Note the *Leads* launch
    "day after his birthday" lands on Aug 19, corroborating the dossier's Aug 19, 2023
    launch date and the ~Aug 18 birthday.
+8. **Book trilogy: "all three written at once" vs staggered launches.** In 2026 he says
+   the three "$100M" books were **written at the same time**, spun out of the single
+   "Lead Generation and Monetization Structures" manuscript
+   [[../wiki/sources/2026-02-15-yt-8ExRKuE_KFs]]. This sits alongside their staggered
+   launch dates (*Offers* Jul 2021, *Leads* Aug 2023, *Money Models* Aug 2025) and his
+   separate claim that *Leads* was **co-authored with Trevor over ~2 years**
+   [[../wiki/sources/2023-08-26-yt-qel9bf653Es]]. **Not a hard contradiction** — best
+   read as: the core material was drafted together early, then each book was
+   finished/expanded and launched in sequence. Flagged pending an L3 reconciliation.
 
 > ⚠️ CONTRADICTION: **"Direct-response since 18 / credit-repair booklet" vs the
 > consulting→gym origin.** In a 2023 marketing talk he says, "I actually came from the
@@ -179,3 +202,11 @@ ethic, and the ~2024 decision to become famous.
 
 See the dossier for the full open-questions list (consulting firm name, Gilman School,
 mother's obituary identity, "magna cum laude" verification).
+
+<!-- Editor's note (curator, 2026-07-08): "United Fitness" is now corroborated on camera
+as the brand of his early Huntington Beach gym chain ("the owner of United Fitness",
+[[../wiki/sources/2026-04-09-yt-Q8xXSMe8E4Q]]). It recurs across multiple origin-story
+sources and predates Gym Launch — it likely warrants its own wiki/entities/ stub
+(self-reported, not registry-verified; disambiguate from unrelated businesses of the
+same common name). NOT created here per concurrency scope — flag for a follow-up ingest. -->
+

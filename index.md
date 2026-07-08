@@ -13,7 +13,7 @@ _Last updated: 2026-07-08 (first book ingest: $100M Money Models + Affiliate Bla
 
 ### YouTube
 
-- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (16 L2 so far; 8 flagged L3-candidate). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
+- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**181 L2**; all P1 landmark videos across 5 channels complete; P2 tier underway). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
 
 ## Topics
 
@@ -28,12 +28,14 @@ Domain hubs (full page list lives on each hub):
   - [sales-frameworks](wiki/topics/business/sales-frameworks.md) — CLOSER, logical closing (onion of blame + 5 obstacles), sales hacks, transference of conviction, high-ticket pricing, sales-team scaling.
   - [scaling-and-enterprise-value](wiki/topics/business/scaling-and-enterprise-value.md) — $0→$10M ladder, 5 ways to scale, scale-zero, EV = customers × LTGP ÷ risk, exit/M&A, talent-side LTV:CAC.
   - [acquisition-channels](wiki/topics/business/acquisition-channels.md) — Big 4 vs 6 sources vs Core Four reconciled; Client Financed Acquisition, word-of-mouth as only exponential channel, Rule of 100, MAGIC naming.
+  - [ai-in-business](wiki/topics/business/ai-in-business.md) — his current (2026) AI thesis: use AI as a tool, capture-don't-create, workflow-not-role, risk-is-the-last-paid-human-act, barbell strategy (time-sensitive).
 - [wiki/topics/marketing/marketing.md](wiki/topics/marketing/marketing.md) — Content marketing, ads, branding, audience building.
   - [book-launch-affiliate-playbook](wiki/topics/marketing/book-launch-affiliate-playbook.md) — how a mass book launch runs on an affiliate army.
 - [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — Discipline, self-belief, decision-making, pain and identity.
   - [discipline-and-decision-making](wiki/topics/mindset/discipline-and-decision-making.md) — "12 by 30" work ethic, to-sacrifice list, radical ownership, irreversible decisions, confidence-from-proof, infinite game, money = condensed time.
 - [wiki/topics/wealth/wealth.md](wiki/topics/wealth/wealth.md) — Investing, net-worth philosophy, spending.
   - [investing-and-wealth](wiki/topics/wealth/investing-and-wealth.md) — Buy-and-hold vs trading, play-money quarantine, keep-passive-passive, proximity to wealth, wealth = what you own.
+  - [building-wealth](wiki/topics/wealth/building-wealth.md) — the 4 paths to wealth (bootstrap/raise/invest/fund), cash-flow vs net-worth (6x multiple), his own route through all four.
 - [wiki/topics/fitness/fitness.md](wiki/topics/fitness/fitness.md) — Training, nutrition, his athletic background.
 - [wiki/topics/content-strategy/content-strategy.md](wiki/topics/content-strategy/content-strategy.md) — His own media playbook: platforms, formats, hooks, volume.
   - [hormozi-writing-guidelines](wiki/topics/content-strategy/hormozi-writing-guidelines.md) — his 8 codified writing rules.
@@ -44,6 +46,7 @@ Domain hubs (full page list lives on each hub):
 ## Entities
 
 - [wiki/entities/companies.md](wiki/entities/companies.md) — Companies hub: all companies with roles, registry facts, ownership, and the 2021 APG sale.
+- [wiki/entities/united-fitness.md](wiki/entities/united-fitness.md) — **Stub**: his early gym brand (~2013–2016), predecessor to Gym Launch. Self-reported, not registry-verified.
 - [wiki/entities/gym-launch.md](wiki/entities/gym-launch.md) — Detail page: the gym-licensing company, its money model, revenue milestones ($476K→$4.4M/mo), $46.2M exit (book-sourced).
 - [wiki/entities/prestige-labs.md](wiki/entities/prestige-labs.md) — Detail page: his supplement company, integrated with Gym Launch (book-sourced).
 - [wiki/entities/acquisition-com.md](wiki/entities/acquisition-com.md) — Detail page: family office / holding co, $200M+/yr portfolio, book publisher (book-sourced).
@@ -54,11 +57,11 @@ Domain hubs (full page list lives on each hub):
 
 ## Persona
 
-- [persona/biography.md](persona/biography.md) — Dated timeline 1988–2025 with confidence markers (**v3, 15 sources** — detailed father/refugee story, Seven Fig Sam apprenticeship, first gym at 22, fame decision; age-wobble + credit-repair contradictions flagged).
+- [persona/biography.md](persona/biography.md) — Dated timeline 1988–2025 with confidence markers (**v4, 21 sources** — father/refugee story, Seven Fig Sam apprenticeship, United Fitness + first-gym scaling figures, Leila airport-recruitment vignette, book-trilogy origin, Goodwill values shift; age-wobble + "3 books at once" + credit-repair contradictions flagged).
 - [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + a borrowed-lines (not-his-coinages) section.
-- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited; enriched from the 7 topic pages (sales, scaling/EV, acquisition, content, branding, mindset, wealth) with tracked position evolutions.
+- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**16 sources**); enriched from the topic pages + P2 synthesis (perfect-business 5-filter, wealth 4-paths, fat-pitch, maximizer-not-optimizer, trust=punishability, 2026 AI-era thesis) with tracked position evolutions (incl. net-worth→Goodwill).
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Stub** (awaits video/photo sources).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v4** (100 sources) — full business frameworks + prose/spoken voice + origin story; still weak on appearance/on-camera mannerisms (pending watch-skill sampling).
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v5** (183 sources: ~181 videos + 2 books) — full business frameworks + prose/spoken voice + enriched origin story (United Fitness, Leila recruitment, book origin) + 2026 AI thesis + Goodwill values shift; still weak on appearance/on-camera mannerisms (pending watch-skill sampling).
 
 ## Other
 

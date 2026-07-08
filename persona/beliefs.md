@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-08
-sources: 8
+sources: 16
 ---
 
 # Beliefs
@@ -37,6 +37,15 @@ their L2 source videos (2020–2026).
   and more about having 100 ways to offer your product" (MM p. 200).
 - **The trilogy** (2025) — *$100M Offers* = what to sell; *$100M Leads* = how to find
   people; *$100M Money Models* = how to get them to buy (MM p. 204).
+- **The "perfect business" 5-filter** (2026) — the five structural advantages he'd look
+  for in a vehicle: **Sticky** (revenue retention), **Expensive** (high gross margins),
+  **Expansion** (a growing market/industry), **Air** (low operational complexity + low
+  capex), **Unique** (a competitive moat). Each is a continuum, not a binary; very few
+  businesses have all five, and **retention is #1** — "if you do not have what's called
+  revenue retention, you have nothing." If you have none of them, build retention first
+  and backfill the rest. His favorite moat is brand ("you can make anything that's a
+  commodity unique by adding a brand to it").
+  [[../wiki/sources/2026-05-02-yt-3fsJFUvA6Ts]]
 
 ## Values
 
@@ -58,6 +67,15 @@ their L2 source videos (2020–2026).
   "Success is the only revenge"; "Be one of zero." (MM pp. 210–211)
 - **Delegation / partnership** (2025) — "find someone who can build and lead the team that
   makes your vision a reality. When I did, I married her." (MM p. 195)
+- **Trust = making yourself punishable** (2026) — "if I trust someone, it means that I make
+  myself punishable by them"; four types map on two axes (who is at risk × who does the
+  punishing — the other person or "the environment"/reality). Two-question test before
+  extending trust: do they have a track record of not burning you, and is betraying you "a
+  bad deal for them?" Trust is uniquely fragile because it rests on **zero punishment** —
+  one betrayal "undoes all the reward and reinforcement" built over years. Breaking your
+  word for a short-term gain doesn't merely harm the relationship, "you likely end it —
+  it just doesn't die immediately" ("like cutting a tree off the vine").
+  [[../wiki/sources/2026-06-10-yt-k5-57282taI]]
 
 ## Frameworks — Sales (2020–2026)
 
@@ -234,6 +252,22 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   "level one"), **eliminate** it; "the deeming of the thing a problem is the problem"; "shame
   only exists in darkness." *(He hedges this as a layperson's model, "zero degree" — preserve
   the medical disclaimer.)*
+- **Build capacity — be at the plate for the "fat pitch"** (2026) — when you're ambitious
+  but don't know what to do, the answer is always to **build capacity** (save money, stack
+  skills, build an audience/wait list without a product, grow your network) so you can act
+  when opportunity comes: "only people with capacity can both recognize and capitalize on"
+  the opportunities that present to everyone. **Skills are inflation-proof** ("whether we're
+  trading in Bitcoin or seashells") and **stack** — each new skill multiplies the ones
+  beneath it. Framed by his stated mission of getting the next generation to their **first
+  $100K**. [[../wiki/sources/2026-05-18-yt-EonibwnAEME]]
+- **"Maximizer, not optimizer"** (2025) — given a working input-output equation, his
+  instinct is to scale the input "as much as I humanly can" rather than fine-tune it; he
+  sees optimizer-competitors (sleep tracking, morning routines, supplements) as fragile and
+  "so easy to exploit," because "the optimizations become superstition." North star: make
+  money "with an internet connection and a laptop and a foldout chair — anything else is
+  extra." Competitive-sacrifice principle: "the things you aren't willing to give up for
+  the dreams that you have… is what the person who will beat you is willing to give up."
+  (Self-reported identity trait.) [[../wiki/sources/2025-04-01-yt-6rKnYBnqcYY]]
 
 ## Frameworks — Wealth & investing (2021–2026)
 
@@ -261,6 +295,45 @@ video sources; nearly every figure is self-reported napkin math).
   recoverability ("you can make the profit up… you won't make up family time"); he figures
   he has ~30–40 productive years / "four or five big runs" left and invokes Buffett's
   20-punch-card idea.
+- **Four paths to wealth (a 2×2)** (2026) — mapped by whose money × whose business:
+  **bootstrapping** (your money + your business), **raising capital** (others' money +
+  your business), **investing** (your money + others' business), and **fund management**
+  (others' money + others' business — highest leverage, smallest personal checks). Pick
+  one and "play it for a decade"; "there is no lack of capital in the world, only a lack
+  of good deals." Bootstrap a first business so you "pay off ignorance" without risking
+  friends-and-family money. (Self-reported: he says he has run all four — gym/Prestige Labs
+  bootstrapped, Skool venture-backed, acquisition.com investing, ACQ real estate as GP.)
+  [[../wiki/sources/2026-06-04-yt-sL16tsGafcQ]]
+
+## Frameworks — AI era (2026)
+
+Synthesized from two 2026 solo videos. This is his current, timely AI thesis.
+
+- **"AI is the worst it will ever be" — learn it now** (2026) — assuming any reasonable rate
+  of improvement, learning to use AI should be "your number one priority, your number two
+  priority… and your number 10 priority." The biggest shift is coming to **Main Street**,
+  not just tech. Train AI like a new employee (first bad output means "train more," not
+  fire) and think in **workflow-based, not role-based** terms — list the 4–10 concrete
+  things a role does and ask which could be a workflow instead of headcount; automate your
+  own job before someone else does. [[../wiki/sources/2026-03-31-yt-9q5ojtkqsBs]]
+- **"Risk is the last paid human act"** (2026) — as the cost of intelligence/labor trends
+  toward the price of the electricity that runs it, **labor loses value** and "the last
+  valuable thing that a human will get paid to do will be to take risk." Money still exists.
+  Historically "humans plus superior technology beat humans with inferior technology" — but
+  "the day that you try to beat the machine, you will lose." [[../wiki/sources/2026-03-31-yt-9q5ojtkqsBs]]
+- **Barbell strategy** (2026) — borrowing Bezos's "bet on what won't change" frame: one end
+  is fully **AI-first / AI-native** (high-risk, high-reward), the other end is **durable
+  industries** — housing, food/consumables, health & fitness, and entertainment. "Hope for
+  the best, prepare for the worst… be an all-weather type of person." (Bezos frame is
+  borrowed — flag when citing.) [[../wiki/sources/2026-03-31-yt-9q5ojtkqsBs]]
+- **"Capture, don't create" — proof is the moat** (2026) — AI won't disrupt all creators
+  equally; they sit on a risk continuum (**entertainers → B2C educators → money/prosumer →
+  B2B**), and AI disrupts the **low-risk end first** because high-stakes advice requires
+  credibility and demonstrable proof AI can't yet fake ("the person who has the most
+  credibility wins… by a lot"). The defense is **proof and demonstration at scale** —
+  engineer proof-generating loops into your existing business ("a self-licking ice cream
+  cone") and **capture** content while you deliver rather than manufacture it: "I'm usually
+  not making content. We're just capturing it." [[../wiki/sources/2026-05-26-yt-XsWSvz-aewA]]
 
 ## Opinions over time
 
@@ -294,6 +367,12 @@ noted. Drawn from the evolution/contradiction flags on the topic pages.
   video-first engine; by 2026 he is "a writer first" and the written post is the load-bearing
   atomic unit everything is assembled from
   ([[../wiki/topics/content-strategy/content-engine|content-engine]]).
+- **Decision lens — net worth → "Goodwill."** For "the last four years" (~2018–2022) every
+  decision was judged by "is this gonna increase my net worth more than something else." He
+  dates the shift internally to **~Dec 2022**: the governing question moves from net worth
+  to **Goodwill**, visible in his turn toward a public-facing brand (he declines to extract
+  value from his now-large audience because it "wouldn't build goodwill"). Treat Goodwill as
+  the current lens. (Self-reported.) [[../wiki/sources/2022-12-16-yt-4Z6-iA-Pg6I]]
 - **Down-market: viable → "up is the only way" (scope-dependent).** 2023: down-market is a
   legitimate scaling move (an endless ocean of emotional buyers). 2026: for **service
   agencies** specifically, "the only way is up," because down-market becomes a "churn factory"
