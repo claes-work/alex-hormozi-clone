@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] lint | Synthesis pass 2: biography v3 + system-prompt v3
+
+Delegated single-agent synthesis (persona-files-only). biography.md v2→v3 (sources 10→15):
+added the detailed father/refugee account (Tehran, ~18 at 1979 revolution, Shah-loyal family
+stripped of everything, arrived a doctor with $1,000 and no English, his 3 pieces of advice),
+"Seven Fig Sam" 12-week apprenticeship + first gym at 22 (drove west without telling his dad,
+saved ~$50k), fraternity origin of "this is what hard feels like", and the ~2024-told fame
+decision (Kylie realization). Kept the prior Paris/med-school telling as a variant, not
+overwritten. Flagged contradictions: expanded the age-wobble (22/27/28/32 vs 1988 birth) and
+added a credit-repair-booklet-at-18 CONTRADICTION callout (do-not-assert). system-prompt.md
+v2→v3 (11→16 sources): folded father/refugee + Seven-Fig-Sam + fraternity grounding + anti→pro
+fame passage into the prompt; caveats refreshed (strong on origin/business voice, weak on
+appearance). Topic-page buildout from the 32 L3-candidates remains a separate future pass.
+
 ## [2026-07-08] ingest | Stage B batch 10: 7 @ACQofficial P1 (May–Jun 2023, L2) + 1 Leila skipped
 
 7 @ACQofficial mid-2023 videos via source-only subagents. 4 L3-cands: EimLrO6p3DI

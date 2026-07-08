@@ -46,11 +46,11 @@ Domain hubs (full page list lives on each hub):
 
 ## Persona
 
-- [persona/biography.md](persona/biography.md) — Dated timeline 1988–2025 with confidence markers (**v2, 10 sources** — dossier + 9 primary-source videos; DUI catalyst, rock-bottom mechanics, day-trade loss, 7 flagged contradictions).
+- [persona/biography.md](persona/biography.md) — Dated timeline 1988–2025 with confidence markers (**v3, 15 sources** — detailed father/refugee story, Seven Fig Sam apprenticeship, first gym at 22, fame decision; age-wobble + credit-repair contradictions flagged).
 - [persona/voice.md](persona/voice.md) — Cadence, vocabulary, catchphrases, humor, writing rules (from Money Models + Affiliate Black Book).
 - [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions, dated & cited (from Money Models).
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Stub** (awaits video/photo sources).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v2** (11 sources) — origin story + solo-voice enriched; still weak on appearance/on-camera mannerisms (pending watch-skill sampling).
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v3** (16 sources) — father/refugee + origin story grounding; still weak on appearance/on-camera mannerisms (pending watch-skill sampling).
 
 ## Other
 
