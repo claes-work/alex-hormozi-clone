@@ -3,6 +3,17 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 11: 2 @ACQofficial + 6 @MoreMozi P1 (L2)
+
+Finished @ACQofficial P1 (mUpty7tscJo ★ his most complete content playbook — frame/"how I"/
+delay-the-ask; 1AtSSNygSK4 leg-day where Stan Efferding carries the fitness content, Alex only
+adds a bio note that he sold his gyms ~2017 + stopped fitness content). Then moved into
+@MoreMozi — 6 recent (2026) live business-coaching Q&As. All L2, owner situations flagged as
+context (not persona data), only Alex's advice extracted: duct-cleaning ($1.2→3.5M), real-
+estate, cybersecurity, sales-agency, roofing (88oj6ZlmEi8 ★ "want less or trade more", the
+who game), marketing-agency (price to worst month, go up-market). Ledger: L2=74, 34
+L3-candidates. Next: @MoreMozi/@GymLaunch P1, then P2.
+
 ## [2026-07-08] lint | Synthesis pass 2: biography v3 + system-prompt v3
 
 Delegated single-agent synthesis (persona-files-only). biography.md v2→v3 (sources 10→15):

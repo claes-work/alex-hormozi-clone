@@ -42,6 +42,8 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2023-05-15 | [[2023-05-15-yt-1AtSSNygSK4]] | Leg day w/ Stan Efferding — ⚠️ fitness content is Stan's; bio: sold gyms ~2017 | |
+| 2023-05-22 | [[2023-05-22-yt-mUpty7tscJo]] | Content Strategy revealed — most complete media playbook (frame, "how I", delay the ask) | ★ |
 | 2023-05-25 | [[2023-05-25-yt-2JLU4R8Zcgg]] | 66-min "$10M company" — ⚠️ **no Alex** (Leila's 5-principles-of-management talk) | |
 | 2023-05-30 | [[2023-05-30-yt-EimLrO6p3DI]] | Stop caring about competition — product-obsession vs marketing (Lewis Howes) | ★ |
 | 2023-06-06 | [[2023-06-06-yt-iqAtBbGr3VY]] | Selling with logic — onion of blame, 5 obstacle types (canonical sales) | ★ |
@@ -85,6 +87,20 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-07-21 | [[2025-07-21-yt-ZklXJzHzW2U]] | Operator Pod Ep.1 — ⚠️ **no Alex** (Leila + operator), not persona data | |
 | 2025-09-13 | [[2025-09-13-yt-EuMu6LaxBSk]] | $106M/72h launch debrief — ⚠️ **no Alex** (Leila + exec); useful launch/bio facts | |
 
-_66 videos ingested (L2). 32 flagged L3-candidate for the next synthesis pass. 5 videos
+## @MoreMozi
+
+Recent (2026) live business-coaching Q&A — Alex advises a specific owner; the owner's
+situation is context-only, only Alex's advice is persona data.
+
+| Date | Page | Topic | ★ |
+|---|---|---|---|
+| 2026-06-22 | [[2026-06-22-yt-Bh3QhADMqg4]] | Scale $1.2M→$3.5M (duct-cleaning supply) — 3 revenue wheels, retention annuity | |
+| 2026-06-22 | [[2026-06-22-yt-zJDtRUr4Huk]] | Real-estate developer to $100M — outreach + conference deal flow | |
+| 2026-06-23 | [[2026-06-23-yt-tZUmwYquIi4]] | Cybersecurity $5M→$3.6M recovery — conference net-fishing + SDR | |
+| 2026-06-29 | [[2026-06-29-yt-ZUyXUiqckAE]] | Sales-team agency $14M→$100M — ICP/unit-economics, template service | |
+| 2026-07-01 | [[2026-07-01-yt-88oj6ZlmEi8]] | $6M roofing wants $100M — "want less or trade more", the who game | ★ |
+| 2026-07-07 | [[2026-07-07-yt-ndne_8qRh8o]] | Marketing agency $1.2M→$8M — price to worst month, go up-market | |
+
+_74 videos ingested (L2). 34 flagged L3-candidate for the next synthesis pass. 5 videos
 contain no Alex speech (3 Leila solo talks + 2 Leila+exec debriefs) — kept as record/bio-fact
 and cross-check citations only, excluded from voice/persona data._
