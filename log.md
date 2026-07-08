@@ -3,6 +3,23 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 3: 8 @AlexHormozi early videos (2021–2022, L2)
+
+Batch of 8 P1 solo/early videos via one source-only subagent each (concurrency fix
+held — agents touched no shared files). All L2, all his 2021-09 → 2022-03 origin era:
+- Xb9ZOA6zypU (7-year journey) ★strong L3-cand — DUI catalyst, $1k rock bottom, first
+  million; dense dated bio (feeds persona/biography — DUI is NEW vs the web dossier)
+- okA9Yt2KZuk (sales-team playbook, Taki Moore mastermind) ★strong L3-cand — org chart,
+  comp bands, CLOSER; credits Chiron/Martell/Ford (not Alex originals)
+- neTSqOAMgao (canonical Offers explainer) ★L3-cand — NOTE it's a hosted interview
+  (host Dan), and has a ⚠️ contradiction: backend price stated as both $126k and $42k
+- o7R_K6LwKNk (strip-meaning mindset) ★L3-cand — vulnerable; keep his medical disclaimer
+- MA-5y9s80Qs (customer surplus), 7YMjZgr7sHM (decision framework), kW2vDMAmlPI (trust
+  non-negotiables), bHnVItVGJPA (transference of conviction) — solid L2s
+Refactor: created wiki/sources/youtube-index.md sub-index (main index.md now links it
+instead of listing every video — scales to hundreds). Ledger: L2=16 (8 L3-candidates
+accumulating for a synthesis pass). Next batches continue P1; synthesis due ~batch 10.
+
 ## [2026-07-08] ingest | Stage B batch 2: 4 @AlexHormozi videos (L2) + no-caption handling
 
 Larger batch (8 P1 attempted) via one subagent per video. Ingested L2: 2022-05-17 KEYNOTE
