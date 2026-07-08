@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — masterclass + biz-math + Guinness
+
+Loop iteration 16. 8 @AlexHormozi solo P2 (2025-12→2026-02). 3 L3-candidates: qsXxckCbci0
+"grow any business faster (masterclass)" (★ L3 — "4 shapes of business" ecom/service/education/SaaS
+each with a signature big-hairy-problem, 70/30 brand-spend split), A_tx40lNpf8 "mathematics of
+business" (★ 12 numeric benchmark rules — LTV:CAC ladder 3/6/9/12:1, 60-sec lead response, 30-day
+payback, ≥80% margin/retention — extends scaling-and-enterprise-value), 6BQ3whjWG3M "how the top 1%
+think about money" (★ buy income-earning skills, future-vs-today dollars). u3H7CfpfwHQ "Guinness
+record 24h" = the Money Models launch documentary (corroborates the one-book-split-into-three
+origin; beat Prince Harry's "Spare"; Google-Ads-outage pivot; not sole speaker → L2). Rest L2
+mindset (best-year compilation, change-your-life, ambitious-mediocre) + scale-service makeover.
+Ledger: L2=197. Next: continue @AlexHormozi P2 (438 left).
+
 ## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — 7 L3-cands, framework-dense
 
 Loop iteration 15. 8 @AlexHormozi solo P2 (2026-02→03) — an exceptionally rich batch, 7 of 8 are
