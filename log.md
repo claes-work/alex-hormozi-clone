@@ -3,6 +3,22 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] lint | Synthesis pass 1: biography v2 + system-prompt v2
+
+Milestone: all P1 @AlexHormozi landmark videos ingested (0 open P1 on the main channel;
+24 videos L2). Ran a focused synthesis (delegated, single agent, persona-files-only to
+avoid concurrent writes): integrated 9 biography-rich primary-source videos into
+persona/biography.md (v1→v2, sources 1→10) — DUI catalyst (NEW vs web dossier),
+rock-bottom mechanics ($23k→$1k, Christmas-Eve processor scene, "sleep under a bridge",
+Gym Rescue→Gym Launch rename, 35% refunds, $6k→$16k pricing pivot, revenue ramp), Mar-2021
+scale-zero mastermind, May-2021 $217k day-trade loss, Aug-2021 Value Equation stats +
+$85M→$1B vision, Dec-2021 self-psychotherapy, Aug-2023 Leads launch (Trevor, declined
+~$50M), Dec-2023 billion-dollar decision. 7 contradictions flagged (age wobble, $1000 vs
+$1036, marriage timing) — no dossier rows overwritten. Recompiled persona/system-prompt.md
+(v1→v2, 11 sources): origin-story paragraph + enriched voice/beliefs; still weak on
+appearance pending watch-skill sampling. 15 L3-candidate framework pages remain for a
+future topic-synthesis pass. Next: P1 videos on the other channels (@ACQofficial etc.).
+
 ## [2026-07-08] ingest | Stage B batch 4: 8 earliest @AlexHormozi videos (2020–2021, L2)
 
 8 P1 videos via source-only subagents (his 2020-12 → 2021-08 channel origins). All L2.
