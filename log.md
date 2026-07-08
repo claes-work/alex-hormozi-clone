@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — marketing masterclass + STAR + negotiation
+
+Loop iteration 23. 8 @AlexHormozi solo P2 (2025-04→05). 4 L3-candidates: JDR-R--4HhM "14 years of
+marketing advice" (★ L3 copywriting masterclass — 12+1 hacks, 5 awareness levels, scarcity-vs-
+urgency, damaging-admissions "but"-mechanic, proof-beats-promise — canonical for marketing topics),
+aUnorufFIq8 (★ STAR system — 5-step get-anyone-to-do-anything leadership diagnostic), Jc2UW3nlNBA
+(★ 5 negotiation tactics: BATNA/anchor/MESO/reciprocity/framing; bio: ~$20M home purchase),
+FiL0r5_dUvM (★ build-like-Harvard — education-business sellability, scarcity brand, consumables).
+Rest L2 (new-money spending framework, wrong-avatar diagnosis, win-life mindset, Thai-restaurant
+stranger-build dup). Ledger: L2=245. Growing L3-cand backlog (marketing masterclass, STAR,
+negotiation, Harvard, constraint-diagnostic, 6-levels, 4-shapes, biz-math) → synthesis pass 5 due
+in a few batches. Next: continue @AlexHormozi P2 (390 left).
+
 ## [2026-07-08] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — constraint diagnostic + 26-lessons
 
 Loop iteration 22. 8 @AlexHormozi solo P2 (2025-05→06). 4 L3-candidates: sGv2BTUCcCM (★ supply-vs-

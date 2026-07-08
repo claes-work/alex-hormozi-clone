@@ -37,6 +37,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-12-06 | [[2023-12-06-yt-Tu6YDG0AZ5k]] | The Game Ep 012 — billion-dollar-decision reasoning | |
 | 2024-04-20 | [[2024-04-20-yt-VQM3DrnVTcs]] | How to build a brand in 2024 (definition, 3 metrics, bouquet) | ★ |
 | 2025-03-17 | [[2025-03-17-yt--9kOXNCUdE]] | 1-hour multi-business live Q&A | |
+| 2025-04-23 | [[2025-04-23-yt-Jc2UW3nlNBA]] | How to get what you want — 5 negotiation tactics (BATNA, anchor, MESO, reciprocity, framing) | ★ |
+| 2025-04-29 | [[2025-04-29-yt-by3ZEoo-Quc]] | Buy anything without going broke — "new money" (fund from purpose-made income) | |
+| 2025-05-01 | [[2025-05-01-yt-h9UyQiLjSHg]] | Building $3.5M for two strangers (Thai restaurant) — charm/surge pricing, menu-for-profit | |
+| 2025-05-02 | [[2025-05-02-yt-CoPs-Bk8M9Y]] | Business is hard until… — it's the wrong avatar, not the tactics (customer-profitability analysis) | |
+| 2025-05-03 | [[2025-05-03-yt-IYuiV4YuGB4]] | If you want to win in life — "no one cares, just win", identity rooted in behavior | |
+| 2025-05-06 | [[2025-05-06-yt-FiL0r5_dUvM]] | Build your business like Harvard — education sellability, scarcity brand, consumables | ★ |
+| 2025-05-07 | [[2025-05-07-yt-JDR-R--4HhM]] | 14 years of marketing advice — 12+1 copywriting hacks, 5 awareness levels, scarcity vs urgency | ★ |
+| 2025-05-09 | [[2025-05-09-yt-aUnorufFIq8]] | How to get anyone to do anything — the "STAR" 5-step diagnostic | ★ |
 | 2025-05-15 | [[2025-05-15-yt-fcyIoN8CUOk]] | Why being fast wins — (actually decision trade-offs) "spell out the trade", focus | |
 | 2025-05-16 | [[2025-05-16-yt-qqjGxVW-Ae0]] | Stop caring what others think — 9 reframes, "master the middle" (bio: Vanderbilt in 3 yrs) | ★ |
 | 2025-05-17 | [[2025-05-17-yt--UzJOk85OZI]] | Progress faster — conviction in a plan (not plan-hopping), culture/talent/training | |
@@ -267,7 +275,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_237 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,310, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_245 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,310, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
