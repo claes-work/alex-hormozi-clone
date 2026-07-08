@@ -3,6 +3,14 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage A: @ACQofficial enumerated (89 video + 2,194 shorts)
+
+Loop iteration 1. Enumerated @ACQofficial into the ledger via fetch_channel + merge_staging:
+80 long-form (9 videos-tab items ≤62s typed short) + 2,196 shorts. backfill_metadata
+filled views for 80 videos and promoted 47 to P1 (top-50 by views, guests excluded).
+Ledger now 7,556 rows (P1=79, P2=511, P3=6,966; L0=7,553, L3=2). Remaining to enumerate:
+@MoreMozi, @GymLaunch. No ingestion yet — Stage A continues next iteration.
+
 ## [2026-07-08] ingest | Phase 3 started: @AlexHormozi enumerated + loop hardened
 
 Committed the enumeration checkpoint (was uncommitted in the working tree): @AlexHormozi
