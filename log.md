@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Companies & registries — Phase 1 COMPLETE (part 3/3)
+
+Finished the companies research manually (the automated agent hit a usage limit at the
+California-SOS step). Registry finds: Gym Launch Secrets LLC registered in Wyoming
+(2016-000712502) and Texas (0803240615); Acquisition.com listed as a Texas LLC; NO
+Hormozi entity in the California register (verified negative — early gyms used another
+name). Filed companies dossier + wiki/entities/companies.md covering Gym Launch,
+Prestige Labs, ALAN, Acquisition.com, Skool, publishing/Mozi Media, and the 2021 APG
+sale (deal verified via Capstone; $46.2M figure self-reported only). Open items
+(USPTO serials, direct SOS confirmation) parked. **Phase 1 done** — biography and full
+source map complete. Next: Phase 2 (books, material already in raw/) and/or Phase 3
+(/ingest-loop). Model switched to Opus 4.8 mid-phase.
+
 ## [2026-07-08] ingest | Media-presence inventory (Phase 1, part 2/3)
 
 Channel/podcast/web inventory dossier filed + 3 entity pages (youtube-channels,

@@ -7,6 +7,7 @@ _Last updated: 2026-07-08 (Phase 0)_
 
 - [wiki/sources/2026-07-08-research-biography-dossier.md](wiki/sources/2026-07-08-research-biography-dossier.md) — Web-research dossier: full life timeline, family, net worth, 10 tracked contradictions, ranked primary-source list.
 - [wiki/sources/2026-07-08-research-media-inventory-dossier.md](wiki/sources/2026-07-08-research-media-inventory-dossier.md) — Complete channel/podcast/website/social inventory with verified IDs and counts; Phase-3 enumeration order.
+- [wiki/sources/2026-07-08-research-companies-dossier.md](wiki/sources/2026-07-08-research-companies-dossier.md) — Registry-grounded company profiles (WY/TX Gym Launch numbers, the APG deal, self-reported financials) + open registry items.
 
 ## Topics
 
@@ -25,6 +26,7 @@ Domain hubs (pages listed on each hub):
 - [wiki/entities/youtube-channels.md](wiki/entities/youtube-channels.md) — All channels with IDs and counts: 4 ingestion targets (2,561 long-form, 7,725 shorts), 5 excluded.
 - [wiki/entities/the-game-podcast.md](wiki/entities/the-game-podcast.md) — The Game podcast: RSS, 1,133 episodes since 2017-07-01, only source for 2017–2021 material.
 - [wiki/entities/web-and-social-presence.md](wiki/entities/web-and-social-presence.md) — Websites, socials, newsletter with scrapeability assessment.
+- [wiki/entities/companies.md](wiki/entities/companies.md) — All companies with roles, registry facts, ownership, and the 2021 APG sale.
 
 ## Persona
 

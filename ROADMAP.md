@@ -149,7 +149,7 @@ scheduling.*
 ## Phase status
 
 - [x] Phase 0 — Infrastructure (done 2026-07-08)
-- [ ] Phase 1 — Biography & source map
+- [x] Phase 1 — Biography & source map (done 2026-07-08; USPTO/SOS registry items parked for a later manual pass)
 - [ ] Phase 2 — Books
 - [ ] Phase 3 — YouTube corpus
 - [ ] Phase 4 — Articles & social
