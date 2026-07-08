@@ -18,6 +18,23 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 more @TheSkoolSchool P2 (L2) — Skool/education thesis (L2=349)
+
+Loop iteration 39. 8 @TheSkoolSchool P2 (2024-12→2025-01); used a bundled light-agent for the 4
+mindset dups to conserve tokens. 3 L3-candidates, all Skool/education: fD4mPziE1vU "why the education
+system is failing" (★ education-disruption thesis — education fragments into niche practical verticals
+like media did; best practitioner teaches peers at zero duplication cost; this IS the Skool/Acq.com
+thesis — NB a COMPILATION: Neil deGrasse Tyson + Graham Stephan present, carefully excluded),
+5BqqXjl11V8 "why Skool is the best next thing" (★ the golden ratio = passive growth = %referring ÷
+%churning, "best metrics I've evaluated"), LgmiVRU7j2E "54.1% first dollar" (★ Skool Games mechanics,
+"make it better make it free", borrow-platform-credibility [Amazon ~30% vs Shopify ~2-3% conversion]
+— ⚠️ first-dollar stat contradictory across sources: 54.1% title / 3.44% caption / ~30% spoken →
+flagged for audio verify). Rest L2 dups (believe-in-self, fear-criticism, ditch-broke-life
+[unscalable=unskillable], best-biz-2025b [caption fix: "not co-owner"→"now co-owner"], true-passion
+[co-hosts incl. Chris Williamson]). 24 of 30 @TheSkoolSchool P2 done. Ledger: L2=349.
+**Synthesis pass 8 next**: build wiki/entities/skool.md (Alex co-owner + platform economics + golden
+ratio + education thesis, now across 6+ sources) + a dated beliefs entry + audience-monetization page.
+
 ## [2026-07-09] ingest | Stage B: 8 more @TheSkoolSchool P2 (L2) — more Skool entity facts (L2=341)
 
 Loop iteration 38. 8 @TheSkoolSchool P2 (2025-01→02). 4 L3-candidates: sDqOC2YtnKE "Skool: the

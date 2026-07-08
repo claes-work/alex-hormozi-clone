@@ -305,7 +305,15 @@ attributed out. (yt-7P9O0wpPnMc 2025-01-01 has no captions → L1.)
 |---|---|---|---|
 | 2024-11-28 | [[2024-11-28-yt-j0YeIT7O_ws]] | Finger-of-blame / revenge-as-self-improvement reframe | |
 | 2024-12-05 | [[2024-12-05-yt-EuRU5w53nNM]] | Most important rule = focus (woman-in-red-dress; business-type difficulty taxonomy) | ★ |
+| 2024-12-12 | [[2024-12-12-yt-xQ0O4dBjrOI]] | For people who believe in themselves — risk = opportunity in retrospect (co-host) | |
+| 2024-12-15 | [[2024-12-15-yt-5BqqXjl11V8]] | Why Skool is the best next thing — education undisrupted, golden ratio (referrals÷churn) | ★ |
 | 2024-12-18 | [[2024-12-18-yt-V5hkdejbybQ]] | Skool community VSL — "host a party" / "be like Wikipedia" analogies | |
+| 2024-12-29 | [[2024-12-29-yt-C6iedcsF_sU]] | The best business to start in 2025 — online service as a Skool community (dup) | |
+| 2025-01-04 | [[2025-01-04-yt-UiDNqFo6evM]] | Why you shouldn't fear criticism — "zero loss game", infinite game | |
+| 2025-01-06 | [[2025-01-06-yt-BTkVBI8V3h4]] | Ditch the broke life, get to work — "unscalable = unskillable" | |
+| 2025-01-08 | [[2025-01-08-yt-LgmiVRU7j2E]] | 54.1% achieve their first dollar — Skool Games, borrow-the-platform-credibility (stat ⚠️) | ★ |
+| 2025-01-12 | [[2025-01-12-yt-fD4mPziE1vU]] | Why the education system is failing — education-disruption thesis (compilation; Tyson excluded) | ★ |
+| 2025-01-15 | [[2025-01-15-yt-u61ZjYQeXas]] | How to discover your true passion — you create passion, dollars-per-hour (co-hosts) | |
 | 2024-12-20 | [[2024-12-20-yt-yRP33A6nlU0]] | Niche content — relevance beats reach; monetization > views | ★ |
 | 2024-12-25 | [[2024-12-25-yt-wESCqK-qTC8]] | For those in the lonely chapter — hardship as selection effect | |
 | 2024-12-27 | [[2024-12-27-yt-rwgiScq123s]] | Lonely chapter Pt.2 — the "most epic story" decision razor | ★ |
@@ -371,7 +379,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_341 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_349 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
