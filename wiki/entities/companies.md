@@ -11,15 +11,24 @@ Businesses Alex Hormozi founded, owns, or invested in. Confidence markers: ✅ v
 (register/independent primary doc) · 📰 reported · 🗣️ self-reported. Source:
 [[../sources/2026-07-08-research-companies-dossier]].
 
-| Company | Role | Status | Key registry / deal facts |
-|---|---|---|---|
-| **Gym Launch Secrets LLC** | Founder | Sold 66% (2021) | Registered WY `2016-000712502` ✅ + TX `0803240615` ✅; founded 2016 🗣️; licensing pivot 2017 🗣️ |
-| **Prestige Labs** | Founder | Sold in APG deal (2021) | Supplements via gym network; launch 2018/2019 (⚠️ conflict); $20M yr-1 🗣️ |
-| **ALAN** | Co-founder | Sold 75% (2021) 🗣️ | AI/SMS lead software; usealan.com still live |
-| **Acquisition.com (LLC)** | Managing partner | Active | TX-listed 📰; formed ~2020 🗣️; portfolio of minority stakes; ">$200–250M/yr" portfolio revenue (2024) 🗣️ |
-| **Skool** | Investor (2024) | Active | Platform founded 2019 by Ovens/Kang; "biggest investment of my life" 🗣️; stake ~50/50 unverified ⚠️ |
-| **Acquisition.com Publishing** | Owner | Active | Imprint for the three $100M books |
-| **Mozi Media** | Brand | Active | Newsletter + @MoreMozi channel; no separate registration found |
+This page is the **companies hub**: the roster, registry data, and the pivotal exit.
+Deep book-sourced operational detail lives on the per-company pages linked below.
+
+| Company | Role | Status | Key registry / deal facts | Detail page |
+|---|---|---|---|---|
+| **Gym Launch Secrets LLC** | Founder | Sold 66% (2021) | Registered WY `2016-000712502` ✅ + TX `0803240615` ✅; founded 2016 🗣️; licensing pivot 2017 🗣️ | [[gym-launch]] |
+| **Prestige Labs** | Founder | Sold in APG deal (2021) | Supplements via gym network; launch 2018/2019 (⚠️ conflict); $20M yr-1 🗣️ | [[prestige-labs]] |
+| **ALAN** | Co-founder | Sold 75% (2021) 🗣️ | AI/SMS lead software; usealan.com still live | — |
+| **Acquisition.com (LLC)** | Managing partner | Active | TX-listed 📰; formed ~2020 🗣️; portfolio of minority stakes; ">$200–250M/yr" portfolio revenue (2024) 🗣️ | [[acquisition-com]] |
+| **Bumble IP, LLC** | IP holding entity | Active | Holds the registered trademarks **Acquisition.com®** and **$100M®**; book copyright holder (Money Models PDF p. 8) ✅ | — |
+| **Skool** | Investor (2024) | Active | Platform founded 2019 by Ovens/Kang; "biggest investment of my life" 🗣️; stake ~50/50 unverified ⚠️ | — |
+| **Acquisition.com Publishing** | Owner | Active | Imprint for the three $100M books | — |
+| **Mozi Media** | Brand | Active | Newsletter + @MoreMozi channel; no separate registration found | — |
+
+> **New finding (from the book):** the trademarks Acquisition.com® and $100M® are held
+> by **Bumble IP, LLC**, which is also the book's copyright holder; Acquisition.com,
+> LLC is the distributor. This is the IP-holding entity sitting above the operating
+> LLCs — it partly answers the open trademark-ownership question.
 
 ## The 2021 American Pacific Group sale (his pivotal exit)
 

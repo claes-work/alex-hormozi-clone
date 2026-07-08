@@ -80,9 +80,18 @@ open items for a manual pass.
 - **Mozi Media** — brand behind the newsletter and second YouTube channel; no
   standalone corporate registration found.
 
+## Cross-reference finding (from the $100M Money Models ingest)
+
+The book's copyright page (PDF p. 8) states that **Acquisition.com®** and **$100M®**
+are registered trademarks of **Bumble IP, LLC**, which also holds the book copyright;
+Acquisition.com, LLC is the distributor. So the IP-holding entity above the operating
+LLCs is **Bumble IP, LLC** — a lead for the USPTO/Delaware open items below. See
+[[../entities/acquisition-com]] and [[../entities/companies]].
+
 ## Open items (for a later manual registry pass)
 
-1. USPTO trademark serials for the marks above (tmsearch is JS-only).
+1. USPTO trademark serials for the marks above (tmsearch is JS-only) — **now search
+   assignee "Bumble IP, LLC"**, which holds Acquisition.com® and $100M®.
 2. Direct Texas SOS (SOSDirect) confirmation of Acquisition.com's exact legal entity,
    formation date, and registered agent.
 3. Resolve Texas-entity vs. Nevada-operations for Acquisition.com.
