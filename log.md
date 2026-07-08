@@ -3,6 +3,15 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage A: @MoreMozi enumerated (1,841 video + 786 shorts)
+
+Loop iteration 2. Enumerated @MoreMozi via fetch_channel + merge_staging: 1,841 long-form
++ 786 shorts (P1=41, P2=1,792, P3=794 by title heuristic). Ledger now 10,183 rows.
+**View-backfill deferred** for this channel: 1,841 per-video extractions (~46 yt-dlp
+batches) would risk rate-limiting the loop for a lower-priority Q&A-cuts channel; title
+priorities hold, and a targeted view refinement can run later if needed. Remaining to
+enumerate: @GymLaunch (small). Ingestion (Stage B) begins after that.
+
 ## [2026-07-08] ingest | Stage A: @ACQofficial enumerated (89 video + 2,194 shorts)
 
 Loop iteration 1. Enumerated @ACQofficial into the ledger via fetch_channel + merge_staging:
