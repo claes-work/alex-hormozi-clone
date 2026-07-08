@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — marketing case studies + ultra-wealthy
+
+Loop iteration 26. 8 @AlexHormozi P2 (2025-01→03). 4 L3-candidates (mostly marketing case studies
+that reinforce copywriting-hacks/branding): BO_59sGxztY "ultra wealthy (4 methods)" (★ deep 2x2 —
+ROIC, fund economics "2 and 20", carry — the PRIMARY/deeper source for building-wealth; dedup vs
+sL16tsGafcQ), eX3Ch_HuR70 "Rihanna/Fenty" (★ partner-for-deficiencies, brand affinity, skippable
+credit-membership), npi7UeOE_0o "Superbowl 2026 tier list" (★ his 6-factor ad rubric: attention/
+care/dream/urgency/proof/CTA), HwPXctiw_rY "Ryan Reynolds/Mint" (★ hook/meat/CTA, us-vs-them,
+offer wrappers). ⚠️ orMbq2LtzKE "$600M bacon" is a GUEST interview (ButcherBox founder Mike
+Salguero — only Alex's commentary is persona data; flagged; he mentions a forthcoming "for-life
+offer" book). Rest L2 (3 stranger-build dups: stylist Ashley [the referenced episode], chiropractic,
+trophy ecom). Ledger: L2=261. Next: continue @AlexHormozi P2 (374 left).
+
 ## [2026-07-09] lint | Synthesis pass 5 — beliefs 28src, 3 topics, system-prompt v7
 
 Loop iteration 25 (maintenance/synthesis). Cleared the large P2 L3-cand backlog via 4 parallel
