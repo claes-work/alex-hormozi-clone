@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-08
-sources: 26
+updated: 2026-07-09
+sources: 27
 ---
 
 # Biography
@@ -22,14 +22,22 @@ airport-recruitment / "$100k of contracts" vignette and frozen-yogurt first date
 6→8→10→12k licensing price escalation and $6.8M→$26M by-year revenue split, the
 single-manuscript ("Lead Generation and Monetization Structures") origin of the book
 trilogy with Leila's "Publish it" catalyst, and the Dec 2022 net-worth→Goodwill
-decision-lens shift.
+decision-lens shift. Synthesis pass 4 (2026-07-09) added the Chris Bumstead workout
+source: the teenage-to-early-20s **competitive bodybuilding** background, the
+**"turning 35 in August 2024" → born ~Aug 1989** anchor (which substantially resolves
+the long-running age wobble, Contradictions #1), the **Austin → Las Vegas** move, and
+the **Kylie Jenner Forbes-cover "$17M and still a failure" 7-day depression** turning
+point [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]].
 
 ## Timeline
 
 | Date | Event | Conf. |
 |---|---|---|
 | Aug 18, 1988 (disputed) | Born Alexander Hormozi, Towson, Maryland | 📰 |
+| ~Aug 1989 | **Birth month/year anchor.** In Nov 2024 he says he is **"turning 35 in August"** → **born ~August 1989** (self-reported, but internally consistent with "age 27 on Christmas Eve 2016," "exit at 31" in ~2021, and "36" in early 2026; see Contradictions #1) [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]] | 🗣️ |
+| ~2003–2012 (~age 14 to 22–23) | **Competitive bodybuilding / lifting background.** "Obsessed from 15" (started around **14**) and **competed until ~22–23**, winning a **state record** (not national). Later, as a **gym owner** in that era, he "lived at the gym" — ~4 hrs in the weight room then "in the cafeteria all day," "8 hours a day of food and training"; was **235 lb natural** at his heaviest and trained **calves every day for 10+ years** (his signature body part). [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]] | 🗣️ |
 | ~2008–2011 | Vanderbilt University, BS Human & Organizational Development (Corporate Strategy); claims magna cum laude in 3 years | 🗣️ |
+| ~2011–2012 ("at 22") | Says he **dropped out of university at 22** to pursue lifting/training and run a gym **full-time** — "there for four years but on my second year of school." Ties to the first-gym / drove-west "at 22" timeline below. [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]] (⚠️ sits in tension with the "magna cum laude in 3 years" Vanderbilt-*graduation* claim above — see Contradictions #9) | 🗣️ |
 | ~college | Pledged a demanding fraternity (3 hrs/day study hall); credits it with a ~3.83 GPA semester and with first learning to "sacrifice everything" — the discipline he later transferred to business [[../wiki/sources/2021-08-02-yt-ug5N9qmFVKQ]]. Served as **fraternity president**; traces his signature line **"this is what hard feels like"** to resetting pledges' expectations to match reality, which made their suffering evaporate — the seed of his adult resilience philosophy ("power follows the blame finger," "my fault") [[../wiki/sources/2023-07-11-yt-mNcDKnq6-q8]] | 🗣️ |
 | ~2011–2013 | Management consultant in defense contracting / cyber intelligence, Washington DC — on a **subcontract under Booz Allen**; claims military "space cyber intelligence" work with top-secret clearance. Says he "hated it so much" he quit [[../wiki/sources/2024-04-09-yt-lXRqOG2yn6E]] | 🗣️ |
 | ~2013 ("at 22") | Quit consulting against his father's wishes; graduated a year early from a school in Tennessee, saved **~$50,000**, and **drove across the country to Southern California without telling anyone — until halfway there — specifically so his father couldn't talk him out of it**. Found a mentor by Googling "successful gym owner" → a "crappy HTML site" branded **"Seven Fig Sam"**; showed up "with no plan," slept at Sam's place, and apprenticed **~12 weeks** (working Sam's 4am–4pm shift). Ran his **first Facebook ad** for Sam's personal-training side — it made money and sold the first ~10–12 people. Then opened his own first gym in **Huntington Beach** (existing rows name it "United Fitness"); could afford only one rent, so **slept on the gym floor** ("my Rocky cut scene") [[../wiki/sources/2024-04-09-yt-lXRqOG2yn6E]] | 🗣️ |
@@ -58,8 +66,10 @@ decision-lens shift.
 | Dec 2021 | Describes having done self-administered "psychotherapy," a past period of being "very unhappy" and his "[expletive] happiness" mentality, later "significantly less unhappy"; still self-reports portfolio ~$85M/yr [[../wiki/sources/2021-12-08-yt-o7R_K6LwKNk]] | 🗣️ |
 | Dec 2022 | Says his personal decision lens is **shifting from net worth to "Goodwill."** For "the last four years" (~2018–2022) "every decision I made was, is this gonna increase my net worth"; he now frames that question as changing internally toward goodwill — visible in his more public-facing brand, and his choice not to extract value from his (much larger) audience because it wouldn't build goodwill. An early, dated marker of the public-brand pivot that culminates in the ~2024 "decision to become famous" [[../wiki/sources/2022-12-16-yt-4Z6-iA-Pg6I]] | 🗣️ |
 | Aug 19, 2023 | *$100M Leads* live launch event (day after his birthday); co-authored with **Trevor** over ~2 years; sold via Shopify (self-published); ~500k registered; ~**100k first-day sales**; says *Offers* had sold "just under 500,000 copies over two years"; **declined an estimated ~$50M payday** to keep it free [[../wiki/sources/2023-08-26-yt-qel9bf653Es]] | ✅ date / 🗣️ numbers |
+| ~2022–2023 | **Moved from Austin to Las Vegas.** Previously kept "about half these [gym] pieces" at his **house in Austin**; relocated to **Vegas**, planning to stay **3–5 years** (praises it as non-judgmental, apolitical, tax-free, dry, with direct flights and the UFC) [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]] | 🗣️ |
 | Dec 2023 | Says he is actively weighing a major multi-year, **~billion-dollar decision** between two "relatively irreversible" paths; frames his base as "at 100" with a 10x litmus test; references home base **Las Vegas** and friendship with Sharran Srivatsaa (president of Real) [[../wiki/sources/2023-12-06-yt-Tu6YDG0AZ5k]] | 🗣️ |
 | Realization ~age 27 (told Apr 2024) | Recounts the "180-degree flip" from anti-organic-content operator (cold outreach + ads; podcast ep. 7 literally titled "Stop Branding") to deliberately building a huge personal brand. Trigger: **Kylie Jenner** becoming a billionaire at 20 while he was **27** ("she is way richer than I am… she's doing something different by an order of magnitude"), then a ~12-month cluster of celebrity-brand exits (Huda Beauty, McGregor/Proper 12, Clooney/Casamigos, The Rock/Teremana, Logan Paul/Prime). The "last straw" was a famous friend telling him fame was a price worth paying for impact — he "started making content that week." His ledger: fame is a money-making "time warp" (talent attraction, pre-trained hires, deal trust) whose one umbrella cost is loss of privacy, which is irreversible [[../wiki/sources/2024-04-02-yt-J9Y6FXMELtA]] | 🗣️ |
+| Turning point ~age 26–27 (retold Nov 2024) | **The Kylie Jenner "$17M and still a failure" episode** — a sharper, more emotional telling of the brand-building trigger above. Seeing "her" on the **cover of Forbes** as the **youngest self-made billionaire at 19** made him feel like "a **failure**" even though he had "taken home **$17 million in income that year**"; he fell into a **7-day depression** he calls a **career-defining moment** that pushed him onto **brand-building**. He also notes that after selling **Gym Launch** his monthly cash flow "went to zero" and he "felt poorer" despite cash in the bank — which triggered his year of content on "the meaning of money." (He says "Kendall Jenner," but the youngest self-made billionaire on that Forbes cover was **Kylie Jenner** — a likely slip.) [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]] | 🗣️ |
 | Jan 2024 | Announced Skool investment alongside Sam Ovens — "biggest investment of my life"; stake size unverified; Skool Games launched | 📰/🗣️ |
 | Aug 16, 2025 | *$100M Money Models* launch: 9.5-hour livestream; Guinness World Record "fastest-selling non-fiction book" (2,917,443 copies by Aug 17) ✅; ~$87M day-one revenue claim 🗣️. He later frames the launch as deliberately demonstrating the book's own ideas — using **12 of the book's ~15 monetization mechanisms** live to culminate in a **$100M / 72-hour** result; free copies given away did **not** count toward the record [[../wiki/sources/2026-02-15-yt-8ExRKuE_KFs]] | ✅/🗣️ |
 | ~Sep 2025 | His mother **Florence** died suddenly. He recorded a mental-toughness video the following week reflecting on it — "on Friday" relative to the 2025-10-03 publication implies **~Sep 26, 2025** [[../wiki/sources/2025-10-03-yt-Avp3xh3Y1Ic]]; weeks later he says he wrote **her eulogy** and used his own grief as the case study for that framework [[../wiki/sources/2025-11-21-yt-SE9_1PYsaP0]]; he lists her sudden death among the defining events of 2025 [[../wiki/sources/2025-12-21-yt-YONIUpk-kAs]]. (The earlier dossier gave "~Sep 19" at "her Baltimore home"; the ~Sep 26 "previous Friday" anchor is his own telling — treat the exact day as loose.) | 🗣️ |
@@ -153,9 +163,14 @@ decision-lens shift.
 
 ## ⚠️ Contradictions & reconciliations (tracked)
 
-1. **Birth date / age — recurring wobble.** Aug 18, 1988 vs Aug 13, 1988; the primary
-   sources deepen the problem. Across his tellings he variously self-dates as **22, 27,
-   28, and ~32** in ways that don't cleanly fit a 1988 birth:
+1. **Birth date / age — recurring wobble (now substantially RESOLVED → ~Aug 1989).**
+   Aug 18, 1988 vs Aug 13, 1988; the primary sources deepen the problem. Across his
+   tellings he variously self-dates as **22, 27, 28, and ~32** in ways that don't cleanly
+   fit a 1988 birth:
+   - **"turning 35 in August"** as of Nov 2024 → **born ~August 1989** — a clean, direct
+     anchor, consistent with the earlier ~Aug birthday datapoint (from
+     [[../wiki/sources/2025-08-15-yt-tGhe3sBuk34]], "~Aug 9")
+     [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]];
    - opened his **first gym "at 22"** — if ~2013, that implies born ~1991
      [[../wiki/sources/2024-04-09-yt-lXRqOG2yn6E]];
    - was **"26" during the in-person gym fill-up era** (~2013–2015) and **"28" the
@@ -180,11 +195,17 @@ decision-lens shift.
    - says **"I've been in business 14 years"** as of 2025 (→ started ~2011), consistent
      with the ~2011–2013 consulting-quit / first-gym window
      [[../wiki/sources/2025-11-17-yt-XGm2ERU9qtA]].
-   His age statements are mutually inconsistent and none cleanly fit the reported **1988**
-   birth year — but the **newer (2025–2026) datapoints cluster tighter around a ~1989–1990
-   birth**: "36" as of early 2026 and an "exit at 31" in ~2021 both point there, pulling
-   slightly *later* than the reported 1988 (and away from the outlier "22"→1991 and
-   "28"→1993 readings). No registry source; treat every self-reported age as loose.
+   His self-reported *ages* remain loose, but the **modern (2024–2026) evidence now
+   converges firmly on an August 1989 birth**, which resolves most of the tension:
+   "**turning 35 in August**" as of Nov 2024, "**36**" as of early 2026, "**age 27** on
+   Christmas Eve 2016," "**exit at 31**" in the ~2021 sale, and "**14 years in business**"
+   as of 2025 all reconcile cleanly against an **Aug 1989** birth (35 in 2024; ~31–32 at
+   the ~2021 exit; first gym at ~22–23 in ~2012–2013). The older, looser "**22 / 27 / 28
+   / ~32**" self-ages were relative/approximate and should not be weighed against this.
+   **Working conclusion: born ~August 1989** (self-reported but internally consistent) —
+   which pulls slightly *later* than the reported **1988**. Still unresolved: the exact
+   **day of month** (Aug 9 vs Aug 13 vs Aug 18/19) and the 1988-vs-1989 year on paper;
+   no registry source exists, so treat the day as loose.
 2. **Rock-bottom balance: $1,036 (dossier) vs $1,000 (his 2021 telling).** Same event
    (late-2016 wind-down), two figures. The video attributes the $1,000 to wiring a
    ~$22,000 commission out of ~$23,000 left "to do right by everyone"
@@ -213,6 +234,14 @@ decision-lens shift.
    [[../wiki/sources/2023-08-26-yt-qel9bf653Es]]. **Not a hard contradiction** — best
    read as: the core material was drafted together early, then each book was
    finished/expanded and launched in sequence. Flagged pending an L3 reconciliation.
+9. **University: "dropped out at 22" vs "graduated magna cum laude in 3 years."** In the
+   Nov 2024 Bumstead workout he says he **dropped out of university at 22** to train and
+   run a gym full-time — "there for four years but on my second year of school"
+   [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]]. This sits in tension with his more
+   common claim of **graduating Vanderbilt magna cum laude in 3 years**. Possibly loose
+   framing (conflating leaving the pre-med/consulting *track* with formally withdrawing),
+   possibly a different school, or a reframed retelling. **Do not assert either as fact;**
+   flagged pending corroboration.
 
 > ⚠️ CONTRADICTION: **"Direct-response since 18 / credit-repair booklet" vs the
 > consulting→gym origin.** In a 2023 marketing talk he says, "I actually came from the

@@ -11,13 +11,18 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
 
 ## Open
 
-- **[2026-07-08] Appearance / on-camera presence ungrounded.** `persona/appearance.md` is still a
-  stub (0 sources); the system-prompt has no physique/grooming/mannerism grounding. Needs
-  watch-skill visual sampling of the video corpus (or photo sources). Flagged during system-prompt
-  v5 compile.
-- **[2026-07-08] Age inconsistency unresolved.** Self-reported ages (22 / 26 / 27 / 28 / 32) across
-  sources don't reconcile cleanly against a reported 1988 birth. No registry source has settled it;
-  the persona treats all self-reported ages as loose. See biography.md contradiction #1.
+- **[2026-07-09] Appearance — grooming/wardrobe/setting still ungrounded.** `persona/appearance.md`
+  is now **populated** for physique/build/athletic background (from the Bumstead workout, 2024-11-18),
+  but on-camera grooming (hair/facial hair/skin), wardrobe/dress, filming backdrop, height, and an
+  appearance-over-time timeline remain unsourced. Needs a watch-skill frame-sampling pass over
+  representative long-form + shorts. (Physique portion resolved — see Resolved.)
+- **[2026-07-09] Contradiction #9 — dropped-out-at-22 vs magna-cum-laude-in-3-years.** The Bumstead
+  video has him "dropping out of university at 22 to run a gym," which sits in tension with the
+  earlier "graduated magna cum laude in 3 years (Vanderbilt)" claim. Both self-reported; unresolved.
+- **[2026-07-08] voice.md back-fill (traceability).** Synthesis-pass-4/5 frameworks now in the
+  system-prompt + new topic pages (5 sales-voice levers, mental-toughness 4-model, learning method,
+  SPCL, negotiation, copywriting-hacks, business-diagnostics) live in `wiki/topics/` (cited) but are
+  not yet mirrored in `persona/voice.md`. Traceable via the topic pages; back-fill later.
 - **[2026-07-08] voice.md back-fill (traceability).** Four synthesis-pass-4 frameworks now in the
   system-prompt + new topic pages — the 5 sales-voice levers, the mental-toughness 4-model, the
   learning method ("same condition, new behavior"), and SPCL / social→interest media — live in
@@ -32,4 +37,12 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
 
 ## Resolved
 
-_(none)_
+- **[2026-07-09] Age inconsistency → born ~August 1989.** Resolved by the Bumstead workout
+  ([[sources/2024-11-18-yt-7qy-EPc2gYU]]): "turning 35 in August 2024" → born ~Aug 1989, which
+  reconciles "36 in early 2026", "age 27 on Christmas Eve 2016", "exit at 31 (~2021)", and "14 years
+  in business as of 2025". Corroborated by the "birthday ~Aug 9" datapoint
+  ([[sources/2025-08-15-yt-tGhe3sBuk34]]). Residual: exact day-of-month + 1988-vs-1989 paper year
+  (no registry source). See biography.md contradiction #1 (now substantially resolved).
+- **[2026-07-09] Appearance — physique/build grounded.** `persona/appearance.md` populated with
+  physique (~235 lb natural, signature calves, bodybuilder build), strength markers, and competitive-
+  bodybuilding background from [[sources/2024-11-18-yt-7qy-EPc2gYU]]. (Grooming/wardrobe still open.)

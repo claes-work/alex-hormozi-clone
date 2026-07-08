@@ -35,6 +35,7 @@ Domain hubs (full page list lives on each hub):
 - [wiki/topics/marketing/marketing.md](wiki/topics/marketing/marketing.md) — Content marketing, ads, branding, audience building.
   - [book-launch-affiliate-playbook](wiki/topics/marketing/book-launch-affiliate-playbook.md) — how a mass book launch runs on an affiliate army.
   - [copywriting-hacks](wiki/topics/marketing/copywriting-hacks.md) — the 12+1 ad-copy hacks, 5 levels of awareness, scarcity vs urgency, damaging admissions, proof beats promise.
+  - [email-marketing](wiki/topics/marketing/email-marketing.md) — guaranteed-delivery content, list building, deliverability, the 5-part reward-loop template, cadence & segmentation.
 - [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — Discipline, self-belief, decision-making, pain and identity.
   - [discipline-and-decision-making](wiki/topics/mindset/discipline-and-decision-making.md) — "12 by 30" work ethic, to-sacrifice list, radical ownership, irreversible decisions, confidence-from-proof, infinite game, money = condensed time.
   - [mental-toughness-and-learning](wiki/topics/mindset/mental-toughness-and-learning.md) — mental toughness 4-model (post mother's death), the "same condition, new behavior" learning method, passion vs proficiency vs pain-tolerance.
@@ -42,6 +43,7 @@ Domain hubs (full page list lives on each hub):
   - [investing-and-wealth](wiki/topics/wealth/investing-and-wealth.md) — Buy-and-hold vs trading, play-money quarantine, keep-passive-passive, proximity to wealth, wealth = what you own.
   - [building-wealth](wiki/topics/wealth/building-wealth.md) — the 4 paths to wealth (bootstrap/raise/invest/fund), cash-flow vs net-worth (6x multiple), his own route through all four.
 - [wiki/topics/fitness/fitness.md](wiki/topics/fitness/fitness.md) — Training, nutrition, his athletic background.
+  - [training-and-physique](wiki/topics/fitness/training-and-physique.md) — training philosophy, PRs (DL 465×20, bench 415), nutrition (~6,000 cal/day), bodybuilding background.
 - [wiki/topics/content-strategy/content-strategy.md](wiki/topics/content-strategy/content-strategy.md) — His own media playbook: platforms, formats, hooks, volume.
   - [hormozi-writing-guidelines](wiki/topics/content-strategy/hormozi-writing-guidelines.md) — his 8 codified writing rules.
   - [content-engine](wiki/topics/content-strategy/content-engine.md) — media playbook: why fame, Volume×Time=Skill, Rule of 100, 5-step model, atomic-unit repurposing, frame/how-I/give-secrets/delay-the-ask, three-wheels hooks.
@@ -63,11 +65,11 @@ Domain hubs (full page list lives on each hub):
 
 ## Persona
 
-- [persona/biography.md](persona/biography.md) — Dated timeline 1988–2025 with confidence markers (**v5, 26 sources** — father/refugee story, United Fitness + first-gym figures, Leila airport-recruitment, book-trilogy origin, Goodwill shift, **mother Florence's death ~Sep 2025 + 2025 record year**, maternal grandfather (Macedonia); age now converges ~1989–1990, still flagged loose).
+- [persona/biography.md](persona/biography.md) — Dated timeline 1989–2025 with confidence markers (**v6, 27 sources** — father/refugee story, United Fitness + first-gym figures, Leila airport-recruitment, book-trilogy origin, Goodwill shift, mother Florence's death ~Sep 2025, **DOB ~Aug 1989 (age puzzle substantially resolved)**, competitive-bodybuilding background, Kylie-Forbes turning point; contradiction #9 = dropped-out-at-22 vs magna-cum-laude-in-3-years).
 - [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + a borrowed-lines (not-his-coinages) section.
 - [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**28 sources**); enriched from the topic pages + P2 synthesis (perfect-business 5-filter, wealth 4-paths, 4-shapes, 6-levels risk ladder, tiered pricing, biz-math benchmarks, lead-magnets, TAM, fat-pitch, maximizer, trust=punishability, 2026 AI thesis) with tracked evolutions (net-worth→Goodwill).
-- [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Stub** (awaits video/photo sources).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v7** (255 sources: ~253 videos + 2 books) — full business frameworks (4-shapes, 6-levels, biz-math, sales-voice, SPCL, 4-vectors, business-diagnostics, negotiation, copywriting-hacks, STAR) + prose/spoken voice + origin story + mother's death & 2025 record year + 2026 AI/content thesis; still weak on appearance/on-camera mannerisms (pending watch-skill sampling).
+- [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Populated** (1 source): physique/build (~235 lb, signature calves), athletic background; grooming/wardrobe/setting still open (await watch-skill frame sampling).
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v8** (287 sources: ~285 videos + 2 books) — full business frameworks (4-shapes, 6-levels, biz-math, sales-voice, SPCL, 4-vectors, business-diagnostics, negotiation, copywriting-hacks, email-marketing, STAR) + prose/spoken voice + origin story + **DOB ~Aug 1989 + bodybuilding + physique** + mother's death & 2025 record year + 2026 AI/content thesis; grooming/wardrobe still pending watch-skill sampling.
 
 ## Other
 

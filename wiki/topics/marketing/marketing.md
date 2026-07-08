@@ -16,4 +16,7 @@ Content marketing, ads, branding, audience building.
 - [[copywriting-hacks|Copywriting Hacks]] — his ad-copy playbook: the 12+1 hacks, the 5 levels of
   awareness, scarcity vs urgency, the damaging-admissions "but"-mechanic, proof-beats-promise
   (from the "14 years of marketing advice" masterclass).
+- [[email-marketing|Email Marketing]] — his email system: guaranteed-delivery content, list building
+  & opt-ins, deliverability, the 5-part reward-loop template, cadence & segmentation ("Mozi Money
+  Minute").
 

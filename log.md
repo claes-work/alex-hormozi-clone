@@ -3,6 +3,25 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-09] lint | Synthesis pass 6 — appearance populated, DOB resolved, +2 topics, system-prompt v8
+
+Loop iteration 30 (maintenance/synthesis). The Bumstead workout (2024-11-18) unlocked two long-open
+gaps; cleared them via 4 parallel agents + recompile:
+- **persona/appearance.md**: populated from stub (0→1 source) — physique/build (~235 lb natural,
+  signature calves, bodybuilder frame), strength markers, competitive-bodybuilding background.
+  Grooming/wardrobe/setting still open (watch-skill pass needed).
+- **persona/biography.md → v6** (26→27 sources): **DOB ~August 1989** — contradiction #1
+  (age puzzle) now **substantially resolved** (reconciles 35-in-2024 / 36-in-early-2026 / exit-at-31 /
+  14-yrs-in-business); bodybuilding ~14-22 + state record; dropped-out-at-22; Kylie-Forbes "$17M
+  still a failure" 7-day depression; Austin→Vegas. New contradiction #9 (dropped-out-at-22 vs
+  magna-cum-laude-in-3-years).
+- **2 new topic pages**: fitness/training-and-physique.md (seeds the previously-empty fitness domain)
+  and marketing/email-marketing.md (his email system — guaranteed-delivery, reward-loop copy,
+  deliverability, segmentation). Wired into hubs + index. **31 topic pages now.**
+- **persona/system-prompt.md → v8** (compiled_from_sources 255→287). **gaps.md: Age RESOLVED,
+  Appearance-physique RESOLVED** (grooming/wardrobe + contradiction #9 remain open).
+Next: resume @AlexHormozi P2 ingestion (350 left).
+
 ## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — Bumstead workout (DOB!) + email + millionaire
 
 Loop iteration 29. 8 @AlexHormozi P2 (2024-10→11). 6 L3-candidates, TWO high-value: 7qy-EPc2gYU
