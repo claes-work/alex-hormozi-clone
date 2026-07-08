@@ -3,6 +3,19 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — LANDMARK full sales course + 5 L3-cands
+
+Loop iteration 27. 8 @AlexHormozi solo P2 (2024-12→2025-01). 5 L3-candidates incl. a landmark:
+StVqS0jD7Ls "The Ultimate Sales Training [Full Course]" (★ LANDMARK ~90-min sales masterclass —
+the whole CLOSER curriculum, sales multipliers [speed-to-lead, 7-day selling, feed-the-killers],
+team training, AAA objection handling, three-pillar pitch, mindset → flagship for sales-frameworks
++ sales-communication at next L3 pass). Others: cnbHgYYHzyE (★ landmark 2024 year-review — one-
+domino focus, "six horsemen of stagnation", SCALE turnaround, kind-not-nice, 7:30 funnel flip),
+sjt5G3YPjmY (★ fix-small-business — the 4 single-point-of-failure risks: keyman/channel/customer/
+vendor + 3 D's of delegation), FMzKk73iUhw (★ 11 fast-acquisition levers), thDTmy7VGIw (★ sell
+up-market vs structural churn, ask-don't-tell). Rest L2 (best-year dup, grow-fast pillars, review
+flywheel). Ledger: L2=269. Next: continue @AlexHormozi P2 (366 left).
+
 ## [2026-07-09] ingest | Stage B: 8 more @AlexHormozi P2 (L2) — marketing case studies + ultra-wealthy
 
 Loop iteration 26. 8 @AlexHormozi P2 (2025-01→03). 4 L3-candidates (mostly marketing case studies
