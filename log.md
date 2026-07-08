@@ -3,6 +3,15 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage A: @GymLaunch enumerated — all 4 channels done
+
+Loop iteration 3. Enumerated @GymLaunch: 124 long-form + 766 shorts; backfill filled
+120 videos, promoted 46 to P1. Fixed a fetch_channel.ps1 bug (duration="NA" crashed the
+short-detection int cast → dropped rows on the shorts tab; now guarded with TryParse) and
+re-ran the shorts tab clean. Ledger now 11,073 rows. **Enumeration phase complete — all 4
+target channels catalogued.** Next iteration: Stage B begins (first the deferred
+@AlexHormozi metadata backfill catch-up, then the first video ingest batch).
+
 ## [2026-07-08] ingest | Stage A: @MoreMozi enumerated (1,841 video + 786 shorts)
 
 Loop iteration 2. Enumerated @MoreMozi via fetch_channel + merge_staging: 1,841 long-form

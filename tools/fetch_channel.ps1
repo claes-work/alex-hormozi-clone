@@ -22,7 +22,8 @@ $rows = yt-dlp --encoding utf-8 --flat-playlist --print '%(id)s;%(title)s;%(uplo
 $csv = foreach ($r in $rows) {
     $p = $r -split ';', 6
     $title = $p[1] -replace '"', "'"
-    $isShort = if ([int]$p[3] -gt 0 -and [int]$p[3] -le 62) { 'short' } else { 'video' }
+    $dur = 0; [void][int]::TryParse($p[3], [ref]$dur)  # duration may be "NA"; treat as 0
+    $isShort = if ($dur -gt 0 -and $dur -le 62) { 'short' } else { 'video' }
     # id,type,title,channel_or_publisher,url,published,discovered,status,priority,domains,notes
     "yt-$($p[0]),$isShort,""$title"",$($p[5]),https://www.youtube.com/watch?v=$($p[0]),$($p[2]),$today,L0-discovered,3,,views=$($p[4])"
 }
