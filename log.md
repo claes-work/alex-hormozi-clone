@@ -3,6 +3,20 @@
 _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` with_
 _`<type>` ∈ `setup | ingest | query | lint | persona-qa`._
 
+## [2026-07-08] ingest | Stage B batch 13: 8 @MoreMozi P1 (L2, richer batch)
+
+8 @MoreMozi videos; 7 L3-cands (much richer than batch 12): _TZEJAYUeCo ($0→$10M stage
+ladder + $3M three boxes), f4wnTeNgPaI (ruthless focus — to-sacrifice list, dollars-per-hour),
+CV48Gkckbn4 ("12 by 30" work-ethic + 9mo of 16hr days bio), ubAZHpGZ45w (write-first
+atomic-unit repurposing engine — his content system), B7P5WCVfnPE (first high-ticket sale
+bio: $6k quote → $60k morning, corroborates the pricing-pivot story), U8Noy9ly7A4 (front-end
+offer + continuity), Ln94ZnvPDOQ (talent-side LTV:CAC / recruiting-as-acquisition). ⚠️
+Uw9weyjJL1A "Raising $100M kicked out" is a TITLE MISMATCH — it's a coaching client's
+fundraising fear, NOT an Alex bio story; agent correctly overrode the bio assumption and
+excluded it from persona-bio fields. Ledger: L2=90, 44 L3-candidates. **Topic-synthesis pass
+strongly due** — 44 candidates now pending; further raw ingestion yields diminishing returns
+vs converting these into queryable topic pages. Next: P1 tail, or (recommended) topic synthesis.
+
 ## [2026-07-08] ingest | Stage B batch 12: 8 @MoreMozi P1 (L2)
 
 8 @MoreMozi 2026 coaching/behind-scenes videos via source-only subagents. 3 L3-cands:

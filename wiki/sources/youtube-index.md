@@ -94,6 +94,14 @@ situation is context-only, only Alex's advice is persona data.
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2026-04-28 | [[2026-04-28-yt-_TZEJAYUeCo]] | Roadmap $0→$10M — stage ladder + the "$3M three boxes" | ★ |
+| 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
+| 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
+| 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
+| 2026-06-04 | [[2026-06-04-yt-B7P5WCVfnPE]] | First high-ticket sale — $6k quote → $60k morning (bio) | ★ |
+| 2026-06-06 | [[2026-06-06-yt-Uw9weyjJL1A]] | "Raising $100M kicked out" — ⚠️ coaching case, NOT Alex bio (title mismatch) | |
+| 2026-06-13 | [[2026-06-13-yt-U8Noy9ly7A4]] | Tutoring $250K→$1M — defined front-end offer + continuity | ★ |
+| 2026-06-16 | [[2026-06-16-yt-Ln94ZnvPDOQ]] | Dental $15M→$50M — talent-side LTV:CAC (recruiting as acquisition) | ★ |
 | 2026-06-17 | [[2026-06-17-yt-i-4IiGGS1wE]] | Scale two companies — focus/opportunity-cost, fire-sell the slower one | |
 | 2026-06-17 | [[2026-06-17-yt-PgiqKklXUaA]] | $15M consulting → $100M by 2029 — enterprise lead-gen engine (conf+affiliates+outbound) | ★ |
 | 2026-06-20 | [[2026-06-20-yt-vMVForz7IPM]] | $1.5M→$9.4M UK dental (one advice) — now retention as compounding vehicle | |
@@ -109,6 +117,6 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-01 | [[2026-07-01-yt-88oj6ZlmEi8]] | $6M roofing wants $100M — "want less or trade more", the who game | ★ |
 | 2026-07-07 | [[2026-07-07-yt-ndne_8qRh8o]] | Marketing agency $1.2M→$8M — price to worst month, go up-market | |
 
-_82 videos ingested (L2). 37 flagged L3-candidate for the next synthesis pass. 5 videos
+_90 videos ingested (L2). 44 flagged L3-candidate for the next synthesis pass. 5 videos
 contain no Alex speech (3 Leila solo talks + 2 Leila+exec debriefs) — kept as record/bio-fact
 and cross-check citations only, excluded from voice/persona data._
