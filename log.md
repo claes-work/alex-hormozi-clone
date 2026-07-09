@@ -4302,3 +4302,29 @@ were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,246). youtube-index/index/footer updated.
 Synthesis notes: consistency-as-zero-capital-edge/longevity; three-community-builder-paths/pain-profession-passion/free-trial-GMV-rationale; convert-engaged-free-community-to-free-trial-not-second-group; 4-6-week-free-to-paid-community-launch/promotion-first/whisper-to-shout; community-exitability-annuity-risk-discount/asset-vs-job; creator-pricing-fear/conversion-multiple-math/sell-from-buyers-wallet; freemium-ascension-manual-calls/channel-demand-not-create-demand/next-problem-monetization; facilitator-not-expert-community/sell-outside-own-geography-and-wallet.
+
+## [2026-07-09] ingest | yt batch 168 - @MoreMozi P2 (2026-05-01), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-05-01** `yt-L2rFSqxVFlw` - dead community revival through unscalable DM
+  matchmaking and niche-specific picture prompts.
+- **2026-05-01** `yt-A_Xz7rkV-HI` - videographer offer page: concrete $250/hour promise,
+  Promise/Proof/Plan, and B2B risk/friction reduction.
+- **2026-05-01** `yt-f6csLULEuA4` - about/sales page proof: feature-specific testimonials,
+  who/what/when clarity, and rock-bottom vs rock-top storytelling.
+- **2026-05-01** `yt-ARWNgQ8-DKc` - one-market focus for a French short-term-rental
+  staffing offer; proof/context over US-market FOMO.
+- **2026-05-01** `yt-AhYCD0CmePI` - food-growing community monetization through market
+  calls and honest affiliate recommendations.
+- **2026-05-01** `yt-CbiqQOYQwa4` - JV/VSL pricing: pull cash forward, give client-first
+  recoup, and raise until one-in-three close rate.
+- **2026-05-01** `yt-U-CWGwQ0VrY` - content iteration: launch imperfectly, review metrics,
+  and use volume to learn faster.
+- **2026-05-01** `yt-tJFqLdBAaIA` - monetize by giving away information and selling
+  personalization via calls and faster unsticking.
+
+Ledger 8->L2 (L2 now 1,254). youtube-index/index/footer updated.
+Synthesis notes: dead-community-unscalable-matchmaking/picture-prompts; Promise-Proof-Plan/B2B-risk-friction-reduction; feature-proof-testimonials/rock-bottom-vs-rock-top-story; one-market-focus-France/proof-context-over-US-FOMO; affiliate-monetization-for-product-heavy-community/honest-review-equity; raise-price-until-one-in-three/upfront-fee-plus-client-first-recoup; publish-to-learn/perfectionism-as-fear/450-pieces-per-week-standard; give-away-information-sell-personalization.
