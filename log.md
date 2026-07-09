@@ -1639,3 +1639,35 @@ Ledger 8→L2 (L2 now 555). youtube-index/index/footer updated. **Synthesis back
 pass ~batch 80):** diet-formula enrichment → appearance.md; "you are source" identity → beliefs;
 attention>time; 4 scaling frameworks + leverage ladder + business-genie → scaling topic; the rich
 Dec-2016/company-timeline bio → biography.md (reconcile with the "softer origin" account from batch 72).
+
+## [2026-07-09] ingest | yt batch 75 — @AlexHormozi P1 tail (2022 Jan–Feb), 5 videos + 2 no-captions
+
+Exhausts the @AlexHormozi P1 (landmark) tier (excl. 1 429-flagged video). 2 of the planned 7
+(yt-FXzDLLdxsCk, yt-OVhNSzFSoZs — both "$100M CEO…") have NO captions available → L1, no-captions.
+
+- **2022-01-21** `yt-oi7bnS8uyJM` "30 Min Sales Training" — full CLOSER (Clarify/Label/Overview via
+  4-step Pain Cycle/Sell "the vacation not the plane flight" <3min/Explain-away/Reinforce) + the
+  Conviction framework ("conviction corrects your tone", words=logic tone=emotion) + six-C sales-team
+  scaling (Gong call review, one-thing feedback, cut fast, competition+career path, setter/closer split).
+- **2022-01-27** `yt-w5g0JiO7OdE` "0% Tax on 56% of Income" — ⭐ **wealth/tax (NEW for
+  [[tax-free-liquidity]]):** 2022 **anti-shelter** stance ("just pay your taxes"); equity appreciation
+  compounds tax-free (worked example ~21% effective tax → 56% untaxed); depreciation (RE + GP capture);
+  three legit savings scenarios (give up control / depreciation / deferral-not-elimination); shelters
+  examined & rejected (IDGT waterfall, captive insurance, PR/NYC day-counting); six due-diligence rules.
+  ⚠️ Dated tonal contrast vs the 2024 borrow-against-assets playbook — evolution, date the positions.
+- **2022-02-07** `yt-lRyGIzW9d9k` "The Anti-Routine" — refines the 2021 anti-crutch thread into a
+  subtractive "season of no" (priorities = two things can't be equally important): changed his phone
+  number, quit events/masterminds, no meetings 4am–noon, min-effective-dose workouts, 1–2 fast days.
+- **2022-02-21** `yt-VgEvIIpDYG8` "10-Minute Millionaire Advice" — no shortcut to picking a niche;
+  get trench experience (do it before you teach it); expect ~5 yrs of boring high-volume work; the
+  only artificial timeline is self-imposed.
+- **2022-02-28** `yt--TydwZMX8wM` "Work/Life Balance Fools the Poor" — signature belief: rejects the
+  balance frame; "I work to create options not to not work… I work to have the option to work, and
+  that choice is the freedom." Backed by his miserable 2021 idle year → founding Acquisition.com.
+  NOTE: interview w/ a 2nd speaker; the "marriage is a compromise" counterpoint attributed to the
+  interviewer, not Alex (persona-safe).
+
+Ledger 5→L2 (L2 now 560), 2→L1 (no-captions). youtube-index/index/footer updated. **@AlexHormozi P1
+is now exhausted** (bar 1 429-retry + 2 no-captions). Next: @AlexHormozi P2 tier (122 rows). **Synthesis
+backlog:** tax anti-shelter/depreciation → tax-free-liquidity (dated); work/life-balance signature belief;
+"season of no" → mindset.
