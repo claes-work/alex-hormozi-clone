@@ -2546,3 +2546,21 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 781). youtube-index/index/footer updated. @MoreMozi P2: ~1,658 rows remain.
 Synthesis notes: brand as deliberate association bouquet, premium-product reinforcement, cash-vs-equity dilution comparison, self-reported Alex good-day definition, first-10-testimonials proof shortcut, podcast-as-outbound and conference lead capture, organic pyramid plus paid monetization-depth lever, avoided-loss safety offer quantification, margin-before-expansion retail ops, and local LTV:CAC ad-scaling math.
+
+## [2026-07-09] lint | synthesis pass 11 — @MoreMozi Q&A batches 92–101
+
+Checkpoint synthesis for the ten ingest batches since pass 10. Promoted genuinely new or sharper
+findings into existing topic/persona pages:
+
+- `wiki/topics/content-strategy/branding.md` — 2026 brand association objectives (status, power,
+  credibility, likeness), product-experience hierarchy, and premium DTC/affiliate-status implication.
+- `wiki/topics/business/acquisition-channels.md` — interest-media warm-audience ads, first-ten
+  testimonial proof, podcast/conference outbound, and COI partner proof.
+- `wiki/topics/business/pricing-psychology.md` — sell-to-rich avatar pricing, status/Veblen pricing,
+  and decoy continuity plan structure.
+- `wiki/topics/business/scaling-and-enterprise-value.md` — talent debt / ROIC hiring, margin before
+  expansion, cash-flow-vs-sellability pathing, and boring service focus.
+- `persona/biography.md`, `persona/beliefs.md`, and `persona/system-prompt.md` — self-reported
+  Alex/Leila loyalty and role-boundary texture, the good-day loop, and v21 prompt compilation.
+
+Dropped pure repeats and near-duplicates already captured by source pages or earlier topic synthesis.

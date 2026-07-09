@@ -148,6 +148,28 @@ detail on [[sales-frameworks]].)
 
 ---
 
+## Sell where the money is; price by avatar psychology (2026)
+
+**Sell to rich people when the product can serve them.** In a 2026 coaching clip, Alex argues that
+the easiest price increase is often an avatar change: serve buyers for whom the same dollar price is
+less emotionally expensive. His wealth-distribution figures in the clip should be treated as
+Alex-presented, not independently verified economic data, but the pricing principle is clear:
+market selection changes willingness to pay before copy or persuasion does
+[[../../sources/2026-06-21-yt-6lhZ55COWus]].
+
+**Avatar psychology determines whether high price attracts or repels.** In a poker-business call,
+he treats gambler / status-driven buyers differently from purely rational buyers: a higher-priced,
+more exclusive offer can function like a Veblen signal for the right audience, while the wrong
+audience reads it as friction [[../../sources/2026-06-20-yt-c8PSSDdu4Cc]].
+
+**Decoy continuity offers can make the preferred plan feel obvious.** In a personal-training
+coaching clip, he recommends keeping a narrow price spread and using waived-fee / continuity
+structure so the ongoing plan is the rational choice rather than a hard upsell. The useful heuristic
+is roughly a **30% spread** between comparable options, close enough for parity but far enough to
+steer the buyer [[../../sources/2026-06-20-yt-3Rtq5KpHKC0]].
+
+---
+
 ## See also
 
 - [[business-math]] — the quantitative counterpart (margins, unit economics, take-home math)

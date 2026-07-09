@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 91** — synthesis pass 10, system-prompt **v20** (2026-07-09).
+Synthesized through: **batch 101** — synthesis pass 11, system-prompt **v21** (2026-07-09).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -16,6 +16,13 @@ _(oldest first; the synthesis loop drains these top-down)_
 
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 92–101** — synthesis pass 11 (2026-07-09) →
+      system-prompt **v21**. Promoted brand association objectives/product loop,
+      warm-audience ads, first-testimonial proof, podcast/conference/COI acquisition,
+      sell-to-rich and avatar-specific pricing psychology, talent debt/ROIC hiring,
+      margin-before-expansion, cash-flow-vs-sellability pathing, boring service focus,
+      and self-reported good-day / Leila-loyalty notes. Dropped repeats already covered
+      by source pages or earlier topic synthesis.
 - [x] **@MoreMozi Q&A cuts — batches 88–91** — synthesis pass 10 (2026-07-09) →
       system-prompt **v20**. Promoted direct-response doom loop vs brand, agency expertise
       transfer, workflow-not-role AI org design, narrative-vs-metric AI risk, in-person

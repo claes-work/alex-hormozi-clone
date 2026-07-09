@@ -400,6 +400,29 @@ all — high margin is the enabling condition. See [[business]] and
 
 ---
 
+## 2026 refinements: warm audiences, proof, and partner channels
+
+- **Interest media makes paid ads warmer than subscriber counts imply.** In the piano-studio
+  call, he distinguishes visible audience from total warm audience: many prospects consume
+  content without subscribing, and paid retargeting / interest media can reach that hidden
+  awareness pool. The strategic point is that organic content lowers paid-ad friction by making
+  the ad feel familiar rather than cold [[../../sources/2026-06-20-yt-gaNkOL513jo]]. A near-duplicate
+  version makes the same point with the same business context [[../../sources/2026-06-19-yt-WXlPkw8_L8c]].
+- **First proof beats polished funnel work for a new service.** For a founder without proof,
+  he recommends getting roughly the first ten testimonial clients before optimizing paid
+  acquisition; proof becomes the asset that makes later ads and sales conversations believable
+  [[../../sources/2026-06-18-yt-qmdniCg0pfg]].
+- **Podcasts and conferences are outbound channels when the buyer is concentrated.** For a niche
+  B2B offer, he frames podcast guesting as borrowed-trust outbound and conferences as a place to
+  capture concentrated leads, provided the follow-up system is strong enough to convert the list
+  [[../../sources/2026-06-18-yt-lN0oRSsnPUU]].
+- **COI / channel partners need a real customer, not an abstract referral request.** In the
+  centers-of-influence coaching, he pushes the owner to make the partner's first referred customer
+  successful so the partner sees a concrete, low-risk proof case before being asked for volume
+  [[../../sources/2026-06-20-yt-xaRTwfdKero]].
+
+---
+
 ## Sources
 
 - [[../../sources/2022-05-17-yt-XwZH-lOKG9c]] — KEYNOTE: the "Big 4" frameworks; six
@@ -423,3 +446,11 @@ all — high margin is the enabling condition. See [[business]] and
 - [[../../sources/2021-10-11-yt-DpbXWP8fLbc]] — **origin (2021-10-11) of Client Financed
   Acquisition** (named, with the 30-day-cash > 2×(CAC+fulfillment) inequality and the
   credit-card float mechanic), ~2 years before *$100M Leads*.
+- [[../../sources/2026-06-20-yt-gaNkOL513jo]] / [[../../sources/2026-06-19-yt-WXlPkw8_L8c]] —
+  interest media and warm-audience paid ads for a local piano-studio offer.
+- [[../../sources/2026-06-18-yt-qmdniCg0pfg]] — first ten testimonial clients as the proof
+  shortcut before scaling acquisition.
+- [[../../sources/2026-06-18-yt-lN0oRSsnPUU]] — podcast guesting and conferences as concentrated
+  B2B outbound channels.
+- [[../../sources/2026-06-20-yt-xaRTwfdKero]] — COI / partner acquisition anchored on one real
+  successful customer.

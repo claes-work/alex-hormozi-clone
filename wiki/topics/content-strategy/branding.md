@@ -4,7 +4,7 @@ domain: content-strategy
 domains: [content-strategy, marketing, business]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 4
+sources: 7
 tags: [branding, associations, positioning, direct-response, give-give-give, pricing-power, flywheel]
 ---
 
@@ -110,6 +110,22 @@ strong positive brand." And: "Don't let the five mean comments stop you from gai
 ---
 
 ## 4. Why branding makes money
+
+**2026 association-objectives refinement.** In a later coaching clip, he breaks brand building into
+four association targets: **status, power, credibility, and likeness**. The practical question is
+which association the market should attach to the company, and then which other people, products,
+symbols, or experiences can transfer that association. He also ranks influence sources: what the
+brand says is weakest, what respected third parties say is stronger, and the customer's own product
+experience is strongest [[../../sources/2026-06-19-yt-ZckLXKaCekQ]].
+
+**Product as brand reinforcement.** In 2026 he restates the bouquet model in product terms: brand is
+the associations deliberately arranged around the company, but the product experience has to keep
+confirming the premium association after purchase. If the product contradicts the association, the
+campaign can create first purchases but not durable brand equity [[../../sources/2026-06-18-yt-LyFh9bLBz7g]].
+
+**E-commerce / affiliate implication.** For a DTC brand stuck in paid-media arbitrage, he advises
+moving toward influencer-level LTV:CAC and premium brand status: affiliate partners should gain
+status from being associated with the brand, not merely collect a commission [[../../sources/2026-06-21-yt-gL8EqgjMd6E]].
 
 A strong brand stacks financial benefits ([[../../sources/2024-04-20-yt-VQM3DrnVTcs]]):
 

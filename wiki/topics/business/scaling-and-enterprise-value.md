@@ -4,7 +4,7 @@ domain: business
 domains: [business, wealth]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 9
+sources: 13
 tags: [scaling, enterprise-value]
 ---
 
@@ -354,6 +354,13 @@ Live coaching of a ~$15M/yr dental group owner; only Alex's advice is persona da
   enterprise value** — "the cash is just gravy." (Directly applies the §5 EV formula:
   recruiting adds customers/capacity → LTGP → EV.)
 
+**Talent debt and ROIC hiring (2026-06-20).** In a later staffing-focused coaching clip, he
+reframes delayed hiring as **talent debt**: the company is using today's weaker team instead of
+pulling future talent forward. The decision standard is return on invested capital, not payroll
+minimization; if a senior hire unlocks the next constraint, the owner should compare the cost of
+waiting against the enterprise value and cash flow created by having the person now
+[[../../sources/2026-06-20-yt-bdKVgkudo5A]].
+
 ---
 
 ## 7. Going up-market: price to the worst month
@@ -437,6 +444,26 @@ Live coaching of a two-location dance-school owner; only Alex's advice is person
 - **Warning:** almost every multi-location fitness operator he knows **never sold the whole
   thing** — "every one of them piecemealed it: one to a trainer, one to a customer, one to
   a competitor" when they got tired.
+
+---
+
+## 9. Margin before expansion; cash-flow path vs. sellable path
+
+**Make one unit so profitable that expansion becomes obvious.** In a coffee-shop coaching clip,
+he argues against opening more stores before the unit model throws off excess cash: the target is
+a store so profitable that the owner does not know what else to do with the money. That keeps
+expansion from masking weak margins, weak management, or weak demand [[../../sources/2026-06-18-yt-Y5e0_4JBs6U]].
+
+**Choose between a cash-flow path and a sellable-company path.** In a digital-education / soccer
+business call, he separates "make more money now" from "build an asset someone wants to buy." A
+one-time digital product plus ads can produce cash flow, but sellability usually requires more
+durable recurring revenue, brand, productized delivery, or reduced founder dependence
+[[../../sources/2026-06-19-yt-jYfLLU9pCYY]].
+
+**Boring focus is often the scalable choice.** In a plastic-surgery staffing call, he warns that a
+business is not the place to satisfy the founder's intellectual curiosity; the scalable answer may
+be the boring, repeatable service that compounds instead of a more interesting new direction
+[[../../sources/2026-06-19-yt-POS-kprGUDI]].
 
 ---
 

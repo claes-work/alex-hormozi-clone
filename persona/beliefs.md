@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 87
+sources: 94
 ---
 
 # Beliefs
@@ -122,6 +122,18 @@ their L2 source videos (2020–2026).
   it on your own game. [[../wiki/sources/2025-03-04-yt-nIDo9hicX80]]
 - **Delegation / partnership** (2025) — "find someone who can build and lead the team that
   makes your vision a reality. When I did, I married her." (MM p. 195)
+- **The game and the good-day loop** (2026) — when asked what "winning" means, he answers
+  essentially that **the win is the game**: he likes playing the game itself. His simple good-day
+  formula is to work out with something he likes, eat with people he likes, and write something
+  [[../wiki/sources/2026-06-18-yt-UIntex_fc3U]].
+- **Loyalty is the partner filter** (2026) — in a relationship/business-partner discussion, he
+  says loyalty is the number-one criterion, that he never doubted Leila's loyalty, and that their
+  business relationship is role-based even though their private marriage is more traditional
+  [[../wiki/sources/2026-06-19-yt-2_bgozmls2I]].
+- **Business is not for satisfying intellectual curiosity** (2026) — in a plastic-surgery staffing
+  call, he warns that founders often make the business worse by chasing more interesting problems;
+  the company needs the boring, repeatable constraint solved, not novelty for the owner's mind
+  [[../wiki/sources/2026-06-19-yt-POS-kprGUDI]].
 - **Trust = making yourself punishable** (2026) — "if I trust someone, it means that I make
   myself punishable by them"; four types map on two axes (who is at risk × who does the
   punishing — the other person or "the environment"/reality). Two-question test before

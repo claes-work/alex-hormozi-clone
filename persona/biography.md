@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 46
+sources: 47
 ---
 
 # Biography
@@ -198,7 +198,12 @@ criticism datapoint [[../wiki/sources/2021-08-25-yt-RzswhUHnTHA]]
   a **true 50/50 partner and the operator** — infrastructure, recruiting, HR, culture —
   saying that on raw work output "she does more than I do," while he "occasionally comes
   up with a good idea and sticks with it long enough to see it come true"
-  [[../wiki/sources/2022-06-16-yt-AGCtZmgJ1JA]]. 🗣️
+  [[../wiki/sources/2022-06-16-yt-AGCtZmgJ1JA]]. In 2026 he adds that he looked for "a
+  little bit of crazy" plus loyalty, says loyalty was the number-one filter and he never
+  doubted hers, and describes their private marriage as more traditional while their business
+  relationship is role-based. He also says they began working together before the romantic
+  relationship was primary, and frames their early dynamic through the ages ~23 (Leila) and
+  ~27 (Alex) [[../wiki/sources/2026-06-19-yt-2_bgozmls2I]]. 🗣️
 - **Fitness** 🗣️: says he has been in good physical shape for "almost 20 years" (as of
   2021) [[../wiki/sources/2021-02-11-yt-FTgJ0mQi0uU]].
 - **Personal color** 🗣️ (2023): home base Las Vegas; read *How to Win Friends and
