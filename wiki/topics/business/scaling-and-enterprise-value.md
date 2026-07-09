@@ -318,6 +318,27 @@ Live coaching of a ~$15M/yr dental group owner; only Alex's advice is persona da
   tenure = **~$2.4M lifetime value** against a small acquisition cost. Paying $50K / $100K
   / $200K to acquire that person is an 8:1 / 4:1 / 2:1 return "and then next year I'm also
   going to get 400 grand too."
+- **LTGPE:CAT wording (2026-06-30).** In a skilled-trades coaching clip, he names the same
+  equation **LTGPE:CAT** — lifetime gross profit per employee to cost of acquiring talent.
+  If a $150K welder or carpenter unlocks $200K+ of incremental gross profit, paying above
+  market and using recruiters can be rational. He calls paying 20-30% more for A+ talent one
+  of the remaining arbitrages because A+ people may be worth three or four times B talent
+  [[../../sources/2026-06-30-yt-mcAqxwL7ig0]].
+- **Senior leadership layer as the next constraint.** A large business can have the bottom
+  operating layer built while still missing the top layer: senior leaders who remove the
+  founder from fires. For one-time C-suite/VP hires, he recommends founder-led outreach or
+  targeted headhunters, one constraint role at a time, and outside technical vetting when the
+  founder cannot judge the function personally [[../../sources/2026-07-04-yt-W2KWccTKZuM]].
+- **Micro-promotions retain repeated-role talent.** For high-churn field/delivery roles,
+  expand a sparse three-step path into 9-18 rungs using title, pay, perks, equipment, routes,
+  or objective milestones. Show the ladder during orientation and make the first win a
+  30-45-day "six-inch putt" so average employees always see a near next step
+  [[../../sources/2026-07-02-yt-TvB7L-FMZSk]].
+- **Premium margins should fund premium people.** In a premium home-services example, he
+  treats key-man risk as both an enterprise-value discount and a founder-burnout problem:
+  run a time study, delegate the bottom half of the founder's activity list, then recruit
+  nationally with relocation/signing bonuses if the local technician pool is too small
+  [[../../sources/2026-06-30-yt-5pfq_BtWs8E]].
 - **"It cost me nothing up to this point" is the trap.** "Everyone's like, 'Well, it cost
   me nothing up to this point.' And I'm like, 'Yeah, and that's why you are stuck.'"
 - **Bomb the constraint.** Once identified, attack it aggressively — headhunters, 10
@@ -442,4 +463,7 @@ Live coaching of a two-location dance-school owner; only Alex's advice is person
   method was developed; invests in ~$3M–$100M businesses.
 - [[business]] — business domain hub.
 - [[money-model]] — the offer-sequencing layer that feeds LTGP and payback speed.
-- Source additions: [[../../sources/2021-05-31-yt-gpKz22P84iM]] (Talent Grid predecessor).
+- Source additions: [[../../sources/2021-05-31-yt-gpKz22P84iM]] (Talent Grid predecessor);
+  [[../../sources/2026-06-30-yt-mcAqxwL7ig0]], [[../../sources/2026-07-04-yt-W2KWccTKZuM]],
+  [[../../sources/2026-07-02-yt-TvB7L-FMZSk]], [[../../sources/2026-06-30-yt-5pfq_BtWs8E]]
+  (talent-side LTGPE:CAT, senior layer, micro-promotions, premium technician recruiting).

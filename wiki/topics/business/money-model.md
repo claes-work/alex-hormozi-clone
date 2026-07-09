@@ -216,6 +216,17 @@ without necessarily adding cost. The six dimensions are **ratio** (1:1, group, o
 value at one-tenth the price?). This is not the full 2025 Money Model sequence, but it is a
 clear predecessor to later offer-packaging, upsell/downsell, and continuity design.
 
+### In-person LTV sales motion (2026-07-04)
+
+In a MoreMozi coaching clip for an indoor play park, Hormozi applies the Money Model logic
+to a local venue: if the low-ticket front end already brings customers in cheaply, do not
+try to make them want a different front end. Keep the visit/play offer, then add an
+in-person sales motion at check-in and check-out to convert visitors into birthdays,
+camps, field trips, and memberships. The rule is the old "give them what they want so you
+can give them what they need," but the tactical novelty is channel-specific: for an
+in-person venue, the LTV expansion should happen in person while the customer is still in
+the experience, not only through email follow-up [[../../sources/2026-07-04-yt--fzHdm7LGlk]].
+
 ## Sources
 
 - [[../../sources/2025-08-16-100m-money-models|$100M Money Models]] (2025) — the entire framework
@@ -224,3 +235,4 @@ clear predecessor to later offer-packaging, upsell/downsell, and continuity desi
 - [[../../sources/2020-12-29-yt-1IhvZC-Wpqs|Marketing Mastery]] (2020-12-29) — "ham and garlic" front-end/back-end logic
 - [[../../sources/2021-05-17-yt-t9Vv7rK-4Jc|Service delivery cube]] (2021-05-17) — six-dimensional service packaging / hidden-value exercise.
 - [[../../sources/2021-10-08-yt-3P1XjUvo1b4|Starbucks recurring sales]] (2021-10-08) — retention/continuity via customer surplus (~1–2% churn)
+- [[../../sources/2026-07-04-yt--fzHdm7LGlk|In-person LTV sales motion]] (2026-07-04) — local venue front-end preserved, backend LTV expanded at check-in/check-out.

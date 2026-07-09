@@ -20,16 +20,16 @@ _Last updated: 2026-07-09 (MoreMozi Q&A batches resumed; 36 L2 videos added)_
 Domain hubs (full page list lives on each hub):
 
 - [wiki/topics/business/business.md](wiki/topics/business/business.md) — Offers, leads, sales, scaling, money models, pricing, retention.
-  - [money-model](wiki/topics/business/money-model.md) — the umbrella framework: sequence of offers, three stages, build order, Gym Launch case study, and 2020–2021 proto-money-model lineage including the service delivery cube.
+  - [money-model](wiki/topics/business/money-model.md) — the umbrella framework: sequence of offers, three stages, build order, Gym Launch case study, proto-money-model lineage, service delivery cube, and in-person LTV sales motion.
   - [attraction-offers](wiki/topics/business/attraction-offers.md) — Stage I: turn strangers into customers (5 offer types).
   - [upsell-offers](wiki/topics/business/upsell-offers.md) — Stage II: get customers to spend more (Classic/Menu/Anchor/Rollover).
   - [downsell-offers](wiki/topics/business/downsell-offers.md) — Stage II: turn "no" into "yes" (payment plans, trials, feature downsells).
   - [continuity-offers](wiki/topics/business/continuity-offers.md) — Stage III: recurring revenue (bonus/discount/waived-fee).
   - [sales-team-scaling](wiki/topics/business/sales-team-scaling.md) — building a sales team from 0: recruiting as mirrored acquisition, interview screens, 14-day onboarding, team CLOSER + coaching loop, PIP management.
   - [sales-frameworks](wiki/topics/business/sales-frameworks.md) — CLOSER, logical closing (onion of blame + 5 obstacles), sales hacks, transference of conviction, high-ticket pricing, sales-team scaling.
-  - [scaling-and-enterprise-value](wiki/topics/business/scaling-and-enterprise-value.md) — $0→$10M ladder, 5 ways to scale, scale-zero, Talent Grid, EV = customers × LTGP ÷ risk, exit/M&A, talent-side LTV:CAC.
+  - [scaling-and-enterprise-value](wiki/topics/business/scaling-and-enterprise-value.md) — $0→$10M ladder, 5 ways to scale, scale-zero, Talent Grid, EV = customers × LTGP ÷ risk, exit/M&A, talent-side LTV:CAC/LTGPE:CAT.
   - [acquisition-channels](wiki/topics/business/acquisition-channels.md) — Big 4 vs 6 sources vs Core Four reconciled; Client Financed Acquisition, word-of-mouth as only exponential channel, Rule of 100, MAGIC naming.
-  - [ai-in-business](wiki/topics/business/ai-in-business.md) — his current (2026) AI thesis: use AI as a tool, capture-don't-create, workflow-not-role, risk-is-the-last-paid-human-act, barbell strategy (time-sensitive).
+  - [ai-in-business](wiki/topics/business/ai-in-business.md) — his current (2026) AI thesis: use AI as a tool, capture-don't-create, workflow-not-role, narrative-vs-metric risk, risk-is-the-last-paid-human-act, barbell strategy (time-sensitive).
   - [sales-communication](wiki/topics/business/sales-communication.md) — verbal delivery beneath CLOSER: 5 voice levers, breathing the script, chunk-up discovery, 7 universal closes.
   - [negotiation](wiki/topics/business/negotiation.md) — 5 tactics (BATNA, anchoring, MESO, reciprocity, framing) via his ~$20M home purchase.
   - [business-diagnostics](wiki/topics/business/business-diagnostics.md) — 2020–2021 ToC/proto-constraint lineage, supply-vs-demand constraint, "what business are you really in", 4 vectors, 4 shapes, growth-stage traps.
@@ -56,8 +56,8 @@ Domain hubs (full page list lives on each hub):
   - [training-and-physique](wiki/topics/fitness/training-and-physique.md) — training philosophy, PRs (DL 465×20, bench 415), nutrition (~6,000 cal/day), bodybuilding background.
 - [wiki/topics/content-strategy/content-strategy.md](wiki/topics/content-strategy/content-strategy.md) — His own media playbook: platforms, formats, hooks, volume.
   - [hormozi-writing-guidelines](wiki/topics/content-strategy/hormozi-writing-guidelines.md) — his 8 codified writing rules.
-  - [content-engine](wiki/topics/content-strategy/content-engine.md) — media playbook: why fame, Volume×Time=Skill, Rule of 100, 5-step model, atomic-unit repurposing, frame/how-I/give-secrets/delay-the-ask, three-wheels hooks.
-  - [branding](wiki/topics/content-strategy/branding.md) — brand = deliberate associations, bouquet model, 3 brand metrics, brand > direct-response, give-give-give.
+  - [content-engine](wiki/topics/content-strategy/content-engine.md) — media playbook: why fame, Volume×Time=Skill, Rule of 100, 5-step model, atomic-unit repurposing, hooks, influencer borrowing, agencies as expertise transfer.
+  - [branding](wiki/topics/content-strategy/branding.md) — brand = deliberate associations, bouquet model, 3 brand metrics, brand > direct-response, DTC direct-response doom loop, give-give-give.
   - [community-building](wiki/topics/content-strategy/community-building.md) — **his paid-community / Skool playbook** (why the model, design, launch, monetization, growth funnel, retention) — high-value.
   - [audience-growth](wiki/topics/content-strategy/audience-growth.md) — his 2026 audience playbook: SPCL framework, social→interest media, 6 content shifts, 4 monetization paths, live/interactive (time-sensitive).
   - [audience-monetization](wiki/topics/content-strategy/audience-monetization.md) — the 4 ways to monetize an audience (affiliates/sponsors/partnerships-equity/own-brand), vanity vs business metrics, deal-structuring rules.
@@ -82,7 +82,7 @@ Domain hubs (full page list lives on each hub):
 - [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + a borrowed-lines (not-his-coinages) section.
 - [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**90+ sources**); enriched from the topic pages + P2 synthesis (tax-free-liquidity 2021→2024 evolution, philanthropy/estate-plan belief, no-legacy, perfect-business, 4-shapes, 6-levels risk ladder, business math, moats, retention, culture, purpose/usefulness, relationships, AI thesis) with tracked evolutions.
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Populated** (1 source): physique/build (~235 lb, signature calves), athletic background; grooming/wardrobe/setting still open (await watch-skill frame sampling).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v19** (~668 videos + 2 books) — full business frameworks + wealth/tax evolution + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + AI/content thesis; grooming/wardrobe still pending watch-skill sampling.
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v20** (~700 videos + 2 books) — full business frameworks + wealth/tax evolution + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis; grooming/wardrobe still pending watch-skill sampling.
 
 ## Other
 

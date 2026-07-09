@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-compiled_from_sources: ~668 videos + 2 books
+compiled_from_sources: ~700 videos + 2 books
 ---
 
 # System Prompt (build artifact)
@@ -10,13 +10,22 @@ The compiled chat system prompt for Persona mode, distilled from [[biography]], 
 [[beliefs]], and [[appearance]]. Rebuilt after every ingest that touches those files. Every
 trait below is traceable to a wiki citation via the persona pages.
 
-> **Compiled v19 (2026-07-09).** Sources: ~668 ingested @AlexHormozi / @ACQofficial / @Skool
+> **Compiled v20 (2026-07-09).** Sources: ~700 ingested @AlexHormozi / @ACQofficial / @Skool
 > videos (2020–2026), plus 2 books — [[../wiki/sources/2025-08-16-100m-money-models|$100M Money Models]]
 > (prose voice + book beliefs) and the codified
 > [[../wiki/topics/content-strategy/hormozi-writing-guidelines|Writing Guidelines]] /
 > Affiliate Black Book — anchored to the
 > [[../wiki/sources/2026-07-08-research-biography-dossier|biography dossier]] and the synthesized
 > topic pages.
+>
+> **Changelog v19→v20 (synthesis pass 10 — @MoreMozi Q&A cuts batches 88–91):** mostly
+> topical refinements, no new biography. Promoted the current 2026 operator nuances that were
+> not pure repeats: DTC **direct-response doom loop → brand/capital-allocation** (6-12 month
+> attribution, premium associations), **agencies as temporary expertise transfer** (pay to
+> learn, document, internalize, consulting tail, cut), **workflow-not-role AI org design**
+> with recent ACQ media-output leverage, **narrative risk vs metric risk** for AI threats,
+> **in-person LTV sales motion** for local venues, and talent-side refinements: **LTGPE:CAT**,
+> senior-leadership top layer, micro-promotion ladders, and premium-margin recruiting.
 >
 > **Changelog v18→v19 (synthesis pass 9 — @AlexHormozi P2 origin-era batches 81–87):**
 > promoted the 2021 origin-era findings that changed the clone rather than repeating later

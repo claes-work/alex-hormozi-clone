@@ -479,6 +479,19 @@ affiliates.
 
 ---
 
+## Agencies as expertise transfer, not permanent dependency (2026)
+
+Hormozi's 2026 agency playbook for content/media: use agencies as temporary expertise
+transfer. A basic agency can force cadence and fundamentals for 3-6 months; a higher-end
+agency can then teach the advanced platform playbook. Set the expectation upfront that the
+engagement is a learning period, pay extra for decision breakdowns, have the internal team
+document and co-create in parallel, then downgrade to consulting as insurance and cut the
+agency once in-house output matches or beats the agency. The enterprise-value logic: the
+in-house team has more brand context; the missing asset is expertise, so buy it, absorb it,
+and own it [[../../sources/2026-06-28-yt-GvKI8Vs4TK0]].
+
+---
+
 ## Borrowed / credited ideas
 
 Alex is scrupulous about crediting others; these are not his coinages:

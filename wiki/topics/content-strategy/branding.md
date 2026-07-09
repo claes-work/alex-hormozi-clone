@@ -153,6 +153,16 @@ transactionally, leaning on his hardcore sales skill set instead of building a b
 So he built acquisition.com deliberately on **content** — the one customer-acquisition
 channel he'd never used (see the eight ways, below).
 
+**2026 DTC/e-commerce application: avoid the direct-response doom loop.** In a 2026
+coaching clip for a ~$10M DTC skincare founder, Hormozi makes the brand-over-performance
+thesis operational: low margins are a symptom of lacking brand, not just a subscription or
+CRO problem. Scaling direct-response spend reaches less profitable audiences, raises CPA,
+and creates a doom loop of more revenue with less profit. The fix is not outsourcing
+"branding" as colors/logos, but learning brand as the core e-commerce skill: build founder
+story, premium associations, differentiation, and top-of-funnel memory over a **6-12 month**
+attribution horizon. He frames it as moving from 30-day ROAS thinking to capital-allocation
+thinking [[../../sources/2026-07-02-yt-Uv4WiUmJbBo]].
+
 > ⚠️ TENSION (not a contradiction): In 2024 the thesis is **brand over everything**
 > ([[../../sources/2024-02-12-yt-z8WPl1v39P8]]); by 2026 he stresses **quality/idea clarity
 > over personal brand** ([[content-engine]] §4, "the book was the brand... it wasn't even

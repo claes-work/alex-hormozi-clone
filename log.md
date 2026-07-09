@@ -2277,3 +2277,15 @@ Theory-of-Constraints plateau math and pipeline-backward constraint finding; Net
 eight-C stickiness; anti-copycat moats; and recruiting as mirrored customer acquisition.
 Recompiled `persona/system-prompt.md` to **v19** (~668 videos + 2 books) and advanced
 `pipeline/synthesis-state.md` through **batch 87**.
+
+## [2026-07-09] lint | synthesis pass 10 — @MoreMozi Q&A cuts batches 88–91
+
+Promoted genuinely new MoreMozi Q&A findings from batches 88–91 and dropped repeats that
+were already covered by existing topic pages. Promotions: DTC direct-response doom loop
+and long-horizon brand/capital-allocation thinking; agencies as expertise-transfer rather
+than permanent dependency; workflow-not-role AI org design with recent ACQ media-output
+leverage; narrative-vs-metric AI risk; in-person LTV sales motion for local venues;
+talent-side LTGPE:CAT, senior-leadership layer, micro-promotion ladders, and premium
+technician recruiting. Recompiled `persona/system-prompt.md` to **v20** (~700 videos + 2
+books) and advanced `pipeline/synthesis-state.md` through **batch 91**. No pending
+synthesis checkpoints remain.

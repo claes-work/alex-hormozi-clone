@@ -6,19 +6,21 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 87** — synthesis pass 9, system-prompt **v19** (2026-07-09).
+Synthesized through: **batch 91** — synthesis pass 10, system-prompt **v20** (2026-07-09).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-- [ ] **@MoreMozi Q&A cuts — batches 88–91** (Codex). Findings in each batch's `Synthesis notes:` log
-      line (workflow/AI-agent org design, in-person LTV sales motion, TikTok-Shop creator army, local-
-      fortification-before-national-scale, direct-response-doom-loop vs brand, ROIC reinvestment, LTGPE:CAT,
-      A+ manager arbitrage, decision-as-cutting-off-futures, agency expertise-transfer, constraint-as-
-      highest-return). Dedup hard vs existing topic pages — much of this restates known frameworks.
+- _None._
+
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 88–91** — synthesis pass 10 (2026-07-09) →
+      system-prompt **v20**. Promoted direct-response doom loop vs brand, agency expertise
+      transfer, workflow-not-role AI org design, narrative-vs-metric AI risk, in-person
+      LTV sales motion, LTGPE:CAT, senior-leadership layer, micro-promotion ladders, and
+      premium technician recruiting. Dropped repeats already covered by existing topic pages.
 - [x] **@AlexHormozi P2 origin-era — batches 81–87** — synthesis pass 9 (2026-07-09) →
       system-prompt **v19**. Promoted philanthropy/estate plan, dated 2021 father-distance
       note, tax-timeline correction, exit/partnership-count reconciliation, service-delivery

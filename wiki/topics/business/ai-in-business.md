@@ -127,6 +127,13 @@ more valuable output).
 For every hire, list the 4–10 concrete things that person does ("what are the five things
 an editor does?") and ask whether each could be a workflow instead of head count.
 
+**2026 MoreMozi application:** in a coaching clip, he restates the thesis as "less about
+org charts and more about flows" and says Acquisition.com recently tripled media output
+without adding headcount because prompts absorbed roughly 30-50% of the workload. For
+training, he recommends reducing explanation into action-only steps: tell people exactly
+what to do, then let agents/prompts handle the administrative and instructional pieces
+[[../../sources/2026-07-04-yt-1Zevc7wdRZQ]].
+
 **Automate your own job.** One task at a time, one layer beneath the role. If you don't
 automate it, someone else controls that automation.
 
@@ -150,6 +157,12 @@ strategy down to API-level — sees which combinations create real value.
 - **AI doesn't remove the work.** Dropping an "AI setter" in is like dropping a raw new sales
   rep in — worse if your underlying process is weak. Human psychology and persuasion rules
   don't change.
+- **Narrative risk vs. metric risk.** In a 2026 website-as-a-service coaching clip, he warns
+  against pivoting the product because AI *might* become a threat when churn and customer
+  behavior have not yet proved it. If the threat is not visible in metrics, solve the current
+  constraint first: use AI internally to reduce workflow cost/headcount, improve EBITDA, and
+  fund acquisition before rebuilding the offer around an external AI fear
+  [[../../sources/2026-06-29-yt-oSS5Lnl7_wc]].
 
 > "AI will make the things that you're doing right now easier and faster. It doesn't mean
 > that you still don't have to do them." (2026-04-21)
