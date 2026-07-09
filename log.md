@@ -3377,3 +3377,31 @@ ingested as L2.
 
 Ledger 8→L2 (L2 now 1,029). youtube-index/index/footer updated. @MoreMozi P2: ~1,410 rows remain.
 Synthesis notes: work-life balance as seasonal timeline/compressed sacrifice; AI context/SOP prompts/data sources/prompt-chain workflow; agency avatar scaling and fewer-better-client counterintuitive growth; shorts-to-longs/live-stream truth/SPCL/content-volume thesis; skill acquisition as volume times feedback loops and community; father-proof/apology overlap for hijacked direction; friendship past-only/self-respect boundary; pick-one-business focus plus six-week gym challenge/rollover credit.
+
+## [2026-07-09] ingest | yt batch 133 — @MoreMozi P2 (2026-05-18 to 2026-05-19), 8 videos
+
+Forty-sixth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+10-batch checkpoint banner; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-19** `yt-vAYHqExM13o` "The Moment I Realized Private Equity Had a Better Game" — Acquisition.com:
+  PE better game, 2020 investments, 2021 sale process, and marketing-led deal flow.
+- **2026-05-19** `yt-QQcPVpkFkho` "Outwork Your Self-Doubt" — confidence:
+  Money Models prep, launch rehearsal, 500k registrants self-report, and self-esteem standard.
+- **2026-05-19** `yt-eoDsLi3KpQs` "The Conversation That Will Change Your Life" — hard conversations:
+  avoided partner calls, DUI/head-on-collision wakeup, and death catalyst.
+- **2026-05-19** `yt-iJBdQ5GZ0LI` "The Math Behind Quitting Your Job Safely" — quitting:
+  3-6 months savings/income math, guaranteed bad versus chance at good, and fear specificity.
+- **2026-05-19** `yt-IPuPrnHODOY` "How to Start Advertising as a Beginner" — beginner advertising:
+  Rule of 100, comments as free attention, and asymmetric positioning against leaders.
+- **2026-05-19** `yt-HaCf4VlnDLw` "How to Get More Leads in a Local Service Business" — local service:
+  seasonal lighting model, creative/offer issue, free install lead magnet, and Zillow-style qualification.
+- **2026-05-18** `yt-lLbHejMCCbk` "Why You Should Ignore the People Closest to You" — criticism:
+  close critics right often but not more right, local status games, and death-based freedom.
+- **2026-05-18** `yt-uGcYQOQS3Nc` "The Only Sign of Success Nobody Talks About" — lonely chapter:
+  hate as signal, conformity pull, and price tag of worthwhile goals.
+
+Ledger 8→L2 (L2 now 1,037). youtube-index/index/footer updated. @MoreMozi P2: ~1,402 rows remain.
+Synthesis notes: Acquisition.com origin/PE better game/content deal flow; outwork-self-doubt Money Models prep and self-esteem standard; hard conversations/DUI crash/death catalyst; quitting math plus guaranteed-bad/chance-good and fear specificity; Rule of 100/comments/asymmetric-positioning for beginner ads; seasonal local-service lighting and lead magnet offer; close-critics/local-status/death-freedom frame; lonely chapter/hate signal/price-tag frame.

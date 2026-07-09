@@ -585,11 +585,19 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-28 | [[2026-04-28-yt-_TZEJAYUeCo]] | Roadmap $0→$10M — stage ladder + the "$3M three boxes" | ★ |
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
+| 2026-05-18 | [[2026-05-18-yt-lLbHejMCCbk]] | Ignore close critics - right often, not more right, wider game, death frame | ★ |
+| 2026-05-18 | [[2026-05-18-yt-uGcYQOQS3Nc]] | Lonely chapter - hate as sign, conformity pull, price tag of worthwhile goals | ★ |
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
 | 2026-05-19 | [[2026-05-19-yt-VX_iLv-QY8I]] | Skill acquisition - volume times feedback loops, tutors, community | ★ |
 | 2026-05-19 | [[2026-05-19-yt-IKK_JUtU12U]] | Hijacked direction - father-proof loop and apology overlap | ★ |
 | 2026-05-19 | [[2026-05-19-yt-l4RuVk7TXwA]] | Friend cuts - past-only talk, self-respect, freedom/game-refusal angle | ★ |
 | 2026-05-19 | [[2026-05-19-yt-ZyVeRn2cLHI]] | Focus/gym offer - pick one business, six-week challenge, rollover credit | ★ |
+| 2026-05-19 | [[2026-05-19-yt-vAYHqExM13o]] | Acquisition.com origin - PE better game, marketing for deal flow | ★ |
+| 2026-05-19 | [[2026-05-19-yt-QQcPVpkFkho]] | Outwork self-doubt - Money Models prep and self-esteem standard | ★ |
+| 2026-05-19 | [[2026-05-19-yt-eoDsLi3KpQs]] | Hard conversations - DUI wakeup, partner calls, death catalyst | ★ |
+| 2026-05-19 | [[2026-05-19-yt-iJBdQ5GZ0LI]] | Quit math - 3-6 months, guaranteed bad vs chance good, fear specificity | ★ |
+| 2026-05-19 | [[2026-05-19-yt-IPuPrnHODOY]] | Beginner ads - Rule of 100, best comments, asymmetric position | ★ |
+| 2026-05-19 | [[2026-05-19-yt-HaCf4VlnDLw]] | Local leads - seasonal lighting, free install lead magnet, creative issue | ★ |
 | 2026-05-20 | [[2026-05-20-yt-GVuIX5xtvLc]] | Actions over thoughts - traits as evidence continua, proof-based identity | ★ |
 | 2026-05-20 | [[2026-05-20-yt-iClReCOmXGk]] | Income skills - track/convert/deliver, three Ps, services as starter | ★ |
 | 2026-05-20 | [[2026-05-20-yt-bZB79JdaX_A]] | Family intervention overlap - good-don't, you're-right, game-refusal reading | ★ |
@@ -1059,7 +1067,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,029 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,505 total, including P2 (~1,483, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,037 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,497 total, including P2 (~1,475, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
