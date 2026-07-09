@@ -2639,3 +2639,28 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 805). youtube-index/index/footer updated. @MoreMozi P2: ~1,642 rows remain.
 Synthesis notes: speed/risk/ease positioning with stats for logical service sales; COI/referral-partner journey as reoccurring revenue; fill existing local capacity before new locations; visual-proof collaborations and warm-follower DM triage; low-ticket digital simplicity and talent/brand reinvestment as growth CapEx; AI-era fewer-better media teams; pilot-specific interest media, community, and lead magnets; repeatable three-strategy webinar distribution; content as advertising with cross-platform/batched production; pricing discipline and self-reported Gym Launch competitor-response price-cut regret.
+
+## [2026-07-09] ingest | yt batch 105 — @MoreMozi P2 (2026-06-14 to 2026-06-15), 8 videos
+
+Eighteenth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-15** `yt-x3Ft7uuSlKM` "You Don't Have a Margin Problem, You Have a Brand Problem" — DTC skincare:
+  direct-response doom loop, brand as e-commerce core skill, and 6-12 month capital-allocation horizon.
+- **2026-06-14** `yt-HbaGDrFufmk` "$15 Leads vs Medicare Part B: How to Fix the Funnel" — chronic wounds:
+  lead math, scheduler gating, friction, wound-size filters, and lead scoring.
+- **2026-06-14** `yt-gRQLYWfwRIA` "$500K Power Washing Business Stuck on Referrals" — local service:
+  referrals vs acquisition channels, attribution before scaling, and local multi-channel exception.
+- **2026-06-14** `yt-GUaphMvD9Tc` "$500K Power Washer Spends $2K/mo on Ads and Has No Idea If They Work" — near-duplicate
+  power-washing clip: measure ad attribution before commercial-avatar pivot.
+- **2026-06-14** `yt-tDr3Ocu0VxE` "How to Actually Become Successful (Stop Copying Me)" — personal brand:
+  become more yourself, proof through achievement or effort, do epic work, and start free.
+- **2026-06-14** `yt-Zk3xE-0jFZc` "Charge $100K or Don't Call It Luxury" — luxury wedding entertainment:
+  Veblen pricing, $100K anchor offer, questionnaire/VSL pre-frame, and memorability-based budget reframing.
+- **2026-06-14** `yt-WAkaq4BLSiw` "Buying the $400K Machine That 10x's My Business" — beef protein chips:
+  manufacturing ownership, terms/preorders to pull cash forward, and proprietary-machine diligence.
+- **2026-06-14** `yt-YLLes93QigQ` "I'm Stuck Doing $10/Hour Tasks in My $3M Business" — direct-response ecommerce:
+  contractor benches for chores, media-arbitrage ceiling, one defensible product, and brand/product loop.
+
+Ledger 8→L2 (L2 now 813). youtube-index/index/footer updated. @MoreMozi P2: ~1,634 rows remain.
+Synthesis notes: DTC margin compression as brand problem; brand as non-outsourcable e-commerce skill and longer attribution horizon; funnel friction and lead scoring for low-cost/high-trash leads; local-service attribution before avatar changes; proof-through-effort and anti-copying personal-brand advice; luxury/Veblen pricing with $100K anchor and VSL pre-framing; manufacturing ownership and proprietary equipment as operational moat; contractor benches for sporadic founder chores; direct-response ecommerce portfolio ceiling and brand/product loop.
