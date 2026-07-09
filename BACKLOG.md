@@ -56,17 +56,17 @@ _See memory `acquisition-com-course-ingest-plan`. Index public; lessons are JS-r
 ## E. Synthesis / persona / wrap-up — ONGOING
 - [ ] **⏳ SYNTHESIS DEBT — tracked in `pipeline/synthesis-state.md`.** L2 batches write ONLY
   `wiki/sources/` pages; promoting into `topics/`+`persona/` is a **separate synthesis loop** (by design).
-  **High-water mark: batch 80 (system-prompt v18).** Pending: **@AlexHormozi P2 batches 81–87** +
-  **@MoreMozi batches 88–91** (and every future batch). Run the synthesis loop —
+  **High-water mark: batch 87 (system-prompt v19).** Pending: **@MoreMozi batches 88–91**
+  (and every future batch). Run the synthesis loop —
   `python tools/synthesis_batch.py status` → `… prepare` — at each channel/era boundary or every ~10
   batches (see [`tools/SYNTHESIS.md`](tools/SYNTHESIS.md) + AGENTS.md "The two loops"). This is the
   **immediate next big job** once the current @MoreMozi ingest run pauses.
-- [ ] Work the accumulated L3 synthesis backlog (Netflix 8-C's, Theory-of-Constraints, moats, recruit-mirror, service-delivery-cube, talent-grid, What-Why-How)
-- [ ] ⭐ Add **philanthropy** to biography.md (Aug-2021 wills leave entire $60–80M estate to charity + After-School All-Stars) and **resolve the philanthropy gap** in `wiki/gaps.md`
-- [ ] Add the dated-2021 **father quote** to biography (early father-conflict instance)
-- [ ] **Soften the tax-timeline callout** (buy-borrow-die is present as early as June 2021 → consistent worldview, not a reversal)
-- [ ] **Reconcile the exit count** ("6 gyms/businesses by 32" vs "~7 companies sold" vs partnership "8 vs 9")
-- [ ] Recompile `persona/system-prompt.md` after persona-touching passes
+- [x] Work the accumulated @AlexHormozi P2 L3 synthesis backlog from batches 81–87 (Netflix 8-C's, Theory-of-Constraints, moats, recruit-mirror, service-delivery-cube, talent-grid)
+- [x] ⭐ Add **philanthropy** to biography.md (Aug-2021 wills leave entire $60–80M estate to charity + After-School All-Stars) and **resolve the philanthropy gap** in `wiki/gaps.md`
+- [x] Add the dated-2021 **father quote** to biography (early father-conflict instance)
+- [x] **Soften the tax-timeline callout** (buy-borrow-die is present as early as June 2021 → consistent worldview, not a reversal)
+- [x] **Reconcile the exit count** ("6 gyms/businesses by 32" vs "~7 companies sold" vs partnership "8 vs 9")
+- [x] Recompile `persona/system-prompt.md` after persona-touching passes (v19)
 - [ ] Mark **ROADMAP Phase 3** done when the corpus is drained; final lint
 
 ## F. Multi-persona / multi-agent — FUTURE (step 3)

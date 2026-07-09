@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 10
+sources: 12
 tags: [diagnostics, constraints, scaling]
 ---
 
@@ -90,6 +90,23 @@ binding constraint, (2) reason backward from the goal through the numbers, (3) c
 into concrete inputs (signups, calls, time-blocks, ad spend) — but predate its
 formalization. Treat them as the 2020–2021 proto-versions of the supply/demand triage and
 reverse-engineering method, not as the current articulation.
+
+**Worked Theory-of-Constraints plateau math (2021-10-01).** By October 2021 the method is
+explicitly framed as **Theory of Constraints**. In a portfolio-company-style diagnostic,
+Hormozi asks for five variables: new sales/month, current revenue, price, churn, and LTV
+(plus gross profit). The worked example: 100 new sales/month, 380 active clients at
+$1,000/month, and ~13% monthly churn implies LTV of ~$7,700 and a current-model
+"hypothetical max" near ~$770K/month. Cutting churn from 13% to 3% raises the cap to
+~$3.3M/month, so retention beats trying to 10x acquisition. This is an early bridge from
+business math to constraint diagnosis [[../../sources/2021-10-01-yt-f_ceDZqhKbw]].
+
+**Constraint-finding by walking the pipeline backward (2021-10-22).** Three weeks later he
+shows the same method on hiring: the stated goal was six outbound reps/quarter, but walking
+back through HR throughput, interview conversion, and rep churn revealed the true constraint
+was the talent-acquisition process, not the sales manager. The fix was to change the
+interview process and treat employee acquisition like customer acquisition. He also names a
+"quad marketing calendar": market to prospects, customers, employees, and potential
+employees [[../../sources/2021-10-22-yt-QtE6kk0158o]].
 
 ---
 
@@ -506,6 +523,8 @@ machinery ([[money-model]]) at that one thing.
 - [[../../sources/2020-12-01-yt-XC_lklN9KmE|Your Inflow Is Your Bottleneck]] (2020) — proto-constraint: inflow as the bottleneck, backward math, time-blocking.
 - [[../../sources/2020-12-25-yt-rNiMm4eVq4M|Turn Any Income Goal Into Action Steps]] (2020) — proto-reverse-engineering: LTV × units → daily ad spend.
 - [[../../sources/2021-03-11-yt-RZbpSe9pdFs|3 Steps To Starting (Or Fixing) Any Business]] (2021) — proto-sequencing: create flow → monetize → add friction; don't solve problems that don't exist yet.
+- [[../../sources/2021-10-01-yt-f_ceDZqhKbw|My business has stopped growing]] (2021) — early ToC plateau math: churn, LTV, hypothetical max, retention as the binding lever.
+- [[../../sources/2021-10-22-yt-QtE6kk0158o|Every business is limited by the constraint]] (2021) — pipeline-backward constraint finding; talent acquisition as a mirrored customer funnel.
 - [[../../sources/2025-06-03-yt-sGv2BTUCcCM|How to Grow Your Business So FAST]] (2025) — supply vs demand, the accordion, 8 diagnoses.
 - [[../../sources/2025-04-15-yt-q9OmYf_IlQ0|The Top 1% Aren't Smarter Than You]] (2025) — what business you're in, big hairy problem, features vs bugs.
 - [[../../sources/2025-04-17-yt-s7QA1TJKlbQ|4 Ways To Get Ahead of 99%]] (2025) — the 4 competitive vectors ↔ value equation.

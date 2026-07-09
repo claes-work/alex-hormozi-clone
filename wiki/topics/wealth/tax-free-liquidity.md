@@ -13,7 +13,7 @@ liquidity** from an owned asset while retaining ownership and control. Reverse-e
 throughout to a ~$10M net-worth goal for a normal earner.
 
 Primary source: [[../../sources/2024-05-08-yt-6x3re5-Ms1E]] ("The Ultra Rich Playbook [Legal & Tax-Free]", 2024-05-08).
-Earlier companion source (2022): [[../../sources/2022-01-27-yt-w5g0JiO7OdE]] ("I paid 0% tax on 56% of my income", 2022-01-27) — see the [2022 view](#the-2022-view-appreciation-not-shelters-pay-and-build) and the [position-evolution note](#-position-evolution-2022-pay-and-build-vs-2024-leverage-the-asset) below.
+Earlier companion sources: [[../../sources/2021-06-18-yt-YhxiVIQp_ws]] ("How the rich avoid paying taxes...MY strategy - Part 1", 2021-06-18) and [[../../sources/2022-01-27-yt-w5g0JiO7OdE]] ("I paid 0% tax on 56% of my income", 2022-01-27) — see the [2022 view](#the-2022-view-appreciation-not-shelters-pay-and-build) and the [position-evolution note](#-position-evolution-2021-2024-same-spine-shifting-emphasis) below.
 
 > ⚠️ **Not financial advice; self-reported, US-specific, illustrative.**
 > Every tax claim and figure on this page is Alex Hormozi's own stated understanding,
@@ -223,10 +223,16 @@ tax saving is "thinking in increments, not orders of magnitude"; better to 10x t
 > "95% of solutions are swampland and 5% are legit… The short and simple answer is pay
 > them." — Alex Hormozi (2022-01-27, paraphrasing Charlie Munger)
 
-### ⚠️ Position evolution: 2022 "pay and build" vs. 2024 "leverage the asset"
+### ⚠️ Position evolution: 2021-2024, same spine, shifting emphasis
 
 > ⚠️ **DATED POSITION EVOLUTION — read both with their dates.**
 >
+> - **2021-06-18** ([[../../sources/2021-06-18-yt-YhxiVIQp_ws]]): the earliest dated tax
+>   source in the wiki already contains the full spine: owned assets appreciate untaxed,
+>   selling creates tax, loans are spendable but not income, and the wealthy can borrow
+>   against assets rather than sell. The same source is also anti-shelter: conservation
+>   easements and captive insurance are framed as marginal/risky "BBs"; Puerto Rico is
+>   treated as legitimate but personally rejected on freedom grounds.
 > - **2022-01-27** ([[../../sources/2022-01-27-yt-w5g0JiO7OdE]]): headline stance is
 >   *anti-shelter / "just pay your taxes and build."* Tax-minimization is framed as a
 >   distraction from 10x growth; the win is untaxed **appreciation of owned equity**, and
@@ -236,15 +242,17 @@ tax saving is "thinking in increments, not orders of magnitude"; better to 10x t
 >   loans vs. public equity — "buy-borrow-die") to pull **tax-free liquidity** while
 >   retaining ownership.
 >
-> These are **not a strict contradiction**: 2022 warns against *artificial* shelters, while
-> 2024 describes *liquidity via debt against real, income-producing assets* — and both rest
-> on the same core insight that appreciation of owned equity compounds untaxed. But the
-> **framing and emphasis evolved** (2022 = skeptic / pay-and-build; 2024 = leverage-the-asset),
-> so do not present either as his single "current" tax view without checking the later record.
+> These are **not a strict contradiction**: 2021 already combines borrow-against-assets
+> with skepticism toward artificial shelters; 2022 turns the headline into pay-and-build;
+> 2024 gives the institutional/wealth-structuring version. All rest on the same core
+> insight that appreciation of owned equity compounds untaxed. The evolution is mainly
+> **emphasis** (2021 = appreciation + loans + residency tradeoffs; 2022 = skeptic /
+> pay-and-build; 2024 = leverage-the-asset), so do not present any one date as his single
+> timeless tax view without checking the later record.
 
 ## Related pages
 
 - [[building-wealth]]
 - net-worth-philosophy (page not yet created)
 - [[../business/scaling-and-enterprise-value]]
-- Sources: [[../../sources/2024-05-08-yt-6x3re5-Ms1E]] (2024), [[../../sources/2022-01-27-yt-w5g0JiO7OdE]] (2022)
+- Sources: [[../../sources/2021-06-18-yt-YhxiVIQp_ws]] (2021), [[../../sources/2022-01-27-yt-w5g0JiO7OdE]] (2022), [[../../sources/2024-05-08-yt-6x3re5-Ms1E]] (2024)

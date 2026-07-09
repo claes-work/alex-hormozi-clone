@@ -2265,3 +2265,15 @@ allocation, model pruning to owner avatar, reposting greatest hits, novelty-vs-l
 AI narrative-vs-metric risk, opportunity-cost phase-out, premium-tech recruiting.
 
 **STOP:** user requested stopping after this run. Do not start another prepare loop until asked.
+
+## [2026-07-09] lint | synthesis pass 9 — @AlexHormozi P2 origin-era batches 81–87
+
+Promoted genuinely new L2 findings from batches 81–87 into topic/persona synthesis and
+left pure repeats in the source layer. Main promotions: 2021 philanthropy / estate-plan
+cluster into biography, beliefs, gaps, and system prompt; dated 2021 father/family-distance
+datapoint; tax-timeline correction showing buy-borrow-die present by 2021-06-18; loose
+exit/partnership-count reconciliation; service delivery cube; Talent Grid; 2021
+Theory-of-Constraints plateau math and pipeline-backward constraint finding; Netflix
+eight-C stickiness; anti-copycat moats; and recruiting as mirrored customer acquisition.
+Recompiled `persona/system-prompt.md` to **v19** (~668 videos + 2 books) and advanced
+`pipeline/synthesis-state.md` through **batch 87**.

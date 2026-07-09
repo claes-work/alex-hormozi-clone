@@ -212,6 +212,16 @@ His equity-value corollary, arguing for playing the bigger, more defensible game
 > "I'd rather own 20% of a billion dollar company than 100% of a million dollar
 > company." — Alex Hormozi ([[../../sources/2024-07-12-yt-Lc8DNduiwKA]])
 
+## 2021 anti-copycat precursor
+
+In a 2021 competition/copycat video, Hormozi gives the behavioral precursor to the later
+moats framework: copycats are downstream of the source, so reactive competition usually
+hurts the source more than the copycat. His operating rules are: **never acknowledge the
+competitor**, get louder about your own message if they get loud, and "beat them in the
+field" by out-serving customers. The durable moat is not legal enforcement alone; it is
+being the operator customers choose even after seeing cheaper/copycat alternatives
+[[../../sources/2021-10-29-yt-cGup9yYrOoc]].
+
 ## See also
 
 - [[business]] — business domain hub
@@ -219,4 +229,4 @@ His equity-value corollary, arguing for playing the bigger, more defensible game
   value; acquisitions/roll-ups (#11)
 - [[../marketing/marketing]] — branding (#6) and distribution (#8, #13) as marketing
   disciplines
-- Source: [[../../sources/2024-07-12-yt-Lc8DNduiwKA]]
+- Sources: [[../../sources/2021-10-29-yt-cGup9yYrOoc]], [[../../sources/2024-07-12-yt-Lc8DNduiwKA]]

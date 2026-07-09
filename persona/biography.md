@@ -379,6 +379,17 @@ criticism datapoint [[../wiki/sources/2021-08-25-yt-RzswhUHnTHA]]
     **$1,200/mo Albuquerque** rent here vs the **$1,800/mo Albuquerque extended-stay** in
     the 2022 spending-seasons arc — likely two different stays or loose recall; treat as
     loose.
+11. **Exit / sold-business count and partnership count wobble.** In 2021 he variously
+    frames his pre-Acquisition.com track record as **six gyms/businesses sold by 32**,
+    **~7 companies sold**, and (separately) **eight vs nine failed partnerships**. Best
+    reconciliation: the "six" language often refers to the six-gym / gym-turnaround era,
+    while "~7 companies" is a broader portfolio/exits shorthand; do not turn either into
+    a registry-verified count. The partnership tally is also self-reported and loose:
+    **nine failed partnerships** in the March 2021 partner-warning clip vs **eight** in
+    the June 2021 phantom-equity clip [[../wiki/sources/2021-03-18-yt-yJfn_pWzFqg]]
+    [[../wiki/sources/2021-06-09-yt-DAm0EOes5to]]
+    [[../wiki/sources/2021-09-15-yt-sEQNnsaeiAs]]
+    [[../wiki/sources/2021-09-02-yt-bxs5pN0ZnRw]]. Treat all as rounded self-report.
 
 > ⚠️ CONTRADICTION: **"Direct-response since 18 / credit-repair booklet" vs the
 > consulting→gym origin.** In a 2023 marketing talk he says, "I actually came from the

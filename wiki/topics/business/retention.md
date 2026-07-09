@@ -39,6 +39,14 @@ can't keep them just advertises its own weakness.
 - **Small churn numbers have outsized leverage.** Cutting churn from 20% to 10% (retention
   80%→90%) is not a 10-12% gain — it *doubles* LTV per customer, because they stay twice as
   long. The smaller the number, the bigger the percentage swing from small tweaks.
+- **Early 2021 stickiness checklist: the eight C's.** Before the later nine-C enterprise-
+  value articulation, Hormozi taught an eight-part recurring-revenue checklist:
+  **Consumption, Collateral, Cost of switching, Choice, Control of the money flow, Cause,
+  Community, and Contracts**. The Netflix/Spotify lesson sits under Consumption: no contract
+  is required if customers keep consuming. He frames recurring revenue as a continuum, not a
+  binary, and says a fixed-term packaging change can lift LTV / lifetime gross profit by
+  2-3x without changing the product. Date this as the 2021 predecessor to the later
+  stickiness criteria [[../../sources/2021-09-10-yt-jOM0m34dxz4]].
 - **Benchmarks** (consumer/online/remote services — not home services or insurance;
   *self-reported* from Skool platform data): platform average ~80% monthly retention (20%
   churn); best groups <10% churn; weak groups <70% retention. If fewer than 7 of 10 members
@@ -229,6 +237,9 @@ leaving and the people staying, then engineer more of what makes them stay.
   retention case study ($2M saved, 61% fewer cancellations — *self-reported*); onboarding,
   expectations, misaligned incentives, CLOSER "Reinforce," bamfam, escalations team, bow-tie
   reach-out, revenue-retention thesis.
+- [[../../sources/2021-09-10-yt-jOM0m34dxz4]] — 2021 eight-C recurring-revenue checklist:
+  Consumption, Collateral, Cost of switching, Choice, Control of money flow, Cause,
+  Community, Contracts; Netflix/Spotify as consumption-led continuity.
 - [[../../sources/2026-03-24-yt--j8_YCWZ05Q]] — "How to Get Your Customers to Stay FOREVER":
   ~13-point Skool retention playbook; leaky bucket, day-90 / month-6 thresholds, subtraction,
   daily owner presence, member success, tiering, annual plans.

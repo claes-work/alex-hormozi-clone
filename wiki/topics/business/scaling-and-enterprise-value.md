@@ -150,6 +150,17 @@ mastermind of eight entrepreneurs (>$500M/yr combined) where he was the second s
 - **"Decide" = to kill.** He reframes decision via the "-cide" root: "When you decide
   you're actively choosing to kill off other things... kill off all other options."
 
+### Talent Grid predecessor (2021-05-31)
+
+The 2021 **Talent Grid** is an early people-scaling framework that sits underneath "scale
+zero." Hormozi grades skill and delegation across three parallel ladders: **What → How →
+Who**, **Individual Contributor → Manager → Leader**, and **Doing → Teaching →
+Systematizing**. The top level is not merely delegating a task, but building "the machine
+that builds the machine." His practical test for a truly delegated portfolio company: he
+is no longer in that company's Slack channel, only in a weekly operator meeting, and the
+company grows between meetings without his direct involvement
+[[../../sources/2021-05-31-yt-gpKz22P84iM]].
+
 ---
 
 ## 4. Leverage, the holding-company thesis, and out-sacrifice
@@ -431,3 +442,4 @@ Live coaching of a two-location dance-school owner; only Alex's advice is person
   method was developed; invests in ~$3M–$100M businesses.
 - [[business]] — business domain hub.
 - [[money-model]] — the offer-sequencing layer that feeds LTGP and payback speed.
+- Source additions: [[../../sources/2021-05-31-yt-gpKz22P84iM]] (Talent Grid predecessor).

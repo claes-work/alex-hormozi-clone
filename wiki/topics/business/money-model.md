@@ -204,10 +204,23 @@ customer → LTV compounds → funds acquisition" logic. Paraphrase/quotes per
 > *$100M Money Models* book. Treat them as dated historical antecedents on the money-model evolution
 > timeline, not as current doctrine.
 
+### Service delivery cube (2021-05-17) — offer packaging by delivery dimensions
+
+In [[../../sources/2021-05-17-yt-t9Vv7rK-4Jc|I Broke Down Every High Margin Service Into 6 Buckets]]
+(2021-05-17), Hormozi gives a pre-book packaging framework for service businesses: move an
+offer one notch along six dimensions to create more value from existing capacity ("sawdust")
+without necessarily adding cost. The six dimensions are **ratio** (1:1, group, one-to-many),
+**effort** (DIY / done-with-you / done-for-you), **support channel**, **consumption mode**
+(live/recorded; written/audio/video), **speed and convenience** ("fast beats free"), and the
+**10x / one-tenth exercise** (what would you add at 10x price, or how would you deliver more
+value at one-tenth the price?). This is not the full 2025 Money Model sequence, but it is a
+clear predecessor to later offer-packaging, upsell/downsell, and continuity design.
+
 ## Sources
 
 - [[../../sources/2025-08-16-100m-money-models|$100M Money Models]] (2025) — the entire framework
 - [[../../sources/2020-11-19-yt--UvmyixFszw|4 Steps to Maximizing Revenue Per Customer]] (2020-11-19) — ⭐ named "cash flow quadrant" proto-Money-Model
 - [[../../sources/2020-11-05-yt-pxVeOkOVr2w|The Offer Is King]] (2020-11-05) — proto-Grand-Slam-Offer / "monetize free" / *Acquire* working title
 - [[../../sources/2020-12-29-yt-1IhvZC-Wpqs|Marketing Mastery]] (2020-12-29) — "ham and garlic" front-end/back-end logic
+- [[../../sources/2021-05-17-yt-t9Vv7rK-4Jc|Service delivery cube]] (2021-05-17) — six-dimensional service packaging / hidden-value exercise.
 - [[../../sources/2021-10-08-yt-3P1XjUvo1b4|Starbucks recurring sales]] (2021-10-08) — retention/continuity via customer surplus (~1–2% churn)

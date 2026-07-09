@@ -48,6 +48,12 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
 
 ## Resolved
 
+- **[2026-07-09] Philanthropy / estate-plan grounding.** Resolved by two 2021 @AlexHormozi
+  source pages: the **$2M After-School All-Stars** donation
+  ([[sources/2021-08-25-yt-RzswhUHnTHA]]) and the late-August-2021 wills leaving Alex and
+  Leila's self-valued **$60M-$80M estate** to charity after death
+  ([[sources/2021-08-30-yt-R9gHvJxHRhA]]). Figures remain self-reported, not registry-
+  verified; biography.md and beliefs.md now carry the dated/cited claims.
 - **[2026-07-09] University = Vanderbilt (the "Tufts" mention was an anomaly).** Two same-week Jan–Feb
   2024 clips independently and explicitly name **Vanderbilt, magna cum laude, in 3 years**
   ([[sources/2024-02-28-yt-nxL4ZfVqKLI]], [[sources/2024-01-13-yt-DiQ3N8F1Hl8]]); nxL4ZfVqKLI adds he

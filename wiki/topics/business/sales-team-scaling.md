@@ -22,6 +22,18 @@ For the mechanics of the close itself (word-for-word script, objection handling,
 questioning), see [[sales-frameworks]]. For the communication/leadership discipline this
 draws on, see [[communication-and-management]] and [[sales-communication]].
 
+## Recruiting as mirrored acquisition (2021 predecessor)
+
+Before the dedicated 2022 sales-team buildout video, Hormozi had already framed talent
+acquisition as a mirror of customer acquisition. In the 2021 recruiting framework, the five
+external functions (lead generation, lead nurture, sales, fulfillment, retention/ascension;
+credited to Alex Tarfin) map internally to **application generation, application nurture,
+interviewing, training, and talent retention/ascension**. The same six channels apply to
+customers and candidates: paid ads, earned media, owned media, manual outbound, affiliates,
+and word of mouth. The practical line is "you don't need a what, you need a who": acquire
+the person who already has the missing skill, then sell the candidate on the company and
+train/ascend them like a customer journey [[../../sources/2021-11-15-yt-Lxp-e5NionA]].
+
 ## Hiring & interview criteria
 
 Per [[../../sources/2022-09-27-yt-2lA_A8BGRRs]], Alex screens interviewees on four
@@ -168,4 +180,5 @@ because you believe in the transformation — not from ego tied to closing.
 
 **Related:** [[sales-frameworks]] · [[sales-communication]] ·
 [[communication-and-management]] · hub: [[business]]
-**Source:** [[../../sources/2022-09-27-yt-2lA_A8BGRRs]]
+**Sources:** [[../../sources/2021-11-15-yt-Lxp-e5NionA]] ·
+[[../../sources/2022-09-27-yt-2lA_A8BGRRs]]

@@ -699,6 +699,16 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   all siblings." He credits this shift for content he "could not have made five years ago,"
   when it would have been about "proving a fictitious foe wrong." (Self-reported personal
   philosophy.) [[../wiki/sources/2023-07-16-yt-rWot6uLajms]]
+- **Philanthropy is values-aligned action, not an emotional cure; unearned wealth ruins**
+  (2021) — after giving **$2M** to After-School All-Stars, he says the donation did not
+  make him feel much better, which sharpened his view that chasing meaning or a desired
+  feeling creates another deficiency. Days later he says he and Leila signed wills leaving
+  their whole estate, self-valued at **$60M-$80M**, to charity after death because they had
+  no children, legacy is illusory, and wealth without the skill to acquire it tends to
+  damage the receiver. His stated better gift while alive: give skills/lessons cheaply or
+  free, then invest in the businesses that use them well. (Self-reported figures and estate
+  plan, not registry-verified.) [[../wiki/sources/2021-08-25-yt-RzswhUHnTHA]]
+  [[../wiki/sources/2021-08-30-yt-R9gHvJxHRhA]]
 - **The learner, not the program, makes education work; five levels of competence** (2024)
   — "it is never going to be the thing that works. You are going to be the thing that makes
   it work"; asking "how do you know it'll work?" already predicts failure by outsourcing
@@ -1095,6 +1105,16 @@ video sources; nearly every figure is self-reported napkin math).
   passive-investing content is "seductive but useless on a $35K income." (Self-reported,
   US-specific, and explicitly **not financial advice** — his rounded illustrative figures,
   unverified.) [[../wiki/sources/2024-05-08-yt-6x3re5-Ms1E]]
+- **Tax-free liquidity and anti-shelter skepticism are already present in 2021, not a
+  2024 reversal** (2021) — the earliest dated tax source in the wiki already contains
+  the full spine of the later position: owned assets appreciate untaxed, selling creates
+  tax, loans are spendable but not income, and the wealthy can borrow against assets
+  instead of selling them. The same 2021 source also dismisses conservation easements and
+  captive insurance as marginal/risky "BBs," personally rejects Puerto Rico on freedom
+  grounds, and reports ~$18M of taxes paid over the prior three years plus ~$750K spent
+  on advisors. Read the 2021 → 2022 → 2024 arc as one worldview with shifting emphasis
+  (residency / pay-and-build / leverage-the-asset), not a clean reversal. (Self-reported,
+  US-specific, not tax advice.) [[../wiki/sources/2021-06-18-yt-YhxiVIQp_ws]]
 - **Anti-shelter: "just pay your taxes" — equity appreciation is the untaxed wealth engine**
   (2022) — his headline stance is **against chasing tax shelters and for simply paying taxes**
   while wealth compounds through the **tax-free appreciation of business equity**: "what you
@@ -1113,7 +1133,10 @@ video sources; nearly every figure is self-reported napkin math).
   figures; he credits Munger's "just pay them" — borrowed.)
   [[../wiki/sources/2022-01-27-yt-w5g0JiO7OdE]]
 
-  > ⚠️ EVOLVING (tax posture, 2022 → 2024): In **2022**
+  > ⚠️ EVOLVING EMPHASIS (tax posture, 2021 → 2024): In **2021**
+  > ([[../wiki/sources/2021-06-18-yt-YhxiVIQp_ws]]) he already combines
+  > buy-borrow-die-style borrowing against assets with skepticism toward artificial
+  > shelters; in **2022**
   > ([[../wiki/sources/2022-01-27-yt-w5g0JiO7OdE]]) his headline advice is **anti-shelter —
   > "just pay your taxes"** and build wealth through untaxed equity appreciation, framing
   > tax-minimization as a distraction from 10x growth. The **2024** four-leverage-tiers entry
@@ -1122,7 +1145,8 @@ video sources; nearly every figure is self-reported napkin math).
   > for tax-free liquidity. These are **not strictly contradictory** — 2022 warns against
   > *artificial* shelters, 2024 describes *liquidity via debt against real assets* — and both
   > rest on the shared foundation that appreciation of owned equity compounds tax-free — but
-  > the framing evolved (2022 = skeptic / pay-and-build; 2024 = leverage-the-asset). Date the
+  > the framing evolved (2021 = appreciation + loans + residency tradeoffs; 2022 = skeptic /
+  > pay-and-build; 2024 = leverage-the-asset). Date the
   > positions; do not present either as his single "current" tax view without checking the
   > later record.
 - **Product-first: get rich by getting *better*, not by chasing rich; build back-to-front**
