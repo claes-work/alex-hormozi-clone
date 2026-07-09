@@ -58,18 +58,28 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-02-04 | [[2021-02-04-yt-bSYfZdAE8Ks]] | Don't start a business until… — investor mindset, 5yr horizon, leading indicator | |
 | 2021-02-09 | [[2021-02-09-yt-4LeHKDGmEIQ]] | Why you're not happy — haves over wants; raise activity/lower outcome expectations | |
 | 2021-02-11 | [[2021-02-11-yt-FTgJ0mQi0uU]] | #1 lesson for young entrepreneurs: right-vs-wrong lesson, sustainable growth | |
+| 2021-02-16 | [[2021-02-16-yt-w9Zvk70uj5Q]] | How to create luck — volume negates luck (and skill gaps) | |
 | 2021-02-18 | [[2021-02-18-yt-9xAMe0QBFhU]] | If you don't understand margin — proto gross-profit-not-revenue | |
 | 2021-02-23 | [[2021-02-23-yt-Cr0KdqZ954c]] | Intro to Marketing 101 — proto-LTV:CAC + 30-day-cash OPM | |
+| 2021-02-25 | [[2021-02-25-yt-xQLQoGD6Sjg]] | The Choice — judge decision quality independent of outcome (Dalio/Buffett) | |
 | 2021-03-02 | [[2021-03-02-yt-rnvOwA39dDg]] | How to retire early — 2021 EXTREME FRUGALITY (belief-evolution anchor) | ★ |
+| 2021-03-04 | [[2021-03-04-yt-VaE4pcf9PI8]] | "Perfect business" — unique/expensive/sticky/"air" + Buffett-style operator | |
 | 2021-03-09 | [[2021-03-09-yt-CojS0DwflXc]] | 3 steps to close any sale — proto-CLOSER, transference-of-belief seed | ★ |
 | 2021-03-11 | [[2021-03-11-yt-RZbpSe9pdFs]] | 3 steps to start/fix any business — proto-diagnostic; TJ Jones GSO origin (age 23, bio) | ★ |
 | 2021-03-16 | [[2021-03-16-yt-JfbtySq6_B4]] | Sell anything — "damaging admission"/"but" method (via Eminem 8 Mile) | |
+| 2021-03-18 | [[2021-03-18-yt-yJfn_pWzFqg]] | Wrong business partner — red flags; BIO: 9 failed partnerships, no partner since ~2017 (bio) | ★ |
 | 2021-03-25 | [[2021-03-25-yt-sKCrYIWPHLc]] | "Built my $100M business wrong" — scale zero, oceans not lakes (bio) | ★ |
+| 2021-03-30 | [[2021-03-30-yt-BSwJQsogah0]] | Business growth = simple math — units = revenue ÷ LTV, funnel cascade (proto-LTGP:CAC) | ★ |
 | 2021-04-01 | [[2021-04-01-yt-UR9dO1jZemE]] | First 5 clients (no budget) — Rule of 100 SELF-COINAGE (predates 2023 Core Four crediting) | ★ |
 | 2021-04-06 | [[2021-04-06-yt-KNl83INePXI]] | "I'm broke — what should I do?" — BIO: $1.1k rock-bottom "after six gyms", Brunson (bio) | ★ |
+| 2021-04-08 | [[2021-04-08-yt-QbDFCbpmI6w]] | Secret behind mastering sales & marketing — no shortcut, execution > study | |
 | 2021-04-13 | [[2021-04-13-yt-R7Fin9HFhoM]] | The 4 Stages of Entrepreneurship — revenue-banded framework (0-1M/1-10M/10-30M/30-100M) | |
 | 2021-04-15 | [[2021-04-15-yt-0BZ7-PZR8jE]] | 106M ad impressions — three-wheels statistical hook framework | ★ |
+| 2021-04-20 | [[2021-04-20-yt-Q2VUuUGfpNY]] | 6 hacks to increase LTV (price/cost/frequency/upsell/cross-sell/downsell) | |
+| 2021-04-22 | [[2021-04-22-yt-ETEFhDICm5o]] | Close high-ticket by saying "no" — no-based questions (proto-CLOSER) | |
 | 2021-04-27 | [[2021-04-27-yt-Tw6kJkVcTL0]] | 1 skill that pays off forever — sales via volume ("Rocky cutscene") | |
+| 2021-04-29 | [[2021-04-29-yt--is6Z2T2h8o]] | All entrepreneurs have 1 problem — it's always a people problem | |
+| 2021-05-04 | [[2021-05-04-yt-ZZZNsDs2G_s]] | Wealth principle #1: get paid first — the "money ladder" | |
 | 2021-05-12 | [[2021-05-12-yt-vKnAWYqMJ10]] | Spent $312,900 living like the 1% — luxury "not worth it"; REINFORCES frugality | ★ |
 | 2021-05-14 | [[2021-05-14-yt-C_SgvSvJZdk]] | 8 Laws of Business from Charlie Munger (all Munger-relayed +1 Alex) | |
 | 2021-05-19 | [[2021-05-19-yt-c5Lw12PXkgU]] | $217k day-trade loss → buy-and-hold investing philosophy (bio) | ★ |
@@ -628,7 +638,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_598 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_608 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

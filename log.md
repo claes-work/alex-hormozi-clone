@@ -1853,3 +1853,37 @@ Build: **persona/system-prompt.md v17→v18** (compiled_from ~598 videos + 2 boo
 guard, 5 new belief bullets, dated tax posture, appearance texture; Skool-ownership disclosure preserved.
 
 Corpus: 598 L2 + 2 L3 books. @AlexHormozi P2 ~80 rows remain; then @MoreMozi/@GymLaunch P2, then shorts.
+
+## [2026-07-09] ingest | yt batch 81 — @AlexHormozi P2 (2021-02→05 gym-era), 10 videos
+
+Fifth @AlexHormozi P2 batch (4 agents / 10 pages). Framework + mindset dense.
+
+- **2021-02-16** `yt-w9Zvk70uj5Q` "How to Create Luck" — volume negates luck (luck = probability
+  placeholder; raise n/reps); volume also negates skill gaps.
+- **2021-02-25** `yt-xQLQoGD6Sjg` "The Choice" — judge a decision's quality *independent of its
+  outcome*; revise your framework only on repeated mis-calculation, never one unlucky result (Dalio/Buffett).
+- **2021-03-04** `yt-VaE4pcf9PI8` "Perfect Business" — unique / expensive / sticky / "air" (costs a
+  penny, sells for a buck, habit-forming, only-you-can-sell-it) run by a risk-averse, long-term,
+  unimpeachable operator (Buffett/Berkshire-flavored). Proto business-model-attributes.
+- **2021-03-18** `yt-yJfn_pWzFqg` "Wrong Business Partner" — red flags (partnering for emotional need,
+  overlapping skills, no contract, unspoken expectations, early equity giveaway). ⭐ **BIO:** self-reports
+  **nine failed partnerships** and being "the common theme," **no partner in ~4 years (since ~2017)**;
+  in Gym Launch he was acquisition+product while **Leila** ran all operations.
+- **2021-03-30** `yt-BSwJQsogah0` "Growth = Simple Math" — reverse-engineer the goal, **units = revenue
+  ÷ LTV**, then cascade down the funnel by conversion rates; scale-invariant; deal size is the key lever
+  (favors premium over high-volume-cheap). Proto-LTGP:CAC / growth equation.
+- **2021-04-08** `yt-QbDFCbpmI6w` "Secret Behind Sales & Marketing" — there is no shortcut; execution
+  beats studying; selling is mostly conviction + genuine care, not tactics; study only after reps.
+- **2021-04-20** `yt-Q2VUuUGfpNY` "6 Hacks to Increase LTV" — (1) price, (2) fulfillment cost,
+  (3) frequency, (4) upsell, (5) cross-sell, (6) downsell ("monetize the sawdust"); price = top lever.
+- **2021-04-22** `yt-ETEFhDICm5o` "Close High-Ticket by Saying No" — no-based/negative questions
+  (proto-CLOSER objection handling).
+- **2021-04-29** `yt--is6Z2T2h8o` "Entrepreneurs Have Only 1 Problem" — it's always a **people problem**
+  (find/hire/manage/grow talent); A-players = ownership + intolerance of anything but excellence.
+- **2021-05-04** `yt-ZZZNsDs2G_s` "Wealth Principle #1: Get Paid First" — the **"money ladder"**
+  (order in which people get paid reveals who holds control): employee → self-employed → paid-first
+  professionals → banks → insurance → franchisors/"God" (10% off the top).
+
+Ledger 10→L2 (L2 now 608). youtube-index/index/footer updated. @AlexHormozi P2: ~70 rows remain.
+Synthesis backlog: 6-LTV-hacks + growth-math → business-math; money-ladder → wealth; 9-failed-
+partnerships bio corroboration; people-problem → company-culture.
