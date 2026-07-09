@@ -3681,3 +3681,31 @@ synthesis commit was available. The 7 successful rows were ingested as L2.
 
 Ledger 7->L2 (L2 now 1,115); 1 unavailable marked L1. youtube-index/index/footer updated. @MoreMozi P2: ~1,322 rows remain.
 Synthesis notes: ICP churn segmentation/minnows-vs-whales/AI delivery margin; acquisition core function/vendor-to-in-house marketing; fitness accountability gap/passive-income body; brand vs arbitrage/premium associations/revenue retention/email economics; good-mood-for-no-reason hard-work perception; peace-of-mind values indicator/VC bash-clip reputation; work-needs-doing/20-hour proficiency/shrinking action delay.
+
+## [2026-07-09] ingest | yt batch 144 - @MoreMozi P2 (2026-05-11), 8 videos
+
+Fifty-seventh resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-11** `yt-sZOjZkivEVc` "Why I Criticize Myself to Unlock Potential" - self-talk:
+  ambition over belonging, useful self-criticism, and accepting criticism without judging it.
+- **2026-05-11** `yt-ovfzNWcof_4` "Helping a $600K Lawn Care Business Hit $25M (People Problem)" - operations:
+  pricing power, paired speed/quality KPIs, enforcement, reputation protection, and culture.
+- **2026-05-11** `yt-KlRUzFfIunE` "The Lonely Chapter Every Successful Person Goes Through" - social pushback:
+  pushback as indicator, top-of-their-mountain frame, and attribution caution for the other speaker's expansion.
+- **2026-05-11** `yt-7oR0NMLiFJ8` "How to Shrink the Gap Between Thought and Action" - action:
+  pulling the thread, thought-to-reality power, faster starts, and preparation vs routine.
+- **2026-05-11** `yt-6y-XlPOg2FQ` "The Future of Ads: Content and Ads Are Merging" - demand:
+  content-to-ads merge, Meta ads, proof-led content, and first-four-hours demand generation.
+- **2026-05-11** `yt-SzrK_j2oNcY` "The #1 Rule of Marketing I'll Repeat Until I Die" - ethics:
+  state facts and tell truth, voluntary exchange, deception as bad long-term business, and money belief.
+- **2026-05-11** `yt-97EW_Q39pNc` "I Was Just as Happy When I Was Poor" - contentment:
+  poor-vs-rich happiness self-report, wants as present-perception irrelevant, and hedonic adaptation.
+- **2026-05-11** `yt-3ToMCkWz4w4` "The Secret to Being Your Authentic Self" - authenticity:
+  think/say/do alignment, honest no, social consequences not obligations, and integrity goal.
+
+Ledger 8->L2 (L2 now 1,123). youtube-index/index/footer updated. @MoreMozi P2: ~1,314 rows remain.
+Synthesis notes: useful self-criticism/ambition-over-belonging; lawn-care supply constraint/pricing power/paired KPIs/culture enforcement; social pushback as indicator/top-of-their-mountain; thought-action gap/pulling-thread/personal power/preparation-vs-routine; content-and-ads merge/proof-led demand generation; marketing ethics/state-facts-tell-truth/voluntary exchange/money belief; poor-vs-rich contentment/hedonic adaptation; authenticity think-say-do/no social obligations/integrity.
