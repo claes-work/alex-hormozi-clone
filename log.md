@@ -3571,3 +3571,31 @@ L2.
 
 Ledger 8→L2 (L2 now 1,084). youtube-index/index/footer updated. @MoreMozi P2: ~1,354 rows remain.
 Synthesis notes: alternative-education/networks/belief-breaking; marketing specificity and pain-is-the-pitch; buy-the-dip-on-pain and operationalized gratitude; five-presence-moments/detail-focus; AI implementation/problem-first learning/Anthropic hearsay; FOMO via fast-forward-present/hedonic normalization; talent snowball/black-book hiring test; 10x diligence/teeth-whitening-acquisition/2021 sell-everything self-report.
+
+## [2026-07-09] ingest | yt batch 140 — @MoreMozi P2 (2026-05-13 to 2026-05-14), 8 videos
+
+Fifty-third resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-14** `yt-Uh2v6tgRMAY` "Why Small Business Owners Always Undercharge" — pricing:
+  gross margins, 80% service rule, undercharging causes, and 30-day cash collection.
+- **2026-05-14** `yt-B_8_byD5H40` "I Have a Small YouTube Channel, How Do I Make Money" — creator:
+  shorts-to-longs, 12-week consistency, commitment, and confidence as output.
+- **2026-05-13** `yt-WewmXRmm9q0` "The Hiring Trick That Filters Out 90% of Candidates" — hiring:
+  real cases, repeated-role work samples, coachability, ego, and learning speed.
+- **2026-05-13** `yt-MwU7mXoLfRM` "Helping a $2M Coaching Biz Hit $20M (The Supply Problem)" — marketplace:
+  brand-deal hard side, LTV-to-CAC on brand acquisition, revenue retention, and AI workflows.
+- **2026-05-13** `yt-lvxhxIFImhc` "The Single Greatest Skill You Need to Learn to Thrive in Any Economy" — mood:
+  good mood without reasons, 2025 test, and breaking mood from gratitude contingencies.
+- **2026-05-13** `yt-lOi_rPN_Akg` "The Biggest Predictor of Future Success" — standards:
+  past success, early achievement self-report, low-bar wins, and moving standards.
+- **2026-05-13** `yt-e-MnBsbgxeo` "Helping a $150K/Mo Coaching Business 100x to $15M/Mo" — paid scaling:
+  creative volume, spend-to-CAC, six-pack offer, and qualified-application pixel optimization.
+- **2026-05-13** `yt-XBXHezqAZvs` "Why Nobody Gives You Sympathy As a Business Owner" — status:
+  public sympathy gap, gym-floor/YMCA self-report, and people wanting him to do well but not better.
+
+Ledger 8→L2 (L2 now 1,092). youtube-index/index/footer updated. @MoreMozi P2: ~1,346 rows remain.
+Synthesis notes: gross-margin/undercharging/80%-service-rule/30-day-cash-collect; small-creator consistency/commitment/confidence-output; real-case hiring/work samples/coachable learning speed; marketplace hard-side brand acquisition/AI workflows/revenue retention; good mood without reasons; past-success predictor/early-achievement self-report/moving standards; high-ticket creative volume/spend/pixel optimization; gym-floor/YMCA/status-resentment biography self-report.
