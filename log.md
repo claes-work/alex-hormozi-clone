@@ -2714,3 +2714,28 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 829). youtube-index/index/footer updated. @MoreMozi P2: ~1,610 rows remain.
 Synthesis notes: LTV:CAC-based vertical focus and "no for now"; AI as hidden production method vs customer outcome; education-content strategy with RPM/ad revenue as audience-quality metric; multi-location variance copying; operator compensation via cash flow/sale/risk/control equity decomposition; sales-machine expected-value math for partner leads; market-entry signaling and accent-friction advice; real-estate deal-flow exclusivity and vertical integration.
+
+## [2026-07-09] ingest | yt batch 108 — @MoreMozi P2 (2026-06-11 to 2026-06-12), 8 videos
+
+Twenty-first resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-12** `yt-k0qvQaSD-1M` "How to Recruit Elite Sales Directors for Your Agency" — agency acquisition:
+  sales directors as culture/training, process over unicorn talent, and script simplicity to expand TAM.
+- **2026-06-12** `yt-r7AzdHfBu68` "Insurance Is Dying in California. Should I Pivot My Business?" — property damage:
+  avoid the Armageddon pivot; test coverage channels, cash/insurance sales, and back-end membership.
+- **2026-06-12** `yt-Yjt_YfzF1kQ` "Pick One Sales Channel or Stay Broke" — junk removal:
+  make one channel work by leaning into existing networking skill before learning new channels.
+- **2026-06-12** `yt-fECT6E27oi8` "Why You're Still the Only Closer in Your Business" — real-estate services:
+  shift from sales god to sales training god; scalable sales is prospect-led, not founder-authority-led.
+- **2026-06-11** `yt-HwTWXXoVm-8` "You Don't Have to Feel Good Enough to Win" — mindset:
+  action over motive, insecurity can coexist with execution, and "not good enough" need not block outcomes.
+- **2026-06-11** `yt-Q_IrTjdFNMc` "Helping a $15M Legal Services Business Hit $20M" — legal services:
+  cost-of-change hurdle, Texas share/pie expansion before small-state expansion, and monopoly levers.
+- **2026-06-11** `yt--Le_gCaW_5c` "I built an app and no one's using it" — fence SaaS:
+  activation before ad scaling, separate trial conversion from true churn, and use penalties/rebates to force usage.
+- **2026-06-11** `yt-GMiOc8RKYEo` "The Offer Structure a Stranger Pitched Me in a Parking Lot" — Money Models:
+  discount plus one-time fee, behavior-changing discounts, startup fees as commitment/churn levers.
+
+Ledger 8→L2 (L2 now 837). youtube-index/index/footer updated. @MoreMozi P2: ~1,602 rows remain.
+Synthesis notes: sales-director role definition as culture/training; process-driven selling vs unicorn talent; "Armageddon button" pivot test; membership as emergency-service back end; channel selection by existing skill overlap; founder-driven sales vs prospect-led scalable sales; action over motive/worthiness; 20% cost-of-change hurdle and monopoly levers; SaaS activation economics; discount-plus-one-time-fee offer structure and anti-haggling rule.
