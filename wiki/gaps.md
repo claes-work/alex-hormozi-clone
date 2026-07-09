@@ -11,6 +11,12 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
 
 ## Open
 
+- **[2026-07-09] Which university? "Tufts" vs "Vanderbilt".** The purpose video
+  ([[sources/2024-03-20-yt-M4evdxF5G0s]]) has him mention a **"Tufts writing scholarship"** and quitting
+  pre-med, while other tellings and the biography use a **"school in Tennessee" / Vanderbilt (magna cum
+  laude)** frame. Tufts (Massachusetts) ≠ Vanderbilt (Tennessee) — could be a mis-caption, a second
+  school, or a scholarship-vs-attended distinction. Self-reported, unresolved; verify before hardening.
+  Related to contradiction #9 (dropped-out-at-22 vs magna-cum-laude-in-3-years).
 - **[2026-07-09] Lifting/fitness start age.** An @ACQofficial clip titled "Started Lifting Weights
   at 19" ([[sources/2023-06-27-yt-8JkrmHHxh-Q]]) actually has Alex describing structured training
   with a teacher ("Mr Givens") at **~15**, with training already underway before that → an

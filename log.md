@@ -18,6 +18,23 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — $100M-loss + 7.8M-followers + Skool original (L2=389)
+
+Loop iteration 47. 8 @AlexHormozi P2 (Mar-May 2024). 5 L3-candidates: tdLLGKoBojo "I lost $100M"
+(★ rhetorical career-AGGREGATE of 11 mistakes — ~$15M vendor lie, ALAN software, crypto, and the
+"biggest Kahuna" 2019 Gym Launch pricing change [~$5M/yr] — explicitly order-of-magnitude, NOT a
+verified ledger), M4evdxF5G0s "find your purpose" (★ meaning-over-happiness, be-useful, work-as-goal,
+"you create passion you don't find it" — bio surfaced a ⚠️ "Tufts writing scholarship" that conflicts
+with the usual Vanderbilt/Tennessee frame → logged in gaps), oys_fv25SYM "advice when broke" (★ radical
+accountability, dates ANGER as a PAST driver [belief-evolution datapoint]; rich bio: state-record
+powerlifter, 6 gyms by 26, $4M/mo, $200 first check, age-19 essay that shifted his mother relationship),
+HVOubeXUcx0 "7.8M followers in 40mo" (★ the 6 content shifts, 2B impressions — dup audience-growth),
+Z2tgZC_XkT4 "10x with influencers" (★ super-influencer-process pick→talk→promote). KEY dedup finding:
+IFpHasZ7jN4 "54.1% first dollar" is the ORIGINAL Skool-thesis upload (2024-04-19); the @TheSkoolSchool
+LgmiVRU7j2E (2025-01) is the later re-upload subset — and this original is RICHER (golden ratio, EV
+multiples). UxQJ64BNuco "haters guide" = long-form parent of rko5QoAhfEU. sPkMHh8zTMI 7-ways-buy-more
+feeds retention (churn 11→6%). Ledger: L2=389. Next: continue @AlexHormozi P2 (286 left).
+
 ## [2026-07-09] lint | Synthesis pass 9 — 3 new topics + beliefs 47src + system-prompt v11
 
 Loop iteration 46 (synthesis). Cleared the L3-cand backlog via 4 parallel agents + recompile:
