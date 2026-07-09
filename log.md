@@ -3709,3 +3709,31 @@ L2.
 
 Ledger 8->L2 (L2 now 1,123). youtube-index/index/footer updated. @MoreMozi P2: ~1,314 rows remain.
 Synthesis notes: useful self-criticism/ambition-over-belonging; lawn-care supply constraint/pricing power/paired KPIs/culture enforcement; social pushback as indicator/top-of-their-mountain; thought-action gap/pulling-thread/personal power/preparation-vs-routine; content-and-ads merge/proof-led demand generation; marketing ethics/state-facts-tell-truth/voluntary exchange/money belief; poor-vs-rich contentment/hedonic adaptation; authenticity think-say-do/no social obligations/integrity.
+
+## [2026-07-09] ingest | yt batch 145 - @MoreMozi P2 (2026-05-10 to 2026-05-11), 8 videos
+
+Fifty-eighth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-11** `yt-wO_-VlLESPM` "The Delay Between Being a Winner and Winning" - inputs:
+  delayed feedback, input-over-output, self as goal, and identity-based reinforcement.
+- **2026-05-11** `yt-mY1rEQmuaX8` "Why Most People Don't Win" - identity:
+  excuses, doing-first identity, action before confidence, and rejection of be-do-have.
+- **2026-05-11** `yt-F5Bc0HGYhDU` "I'm in my 20s and want to make millions  What should I do" - career:
+  earn-and-learn, 1-3 years in the target industry, models, and gym apprenticeship self-report.
+- **2026-05-11** `yt-DGxhtMFtqfA` "The Bar For Excellence Is Embarrassingly Low" - excellence:
+  consistency, boring work, timer-based time-on-task, preparation, and starting as productivity hack.
+- **2026-05-11** `yt-Gqlhv7GiL0I` "Watch this if you're working hard, but not making progress" - focus:
+  salon vs ring, one-time product economics, narrow scope, and viral coefficient.
+- **2026-05-10** `yt-pL5gm590QyY` "The One Thing Most People Don't Realize About Their Time" - time:
+  calendar wealth, time as currency, delayed outcomes, and visualization as feedback substitute.
+- **2026-05-10** `yt-h6uG_5LMmfw` "How to Sell a $30K Offer With a 50% Close Rate" - high ticket:
+  parent buyer, ascension timing, midpoint calls, VSL preframe, and half-now/half-placement structure.
+- **2026-05-10** `yt-sfaw7wmGfls` "We Have No Idea What These Drugs Do to Kids" - caution:
+  psych-drug concern, short-term optimization, controllable games, father's game-selection saying, and brand-over-money metric.
+
+Ledger 8->L2 (L2 now 1,131). youtube-index/index/footer updated. @MoreMozi P2: ~1,306 rows remain.
+Synthesis notes: winner-delay/input-over-output/self-as-goal; excuses/doing-first identity/action-before-confidence; earn-and-learn/industry apprenticeship/gym biography; consistency/boring-work/timer/time-on-task/start-working; focus/narrow-scope/viral-coefficient; calendar wealth/time currency/delayed outcomes; high-ticket ascension timing/parent buyer/payment structure; psych-drug medical-caution/short-term optimization/controllable games/brand-over-money.

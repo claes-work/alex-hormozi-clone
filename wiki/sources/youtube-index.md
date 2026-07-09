@@ -583,6 +583,9 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-03 | [[2026-04-03-yt-W0Xw3-gAsJ8]] | Law firm $24M — focus, open more offices (light) | |
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
 | 2026-04-28 | [[2026-04-28-yt-_TZEJAYUeCo]] | Roadmap $0→$10M — stage ladder + the "$3M three boxes" | ★ |
+| 2026-05-10 | [[2026-05-10-yt-pL5gm590QyY]] | Time ownership - calendar wealth, time currency, delayed outcomes, visualization | ★ |
+| 2026-05-10 | [[2026-05-10-yt-h6uG_5LMmfw]] | 30K offer - parent buyer, ascension timing, VSL, half now half placement | ★ |
+| 2026-05-10 | [[2026-05-10-yt-sfaw7wmGfls]] | Brain meds caution - psych drugs for kids, short-term optimization, controllable games | ★ |
 | 2026-05-11 | [[2026-05-11-yt-LEzBAtQA060]] | Peace of mind - values indicator, VC bash clip, reputation over viral reach | ★ |
 | 2026-05-11 | [[2026-05-11-yt-qoi5W6xGjDM]] | Start first hour - work needs doing, 20h proficiency, shrinking action delay | ★ |
 | 2026-05-11 | [[2026-05-11-yt-sZOjZkivEVc]] | Self-criticism - ambition over belonging, accepting useful criticism | ★ |
@@ -593,6 +596,11 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-11 | [[2026-05-11-yt-SzrK_j2oNcY]] | Marketing ethics - state facts and tell truth, voluntary exchange, money belief | ★ |
 | 2026-05-11 | [[2026-05-11-yt-97EW_Q39pNc]] | Contentment - poor vs rich happiness, wants irrelevant, hedonic adaptation | ★ |
 | 2026-05-11 | [[2026-05-11-yt-3ToMCkWz4w4]] | Authenticity - think/say/do alignment, no social obligations, honest no | ★ |
+| 2026-05-11 | [[2026-05-11-yt-wO_-VlLESPM]] | Winner delay - input over output, delayed feedback, self as goal | ★ |
+| 2026-05-11 | [[2026-05-11-yt-mY1rEQmuaX8]] | Most don't win - excuses, doing-first identity, action before confidence | ★ |
+| 2026-05-11 | [[2026-05-11-yt-F5Bc0HGYhDU]] | 20s millions - earn and learn, 1-3 years industry, gym apprenticeship | ★ |
+| 2026-05-11 | [[2026-05-11-yt-DGxhtMFtqfA]] | Excellence bar - consistency, boring work, timer, prep, start working | ★ |
+| 2026-05-11 | [[2026-05-11-yt-Gqlhv7GiL0I]] | Focus trap - salon vs ring, one-time product, narrow scope, viral coefficient | ★ |
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
 | 2026-05-12 | [[2026-05-12-yt-8TVWULd5a8M]] | Agency churn - ICP segmentation, minnows vs whales, churn tracking, AI delivery | ★ |
 | 2026-05-12 | [[2026-05-12-yt-m9dbNDHrQYk]] | Marketing system - core function, PPC vendor first, local social in-house, agency transfer | ★ |
@@ -1153,7 +1161,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,123 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,409 total, including P2 (~1,387, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,131 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,401 total, including P2 (~1,379, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
