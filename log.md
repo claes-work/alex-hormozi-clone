@@ -3001,3 +3001,28 @@ during caption fetch and remain open for retry; the 8 successful rows were inges
 
 Ledger 8→L2 (L2 now 917). youtube-index/index/footer updated. @MoreMozi P2: ~1,522 rows remain.
 Synthesis notes: pick-your-price/free-goodwill offer; restaurant product-led growth; prospect-wallet high-ticket pricing and absolute profit; bedtime as high-leverage discipline; count-in-hundreds work standard and Money Models drafting facts; AI/TikTok Shop/social opportunity framing; top-down high-end positioning; affiliate activation economics and authority-content funnel.
+
+## [2026-07-09] ingest | yt batch 119 — @MoreMozi P2 (2026-05-30 to 2026-05-31), 8 videos
+
+Thirty-second resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again
+during caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-05-31** `yt-LOSLhlb5GKM` "You're Not a Victim of Your Circumstances. Keep Going." — mindset:
+  no-work-wasted frame, work-as-skill-builder, and self-reported gym/partner-loss story.
+- **2026-05-31** `yt-5xWG6jb6vB8` "Why I Hate the Word 'Mindset" — definitions:
+  language as behavior, social reinforcement of vague words, and logic/evidence/utility.
+- **2026-05-31** `yt-xyKwap1p3rU` "the lonely chapter" — lonely path:
+  self-rooting before support arrives, epic-story decision razor, and breadcrumb media strategy.
+- **2026-05-31** `yt-Qq-iYKtyF0U` "You Don't Need 2x More Effort, You Need 10x" — leverage:
+  input-output equation, 10x input, and giving up control to multiply output.
+- **2026-05-31** `yt--aX5ccYfVHU` "Focus Is a Daily Fight, Not a One-Time Win" — focus:
+  daily no discipline, opportunity downsides, procedural knowledge, and hard ending three ways.
+- **2026-05-30** `yt-dW27orkcmG4` "Don't Worry About What You're Earning, Worry About What You're Lear..." — sales:
+  high-volume feedback loops and learning over earning.
+- **2026-05-30** `yt-glx-N7CMbqA` "The Actual Definition of Trauma, and How to Stop Using It as an Excuse" — mindset:
+  trauma as permanent behavior change after aversive stimulus and adaptability.
+- **2026-05-30** `yt-85HElwKCAPY` "Why You're Not Burnt Out (You're Just Weak)" — work capacity:
+  burnout vs adaptation, recoverability as trainable, and action over thought.
+
+Ledger 8→L2 (L2 now 925). youtube-index/index/footer updated. @MoreMozi P2: ~1,514 rows remain.
+Synthesis notes: no-work-wasted/work-works-on-you plus gym partner-loss self-report; definitions/language-as-behavior; lonely-path self-rooting and epic-story razor; input-output equation and leverage by relinquishing control; focus as daily no discipline plus declarative/procedural knowledge; high-volume sales feedback loops; trauma as behavior-change definition; burnout/work-capacity adaptation and action-over-thought frame.
