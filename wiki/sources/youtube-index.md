@@ -588,6 +588,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
 | 2026-06-04 | [[2026-06-04-yt-B7P5WCVfnPE]] | First high-ticket sale — $6k quote → $60k morning (bio) | ★ |
 | 2026-06-06 | [[2026-06-06-yt-Uw9weyjJL1A]] | "Raising $100M kicked out" — ⚠️ coaching case, NOT Alex bio (title mismatch) | |
+| 2026-06-09 | [[2026-06-09-yt-g2i-aBfWfvA]] | IG organic consulting — 20K leads/month, DM setter bottleneck | ★ |
+| 2026-06-09 | [[2026-06-09-yt-lCmdlNNJkBw]] | Restaurant consulting duplicate — logic/evidence/utility + good friction | |
+| 2026-06-09 | [[2026-06-09-yt-0coMtm_i1UA]] | White-label PR — agency distribution journey, SMB volatility, retention stack | ★ |
+| 2026-06-09 | [[2026-06-09-yt-KztNWHJLip8]] | LinkedIn agency — founder-brand DM risk as ICP/mechanism/sales objection | |
+| 2026-06-09 | [[2026-06-09-yt-j7JGiFKooD4]] | Alex+Leila learning — replicate before iterate; shared inputs; integrity story | ★ |
+| 2026-06-10 | [[2026-06-10-yt-byOtAjKH-RA]] | Manufacturing — sales/marketing first to fund future facility move | ★ |
+| 2026-06-10 | [[2026-06-10-yt-EIlXNKmHK20]] | Experiential marketing — agencies/producers as compounding distribution nodes | ★ |
+| 2026-06-10 | [[2026-06-10-yt-hbRuTx98gM0]] | Accounting education — software multiple warning; partner before build | ★ |
 | 2026-06-10 | [[2026-06-10-yt-kYUXKevbChg]] | BCBA test prep — document earnings lift, university exclusivity, job-board proof | ★ |
 | 2026-06-10 | [[2026-06-10-yt-pobfyHIItag]] | Pizza shop — nail-then-scale, GM absence test before location two | ★ |
 | 2026-06-10 | [[2026-06-10-yt-960cDVNgTC8]] | Multifamily broker — Sharran-led buyer/community advice; Alex scarce-resource gating | |
@@ -875,7 +883,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_845 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,689 total, including P2 (~1,667, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_853 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,681 total, including P2 (~1,659, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

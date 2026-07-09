@@ -2764,3 +2764,28 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 845). youtube-index/index/footer updated. @MoreMozi P2: ~1,594 rows remain.
 Synthesis notes: delivery decreases and mission-integrity expectation resets; talent acquisition as capital/resource allocation; wrong-bait content reframing under interest media; earnings-outcome proof and university exclusivity; brick-and-mortar GM absence test; Sharran-attributed motivated-buyer/community strategy with Alex-attributed scarce-resource gating; logic/evidence/utility diagnostic; VSL pre-framing, good friction, fast-cash activation, and action-contingent guarantees.
+
+## [2026-07-09] ingest | yt batch 110 — @MoreMozi P2 (2026-06-09 to 2026-06-10), 8 videos
+
+Twenty-third resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-10** `yt-byOtAjKH-RA` "Move the Factory or Fix Sales First?" — manufacturing:
+  sales/marketing first to free cash for a future facility move and EBITDA recapture.
+- **2026-06-10** `yt-EIlXNKmHK20` "We're posting and praying': A $13M CEO With No Metrics" — experiential marketing:
+  measure acquisition and treat agencies/producers as compounding distribution nodes.
+- **2026-06-10** `yt-hbRuTx98gM0` "How to Sell Your Education Business for 8 Figures" — accounting education:
+  software does not create a software multiple; partner with sticky software or build only with exceptional economics.
+- **2026-06-09** `yt-g2i-aBfWfvA` "$300K/Month With 80% Margins on Instagram Organic" — consulting:
+  do not downshift to low-ticket; work the 20K+ monthly IG leads with more DM setters.
+- **2026-06-09** `yt-lCmdlNNJkBw` "We Have More Demand Than We Can Handle. How Do I Get to $10M?" — near-duplicate
+  restaurant consulting clip: logic/evidence/utility, VSL pre-frame, good friction, and fast-cash activation.
+- **2026-06-09** `yt-0coMtm_i1UA` "How to Scale a White Label Agency Past $1.5M" — white-label PR:
+  agency distribution journey, SMB volatility, low-base/usage pricing, and 80% agency retention.
+- **2026-06-09** `yt-KztNWHJLip8` "Why Most Agency Founders Never Break $1M" — LinkedIn agency:
+  founder-brand DM risk as ICP choice, mechanism redesign, or objection to sell through.
+- **2026-06-09** `yt-j7JGiFKooD4` "Why We Refused to Join the $100K Club" — Alex+Leila learning:
+  replicate before iterate, buy access to pay down time, share inputs, and protect integrity as a package deal.
+
+Ledger 8→L2 (L2 now 853). youtube-index/index/footer updated. @MoreMozi P2: ~1,586 rows remain.
+Synthesis notes: future-vs-current constraint sequencing with capital availability; distribution nodes for episodic work; software-multiple criteria and partner-before-build path; DM-setter capacity in organic funnels; duplicate good-friction/VSL material; SMB volatility transmitted to vendors; agency distributor retention target; founder-brand objection handling; replicate-before-iterate learning philosophy and shared-input/integrity relationship material.
