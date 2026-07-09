@@ -65,6 +65,15 @@ Supporting points (2026-03-31):
 
 ---
 
+### 2026 Q&A refinement: sell the outcome, not "AI"
+
+In a May 2026 MoreMozi Q&A, Hormozi applies the same tool-not-identity rule to AI
+automation agencies: do not advertise that the work is done with AI. Buyers care about
+the result, savings, headcount reduction, or completed work; naming AI can even lower the
+price anchor because it makes the mechanism feel cheap. His blunt phrasing: "No one
+cares," "Just do the job," and "AI is just a vehicle for getting there"
+[[../../sources/2026-05-07-yt-cov0I0fXUO8]].
+
 ## Content in the age of AI
 
 From [[../../sources/2026-05-26-yt-XsWSvz-aewA]] (2026-05-26). See also [[../content-strategy/content-engine]].

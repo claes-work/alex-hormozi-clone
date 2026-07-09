@@ -195,6 +195,25 @@ making the buyer feel they received a deal [[../../sources/2026-06-11-yt-GMiOc8R
 
 ---
 
+## 2026 Q&A refinements: outcome pricing and bespoke luxury
+
+**Stop selling hours; sell the quantified result.** In a data-consulting coaching cut,
+Hormozi identifies hourly billing as the obvious constraint. His replacement is ROI
+positioning: publish content about the business benefit of data, offer a high-value
+five-call diagnostic to qualified companies, describe the outcome rather than explaining
+the technical process, then close with a calculator that estimates savings or efficiency
+gain. His ceiling heuristic for a result-based service is roughly **30% of the created
+result** [[../../sources/2026-05-07-yt-BsIA4q0IkcA]].
+
+**Bespoke ultra-high-net-worth services may not fit a tidy ladder.** In a luxury
+wellness/interior-design call, he says a three-tier ladder with small jumps is too
+cosmetic for rich buyers. For bespoke work, they want options, flexibility, speed, and
+not having to redo work; price can be calculated internally while the buyer-facing frame
+uses overall project expectation, estate size, or a custom quote. A small annual
+continuity plan can function like insurance/strategy: low compared with the project, but
+it keeps the relationship alive so "small jobs get the big jobs"
+[[../../sources/2026-05-08-yt-XJ_-7_9x9XE]].
+
 ## See also
 
 - [[business-math]] — the quantitative counterpart (margins, unit economics, take-home math)

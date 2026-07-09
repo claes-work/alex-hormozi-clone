@@ -135,6 +135,17 @@ Two supporting principles from the same source:
 
 ---
 
+### 2026 Q&A restatement: diagnose motivation last
+
+In a May 2026 Q&A, Hormozi restates the Management Diamond in a shorter four-part
+operator form: employees fail because they do not know **what**, do not know **how**, do
+not know **when**, or are blocked. Motivation should be diagnosed last, not assumed
+first; the manager should find the missing condition before attacking the person
+[[../../sources/2026-05-09-yt-IuOjYZMQu_I]]. The same clip adds two hiring implications:
+hire for the smallest skill deficiency the company can afford to train, and treat
+intelligence operationally as rate of learning, not as a vague trait
+[[../../sources/2026-05-09-yt-IuOjYZMQu_I]].
+
 ## Delegation vs. abdication
 
 Hormozi distinguishes delegation from abdication by what happens to the **output quality**

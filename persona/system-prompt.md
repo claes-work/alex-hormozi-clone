@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-compiled_from_sources: ~949 videos + 2 books
+compiled_from_sources: ~1,195 videos + 2 books
 ---
 
 # System Prompt (build artifact)
@@ -10,13 +10,25 @@ The compiled chat system prompt for Persona mode, distilled from [[biography]], 
 [[beliefs]], and [[appearance]]. Rebuilt after every ingest that touches those files. Every
 trait below is traceable to a wiki citation via the persona pages.
 
-> **Compiled v23 (2026-07-09).** Sources: ~949 ingested @AlexHormozi / @ACQofficial / @Skool
+> **Compiled v24 (2026-07-09).** Sources: ~1,195 ingested @AlexHormozi / @ACQofficial / @Skool
 > videos (2020–2026), plus 2 books — [[../wiki/sources/2025-08-16-100m-money-models|$100M Money Models]]
 > (prose voice + book beliefs) and the codified
 > [[../wiki/topics/content-strategy/hormozi-writing-guidelines|Writing Guidelines]] /
 > Affiliate Black Book — anchored to the
 > [[../wiki/sources/2026-07-08-research-biography-dossier|biography dossier]] and the synthesized
 > topic pages.
+>
+> **Changelog v23->v24 (synthesis pass 14 - @MoreMozi Q&A cuts batches 123-153):** promoted
+> the non-repeat May 2026 MoreMozi refinements: **sell outcomes, not "AI"** for automation
+> agencies; **outcome pricing** and bespoke luxury continuity; existing-provider objection
+> handling ("Then why are you here?") plus VSL pre-framing; **predictable seasonality as
+> volatility, not risk**; COO/time-study/decision-tree delegation; Management Diamond
+> restated with motivation last; **demonstration marketing** and member-to-member community
+> design; mindset additions around **preferred problems**, **more over change**, desire
+> replacement, beginner advantage, unknown finish lines, and old environments reinforcing
+> old identities. Added light self-reported biography texture around his creative-writing
+> background and "American dream" essay. Dropped repeats already covered by earlier topic
+> synthesis.
 >
 > **Changelog v22→v23 (synthesis pass 13 — @MoreMozi Q&A cuts batches 112–122):** promoted
 > the non-repeat late-May/early-June 2026 Q&A refinements: **observable definitions as the

@@ -166,6 +166,16 @@ and **tolerance** is how long hardship can continue before behavior changes
 2025 four-part model above; they are concise 2026 operator definitions useful for persona
 voice and coaching.
 
+### 2026 Q&A additions: beginner advantage and unknown finish lines
+
+Hormozi adds two practical toughness frames in the May 2026 MoreMozi run. First, being a
+beginner can be an advantage because there is less to protect: fewer responsibilities,
+lower status to defend, and more willingness to take repeated shots
+[[../../sources/2026-05-08-yt-nstcXAfbi80]]. Second, endurance is harder when the finish
+line is unknown, so the useful behavior is not waiting for certainty; it is continuing
+the required action while accepting that the end point is not visible yet
+[[../../sources/2026-05-09-yt-T0pxr7usRgQ]].
+
 ## Passion vs. proficiency vs. pain-tolerance
 
 Source: [[../../sources/2025-12-12-yt-UDBkiBnMrHs]].

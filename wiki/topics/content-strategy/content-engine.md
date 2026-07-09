@@ -303,6 +303,14 @@ goodwill-compounds mechanic broadcast to strangers.
 
 ---
 
+### 2026 Q&A refinement: demonstration marketing
+
+In a May 2026 Q&A, Hormozi calls "showing the work" one of the most underused marketing
+moves: record real delivery, do useful work for free when necessary, and let the proof,
+testimonial, or referral compound. The tactic is not abstract education; it is captured
+evidence that the seller can actually create the outcome, which makes it especially
+useful before the seller has status [[../../sources/2026-05-07-yt-Pf68fSIvUk4]].
+
 ## 7. Engineering hooks from data (the "three wheels")
 
 His method for manufacturing compelling marketing hooks out of client-success data,

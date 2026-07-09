@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 48
+sources: 52
 ---
 
 # Biography
@@ -69,6 +69,12 @@ All-Stars gift**, the late-August-2021 **Alex + Leila wills leaving the estate
 criticism datapoint [[../wiki/sources/2021-08-25-yt-RzswhUHnTHA]]
 [[../wiki/sources/2021-08-30-yt-R9gHvJxHRhA]]
 [[../wiki/sources/2021-11-22-yt-sGHbp0Vr1dQ]].
+Synthesis pass 14 (2026-07-09) added lighter MoreMozi Q&A personal texture rather than
+new registry facts: the self-reported creative-writing scholarship he did not take, the
+essay title **"Everyone believes in the American dream until it comes true"**, the
+underdog-to-resentment interpretation of his gym-floor story, and his 2026 framing that
+old environments reinforce old identities [[../wiki/sources/2026-05-08-yt-_Gj9qMJ3jTk]].
+These remain self-reported color, not independent biography.
 
 ## Timeline
 

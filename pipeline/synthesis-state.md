@@ -6,17 +6,23 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 122** — synthesis pass 13, system-prompt **v23** (2026-07-09).
+Synthesized through: **batch 153** — synthesis pass 14, system-prompt **v24** (2026-07-09).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-- [ ] **@MoreMozi Q&A cuts — batches 123–153** — ~31 ingest batches (~300 videos) accumulated after
-      the batch-122 high-water mark during the 2026-07-09 Codex run. L2 source pages exist; not yet
-      promoted to topics/persona. Drain via `python tools/synthesis_batch.py prepare`.
+_(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 123-153** — synthesis pass 14 (2026-07-09) →
+      system-prompt **v24**. Promoted outcome-not-AI positioning, outcome/bespoke pricing,
+      existing-provider objection handling, VSL pre-framing, predictable seasonality as
+      volatility-not-risk, COO/time-study/delegation diagnostics, Management Diamond
+      motivation-last restatement, demonstration marketing, member-to-member community design,
+      preferred-problems decisions, more-over-change, desire replacement, beginner advantage,
+      unknown-finish-line endurance, and light self-reported creative-writing biography texture.
+      Dropped repeats already covered by existing topic pages.
 - [x] **@MoreMozi Q&A cuts — batches 112–122** — synthesis pass 13 (2026-07-09) →
       system-prompt **v23**. Promoted observable definitions / behavior-first language,
       data-first and roles-to-workflows AI, AI-era curation/community/consumables,

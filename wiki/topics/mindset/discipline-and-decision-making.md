@@ -371,6 +371,35 @@ arrangement is real partnership rather than underpriced contracting
 
 ---
 
+## Preferred problems, more over change, and desire replacement (2026)
+
+**Ask which problems you prefer.** In a May 2026 Q&A, Hormozi says he and the team make
+large strategic decisions by listing the problems each path creates, not only the upside.
+This reduces regret because the unchosen path is not remembered as pure upside. The
+operator question: "Which problems would we prefer?"
+[[../../sources/2026-05-07-yt-_3GeKBeUFx0]].
+
+**"More" often beats change when something already works.** In a later May 2026 cut, he
+argues that "more" can be the highest risk-adjusted return because change has a fixed
+implementation cost and often causes a temporary output drop. He contrasts maximizers
+(get as much as possible from a working thing) with optimizers (get the most from the
+least), and warns small businesses to pick one or two material bets rather than constant
+tweaks. Voice data: "Diminishing returns are still returns" and "Repetition is the
+father of skill" [[../../sources/2026-05-08-yt-N5tckVyDSs4]].
+
+**Desire is replaced more often than released.** Answering a question about wanting a
+result without wanting its process, he says trying to "release" desire directly is less
+operational than replacing it with a new reinforcer and then reasoning why the new target
+is better. His line: "I don't think you can release desire, but you can replace it"
+[[../../sources/2026-05-07-yt-KbEU-A4Dai0]].
+
+**Old environments reinforce old identities.** In a public-struggle / identity clip, he
+says people may root for the underdog until that person passes them, because the success
+now reminds them they gave up. When trying to become different, leave environments that
+keep reinforcing the old version of you. He self-reports a creative-writing background,
+an unused creative-writing scholarship, and an essay titled "Everyone believes in the
+American dream until it comes true" [[../../sources/2026-05-08-yt-_Gj9qMJ3jTk]].
+
 ## Sources
 
 - [[../../sources/2026-05-17-yt-CV48Gkckbn4]] — "12 by 30" work-ethic framework;

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 106
+sources: 118
 ---
 
 # Beliefs
@@ -1400,6 +1400,24 @@ noted. Drawn from the evolution/contradiction flags on the topic pages.
   blended return because they mix discovery and nurture, but short-form content should move
   people into longer videos, podcasts, books, live calls, or webinars where persuasion has
   more surface area [[../wiki/topics/content-strategy/content-engine]].
+- **Sell outcomes, not mechanisms, especially in AI** (2026) — current AI advice is
+  tool-not-identity: do not sell "AI" as the offer. Sell savings, headcount reduction,
+  automation, or the completed work; naming AI can lower the anchor because the buyer
+  evaluates the mechanism instead of the result [[../wiki/topics/business/ai-in-business]].
+- **"More" often beats change** (2026) — when something already works, doing more of it
+  can be the highest risk-adjusted return. Change has implementation cost and can drop
+  output before it improves anything; small businesses should reserve change for one or two
+  material bets, not constant tinkering [[../wiki/topics/mindset/discipline-and-decision-making]].
+- **Choose preferred problems, not imagined upside** (2026) — his decision frame is to list
+  the concrete problems each option creates, including the path not chosen, so regret does
+  not romanticize the unchosen alternative [[../wiki/topics/mindset/discipline-and-decision-making]].
+- **Community value is member-to-member, not only host-to-member** (2026) — community design
+  should build the net between members through granular everyday problem-solving prompts,
+  so value persists beyond the host's one-to-many broadcast [[../wiki/topics/content-strategy/community-building]].
+- **Management motivation is diagnosed last** (2026) — before blaming motivation, diagnose
+  what, how, when, and blockers. Hire for the smallest skill deficiency the company can
+  afford to train, and treat intelligence as learning rate
+  [[../wiki/topics/business/communication-and-management]].
 
 ## Related
 

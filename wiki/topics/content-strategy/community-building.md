@@ -328,6 +328,17 @@ started with **time instead of capital**. (paraphrase)
   content that incentivizes sharing/referrals. ([[../../sources/2025-03-27-yt-C6d4BEyYszo]],
   paraphrase; promotional)
 
+### 2026 Q&A refinement: build the net between members
+
+In a May 2026 community-coaching clip, Hormozi sharpens the engagement mechanism:
+community value should not be one-to-many broadcast from host to members; it should build
+"the net between" members. He recommends prompts and threads around the granular everyday
+problems unique to the group. For a remote-worker / global-adventurer community, examples
+include "picture of your work desk," visas, Airbnbs, Wi-Fi, international connectivity,
+and other logistics where members can help each other. The durable loop is
+member-to-member reinforcement that survives even when the host is less central
+[[../../sources/2026-05-07-yt-IkRG1lha-GU]].
+
 ---
 
 ## The "community as skeleton key" — access leverage

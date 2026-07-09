@@ -493,6 +493,31 @@ clear, durable, and not merely a disguised contractor fee [[../../sources/2026-0
 
 ---
 
+## 9c. More vs. novelty: volatility, delegation, and faster second businesses
+
+**Predictable seasonality is volatility, not risk.** In a premium-catering coaching clip,
+Hormozi tells the owner that seasonality may be a feature of the industry, not a problem
+requiring a new business. If weak months are predictable and the company is profitable
+year-round, the better constraint move is to do more of what already works (e.g. PPC and
+Meta) rather than launch an adjacent corporate-catering line. His summary: "Volatile but
+not risky" and "If you can double the business doing one thing, why do four?"
+[[../../sources/2026-05-06-yt-PgohOZaYOpU]].
+
+**Do not hire a "COO" as a junk drawer.** In a hunting/fishing retail call, he warns that
+a head-of-ops role becomes a junk drawer unless the owner first runs a one-to-two week
+time study in 15-minute increments, groups the recurring tasks, trains the existing team,
+and writes decision trees plus decision boxes for money/severity thresholds. The
+sellable-business tradeoff: the owner may lose more money short term while the team
+learns, but that is the price of removing owner dependence
+[[../../sources/2026-05-08-yt-tR8F6FYwgNk]].
+
+**Later businesses can grow faster because the founder sees talent patterns faster.**
+Hormozi distinguishes product-market work from pattern recognition in people: once the
+operator has seen enough roles and failure modes, a second business can assemble the
+right people faster than the first. This is not magic compounding; it is reused judgment
+about who belongs in which seat and what a role should produce
+[[../../sources/2026-05-08-yt-JgzGbEkr_yM]].
+
 ## Cross-cutting throughlines
 
 - **Get the owner out of the business.** "Scale zero" (§3), "getting the owner out of

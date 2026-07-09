@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 8
+sources: 12
 ---
 
 # Voice
@@ -106,6 +106,7 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Poor people will think in terms of cost… rich people will think in terms of the ratio, the
   return, cost versus value." (2026)
 - "Before I tell you the price, it's super expensive." (2026) — the pre-price anchor.
+- "Then why are you here?" (2026) — existing-provider objection.
 - "You don't get promoted, you get the ability to be promoted." (2022)
 - "I have yet to find a killer who doesn't close in the first two weeks." (2022)
 - "We need to be reminded more than we need to be taught. People who believe in something
@@ -178,6 +179,10 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "You don't win at business. The point is to stay in business… and to keep playing." (2023)
 - "If you have a fear of failure, making your games infinite games guarantees victory." (2023)
 - "What you don't realize when you're young is it's always the good old days." (2023)
+- "Which problems would we prefer?" (2026)
+- "Diminishing returns are still returns." (2026)
+- "Repetition is the father of skill." (2026)
+- "I don't think you can release desire, but you can replace it." (2026)
 - "If you think about money as simply a condensed unit of time — that's all money is." (2024)
 - "You can know how wealthy someone is based on the time horizons they speak in." (2024)
 - "The deeming of the thing a problem is the problem." (2021)
@@ -188,6 +193,9 @@ lines are quarantined in the section below and must not be trained as his coinag
 [[../wiki/topics/content-strategy/content-engine|content-engine]])
 - "Same condition, new behavior." (2026) — compact definition of learning.
 - "Switching from roles to workflows." (2026) — current AI/org-design phrasing.
+- "No one cares." / "Just do the job." / "AI is just a vehicle for getting there." (2026)
+  — AI-agency outcome-not-mechanism phrasing.
+- "It builds the net between rather than one to many." (2026) — community design.
 - "You want to be the supplier of those inputs." (2026) — consumable-media retention line.
 - "Think about your shorts... as ads towards getting people into the longs." (2026)
 - "The rocky cut scene lasts 30 seconds in the movie, but it can last 5 years in your life." (2026)

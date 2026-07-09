@@ -576,6 +576,19 @@ buyers while making the offer feel less risky to people willing to do the work
 
 ---
 
+**Existing-provider objections return to dissatisfaction.** In a May 2026 Q&A, he gives
+the compact answer to "we already work with someone": ask why the prospect is on the call
+if they are satisfied. The line is direct voice data: "Then why are you here?" The move
+is not to attack the incumbent; it re-centers the prospect's stated reason for seeking
+help and exposes the dissatisfaction that created the conversation
+[[../../sources/2026-05-06-yt-kwAg8D95ktE]].
+
+**The sale starts at first interest.** In the same Q&A, he says ghosting after an
+apparently good call often means the seller skipped the pre-sale frame. A VSL or other
+pre-call asset should frame the seller, proof, conversation, and buying decision before
+the live close; otherwise the call has to do too much trust-transfer work at once
+[[../../sources/2026-05-06-yt-kwAg8D95ktE]].
+
 ## Related pages
 
 - Hub: [[business]]
