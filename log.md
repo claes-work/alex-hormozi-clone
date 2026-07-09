@@ -18,6 +18,24 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — his very first uploads: exit reflection + NEW religion bio (L2=517)
+
+Loop iteration 69. 8 @AlexHormozi P2 (early March 2022 — his VERY FIRST uploads; kX2EJSwOCug 2022-03-02
+may be his first video). 2 L3-candidates: Ec41cSp_tWc "why direct-response marketers get rich, not
+wealthy" (★ a clean income-vs-asset thesis — DR extracts capital today and caps you at your goodwill
+balance, while BRANDING compounds because goodwill compounds faster than revenue; the difference is the
+time horizon you measure ROI over → income-vs-asset / branding-vs-direct-response), RBR4BwOVNvs "I sold
+everything" (★ the 2021 exit reflection — sold a $12M business [ALAN inferred] + two businesses for just
+under $50M [Gym Launch + Prestige = ~$46.2M to APG] + two exotic cars + a $4M Austin house, kept only
+equities; ~9 months living out of bags at $50-100k/mo; just bought an 8-figure mountain home-base;
+portfolio ~$85M/yr as of Mar 2022; "function over form" spending). **NEW BIOGRAPHY: he was a born-again
+Christian at ~19-20, studied apologetics ~5 years, then lost his faith** (from j536U19iTwk — a Graham
+Stephan podcast cut; clips kX2EJSwOCug + j536U19iTwk are both from that ~2-hr podcast, non-Alex hosts
+flagged). More bio: $100M net worth at 32; Vanderbilt 1.9→3.2 first-year GPA (father threatened to pull
+him); a nasal/breathing problem since 8th grade + later surgery; 7+ executive assistants over a decade.
+Rest L2 (biggest-mistake-20s [reputation], how-to-get-what-you-want [be-do-have], 55-sleep-hacks,
+what-millionaires-know [ideal-scene/ignorance-tax]). Ledger: L2=517. Next: continue @AlexHormozi P2 (158 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — earliest uploads: invest-criteria + first-sale turning point (L2=509)
 
 Loop iteration 68. 8 @AlexHormozi P2 (Mar-Apr 2022 — his EARLIEST uploads; channel began ~March 2022,
