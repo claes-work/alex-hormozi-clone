@@ -4497,3 +4497,30 @@ community personalization, EV characteristics, and behavior-over-feeling.
 Recompiled persona/system-prompt.md to v26, advanced synthesis high-water mark to batch 174,
 and moved the checkpoint to Done. Dropped pure repeats already covered by earlier MoreMozi
 synthesis passes.
+
+## [2026-07-09] ingest | yt batch 175 - @MoreMozi P2 (2026-04-25 to 2026-04-26), 8 videos
+
+Continued @MoreMozi P2 after synthesis pass 19. The driver selected 10 rows; 8 caption
+fetches succeeded and the same 2 rows remained open for retry (`yt-JfKwIbvdKtA`,
+`yt-EnGrM5slXO4`). All 8 OK rows were Alex-attributed MoreMozi coaching/content clips and
+were ingested as L2.
+
+- **2026-04-25** `yt-BOfa5JxQVSU` - negative motivation, directionally correct action,
+  and evidence-based self-belief.
+- **2026-04-26** `yt-YGWu-R9tMLk` - niche finding as acquiring monetizable skills from
+  basic transferable skills and market demand.
+- **2026-04-26** `yt-tysSBBQLur8` - B2B as distraction when the proven B2C path is not
+  exhausted; constraint = why more cannot scale.
+- **2026-04-26** `yt-R2qzM-0gmec` - medical service scaling via 80%+ margins, commissions
+  as CAC, and same-delivery pricing simplification.
+- **2026-04-26** `yt-bYC4OxZvBpo` - focus as eliminating alternatives, action-over-feeling
+  identity, and experience over opinion.
+- **2026-04-26** `yt-o8z3vFV0GzA` - first-principles opinion ownership and deliberate
+  delegation of thinking outside one's earned expertise.
+- **2026-04-26** `yt-YzrsugIBPIs` - high-leverage behaviors: bedtime alarm, protein,
+  recurring-meal optimization, and dog ownership as focus/travel cost.
+- **2026-04-26** `yt-RrInMZ1uYaM` - mechanic shop scaling: utilization, solve-problem
+  pricing, nail-it-then-scale, and seller-financed retiring-owner acquisitions.
+
+Ledger 8->L2 (L2 now 1,310). youtube-index/index/footer updated.
+Synthesis notes: negative-motivation/directionally-correct/evidence-based-self-belief; niche-as-monetizable-skill-acquisition/basic-skills-to-market-demand; B2B-distraction/exhaust-proven-B2C-path/constraint-is-why-more-cannot-scale; medical-service-80-percent-margin/commission-as-CAC/simplify-same-delivery-pricing; focus-eliminate-alternatives/action-over-feelings/experience-over-opinion; first-principles-opinion-ownership/deliberate-thought-delegation; high-leverage-bedtime-alarm/protein/recurring-meals/dog-focus-cost; mechanic-shop-utilization/solve-problem-pricing/nail-it-then-scale/seller-finance.
