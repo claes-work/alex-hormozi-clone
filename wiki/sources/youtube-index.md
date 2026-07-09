@@ -54,8 +54,16 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-10-18 | [[2021-10-18-yt-O1As2zxy0es]] | Only 4 ways to scale a service biz (chain/franchise/license/software) | |
 | 2021-10-20 | [[2021-10-20-yt-MA-5y9s80Qs]] | Customer-surplus / word-of-mouth virality formula | |
 | 2021-10-25 | [[2021-10-25-yt-neTSqOAMgao]] | Canonical $100M Offers explainer (value equation, 6 channels) — hosted interview | ★ |
+| 2021-10-27 | [[2021-10-27-yt-RpqSy5V1fFQ]] | Unconventional diet — calorie coefficients, protein=bodyweight, sixpack since 13-14 (appearance) | ★ |
+| 2021-11-08 | [[2021-11-08-yt-ErWpi_91b70]] | Why routines make you fragile — anti-rigidity (not anti-habit); "you are source" | |
+| 2021-11-10 | [[2021-11-10-yt-y3T4GqoH0Us]] | #1 in a "saturated" industry — LTV=price/churn, differentiate via retention (bio) | ★ |
+| 2021-11-17 | [[2021-11-17-yt-6ZEZWuVC8-8]] | Time is NOT the most precious resource — attention is; plug leaks, do less | |
+| 2021-11-24 | [[2021-11-24-yt-cX7cCA3Be8A]] | 4 tiny habits (4am / consistent sleep / give-no-expectation / extreme ownership) | |
+| 2021-12-01 | [[2021-12-01-yt-F3NyhOtRpOE]] | Growth levers — "business genie" (price 6x > retention 2x > new-cust 2x); proto-LTGP:CAC | ★ |
 | 2021-12-08 | [[2021-12-08-yt-o7R_K6LwKNk]] | "Why therapists failed me" — strip-meaning mindset (medical-disclaimer caveat) | ★ |
 | 2021-12-10 | [[2021-12-10-yt-7YMjZgr7sHM]] | 4-step framework for hard/irreversible decisions | |
+| 2021-12-17 | [[2021-12-17-yt-oW6JkqL6sdM]] | A doer's approach to procrastination — shrink deadline, collapse OODA | |
+| 2021-12-31 | [[2021-12-31-yt-qxQIcDrre1E]] | 55-min millionaire keynote — 4 scaling frameworks, leverage ladder, "micro slow macro fast" (rich bio) | ★ strong |
 | 2022-01-19 | [[2022-01-19-yt-okA9Yt2KZuk]] | Full sales-team playbook (org chart, comp, CLOSER) — Taki Moore mastermind | ★ strong |
 | 2022-02-16 | [[2022-02-16-yt-kW2vDMAmlPI]] | 3 hiring non-negotiables + trust heuristics | |
 | 2022-03-16 | [[2022-03-16-yt-bHnVItVGJPA]] | Sales = transference of conviction | |
@@ -577,7 +585,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_547 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_555 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

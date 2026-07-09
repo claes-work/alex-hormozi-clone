@@ -1600,3 +1600,42 @@ set L1, notes "429-persistent", excluded from future batch selection until a lat
 
 Ledger 7→L2 (L2 now 547), 1→L1 (429). youtube-index/index/footer updated. **Synthesis backlog:**
 proto-CFA dating; the 4-ways-to-scale-service vehicles (distinct from 5-ways); Cardone-$120k bio beat.
+
+## [2026-07-09] ingest | yt batch 74 — @AlexHormozi origin-era (2021 Oct–Dec), 8 videos
+
+Continued oldest-first P1 (all L2). Closes out 2021 for @AlexHormozi long-form. Two rich long-forms
+(growth-levers keynote + 55-min year-end keynote) are strong L3-candidates.
+
+- **2021-10-27** `yt-RpqSy5V1fFQ` "Unconventional Diet" — ⭐ **appearance/persona:** confirms the
+  bodyweight×coefficient formula (7–10 fast-loss / ~15 maintenance / ~21 gain) + NEW coeff 11 for
+  moderate loss; 100 g protein ≈ 1 lb lean meat → ~2 lb meat/day; his "×5 cal/g" napkin rule;
+  flexible 1/3/5 meals holding protein fixed. NEW bio: six-pack continuously since age 13–14.
+- **2021-11-08** `yt-ErWpi_91b70` "Routines Make You Fragile" — anti-*rigidity/dependence*, NOT
+  anti-habit; continuous with the 2021-07-02 "crutch" thesis. New identity line "you are source,
+  not reaction" flagged for persona/beliefs (L3).
+- **2021-11-10** `yt-y3T4GqoH0Us` "#1 in a Saturated Industry" — differentiate by solving the hard
+  neglected problem (retention), not the crowded one (acquisition); **LTV = price ÷ churn** (3% churn
+  ≈ 3× LTV of the 9% industry avg); consultative community-mining method. **BIO:** CA gym chain 2013,
+  6 gyms by 2016, turnaround stint → licensing → Gym Launch → Acquisition.com "~$85M/yr".
+- **2021-11-17** `yt-6ZEZWuVC8-8` "Time is NOT the Most Precious Resource" — it's **attention**;
+  scaling = plug attention leaks, do less, kill side businesses, focus one thing.
+- **2021-11-24** `yt-cX7cCA3Be8A` "4 Tiny Habits" — (1) wake 4am, (2) consistent sleep/wake incl.
+  weekends, (3) give without expectation, (4) extreme ownership.
+- **2021-12-01** `yt-F3NyhOtRpOE` "Growth Levers" — the **"business genie" money game**: ways to
+  double a business ranked price (~6×) > retention/frequency (~2×+) > new customers (~2×); wrapped in
+  the four-lever offer curriculum. Proto-LTGP:CAC (retention wins, CAC already paid) + proto-constraint
+  (offer-as-master-constraint, no Core Four yet). L3-candidate.
+- **2021-12-17** `yt-oW6JkqL6sdM` "A Doer's Approach to Procrastination" — shrink the deadline
+  (week→day→2hrs), interrogate competing tasks, start on decision; collapse the OODA loop.
+- **2021-12-31** `yt-qxQIcDrre1E` "55 Minutes to be a Millionaire in 2022" — ⭐ flagship keynote:
+  time-allocation is all that matters, leverage multiplies it; the **four scaling frameworks**
+  (entrepreneur / market / deliverable [Labor→Capital→Code→Content ladder] / business [per-revenue-
+  stage acumen]); "micro slow, macro fast." **RICH BIO:** Dec 2016 sleeping at his first gym; full
+  company arc (gyms→turnarounds→Gym Launch→Prestige→ALAN sold ~Oct 2021→photography→Acquisition.com
+  ~$85M/yr); Leila pushed "pick one"; Russell Brunson's mastermind gave him belief to teach not run;
+  ~40 employees at 25; 2021 = "consolidation" season (exited 2 companies, sold house/car). L3-candidate.
+
+Ledger 8→L2 (L2 now 555). youtube-index/index/footer updated. **Synthesis backlog (growing — plan a
+pass ~batch 80):** diet-formula enrichment → appearance.md; "you are source" identity → beliefs;
+attention>time; 4 scaling frameworks + leverage ladder + business-genie → scaling topic; the rich
+Dec-2016/company-timeline bio → biography.md (reconcile with the "softer origin" account from batch 72).

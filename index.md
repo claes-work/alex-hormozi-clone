@@ -13,7 +13,7 @@ _Last updated: 2026-07-08 (first book ingest: $100M Money Models + Affiliate Bla
 
 ### YouTube
 
-- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**547 L2**; all P1 landmark videos across 5 channels complete; @AlexHormozi 2018–2021 origin-era P1/P2 underway). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
+- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**555 L2**; all P1 landmark videos across 5 channels complete; @AlexHormozi 2018–2021 origin-era P1/P2 underway). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
 
 ## Topics
 
