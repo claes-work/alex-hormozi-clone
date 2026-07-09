@@ -4795,3 +4795,26 @@ batch 184. Dropped repeats already covered by prior MoreMozi synthesis passes.
 Ledger 8->L2 (L2 now 1,390). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: emotion-action-separation/game-tape-proof; money-attracts-culture-keeps-A-players/reinforcement-latency; main-game-focus-over-side-hustle-hedges/private-equity-vs-real-estate; hated-job-catalyst/Leila-28-day-launch-hardship; nothing-to-lose-action-threshold/specific-social-fear-voice; large-group-to-small-group-fitness-adjacent-path/limited-entrepreneurial-seasons; negotiation-supply-demand-leverage-before-tactics; buyer-QR-continuity-offer/free-books-membership-incentive.
+
+## [2026-07-09] ingest | yt batch 186 - @MoreMozi P2 (2026-04-17 to 2026-04-18), 8 videos
+
+- **2026-04-18** `yt-LQlVrfTuIqQ` - focus by high-quality no's, behavior-changing data,
+  and the big-domino strategy of making one thing true.
+- **2026-04-18** `yt-oq40TfjbQQ0` - reference groups as comparison targets,
+  spend-now/work-later poverty frame, and bigger-dream advice filters.
+- **2026-04-18** `yt-2KUCKAH0n7M` - ignorance as debt, same work creating more value for
+  richer customers, and the old-car market-selection story.
+- **2026-04-17** `yt-6cmtCJj4rS0` - proof-stack confidence from tiny impulses and small
+  evidence before large wins.
+- **2026-04-17** `yt-QLyGPvXiO8M` - construction niche-down to bathrooms, specific
+  before/after advertising, and shifting revenue color before turning off broad work.
+- **2026-04-17** `yt-Lww55zuwDIA` - paid acquisition caps from LTV or creative quality,
+  70/20/10 creative allocation, CAC convergence, and backend LTV arms race.
+- **2026-04-17** `yt-GAySPU0dZ8s` - lonely chapter between old and new peer groups, hate
+  as leading indicator, and convenience friendships fading with changed conditions.
+- **2026-04-17** `yt-0XHcgQ9PLCE` - no-luck plans, product/referral as advertising
+  replacement, leverage definition, and Core Four leveraged by customers/employees/agencies/affiliates.
+
+Ledger 8->L2 (L2 now 1,398). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: focus-high-quality-nos/big-domino/data-changes-behavior; reference-groups/spend-now-work-later-poverty-frame/bigger-dream-advice-filter; ignorance-debt/richer-avatar-same-work-higher-value; proof-stack-confidence/tiny-impulses; construction-niche-down-bathrooms/revenue-color-shift; paid-scaling-LTV-creative-cap/CAC-convergence/70-20-10-creative; lonely-chapter/hate-leading-indicator/convenience-friends-fade; no-luck-plans/Core-Four-leverage/customers-employees-agencies-affiliates.
