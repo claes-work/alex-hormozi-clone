@@ -232,6 +232,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-11-17 | [[2023-11-17-yt-V0duypXA0bo]] | Reflects on world-record Leads launch (137k ads / 104k affiliates) | |
 | 2023-12-15 | [[2023-12-15-yt-Rqu9IAi2Y9Q]] | Three skills for first million (clip delivers: sales); high-ticket easier | |
 | 2023-12-30 | [[2023-12-30-yt--ouJJs1KaiE]] | Become more confident — confidence-from-proof, traits-are-skills | ★ |
+| 2024-01-08 | [[2024-01-08-yt-DRHnh32OFUs]] | Successful AND happy — success = infinite game, success ≠ happiness | |
+| 2024-02-05 | [[2024-02-05-yt-NQS4OScRXzI]] | Staying motivated without anger — moved past father-revenge, "play your own game" | |
+| 2024-03-04 | [[2024-03-04-yt-GSb0BV04fPc]] | The moment he sold for $46M — exit anatomy, "selling makes you rich, keeping makes you wealthy" (year imprecise ⚠️) | ★ |
+| 2024-03-19 | [[2024-03-19-yt-NiYTYE2T1Jk]] | Why he wants to be a billionaire — not money, public "proof"; luck surface area | |
+| 2024-03-22 | [[2024-03-22-yt-3xKIRUZafmY]] | How they started (Leila narrating; Alex silent) — Bumble, Gym Launch founding bio-context | |
+| 2024-03-25 | [[2024-03-25-yt-x467axmr0Io]] | Failure as motivation — rock bottom, "assets are losable; skills/character are the real wealth" | ★ |
+| 2024-04-08 | [[2024-04-08-yt-OQ3lvSXkQi8]] | How they scaled first business (Leila narrating; Alex silent) — role split, revenue ramp bio-context | |
+| 2024-04-15 | [[2024-04-15-yt-V0K-vQU30N8]] | Leila turned her life around — ⚠️ **no Alex** (pure Leila context, not persona data) | |
 | 2024-02-12 | [[2024-02-12-yt-z8WPl1v39P8]] | Why you need a brand in 2024 — brand>direct-response, 8 ways to get customers, give-give-give | ★ |
 | 2024-02-19 | [[2024-02-19-yt-qku04Qv9fv0]] | Find the best business opportunities — low-capex/high-margin (80%) filter | ★ |
 | 2024-03-05 | [[2024-03-05-yt-XclY0Yl8u9M]] | Biggest difference rich vs poor — money = condensed time (Lewis Howes iv) | ★ |
@@ -385,7 +393,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_355 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_363 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

@@ -18,6 +18,24 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @ACQofficial P2 (L2) — $46M-exit anatomy + Gym Launch founding bio (L2=363)
+
+Loop iteration 42. Pivoted to @ACQofficial P2 (28 open; Leila-heavy channel). 8 clips (2024 Q1-Q2).
+2 L3-candidates: GSb0BV04fPc "$46M exit" (★ exit anatomy — the money made him feel POORER [lost cash
+flow, dividends already banked, sum ≈ what he already had], 2-year sell arc, ~12 depressing purposeless
+months, "made the PE buyer my customer = mistake", "selling makes you rich, keeping makes you wealthy";
+⚠️ he says "last year" [~2023] but the $46.2M sale is reported ~2021 — year marked imprecise, do NOT
+harden), x467axmr0Io "failure as motivation" (★ rock bottom — 100 reach-outs/$100-day ads, "assets are
+losable; skills/experiences/character are the real wealth"; bio: DUI ~90d before rock bottom, mother
+hospitalized, ~6 gyms asset-rich/cash-poor, accidental licensing pivot). SPEAKER ATTRIBUTION was the
+main work: 3 clips (3xKIRUZafmY, OQ3lvSXkQi8, V0K-vQU30N8) are ~99-100% LEILA with Alex silent — kept
+strictly as context, Alex sections honestly empty per rule 6, but they carry rich Gym Launch founding
+bio (Leila-sourced): met on Bumble, ~8 businesses at the time, >$100k unprocessed contracts moment,
+Baltimore first launch, the consultant-forced Alex-marketing/Leila-everything role split, revenue ramp
+~$7M→$27M→$34-36M. Rest L2 dups (successful-and-happy [infinite game], motivated-without-anger [father
+game], why-billionaire [proof scoreboard]). Ledger: L2=363. Next: continue @ACQofficial P2 (20 left,
+many Leila-primary → will context-flag/skip the no-Alex ones).
+
 ## [2026-07-09] lint | Synthesis pass 8 — entities/skool.md + audience-monetization + system-prompt v10
 
 Loop iteration 41 (synthesis). Consolidated the @TheSkoolSchool harvest via 3 parallel agents +
