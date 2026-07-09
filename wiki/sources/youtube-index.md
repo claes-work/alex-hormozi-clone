@@ -593,6 +593,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-06-17 | [[2026-06-17-yt-i-4IiGGS1wE]] | Scale two companies — focus/opportunity-cost, fire-sell the slower one | |
 | 2026-06-17 | [[2026-06-17-yt-PgiqKklXUaA]] | $15M consulting → $100M by 2029 — enterprise lead-gen engine (conf+affiliates+outbound) | ★ |
 | 2026-06-19 | [[2026-06-19-yt-ZckLXKaCekQ]] | Brand framework — status, power, credibility, likeness; recover by dilution | ★ |
+| 2026-06-19 | [[2026-06-19-yt-WXlPkw8_L8c]] | Piano-course duplicate — warm-audience paid ads via interest media | |
+| 2026-06-19 | [[2026-06-19-yt-POS-kprGUDI]] | Plastic-surgery consulting — boring HR/staffing focus; niche by delivery | |
+| 2026-06-19 | [[2026-06-19-yt-V96mK7f9nTA]] | Creator delegation — decompose rare skill; train components, not full replacement | |
+| 2026-06-19 | [[2026-06-19-yt-2_bgozmls2I]] | Partner criteria — self-reported loyalty, Leila/business-marriage boundary (bio) | ★ |
+| 2026-06-19 | [[2026-06-19-yt-AgsBAVcC2ls]] | Education community — consumable value, inputs, network effects, messenger credibility | ★ |
+| 2026-06-19 | [[2026-06-19-yt-ceyVZL6dle0]] | Chiropractor stuck at $2.4M — pricing, attribution, ads, content, cash-flow hiring | |
+| 2026-06-19 | [[2026-06-19-yt-jYfLLU9pCYY]] | Soccer training — cash-flow backend vs sellable recurring/brand path | |
+| 2026-06-19 | [[2026-06-19-yt-NrY0p7wxGzw]] | Chinese entrepreneur community duplicate — continuity inputs and authority credibility | |
 | 2026-06-20 | [[2026-06-20-yt-vMVForz7IPM]] | $1.5M→$9.4M UK dental (one advice) — now retention as compounding vehicle | |
 | 2026-06-20 | [[2026-06-20-yt-QSCPwFs0Yew]] | High-school coaches market — broke-avatar monetization problem; pivot to corporate training | |
 | 2026-06-20 | [[2026-06-20-yt-c8PSSDdu4Cc]] | Poker coaching offers — fix ops capacity before paid ads; avatar-specific pricing | |
@@ -795,7 +803,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_765 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,769 total, including P2 (~1,747, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_773 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,761 total, including P2 (~1,739, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

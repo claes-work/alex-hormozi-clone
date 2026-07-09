@@ -2496,3 +2496,28 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 765). youtube-index/index/footer updated. @MoreMozi P2: ~1,674 rows remain.
 Synthesis notes: status/power/credibility/likeness brand model, reputation dilution, $10M-$30M exit gap and franchise simplification, talent acquisition as mirrored customer journey, decoy continuity price spread, warm-audience paid ads under interest media, revenue-per-square-foot replication, COI/channel-partner customer redefinition, and talent debt as a scaling constraint.
+
+## [2026-07-09] ingest | yt batch 100 — @MoreMozi P2 (2026-06-19), 8 videos
+
+Thirteenth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-19** `yt-WXlPkw8_L8c` "Helping an Online Coaching Business Scale Past $1M" — near-duplicate
+  piano-course clip: warm-audience paid ads via interest media and CRO ceiling.
+- **2026-06-19** `yt-POS-kprGUDI` "Why Boring Businesses Make the Most Money" — plastic-surgery consulting:
+  boring HR/staffing focus, intellectual-curiosity trap, and niche-by-delivery-mechanism rule.
+- **2026-06-19** `yt-V96mK7f9nTA` "Nobody Buys Because You Sound Like Everyone Else" — creator leverage:
+  founder training bottleneck and delegation by decomposing rare work into trainable components.
+- **2026-06-19** `yt-2_bgozmls2I` "Why I Married Someone a Little Crazy" — self-reported Alex/Leila context:
+  loyalty as partner criterion and traditional private marriage versus role-based business relationship.
+- **2026-06-19** `yt-AgsBAVcC2ls` "How an Online Coach Can Scale to $1M/Month" — Chinese entrepreneur community:
+  education continuity requires consumable inputs, network effects, and messenger credibility.
+- **2026-06-19** `yt-ceyVZL6dle0` "Stuck at $2.4M for 5 Years. Here's What's Missing" — chiropractor:
+  pricing/packaging, attribution, ads, content, and cash-flow-funded doctor hiring.
+- **2026-06-19** `yt-jYfLLU9pCYY` "Hormozi Tells $1M Founder His Exit Plan Won't Work" — soccer training:
+  cash-flow backend plus ads versus sellable recurring/brand/product path.
+- **2026-06-19** `yt-NrY0p7wxGzw` "How to Get an Online Coaching Business to $1M/Month" — near-duplicate
+  Chinese entrepreneur community clip: consumable value, inputs, network effects, authority credibility.
+
+Ledger 8→L2 (L2 now 773). youtube-index/index/footer updated. @MoreMozi P2: ~1,666 rows remain.
+Synthesis notes: duplicate warm-audience ads evidence, boring service focus and intellectual-curiosity trap, delegation by component decomposition, self-reported loyalty/Leila business-marriage boundary, education continuity via consumable inputs and network effects, local-practice pricing-attribution-ads sequence, cash-flow vs sellability paths for digital sports education, and authority as risk-reducing messenger context.
