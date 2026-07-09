@@ -18,6 +18,21 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — 10 EV criteria + warm-outreach ACA (L2=421)
+
+Loop iteration 52. 8 @AlexHormozi P2 (Jul-Sep 2023). 2 L3-candidates: HKbFUWJwEG0 "I reverse-engineered
+the perfect business" (★ the 10 Enterprise-Value criteria [EV = customers × lifetime gross profit ÷
+risk, "Mosey Lisa"] — COMPLETES scaling-and-enterprise-value.md §5 which "teased but did not enumerate"
+them → fold in next synthesis), w7g08dVTwaE "get your first 5 customers" (★ the 10-step warm-outreach
+playbook + the ACA framework [Acknowledge, Compliment, Ask] + free→retail price ladder → seeds sales-
+communication/acquisition-channels). Bio corroboration: aBPWCdaJJqA has the Leila "first 30 dates = 30
+days working together / respect-before-love" story + a prior broken engagement; 5cOwh-8scu8 & RdAKXJlMIZM
+re-tell the 2013 charity-training origin and 9-businesses/broke-at-26 arc. Dedup flag: 4GjwtnA76ig and
+RdAKXJlMIZM share the identical live "$1,000 book" leverage demo. Rest L2 (free-stuff lead-magnet
+checklist, 5M-followers agency 2-phase playbook [complements HVOubeXUcx0]). Ledger: L2=421. Next:
+continue @AlexHormozi P2 (254 left). Backlog for synthesis 11: 10-EV-criteria→scaling-EV, warm-outreach/
+ACA, sales-metrics case studies, workout/appearance detail.
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — 60-day case studies + millionaire blueprint (L2=413)
 
 Loop iteration 51. 8 @AlexHormozi P2 (Sep-Nov 2023). 4 L3-candidates: c_6BrF7jOGk "I doubled a business
