@@ -3973,3 +3973,33 @@ community design, preferred-problems decisions, more-over-change, desire replace
 beginner advantage, unknown-finish-line endurance, and light self-reported creative-writing
 biography texture. Recompiled `persona/system-prompt.md` to v24 and advanced the synthesis
 high-water mark to batch 153. Dropped repeats already covered by earlier synthesis/source pages.
+
+## [2026-07-09] ingest | yt batch 154 - @AlexHormozi P2 (2021-11-29 to 2022-02-23), 10 videos
+
+First small-channel completion batch after clearing the MoreMozi synthesis checkpoint. The driver
+selected 10 oldest open @AlexHormozi P2 rows and fetched captions successfully for all 10; no retry
+rows and no checkpoint banner.
+
+- **2021-11-29** `yt-GDqmlwY_uj4` "How I find MILLION DOLLAR opportunities..." - opportunity
+  vehicle strategy: TAM, profit per unit, supply-demand economics, and when to change vehicles.
+- **2021-12-03** `yt-gN--zZi3Nfc` "Why entrepreneurs stay broke and sad [trigger warning]" -
+  hunger, comfort, doing obvious work, and money relief killing drive.
+- **2021-12-06** `yt-ahslH-8qoFY` "The Truth About Retiring At Age 31" - pseudo-retirement,
+  hard work as the goal, work/values as tested behavior, and nine-figure self-report.
+- **2021-12-13** `yt-SbZFTPJ9KZU` "The 4 RAREST skills on earth that make BILLIONAIRES..." -
+  capital, attention, time-returning technology, and behavior-influence leverage.
+- **2021-12-15** `yt-AH_R5cZNFFc` "*REVEALED* Compensation plans that ACTUALLY WORK..." -
+  employee-set variable comp goals, autonomy, social pressure, competition, and progress.
+- **2021-12-20** `yt-eVY4Zo-hpqU` "How I Put Out So Much Content Despite Being Part-Time" -
+  lived-experience content, messenger authority, fresh/emotional ideas, and audience clarity.
+- **2021-12-22** `yt-_8olk4-VFP8` "7 figure CONFIDENTIAL meeting LEAKED..." - gym unit
+  economics, fix the model before franchise/licensing, status-vs-money, and slow focus.
+- **2022-02-04** `yt-2tHlHWgDRdQ` "The reason you are not successful..." - Core Four
+  acquisition, volume-skill-time, boring work, and 10/10 effort.
+- **2022-02-14** `yt-_gcqwupsza8` "I Sold My Company at 31..." - 2021 majority-stake sale
+  decision, APG valuation context, active-vehicle focus, and Acquisition.com mission.
+- **2022-02-23** `yt-7NqsFh5ej0w` "The first 5 hires EVERY entrepreneur should make..." -
+  early hire sequence, buy-back-time, and operational/management/technology debt.
+
+Ledger 10->L2 (L2 now 1,205). youtube-index/index/footer updated. @AlexHormozi P2: 7 rows remain.
+Synthesis notes: opportunity-vehicle/TAM-profit-supply-demand/when-to-change-vehicles; hunger/comfort/obvious-work/money-relief-kills-drive; pseudo-retirement/hard-work-as-goal/values-tested/nine-figure-self-report; scarce-skills/capital-attention-time-behavior-leverage; employee-set-variable-comp/autonomy-social-pressure-progress; content-lived-experience/messenger-authority/fresh-emotional-ideas; gym-unit-economics/fix-before-franchise/status-vs-money; Core-Four-acquisition/volume-skill-time/boring-work/ten-out-of-ten-effort; majority-stake-sale-decision/APG-valuation/active-vehicle-focus/Acquisition-com-mission; first-hires/buy-back-time/operational-management-tech-debt.

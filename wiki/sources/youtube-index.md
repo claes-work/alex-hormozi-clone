@@ -163,17 +163,27 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-11-22 | [[2021-11-22-yt-sGHbp0Vr1dQ]] | Why I don't go home for the holidays — family "meets me in my past" (bio: dated 2021 father quote) | ★ |
 | 2021-11-24 | [[2021-11-24-yt-cX7cCA3Be8A]] | 4 tiny habits (4am / consistent sleep / give-no-expectation / extreme ownership) | |
 | 2021-11-26 | [[2021-11-26-yt-52tcB5FopAg]] | How the wealthy avoid taxes ("my new plan") — borrow against the business (dividend recap) | |
+| 2021-11-29 | [[2021-11-29-yt-GDqmlwY_uj4]] | Million-dollar opportunities — opportunity vehicle strategy via TAM, profit/unit, supply-demand | |
 | 2021-12-01 | [[2021-12-01-yt-F3NyhOtRpOE]] | Growth levers — "business genie" (price 6x > retention 2x > new-cust 2x); proto-LTGP:CAC | ★ |
+| 2021-12-03 | [[2021-12-03-yt-gN--zZi3Nfc]] | Why entrepreneurs stay broke/sad — hunger, comfort, and doing the obvious work | |
+| 2021-12-06 | [[2021-12-06-yt-ahslH-8qoFY]] | Truth about retiring at 31 — pseudo-retirement, hard work as the goal, nine-figure self-report | ★ |
 | 2021-12-08 | [[2021-12-08-yt-o7R_K6LwKNk]] | "Why therapists failed me" — strip-meaning mindset (medical-disclaimer caveat) | ★ |
 | 2021-12-10 | [[2021-12-10-yt-7YMjZgr7sHM]] | 4-step framework for hard/irreversible decisions | |
+| 2021-12-13 | [[2021-12-13-yt-SbZFTPJ9KZU]] | Four rare skills — capital, attention, time-returning technology, behavior influence | |
+| 2021-12-15 | [[2021-12-15-yt-AH_R5cZNFFc]] | Variable comp that works — employee-set monthly goals, autonomy, social pressure, progress | |
 | 2021-12-17 | [[2021-12-17-yt-oW6JkqL6sdM]] | A doer's approach to procrastination — shrink deadline, collapse OODA | |
+| 2021-12-20 | [[2021-12-20-yt-eVY4Zo-hpqU]] | Part-time content — lived-experience content, messenger authority, fresh/emotional ideas | |
+| 2021-12-22 | [[2021-12-22-yt-_8olk4-VFP8]] | Leaked gym strategy call — fix unit economics before franchise/licensing | |
 | 2021-12-31 | [[2021-12-31-yt-qxQIcDrre1E]] | 55-min millionaire keynote — 4 scaling frameworks, leverage ladder, "micro slow macro fast" (rich bio) | ★ strong |
 | 2022-01-19 | [[2022-01-19-yt-okA9Yt2KZuk]] | Full sales-team playbook (org chart, comp, CLOSER) — Taki Moore mastermind | ★ strong |
 | 2022-01-21 | [[2022-01-21-yt-oi7bnS8uyJM]] | 30 min sales training — CLOSER + conviction framework + 6-C team scaling | ★ |
 | 2022-01-27 | [[2022-01-27-yt-w5g0JiO7OdE]] | "0% tax on 56% of income" — anti-shelter; equity appreciation is the untaxed engine | ★ |
+| 2022-02-04 | [[2022-02-04-yt-2tHlHWgDRdQ]] | Why you are not successful — Core Four acquisition, volume-skill-time, boring work | ★ |
 | 2022-02-07 | [[2022-02-07-yt-lRyGIzW9d9k]] | The anti-routine — "season of no", subtractive method (refines 2021) | |
+| 2022-02-14 | [[2022-02-14-yt-_gcqwupsza8]] | Sold company at 31 — detailed majority-stake sale decision and Acquisition.com focus | ★ strong |
 | 2022-02-16 | [[2022-02-16-yt-kW2vDMAmlPI]] | 3 hiring non-negotiables + trust heuristics | |
 | 2022-02-21 | [[2022-02-21-yt-VgEvIIpDYG8]] | 10-min millionaire advice — no niche shortcut, 5 yrs trench work | |
+| 2022-02-23 | [[2022-02-23-yt-7NqsFh5ej0w]] | First five hires — buy back time, early roles, operational/management/tech debt | |
 | 2022-02-28 | [[2022-02-28-yt--TydwZMX8wM]] | "Work/life balance fools the poor" — "work to have the option to work" (interview) | |
 | 2022-03-16 | [[2022-03-16-yt-bHnVItVGJPA]] | Sales = transference of conviction | |
 | 2022-05-17 | [[2022-05-17-yt-XwZH-lOKG9c]] | KEYNOTE: Big 4 acquisition models — CFA, value eq, 6 traffic, MAGIC, LTGP | ★ strong |
@@ -1225,7 +1235,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,195 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,337 total, including P2 (~1,315, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,205 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi small-channel ingest resumed (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,327 total, including P2 (~1,305, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
