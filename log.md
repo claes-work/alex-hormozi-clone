@@ -3461,3 +3461,31 @@ L2.
 
 Ledger 8→L2 (L2 now 1,053). youtube-index/index/footer updated. @MoreMozi P2: ~1,386 rows remain.
 Synthesis notes: operational change-cost/stability/focus; founder constraint and buy-vs-build skill gaps; traumatic micro-events-to-macro-wins with caution; Andromeda/customer-content creative machine/winner-sheet AI loop; marginal returns at scale and crumbs-become-bakeries; funeral freedom plus learning/intelligence definitions; region beta/action-threshold and painful-turning-point biography links; authenticity as no-punishment behavior continuum.
+
+## [2026-07-09] ingest | yt batch 136 — @MoreMozi P2 (2026-05-16 to 2026-05-17), 8 videos
+
+Forty-ninth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-17** `yt-IBqhhvrtQaU` "How to Raise Your Minimum Standard for Work" — preparation:
+  controllable input, hundreds of hours, and repeat-until-glass presentation process.
+- **2026-05-17** `yt-ROo9U2SQyRg` "You Can Get to $10M Year With Any Business" — commitment:
+  switching cost, vehicle head start, business-model shapes, and feature-not-bug constraints.
+- **2026-05-17** `yt-4aj84P1eqzU` "The Math of Hard Days (And Why You Need Them)" — hard days:
+  reframe skill, multi-eight-figure bill, money impermanence, and good-day formula.
+- **2026-05-16** `yt-W2KFhckp47Y` "The Sentence That Made Me Want to Change My Life" — plan B:
+  wantrepreneur catalyst, ignored deficiencies, stripping/Uber fallback, and deletion philosophy.
+- **2026-05-16** `yt-vUa-zHArE9Q` "The Happiness Formula I've Discovered" — happiness:
+  future-goal fallacy, pursuit as enjoyment, and big far targets.
+- **2026-05-16** `yt-bxnaIwzAC-M` "Helping a $3.3M SaaS Business Fix 66% Weekly Churn" — SaaS:
+  group onboarding, activation metrics, channel/avatar segmentation, and value-cycle billing.
+- **2026-05-16** `yt-IMcNmUxa2-M` "Why I Work Triple Shifts" — work ethic:
+  no shortcuts, triple shifts, "I will do what is required", and "but I'll know".
+- **2026-05-16** `yt-zlufflFw2NM` "The Two Voices That Hold You Back from Trying" — fear:
+  judgment voices, failure debt, belief ownership, 46.2M sale-offer psychology, and job-quitting fear.
+
+Ledger 8→L2 (L2 now 1,061). youtube-index/index/footer updated. @MoreMozi P2: ~1,378 rows remain.
+Synthesis notes: minimum-standard prep/hundreds-of-hours/repeat-until-glass; $10M-current-vehicle/switching-cost/business-model-shape taxonomy; hard-day math/reframe skill/money-impermanence/good-day formula; wantrepreneur catalyst and plan-B deletion philosophy; happiness as pursuit not outcome; SaaS churn via onboarding/activation/segmentation/value-cycle billing; triple-shift/no-shortcuts/internal refrains; fear voices/belief ownership/46.2M sale-offer/job-quitting self-reports.
