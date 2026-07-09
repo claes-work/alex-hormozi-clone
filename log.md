@@ -3849,3 +3849,31 @@ L2.
 
 Ledger 8->L2 (L2 now 1,163). youtube-index/index/footer updated. @MoreMozi P2: ~1,274 rows remain.
 Synthesis notes: what-to-sell parents/jobs/interests/service-business/ignorance-debt; endurance/unknown-endpoint/hope-frame/must-be-nice-acceptance; business-difficulty/five-year-grasp/infinite-game/many-sided-die; Management-Diamond/what-how-when-block/smallest-skill-deficiency/intelligence-as-learning-rate; expectations/entitlement/marathon-pacing/achievement-credit; Rule-of-100/learning-as-behavior-change/effort-defined-winning; macro-patience-micro-speed/Everest-vs-foothill/deadline-compression; pricing-ladder-critique/bespoke-luxury-pricing/continuity-retainer/small-jobs-lead-big-jobs.
+
+## [2026-07-09] ingest | yt batch 150 - @MoreMozi P2 (2026-05-08), 8 videos
+
+Sixty-third resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-08** `yt-nstcXAfbi80` "Why Being New Has an Unfair Advantage" - beginner advantage:
+  energy, nothing to lose, time, low responsibilities, and unlimited shots.
+- **2026-05-08** `yt-hPV75vfqGXc` "Helping a $1.35M Education Business Scale Past Its Lead Cap" - growth:
+  creative machine, lifecycle ads, backend offer, market sizing, and adjacent language verticals.
+- **2026-05-08** `yt-_Gj9qMJ3jTk` "The Problem with Sharing Your Struggle" - identity:
+  American dream essay, sleeping-at-gym reception, hometown resistance, and environment change.
+- **2026-05-08** `yt-JgzGbEkr_yM` "Why Your Next Business Always Grows Faster" - serial business:
+  talent pattern recognition, role ladders, and assembling businesses after first-business learning.
+- **2026-05-08** `yt-ERxShNdCqv0` "Don't Conform, Find Your True Personal Brand" - personal brand:
+  anti-conformity, post-Gym-Launch clothing self-report, 85-year-old self, and stick-to-it muscle.
+- **2026-05-08** `yt-AKS9cCSekjs` "The Real Reason Your Business Isn't Scaling (It's Not CAC)" - LTV:
+  survive-to-thrive shift, memberships, Meta for cold wellness demand, and marketing as reps.
+- **2026-05-08** `yt-tR8F6FYwgNk` "Why Hiring a COO Usually Backfires" - delegation:
+  time study, COO junk drawer, decision trees, decision boxes, and owner training debt.
+- **2026-05-08** `yt-6p3fDUlEV2A` "The Highest ROI Investment an Entrepreneur Can Make" - hiring:
+  talent ROI, settling, senior-hire pull, firing priority, and local-vs-global comfort.
+
+Ledger 8->L2 (L2 now 1,171). youtube-index/index/footer updated. @MoreMozi P2: ~1,266 rows remain.
+Synthesis notes: beginner-advantage/energy/nothing-to-lose/unlimited-shots; creative-machine/lifecycle-ads/backend-offer/market-size-constraint/adjacent-language-verticals; public-struggle/American-dream-essay/sleeping-at-gym/hometown-resistance/environment-change; second-business-faster/talent-pattern-recognition/assembling-roles; personal-brand/anti-conformity/post-Gym-Launch-clothing/85-year-old-self/stick-to-it-muscle/sensitive-blackpill-context; LTV-problem/survive-to-thrive/memberships/marketing-as-reps; COO-junk-drawer/time-study/decision-trees/decision-boxes/training-debt; talent-ROI/settling/firing-priority/local-vs-global-comfort.
