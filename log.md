@@ -3051,3 +3051,28 @@ during caption fetch and remain open for retry; the 8 successful rows were inges
 
 Ledger 8→L2 (L2 now 933). youtube-index/index/footer updated. @MoreMozi P2: ~1,506 rows remain.
 Synthesis notes: Gym Launch R&D/testing model and current personal-brand/content advice; self-work behaviorism/free-will/reference-group/truth-telling cluster; use-what-you-have and bad-event isolation; resilience as time-to-baseline; proof-based traits and fitness self-report; first-client proof via free work; consistency/no-credit-for-work standard; current AI roles-to-workflows thesis and 12-24 month UX-agent forecast.
+
+## [2026-07-09] ingest | yt batch 121 — @MoreMozi P2 (2026-05-28 to 2026-05-29), 8 videos
+
+Thirty-fourth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again
+during caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-05-29** `yt-NadXwJQjBiY` "There’s No Easy Business" — CPA/CFO advisory:
+  supply constraint, operating leverage, data-first before AI, and courses/books as marketing assets.
+- **2026-05-29** `yt-8YJEyMYYwnE` "How to See Reality More Clearly Than 99% of People" — definitions:
+  observable definitions for learning, intelligence, excuses, patience, trauma, and communication.
+- **2026-05-28** `yt-trAAFADIAZw` "How to Sell a $2K+ Service in a Saturated Market" — Google Ads agency:
+  wedding-photographer lead quality, content-to-ads, and live-call/webinar funnel.
+- **2026-05-28** `yt-s1MErPSWMKw` "People Have No Idea How Hard It Actually Is" — hardship:
+  visible outcomes vs hidden inputs and hard times not being romantic in the moment.
+- **2026-05-28** `yt-X4z_5m5_hig` "How to Build Unshakeable Fortitude in Your Business" — fortitude:
+  intensity of behavior change after tolerance threshold and distinction from resilience.
+- **2026-05-28** `yt-W_34Zwki0W8` "How Making More Money Affects Your Life" — wealth:
+  income tiers, spending skill, time buyback, risk preference, and diminishing returns.
+- **2026-05-28** `yt-sPtx8Rm78Mo` "Why AI Is Making Business Owners Dumber" — AI/life Q&A:
+  AI adoption/slop, real-vs-fake barbell, workflow maps, risk, college, environment, Leila/Vegas context.
+- **2026-05-28** `yt-Pa1XNVGhzOI` "Your Business Needs Consumable Media" — membership retention:
+  consumable recurring inputs, Gym Launch tested ads, accountability/community, and pre-chewed complexity.
+
+Ledger 8→L2 (L2 now 941). youtube-index/index/footer updated. @MoreMozi P2: ~1,498 rows remain.
+Synthesis notes: service supply constraints and data-first AI; observable-definition system for personal traits; content-to-ads live-call funnel; non-romantic hardship and hidden inputs; fortitude as intensity-of-drop; wealth/spending/time-buyback philosophy; AI adoption/slop plus real-fake barbell, risk, college, Vegas/Leila/environment context; consumable media and Gym Launch recurring-input retention model.
