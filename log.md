@@ -3905,3 +3905,31 @@ L2.
 
 Ledger 8->L2 (L2 now 1,179). youtube-index/index/footer updated. @MoreMozi P2: ~1,258 rows remain.
 Synthesis notes: intensity/father-balance-self-report/Elon-horizon/entrepreneurship-personal-development/tradeoff-pricing; insults/agree-with-labels/trait-degrees/Leila-skinny-story/choose-interpretation; employee-grand-slam-offer/growth/meritocracy/guaranteed-demand/reverse-funnel; employee-raise-question/job-to-revenue/what-it-takes/small-business-opportunity; landscaping-scale/EV-math/constraint-allocation/two-VSLs/recurring-maintenance/lead-source-sales-motion; mentorship-lead-magnet/creative-self-selection/stage-ad/school-community-feedback; agency-scale/pay-per-show-margin-risk/go-upmarket/billing-predictability/no-sales-agency-drift; exceptional-life/more-as-risk-adjusted-return/maximizers-vs-optimizers/20pct-change-cost/repetition-skill.
+
+## [2026-07-09] ingest | yt batch 152 - @MoreMozi P2 (2026-05-07), 8 videos
+
+Sixty-fifth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-07** `yt-_3GeKBeUFx0` "The Better Way to Make Big Decisions" - decisions:
+  preferred problems, regret minimization, and remembering downsides of paths not chosen.
+- **2026-05-07** `yt-Pf68fSIvUk4` "The Most Slept-On Marketing Strategy" - marketing:
+  demonstration, showing the work, recording it, and free work for proof/referrals.
+- **2026-05-07** `yt-kgvGUBhEG70` "How to Turn Cold Traffic Into Buyers" - cold funnel:
+  paid workshop, buyers buy more, qualification fields, and qualified conversion rate.
+- **2026-05-07** `yt-MYZblJz0dJA` "Why You'd be a Top 1%er if You're Not Overweight" - low bar:
+  brief Alex-attributed not-overweight/gainfully-employed frame; mostly Chris Williamson context.
+- **2026-05-07** `yt-ZvMrVHVBNXI` "The 3 Things That Make a Man Attractive" - attractiveness:
+  Robert Glover frame via Chris, with Alex endorsing comfort, direction, and fun.
+- **2026-05-07** `yt-KbEU-A4Dai0` "Why You Can't Get Over Your Ex (Real Reason)" - desire:
+  release by replacement, reinforcers, breakup analogy, and choosing a better want.
+- **2026-05-07** `yt-BsIA4q0IkcA` "Stop Charging Hourly (Do This Instead)" - pricing:
+  ROI content, five-call lead magnet, describe-not-explain, calculator close, and outcome pricing.
+- **2026-05-07** `yt-pav4RAbS_74` "Why Being Weird Is Your Real Superpower" - authenticity:
+  being oneself, weirdness as filter, Leila frozen-yogurt first-date self-report, and role-performance loneliness.
+
+Ledger 8->L2 (L2 now 1,187). youtube-index/index/footer updated. @MoreMozi P2: ~1,250 rows remain.
+Synthesis notes: preferred-problems/decision-regret/path-not-chosen; demonstration-marketing/show-the-work/start-free/proof-referrals; cold-traffic/paid-workshop/buyers-buy-more/qualification-data/qualified-conversion-rate; low-bar/not-overweight/gainfully-employed/mostly-Chris-context; attractiveness-comfort-direction-fun/Glover-frame-via-Chris; desire-replacement/reinforcers/breakup-analogy/choose-new-want; hourly-to-outcome-pricing/ROI-content/five-call-lead-magnet/describe-not-explain/calculator-close; weirdness-as-filter/Leila-first-date/authenticity/role-performance-loneliness.
