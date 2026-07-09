@@ -596,11 +596,19 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-06-21 | [[2026-06-21-yt-QX1tnRsIbqU]] | Inside the 1,000 hours writing Money Models — writing process + trilogy arc (bio) | ★ |
 | 2026-06-21 | [[2026-06-21-yt-S1Lq8ITwtHQ]] | Why a $25M exit is harder than $100M — exit/M&A philosophy | ★ |
 | 2026-06-21 | [[2026-06-21-yt-2Is-h74fklE]] | $30M online service → $100M — dollars-per-lead reframe | |
+| 2026-06-22 | [[2026-06-22-yt-hoichIZkYFg]] | Red-pill movement — dated dating-market/social-commentary opinion | ★ |
+| 2026-06-22 | [[2026-06-22-yt-pk00ZNDzycw]] | SEO agency duplicate — hypothetical max, 80% GM challenge, AI as offensive lever | |
+| 2026-06-22 | [[2026-06-22-yt-sEX975iVvEA]] | Free with alternate revenue stream — paired/independent upsell, first-upsell conversion | ★ |
+| 2026-06-22 | [[2026-06-22-yt-iXJTpAnIoUM]] | Gym growth platform — capacity before ads; Gym Launch avatar-loss retrospective | ★ |
+| 2026-06-22 | [[2026-06-22-yt-d_mAOE8fm-Q]] | Gym business duplicate — capacity vs reputation; Gym Launch retrospective | |
 | 2026-06-22 | [[2026-06-22-yt-L4LEf_zbbyo]] | Path $1M→$100M for service businesses — brand via centers of influence | |
 | 2026-06-22 | [[2026-06-22-yt-2t_9g_8ZA_I]] | $100M service playbook — affiliate acquisition for stigmatized products | |
 | 2026-06-22 | [[2026-06-22-yt-Bh3QhADMqg4]] | Scale $1.2M→$3.5M (duct-cleaning supply) — 3 revenue wheels, retention annuity | |
 | 2026-06-22 | [[2026-06-22-yt-zJDtRUr4Huk]] | Real-estate developer to $100M — outreach + conference deal flow | |
 | 2026-06-23 | [[2026-06-23-yt-tZUmwYquIi4]] | Cybersecurity $5M→$3.6M recovery — conference net-fishing + SDR | |
+| 2026-06-23 | [[2026-06-23-yt-CCsvjr0rTpI]] | Muscle or money Q&A — current size/training longevity tradeoff | ★ |
+| 2026-06-23 | [[2026-06-23-yt-XiikC131JO8]] | SEO agency $7M→$14M — hypothetical max, 80% GM challenge, AI as offensive lever | ★ |
+| 2026-06-23 | [[2026-06-23-yt-Cz-XFK_nM2Q]] | Orthopedic surgeon — Rogan episode as clean VSL, local radius follow-up | ★ |
 | 2026-06-23 | [[2026-06-23-yt-lHKaMAsQ99c]] | Roofing cost-plus pricing — price to customer fears and downside guarantees | ★ |
 | 2026-06-23 | [[2026-06-23-yt-hpitQZSznQQ]] | Trucking owner side quest — added cash constraint, Gym Launch/Prestige Labs lesson | ★ |
 | 2026-06-23 | [[2026-06-23-yt-tymBHmJ7vtk]] | Genetics/supplements $51M — quiz funnel, influencer affiliates, front-end profit giveaway | ★ |
@@ -771,7 +779,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_741 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,793 total, including P2 (~1,771, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_749 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,785 total, including P2 (~1,763, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

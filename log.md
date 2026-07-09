@@ -2421,3 +2421,28 @@ fetch and remain open for retry; the 8 successful rows were ingested as L2.
 
 Ledger 8→L2 (L2 now 741). youtube-index/index/footer updated. @MoreMozi P2: ~1,698 rows remain.
 Synthesis notes: cost-plus pricing and downside guarantees, Prestige Labs as side-quest warning, quiz-funnel plus influencer front-end-profit giveaway, audience as downside protection for a higher-barrier jump, partial-service lead magnet for local lighting, performance-pricing money-flow control, ecommerce traffic-quality vs CRO/media-buyer gap, and buyer-relevant personal-brand 80/20.
+
+## [2026-07-09] ingest | yt batch 97 — @MoreMozi P2 (2026-06-22 to 2026-06-23), 8 videos
+
+Tenth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during caption
+fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-22** `yt-hoichIZkYFg` "The Real Reason the Red Pill Movement Exists" — dated social/dating-market
+  opinion: disenfranchised men, hypergamy framing, and no politically correct solution offered.
+- **2026-06-22** `yt-pk00ZNDzycw` "Helping an SEO Agency Get to $14M in Year 1" — near-duplicate SEO/AI margin
+  clip: hypothetical max, 80% gross-margin challenge, AI as offensive margin lever.
+- **2026-06-22** `yt-sEX975iVvEA` "The No Sale Sale: How to Close 100% of Prospects" — Money Models teaching:
+  free with alternate revenue stream, paired/independent upsells, free-to-first-upsell conversion, Gym Launch/Prestige Labs example.
+- **2026-06-22** `yt-iXJTpAnIoUM` "$4M Gym Owner Asks Hormozi What's Stopping Him From $10M" — gym growth
+  platform: build capacity before ads, sacrifice profit before reputation, and Alex's Gym Launch avatar-loss retrospective.
+- **2026-06-22** `yt-d_mAOE8fm-Q` "$4M Gym Business: What's Stopping Me From Hitting $10M?" — near-duplicate
+  gym-platform clip: capacity vs reputation and Gym Launch retrospective.
+- **2026-06-23** `yt-CCsvjr0rTpI` "Would You Rather Start Over With Muscle or Money?" — short Q&A:
+  Alex chooses muscle and says his current size/training trades against longevity.
+- **2026-06-23** `yt-XiikC131JO8` "Helping an SEO Agency Get to $14M/Year" — SEO/AI margin:
+  hypothetical max, 80% GM standard, industry-average rejection, AI agents/Make automations.
+- **2026-06-23** `yt-Cz-XFK_nM2Q` "Helping a $21M Orthopedic Surgeon Scale His Practice" — orthopedic practice:
+  Joe Rogan episode as clean VSL, local radius targeting, and proactive sales follow-up.
+
+Ledger 8→L2 (L2 now 749). youtube-index/index/footer updated. @MoreMozi P2: ~1,690 rows remain.
+Synthesis notes: dated red-pill/social-commentary opinion, duplicate SEO/AI margin evidence, free-with-alternate-revenue-stream money model, Gym Launch avatar-loss/retrospective and capacity-before-ads, current-size/training longevity tradeoff, 80% GM plus AI-agents offensive agency thesis, and third-party podcast as healthcare VSL.
