@@ -4196,3 +4196,17 @@ were created.
 
 Ledger 10->skipped (L2 unchanged at 1,222; skipped 89). youtube-index/index/footer updated.
 Synthesis notes: none - non-Alex GymLaunch Kale/staff videos only; Alex references are context, not persona-attributed speech.
+
+## [2026-07-09] ingest | yt batch 164 - @GymLaunch completion title triage (2022-10-27 to 2025-10-10), 6 skipped
+
+Completed @GymLaunch long-form. The driver selected the final 6 open rows, fetched captions
+successfully for all, and printed a channel-completion checkpoint banner. Transcript starts and
+keyword checks confirm Kale/GymLaunch-led instruction, Brad Lea guest content, or client drop-ins
+rather than Alex speech. Alex appears only as a contextual reference or quoted stage/book reference.
+No wiki source pages were created.
+
+- Skipped as non-Alex GymLaunch rows: `yt-qGIQoZBoCGE`, `yt-UqB8zEW-RTM`, `yt-sTbQGZ4KuNM`,
+  `yt-jszz-ZNI-os`, `yt-guFkTC5GqTM`, and `yt-_h-lgLrmhKE`.
+
+Ledger 6->skipped (L2 unchanged at 1,222; skipped 95). youtube-index/index/footer updated.
+Synthesis notes: none - non-Alex GymLaunch Kale/staff/guest/client videos only; Alex references are context, not persona-attributed speech.
