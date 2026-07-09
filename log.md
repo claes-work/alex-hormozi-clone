@@ -2446,3 +2446,28 @@ fetch and remain open for retry; the 8 successful rows were ingested as L2.
 
 Ledger 8→L2 (L2 now 749). youtube-index/index/footer updated. @MoreMozi P2: ~1,690 rows remain.
 Synthesis notes: dated red-pill/social-commentary opinion, duplicate SEO/AI margin evidence, free-with-alternate-revenue-stream money model, Gym Launch avatar-loss/retrospective and capacity-before-ads, current-size/training longevity tradeoff, 80% GM plus AI-agents offensive agency thesis, and third-party podcast as healthcare VSL.
+
+## [2026-07-09] ingest | yt batch 98 — @MoreMozi P2 (2026-06-20 to 2026-06-21), 8 videos
+
+Eleventh resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-20** `yt-QSCPwFs0Yew` "How to Build a Business Serving High School Coaches" — coach market:
+  broke-avatar monetization problem, pivot criteria, and corporate training as a better opportunity vehicle.
+- **2026-06-20** `yt-c8PSSDdu4Cc` "Helping an Online Service Business Fix Their Broken Offer" — poker coaching:
+  ops capacity before paid ads, simplify offers later, and avatar-specific pricing psychology.
+- **2026-06-21** `yt-1TPCKPF-1Ag` "I've Put in My 10,000 Hours and I'm Not Making Enough Money" — boat membership:
+  excellence over passion, strong unit economics, spend more on ads/referrals/CRO.
+- **2026-06-21** `yt-6lhZ55COWus` "Sell to the Rich (The Top 1% Has More Than the Bottom 90%)" — market selection:
+  wealth concentration used as sell-to-rich pricing and avatar argument.
+- **2026-06-21** `yt-iiTEasVqHBM` "Door-to-Door Sales Secrets That Print Cash" — window sales:
+  realistic door-to-door drills, truthful recruiting, early leading-indicator scoreboards, and career ladder.
+- **2026-06-21** `yt-gL8EqgjMd6E` "My CAC Is Up 65%. How Do I Fix It?" — ecommerce skincare:
+  media-arbitrage diagnosis, influencer-level LTV:CAC, and premium brand as affiliate retention.
+- **2026-06-21** `yt-35VWfuvP1E8` "How to Scale an Online Service Business to $5M/Year" — golf media:
+  attention as both acquisition and delivery; lean into brand/media revenue over shrinking subscription.
+- **2026-06-21** `yt-nXcAoyLuG0Y` "Should You Sell or Scale to $10M?" — near-duplicate boat membership clip:
+  same strong economics and ads/referrals/CRO growth path; avoid double-counting in synthesis.
+
+Ledger 8→L2 (L2 now 757). youtube-index/index/footer updated. @MoreMozi P2: ~1,682 rows remain.
+Synthesis notes: broke-avatar pivot criterion, ops capacity before paid demand, excellence-over-passion business framing, sell-to-rich wealth-distribution argument, realistic door-to-door training and leading-indicator gamification, ecommerce media-arbitrage-to-brand shift, media business attention loop, and duplicate boat-membership economics evidence.
