@@ -18,6 +18,25 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — book-launch + sales-team-scaling + mentorship-pivot (L2=469)
+
+Loop iteration 61. 8 @AlexHormozi P2 (Sep-Oct 2022, near channel start). 3 L3-candidates: -TOYJHax5x8
+"how I wrote a #1 bestseller with $0" (★ the self-publish + word-of-mouth book-launch playbook →
+seeds a content-strategy/book-launch page; bio: $100M Offers launched ~Sept 2021, 200k+ copies with
+NO publisher/ads/pre-existing audience, ~1,000 hrs & 8 drafts per book, 20-25 hrs/wk writing),
+2lA_A8BGRRs "build large sales teams from 0" (★ the CLOSER-based sales-team-SCALING/management system —
+interview criteria, 14-day onboarding, per-rep coaching loop, culture triad, PIP → distinct from the
+individual-closer sales-frameworks page, seeds a sales-management page), vVssypj7nYw "why old friends
+keep you poor" (★ shed-friends-by-3-5yr-season + reference-group-caps-growth + transactional-
+relationships → feeds the Relationships domain). Notable: 39I8jEqFdYc "I was wrong about mentorship" is
+a clean dated POSITION CHANGE (before: surpassing a mentor = being better than them; after: a good
+teacher is meant to be passed — generational progress); flagged the "Paul Graham"→Ben Graham misspeak.
+Bio corroboration: the "Seven Figure Sam" mentor is confirmed as **Sam Ovens** (apprenticed 4am-4pm,
+3 months); $2M→$7M→$30M in 3 years; $17M take-home at 27; Kylie-Jenner belief-shift; fraternity
+president. Rest L2 (one-thing triad, hard-work=volume×leverage, new-economy/attention-is-new-oil,
+14-lessons compilation). Ledger: L2=469. Backlog for synthesis 14: book-launch page, sales-management/
+team-scaling page, friendship-by-season→relationships, mentorship-pivot→beliefs. Next: @AlexHormozi P2 (206 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — stealth wealth + focus doctrine (L2=461)
 
 Loop iteration 60. 8 @AlexHormozi P2 (Oct-Dec 2022, deep in the channel-start era). 1 L3-candidate:
