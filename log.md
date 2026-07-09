@@ -2589,3 +2589,28 @@ the checkpoint synthesis completed and reset the counter, the 8 successful rows 
 
 Ledger 8→L2 (L2 now 789). youtube-index/index/footer updated. @MoreMozi P2: ~1,658 rows remain.
 Synthesis notes: appearance and brand-association reset after selling Gym Launch likeness; expansion speed as employee activation speed; discount elimination and price-to-fund-hiring in service businesses; opportunity-cost fire-sale logic for stronger recurring opportunities; scalable technician recruiting funnel and group interviews; grant/outreach volume as existential constraint; want-vs-need marketing and personal-brand sellability tradeoff; optometry avatar pricing, manufacturer-funded acquisition, discount-association continuity, and rollup possibility; electrical contractor redundancy, guarantees, customer behavior over complaints, and partner concentration risk.
+
+## [2026-07-09] ingest | yt batch 103 — @MoreMozi P2 (2026-06-16), 8 videos
+
+Sixteenth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-16** `yt-3w0ZdxsmKlk` "Charge 6K Upfront, Then $1K Forever (Here's How)" — content partner
+  placement: setup-plus-continuity pricing, simple offer copy, and community-owner affiliate cadence.
+- **2026-06-16** `yt-mE76jcxJNok` "How to Hire A-Players When You're Low on Cash" — corporate training:
+  debt taxonomy, cash-flow oxygen, backfill founder work, and reliable acquisition before rainmaker hire.
+- **2026-06-16** `yt-iHk2T2TNQKA` "How to Train Your Sales Team to Close More Deals" — gym supplements:
+  trainer product challenge, menu upsell, ethical unselling, prescription, and default close.
+- **2026-06-16** `yt-rpkq5OFTmUE` "How the Top 1% of Customers Make 51% of Your Profit" — Pareto/power law:
+  top customers create most profit, so the model must capture high-budget whales.
+- **2026-06-16** `yt-uEaNdln4QG8` "What To Do If Your Employee Is Stealing" — M&A ethics:
+  remove the thief, disclose to buyer, whole truth over half-truths, and reputation as the defended asset.
+- **2026-06-16** `yt-LYzPE-ryYeg` "How to Turn Your E-Commerce Store Into a Real Brand" — skincare e-commerce:
+  UGC/micro-niche creative, influencer association transfer, email flows, and brand over media-buying arbitrage.
+- **2026-06-16** `yt-Iuk5ygfCU7I` "How do you hire A-players with limited cash?" — near-duplicate corporate
+  training clip: bootstrapped talent debt and acquisition-channel priority.
+- **2026-06-16** `yt-giIoLL3PitU` "We Did $3M But Only Keep 7%. What Do I Fix First?" — baby products:
+  separate wholesale and D2C economics, raise price, restore price integrity, and commit boldly.
+
+Ledger 8→L2 (L2 now 797). youtube-index/index/footer updated. @MoreMozi P2: ~1,650 rows remain.
+Synthesis notes: setup-plus-continuity content staffing offer; community-owner affiliate cadence and two-layer testimonials; bootstrap debt taxonomy and backfill-before-rainmaker hiring; salespeople using product challenges before selling; menu upsell with ethical unselling and prescription; power-law profit concentration and whale-capturing offer design; employee-theft disclosure and reputation-first M&A ethics; e-commerce brand as escape from paid-click arbitrage through UGC/influencer associations; wholesale-vs-D2C margin separation and price-control decisions.
