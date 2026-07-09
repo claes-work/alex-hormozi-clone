@@ -2825,3 +2825,29 @@ goose-vs-eggs control, giant high-ticket tier jumps, discount-plus-one-time-fee 
 design, action before worthiness, replicate-before-iterate learning, buying access to pay
 down time, and learn-before-earn skill acquisition. Recompiled `persona/system-prompt.md`
 to v22 and advanced the synthesis high-water mark to batch 111.
+
+## [2026-07-09] ingest | yt batch 112 — @MoreMozi P2 (2026-06-07 to 2026-06-08), 8 videos
+
+Twenty-fifth resumed @MoreMozi P2 Q&A batch, processed after checkpoint synthesis pass 12.
+`yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during caption fetch and remain open for retry;
+the 8 successful rows were ingested as L2.
+
+- **2026-06-08** `yt-m8m7jbuIP4U` "How to Decommoditize a Service Business" — RFP-heavy employment medical evaluations:
+  case-study close, risk/speed value frame, and decommoditization against lowest-price procurement.
+- **2026-06-08** `yt-YJy7PL2apUo` "How to Say No to the Wrong Opportunities" — dietitian clinics:
+  upside/downside decision filter, virtual vs owned growth, and licensing/franchise order of operations.
+- **2026-06-08** `yt-Tk0e0z8h64Y` "Stop Using a Warm Sales Process on Cold Leads" — video testimonials:
+  cold-first sales process, VSL pre-frame, and big-head/long-tail proof offer.
+- **2026-06-08** `yt-2RYARn7GMek` "Stop Selling Done-For-You, Sell Franchises Instead" — high-ticket sales agency:
+  done-for-you/biz-op fulfillment risk, compliant franchise opportunity, and legitimate partner replacement.
+- **2026-06-08** `yt-wRe3Umk2hec` "Why Most Med Spa Owners Stall at $7M" — med spa:
+  fix current-location margins, membership sales motion, utilization, and injector talent retention before expansion.
+- **2026-06-07** `yt-sRBO1pxSqK4` "Stop Building 10 Businesses. Build One to $10M." — offer-build agency:
+  one-business focus, partnership leverage, happy-with terms, and ego-saving negotiation return.
+- **2026-06-07** `yt-iL5v-37Vm48` "The Real Problem With Done-For-You Businesses" — high-ticket sales agency duplicate:
+  underlying offer quality, weak-client replacement, sales-team mercenary risk, and franchise/legit-partner path.
+- **2026-06-07** `yt-3xrL1nQcqlU` "Scale Any Business With These 3 Levers" — pool service:
+  CAC/payback math, speed-to-lead, demand-first capacity unlock, and trainer certification incentives.
+
+Ledger 8→L2 (L2 now 869). youtube-index/index/footer updated. @MoreMozi P2: ~1,570 rows remain.
+Synthesis notes: RFP case-study close and value-frame decommoditization; upside/downside livability filter; warm-to-cold sales process duplicate; done-for-you/biz-op risk and franchise/legit-partner replacement; med-spa membership/utilization/injector retention model; one-business focus with negotiation leverage; pool-service payback-speed and speed-to-lead capacity loop.

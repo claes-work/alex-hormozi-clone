@@ -13,7 +13,7 @@ _Last updated: 2026-07-09 (MoreMozi Q&A batches resumed; 197 L2 videos added)_
 
 ### YouTube
 
-- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**861 L2**; all P1 landmark videos across 5 channels complete; @MoreMozi Q&A cuts resumed). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
+- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**869 L2**; all P1 landmark videos across 5 channels complete; @MoreMozi Q&A cuts resumed). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
 
 ## Topics
 
@@ -82,7 +82,7 @@ Domain hubs (full page list lives on each hub):
 - [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + a borrowed-lines (not-his-coinages) section.
 - [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**90+ sources**); enriched from the topic pages + P2 synthesis (tax-free-liquidity 2021→2024 evolution, philanthropy/estate-plan belief, no-legacy, perfect-business, 4-shapes, 6-levels risk ladder, business math, moats, retention, culture, purpose/usefulness, relationships, AI thesis) with tracked evolutions.
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Populated** (1 source): physique/build (~235 lb, signature calves), athletic background; grooming/wardrobe/setting still open (await watch-skill frame sampling).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v20** (~700 videos + 2 books) — full business frameworks + wealth/tax evolution + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis; grooming/wardrobe still pending watch-skill sampling.
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v22** (~861 videos + 2 books) — full business frameworks + wealth/tax evolution + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis; grooming/wardrobe still pending watch-skill sampling.
 
 ## Other
 
