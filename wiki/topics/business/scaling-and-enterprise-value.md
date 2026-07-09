@@ -3,8 +3,8 @@ type: topic
 domain: business
 domains: [business, wealth]
 created: 2026-07-08
-updated: 2026-07-08
-sources: 8
+updated: 2026-07-09
+sources: 9
 tags: [scaling, enterprise-value]
 ---
 
@@ -213,11 +213,81 @@ The formula:
   generate discounted into the present."
 - A business that merely **"makes money"** is different from an **"incredibly valuable
   asset."** The method's whole point is converting the former into the latter — and there
-  are **ten levers** that each "unlock another level of Enterprise Value" (the ten are
-  teased in this clip, not enumerated).
+  are **ten levers** that each "unlock another level of Enterprise Value." They are teased
+  in this clip; the sibling video six days later enumerates all ten — see
+  **§5b** below.
 
 > "That's what began this journey of figuring out how to take something that just makes
 > money into an incredibly valuable asset that can change your life forever."
+
+---
+
+## 5b. The 10 enterprise-value criteria ("the perfect business" / "Mosey Lisa")
+
+Source: [[../../sources/2023-09-06-yt-HKbFUWJwEG0|I Reverse Engineered the Perfect Business]] (2023).
+Six days after the §5 clip, Hormozi "reverse engineers" the maximally *valuable*, sellable
+business — the **"Mosey Lisa"** (his Mona Lisa pun) — enumerating the ten levers §5 only
+teased. Same **"value acceleration method"** and same origin story ($0 → $4.4M/month in 20
+months but "it also sucked"). Each criterion turns a money-making *job* into a sellable
+*asset* by moving one term of the §5 equation: **EV = customers × lifetime gross profit ÷
+risk** — it adds customers, raises LTGP, and/or (most often) cuts **risk**. The umbrella:
+
+> "You get paid for what you do. You get returns on what you own."
+
+> "It's not about selling more, it's not about making them worth more — it's about making
+> sure that those never stop happening."
+
+1. **Leadership team running the day-to-day** — the owner can leave and the business
+   maintains *and grows* without them; most small businesses die if the owner leaves, so no
+   one can buy them. His litmus: step away and the company grows for **six straight months**
+   without him jumping in; hire for a purpose, under-title (manager → director → VP → COO),
+   and weight track record over "would we be friends."
+2. **Marketing without the founder** — if you *are* the ads/content, that's a job, not an
+   asset; deliberately **transfer the brand association** to someone else (his gym-launch
+   ads went Alex → Alex + Kale → Kale alone over ~12 months) and keep your personal brand
+   separable from your primary income source if you ever want to sell.
+3. **Delivery without the founder's face** — replace yourself not with one clone but with
+   **two-to-five subject-matter experts** who each own a slice (a "Hydra"); edify them to
+   customers and give the top ones small equity (0.1–0.5%), which also makes non-competes
+   hold weight.
+4. **Multiple reliable acquisition channels** — "multiple lines in the water"; one channel
+   is one platform ban from death. Run one-offer / one-avatar / one-channel until
+   **$1M/year**, then go "more and better" before adding a second, and **"don't kill your
+   business trying to save your business"** — pick the next channel by what peers your size
+   already run profitably. Cross-ref [[acquisition-channels]].
+5. **Reliable recurring revenue** — one-off sales plateau; recurring compounds, and the real
+   goal is **net negative churn** (revenue grows even at zero new customers, e.g. Salesforce
+   expansion). Governed by the **nine C's of stickiness**: consumption, collateral, cost of
+   switching, choice, control, cause, community, contracts/commitments, communication.
+   Cross-ref [[retention]] (the 9 C's) and [[continuity-offers]].
+6. **Diverse customer base** — no whale too large; ideal **no customer >20%** of revenue,
+   his personal preference **<5%** (self-reported). A 20%-of-revenue customer can be ~100% of
+   *profit*, so losing it breaks you; either chase minnows or a whole herd of whales (10–100)
+   to stay diversified. "Sometimes a big shiny whale is just another woman in the red dress."
+7. **Automated metric tracking** — "if you don't have data you can't make good decisions";
+   move off scattered Google Sheets into a real CRM (Salesforce/HubSpot), give the numbers
+   **one owner** ("one chest to poke"), and game-plan via **theory of constraints** (add a
+   fixed % to each metric, attack the one that moves total throughput most). Cross-ref
+   [[business-math]] and [[business-diagnostics]].
+8. **High cash flow, profitable, growing — with a story** — Newton's first law: buyers
+   prefer growth already in motion. He's a **cash-flow investor** (distinguishes paper profit
+   from cash); the **story** should track a **trend** (AI/defense tailwind). Brick-and-mortar
+   move: audit each product's gross profit/margin and push the best — "no silver bullets,
+   many golden babies."
+9. **Audit-ready financials** — a third party can independently recompute your profit and it
+   matches. Three levels: (1) have financials at all, (2) accountant + move **cash-basis →
+   GAAP**, (3) audit-ready "quality of earnings" (a "blue check mark" on your numbers). "You
+   will literally not sell your business for anything material" without this.
+10. **$5M+ in EBITDA** — most institutional investors won't buy smaller; reaching $5M+ EBITDA
+    usually *requires* a real management team, and analyzing a small deal costs about as much
+    as a big one. Portfolio stats he cites (self-reported): within 12 months revenue **+1.8x**
+    / profit **+3.01x**; within 24 months revenue **+2.8x** / profit **+4.7x** on average.
+
+Note: criteria **1–3** are three faces of the "get the owner out of the business" throughline
+(§3 "scale zero"); **4–6** de-risk *where the revenue comes from*; **7–10** make the value
+*legible and buyable* to an institutional investor. All ten reduce to Hormozi's close: sell
+more customers, make each worth more, and make sure "those never stop happening" **without
+you**.
 
 ---
 

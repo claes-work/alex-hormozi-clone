@@ -58,6 +58,61 @@ and drawn from a single filmed leg/calf workout with guest Chris Bumstead
   and says as a natural lifter he can "kind of attest to it." (self-reported,
   [[../../sources/2024-11-18-yt-7qy-EPc2gYU]])
 
+## Training methodology (detailed)
+
+From a filmed full-body workout with guest Chris Williamson (context only), Nov 2023
+([[../../sources/2023-11-15-yt-ABOd589OyTM]]). All **self-reported**.
+
+- **Full body, every day, same body parts each session.** He trains the same body
+  parts every workout, every day — chosen for best body composition, no dedicated
+  cardio (folded into supersets), and maximum muscle: "max muscle, least headache"
+  (paraphrase). Says he's run this core routine ~20 years of iterations and hasn't
+  changed it in ~10 years "because it's right." (self-reported,
+  [[../../sources/2023-11-15-yt-ABOd589OyTM]])
+- **Trains in reverse order of weakness** — worst body part first, best body part last,
+  so the weakest gets his freshest energy. He explicitly says he **would not advise it**
+  for others. A clear visual weakness gets moved up in the workout to be prioritized.
+  (self-reported, [[../../sources/2023-11-15-yt-ABOd589OyTM]])
+- **Calves first, every workout, for 10+ years.** Calves are his self-described weakest,
+  worst-proportioned body part; he starts every single session with them, doubled the
+  volume, and trains them every workout (vs. ~2x/week before) — that's when they started
+  to grow. Doubles as a no-resistance warm-up ("no one's ever going to say no to another
+  set of calf raises") and raises core temperature. (self-reported,
+  [[../../sources/2023-11-15-yt-ABOd589OyTM]])
+- **Leg chain uses prefatigue: calves → hamstrings → quads.** Calves get involved in the
+  hamstring work, hamstrings in the quad work, so each movement isolates the next muscle
+  more. (self-reported, [[../../sources/2023-11-15-yt-ABOd589OyTM]])
+- **"Perfect reps then imperfect reps."** He does as many full-range ("perfect") reps as
+  he can to failure, then continues with partial-range ("imperfect") reps to fatigue
+  everything and squeeze more volume out of each set. Concedes "this will bother all the
+  fitness people." (self-reported, [[../../sources/2023-11-15-yt-ABOd589OyTM]])
+- **Shoulders: only medial and rear delts — no front delts.** "Not my deficiency, not my
+  constraint, not my problem." Also trains the delt only through the range where he
+  feels the delt, stopping before it recruits the traps (which gives him shooting neck
+  pain); concedes others disagree. (self-reported,
+  [[../../sources/2023-11-15-yt-ABOd589OyTM]])
+- **Does not train chest** — says his chest doesn't need to grow anymore. (self-reported,
+  [[../../sources/2023-11-15-yt-ABOd589OyTM]])
+- **Superset-heavy, minimal rest.** Pairs movements (e.g. seated hamstring curls with
+  extensions) so he can skip dedicated cardio; rests as little as possible ("rest time
+  is camera time" only when filming). (self-reported,
+  [[../../sources/2023-11-15-yt-ABOd589OyTM]])
+- **Injury-rehab method (no time off).** After tweaking his tricep (~2 months prior) he
+  didn't rest it — he **drops to the lowest weight on the same machine that injured him
+  and adds ~10 lb per week** back up. Analogy: gymnasts getting straight back on the
+  pommel horse. (self-reported, [[../../sources/2023-11-15-yt-ABOd589OyTM]])
+- **Current stage — "stimulate to maintain."** Believes he's "not really going to gain
+  any more muscle"; now trains to keep what he has and avoid injury, not to grow: "I
+  stimulate, that keeps what I've got, try not to hurt myself, do that hopefully until I
+  die." (self-reported, [[../../sources/2023-11-15-yt-ABOd589OyTM]])
+- **Habits & gear (appearance-relevant, self-reported):** tested ~**30–40 tank tops**
+  before settling on one (criteria: consistent sizing, no shrink variance, right
+  thickness, softness, some stretch — "shows all the good, hides all the bad"); **trains
+  without socks** (a shoe criterion in an ongoing ~50-shoe search); **walks about an
+  hour every day**; uses **nicotine** as a task-independent "global reward" during
+  work/podcasts. (Diet covered in `persona/appearance.md` — not duplicated here.)
+  (self-reported, [[../../sources/2023-11-15-yt-ABOd589OyTM]])
+
 ## Strength & PRs
 
 All natural, from his heaviest lifting years (self-reported,

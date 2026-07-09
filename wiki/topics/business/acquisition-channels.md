@@ -1,7 +1,7 @@
 ---
 type: topic
 domain: business
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [acquisition, traffic]
 ---
 
@@ -196,6 +196,131 @@ until ~$3M revenue, because "the issue is not even time, the issue is attention"
 
 ---
 
+## Warm outreach: first 5 customers (the ACA playbook)
+
+Warm outreach is the first of the Core Four activities, and it is where Hormozi tells a
+brand-new business to start. In a 2023 solo lecture (a sneak peek of *$100M Leads*) he
+gives a **10-step playbook to land your first five customers** purely by messaging people
+who already know you [[../../sources/2023-08-02-yt-w7g08dVTwaE]]:
+
+1. **Get a list.** Build three lists and combine them — (1) everyone you've ever emailed,
+   (2) everyone you can direct-message across your social profiles, (3) all phone/personal
+   contacts (export them). "It's far more leads than you think you have."
+2. **Pick a platform.** Start on the single platform where you have the most contacts
+   (Instagram, email, or phone) and message there.
+3. **Personalize.** Spend ~30 seconds on the person's profile, find something in common or
+   a recent life event, and lead with it so it isn't a blast — "this is also just called
+   being a human."
+4. **Reach out to 100 people every single day** (this is the [Rule of 100](#the-rule-of-100-daily-volume-for-beginners)
+   applied to warm outreach). The first DM is the hardest; the second takes two minutes.
+5. **Warm replies with ACA** (see below).
+6. **Invite their friends (ask for referrals).** Don't solicit the contact to buy — ask if
+   they *know anyone* looking for [outcome] because "I'm opening up a few slots." A reply of
+   "I'd like to find out more" is what converts a *lead* into an *engaged lead*.
+7. **Give the easiest offer to say yes to: free** (see the price ladder below).
+8. **Start back at the top of the list.** Referrals give free leads; he self-reports that
+   reaching ~3,000 people with a free thing yields ~5 who take you up on it.
+9. **Start charging once people start referring** — the signal you're good enough.
+10. **Keep them warm.** Check in like a human and provide value to the whole list regularly,
+    "depositing goodwill" until people start soliciting *you*.
+
+> "Everything must be hard before it can be easy. So just get over the hump, send it… so you
+> can realize that you won't die." [[../../sources/2023-08-02-yt-w7g08dVTwaE]]
+
+> "Don't think short, think long, and you'll make long money." [[../../sources/2023-08-02-yt-w7g08dVTwaE]]
+
+### ACA — Acknowledge, Compliment, Ask
+
+The reply script (step 5) is a reusable **sales-communication** framework — when a warm
+contact answers, you **Acknowledge, Compliment, Ask**: acknowledge their reply, pay a
+genuine compliment, and tie the *ask* to that compliment, transitioning to a question that
+leads toward the service you sell. Hormozi's reframe: "Wait a second, this sounds like
+selling. It's not. It's talking to humans." See [[sales-communication]] for the broader
+conversation mechanics [[../../sources/2023-08-02-yt-w7g08dVTwaE]].
+
+### Lead → engaged lead
+
+A **lead** is anyone on the combined list; an **engaged lead** is a contact who has *shown
+interest in what you sell* — e.g. replies "I'd like to find out more." The whole playbook is
+a machine for converting the former into the latter, one personalized message at a time
+[[../../sources/2023-08-02-yt-w7g08dVTwaE]].
+
+### The free → retail price ladder (ratchet up as scarcity builds)
+
+The first customers get the service **free**, in exchange for three terms: they actually
+*use* it, give *feedback*, and leave a *killer review* if deserved. His stated rationale
+(self-reported): "one, it'll get you more reps; two, you probably suck; three, you need to
+learn how to suck less, and you suck less by doing more" — and "just because you're not
+getting paid doesn't mean it's free, but it is monetarily free" (they still pay in
+time/effort, so they are real customers). As free/discounted slots fill you hit true
+capacity → **genuine scarcity** → you can ethically raise prices. Reuse the same script,
+changing "free" to **"80% off for the next five," then 60, 40, 20, then full retail — and
+beyond full retail once you deliver 10× the value.** Ask remaining free clients to either
+match the paying rate or release the slot (you keep the review either way)
+[[../../sources/2023-08-02-yt-w7g08dVTwaE]].
+
+> "The reason we do it for free… one, it'll get you more reps; two, you probably suck; three,
+> you need to learn how to suck less, and you suck less by doing more."
+> [[../../sources/2023-08-02-yt-w7g08dVTwaE]]
+
+This is the demand-side companion to [[attraction-offers]] (scarcity/urgency) and to the
+lead-magnet logic below; it also feeds [[../marketing/marketing]] and [[sales-communication]].
+
+---
+
+## Lead magnets (give to get)
+
+A distinct 2023 solo lecture (also a *$100M Leads* preview) argues that most businesses are
+starved for leads because **they don't give away enough free stuff**. The mechanism: people
+buy on a **prediction of future value**, and the easiest way to make someone predict value
+*after* buying is to give them value *before* they buy [[../../sources/2023-07-19-yt-7NMH1oAkgLY]].
+
+- **Definition.** A lead magnet is **"the thing before the thing"** — *not* a partial
+  solution (giving away 6 minutes of a 12-minute video and gating the rest destroys trust),
+  but a **complete solution to a narrowly defined problem**: one micro-step of the larger
+  solution, solved fully at a massive discount to get "one foot in the door." Solving one
+  problem well *opens up the next problem*, which becomes the next paid step.
+- **The core principle (the "sauce").** Even if the lead magnet **costs money to deliver, it
+  should still *lower* your total cost to acquire a customer.** That is what separates big
+  operators (who accept calculated upfront cost for a bigger back end) from small ones. His
+  illustrative unit economics (self-reported hypothetical): a $100 massage to 100 people
+  → ~1 sale; a $10 massage → ~20 takers, ~30% of whom (6) later buy the $100 core offer —
+  even losing $10 × 20 = $200, you acquire 6 customers worth ~$2,000.
+- **Costly beats free-and-flimsy.** Something that costs you money to give away is usually
+  valued higher than a free PDF — unless the digital freebie is genuinely exceptional, the
+  market won't value it. Corollary: **your free stuff should be better than competitors'
+  paid stuff**, because over-delivering even to people who never pay you earns the word of
+  mouth that refers the people who do. A "sucky fluff" lead magnet creates *negative* word
+  of mouth.
+
+> "A lead magnet is a complete solution to a narrowly defined problem."
+> [[../../sources/2023-07-19-yt-7NMH1oAkgLY]]
+
+> "Even if your lead magnet costs you money to deliver, it should still lower your total cost
+> to get a new customer. That's the secret, that's the sauce of lead magnets."
+> [[../../sources/2023-07-19-yt-7NMH1oAkgLY]]
+
+> "Your free stuff should be better than their paid stuff. Everyone makes that quote, but they
+> don't actually do that." [[../../sources/2023-07-19-yt-7NMH1oAkgLY]]
+
+### The 7-step lead-magnet checklist
+
+1. **Figure out the problem** and *who* you solve it for.
+2. **Figure out how to solve it** — assessment, trial, or combinations.
+3. **Figure out how to deliver it** — information, service, or physical product.
+4. **Name and package it** — the *most important* step (he cites A/B-testing the *$100M
+   Leads* title and cover).
+5. **Make it fast and easy to consume** across formats (audio, written, video).
+6. **Make it genuinely good** — "put 100 in, not 10."
+7. **Make it easy to take the next step** — "don't be clever, be clear," and offer multiple
+   CTA paths.
+
+[[../../sources/2023-07-19-yt-7NMH1oAkgLY]]. Lead magnets sit at the front of the funnel that
+[[attraction-offers]] and [[money-model]] monetize, and they are a core tactic of
+[[../marketing/marketing]].
+
+---
+
 ## MAGIC naming (keeping one offer marketable forever)
 
 From the *offer* framework in the 2022 keynote, the **MAGIC naming formula** is how he
@@ -249,3 +374,8 @@ all — high margin is the enabling condition. See [[business]] and
   channel; CAC-up / conversion-down forces.
 - [[../../sources/2024-02-19-yt-qku04Qv9fv0]] — low-capex / high-margin opportunity
   filter (enabling context for aggressive acquisition).
+- [[../../sources/2023-08-02-yt-w7g08dVTwaE]] — 10-step warm-outreach playbook for the
+  first 5 customers; ACA (Acknowledge, Compliment, Ask); lead → engaged-lead; free →
+  retail price ladder.
+- [[../../sources/2023-07-19-yt-7NMH1oAkgLY]] — lead-magnet logic (give complete value to
+  lower CAC); the 7-step lead-magnet checklist.

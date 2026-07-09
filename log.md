@@ -18,6 +18,26 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] lint | Synthesis pass 11 — enrichments (10-EV-criteria, ACA, training) + system-prompt v13
+
+Loop iteration 53 (synthesis). This pass was all ENRICHMENTS of existing pages (no new pages) via 4
+parallel agents + recompile:
+- **scaling-and-enterprise-value.md**: added §5b enumerating the **10 enterprise-value criteria** ("the
+  perfect business"/"Mosey Lisa") — finally replaces the long-standing "teased but not enumerated"
+  placeholder (leadership-runs-it, marketing/delivery without founder, multiple channels, net-negative
+  churn, no customer >20%, automated metrics, audit-ready financials, $5M+ EBITDA; all → EV = customers
+  × LTGP ÷ risk).
+- **acquisition-channels.md**: added the **warm-outreach "first 5 customers" playbook + the ACA script**
+  (Acknowledge/Compliment/Ask) + free→retail price ladder, and a **lead-magnets (give-to-get)** section
+  with the 7-step checklist.
+- **fitness/training-and-physique.md**: added "Training methodology (detailed)" (full-body daily,
+  calves-first-10yr, prefatigue, medial+rear-delts-only, no chest, injury-rehab, "stimulate to
+  maintain") from the Chris Williamson workout — consistent with the 2024 Bumstead content.
+- **persona/beliefs.md** (54→58 sources): +strategy-as-prioritization/ToC, +perfect-business-10-criteria,
+  +warm-outreach/ACA, +lead-magnets-lower-CAC.
+- **persona/system-prompt.md → v13** (compiled_from_sources 407→423).
+40 topic pages (unchanged — enrichments only). Next: continue @AlexHormozi P2 (254 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — 10 EV criteria + warm-outreach ACA (L2=421)
 
 Loop iteration 52. 8 @AlexHormozi P2 (Jul-Sep 2023). 2 L3-candidates: HKbFUWJwEG0 "I reverse-engineered

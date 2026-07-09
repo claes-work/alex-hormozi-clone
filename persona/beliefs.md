@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 54
+sources: 58
 ---
 
 # Beliefs
@@ -297,6 +297,40 @@ Synthesized from [[../wiki/topics/business/scaling-and-enterprise-value|scaling-
   traditional/asset business starts slower and is capital-heavier but builds something that
   runs without you. (Self-reported: sold his last education business for $46.2M.)
   [[../wiki/sources/2024-07-03-yt-Rm4zRdLAyjw]]
+- **Strategy = prioritization; diagnose the ONE constraint** (2023) — "Strategy is just
+  prioritizing" — allocating finite resources against infinite options; the costliest
+  thing isn't the unknowns but the **"unknown unknowns"** (options you didn't know you
+  could pick). Every business has one binding constraint (**Theory of Constraints**): "if
+  you spend all your time working on it and it stayed the same… you have not properly
+  identified the constraint." Three nested prioritization frameworks: **three objectives**
+  (more customers / higher LTV / lower risk = enterprise value), **what-who-how** (stop
+  defaulting the "who" to yourself; if the same who fails the same what 12 weeks running,
+  the who is the problem), and **more-better-new** ordered by impact-over-ease (exhaust
+  "more" and "better" before chasing "new" silver bullets — big wins are "golden BBs").
+  The constraint is usually the "big obvious thing" — a mediocre product or churn:
+  **"fix the sandwich before you market it"** ("a lot of you are serving mediocre
+  sandwiches"), or the marketing gas just leaks out the other side. Emotion→diagnosis:
+  anxiety/overwhelm = too many options = lack of strategy; sadness = no options =
+  ignorance. (Reinforces the EV formula and "golden BBs" entries; self-reported cases.)
+  [[../wiki/sources/2023-10-25-yt-I64gYLBrics]]
+- **The "perfect business" = 10 enterprise-value criteria** (2023) — reverse-engineering
+  the maximally *sellable* business (his "Mosey Lisa"): the goal is turning "a thing that
+  makes money" (a job) into an asset an institutional investor would buy. Everything ties
+  to **EV = number of customers × lifetime gross profit ÷ risk** (each criterion raises
+  customers, raises LTGP, or lowers risk). The ten: (1) a **leadership team** running the
+  day-to-day (litmus: step away and it grows six straight months); (2) **marketing without
+  the founder**; (3) **delivery without the founder's face** (a 2–5-person "Hydra" of
+  subject-matter experts, small equity to make non-competes bite); (4) **multiple reliable
+  acquisition channels** ("multiple lines in the water"); (5) **reliable recurring revenue**
+  (goal = net-negative churn; "nine C's" of stickiness); (6) a **diverse customer base**
+  (no customer >20%, his preference <5%); (7) **automated metric tracking** ("you can tell
+  how skilled someone is… by the number and quality of the metrics they track"); (8) **high
+  cash flow, profitable, growing — with a story** riding a trend; (9) **audit-ready
+  financials** (cash-basis → GAAP → quality-of-earnings); (10) **$5M+ EBITDA**. "You get
+  paid for what you do; you get returns on what you own." (Same EV equation as the
+  enterprise-value entries above and the direct precursor to the 2026 five-filter "perfect
+  business"; self-reported portfolio and $0→$4.4M/mo origin figures.)
+  [[../wiki/sources/2023-09-06-yt-HKbFUWJwEG0]]
 
 ## Frameworks — Customer acquisition (2021–2024)
 
@@ -361,6 +395,33 @@ video sources).
   constant across a market, so **LTV is the real competitive variable.** "This has to be your
   first language… the language of business." (Self-reported: Gym Launch's first year ran
   ~100:1 — "$100,000 and made $10 million back.") [[../wiki/sources/2024-06-30-yt-jzKpAtzKQ54]]
+- **First customers = warm outreach (ACA) + free-for-reviews, then ratchet price** (2023)
+  — the *$100M Leads* first-five-customers playbook. Build one combined list from every
+  email, social, and phone contact; DM **100 people a day** ("it took you 20 years to send
+  your first DM and two minutes to send the second"). When they reply, warm them with
+  **ACA — Acknowledge, Compliment, Ask** ("it's not selling, it's talking to humans"),
+  then ask for referrals ("I'm opening up a few slots" — a favor, not a pitch). Deliver
+  the service **free** in exchange for three terms — they use it, give feedback, and leave
+  a killer review — because "you probably suck" at first and free maximizes reps ("just
+  because you're not getting paid doesn't mean it's free"). Once people start **referring**
+  (the signal you're good enough), reuse the same script swapping "free" for "80% off for
+  the next five" → 60 → 40 → 20 → full price → beyond retail; as slots fill you hit genuine
+  scarcity and can ethically **ratchet price up**. "Don't think short, think long, and
+  you'll make long money." (A concrete entry-point instance of the Core Four warm-outreach
+  activity + Rule of 100 above.) [[../wiki/sources/2023-08-02-yt-w7g08dVTwaE]]
+- **Give away complete lead magnets to lower CAC** (2023) — "the reason people buy is
+  based on a prediction of future value… give them value *before* they buy." A lead magnet
+  is **not** a partial solution (don't gate the last 6 minutes of a 12-minute video); it's
+  a **complete solution to a *narrowly* defined problem** — one micro-step solved fully at
+  a massive discount — that opens up the next, paid problem ("the thing before the thing").
+  Core principle: **even if the lead magnet costs money to deliver, it should still *lower*
+  your total CAC** ("that's the sauce") — a $10 massage 20 people take and ~6 convert to a
+  $100 core offer beats a $100 massage 1 person buys, and something that costs you money is
+  valued higher than a free PDF. **"Your free stuff should be better than their paid
+  stuff"**; over-deliver even to people who'll never pay, because they refer those who
+  will. "The more you give, the richer you get." (Foreshadows the 2025 lead-magnet doctrine
+  and the "give-give-give" content thesis; illustrative unit economics are his own
+  hypotheticals.) [[../wiki/sources/2023-07-19-yt-7NMH1oAkgLY]]
 
 ## Frameworks — Content & branding (2021–2026)
 
