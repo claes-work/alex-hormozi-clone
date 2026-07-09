@@ -13,8 +13,16 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2018-07-20 | [[2018-07-20-yt-aiS5qH7UMX4]] | 2018 gym-launch clip — "sell anywhere", $500 bills, hands-on operator era (bio) | ★ |
+| 2020-11-05 | [[2020-11-05-yt-pxVeOkOVr2w]] | The Offer Is King — proto-Grand-Slam-Offer; working book title "Acquire" | ★ |
 | 2020-12-03 | [[2020-12-03-yt-bgmh7p1s7zs]] | 20+ sales team — CLOSER framework + 5 Cs sales ops | ★ |
+| 2020-12-08 | [[2020-12-08-yt-XZEjp2mP1U0]] | Scale fast — "pi equation" proto-LTGP:CAC (rev 3:1), golden ratio | ★ |
+| 2020-12-31 | [[2020-12-31-yt-OyGKFhTf0go]] | The Copy Rule — Rule of One, credits Michael Masterson | |
+| 2021-01-14 | [[2021-01-14-yt-s9fSDCRPQNA]] | First $100k is toughest — Munger idea + Alex wealth framing | |
 | 2021-02-11 | [[2021-02-11-yt-FTgJ0mQi0uU]] | #1 lesson for young entrepreneurs: right-vs-wrong lesson, sustainable growth | |
+| 2021-02-18 | [[2021-02-18-yt-9xAMe0QBFhU]] | If you don't understand margin — proto gross-profit-not-revenue | |
+| 2021-02-23 | [[2021-02-23-yt-Cr0KdqZ954c]] | Intro to Marketing 101 — proto-LTV:CAC + 30-day-cash OPM | |
+| 2021-03-02 | [[2021-03-02-yt-rnvOwA39dDg]] | How to retire early — 2021 EXTREME FRUGALITY (belief-evolution anchor) | ★ |
 | 2021-03-25 | [[2021-03-25-yt-sKCrYIWPHLc]] | "Built my $100M business wrong" — scale zero, oceans not lakes (bio) | ★ |
 | 2021-04-15 | [[2021-04-15-yt-0BZ7-PZR8jE]] | 106M ad impressions — three-wheels statistical hook framework | ★ |
 | 2021-05-19 | [[2021-05-19-yt-c5Lw12PXkgU]] | $217k day-trade loss → buy-and-hold investing philosophy (bio) | ★ |
@@ -547,7 +555,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_517 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi long-form at his very first uploads (Mar 2022)._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_525 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

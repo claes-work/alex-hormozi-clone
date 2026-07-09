@@ -1463,3 +1463,37 @@ VTT cleaning, ledger report). Verified yt-dlp + ffmpeg + python available. Phase
 Created CLAUDE.md (schema), directory layout (raw/ gitignored, wiki/sources/,
 wiki/topics/, persona/), index.md, log.md, persona stubs, and wiki/gaps.md.
 No sources ingested yet.
+
+## [2026-07-09] ingest | yt batch 70 — @AlexHormozi origin-era (2018–2021), 8 videos + metadata backfill
+
+Backfilled @AlexHormozi metadata (177 rows dated, +44 promoted P1) — the remaining 166 "P2"
+rows were undated (enumerated pre-backfill), NOT a mid-period gap. Then ingested the 8 OLDEST
+open videos (L2), his framework-seed era:
+
+- **2018-07-20** `yt-aiS5qH7UMX4` "Sell Anywhere" — rare self-filmed clip of Alex personally
+  opening a raw, "sketchy" residential gym in 2018, flashing $500 bills. Hands-on operator era,
+  pre-fame. Bio detail. Quote: "don't let your circumstances make you feel like you can't sell.
+  Usually, it's just your pitch."
+- **2020-11-05** `yt-pxVeOkOVr2w` "The Offer Is King" — proto-Grand-Slam-Offer + proto-Value-
+  Equation + proto-money-model, in pre-book vocabulary ("build a better mousetrap", "monetize
+  free"). Names a book-in-progress titled *Acquire* (working title, Nov 2020). L3-candidate.
+- **2020-12-08** `yt-XZEjp2mP1U0` "Scale Fast" — idiosyncratic "pi equation" (inflow÷outflow),
+  revenue-based 3:1 acquisition guardrail (proto-LTGP:CAC), churn=inflow growth-ceiling, and a
+  "golden ratio" (referral÷churn) for net-negative churn. Terminology didn't survive to later
+  branded frameworks. L3-candidate.
+- **2020-12-31** `yt-OyGKFhTf0go` "The Copy Rule" — Rule of One; credits copywriter **Michael
+  Masterson** (Agora, *Great Leads*); captions garble as "Mastersonson" (flagged).
+- **2021-01-14** `yt-s9fSDCRPQNA` "First $100k is Toughest" — relays Munger's "first $100k"
+  line; ~90% Alex-original wealth framing (leverage/arbitrage, buy-back-time, skill-stacking).
+- **2021-02-18** `yt-9xAMe0QBFhU` "Understand Margin" — proto gross-profit-not-revenue; 80%
+  service-margin rule; "each margin step doubles profitability". Live-math caption garbles flagged.
+- **2021-02-23** `yt-Cr0KdqZ954c` "Marketing 101" — proto-LTV:CAC>3:1 + "30-day cash ≥ CAC"
+  financed by interest-free credit/OPM (~2.5yr-early precursor to CFA in $100M Leads).
+- **2021-03-02** `yt-rnvOwA39dDg` "Retire Early" — ⚠️ **belief-evolution anchor**: 2021
+  EXTREME-FRUGALITY wealth phase (live on <5% income, ~$30–40k/yr as a cash millionaire, ~$6k
+  Prius, passive S&P index, retire on savings RATE). "Totally regret[s]" the Bentley. Sits in
+  direct tension with his later Acquisition.com reinvest-everything / seasons-of-spending stance.
+
+Ledger 8→L2 (L2 now 525). youtube-index/index/footer updated. **L3-candidate backlog for next
+synthesis:** proto-framework timeline (offer/money-model/LTGP:CAC/CFA seeds 2020–2021) + the
+frugality→reinvest wealth-philosophy reversal (needs a dated CONTRADICTION callout).
