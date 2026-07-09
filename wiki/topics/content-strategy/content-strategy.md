@@ -28,4 +28,7 @@ His own media playbook: platforms, formats, hooks, volume.
 - [[audience-monetization|Audience Monetization]] — the 4 ways to turn an audience into money
   (affiliates / sponsorships / partnerships & equity / own brand) on a difficulty×risk×exit continuum,
   vanity vs business metrics (niche > reach), deal-structuring rules (equity over cash).
+- [[book-writing-and-launch|Book Writing & Launch]] — his self-publishing playbook: ~1,000 hrs / ~8
+  drafts per book, the word-of-mouth launch, and the free/low-price spread strategy ($100M Offers →
+  200k+ copies with no publisher/ads/audience).
 

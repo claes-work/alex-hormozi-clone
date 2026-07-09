@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 70
+sources: 74
 ---
 
 # Beliefs
@@ -514,6 +514,20 @@ Synthesized from [[../wiki/topics/content-strategy/content-engine|content-engine
   implementation" thesis above to education/course models; foreshadows the community/Skool
   thesis below. "Applied to Harvard 10 times, rejected" is self-reported.)
   [[../wiki/sources/2023-05-17-yt-oTQPxPFROck]]
+- **Attention is the new oil; content is the input, the audience is the output** (2022) —
+  paraphrase: last century's fortunes were built on energy, today's on **capturing
+  attention**, the scarce resource — **"if the Rockefellers were built on oil, the new
+  generation of people are going to be built on attention."** He maps content onto **Naval's
+  four types of leverage — labor, capital, code, media** (borrowed from Naval Ravikant —
+  flag when citing); code and media are permissionless (one-time input, infinite output),
+  and media is the vehicle he decided he could win at. **"The content is not the output; the
+  content is the input. The output is the audience, and the audience is what compounds. The
+  audience is what sticks."** Building an audience is **tax-free**, and you choose the
+  monetization ("conversion event") later — "the longer the runway, the bigger the plane
+  that can take off from it." (Same four-leverage taxonomy as the "four C's" leverage-ladder
+  wealth entries below; the belief-shift catalyst — younger creators like Kylie Jenner
+  out-earning him — also anchors the anti-brand → brand flip in Opinions over time.
+  Self-reported figures.) [[../wiki/sources/2022-10-09-yt-6DCDGSnRDtM]]
 
 ## Frameworks — Mindset & discipline (2021–2026)
 
@@ -737,6 +751,26 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   acquisition cost climbs. (Product-first hierarchy reinforces the 2024 "Product-first: get
   rich by getting better" wealth entry; self-reported that *$100M Offers* sells ~25k
   copies/month with no ads.) [[../wiki/sources/2023-05-31-yt-qLM5G7N3l3I]]
+- **On mentorship — surpassing a mentor proves the teacher succeeded, not that you're
+  better** (2022) — current view: **"the point of a good teacher is that the student does
+  pass the teacher."** You only surpass a mentor because they "gave you the head start"
+  ("step on my shoulder, you can reach that next branch"), so mentorship is **generational
+  progress, not competition** — "the people who are going to be your pallbearers are... the
+  people that you helped," each generation clearing the path so the next moves faster. The
+  prescription: mentees stop dumping on the mentors who helped them; mentors stop withholding
+  secrets (text an old mentor "respect, I appreciate you"). He explicitly **keeps his
+  competitive drive** — "I'm still going to be hustling trying to beat you." (Self-reported;
+  he misnames Ben Graham as "Paul Graham" in the source — do not propagate.)
+  [[../wiki/sources/2022-10-02-yt-39I8jEqFdYc]]
+
+  > ⚠️ POSITION CHANGE (mentorship, early career → 2022-10-02): Earlier in his career, when
+  > he passed his mentors financially, Alex read it as **"I'm better than them"** and looked
+  > at earlier teachers as if they "didn't know anything" — mentorship framed competitively,
+  > as vanquishing. By **2022-10-02** he recants: the exact same fact now means the mentor
+  > *did their job*, and a mentee surpassing you is proof of good teaching, not idiocy. The
+  > recant is **partial** — he abandons the ego interpretation, not the ambition. Do not
+  > present the old "I'm better than them" reading as current.
+  > [[../wiki/sources/2022-10-02-yt-39I8jEqFdYc]]
 
 ## Relationships & partner selection (2023–2024)
 
@@ -785,6 +819,21 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   and Tupac as illustrations; the hard-conversation framework is credited to Leila — flag
   when citing. Self-reported.) [[../wiki/sources/2023-06-21-yt-1taVrxMFjaY]]
 
+- **Shed friends by "season"; join aligned communities to rise** (2022) — paraphrase: he
+  "sheds friends every season," thinking in **three-to-five-year seasons** and keeping a
+  very small close circle, because **"most people suck at most things and aren't bound for
+  greatness"** and, statistically, the people you grow up with won't reach the top 1%. All
+  relationships are **transactional — behavior either reinforced or punished** (relationship
+  strength = "how long you'll wait for the next reinforcement," so even a 10-year friendship
+  gets cut with no reinforcement); love is measured by **"which friends am I willing to
+  sacrifice the most to keep?"** Old friends "beat the old label into you," so the best
+  answer to "you've changed" is **"yeah, you have."** Prescription: weed people out, **join
+  communities of people with the same goals**, crush it (volume is the answer, time is the
+  ingredient), rise in status, and **leapfrog into higher circles** — "it's just lunch
+  tables on steroids." (Sharpens the "curate your reference group" and friendship-spectrum
+  entries above into an explicit reference-group-caps-your-growth thesis; self-reported.)
+  [[../wiki/sources/2022-10-16-yt-vVssypj7nYw]]
+
 ## Frameworks — Wealth & investing (2021–2026)
 
 Synthesized from [[../wiki/topics/wealth/investing-and-wealth|investing-and-wealth]] (four
@@ -798,6 +847,18 @@ video sources; nearly every figure is self-reported napkin math).
   "manage my idiocy," 95–97% in "really really stable stuff." **Keep passive passive, keep
   active active** (2026) — real estate/REITs are fine only while genuinely passive; turning
   passive money active to chase ~5% more is a bad trade vs. the same time in active income.
+- **Live like you're poor to stay on the offensive; spend far below your means** (2022) —
+  paraphrase: in his early years he lived on **~$1,500/month while taking home
+  ~$15–20k/month**, both because he's "incredibly risk-averse" *and* to stockpile cash "to
+  go on the offensive later." Keep fixed costs brutally low across the three cost centers
+  (food, transportation, housing) because living cheap raises risk tolerance and makes you
+  hard to stop — **"it's very hard to fight someone who has nothing to lose... who can live
+  on nothing."** Making $20k/mo "was never an amount of money that I wanted to brag about";
+  the game is to spend as little as humanly possible while making as much as possible. Pair
+  frugality with attention — he checked his **bank balance first thing every morning** and
+  logged it, because **"money sticks to the person who pays it the most attention."**
+  (Self-reported biographical figures, unverified; reinforces the play-money / risk-aversion
+  entries.) [[../wiki/sources/2022-12-07-yt-Day0yToqeco]]
 - **Wealth = what you own, not what you do** (2024) — the highest-leverage games have **zero
   cost of replication** (media, software, licensing). **Private equity holds the highest
   concentration of billionaires** via stacked arbitrage (buy below intrinsic value + debt +

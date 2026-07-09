@@ -18,6 +18,24 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] lint | Synthesis pass 14 — 2 new topics (book-launch, sales-team-scaling) + biography + system-prompt v16
+
+Loop iteration 62 (synthesis). 4 parallel agents + recompile:
+- **NEW wiki/topics/content-strategy/book-writing-and-launch.md** — his self-publish playbook (~1,000
+  hrs/8 drafts per book, word-of-mouth launch, free/low-price spread; $100M Offers → 200k+ copies with
+  no publisher/ads/audience) + a 2021-pure-WoM vs 2025-affiliate-army evolution note.
+- **NEW wiki/topics/business/sales-team-scaling.md** — building a sales team from 0 (4 interview
+  screens, 14-day onboarding ramp, the team CLOSER script + per-rep coaching loop, culture triad + PIP)
+  — distinct from the individual-closer sales-frameworks page. Both wired into hubs + index. **43 topic
+  pages now.**
+- **persona/beliefs.md** (70→74 sources): +shed-friends-by-season, +mentorship-position-change (⚠️),
+  +attention-is-new-oil/Naval-4-leverage, +live-below-means-to-stay-offensive.
+- **persona/biography.md** (27→31 sources): reconciled the $100M Offers self-publish metrics into the
+  Jul-2021 row, NEWLY LINKED "Seven Fig Sam" = **Sam Ovens**, added $2M→$7M→$30M / $17M-at-27 / earliest-
+  Kylie-trigger / fraternity-president corroborations.
+- **persona/system-prompt.md → v16** (compiled_from_sources 455→471).
+Next: continue @AlexHormozi P2 (206 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — book-launch + sales-team-scaling + mentorship-pivot (L2=469)
 
 Loop iteration 61. 8 @AlexHormozi P2 (Sep-Oct 2022, near channel start). 3 L3-candidates: -TOYJHax5x8

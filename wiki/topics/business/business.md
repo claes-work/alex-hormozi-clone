@@ -35,6 +35,9 @@ Offers, leads, sales, scaling, money models, pricing, retention.
 
 - [[sales-frameworks|Sales Frameworks]] — CLOSER, logical closing (onion of blame + 5
   obstacles), 3 sales hacks, transference of conviction, high-ticket pricing, sales-team scaling.
+- [[sales-team-scaling|Sales Team Scaling]] — building a sales team from 0: interview screens
+  (speed/intelligence/listening/coachability), the 14-day onboarding ramp, the team CLOSER script +
+  per-rep coaching loop, culture triad & PIP performance management.
 - [[scaling-and-enterprise-value|Scaling & Enterprise Value]] — $0→$10M growth ladder, 5 ways
   to scale, scale-zero, EV = customers × LTGP ÷ risk, exit/M&A philosophy, talent-side LTV:CAC.
 - [[acquisition-channels|Acquisition Channels]] — Big 4 vs 6 sources vs Core Four reconciled;
