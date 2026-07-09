@@ -587,6 +587,13 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-15 | [[2026-05-15-yt-odzFTjbZUQk]] | Crowd-following - father approval, agency compression, first-wall proof | ★ |
 | 2026-05-15 | [[2026-05-15-yt-vMtyb9dW0nw]] | Risk misjudgment - threat bias, upside, play-it-out specificity | ★ |
 | 2026-05-15 | [[2026-05-15-yt-onWjGPPXe-w]] | Future self - bulletproof identity, 85-year-old gratitude, presence | ★ |
+| 2026-05-15 | [[2026-05-15-yt-lx0iKaEZBcA]] | Construction safety - supply gen, recruiting funnel, CAT vs employee GP | ★ |
+| 2026-05-15 | [[2026-05-15-yt-BJVp1NImURw]] | 12-hour work - no phone, elimination, environment, commitment | ★ |
+| 2026-05-15 | [[2026-05-15-yt-T6DmvTmPqAw]] | Hiring smart people - candidate question quality and research synthesis | ★ |
+| 2026-05-15 | [[2026-05-15-yt-aSGEg3M_5d8]] | Fitness - no creatine, testosterone self-report, androgen sensitivity | |
+| 2026-05-15 | [[2026-05-15-yt-uiSkLIy58_U]] | 100 reps - top 10% review, checklist learning, many small things | ★ |
+| 2026-05-15 | [[2026-05-15-yt-Xi2FpzClwww]] | Sales learning - Sam Bakhtiar, humor, childlike curiosity, back-foot selling | ★ |
+| 2026-05-15 | [[2026-05-15-yt-Wia0oSOu7ZQ]] | Constraint attack - 15 books, violent action, consistency and volume | ★ |
 | 2026-05-16 | [[2026-05-16-yt-W2KFhckp47Y]] | Wantrepreneur catalyst - plan B, deletion, death grounding | ★ |
 | 2026-05-16 | [[2026-05-16-yt-vUa-zHArE9Q]] | Happiness formula - pursuit, Rocky cut scene, goals as long target | ★ |
 | 2026-05-16 | [[2026-05-16-yt-bxnaIwzAC-M]] | SaaS churn - onboarding, activation, segmentation, value-cycle billing | ★ |
@@ -1099,7 +1106,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,069 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,465 total, including P2 (~1,443, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,076 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,457 total, including P2 (~1,435, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 34 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

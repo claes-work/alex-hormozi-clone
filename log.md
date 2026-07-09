@@ -3517,3 +3517,29 @@ L2.
 
 Ledger 8→L2 (L2 now 1,069). youtube-index/index/footer updated. @MoreMozi P2: ~1,370 rows remain.
 Synthesis notes: obvious-list/Solomon-paradox/future-self advice; personal-brand content flashlight/proportional curation/how-I caveat; cold-outreach ticket-size/channel fit and organic-nurture sales assets; productized-service trap/professional-services supply constraint/no-outside-capital; owner-vs-CEO/focus/portfolio-order/splitting-attention; father approval/agility compression/first-wall proof; risk upside underestimation/play-it-out; bulletproof future self/85-year-old gratitude/presence.
+
+## [2026-07-09] ingest | yt batch 138 — @MoreMozi P2 (2026-05-15), 7 videos
+
+Fifty-first resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. `yt-fjURa58HBLA` was
+marked L1/unavailable by the driver. The driver printed the checkpoint banner again;
+`python tools/synthesis_batch.py prepare` reported no pending checkpoints, so no
+synthesis commit was available. The 7 successful rows were ingested as L2.
+
+- **2026-05-15** `yt-lx0iKaEZBcA` "$2.1M Founder Working 70-Hour Weeks Asks for Help" — service scaling:
+  supply-generation funnel, referral economics, CAT, and employee gross-profit math.
+- **2026-05-15** `yt-BJVp1NImURw` "12 Hours, No Phone: How I Actually Get Work Done" — productivity:
+  no phone, elimination over addition, controlled environment, and commitment as no alternatives.
+- **2026-05-15** `yt-T6DmvTmPqAw` "How I Tell if a Job Candidate is Actually Smart" — hiring:
+  question quality, research depth, and synthesis as intelligence signal.
+- **2026-05-15** `yt-aSGEg3M_5d8` "Why I Don't Take Creatine" — fitness:
+  no creatine, low-testosterone self-report, androgen sensitivity, and medical caveat.
+- **2026-05-15** `yt-uiSkLIy58_U` "Do 100 Reps, Then Find the Top 10%" — learning:
+  100-rep batches, top-10% comparison, checklist iteration, and many-small-things compounding.
+- **2026-05-15** `yt-Xi2FpzClwww` "How I Learned to Market and Sell" — sales:
+  Sam Bakhtiar gym apprenticeship, humor, childlike curiosity, objections as dance, and back-foot selling.
+- **2026-05-15** `yt-Wia0oSOu7ZQ` "Why I Read 15 Books in 2 Weeks to Solve One Problem" — constraints:
+  family-office reading sprint, violent constraint attack, focus/commitment, consistency, and 35k content output.
+
+Ledger 7→L2 (L2 now 1,076); 1 unavailable marked L1. youtube-index/index/footer updated. @MoreMozi P2: ~1,362 rows remain.
+Synthesis notes: service-business supply-gen funnel/CAT/lifetime gross profit per employee; productivity by elimination/environment/no-phone/commitment; hiring intelligence via question quality; fitness creatine/testosterone self-report with medical caveat; 100-rep top-10% learning loop; sales tone/humor/childlike-curiosity/back-foot selling/Sam Bakhtiar self-report; violent constraint attack/15-books-family-office/consistency-volume/35k content-output self-report.
