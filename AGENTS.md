@@ -113,6 +113,12 @@ updates its row. Nothing enters the wiki untracked.
 
 ## Operations
 
+> **Driver:** the mechanical half of a YouTube batch (select next open rows → fetch captions →
+> clean to text → tidy the ledger) is scripted and harness-neutral — run
+> `python tools/ingest_batch.py status` and `… prepare --channel <@handle> --n 10`.
+> See [`tools/INGEST.md`](tools/INGEST.md) for the full step-by-step. You only do the judgement
+> half (writing the `wiki/sources/` pages under the fidelity rules).
+
 ### Ingest (one source at a time, user stays in the loop)
 
 1. File the source in `raw/` as `YYYY-MM-DD-slug.md` (publication date). Raw files are
