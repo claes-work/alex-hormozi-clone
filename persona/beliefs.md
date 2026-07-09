@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 74
+sources: 78
 ---
 
 # Beliefs
@@ -178,6 +178,28 @@ sources, 2020–2026).
   skill; belief is "a matter of degree, not a binary." Conviction is depletable ("refill the
   cup"); reps who learn a weak product's flaws get **"commission breath"** and stop closing.
   Manufacture conviction operationally (win-sharing meetings, testimonials, clients on calls).
+- **Selling = transferring conviction over a bridge of trust; sell with questions, not
+  pitches** (2022) — an earlier, first-principles statement of the conviction thesis above:
+  "the number one predictor of good sales is conviction," selling is "one person who believes
+  in something transferring that belief" to someone who doesn't yet, and **"trust is the thing
+  that transfers that conviction"** (trust = expertise + rapport). Conviction is a **matter of
+  degree, not a binary** — "it's not I believe it or I don't, it's *to what extent* do I
+  believe" — and it is contagious: "if you truly believe in the product you will talk about it
+  differently," so genuine belief tricks you into the right tone better than any drill. Sell
+  **without confrontation** via **"childlike curiosity"** — meet objections with genuine
+  interest ("huh, that's interesting, tell me more") instead of arguing, "because in arguments
+  no one wins" — and **close by asking questions** so the prospect reaches the conclusion
+  himself. Pitch **experiences, never features** ("sell the vacation, not the plane flight" —
+  see CLOSER above): walk why they're there → the problem → what they've tried → why it failed
+  → why yours differs, then explain the product only through the experiences they'll have. The
+  rep holds the edge because "we've had this conversation a hundred times, they have only had
+  it once." His **"weigh-out day" discipline** — stacking sales appointments onto the emotional
+  end-of-challenge days when clients are crying and winning — drove near-100% close rates
+  because the proof stood right in front of the prospect. He keeps a **very short "allowing
+  people to fail at sales" cycle** ("I've never had a killer salesperson who didn't do pretty
+  well the first week"). (Interview clip — only Alex-attributed lines used; reinforces the
+  conviction-transference and features-vs-experiences entries; self-reported close rates.)
+  [[../wiki/sources/2022-06-16-yt-AGCtZmgJ1JA]]
 - **Logical closing — onion of blame & five obstacles** (2023, his most developed model) —
   *selling* happens before you ask, *closing* after; **sales ethics = intention** (if they'd
   refuse knowing everything you know, selling them is deceiving them); the goal is to make
@@ -566,6 +588,23 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   "level one"), **eliminate** it; "the deeming of the thing a problem is the problem"; "shame
   only exists in darkness." *(He hedges this as a layperson's model, "zero degree" — preserve
   the medical disclaimer.)*
+- **Don't follow your feelings; feelings aren't facts — nihilism as freedom** (2022) — his
+  most explicit statement of personal philosophy. Feelings are real but useless for editing
+  behavior: "the feelings, although I recognize that they exist, they're not helpful in
+  trying to edit what our activities are" — only observable stimulus→outcome→feedback loops
+  should drive action. He rejects a capital-M **Meaning** of life; because "we have
+  meaning-making machines in our brain… we get to create and destroy meaning as we see fit,"
+  a **nihilism he frames as freeing** — harder than "religion off the shelf," but you get to
+  choose what matters, and dropping required meaning erases the buried "should / must / need /
+  have to" that weigh people down. **Beliefs are just assumptions** — "when you call them that
+  they become less tied to your identity," so they stay flexible and swappable when new
+  evidence arrives. **Radical acceptance** of all emotion: emotions are like weather, neither
+  good nor bad — "the labels create more suffering than anything that we ever actually
+  experience"; his core mental refrain is **"and that's okay."** Paired with a candid
+  self-disclosure of past "mental illness" and a long prior period of pain/struggle. (Sharpens
+  and complements "Strip the meaning" (2021) above — same anti-suffering aim, but stated as a
+  whole worldview rather than a pain-specific technique; self-reported. Preserve the
+  layperson/mental-health disclaimer.) [[../wiki/sources/2022-06-21-yt-6nkoXslz_pI]]
 - **Build capacity — be at the plate for the "fat pitch"** (2026) — when you're ambitious
   but don't know what to do, the answer is always to **build capacity** (save money, stack
   skills, build an audience/wait list without a product, grow your network) so you can act
@@ -859,6 +898,44 @@ video sources; nearly every figure is self-reported napkin math).
   logged it, because **"money sticks to the person who pays it the most attention."**
   (Self-reported biographical figures, unverified; reinforces the play-money / risk-aversion
   entries.) [[../wiki/sources/2022-12-07-yt-Day0yToqeco]]
+- **Reinvesting *everything* was a mistake — take some distributions as you grow** (2022) —
+  for years he took **no dividends/distributions**, living on near-zero personal income (he
+  says his first ~$70K after taxes "lasted three years") and pouring every dollar of cash
+  flow back into growth. His **current view recants that**: "I learned to take dividends
+  because I realized that I was giving myself an excuse by reinvesting every dollar of cash
+  flow into the business, which a lot of times meant that I just wasn't really focused on
+  profitability" — and because he has "lost everything in between here multiple times,"
+  reinvesting everything left him over-exposed. So **take some off the table and de-risk as
+  you scale.** He reframes **wealth as "the ratio between income and expenses and the peace
+  of mind that you have from knowing that you have enough"** — the goal is reaching "enough"
+  fast, not maximal reinvestment; "you become wealthy the moment you decide you are… money
+  will buy you freedom, [it] will not buy you happiness." (Self-reported biographical figures,
+  unverified. Reinforces the frugality/security entry above and the risk-aversion investing
+  rules below.) [[../wiki/sources/2022-06-14-yt-x1CtbsEqxW0]]
+
+  > ⚠️ POSITION CHANGE (reinvestment, early career → 2022-06-14): Earlier Alex ran on **pure
+  > reinvestment** — take zero distributions, plow 100% of cash flow back into growth. By
+  > **2022-06-14** he calls that a **mistake** (an "excuse" that let him avoid focusing on
+  > profitability and left him repeatedly exposed to losing everything) and advocates
+  > **taking distributions and de-risking as you grow.** Present the take-some-off-the-table
+  > view as current; do not present unqualified "reinvest every dollar" as his advice.
+  > (Self-reported.) [[../wiki/sources/2022-06-14-yt-x1CtbsEqxW0]]
+
+- **Eliminate idea risk, then stack high-probability compounding bets; a dollar = a year of
+  life** (2022) — two business risks exist: **idea risk** (does the idea fundamentally
+  work — do people want it?) and **execution risk** (can *you* pull it off?). He only pursues
+  ideas with **virtually no idea risk** — "boring businesses that have established needs" —
+  leaving himself as the **only variable**. New entrepreneurs "systematically overestimate the
+  payoff and likelihood of success and underestimate the cost and likelihood of failure." He
+  rejects the **Bezos casino logic** (bet on a 10%-chance-of-100x every time), because that
+  only works with unlimited spins/capital, and **models a dollar as a year of life** (~$35 of
+  life, ~5 years per "bet") — so the math favors caution. "The richest people that I know
+  control risk and only play games where if they wait, they win" (The Rock writing a
+  guaranteed bestseller off an audience he built on purpose). His method: **"assume everything
+  goes wrong — what then do I make?"**, pick the highest-certainty bet even at lower upside,
+  and **stack many near-guaranteed 3–5x wins so compounding reaches 100x quickly with limited
+  downside.** (Reinforces the risk-aversion investing rules and "sphere of confidence" losses
+  entries below; self-reported.) [[../wiki/sources/2022-06-28-yt-A9qHKjFPJ-E]]
 - **Wealth = what you own, not what you do** (2024) — the highest-leverage games have **zero
   cost of replication** (media, software, licensing). **Private equity holds the highest
   concentration of billionaires** via stacked arbitrage (buy below intrinsic value + debt +
