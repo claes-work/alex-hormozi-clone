@@ -601,6 +601,13 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-02 | [[2026-04-02-yt-0_Yyxwtrt_Q]] | Clothing brand $4.5M — retention 30→65% + price-matched influencers (light) | |
 | 2026-04-03 | [[2026-04-03-yt-W0Xw3-gAsJ8]] | Law firm $24M — focus, open more offices (light) | |
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
+| 2026-04-21 | [[2026-04-21-yt-XzwNu7j6X0o]] | Money — bottled time/power, love making money not money itself | ★ |
+| 2026-04-21 | [[2026-04-21-yt-LGtpI0VkVF0]] | Suffering — fix the story loop, punishment fades, reward sticks | ★ |
+| 2026-04-21 | [[2026-04-21-yt-0NK_YwwhEeA]] | Content competence — first-experience, retrospective authority | ★ |
+| 2026-04-21 | [[2026-04-21-yt-1aGbrnRQcbc]] | Music lessons — LTV:CAC vs ROIC, semi-private, supply levers | ★ |
+| 2026-04-21 | [[2026-04-21-yt-2S6Qcpad2Fo]] | SaaS churn — resting growth rate, fix bucket before paid traffic | ★ |
+| 2026-04-21 | [[2026-04-21-yt-234n9KgEsjI]] | Coaching economics — LTV over CAC, new-offer trap | ★ |
+| 2026-04-21 | [[2026-04-21-yt-acM0Vjxodsc]] | Content decision — add content only if it solves the constraint | ★ |
 | 2026-04-22 | [[2026-04-22-yt-ehspvdEhkaY]] | Entrepreneurship — feedback loops, skills, education as behavior change | ★ |
 | 2026-04-22 | [[2026-04-22-yt-wQA6vpgMtlw]] | Price — product as retailer lead gen, competitor curiosity opener | ★ |
 | 2026-04-22 | [[2026-04-22-yt-hyfJiJG9pd4]] | Roofing scale — nail model first, franchise as expensive capital | ★ |
@@ -610,6 +617,7 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-22 | [[2026-04-22-yt-TDPxe8RQX74]] | Doubters — master the lonely middle and uncertainty of sacrifice | ★ |
 | 2026-04-22 | [[2026-04-22-yt-rzPZJ7O9iao]] | Coaching scale — book funnel, pain hooks, books as brand halo | ★ |
 | 2026-04-22 | [[2026-04-22-yt-CS--glCpAhk]] | Wealth — value x negotiation x scarcity, skill stack as moat | ★ |
+| 2026-04-22 | [[2026-04-22-yt-B5eGKuIJl20]] | Passion — create it through competence, excellence, and learning to work | ★ |
 | 2026-04-23 | [[2026-04-23-yt-NI0rUpiZIwM]] | Confidence — build evidence through action, not affirmations | ★ |
 | 2026-04-23 | [[2026-04-23-yt-mYpJ7XlOE50]] | Books — legacy asset, poor direct monetization vehicle | ★ |
 | 2026-04-23 | [[2026-04-23-yt-9VIpSmaXMdc]] | Infinite games — business as play, death-awareness as freedom | ★ |
@@ -1380,7 +1388,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,350 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,122 total, including P2 (~1,114 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,358 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,114 total, including P2 (~1,106 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

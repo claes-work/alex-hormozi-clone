@@ -4654,3 +4654,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,350). youtube-index/index/footer updated.
 Synthesis notes: retailer-product-as-lead-gen/competitor-curiosity-opener/price-premium-as-marketing-budget; nail-model-before-scale-path/franchise-as-impatient-expensive-capital/owned-stores-simplify; give-without-expectation/goodwill-deposits/early-podcast-small-for-years/real-room-reframe; tax-structure-later/Gym-Launch-entity-sale/by-the-book-tax-posture/durable-tax-shelters/location-tax-leverage; do-not-sacrifice-brand-for-views/algorithm-chasing-risk/post-Gym-Launch-brand-epiphany/expertise-boundary; lonely-middle/status-ladder-support/doubters-right-until-outcome/uncertainty-of-sacrifice; book-funnel-for-coaching/highest-pain-hook/books-as-brand-halo/high-LTV-ad-spend; wealth-equation-value-negotiation-scarcity/skill-stack-as-moat/time-as-weapon.
+
+## [2026-07-09] ingest | yt batch 181 - @MoreMozi P2 (2026-04-21 to 2026-04-22), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-22** `yt-B5eGKuIJl20` - passion created through competence, excellence,
+  learning to work, and repetitive action as the win.
+- **2026-04-21** `yt-XzwNu7j6X0o` - money as bottled time/potential energy and fear of
+  money as fear of power.
+- **2026-04-21** `yt-LGtpI0VkVF0` - accepting suffering by fixing the story loop; reward
+  sticks while punishment fades.
+- **2026-04-21** `yt-0NK_YwwhEeA` - content circle of competence, first-experience
+  content, and authority from retrospect.
+- **2026-04-21** `yt-1aGbrnRQcbc` - LTV:CAC versus ROIC, semi-private lesson delivery,
+  80%+ gross-margin rule, and supply-constrained levers.
+- **2026-04-21** `yt-2S6Qcpad2Fo` - low-priced SaaS needs resting growth, churn repair,
+  or referrals before paid traffic.
+- **2026-04-21** `yt-234n9KgEsjI` - LTV is the sustainable advantage over CAC, with a
+  warning about coaching businesses launching new offers because the first product is weak.
+- **2026-04-21** `yt-acM0Vjxodsc` - content is another channel and should only be added
+  if it solves the current constraint.
+
+Ledger 8->L2 (L2 now 1,358). youtube-index/index/footer updated.
+Synthesis notes: passion-through-competence/learning-to-work/repetitive-actions-as-win/ping-pong-lifting-presence; money-as-bottled-time/love-making-money/fear-of-power/money-amplifies-mission; accept-suffering/fix-story-loop/punishment-fades-reward-sticks/present-lament-warning; content-circle-of-competence/first-experience-content/retrospective-authority/comments-sting-when-true; LTV-CAC-vs-ROIC/semi-private-lessons/80-percent-gross-margin/supply-constraint-levers/stress-lowers-capacity; SaaS-resting-growth-rate/fix-bucket-before-paid-traffic/referrals-vs-expansion/Skool-metrics; LTV-over-CAC/negative-word-of-mouth/coaching-new-offer-trap/solve-back-to-front; content-only-if-constraint/attention-if-not-supply-constrained/content-for-labor-supply.
