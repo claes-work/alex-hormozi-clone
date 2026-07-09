@@ -299,12 +299,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-07-05 | [[2023-07-05-yt-Nh8Oc7ERdIU]] | Get ahead of 99% — the leverage ladder mapped to income stages, "ignorance debt" | |
 | 2023-07-12 | [[2023-07-12-yt-VPre_XMgKjs]] | Why MrBeast will be worth $100B — the media-CPG flywheel, "your product is your marketing" | ★ |
 | 2023-07-19 | [[2023-07-19-yt-7NMH1oAkgLY]] | Giving away free stuff will make you rich — lead magnets lower CAC; the 7-step checklist | |
+| 2023-07-24 | [[2023-07-24-yt-y7O-iTWwTW8]] | Vlog: Dave Ramsey trip, future-self journaling, workout routine, and own-niche branding | |
 | 2023-07-26 | [[2023-07-26-yt-5cOwh-8scu8]] | Make money online without destroying your reputation — the give-until-they-ask ratio | |
 | 2023-08-02 | [[2023-08-02-yt-w7g08dVTwaE]] | Get your first 5 customers — the 10-step warm outreach playbook + ACA framework | ★ |
 | 2023-08-05 | [[2023-08-05-yt-RdAKXJlMIZM]] | So rich you question the meaning — work = volume × leverage; focus; the valley of despair | |
 | 2023-08-30 | [[2023-08-30-yt-fd-hi3NqMYo]] | 5M followers "secret method" — the two-phase agency playbook (buy skill, then in-house) | |
 | 2023-09-06 | [[2023-09-06-yt-HKbFUWJwEG0]] | I reverse-engineered the perfect business — the 10 enterprise-value criteria ("Mosey Lisa") | ★ |
 | 2023-09-09 | [[2023-09-09-yt-aBPWCdaJJqA]] | I helped 6 business owners — live diagnostics (unit economics, partnerships, skills→character→time) | |
+| 2023-09-13 | [[2023-09-13-yt-jvXOOddDg_s]] | Dave Ramsey interview - trust-brand context; Alex self-reports business-only investing focus after liquidity | ★ |
 | 2023-09-20 | [[2023-09-20-yt-4GjwtnA76ig]] | The video that'll make you more money — the $100M Offers core keynote | |
 | 2023-09-27 | [[2023-09-27-yt-Ktwv_uEW-uA]] | "What now?" (Ep 009) — vlog; "one of zero" brand, redefining winning (Leads launch tour) | |
 | 2023-10-04 | [[2023-10-04-yt-c_6BrF7jOGk]] | I doubled a business in 60 days (Pt 1) — the 5 sales-funnel metrics (56→93 units) | ★ |
@@ -326,6 +328,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-01-17 | [[2024-01-17-yt-0_Gf5v8DEMY]] | Overcome fear of failure — judge yourself by controllable inputs, not outcomes (Q&A) | |
 | 2024-01-24 | [[2024-01-24-yt-3aAbKVSFP6k]] | "Getting rich isn't fun" (Ep 014) — the glamour hides meetings/calls; jagged growth (vlog) | |
 | 2024-01-31 | [[2024-01-31-yt-pt50QF6al8g]] | Build your confidence — confidence = evidence-based prediction; finite vs infinite game | |
+| 2024-02-07 | [[2024-02-07-yt-YZdE8U5eD_s]] | Harley Finkelstein interview - first business as learning, scratch own itch, advertise by making known | |
 | 2024-02-14 | [[2024-02-14-yt-jiCGLDhUCHY]] | "If I were single and starting over" — partner selection: growth not change, loyalty = predictability | |
 | 2024-02-21 | [[2024-02-21-yt-5JLqmQlGG0U]] | If I wanted to get rich & famous — 5-influencer brand breakdown + 7-point inverted playbook | ★ |
 | 2024-02-28 | [[2024-02-28-yt-nxL4ZfVqKLI]] | Watch before college — the ROI "game of one or zero"; he names **Vanderbilt** (resolves Tufts gap) | |
@@ -388,6 +391,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-11-18 | [[2024-11-18-yt-7qy-EPc2gYU]] | **Workout with Chris Bumstead** — FITNESS/APPEARANCE/BIO gold: calves, PRs, **DOB ~Aug 1989**, bodybuilding 14-22 | ★ |
 | 2024-11-20 | [[2024-11-20-yt-rn5-yLUaNw0]] | ⚠️ Skool comedic ad (Old Spice parody) — positioning only, not a teaching video | |
 | 2024-11-27 | [[2024-11-27-yt-oDK4g5na4Jw]] | No BS advice to get rich like the 1% — 4 pairings, 100x volume (dup of cnbHgYYHzyE) | |
+| 2024-11-30 | [[2024-11-30-yt-YUXLJauT4eY]] | Shopify Black Friday teardown - focus, event offers, customer data, and first-time buyer incentives | |
 | 2024-12-03 | [[2024-12-03-yt-ovL6Z5z0jxQ]] | 3 fastest ways to grow any business — arbitrage, giveaways, pricing (+ monetize your list) | ★ |
 | 2024-12-04 | [[2024-12-04-yt-QTZsh3BgOwY]] | You're wasting your chance — the "six horsemen" + a 5%→30% profit turnaround case | ★ |
 | 2024-12-05 | [[2024-12-05-yt-k-3PoOT4vOM]] | Make money so fast it feels illegal — value equation, client-financed acquisition, "wealth alchemy" | ★ |
@@ -407,6 +411,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-01-28 | [[2025-01-28-yt-eX3Ch_HuR70]] | Breaking down Rihanna's Fenty — partner for deficiencies, brand affinity, credit membership | ★ |
 | 2025-02-11 | [[2025-02-11-yt-sBJppqCeFGI]] | Building $5M for a stranger (chiropractic chain) — 6-month growth plan | |
 | 2025-02-15 | [[2025-02-15-yt-npi7UeOE_0o]] | Superbowl ads 2026 tier list — his 6-factor ad rubric (attention/care/dream/urgency/proof/CTA) | ★ |
+| 2025-02-25 | [[2025-02-25-yt-QwEb78e5a8Y]] | Business-owner Q&A - service recovery, consumption, exhaust working path, behavior-level management | ★ |
 | 2025-03-05 | [[2025-03-05-yt-HwPXctiw_rY]] | Steal Ryan Reynolds' marketing — hook/meat/CTA, us-vs-them, offer wrappers, 3-tier pricing | ★ |
 | 2025-03-10 | [[2025-03-10-yt-BMF2fWHyDrg]] | Building $3.5M for a stranger (trophy e-com) — value pricing, TikTok Shop | |
 | 2025-03-31 | [[2025-03-31-yt-orMbq2LtzKE]] | ⚠️ guest — ButcherBox founder Mike Salguero (Alex's commentary only) | |
@@ -415,6 +420,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2025-04-10 | [[2025-04-10-yt-6uhd-FiCggg]] | Why following your dreams keeps you poor — passion follows competence (dup) | |
 | 2025-04-11 | [[2025-04-11-yt-6Fg4VXjRphQ]] | Confronted a failing business (attorney) — kill the money-loser, one high-ticket offer | |
 | 2025-04-15 | [[2025-04-15-yt-q9OmYf_IlQ0]] | Top 1% aren't smarter — "what business are you really in", the big-hairy-problem | ★ |
+| 2025-04-16 | [[2025-04-16-yt--HJg4TYBgtI]] | Dave Ramsey interview - speed of trust, Acquisition.com structure, all-cash deals | ★ |
 | 2025-04-17 | [[2025-04-17-yt-s7QA1TJKlbQ]] | 4 ways to get ahead of 99% — the 4 vectors (speed/risk/price/ease) ↔ the value equation | ★ |
 | 2025-04-18 | [[2025-04-18-yt-uYds0zcAFWM]] | Learned after 14 years — cost-of-change, LTV:CAC by manual-ness, "the swamp" ($1-3M) | ★ |
 | 2025-04-22 | [[2025-04-22-yt-kQFSiEDvXws]] | The biggest myth — every business scales; difficulty is a feature, not a bug | |
@@ -498,6 +504,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-04 | [[2026-06-04-yt-sL16tsGafcQ]] | Create wealth (4 paths) — bootstrap / raise / invest / fund-management taxonomy | ★ |
 | 2026-06-10 | [[2026-06-10-yt-k5-57282taI]] | How the top 1% think about trust — "trust = punishability", 4 types, zero-punishment | |
 | 2026-06-22 | [[2026-06-22-yt-Z5rKn1ZIp3A]] | "I can't hide this anymore" — Scale-or-Fail competition-show trailer (promo) | |
+| 2026-06-26 | [[2026-06-26-yt-zzleYxkf39k]] | Scale or Fail ep1 - moving-company offer tiers, brokerage channel, local-to-global sales | ★ |
 
 ## @ACQofficial
 
@@ -1235,7 +1242,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,205 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi small-channel ingest resumed (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,327 total, including P2 (~1,305, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,212 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,320 total, including P2 (~1,305, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

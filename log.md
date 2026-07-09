@@ -4003,3 +4003,34 @@ rows and no checkpoint banner.
 
 Ledger 10->L2 (L2 now 1,205). youtube-index/index/footer updated. @AlexHormozi P2: 7 rows remain.
 Synthesis notes: opportunity-vehicle/TAM-profit-supply-demand/when-to-change-vehicles; hunger/comfort/obvious-work/money-relief-kills-drive; pseudo-retirement/hard-work-as-goal/values-tested/nine-figure-self-report; scarce-skills/capital-attention-time-behavior-leverage; employee-set-variable-comp/autonomy-social-pressure-progress; content-lived-experience/messenger-authority/fresh-emotional-ideas; gym-unit-economics/fix-before-franchise/status-vs-money; Core-Four-acquisition/volume-skill-time/boring-work/ten-out-of-ten-effort; majority-stake-sale-decision/APG-valuation/active-vehicle-focus/Acquisition-com-mission; first-hires/buy-back-time/operational-management-tech-debt.
+
+## [2026-07-09] ingest | yt batch 155 - @AlexHormozi completion (2023-07-24 to 2026-06-26), 7 videos
+
+Completed the remaining open @AlexHormozi long-form rows. The driver selected 7 oldest open rows,
+fetched captions successfully for all 7, and printed a channel-completion checkpoint banner. Guest
+and participant material was attributed separately on interview/show pages before any later synthesis.
+
+- **2023-07-24** `yt-y7O-iTWwTW8` "Interviewing a Billionaire + Revealing My Workout Routine [Ep 005]" -
+  Dave Ramsey trip vlog, future-self journaling, business-only investing focus, workout routine, and
+  own-niche branding.
+- **2023-09-13** `yt-jvXOOddDg_s` "How to Get Rich [Full Interview with Dave Ramsey]" - Dave Ramsey
+  interview; Alex self-reports business-only investing focus after liquidity, $40M taken home before
+  the later event, indexes while building, and all-cash Acquisition.com deal posture.
+- **2024-02-07** `yt-YZdE8U5eD_s` "If You Want to Start a Business in 2024, Watch This Interview" -
+  Harley Finkelstein interview; first business as learning vehicle, scratch-own-itch origins, and
+  advertising as making known.
+- **2024-11-30** `yt-YUXLJauT4eY` "REVEALING Black Friday Secrets To Use In Your Business (feat.
+  Shopify's President)" - Shopify Black Friday teardown: focus, event offers, customer-data capture,
+  first-time buyer incentives, and media-asset monetization.
+- **2025-02-25** `yt-QwEb78e5a8Y` "Answering Your Top Business Questions for 1 Hour" - Acquisition.com
+  Q&A: make-it-more-than-right service recovery, low consumption before churn, data before ideation,
+  exhaust working path before new avatar, behavior-level management, and supply-constraint recruiting.
+- **2025-04-16** `yt--HJg4TYBgtI` "Watch These 51 Minutes if You Want to Grow Your Business in 2026
+  (Dave Ramsey Interview)" - Ramsey interview; speed of trust, Acquisition.com/family-office structure,
+  all-cash deals, and Dave-attributed scaling context.
+- **2026-06-26** `yt-zzleYxkf39k` "8 Entrepreneurs Compete For $100,000 - Episode 1" - Scale or Fail
+  moving-company diagnosis: back-to-front fix order, VIP/standard tiers, brokerage channel, local-to-global
+  sales education, and local proof content.
+
+Ledger 7->L2 (L2 now 1,212). youtube-index/index/footer updated. @AlexHormozi long-form complete.
+Synthesis notes: future-self-journaling/business-only-investing-focus/workout-full-body-own-niche-branding; Dave-Ramsey-trust-brand-context/$40M-taken-home-before-liquidity/indexes-before-liquidity/all-cash-Acquisition-com-deals; first-business-as-learning/scratch-own-itch/do-things-and-tell-people/advertising-making-known; Black-Friday-focus/event-offers/data-capture/first-time-buyer-incentives/media-asset-monetization; make-it-more-than-right/consumption-before-renewal/data-before-ideation/exhaust-working-path-before-new-avatar/behavior-level-management/supply-constraint-recruiting; speed-of-trust/Acquisition-com-family-office-structure/all-cash-deals; back-to-front-fix-order/local-to-global-sales/brokerage-channel/commodity-to-VIP-repositioning.
