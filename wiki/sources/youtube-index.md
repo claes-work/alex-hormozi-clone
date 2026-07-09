@@ -586,6 +586,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-09 | [[2026-05-09-yt-r1gyL97DWoE]] | Writing flow - emotional connection, high-school writing roles, challenge scales | ★ |
 | 2026-05-09 | [[2026-05-09-yt-i1Vji6MzbBs]] | Partnerships - 20-year test, direct conversation, graceful ending | ★ |
 | 2026-05-09 | [[2026-05-09-yt-VWlRe0Mu1kw]] | Focus subtraction - remove attention sinks, work beats boredom, environment over willpower | ★ |
+| 2026-05-09 | [[2026-05-09-yt-TDDmcfq1k6o]] | Acceptance vs good enough - circumstances, standards, hard times, high agency | ★ |
+| 2026-05-09 | [[2026-05-09-yt-Q35d-ng48N0]] | Documentation - failures, 2-minute gym ad, 10M self-report, capture feedback | ★ |
+| 2026-05-09 | [[2026-05-09-yt-bTs3lpVuYwI]] | Work hours - model climb vs summit, seasons, business functions, delegation | ★ |
+| 2026-05-09 | [[2026-05-09-yt-TL9-Xe6GLx4]] | Subscription churn - default box, text edits, premium avatar, quarterly billing, price tests | ★ |
+| 2026-05-09 | [[2026-05-09-yt--lWPAnNhpQQ]] | Only suffer once - second arrow, memory dividends not liabilities | ★ |
+| 2026-05-09 | [[2026-05-09-yt-L5J8gqg_Fnk]] | Nuisance business - owner-operator advantage, beat lazy incumbents, feedback loops | ★ |
+| 2026-05-09 | [[2026-05-09-yt-C0gt1GQ6pY8]] | Comparison - measurement not judgment, Kylie Forbes, brand study origin | ★ |
+| 2026-05-09 | [[2026-05-09-yt-FT8Jm_mAiAQ]] | Absolute acceptance - disarm labels, agency, judgment fear, caption caution | ★ |
 | 2026-05-10 | [[2026-05-10-yt-pL5gm590QyY]] | Time ownership - calendar wealth, time currency, delayed outcomes, visualization | ★ |
 | 2026-05-10 | [[2026-05-10-yt-h6uG_5LMmfw]] | 30K offer - parent buyer, ascension timing, VSL, half now half placement | ★ |
 | 2026-05-10 | [[2026-05-10-yt-sfaw7wmGfls]] | Brain meds caution - psych drugs for kids, short-term optimization, controllable games | ★ |
@@ -1177,7 +1185,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,147 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,385 total, including P2 (~1,363, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,155 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,377 total, including P2 (~1,355, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

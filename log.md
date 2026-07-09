@@ -3793,3 +3793,31 @@ L2.
 
 Ledger 8->L2 (L2 now 1,147). youtube-index/index/footer updated. @MoreMozi P2: ~1,290 rows remain.
 Synthesis notes: U.S. client positioning/accent/value frame; hardship pain-as-price/crowded gym living/lost-everything biography/experience-over-opinion; skill stacking/artist-vs-entrepreneur/ACQ wealth path; urgency/thought-action gap/Leila 5-minute rule; deep focus/timers/grayscale/no-email; writing flow/high-school writing roles; partnership 20-year test/graceful split; focus as subtraction/environment over willpower.
+
+## [2026-07-09] ingest | yt batch 148 - @MoreMozi P2 (2026-05-09), 8 videos
+
+Sixty-first resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-09** `yt-TDDmcfq1k6o` "Acceptance vs Good Enough: The Biggest Embodiment of Failure" - standards:
+  acceptance of circumstances, rejection of good-enough finality, hard times, and high agency.
+- **2026-05-09** `yt-Q35d-ng48N0` "This One 2-Minute Video Made Me $10 Million" - documentation:
+  failure documentation, one gym-launch ad, $10M self-report, $1,000 screenshot, and capture feedback.
+- **2026-05-09** `yt-bTs3lpVuYwI` "Why Top Bankers in 1929 Only Worked 6 Hours a Day" - founder workload:
+  model climb vs summit, seasons, perfect hire thought experiment, and business functions over founder hours.
+- **2026-05-09** `yt-TL9-Xe6GLx4` "How to Fix 75% Churn in a Subscription Business" - retention:
+  default boxes, text edits/skips, premium avatar, quarterly billing, price tests, and AI order agent.
+- **2026-05-09** `yt--lWPAnNhpQQ` "A Great Rule to Live By: Only Suffer Once" - suffering:
+  second-arrow frame, suffer once, self-judgment loop, and memory dividends.
+- **2026-05-09** `yt-L5J8gqg_Fnk` "Start a Nuisance Business and Beat Lazy Owners" - first business:
+  nuisance businesses, owner-operator advantage, lazy incumbents, and feedback loops.
+- **2026-05-09** `yt-C0gt1GQ6pY8` "The Problem with Comparison in Business & How to Use It Correctly" - comparison:
+  comparison as measurement not judgment, Kylie Forbes trigger, and brand-study origin self-report.
+- **2026-05-09** `yt-FT8Jm_mAiAQ` "The Power of Absolute Acceptance" - agency:
+  disarming labels, absolute acceptance, judgment fear, mortality frame, and caption caution.
+
+Ledger 8->L2 (L2 now 1,155). youtube-index/index/footer updated. @MoreMozi P2: ~1,282 rows remain.
+Synthesis notes: acceptance-vs-good-enough/hard-times/high-agency; documentation failures/2-minute-gym-ad/$10M-self-report/capture-feedback; founder workload/model-climb-vs-summit/business-functions; subscription churn/default-box/text-edits/premium-avatar/quarterly-billing; second-arrow/only-suffer-once/memory-dividends; nuisance-business/owner-operator-advantage; comparison-as-measurement/Kylie-Forbes/brand-origin; absolute-acceptance/agency/judgment-fear/caption-caution.
