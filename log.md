@@ -2002,3 +2002,46 @@ yt-A4L3byKcYQg, yt-sSEm3qJUh9s → L1).
 Ledger 7→L2 (L2 now 635), 3→L1 (no-captions). youtube-index/index/footer updated. @AlexHormozi P2:
 ~43 rows remain. Synthesis backlog: equity/phantom-equity + step-down/EV-over-profit → scaling/wealth;
 Augusta Rule → tax-free-liquidity; raise-prices letter + "the culling" → pricing-psychology.
+
+## [2026-07-09] ingest | yt batch 85 — @AlexHormozi P2 (2021-08/09 gym-era), 9 videos + 1 no-captions
+
+Ninth @AlexHormozi P2 batch (4 agents / 9 pages). Bio/philanthropy dense. 1 of 10 no-captions
+(yt-FKWEybUIda4 "I quit advertising" → L1).
+
+- **2021-08-16** `yt-MLkFOaxIdxM` "The Biggest Mistake" — chasing easy-money side-businesses that distract
+  from the one driving ~80% of revenue; "simple scales, fancy fails"; learn to say no.
+- **2021-08-18** `yt-EdUAAVKl_io` "A Business That Runs Without Me" — "jump two steps forward" (delegate
+  today's role AND hire the next skill, who-not-how); do-wrong-things (poor) → do-right (rich) → own-right
+  (wealthy).
+- **2021-08-25** `yt-RzswhUHnTHA` "Spent $2M, Didn't Make Me Happy" — ⭐ **BIO:** donated $2M to
+  After-School All-Stars (~250k fitness bands + ~$1.2M staffing); "didn't make me feel that much better";
+  via Dr. Berardi — demanding work be "meaningful" manufactures deficiency. Consistent with his
+  haves-over-wants stance.
+- **2021-08-30** `yt-R9gHvJxHRhA` "We're Giving Away All Our Money" — ⭐⭐ **BIO/PHILANTHROPY (fills a
+  known gap):** in late Aug 2021 he & Leila signed wills leaving their **entire estate (self-valued
+  $60–80M) to charity** after death (no kids; belief that unearned wealth ruins people); already gave
+  ~$1M over prior years; the plan = give skills now (99¢ books, free courses via Acquisition.com) rather
+  than only money at death. All self-reported.
+- **2021-09-01** `yt-8GRfCTu9Lsg` "Lessons From My Wife" — ⭐ **BIO:** who-you-marry = the #1 net-worth
+  decision; deliberate role division took them from ~$400–500k/mo to millions/mo; partner archetypes
+  (cheerleader vs fullback). Leila (context): met online (a top 24 Hour Fitness salesperson), joined to
+  launch gyms before any romance, **married within a week for logical reasons** (he admits he "wasn't in
+  love"), owns operations (~80% of the task board). ~$30M profit over 24 months by late 2019; Dec-2019
+  pivot to prioritize the marriage.
+- **2021-09-02** `yt-bxs5pN0ZnRw` "My Plan to Become a Billionaire" — grow Acquisition.com to $1B/yr by
+  giving all skills/courses away free to lift entrepreneurs to ~$5M, then monetize by investing in the
+  ones that want to scale to $30–100M+. Portfolio self-reported: $85M, 6 companies, 7 sold.
+- **2021-09-03** `yt-s59jbVBprn0` "Stop Starting New Businesses" — a plateau means an unremoved constraint,
+  not a reason for a new venture; apply Theory of Constraints and fix the one true bottleneck (a new
+  business only rises to your existing competence). Proto-constraint.
+- **2021-09-06** `yt--fV1MZe2vzs` "Think Like a Billionaire" — ⚠️ title/content mismatch: NO billionaire
+  named or quoted; the frameworks (dichotomy-to-manage vs problem-to-solve; continuum vs binary) are Alex's
+  own, credited to Munger and a biochemist friend "Dr. Cashey."
+- **2021-09-08** `yt-TNQyFxVbkBs` "How Millionaires Become Billionaires" — one-time front-end effort into a
+  product so remarkable it compounds via word-of-mouth (the only compounding channel of six); "make sales
+  to get customers" (Dan Kennedy).
+
+Ledger 9→L2 (L2 now 644), 1→L1. youtube-index/index/footer updated. @AlexHormozi P2: ~34 rows remain.
+**Synthesis backlog:** ⭐ PHILANTHROPY (entire-estate-to-charity + After-School All-Stars) → biography.md
++ resolve the philanthropy gap in gaps.md; Leila working-relationship + married-in-a-week bio; billionaire
+plan (give-free-then-invest) → the Acquisition.com model; stop-starting-businesses/Theory-of-Constraints.
