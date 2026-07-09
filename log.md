@@ -3026,3 +3026,28 @@ during caption fetch and remain open for retry; the 8 successful rows were inges
 
 Ledger 8→L2 (L2 now 925). youtube-index/index/footer updated. @MoreMozi P2: ~1,514 rows remain.
 Synthesis notes: no-work-wasted/work-works-on-you plus gym partner-loss self-report; definitions/language-as-behavior; lonely-path self-rooting and epic-story razor; input-output equation and leverage by relinquishing control; focus as daily no discipline plus declarative/procedural knowledge; high-volume sales feedback loops; trauma as behavior-change definition; burnout/work-capacity adaptation and action-over-thought frame.
+
+## [2026-07-09] ingest | yt batch 120 — @MoreMozi P2 (2026-05-29 to 2026-05-30), 8 videos
+
+Thirty-third resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again
+during caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-05-30** `yt-kp68MDBTpWY` "The Real Reason I Can't Scale Two Businesses at Once" — coaching/agency:
+  Gym Launch credibility frame, R&D process, implementation upsells, and long videos as short loops.
+- **2026-05-30** `yt-PsxOnxIU274` "A Lifetime of Personal Development in 18 Minutes" — self-work:
+  thoughts/feelings/nonjudgment, behaviorism, reference groups, truth-telling, and free-will skepticism.
+- **2026-05-30** `yt-1vHTG2WEoYc` "You'll find this video when you need it" — resilience:
+  use-current-fuel frame, bad-things-snowball rejection, and isolating one bad event.
+- **2026-05-29** `yt-tbNTKpwvRK4` "The Real Reason You Don't Have What You Want in Life" — resilience definition:
+  time to return to baseline after bad-event behavior change and fortitude distinction.
+- **2026-05-29** `yt-ezN8B1d1RVw` "Reflecting on Why I Was Wrong About Myself (Patience & Self Judgment)" — identity:
+  action-defined patience, trait continuums, proof-based identity, and fitness-record self-report.
+- **2026-05-29** `yt-QgvX_5km_Yo` "How to Get Your First Clients With Zero Proof" — proof:
+  lead with free, owner involvement, testimonials, and proof above everything.
+- **2026-05-29** `yt-SxS1vjwovEs` "The 5:30 AM Parking Lot Test" — consistency:
+  5:30 AM environment standard, 100x resources question, and no credit for work before outcome.
+- **2026-05-29** `yt-rMf-JuikR-Q` "Why AI Agents Will Replace Your Next Hire" — AI:
+  role-to-workflow automation, observable behavior, AI content workflows, admin/nurture automation, and UX disappearing.
+
+Ledger 8→L2 (L2 now 933). youtube-index/index/footer updated. @MoreMozi P2: ~1,506 rows remain.
+Synthesis notes: Gym Launch R&D/testing model and current personal-brand/content advice; self-work behaviorism/free-will/reference-group/truth-telling cluster; use-what-you-have and bad-event isolation; resilience as time-to-baseline; proof-based traits and fitness self-report; first-client proof via free work; consistency/no-credit-for-work standard; current AI roles-to-workflows thesis and 12-24 month UX-agent forecast.
