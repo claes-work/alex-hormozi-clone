@@ -4841,3 +4841,26 @@ Synthesis notes: focus-high-quality-nos/big-domino/data-changes-behavior; refere
 Ledger 8->L2 (L2 now 1,406). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: Rocky-cutscene-5-to-10-year-grind/hard-as-selection-effect/slow-clap-self-rooting; sales-team-utilization-70-75-sweet-spot/show-rate-follow-up-pipeline; reference-group-decision-influence/proximity-changes-behavior/paid-learning-rooms; 60-second-advice-want-ignore-opinions-volume; affiliate-lead-magnet-100-percent-commission; unseen-work-standard/private-scorecard/Goggins-attribution; 60-second-lead-response-under-LTV-CAC; trade-offs/time-allocation-revealed-priority/under-skilled-vs-under-lived.
+
+## [2026-07-09] ingest | yt batch 188 - @MoreMozi P2 (2026-04-16), 8 videos
+
+- **2026-04-16** `yt-VIQVVeD63GA` - free-service rejection as hidden-cost diagnosis,
+  "why not" discovery, and small-owner mornings spent on advertising.
+- **2026-04-16** `yt-hB8EMGliz2Q` - chosen success metric, playing the business game, and
+  external work-life-balance rejection.
+- **2026-04-16** `yt-Cz7lZSAnieo` - warm-audience paid ads as stealth launch layer behind
+  an organic launch cadence.
+- **2026-04-16** `yt-AcVvVG3ucP4` - structural churn from volatile small customers,
+  upmarket agency path, or low-cost-leader alternative.
+- **2026-04-16** `yt-27th6_5b-Y8` - complementary skill stacking, business game vs product
+  skill, and promotion/sales/product first-dollar sequence.
+- **2026-04-16** `yt-ElFaBWRlquc` - supply-constrained trucking as contractor recruiting,
+  CAT cost-to-acquire-talent math, and productivity-contingent referral bonuses.
+- **2026-04-16** `yt-K4J0srq9qAg` - skill-money gap, luck acknowledgment, lucky belief for
+  bigger swings, and increasing luck surface area.
+- **2026-04-16** `yt-HbBLizYiKAs` - death/generational forgetting as agency device,
+  first-principles living, and social-judgment irrelevance.
+
+Ledger 8->L2 (L2 now 1,414). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: free-offer-hidden-costs/why-not-discovery/first-four-hours-advertising; chosen-success-metric/play-the-business-game/work-life-balance-rejection; warm-audience-stealth-launches; structural-churn-small-customers/go-upmarket-or-low-cost-leader; complementary-skill-stacking/business-game-vs-product/promote-sell-product; CAT-cost-to-acquire-talent/supply-constrained-recruiting/referral-bonus-economics; skill-money-gap/luck-surface-area/lucky-belief-bigger-swings; death-agency/first-principles-living/social-judgment-irrelevance.
