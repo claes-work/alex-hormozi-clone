@@ -3627,3 +3627,31 @@ L2.
 
 Ledger 8->L2 (L2 now 1,100). youtube-index/index/footer updated. @MoreMozi P2: ~1,338 rows remain.
 Synthesis notes: Slovenia agency/US realtor market/content-as-proof/add-zero pricing; short-term reinforcement/behavior-first identity; first-business industry knowledge/ignorance tax; Baltimore self-help implementation rule/knowing-that-vs-knowing-how; employee theft disclosure/reputation/whole truth; anti-pathologizing/anti-overmedication medical-caution position; focus commitment/nine-business self-report/Leila/six-month payoff; hard-work treasure-map/granular feedback/coats-of-paint.
+
+## [2026-07-09] ingest | yt batch 142 - @MoreMozi P2 (2026-05-12), 8 videos
+
+Fifty-fifth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-12** `yt-pOYKsNdnPTY` "What's the Best Way to Land Enterprise Clients?" - enterprise:
+  trade shows, conferences, COIs, trusted champions, affiliates, architects, and long-term brand.
+- **2026-05-12** `yt-Z69Ncjy-lgU` "What Would You Do If You Weren't Afraid?" - fear:
+  fearlessness, one-of-one to one-of-zero, quitting-job downside, and Leila's shallow-fear frame.
+- **2026-05-12** `yt-_jMRRYZ5S7U` "The Power of Moments: Why 95% of Our Year Goes Unnoticed" - moments:
+  remembered moments, negative-season compression, and destroy-the-business inversion.
+- **2026-05-12** `yt-PHwBvvHoh9w` "The Messenger Matters More Than the Message" - authority:
+  message/messenger linkage, evidence as shortcut, and safe agreement via authority.
+- **2026-05-12** `yt-P4hFXteE6kA` "If You Get No Hate, You're Not Successful" - criticism:
+  age-23 underdog-to-target self-report, hate as success indicator, and "no one hates from above."
+- **2026-05-12** `yt-8uGV4LW9Q9M` "The One Leadership Move I Stole From My Wife" - leadership:
+  Leila-modeled kudos, positive reinforcement, and avoiding extinction of good behavior.
+- **2026-05-12** `yt-aX0A7HzDyTw` "The Two Questions Every Sales Rep Must Ask" - sales:
+  discovery drilling, "tell me more," examples, real-time roleplay correction, and underpricing risk.
+- **2026-05-12** `yt-lho-b-4LIGI` "Why You Don't Find Your Passion, You Create It" - passion:
+  competence loop, interests vs work, everything-sucks baseline, and starting as the perfect condition.
+
+Ledger 8->L2 (L2 now 1,108). youtube-index/index/footer updated. @MoreMozi P2: ~1,330 rows remain.
+Synthesis notes: enterprise COIs/trusted champions/brand-vs-fastest-path; fearlessness/one-of-zero/quit-job downside/Leila fear frame; moments and destroy-business inversion; messenger authority/evidence-safe-agreement; hate-as-success-indicator/age-23 gym underdog shift; Leila kudos/positive reinforcement; sales discovery questions/real-time roleplay/point-of-marginal-cheapness; passion-created-by-competence/starting-is-perfect-condition.

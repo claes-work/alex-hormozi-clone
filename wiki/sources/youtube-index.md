@@ -584,6 +584,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
 | 2026-04-28 | [[2026-04-28-yt-_TZEJAYUeCo]] | Roadmap $0→$10M — stage ladder + the "$3M three boxes" | ★ |
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
+| 2026-05-12 | [[2026-05-12-yt-pOYKsNdnPTY]] | Enterprise clients - trade shows, COIs, trusted champions, long-term brand | ★ |
+| 2026-05-12 | [[2026-05-12-yt-Z69Ncjy-lgU]] | Fearlessness - one of one to one of zero, quit-job downside, fear is shallow | ★ |
+| 2026-05-12 | [[2026-05-12-yt-_jMRRYZ5S7U]] | Moments and inversion - 95% unrecorded year, destroy-business reversal | ★ |
+| 2026-05-12 | [[2026-05-12-yt-PHwBvvHoh9w]] | Messenger authority - evidence, safe agreement, brand protection | ★ |
+| 2026-05-12 | [[2026-05-12-yt-P4hFXteE6kA]] | Hate indicator - underdog to the man, no hate no success, no one hates above | ★ |
+| 2026-05-12 | [[2026-05-12-yt-8uGV4LW9Q9M]] | Leadership kudos - Leila habit, positive reinforcement, good behavior extinction | ★ |
+| 2026-05-12 | [[2026-05-12-yt-aX0A7HzDyTw]] | Sales discovery - tell me more, give example, real-time roleplay, point of marginal cheapness | ★ |
+| 2026-05-12 | [[2026-05-12-yt-lho-b-4LIGI]] | Passion created - competence loop, everything sucks, starting is perfect condition | ★ |
 | 2026-05-13 | [[2026-05-13-yt-WewmXRmm9q0]] | Hiring trick - real cases, work samples, coachability, learning speed | ★ |
 | 2026-05-13 | [[2026-05-13-yt-MwU7mXoLfRM]] | Coaching supply problem - marketplace hard side, brand acquisition, AI workflows | ★ |
 | 2026-05-13 | [[2026-05-13-yt-lvxhxIFImhc]] | Good mood skill - 2025 theme, reframe tools, mood without reasons | ★ |
@@ -1130,7 +1138,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,100 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,433 total, including P2 (~1,411, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 34 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,108 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,425 total, including P2 (~1,403, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 34 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
