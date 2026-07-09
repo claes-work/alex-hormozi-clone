@@ -2163,3 +2163,39 @@ remains open for retry; the 9 successful rows were ingested as L2.
 Ledger 9→L2 (L2 now 673). youtube-index/index/footer updated. @MoreMozi P2: ~1,766 rows remain.
 Synthesis notes: workflow-based org design/AI agents, senior-leadership top layer, in-person LTV sales motion,
 TikTok Shop creator army, and local-fortification-before-national-scale are candidates for later synthesis.
+
+## [2026-07-09] ingest | yt batch 89 — @MoreMozi P2 (2026-07-02 to 2026-07-03), 9 videos
+
+Second resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` errored again during caption fetch and remains open
+for retry; the 9 successful rows were ingested as L2.
+
+- **2026-07-02** `yt--raDp0vMe5c` "You're closing 2% because you have no sales motion" — wildfire-sprinkler
+  insurance lead source: treat it as lead gen plus individual installs; close-rate lift from 2% to 5%+ is
+  worth millions if delivery does not materially change.
+- **2026-07-02** `yt-W4Xs0oE7jzk` "Your bank won't fund you because you're taking too much cash out" — dental
+  de novo chain: capital constraint is partly owner distributions; ROIC/payback justify reinvestment; repeated
+  core roles need internal recruiting.
+- **2026-07-02** `yt-4-jveMsj7ok` "You're Spending Zero Hours Advertising. That's Why You're Broke." — gray-area
+  ecommerce: enemy is irrelevance; multiply short-form cross-platform, repurpose transcripts, batch production,
+  and stack advertising channels brick by brick.
+- **2026-07-02** `yt-TvB7L-FMZSk` "Watch This If Your A Players Are Great But Churn Is Killing You" — pest
+  control retention: expand sparse career paths into 9-18 rungs using title/pay/perk/objective milestones so
+  employees always have a near next win.
+- **2026-07-02** `yt-Uv4WiUmJbBo` "You Don't Have a Brand, You Have an Arbitrage" — DTC skincare:
+  direct-response doom loop, brand as core ecommerce skill, premium associations, longer 6-12mo attribution,
+  capital-allocator mindset.
+- **2026-07-03** `yt-jarN7H8GpG0` "The job of the business is not to satisfy your itches" — med spa:
+  business serves customers, not founder itches; fix current-location margins, membership sales motion,
+  provider retention, and paid acquisition before expanding.
+- **2026-07-03** `yt-J8uHk3ydbQU` "You're growing too fast because cash flow can't keep up" — financial
+  planning/AUM firm: bootstrap growth throttle, upfront plan fee or equity as cash-cycle fixes, risk tolerance,
+  and reputational risk from overgrowth.
+- **2026-07-03** `yt-J72ZzbgD5Fs` "Why are 40% of my customers canceling before install?" — electricity sales:
+  120-day fulfillment delay is a sales-expectation problem; script the wait clearly instead of implying fast
+  activation.
+- **2026-07-03** `yt-Eu2sFOeY74Y` "You're Stuck Because Your Pricing Model Is Killing Profit" — wholesale/DTC
+  product: separate wholesale margin from DTC ads, raise price to force price integrity, and be bold either way.
+
+Ledger 9→L2 (L2 now 682). youtube-index/index/footer updated. @MoreMozi P2: ~1,757 rows remain.
+Synthesis notes: direct-response doom loop/brand, ROIC growth reinvestment, micro-promotion career ladders,
+advertising brick foundation, bootstrap cash-flow throttle, price-integrity wholesale control.
