@@ -54,6 +54,13 @@ _See memory `acquisition-com-course-ingest-plan`. Index public; lessons are JS-r
 - [ ] acquisition.com other pages (about, portfolio, blog if any)
 
 ## E. Synthesis / persona / wrap-up — ONGOING
+- [ ] **⏳ STANDING SYNTHESIS DEBT — do not forget.** L2 batches write ONLY `wiki/sources/` pages;
+  promoting their material into `topics/`+`persona/` happens in a **separate synthesis pass** (this is
+  by design, per AGENTS.md tiers). **High-water mark: last synthesis = batch 80 (system-prompt v18).**
+  Everything ingested since — batches 81–87 **and all Codex / @MoreMozi / future batches** — is
+  L2-only and **not yet promoted**. Trigger a synthesis pass **after each channel finishes, or every
+  ~10 batches**. Recover the pending items with `grep -i "synthesis" log.md` (each batch logs its
+  synthesis-worthy findings). When a pass runs, bump the high-water mark + recompile the system-prompt.
 - [ ] Work the accumulated L3 synthesis backlog (Netflix 8-C's, Theory-of-Constraints, moats, recruit-mirror, service-delivery-cube, talent-grid, What-Why-How)
 - [ ] ⭐ Add **philanthropy** to biography.md (Aug-2021 wills leave entire $60–80M estate to charity + After-School All-Stars) and **resolve the philanthropy gap** in `wiki/gaps.md`
 - [ ] Add the dated-2021 **father quote** to biography (early father-conflict instance)

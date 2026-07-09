@@ -67,8 +67,16 @@ python tools/ledger_set.py <id> status=L2 "domains=a;b" "notes=short handle for 
 Then:
 1. Insert one row per new page into `wiki/sources/youtube-index.md`, **in date order**.
 2. Bump the footer count `_NNN videos ingested (L2)…_` and the `index.md` count by the batch size.
-3. Append **one** `log.md` entry for the batch (heading `## [YYYY-MM-DD] ingest | …`).
+3. Append **one** `log.md` entry for the batch (heading `## [YYYY-MM-DD] ingest | …`). End it with a
+   short **`Synthesis notes:`** line naming anything genuinely new (a framework, bio detail, a
+   contradiction) — L2 batches do NOT promote to topics/persona themselves; a later synthesis pass does,
+   and it finds the debt via `grep -i "synthesis" log.md`. (If nothing new: `Synthesis notes: none`.)
 4. Commit + push.
+
+> **Synthesis is a separate pass** (by design — AGENTS.md tiers). Do not promote L2 material into
+> `topics/`/`persona/` inside a normal batch unless a source is genuinely landmark. Run a dedicated
+> synthesis pass after each channel or every ~10 batches; see BACKLOG.md section E (the standing debt +
+> high-water mark).
 
 > ⚠️ **Commit-message gotcha (Windows/PowerShell):** double quotes inside a here-string
 > `-m` argument get word-split by PowerShell and break the commit. Keep commit messages
