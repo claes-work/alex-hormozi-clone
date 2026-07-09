@@ -45,6 +45,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-06-04 | [[2024-06-04-yt-9unucIBuNio]] | "10x your pricing" (actually a 6-step branding framework) — pairing → why → who → advertise | ★ |
 | 2024-06-07 | [[2024-06-07-yt-VxKwz6hBVZU]] | Build a valuable company you can sell — goose & golden eggs, keyman risk, rollups | ★ |
 | 2024-06-09 | [[2024-06-09-yt-41EvCgwPrDc]] | Make more profit than 99% — 5 pricing concepts (LTV = price ÷ churn, look-back window) | ★ |
+| 2022-10-23 | [[2022-10-23-yt-7sLXhCDRaV8]] | 10 ways to break down making $1M — 10 low/no-money-down mechanisms | |
+| 2022-10-30 | [[2022-10-30-yt-GkL2KDOf2NM]] | Billionaire recession advice (2022) — invest in what you know (Treasury tactic ⚠️ dated) | ★ |
+| 2022-11-02 | [[2022-11-02-yt-yflKMUffctE]] | How they keep you poor forever — singular focus (bio: 9 businesses before Gym Launch) | |
+| 2022-11-06 | [[2022-11-06-yt-5MHQr-Z17Hc]] | This one equation will make you rich — the Value Equation + guarantees (AdWorld) | |
+| 2022-11-09 | [[2022-11-09-yt-K8MFC9t7snY]] | How to get customers to pay forever — the "reorder business", retention compounds | |
+| 2022-11-23 | [[2022-11-23-yt-NDDFezF7OTA]] | Stop trying to be happy — pain/anger as fuel (bio: angry teen, "stop being poor" mission) | |
+| 2022-11-30 | [[2022-11-30-yt-4pZwlE86A5Y]] | "How to business" (w/ Unspeakable) — opportunity scoring, "marketing IS the fulfillment" | |
+| 2022-12-07 | [[2022-12-07-yt-Day0yToqeco]] | Why looking poor is smart — stealth wealth: live on ~$1,500/mo, stay on the offensive | |
 | 2022-12-14 | [[2022-12-14-yt-CGSd00h-6zI]] | The best student side hustle — the semi-private (1-to-8) test-prep model to $1M/yr | |
 | 2022-12-21 | [[2022-12-21-yt-q6SdmgIji30]] | 14 money mistakes to avoid in your 20s — season of learning not earning | |
 | 2022-12-28 | [[2022-12-28-yt-KYqEK_T_5M4]] | Get rich in the AI revolution (2023) — his EARLIEST (Dec 2022) AI take (origin of the AI timeline) | |
@@ -483,7 +491,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_453 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_461 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

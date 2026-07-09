@@ -18,6 +18,20 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — stealth wealth + focus doctrine (L2=461)
+
+Loop iteration 60. 8 @AlexHormozi P2 (Oct-Dec 2022, deep in the channel-start era). 1 L3-candidate:
+GkL2KDOf2NM "billionaire recession advice" (★ circle-of-competence / invest-in-what-you-know + the
+3-step you→indexes→your-game framework; ⚠️ the Treasury/cash tactic is DATED Oct-2022 per rule 3).
+Bio confirmations: yflKMUffctE "how they keep you poor" confirms **nine businesses before Gym Launch
+took off**; NDDFezF7OTA "stop trying to be happy" adds angry-teen (15-17) years, the gym's founding
+mission = "to stop being poor", his big vision until ~2018 = "don't be broke", 11th book draft.
+Day0yToqeco "why looking poor is smart" = stealth-wealth (live ~$1,500/mo while earning ~$20k/mo to
+stay risk-tolerant/on-the-offensive). Corrections: 5MHQr-Z17Hc "one equation" is the Value Equation
+(from $100M Offers), NOT LTGP:CAC; 4pZwlE86A5Y is an advisory session with a co-host (Unspeakable/
+Nathan Graham — flagged, non-persona). Rest L2 dups (10-ways-to-1M, pay-forever/reorder-business).
+Ledger: L2=461. Next: continue @AlexHormozi P2 (214 left).
+
 ## [2026-07-09] lint | Synthesis pass 13 — AI-timeline + pricing-psychology + investing-rules + system-prompt v15
 
 Loop iteration 59 (synthesis). 4 parallel agents + recompile:
