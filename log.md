@@ -4275,3 +4275,30 @@ Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,238). youtube-index/index/footer updated.
 Synthesis notes: paid-community-pricing-by-EPC/conversion/churn; credential-ROI/short-term-sacrifice-for-lifetime-income; niche-down-proof-ladder/beat-Tony-Robbins-in-narrow-avatar; work-after-tired/proximity-to-champions/live-exposure-standards; outdoor-lighting-sales-motion/spouse-confirmation/VSL-preframe/giveaway-second-place-prize; mediocre-plan-beats-perfect/stick-to-it-muscle/must-be-nice-mindset-utility-test; high-ticket-dental-Meta-vs-PPC-lead-temperature/BANT-screening/premium-creative-avatar/set-call-diagnosis; community-referral-unlock/uncapped-giveaway-overlay.
+
+## [2026-07-09] ingest | yt batch 167 - @MoreMozi P2 (2026-05-01 to 2026-05-05), 8 videos
+
+Continued @MoreMozi P2 from a prepared work order. The driver selected 10 rows; 8 caption
+fetches succeeded and the same 2 rows remained open for retry (`yt-JfKwIbvdKtA`,
+`yt-EnGrM5slXO4`). All 8 OK rows were Alex-attributed MoreMozi coaching/content clips and
+were ingested as L2.
+
+- **2026-05-01** `yt-50qBolA4Vgw` - facilitator-not-expert community positioning, peer
+  mastermind roundtable, and selling outside the founder's own geography/wallet.
+- **2026-05-02** `yt-5Th9mds7e2E` - freemium ascension through manual calls, channel-demand
+  framing, and next-problem monetization.
+- **2026-05-04** `yt-4n4iSAhvF00` - 4-6 week free-to-paid community launch window,
+  promotion-first schedule, and whisper-to-shout conversion path.
+- **2026-05-04** `yt-BP-W6ry0R-Y` - community business exitability as recurring-revenue
+  annuity discounted by risk and owner dependence.
+- **2026-05-04** `yt-U5ZJbrEOvS0` - low-ticket community pricing math, creator fear of
+  audience backlash, and selling from the buyer's wallet.
+- **2026-05-05** `yt-AJPfqylTyao` - consistency and longevity as the zero-capital edge for
+  rebuilding a business.
+- **2026-05-05** `yt-XH5DbavDfNI` - three community-builder paths: beginner pain/profession/
+  passion, existing business nurture/delivery, or audience monetization.
+- **2026-05-05** `yt-YHA8KJFytIQ` - converting an engaged free community into a free trial
+  instead of splitting out a paid community.
+
+Ledger 8->L2 (L2 now 1,246). youtube-index/index/footer updated.
+Synthesis notes: consistency-as-zero-capital-edge/longevity; three-community-builder-paths/pain-profession-passion/free-trial-GMV-rationale; convert-engaged-free-community-to-free-trial-not-second-group; 4-6-week-free-to-paid-community-launch/promotion-first/whisper-to-shout; community-exitability-annuity-risk-discount/asset-vs-job; creator-pricing-fear/conversion-multiple-math/sell-from-buyers-wallet; freemium-ascension-manual-calls/channel-demand-not-create-demand/next-problem-monetization; facilitator-not-expert-community/sell-outside-own-geography-and-wallet.

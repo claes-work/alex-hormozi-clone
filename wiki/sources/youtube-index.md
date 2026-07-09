@@ -602,6 +602,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-03 | [[2026-04-03-yt-W0Xw3-gAsJ8]] | Law firm $24M — focus, open more offices (light) | |
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
 | 2026-04-28 | [[2026-04-28-yt-_TZEJAYUeCo]] | Roadmap $0→$10M — stage ladder + the "$3M three boxes" | ★ |
+| 2026-05-01 | [[2026-05-01-yt-50qBolA4Vgw]] | Facilitator, not expert — mastermind as peer roundtable, sell outside own wallet/geography | ★ |
+| 2026-05-02 | [[2026-05-02-yt-5Th9mds7e2E]] | Freemium ascension — call free users, channel demand, next-problem monetization | ★ |
+| 2026-05-04 | [[2026-05-04-yt-4n4iSAhvF00]] | Free-to-paid community launch — 4-6 week data window, whisper-to-shout, conversion points | ★ |
+| 2026-05-04 | [[2026-05-04-yt-BP-W6ry0R-Y]] | Community exitability — recurring-revenue annuity, risk discount, asset vs job | ★ |
+| 2026-05-04 | [[2026-05-04-yt-U5ZJbrEOvS0]] | Creator pricing fear — low-price conversion math, sell from buyer's wallet | ★ |
+| 2026-05-05 | [[2026-05-05-yt-AJPfqylTyao]] | $0 business in 90 days — consistency and longevity as the zero-capital edge | ★ |
+| 2026-05-05 | [[2026-05-05-yt-XH5DbavDfNI]] | Community start paths — pain/profession/passion, business nurture/delivery, audience monetization | ★ |
+| 2026-05-05 | [[2026-05-05-yt-YHA8KJFytIQ]] | Free community to free trial — avoid splitting paid group and killing engagement | ★ |
 | 2026-05-05 | [[2026-05-05-yt-9byGJaxVRDI]] | Paid community pricing — test by EPC, conversion, and churn | ★ |
 | 2026-05-05 | [[2026-05-05-yt-oQ9xAXvac7M]] | CFA credential — short-term sacrifice for permanent income ROI | |
 | 2026-05-05 | [[2026-05-05-yt-qViyhoDLhks]] | Niche down — beat Tony Robbins in a narrow pain/avatar, proof ladder | ★ |
@@ -1268,7 +1276,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,238 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,234 total, including P2 (~1,226 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,246 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,226 total, including P2 (~1,218 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
