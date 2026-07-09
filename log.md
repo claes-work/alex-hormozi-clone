@@ -18,6 +18,22 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — Vanderbilt confirmed + rich bio (L2=397)
+
+Loop iteration 48. 8 @AlexHormozi P2 (Jan-Mar 2024); bundled a light-agent for 4 mindset clips.
+**RESOLVED the Tufts-vs-Vanderbilt gap** (opened last iteration): two independent clips explicitly
+name **Vanderbilt, magna cum laude in 3 years** (nxL4ZfVqKLI, DiQ3N8F1Hl8); nxL4ZfVqKLI adds he scored
+above HBS's GMAT median but declined HBS on ROI grounds (took the ~$250k and started a business). The
+"Tufts" mention was an anomaly → moved to gaps Resolved. 1 L3-candidate: 5JLqmQlGG0U "if I wanted to
+get rich & famous" (★ reverse-engineers Swift/The Rock/MrBeast/Rogan/Kylie into a 7-point inverted
+personal-brand playbook — "you are the niche", scale-the-unscalable, ownership → feeds branding/content-
+engine). Bio-rich batch: oK2_u-uS_Bo "money lessons in marriage" ($3M→$17M income 24mo after Leila; the
+8-simultaneous-businesses collapse — DUI head-on ~60mph + mother hospitalized + grandfather's death in
+a ~6mo window + one-day exit from all partnerships), jiCGLDhUCHY (partner-selection: growth-not-change,
+loyalty=predictability), pt50QF6al8g (confidence=evidence-based, finite vs infinite game). Rest L2 dups
+(poorer-younger-self [product+brand compounding], fear-of-failure [inputs>outcomes], getting-rich-isnt-
+fun vlog). Ledger: L2=397. Next: continue @AlexHormozi P2 (278 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — $100M-loss + 7.8M-followers + Skool original (L2=389)
 
 Loop iteration 47. 8 @AlexHormozi P2 (Mar-May 2024). 5 L3-candidates: tdLLGKoBojo "I lost $100M"

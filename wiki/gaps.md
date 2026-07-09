@@ -11,12 +11,6 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
 
 ## Open
 
-- **[2026-07-09] Which university? "Tufts" vs "Vanderbilt".** The purpose video
-  ([[sources/2024-03-20-yt-M4evdxF5G0s]]) has him mention a **"Tufts writing scholarship"** and quitting
-  pre-med, while other tellings and the biography use a **"school in Tennessee" / Vanderbilt (magna cum
-  laude)** frame. Tufts (Massachusetts) ≠ Vanderbilt (Tennessee) — could be a mis-caption, a second
-  school, or a scholarship-vs-attended distinction. Self-reported, unresolved; verify before hardening.
-  Related to contradiction #9 (dropped-out-at-22 vs magna-cum-laude-in-3-years).
 - **[2026-07-09] Lifting/fitness start age.** An @ACQofficial clip titled "Started Lifting Weights
   at 19" ([[sources/2023-06-27-yt-8JkrmHHxh-Q]]) actually has Alex describing structured training
   with a teacher ("Mr Givens") at **~15**, with training already underway before that → an
@@ -54,6 +48,13 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
 
 ## Resolved
 
+- **[2026-07-09] University = Vanderbilt (the "Tufts" mention was an anomaly).** Two same-week Jan–Feb
+  2024 clips independently and explicitly name **Vanderbilt, magna cum laude, in 3 years**
+  ([[sources/2024-02-28-yt-nxL4ZfVqKLI]], [[sources/2024-01-13-yt-DiQ3N8F1Hl8]]); nxL4ZfVqKLI adds he
+  **scored above HBS's GMAT median but declined HBS** on ROI grounds. The lone "Tufts writing
+  scholarship" line ([[sources/2024-03-20-yt-M4evdxF5G0s]]) is treated as a mis-caption/anomaly, not a
+  competing school. (Contradiction #9's dropped-out-at-22-vs-magna-cum-laude tension is separate and
+  still open.)
 - **[2026-07-09] Age inconsistency → born ~August 1989.** Resolved by the Bumstead workout
   ([[sources/2024-11-18-yt-7qy-EPc2gYU]]): "turning 35 in August 2024" → born ~Aug 1989, which
   reconciles "36 in early 2026", "age 27 on Christmas Eve 2016", "exit at 31 (~2021)", and "14 years

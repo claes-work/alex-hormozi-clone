@@ -45,6 +45,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-06-04 | [[2024-06-04-yt-9unucIBuNio]] | "10x your pricing" (actually a 6-step branding framework) — pairing → why → who → advertise | ★ |
 | 2024-06-07 | [[2024-06-07-yt-VxKwz6hBVZU]] | Build a valuable company you can sell — goose & golden eggs, keyman risk, rollups | ★ |
 | 2024-06-09 | [[2024-06-09-yt-41EvCgwPrDc]] | Make more profit than 99% — 5 pricing concepts (LTV = price ÷ churn, look-back window) | ★ |
+| 2024-01-13 | [[2024-01-13-yt-DiQ3N8F1Hl8]] | Advice to my poorer younger self — under-invested in product + brand (= compounding) | |
+| 2024-01-17 | [[2024-01-17-yt-0_Gf5v8DEMY]] | Overcome fear of failure — judge yourself by controllable inputs, not outcomes (Q&A) | |
+| 2024-01-24 | [[2024-01-24-yt-3aAbKVSFP6k]] | "Getting rich isn't fun" (Ep 014) — the glamour hides meetings/calls; jagged growth (vlog) | |
+| 2024-01-31 | [[2024-01-31-yt-pt50QF6al8g]] | Build your confidence — confidence = evidence-based prediction; finite vs infinite game | |
+| 2024-02-14 | [[2024-02-14-yt-jiCGLDhUCHY]] | "If I were single and starting over" — partner selection: growth not change, loyalty = predictability | |
+| 2024-02-21 | [[2024-02-21-yt-5JLqmQlGG0U]] | If I wanted to get rich & famous — 5-influencer brand breakdown + 7-point inverted playbook | ★ |
+| 2024-02-28 | [[2024-02-28-yt-nxL4ZfVqKLI]] | Watch before college — the ROI "game of one or zero"; he names **Vanderbilt** (resolves Tufts gap) | |
+| 2024-03-06 | [[2024-03-06-yt-oK2_u-uS_Bo]] | Money lessons in marriage — 17 lessons, $3M→$17M income after Leila (bio: DUI, 8-biz collapse) | |
 | 2024-03-13 | [[2024-03-13-yt-UxQJ64BNuco]] | The guide to haters — 3-step ignore/agree/one-up, the "extinction curve" (long-form of rko5QoAhfEU) | |
 | 2024-03-20 | [[2024-03-20-yt-M4evdxF5G0s]] | Find your purpose — meaning over happiness, "be useful", "you create passion" | ★ |
 | 2024-03-27 | [[2024-03-27-yt-tdLLGKoBojo]] | I lost $100M — a rhetorical career-aggregate of 11 mistakes + lessons | ★ |
@@ -419,7 +427,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_389 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_397 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
