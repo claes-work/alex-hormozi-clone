@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-09 (@AlexHormozi long-form complete; 492 L2 videos added)_
+_Last updated: 2026-07-09 (@GymLaunch batch 158; 1,222 L2 videos ingested)_
 
 ## Sources
 
@@ -13,7 +13,7 @@ _Last updated: 2026-07-09 (@AlexHormozi long-form complete; 492 L2 videos added)
 
 ### YouTube
 
-- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**1,216 L2**; all P1 landmark videos across 5 channels complete; @AlexHormozi, @ACQofficial, and @TheSkoolSchool long-form complete). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
+- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**1,222 L2**; all P1 landmark videos across 5 channels complete; @AlexHormozi, @ACQofficial, and @TheSkoolSchool long-form complete; @GymLaunch P2 triage in progress). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
 
 ## Topics
 

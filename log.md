@@ -4099,3 +4099,28 @@ corroborating citations in `wiki/topics/content-strategy/community-building.md`,
 Sam Ovens' product walkthrough is platform context rather than Alex-attributed persona material and
 that the Skool earning statistics remain promotional/self-reported. No persona files changed, so
 `persona/system-prompt.md` remains v25; advanced the synthesis high-water mark to batch 157.
+
+## [2026-07-09] ingest | yt batch 158 - @GymLaunch P2 triage (2021-08-17 to 2022-08-26), 6 videos + 4 skipped
+
+Continued @GymLaunch oldest-first P2 triage. The driver selected 10 rows, fetched captions
+successfully for all, and printed no checkpoint banner. Six videos contained clear Alex speech or
+Alex-hosted interviews and were ingested as L2; four August 2022 rows were title/transcript-triaged
+as non-Alex Kale Owen or staff videos and marked skipped.
+
+- **2021-08-17** `yt-LC7x7P_hhEQ` - Alex interviews Dr. John Berardi Part 2: referral
+  diagnostics, believability-weighted advice, stage-specific question quality, and opportunity filter.
+- **2021-08-24** `yt-S2egwgQwnLM` - Alex interviews Dr. John Berardi Part 3: outside-the-matrix
+  meaning, financial-security questions, and happiness operationalization.
+- **2021-08-26** `yt-oNWx_wLhXJA` - Alex interviews Dr. John Berardi Final: Precision Nutrition
+  context, Jobs to Be Done, feeling personal at scale, and higher-impact coach touches.
+- **2021-12-18** `yt-m40W7XeZNkA` - Sharran Srivatsaa investment frameworks Part 1 with Alex/Leila
+  context: LOT, safety trampoline, mentor selection, and Alex/Leila risk-aversion self-report.
+- **2021-12-21** `yt-MZiRhJVCnJI` - Sharran Srivatsaa investment frameworks Part 2 with Alex/Leila
+  context: investment attention cost, reserve levels, and Alex's art-investment caution.
+- **2021-12-24** `yt-32QUXruavlU` - Chad Wesley Smith interview: Juggernaut context, valuable
+  content, focus, and Alex's coach-above-the-workout implication.
+- Skipped as non-Alex GymLaunch Kale/staff rows: `yt-LRv9eHGNkAU`, `yt-LYrRuPpNpyA`,
+  `yt-g2PKcrxZInw`, and `yt-eJ4K8gwqnks`.
+
+Ledger 6->L2 and 4->skipped (L2 now 1,222; skipped 39). youtube-index/index/footer updated.
+Synthesis notes: Berardi-referral-diagnostic/existing-clients-not-referring/believability-weighted-advice/opportunity-leaving-chair-filter; outside-matrix-meaning-after-financial-security/happiness-operationalization/Gym-Launch-one-sixth-self-report; feeling-personal-at-scale/question-quality-by-stage/higher-impact-coach-touches; Sharran-LOT-liquidity-ownership-terms/safety-trampoline/Alex-Leila-risk-averse-self-report/whole-life-mentor-selection; investment-attention-cost/personal-safety-trampoline-first/business-reserve-flexibility/no-art-self-report; Chad-Juggernaut-valuable-content/focus/coach-rise-above-workout.
