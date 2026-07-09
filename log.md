@@ -3737,3 +3737,31 @@ L2.
 
 Ledger 8->L2 (L2 now 1,131). youtube-index/index/footer updated. @MoreMozi P2: ~1,306 rows remain.
 Synthesis notes: winner-delay/input-over-output/self-as-goal; excuses/doing-first identity/action-before-confidence; earn-and-learn/industry apprenticeship/gym biography; consistency/boring-work/timer/time-on-task/start-working; focus/narrow-scope/viral-coefficient; calendar wealth/time currency/delayed outcomes; high-ticket ascension timing/parent buyer/payment structure; psych-drug medical-caution/short-term optimization/controllable games/brand-over-money.
+
+## [2026-07-09] ingest | yt batch 146 - @MoreMozi P2 (2026-05-10), 8 videos
+
+Fifty-ninth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-10** `yt-sfGqHc50qNI` "The Price Tag of Your Goals is What Makes Them Worthwhile" - goals:
+  cost as value signal, high-standard self-love, and undeserving-success action frame.
+- **2026-05-10** `yt-x3RfvS0nJqk` "The 5-to-9 Schedule That Builds Businesses" - sacrifice:
+  5-to-9 schedule, lifestyle/ego cut, and condo-to-minimum-wage-gym step-back self-report.
+- **2026-05-10** `yt-XuKGoz1kj3M` "The Biggest Business Opportunity of 2026" - AI:
+  agents/subagents, workflow expansion, service-business demand, and attention-to-money workflows.
+- **2026-05-10** `yt-e2KOPNkKEos` "The Key to Success: Consistency Over Intensity" - consistency:
+  lower-intensity durability, best bad guess, feedback loop, and nothing-to-lose risk frame.
+- **2026-05-10** `yt-24tqnT9lkaA` "I Put On 20 Pounds of Muscle During My Worst Year" - fitness:
+  training joy, not-rushed workouts, 2025 worst-season self-report, and 20lb muscle-gain claim.
+- **2026-05-10** `yt-QzG3KEliDcc` "Should I Add a Second Offer to My Webinar?" - offer sequencing:
+  protect primary sale, Leila missed-opportunity frame, automated upsells, and bridge community offer.
+- **2026-05-10** `yt-48tO9DasgVk` "Having a Clue is Overrated - The #1 Lie That Holds You Back" - learning:
+  I-don't-know as intellect flag, truth-telling, learning directive, and no/yes trust.
+- **2026-05-10** `yt-ZYvbh376pbc` "The Fallacy of the Perfect Pick" - action:
+  habit of biting, Sartre toothless-life frame, no perfect pick, and starting now.
+
+Ledger 8->L2 (L2 now 1,139). youtube-index/index/footer updated. @MoreMozi P2: ~1,298 rows remain.
+Synthesis notes: goal price tag/high-standard self-love/undeserving-success; 5-to-9 schedule/condo-to-gym step-back biography; 2026 AI workflow expansion/agents/subagents/attention-to-money; consistency-over-intensity/best-bad-guess/nothing-to-lose; training joy/20lb muscle self-report/worst-season context; webinar offer sequencing/Leila missed-opportunity frame/bridge offer; not-knowing intellectual humility/learning directive; perfect-pick fallacy/habit-of-biting/start-now.

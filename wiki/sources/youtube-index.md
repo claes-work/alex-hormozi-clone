@@ -586,6 +586,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-10 | [[2026-05-10-yt-pL5gm590QyY]] | Time ownership - calendar wealth, time currency, delayed outcomes, visualization | ★ |
 | 2026-05-10 | [[2026-05-10-yt-h6uG_5LMmfw]] | 30K offer - parent buyer, ascension timing, VSL, half now half placement | ★ |
 | 2026-05-10 | [[2026-05-10-yt-sfaw7wmGfls]] | Brain meds caution - psych drugs for kids, short-term optimization, controllable games | ★ |
+| 2026-05-10 | [[2026-05-10-yt-sfGqHc50qNI]] | Goal price tag - cost makes worthwhile, high-standard self-love, undeserving success | ★ |
+| 2026-05-10 | [[2026-05-10-yt-x3RfvS0nJqk]] | 5-to-9 schedule - business around job, lifestyle cut, condo-to-gym step back | ★ |
+| 2026-05-10 | [[2026-05-10-yt-XuKGoz1kj3M]] | 2026 opportunity - AI agents, workflow expansion, attention to money | ★ |
+| 2026-05-10 | [[2026-05-10-yt-e2KOPNkKEos]] | Consistency over intensity - best bad guess, feedback loop, nothing to lose | ★ |
+| 2026-05-10 | [[2026-05-10-yt-24tqnT9lkaA]] | Training joy - not rushed workouts, 20lb muscle self-report, worst season | ★ |
+| 2026-05-10 | [[2026-05-10-yt-QzG3KEliDcc]] | Webinar second offer - protect primary sale, Leila missed-opportunity frame, bridge offer | ★ |
+| 2026-05-10 | [[2026-05-10-yt-48tO9DasgVk]] | Not knowing - green flag, truth, learning directive, no/yes trust | ★ |
+| 2026-05-10 | [[2026-05-10-yt-ZYvbh376pbc]] | Perfect pick fallacy - habit of biting, starting now, no perfect conditions | ★ |
 | 2026-05-11 | [[2026-05-11-yt-LEzBAtQA060]] | Peace of mind - values indicator, VC bash clip, reputation over viral reach | ★ |
 | 2026-05-11 | [[2026-05-11-yt-qoi5W6xGjDM]] | Start first hour - work needs doing, 20h proficiency, shrinking action delay | ★ |
 | 2026-05-11 | [[2026-05-11-yt-sZOjZkivEVc]] | Self-criticism - ambition over belonging, accepting useful criticism | ★ |
@@ -1161,7 +1169,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,131 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,401 total, including P2 (~1,379, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,139 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,393 total, including P2 (~1,371, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
