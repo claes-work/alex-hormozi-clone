@@ -18,6 +18,24 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — friendship philosophy + MrBeast + growth diagnostics (L2=429)
+
+Loop iteration 54. 8 @AlexHormozi P2 (May-Jul 2023; used a bundled light-agent for 5 mindset/vlog
+clips). 4 L3-candidates: 1taVrxMFjaY "no new friends" (★ cornerstone friendship/relationship philosophy
+— transactional friendship spectrum, "seasons of friends", spouse-as-ultimate-ally, "pruning a tree" →
+feeds the new persona Relationships domain), 9gVdCR7W8o8 "real reason your business isn't growing"
+(★ marketing hierarchy [method→platform→media→volume] + the 4-question market test + the Pyramid of
+Markets [5 expansion directions] → business-diagnostics), VPre_XMgKjs "why MrBeast will be worth $100B"
+(★ media-CPG flywheel, "your product is your marketing", brand-premium-on-commodities, infinite-game),
+qLM5G7N3l3I "3 ways to do what you love" (★ the Artist/Entrepreneur/Hybrid three-paths taxonomy). Rich
+bio texture in the 2 vlogs (Ep 002/003): the **Hurricane Maria private-jet origin** (Sept 2017,
+evacuating Puerto Rico, haggled $70k→$28k — first jet was a necessity), the 3-hour morning routine,
+father-in-law is his book manager, $1.2M self-funded to keep the book free, "The Game" podcast rename
+~2019/20, father fled the Iranian revolution with ~$1k. Leila appears on-camera in both vlogs (context
+only). Ledger: L2=429. Backlog for synthesis 12: friendship→relationships, MrBeast-flywheel, marketing-
+hierarchy/pyramid-of-markets, three-paths-taxonomy, Bettors-vs-Builders, leverage-ladder. Next:
+continue @AlexHormozi P2 (246 left).
+
 ## [2026-07-09] lint | Synthesis pass 11 — enrichments (10-EV-criteria, ACA, training) + system-prompt v13
 
 Loop iteration 53 (synthesis). This pass was all ENRICHMENTS of existing pages (no new pages) via 4
