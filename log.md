@@ -3543,3 +3543,31 @@ synthesis commit was available. The 7 successful rows were ingested as L2.
 
 Ledger 7→L2 (L2 now 1,076); 1 unavailable marked L1. youtube-index/index/footer updated. @MoreMozi P2: ~1,362 rows remain.
 Synthesis notes: service-business supply-gen funnel/CAT/lifetime gross profit per employee; productivity by elimination/environment/no-phone/commitment; hiring intelligence via question quality; fitness creatine/testosterone self-report with medical caveat; 100-rep top-10% learning loop; sales tone/humor/childlike-curiosity/back-foot selling/Sam Bakhtiar self-report; violent constraint attack/15-books-family-office/consistency-volume/35k content-output self-report.
+
+## [2026-07-09] ingest | yt batch 139 — @MoreMozi P2 (2026-05-14), 8 videos
+
+Fifty-second resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-14** `yt-kgsuIvR53e4` "The #1 Thing That Changed My Life Wasn't a Course" — education:
+  alternative education, networks, belief-breaking, and procedural/declarative knowledge.
+- **2026-05-14** `yt-k6S-0EmayIY` "How to Stop Overcomplicating Simple Success" — marketing:
+  specificity, pain as pitch, short words, and avatar pain knowledge.
+- **2026-05-14** `yt-luechGVBKkA` "Buying the Dip for My Own Negative Consequences" — gratitude:
+  buying the dip on pain, making it worth it, and operationalized gratitude.
+- **2026-05-14** `yt-5cjxX3QoAWM` "The 5-a-Day Rule for Being Present" — presence:
+  five moments, peripheral vision, detail focus, and one-thought attention.
+- **2026-05-14** `yt-avUZMPHNPfE` "Anthropic Engineers Don't Code Anymore" — AI:
+  AI implementation business, problem-first learning, tool context, and Anthropic hearsay.
+- **2026-05-14** `yt--QmnCJL_dGE` "The Mental Trick That Killed My FOMO" — FOMO:
+  shifting deprivation, fast-forwarding the present, and hedonic normalization.
+- **2026-05-14** `yt-RFsFWbAiq7I` "If Your New Hire Has No Black Book, Don't Hire Them" — hiring:
+  snowball of talent, black-book litmus test, and C-level network expectations.
+- **2026-05-14** `yt-nXqF-F6By40` "I Bought 32 Teeth Whitening Studios. Here's Why" — acquisition:
+  click-to-renewal diligence, 32-location teeth-whitening self-report, LTV levers, and 2021 liquidity timing.
+
+Ledger 8→L2 (L2 now 1,084). youtube-index/index/footer updated. @MoreMozi P2: ~1,354 rows remain.
+Synthesis notes: alternative-education/networks/belief-breaking; marketing specificity and pain-is-the-pitch; buy-the-dip-on-pain and operationalized gratitude; five-presence-moments/detail-focus; AI implementation/problem-first learning/Anthropic hearsay; FOMO via fast-forward-present/hedonic normalization; talent snowball/black-book hiring test; 10x diligence/teeth-whitening-acquisition/2021 sell-everything self-report.

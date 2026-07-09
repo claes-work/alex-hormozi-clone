@@ -584,6 +584,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
 | 2026-04-28 | [[2026-04-28-yt-_TZEJAYUeCo]] | Roadmap $0→$10M — stage ladder + the "$3M three boxes" | ★ |
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
+| 2026-05-14 | [[2026-05-14-yt-kgsuIvR53e4]] | Alternative education - networks, belief-breaking, procedural vs declarative | ★ |
+| 2026-05-14 | [[2026-05-14-yt-k6S-0EmayIY]] | Simple success - marketing specificity, pain as pitch, avatar knowledge | ★ |
+| 2026-05-14 | [[2026-05-14-yt-luechGVBKkA]] | Negative consequences - buy the dip, operationalized gratitude | ★ |
+| 2026-05-14 | [[2026-05-14-yt-5cjxX3QoAWM]] | Presence - five moments, peripheral vision, detail focus | ★ |
+| 2026-05-14 | [[2026-05-14-yt-avUZMPHNPfE]] | AI implementation - problem-first, AI teaches use, Anthropic hearsay | ★ |
+| 2026-05-14 | [[2026-05-14-yt--QmnCJL_dGE]] | FOMO - deprivation shifts, fast-forward present, hedonic normalization | ★ |
+| 2026-05-14 | [[2026-05-14-yt-RFsFWbAiq7I]] | Talent black book - snowball of talent, C-level leadership test | ★ |
+| 2026-05-14 | [[2026-05-14-yt-nXqF-F6By40]] | Teeth whitening acquisition - 10x diligence, LTV levers, 2021 liquidity | ★ |
 | 2026-05-15 | [[2026-05-15-yt-odzFTjbZUQk]] | Crowd-following - father approval, agency compression, first-wall proof | ★ |
 | 2026-05-15 | [[2026-05-15-yt-vMtyb9dW0nw]] | Risk misjudgment - threat bias, upside, play-it-out specificity | ★ |
 | 2026-05-15 | [[2026-05-15-yt-onWjGPPXe-w]] | Future self - bulletproof identity, 85-year-old gratitude, presence | ★ |
@@ -1106,7 +1114,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,076 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,457 total, including P2 (~1,435, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 34 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,084 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,449 total, including P2 (~1,427, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 34 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
