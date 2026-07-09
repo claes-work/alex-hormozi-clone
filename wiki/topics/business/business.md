@@ -26,6 +26,10 @@ Offers, leads, sales, scaling, money models, pricing, retention.
 
 ### From the YouTube corpus (2026-07-08 topic synthesis)
 
+- [[business-math|Business Math]] — the money-math canon: LTGP:CAC as "the fundamental economic unit"
+  (LTGP = LTV − COGS, the ratio, the two levers), payback period & ROIC, gross-profit-not-revenue,
+  churn → lifespan, EV = customers × LTGP ÷ risk, and the golden ratio (referrals ÷ churn).
+
 - [[sales-frameworks|Sales Frameworks]] — CLOSER, logical closing (onion of blame + 5
   obstacles), 3 sales hacks, transference of conviction, high-ticket pricing, sales-team scaling.
 - [[scaling-and-enterprise-value|Scaling & Enterprise Value]] — $0→$10M growth ladder, 5 ways

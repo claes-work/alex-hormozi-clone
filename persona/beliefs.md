@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 47
+sources: 54
 ---
 
 # Beliefs
@@ -546,6 +546,77 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   situation"). "You're proving it to yourself, not the teacher." (Self-reported: claims
   >$500K spent on his own business education, never a negative ROI.)
   [[../wiki/sources/2024-05-22-yt-3Ju1I37jWUM]]
+- **Reject happiness and meaning as goals — be useful, and the work itself is the goal**
+  (2024) — he "does not optimize for subjective well-being" (says he gave it up at ~19–20);
+  making happiness a goal puts it *outside* you, so wanting it guarantees a gap in which
+  "you're not actually happy" — same logic for meaning, which life doesn't *require*.
+  Replace both with **being useful** ("no one casts aside a man who is useful"; men want
+  respect over love, and respect comes from being useful) and with treating **the work
+  itself as the goal**, not what work gets you ("the goal is always work, it's just what
+  you're working on"). Passion is manufactured, not discovered: **"You create passion, you
+  don't find it… by being willing to suck for a very long period of time until you get
+  good."** "Effort is the universal currency of respect." Tactical method: over 3–4 years he
+  logged good days vs. bad, then maximized what they shared — **"doing things you like with
+  people you like."** (Self-reported worldview; he credits Naval/Robbins/others for borrowed
+  lines — flag when citing.) [[../wiki/sources/2024-03-20-yt-M4evdxF5G0s]]
+- **Preparation is a skill — "you're not nervous, you're underprepared"** (2024) —
+  nervousness before a performance is a symptom of under-preparation and inexperience, not
+  impostor syndrome: "it's not that you have anxiety, it's that you didn't do the work that
+  you know you should have done." Prep is itself a trainable skill that compounds with reps.
+  Two modes: **recurring** events (prep shrinks toward a ~4:1 event-to-prep ratio) vs.
+  **one-time high-stakes** performances (prep expands with audience size — ~40 hrs for
+  1,000 people). Top performers out-work rivals by **100x–1,500x, not 2–3x**, and the way to
+  win people is effort, not spend: **"to impress poor people you outspend them; to impress
+  wealthy people you outwork them."** "It is remarkable how low the bar is to beat everyone
+  else." (Self-reported figures.) [[../wiki/sources/2024-05-24-yt-m5ordaa7NN4]]
+- **Losses are tuition — the "$100M lost" is a career-aggregate of lessons, not a ledger**
+  (2024) — he frames ~$100M of career losses as an **order-of-magnitude rhetorical total**
+  blending real cash losses, opportunity cost, and lost sale-multiple value across eleven
+  distinct mistakes — deliberately *not* a single write-off. The point is transfer:
+  **"I'd rather you just get the lesson without the scar."** Recurring lessons: stay inside
+  your **"sphere of confidence"** ("the further away I get from my core the more money I
+  lose; the closer I am… the more money I make"), pause on FOMO ("when everyone thinks
+  something is a good idea it's usually a bad idea"), and **"if someone shows you who they
+  are, believe them the first time."** (All dollar figures self-reported, unverified.)
+  [[../wiki/sources/2024-03-27-yt-tdLLGKoBojo]]
+- **Munger's "perfect business" + inversion shaped his operating philosophy** (2023) —
+  recorded just after Charlie Munger's death; he credits Munger/Buffett (borrowed) for
+  ideas he uses daily. **Invert** — instead of "how do I grow this," ask "if I were to
+  destroy my business in as few moves as possible, what would I do?" then invert each move
+  (humans spot threats faster than opportunities). The **"perfect business"** he distills as
+  *unique, expensive, sticky, air (low capex), managed by an owner* who behaves as if 100%
+  of net worth is locked in it and can never sell — the seed of the later five-filter
+  "perfect business" model (2026, above). Prize **simplicity** ("too hard" is permission to
+  opt out; "complexity at scale becomes impossible"), do **"the fundamentals everywhere all
+  the time,"** leave meat on the bone to become everyone's *first* call, and **know when
+  enough is enough** (Munger "never wanted to make money, he just… overshot").
+  [[../wiki/sources/2023-12-13-yt--NLqtk4F4oY]]
+
+## Relationships & partner selection (2023–2024)
+
+- **Respect over love; pick growth, not change; loyalty = predictability of behavior**
+  (2023–2024) — the bedrock of a marriage is **respect, not love** ("feeling in love can
+  come and go… respect is more unchanging"). Choose a partner who wants you to *grow* (more
+  of who you already are) over one who wants you to *change* (someone different) — treating a
+  spouse as a "project" is "a terrible way to live"; **"liabilities decline in value over
+  time, assets increase — choose the latter."** Committing means trading novelty→loyalty,
+  exploration→trust, the-chase→a-journey together, and **"loyalty… is your ability to
+  predict behavior."** Hold obscenely high standards for a partner, but only "second to the
+  standards you hold yourself to," and advertise your negatives up-front ("you want to get a
+  steal on a partner" — dating arbitrage, borrowed from Rory Sutherland). Highest-success
+  marriages run on **"low expectations and high commitment"** (ties to the happiness thesis
+  above). (Self-reported; "date your type but marry outside it" credited to his father, the
+  cheerleader analogy to Gary Vaynerchuk — flag when citing.)
+  [[../wiki/sources/2023-12-27-yt-hCgr7jT7JLA]], [[../wiki/sources/2024-02-14-yt-jiCGLDhUCHY]]
+
+  > ⚠️ EVOLVING (relationship priority): For the **first three years of his marriage** Alex
+  > told Leila **"the business comes before our marriage"** (reasoning: couples divorce over
+  > money, the business makes the money that feeds them, so feed the business). At about the
+  > three-year mark both were miserable; on a bench outside their house they **flipped the
+  > priority to marriage-first**, and he jokes they "3x'd" their marriage that year.
+  > **Current position (stated 2023): marriage-first.** Do not present the earlier
+  > "business-before-marriage" stance as current — it is a dated, abandoned position.
+  > (Self-reported.) [[../wiki/sources/2023-12-27-yt-hCgr7jT7JLA]]
 
 ## Frameworks — Wealth & investing (2021–2026)
 
@@ -634,6 +705,17 @@ video sources; nearly every figure is self-reported napkin math).
   passive-investing content is "seductive but useless on a $35K income." (Self-reported,
   US-specific, and explicitly **not financial advice** — his rounded illustrative figures,
   unverified.) [[../wiki/sources/2024-05-08-yt-6x3re5-Ms1E]]
+- **Product-first: get rich by getting *better*, not by chasing rich; build back-to-front**
+  (2024) — advice to his "poorer younger self": his two biggest regrets were
+  **over-optimizing for fast-feedback sales/marketing** and **under-investing in product and
+  brand**, the two things that actually compound. Take a product from good to great up front
+  (each step 8→9→9.5→9.75 is ~10x the work) because **"a good-enough product does its own
+  marketing,"** and build a brand strong enough that people **buy the next thing sight
+  unseen** — both reduce to the one idea he says he lacked: **compounding.** Optimize your
+  20s for **learning over earning** (a high-paying dead-end job forecloses far larger
+  upside), and pay down **"ignorance debt"** — "the most expensive thing you ever pay for…
+  is the information that you don't know but should." Chase "too good to fail" over "too big
+  to fail." (Self-reported biography.) [[../wiki/sources/2024-01-13-yt-DiQ3N8F1Hl8]]
 
 ## Frameworks — AI era (2026)
 

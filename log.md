@@ -18,6 +18,25 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] lint | Synthesis pass 10 — business-math + relationships + system-prompt v12
+
+Loop iteration 50 (synthesis). Cleared the rebuilt L3-cand backlog via 4 parallel agents + recompile:
+- **NEW wiki/topics/business/business-math.md** — the money-math canon (LTGP:CAC as fundamental
+  economic unit, payback period, ROIC, gross-profit-not-revenue, churn→lifespan, EV = customers ×
+  LTGP ÷ risk, golden ratio); 3 sources deduped; CAC-inconsistency + self-reported callouts; Skool
+  promo kept out. Wired into business hub + index. **40 topic pages now.**
+- **content-engine.md** enriched: new "Personal brand & audience growth (2024)" section (the 7-point
+  rich-and-famous playbook, the 6 content shifts / 7.8M followers, the super-influencer process);
+  deduped via cross-links (sources 7→10).
+- **persona/beliefs.md** (47→54 sources): +purpose/be-useful, +preparation-is-a-skill, +losses-are-
+  tuition, +Munger-perfect-business, +product-first, and a NEW **Relationships & partner selection**
+  section (respect-over-love, growth-not-change) carrying a ⚠️ EVOLVING callout dating the abandoned
+  business-first stance vs the current marriage-first one (fidelity rule 3).
+- **persona/appearance.md**: new Diet & nutrition subsection (eats-for-function, low appetite, ~2yr
+  salmon+Ezekiel lunch, high-protein zero-prep) — reconciled the ~6,000-cal note as a past bulk phase.
+- **persona/system-prompt.md → v12** (compiled_from_sources 383→407).
+Next: continue @AlexHormozi P2 (270 left), then @MoreMozi/@GymLaunch, then shorts.
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — Core 4 + biz-math equations + relationship (L2=405, >400!)
 
 Loop iteration 49. 8 @AlexHormozi P2 (Nov 2023-Jan 2024). **Crossed 400 videos L2.** 3 L3-candidates:

@@ -3,8 +3,8 @@ type: topic
 domain: content-strategy
 domains: [content-strategy, marketing]
 created: 2026-07-08
-updated: 2026-07-08
-sources: 7
+updated: 2026-07-09
+sources: 10
 tags: [content, media-playbook, volume, hooks, repurposing, personal-brand, give-first]
 ---
 
@@ -335,6 +335,147 @@ effort.
 **Tooling:** he calls the **Hemingway app** "the greatest writing tool that's ever been
 created" for its fast, color-coded feedback loop. He downplays ownership: "These are not
 like Alex's rules for writing, they're more just like rules for good writing."
+
+---
+
+## 9. Personal brand & audience growth (2024)
+
+Three 2024 solo videos consolidate his personal-brand thesis and the audience-growth
+shifts behind his own numbers. Much of this **extends earlier sections** rather than
+adding new mechanics — overlaps are flagged inline. All growth/spend figures are
+**self-reported** (see the page-level caveat).
+
+### The seven-point "rich and famous" playbook (reverse-engineered)
+
+He reverse-engineers five mega-brands — **Taylor Swift, The Rock, MrBeast, Joe Rogan,
+Kylie Jenner** — then inverts (Munger-style) into a build-a-brand playbook
+([[../../sources/2024-02-21-yt-5JLqmQlGG0U]]):
+
+1. **Longevity / compounding.** Everyone underrates time. "Posting once/week for 10
+   years = 520 videos vs. 52 in one year" — old videos keep pulling people in. *(Same
+   compounding lever as Section 2's Volume × Time = Skill.)*
+   > "Don't compare your first year to someone's 10th year."
+2. **Scale the unscalable.** He can't crash fans' weddings like Swift, so he pours energy
+   into one thing (books, courses, sporadic Q&A lives) then distributes it free to
+   everyone.
+3. **Vulnerability / damaging admissions.** Showing flaws (losing all his money twice,
+   whiffed sales, shutting 8 of 9 businesses) makes a multimillion-dollar life relatable
+   and builds a fan base that defends you. *(Extends Section 5's "damaging admissions
+   build trust.")*
+4. **Ownership.** Swift fought to own her masters; he refuses publisher advances so he
+   owns his books forever and can give them away. "Don't sign away long-term rights for a
+   short-term check."
+5. **Monetize on-brand / tastefully.** Monetize only in ways that reinforce what people
+   already love (Rock + tequila made sense; a luxury watch line would be off-brand for
+   him). Reputation can't be rebuilt like bankruptcy.
+   > "If you ever have the choice between reputation and money, always choose
+   > reputation... You can always make more money."
+6. **"You are the niche."** A personal brand should equal the whole person — the unique
+   *thumbprint* is the mix and proportion of topics (Rogan = biohacking + aliens +
+   politics + fighting + comedy). Teach, don't preach. *(Ties to Section 5's "How I, not
+   how to"; fuller treatment in [[branding]].)*
+   > "One is preaching, one is teaching, and you want to be the teacher, not the preacher."
+   > "He is interesting because he is interested."
+7. **No algorithm hacks.** Align with what the platform wants (engaging content people
+   find interesting) instead of exploiting a flaw that gets patched. Rogan is
+   anti-algorithm ("post and ghost").
+
+He layers on **"make the clickbait true"** (credited to MrBeast: make the insane claim,
+then back it with an even more insane video — *the same CTR × watch-time packaging as
+Section 3*), **doubling down / burning the boats**, and **resourcefulness** (copy what a
+big creator did when they had *nothing*, not what they do now). Market case: these people
+are billionaires because **direct distribution** cut out the middlemen; creator economy
+projected ~$500B/year by 2027 (Goldman Sachs, cited); the real value of an audience is
+*access* to other people.
+
+### The six content shifts behind 7.8M followers / 2B impressions in 40 months
+
+His distilled audience-growth retrospective — ~40 months, ~35,000 pieces of content,
+~1,000 hours on camera, ~$4M in team/equipment/software, self-reported: 0 → 2.23M
+YouTube, 0 → 2.5M IG, ~2B impressions, 7.8M new followers, ~1M books sold
+([[../../sources/2024-04-27-yt-HVOubeXUcx0]]). The through-line: he is deliberately
+**narrowing** from broad edutainment toward pure business education, measured by ad
+revenue (RPM), not raw views.
+
+1. **Edutainment → Education.** Defines a piece by its most common *outcome*. Rejects the
+   funnel theory that entertainment viewers convert into education viewers — his data
+   claims each audience just wants more of the same; only education viewers buy books,
+   opt in, and apply.
+2. **For us → For you.** Make content for the audience, not the media team. Five tactical
+   changes: clearer packaging (vague → clear thumbnails/headlines), the **proof, promise,
+   plan** intro (lead with proof/edification), meat over "Razzle" (language, steps,
+   stories — claims 75% of top videos emphasized language over production), visualizing
+   data over visual effects, and **pre-work over post-work** ("an ounce of pre-work is
+   worth a pound of post"; a quarter of old post time spent up front cuts ~90–95% of
+   editing → ~4x output). *(Packaging/CTA overlaps Section 3; "proof, promise, plan" is
+   the intro-level sibling of the influencer pitch's Promise → Proof → Plan → Offer
+   below.)*
+3. **Wide → Narrow.** Drop relationships, college, food, lifestyle; double down on
+   business models, leverage, selling. *(Same niche-down logic as Section 5.)*
+4. **Views → Revenue.** Switch the primary metric to **ad revenue / RPM** (views ×
+   revenue-per-view) — a fast, paired quantity+quality metric. A 90-day experiment: more
+   edutainment spiked views 2–3x but ad revenue dropped by half ("the wrong people").
+5. **Shorts → Longs.** Rejects the shorts → longs → customer funnel; claims each is a
+   different audience and longs drive more conversions. Keeps shorts volume, skews toward
+   business. Cross-platform magic: found on TikTok → watched on YouTube.
+6. **Assume more → Assume nothing.** Introduce yourself every time, say why they should
+   listen, explain every inside joke. Models the varied-but-consistent intro on TV theme
+   songs / The Simpsons' chalkboard gag.
+   > "Warm people like the reminders and cold people need the introduction."
+   > "We need to be reminded more than we need to be taught, at least I do."
+
+Closing principles: "anything works better than nothing... some things work better than
+others... nothing works forever." He does **not** directly monetize the media — it feeds
+book sales, opt-ins, and applications.
+
+### The "super influencer process" (borrowing other people's audiences)
+
+The audience-growth counterpart to building your own: instead of manufacturing an
+audience, rent one. A three-step process framed as an "insurance policy" that compresses
+years of audience-building into weeks
+([[../../sources/2024-05-01-yt-Z2tgZC_XkT4]]). Self-reported spend grounding it: >$20M on
+Prestige Labs influencers, >$22.8M on Acquisition.com software affiliates, 23,000+ book
+affiliates.
+
+- **Core thesis:** "If you can reach 1 million people for free... as long as your product
+  sells for more than it costs, you make money." The question is *which* partnership makes
+  the most, not *whether* it makes money.
+- **Two models, by who has the bigger audience:** (1) you own the bigger brand → the
+  influencer promotes *your* product (Nike → Jordan); (2) the influencer is bigger → you
+  build/deliver a product branded around *them* (Congo → Logan Paul's Prime). An **army of
+  small** influencers keeps more ownership but is slower; **one super influencer** is
+  faster but costs more equity. He now leans super-influencer — and did exactly that with
+  Skool, acting as his own influencer.
+- **Step 1 — Pick.** Identify your ICP → find who they follow → pick best-fit super
+  influencers. Contact in expanding circles (people you know → intros/bounties → cold
+  across every channel → agents). Pro tip: their website support inbox is far less crowded
+  than IG DMs. "Super influencers cost less than people assume — a couple hundred grand a
+  year."
+- **Step 2 — Get them to talk.** Verify yourself (blue check → claimed 5–10x response
+  rate), send "the magic message" (short, personalized, states the recurring income,
+  proof screenshots, offers them the majority of profits for the minority of work, asks
+  for 15 min), and run the **Rule of 100** (~100 messages/day). Build goodwill first —
+  share their posts, send an obscene *personalized* gift (their logo, not yours). *(Same
+  give-first / "incur a debt" mechanic as Section 6.)*
+- **Step 3 — Close.** "Over-preparation equals profit." Bring mockups with their branding
+  and "this is you now / this is you with me" projections. Structure the pitch as
+  **Promise → Proof → Plan → Offer**, make your side look better than theirs, then make a
+  "Michael Jordan offer so good they feel stupid saying no." Sell to your position:
+  newcomers sell attention and all-in focus; the "800lb gorilla" sells track record and
+  infrastructure.
+
+> "You don't need a hundred influencers, you just need one super influencer to take your
+> company to the next level and transform your life."
+> "The best way to show an audience that you'll give them value after they buy is to give
+> them value before they buy."
+> "The gap between no and yes is where the opportunity to make life-changing money is."
+
+> **Overlap note:** These three sources restate and sharpen mechanics already in Sections
+> 2–6 (compounding, packaging/CTR, niche-down, teach-not-preach, give-first). This section
+> consolidates their *2024 personal-brand framing*; the influencer process is the one
+> genuinely new sub-playbook (borrowed audiences rather than owned). Full L3 promotion of
+> the five-influencer breakdown belongs in [[branding]]; the influencer process cross-links
+> to the marketing/affiliate pages and his `$100M Leads` outreach model.
 
 ---
 

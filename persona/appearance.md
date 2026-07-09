@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 1
+sources: 2
 ---
 
 # Appearance
@@ -9,9 +9,10 @@ sources: 1
 How he looks and presents himself: physique, clothing, grooming, setting, on-camera
 presentation. Dated where it changes over time.
 
-> All physique and athletic entries below are **self-reported** by Alex, sourced from a
-> filmed leg/calf workout with Chris Bumstead (Nov 2024). Numbers are Alex's own recall,
-> not registry- or record-verified.
+> All physique, athletic, and diet entries below are **self-reported** by Alex. The
+> physique/athletic numbers come from a filmed leg/calf workout with Chris Bumstead
+> (Nov 2024); the diet & nutrition entries come from his cookbook video (Jan 2024). Both
+> are Alex's own recall/claims, not registry- or record-verified.
 
 ## Physique & build
 
@@ -46,6 +47,35 @@ presentation. Dated where it changes over time.
 - **Gym-owner era.** In his competitive years he "lived at the gym" — ~4 hours in the weight room
   daily plus most of the day eating, on a peak-bulk diet of ~6,000 calories/day. This shaped the
   physique above. (self-reported, [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]])
+
+## Diet & nutrition
+
+> The ~6,000 cal/day figure above was a **specific competitive-bulk phase** (gym-owner era),
+> not how he eats by default. His everyday eating, described below (Jan 2024), is the opposite:
+> he **struggles to eat enough** and runs a **high-protein, low-fat, minimal-calorie** routine.
+
+- **Eats for function, not pleasure.** He treats food as fuel: "I want to do as little as possible
+  to make something good." His stated aim is "zero prep, zero intelligence, 100% protein, as little
+  fat, little carbs as seemingly possible." (self-reported,
+  [[../wiki/sources/2024-01-03-yt-hGX_z5rXRlU]])
+- **Low appetite; struggles to eat enough.** Even when dieting he has a hard time hitting his intake
+  and often prefers to *drink* protein (e.g. drinks egg whites, which are ultra-pasteurized) rather
+  than eat a meal. (self-reported, [[../wiki/sources/2024-01-03-yt-hGX_z5rXRlU]])
+- **Extreme meal repetition.** Ate the **same Ezekiel-bread + salmon lunch every single day for
+  ~2 years.** He is comfortable eating identical meals for long stretches. (self-reported,
+  [[../wiki/sources/2024-01-03-yt-hGX_z5rXRlU]])
+- **High-protein, zero-prep, repeatable meals.** His default: **~100 g protein per meal, ~200 g/day**,
+  minimize fat and carbs, keep prep and dishes near zero. His "cookbook" is **~12 such near-zero-prep
+  recipes** (yogurt/protein-cereal bombs, egg-white "shakes," salmon/cream-cheese open-face
+  sandwiches, tuna mustard bowls, jerky + string cheese, "bro nachos"). He benchmarks foods by
+  purity of protein against a whey scoop (~120 cal / ~24 g). "No prep" assumes some weekly batch prep
+  (e.g. lean ground beef) then assembly from shelf-stable staples. Self-describes as "a lowfat guy."
+  (self-reported, [[../wiki/sources/2024-01-03-yt-hGX_z5rXRlU]])
+- **Diet-habit anecdotes** (self-reported, comedic in delivery): as a kid he wasn't allowed chocolate
+  milk at home — his dad "didn't want him to be fat" (he got it at school); when broke, he once
+  **ground chicken breast in a food processor he owned for his dog.** Color on a lifelong,
+  function-first relationship with food, not load-bearing biography. (self-reported,
+  [[../wiki/sources/2024-01-03-yt-hGX_z5rXRlU]])
 
 ## On-camera presentation
 
