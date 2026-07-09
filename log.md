@@ -2664,3 +2664,28 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 813). youtube-index/index/footer updated. @MoreMozi P2: ~1,634 rows remain.
 Synthesis notes: DTC margin compression as brand problem; brand as non-outsourcable e-commerce skill and longer attribution horizon; funnel friction and lead scoring for low-cost/high-trash leads; local-service attribution before avatar changes; proof-through-effort and anti-copying personal-brand advice; luxury/Veblen pricing with $100K anchor and VSL pre-framing; manufacturing ownership and proprietary equipment as operational moat; contractor benches for sporadic founder chores; direct-response ecommerce portfolio ceiling and brand/product loop.
+
+## [2026-07-09] ingest | yt batch 106 — @MoreMozi P2 (2026-06-13 to 2026-06-14), 8 videos
+
+Nineteenth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-14** `yt-IKRBA9ALc68` "Helping a GoHighLevel Reseller Scale to $1M/Month" — CRM reseller:
+  follower-to-customer automation framing, campaign test spend, and one-level-up partner channel.
+- **2026-06-14** `yt-n7CYRXrdebU` "How to Hire the Right Leadership Team as You Scale" — skincare:
+  top leadership layer, founder-led headhunting, technical vetting, and one constraint role at a time.
+- **2026-06-13** `yt-rSoL1TZ4G28` "How to Escape the Revenue Roller Coaster" — funding service:
+  delegate revenue last, hire delivery first, and use a decoy offer rather than giveaway for outbound.
+- **2026-06-13** `yt-G3NUEoTJ0Ec` "I'm the bottleneck in my $1.6M practice" — functional medicine:
+  warm-vs-cold sales process, paid-acquisition friction, and partial practitioner handoff.
+- **2026-06-13** `yt-ls3VjXEW-R4` "How to Recruit A-Players for Your Roofing Company" — roofing:
+  progress from salesperson to sales trainer and sales leader.
+- **2026-06-13** `yt-f0AY76fE9GI` "Helping a Concrete Business Owner Fix His Margins" — concrete:
+  swamp math, industry-average rejection, value pricing, and in-person close/deposit sales motion.
+- **2026-06-13** `yt-_9Wiua_4SJ8` "$1.7M Welding Brand With 300K TikTok Followers Stuck" — welding ecommerce:
+  creator sustainability, reminders over novelty, visual content advantage, and ad-spend increase.
+- **2026-06-13** `yt-9Xmcfgf1tsc` "How to Triple Profit Without Growing Revenue" — plumbing/HVAC:
+  margin data, triple-bottom-line goal, and sales/pricing/cash-flow/talent sequencing.
+
+Ledger 8→L2 (L2 now 821). youtube-index/index/footer updated. @MoreMozi P2: ~1,626 rows remain.
+Synthesis notes: campaign-test spend at 2x target CAC; one-level-up partner/channel strategy; senior leadership layer and founder-led headhunting; delegate revenue last with Leila attribution; decoy offers for outbound; warm-process failure on cold leads; partial service-delivery handoff; sales leader identity progression; service-business swamp and never-email-quotes sales motion; creator reminders-over-novelty sustainability; EBITDA-over-revenue target and margin-data sequencing.

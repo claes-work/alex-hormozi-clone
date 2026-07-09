@@ -589,7 +589,15 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-06-04 | [[2026-06-04-yt-B7P5WCVfnPE]] | First high-ticket sale — $6k quote → $60k morning (bio) | ★ |
 | 2026-06-06 | [[2026-06-06-yt-Uw9weyjJL1A]] | "Raising $100M kicked out" — ⚠️ coaching case, NOT Alex bio (title mismatch) | |
 | 2026-06-13 | [[2026-06-13-yt-U8Noy9ly7A4]] | Tutoring $250K→$1M — defined front-end offer + continuity | ★ |
+| 2026-06-13 | [[2026-06-13-yt-rSoL1TZ4G28]] | Funding service — delegate revenue last; delivery first; decoy offer for outbound | ★ |
+| 2026-06-13 | [[2026-06-13-yt-G3NUEoTJ0Ec]] | Functional medicine — cold-lead sales motion, partial practitioner handoff | |
+| 2026-06-13 | [[2026-06-13-yt-ls3VjXEW-R4]] | Roofing — shift from level-one salesperson to sales trainer/leader | |
+| 2026-06-13 | [[2026-06-13-yt-f0AY76fE9GI]] | Concrete business — swamp, never email quotes, close/deposit at visit | ★ |
+| 2026-06-13 | [[2026-06-13-yt-_9Wiua_4SJ8]] | Welding brand — creator sustainability, reminders over novelty, spend more ads | |
+| 2026-06-13 | [[2026-06-13-yt-9Xmcfgf1tsc]] | Plumbing/HVAC — triple profit before revenue; margin data, sales/pricing/cash-flow sequence | |
 | 2026-06-14 | [[2026-06-14-yt-HbaGDrFufmk]] | Chronic wounds — $15 leads, qualify Medicare Part B via friction/scoring | |
+| 2026-06-14 | [[2026-06-14-yt-IKRBA9ALc68]] | GoHighLevel reseller — one-level-up agency/channel partner strategy | |
+| 2026-06-14 | [[2026-06-14-yt-n7CYRXrdebU]] | Skincare leadership — top-layer hires, founder-led headhunting, one constraint role | ★ |
 | 2026-06-14 | [[2026-06-14-yt-gRQLYWfwRIA]] | Power washing — attribution before commercial pivot; scale what works | |
 | 2026-06-14 | [[2026-06-14-yt-GUaphMvD9Tc]] | Power washing duplicate — $2K ads need attribution before spend increase | |
 | 2026-06-14 | [[2026-06-14-yt-tDr3Ocu0VxE]] | Stop copying Alex — become more you; proof through epic work/free clients | ★ |
@@ -843,7 +851,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_813 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,721 total, including P2 (~1,699, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_821 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,713 total, including P2 (~1,691, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
