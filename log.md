@@ -3076,3 +3076,29 @@ during caption fetch and remain open for retry; the 8 successful rows were inges
 
 Ledger 8→L2 (L2 now 941). youtube-index/index/footer updated. @MoreMozi P2: ~1,498 rows remain.
 Synthesis notes: service supply constraints and data-first AI; observable-definition system for personal traits; content-to-ads live-call funnel; non-romantic hardship and hidden inputs; fortitude as intensity-of-drop; wealth/spending/time-buyback philosophy; AI adoption/slop plus real-fake barbell, risk, college, Vegas/Leila/environment context; consumable media and Gym Launch recurring-input retention model.
+
+## [2026-07-09] ingest | yt batch 122 — @MoreMozi P2 (2026-05-26 to 2026-05-27), 8 videos
+
+Thirty-fifth resumed @MoreMozi P2 Q&A batch. The driver printed a checkpoint banner; `tools/synthesis_batch.py prepare`
+was run first and reported no pending checkpoints. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again
+during caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-05-27** `yt-wlZmj97Irtk` "When I Showed Up with $0 in California" — biography/mindset:
+  first-gym California hardship, sleeping under a parking garage, first-rent exact self-report, and father-return stakes.
+- **2026-05-27** `yt-B6yMJkT7CJo` "How Long Can You Go Through Hardship Before You Crack" — tolerance:
+  hardship duration before behavior changes and long-fuse/short-fuse mental-toughness frame.
+- **2026-05-27** `yt-Bt6lTDsX12s` "The 10x Move for Healthcare Service Businesses" — healthcare VA growth:
+  virtual stages/webinars, B2B partner integration, savings assessment, and "better plus cheaper" pitch.
+- **2026-05-27** `yt-n_6TZGmck3k` "How to Get Good at Sales" — sales:
+  conviction/trust, testimonials as conviction fuel, outcome-based product explanation, and childlike curiosity.
+- **2026-05-27** `yt-IxqZEmO9WUQ` "You're Not Winning (You're Just Getting Used to Pain)" — pain exposure:
+  "you're fine" frame, workload exposure therapy, and survived-hardship evidence.
+- **2026-05-27** `yt-D8mz-jmYL5M` "What Has Value in the Age of AI" — AI-era value:
+  selection/curation, time compression, real community, and consumable recurring inputs.
+- **2026-05-26** `yt-70LSQk_RH_M` "Why You Shouldn't Put Your Actions on a Pedestal" — identity:
+  identity as aggregation of behaviors and trading low-cost behaviors for relational benefit.
+- **2026-05-26** `yt-o06NDWKHFVA` "The Real Reason You Haven't Succeeded Yet" — agency:
+  "must be easy" as victim frame, uncertainty as value, and becoming as the real-time output of work.
+
+Ledger 8→L2 (L2 now 949). youtube-index/index/footer updated. @MoreMozi P2: ~1,490 rows remain.
+Synthesis notes: first-gym California hardship and father-return stakes; tolerance definition; healthcare VA webinars/B2B integration; sales conviction/trust/testimonials/childlike curiosity; pain-exposure "you're fine" evidence; AI-era curation/community/consumables; identity-as-behavior aggregation; agency/uncertainty/becoming-as-output frame.
