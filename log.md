@@ -3273,3 +3273,29 @@ ingested as L2.
 
 Ledger 8→L2 (L2 now 997). youtube-index/index/footer updated. @MoreMozi P2: ~1,442 rows remain.
 Synthesis notes: woman-in-red-dress opportunity filter/billion-dollar razor; attention-offer-delivery, repeat-what-works, first-party-data and creative-leverage business system; father apology/wrong-game status realization; required-work/but-I'll-know/good-day blueprint; heroes-use-pain credited line; no-work-wasted/work-makes-the-worker and lost-gym-proceeds self-report; articulation as 25k-30k ad reps; work redefined as worthwhile challenge.
+
+## [2026-07-09] ingest | yt batch 129 — @MoreMozi P2 (2026-05-21 to 2026-05-22), 8 videos
+
+Forty-second resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry; the 8 successful rows were
+ingested as L2.
+
+- **2026-05-22** `yt-aXn8ULiulyw` "The #1 Sign It's Time to Cut a Friend" — relationships:
+  friends who only talk about the past, self-respect, and becoming-cost boundaries.
+- **2026-05-22** `yt-zSpgI6CMBQc` "Why I Cut Relationships The Moment I See The Red Flag" — learning:
+  intelligence as rate of learning, learning as same condition/new behavior, and cutting sooner.
+- **2026-05-22** `yt-rd_urnkST6g` "Why You're Not Winning: You're Distracted" — focus:
+  local real-estate education ecosystem, fortify the base, and content as impact.
+- **2026-05-22** `yt-FpQ41avuWCI` "Social Media Is Dead. Interest Media Is Here" — content:
+  content is targeting, quality views, IRL business-owner response, and market-size math.
+- **2026-05-22** `yt-9NK1YsX6IWc` "Charge Premium Prices in a Commoditized Market" — offers:
+  speed/risk/ease value vectors, lead-magnet types, attraction offers, and softer asks.
+- **2026-05-21** `yt-RFNk5-TJVgQ` "The Painful Stage You Must Sit In to Get Rich" — wealth/mindset:
+  uninformed optimism, informed pessimism, valley of despair, informed optimism, and achievement.
+- **2026-05-21** `yt-XYjQgcCvypg` "The Secret Language of the Highly Successful" — language:
+  work redefined, worth-doing frame, and not justifying life to people with unwanted lives.
+- **2026-05-21** `yt-OZJWhKm6f94` "Why Pain Beats Passion Every Single Time" — pain:
+  use pain rather than be used by it, twist-the-knife specificity, and pain over passion.
+
+Ledger 8→L2 (L2 now 1,005). youtube-index/index/footer updated. @MoreMozi P2: ~1,434 rows remain.
+Synthesis notes: friendship cut signal/past-only talk and self-respect; learning/intelligence operational definitions applied to relationships; local-market base fortification and content-as-impact for real estate education; interest-media/content-is-targeting with quality-view and market-size math; premium-offer speed/risk/ease plus lead-magnet/softer-ask mechanics; five-stage painful income cycle; success language/work redefinition plus family-criticism boundary; pain-specificity and pain-over-passion fuel frame.

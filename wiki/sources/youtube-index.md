@@ -586,12 +586,20 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
+| 2026-05-21 | [[2026-05-21-yt-RFNk5-TJVgQ]] | Painful stage - uninformed optimism to valley of despair to achievement | ★ |
+| 2026-05-21 | [[2026-05-21-yt-XYjQgcCvypg]] | Success language - work redefined, don't justify to people with unwanted lives | ★ |
+| 2026-05-21 | [[2026-05-21-yt-OZJWhKm6f94]] | Pain beats passion - use pain, twist the knife, specificity as fuel | ★ |
 | 2026-05-22 | [[2026-05-22-yt-2zdUPuStNok]] | Wrong game - father apology, status-game realization, negative micro to macro win | ★ |
 | 2026-05-22 | [[2026-05-22-yt-fMTZmFbyhcI]] | Work ethic - required work, but-I'll-know standard, good-day blueprint | ★ |
 | 2026-05-22 | [[2026-05-22-yt-JiOXM2imrL4]] | Focus/pain - red-dress overlap, billion-dollar razor, heroes use pain | ★ |
 | 2026-05-22 | [[2026-05-22-yt-C6zVkp8OJE4]] | Work capacity - work makes the worker, lost gym proceeds, no work wasted | ★ |
 | 2026-05-22 | [[2026-05-22-yt-9mSMA4s-7sM]] | Articulation - early awkward content, 25k-30k ads, reps over time | ★ |
 | 2026-05-22 | [[2026-05-22-yt-cdGlooEbIBE]] | Work definition - work as worth doing rather than pain, good-day overlap | ★ |
+| 2026-05-22 | [[2026-05-22-yt-aXn8ULiulyw]] | Friendship - past-only friends, self-respect, becoming-cost boundary | ★ |
+| 2026-05-22 | [[2026-05-22-yt-zSpgI6CMBQc]] | Learning/relationships - same condition new behavior, cut eventually means cut now | ★ |
+| 2026-05-22 | [[2026-05-22-yt-rd_urnkST6g]] | Local focus - real-estate education, fortify base, content as impact | ★ |
+| 2026-05-22 | [[2026-05-22-yt-FpQ41avuWCI]] | Interest media - content is targeting, quality views, market-size expectations | ★ |
+| 2026-05-22 | [[2026-05-22-yt-9NK1YsX6IWc]] | Premium offers - speed/risk/ease, lead magnets, softer asks scale | ★ |
 | 2026-05-23 | [[2026-05-23-yt-J0Z0OTHXY7Q]] | Content monetization - entertainers broader than educators, niche math | ★ |
 | 2026-05-23 | [[2026-05-23-yt-jvFvaCuyVfM]] | Minimum standard - hundreds of hours, content volume, game-tape review | ★ |
 | 2026-05-23 | [[2026-05-23-yt-c1tqC2DxWyc]] | Productivity - begin work, open loops, triple-shift no-shortcuts frame | ★ |
@@ -1027,7 +1035,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_997 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,537 total, including P2 (~1,515, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,005 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,529 total, including P2 (~1,507, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
