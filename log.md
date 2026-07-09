@@ -3247,3 +3247,29 @@ ingested as L2.
 
 Ledger 8→L2 (L2 now 989). youtube-index/index/footer updated. @MoreMozi P2: ~1,450 rows remain.
 Synthesis notes: minimum-standard/hundreds-of-hours/game-tape review; begin-work/open-loop productivity and triple-shift self-report; revenge/fuel/criticism-usefulness frame; medical-license acquisition leverage; negative-thought reframes/cosmic irrelevance/enough/great-day checklist; anxiety as choices plus unclear priorities and emotion as fuel; creator-business quality leverage/high-level hire/give-time-time; proof-first authority, free-to-proof path, tiny-niche upstart position.
+
+## [2026-07-09] ingest | yt batch 128 — @MoreMozi P2 (2026-05-22 to 2026-05-23), 8 videos
+
+Forty-first resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry; the 8 successful rows were
+ingested as L2.
+
+- **2026-05-23** `yt-_Z2ADXhy4QY` "You're Distracted by the Woman in the Red Dress" — focus:
+  opportunity distraction, hotter opportunities, billion-dollar razor, and no-as-yes framing.
+- **2026-05-23** `yt-AL1775NTMpQ` "The Only 3 Things That Actually Make You Money" — business inputs:
+  attention/offer/delivery, repeat what works, first-party data, and creative leverage.
+- **2026-05-22** `yt-2zdUPuStNok` "What Happens When You Win at the Wrong Game" — identity:
+  father apology, winning at another person's status game, and negative micro to macro win.
+- **2026-05-22** `yt-fMTZmFbyhcI` "The Tim Ferriss Quote That Changed How I Live" — work ethic:
+  required work, but-I'll-know self-judgment, and good-day blueprint.
+- **2026-05-22** `yt-JiOXM2imrL4` "Every Week 20 New Opportunities Try to Distract Me" — focus/pain:
+  red-dress overlap, billion-dollar filter, and credited heroes-use-pain line.
+- **2026-05-22** `yt-C6zVkp8OJE4` "You're Not Burned Out, You're Just Focused" — work capacity:
+  work makes the worker, lost gym-sale proceeds, and no-work-wasted frame.
+- **2026-05-22** `yt-9mSMA4s-7sM` "How to Be Articulate & Charismatic" — skill reps:
+  early awkward gym content, 25k-30k ad reps, and late returns to speaking skill.
+- **2026-05-22** `yt-cdGlooEbIBE` "Most People Abhor Work Because They Misunderstand It" — work definition:
+  good-day overlap and work as worthwhile challenge rather than pain.
+
+Ledger 8→L2 (L2 now 997). youtube-index/index/footer updated. @MoreMozi P2: ~1,442 rows remain.
+Synthesis notes: woman-in-red-dress opportunity filter/billion-dollar razor; attention-offer-delivery, repeat-what-works, first-party-data and creative-leverage business system; father apology/wrong-game status realization; required-work/but-I'll-know/good-day blueprint; heroes-use-pain credited line; no-work-wasted/work-makes-the-worker and lost-gym-proceeds self-report; articulation as 25k-30k ad reps; work redefined as worthwhile challenge.
