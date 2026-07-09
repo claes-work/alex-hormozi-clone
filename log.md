@@ -18,6 +18,21 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — Core 4 + biz-math equations + relationship (L2=405, >400!)
+
+Loop iteration 49. 8 @AlexHormozi P2 (Nov 2023-Jan 2024). **Crossed 400 videos L2.** 3 L3-candidates:
+CaiLcj6tzBQ "business model anyone can try" (★ clean Core 4 articulation — warm/free-content/cold/paid
+via a "$10M trash business" joke with play-by-play role-plays → seeds a lead-gen/Core-4 topic page),
+QGcjweehrvU "million dollar equations" (★ 8 business-math formulas — LTGP:CAC + parts, ROIC, payback-
+period, prediction formulas → seeds a biz-math/LTGP:CAC page), hCgr7jT7JLA "relationship Q&A" w/ Leila
+(★ respect-over-love; corroborates the ~60-day early crisis [head-on DUI + mother hospitalized + partner
+split + lost money during a 30-day breakup while Leila ran a Hawaii launch — she stayed]; dated position
+evolution business-first→marriage-first needs fidelity-rule-3 care; Leila context only). Notable:
+hGX_z5rXRlU "cookbook" is LITERAL (12 high-protein zero-prep recipes, comedic) — filed fitness/content-
+strategy, feeds persona/appearance (diet: same salmon-Ezekiel lunch ~2yr, low appetite). Rest L2 dups
+(81-min compilation [brand-as-bouquet], holidays [identity/environment, NOT father-specific], how-to-win
+[5-stage opportunity-hopping], Munger-8-lessons [secondhand]). Ledger: L2=405. Next: continue @AlexHormozi P2 (270 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — Vanderbilt confirmed + rich bio (L2=397)
 
 Loop iteration 48. 8 @AlexHormozi P2 (Jan-Mar 2024); bundled a light-agent for 4 mindset clips.
