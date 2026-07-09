@@ -3765,3 +3765,31 @@ L2.
 
 Ledger 8->L2 (L2 now 1,139). youtube-index/index/footer updated. @MoreMozi P2: ~1,298 rows remain.
 Synthesis notes: goal price tag/high-standard self-love/undeserving-success; 5-to-9 schedule/condo-to-gym step-back biography; 2026 AI workflow expansion/agents/subagents/attention-to-money; consistency-over-intensity/best-bad-guess/nothing-to-lose; training joy/20lb muscle self-report/worst-season context; webinar offer sequencing/Leila missed-opportunity frame/bridge offer; not-knowing intellectual humility/learning directive; perfect-pick fallacy/habit-of-biting/start-now.
+
+## [2026-07-09] ingest | yt batch 147 - @MoreMozi P2 (2026-05-09 to 2026-05-10), 8 videos
+
+Sixtieth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-10** `yt-qp5dnH3FC3E` "Get U S  Clients From Anywhere by Doing This" - positioning:
+  accent, U.S.-market presentation, offshore-price objection, and value sales frame.
+- **2026-05-10** `yt-rALEnjBqJN4` "Achieving Goals Is Impossible Until You Change This" - hardship:
+  pain as price, crowded gym living self-report, losing everything, and experience over opinion.
+- **2026-05-10** `yt-wtI4tMcxvxQ` "How to Become a Millionaire Before 30" - wealth:
+  artist vs entrepreneur, Acquisition.com wealth path, skill stacking, and education mission.
+- **2026-05-10** `yt-CdrNB-55sLU` "Shrink the Gap Between Thought and Action" - urgency:
+  decision as eliminating alternatives, end-of-day pace, Leila 5-minute rule, and time scarcity.
+- **2026-05-10** `yt-AcrULPsS0_Y` "The 8-Hour Rule That Separates Winners From Losers" - focus:
+  deep work, timer tracking, distraction removal, grayscale/no-notifications, and no-email workflow.
+- **2026-05-09** `yt-r1gyL97DWoE` "When I Feel the Most Emotionally Connected to Myself" - writing:
+  writing flow, high-school writing scholarship/editor roles, and challenge scaling with skill.
+- **2026-05-09** `yt-i1Vji6MzbBs` "If It Won't Work in 20 Years, End It Today" - partnership:
+  20-year test, direct conversation, and graceful audience-facing split.
+- **2026-05-09** `yt-VWlRe0Mu1kw` "The Real Reason You're Not Getting Work Done" - focus:
+  focus as subtraction, attention-sink removal, work as boredom escape, and environment over willpower.
+
+Ledger 8->L2 (L2 now 1,147). youtube-index/index/footer updated. @MoreMozi P2: ~1,290 rows remain.
+Synthesis notes: U.S. client positioning/accent/value frame; hardship pain-as-price/crowded gym living/lost-everything biography/experience-over-opinion; skill stacking/artist-vs-entrepreneur/ACQ wealth path; urgency/thought-action gap/Leila 5-minute rule; deep focus/timers/grayscale/no-email; writing flow/high-school writing roles; partnership 20-year test/graceful split; focus as subtraction/environment over willpower.
