@@ -1536,3 +1536,35 @@ Continued oldest-first P1 ingestion (all L2). Framework-seed + biographical era:
 Ledger 8→L2 (L2 now 533). youtube-index/index/footer updated. **Synthesis backlog additions:**
 Rule-of-100 self-coinage attribution fix; the 2021 4-Stages framework; TJ-Jones GSO-origin bio
 beat; the "$1,100 after six gyms" rock-bottom ordering (reconcile with biography.md).
+
+## [2026-07-09] ingest | yt batch 72 — @AlexHormozi origin-era (2021 May–Jul), 7 videos
+
+Continued oldest-first P1 (all L2). 8th of the planned batch (yt-aO56wn5sBSA) hit HTTP 429
+(rate-limit) on caption fetch — left open for retry next iteration.
+
+- **2021-05-14** `yt-C_SgvSvJZdk` "8 Laws from Charlie Munger" — all 8 laws relayed-Munger (one
+  jointly Munger+Buffett); Alex adds one original principle ("handle pressure"). Attribution logged.
+- **2021-05-21** `yt-R7JOslrt51o` "This is why I was Poor" — ⚠️ **BIO reconcile:** SOFTER origin
+  framing than the known harsh timeline — says he's "pretty risk-averse," had a "really good paying
+  job," left only because "so miserable," and explicitly DENIES the "bad at school → had to do my
+  own thing" story; no DUI / $1k-rock-bottom / six-gyms mention here. New datum: lived in a
+  "$1,200/month apartment in Albuquerque, New Mexico." Self-reported "$120M+", "20+ salespeople."
+- **2021-06-02** `yt-q32-l3Yoqg4` "Taught 116+ Salesmen" — ⭐ **framework-dating:** the full
+  **CLOSER** acronym is already named and structured in 2021, essentially the mature $100M Leads
+  version; Alex notes he **added the final R (Reinforce) "years later"** — so it began as CLOSE(R).
+  Not proto — canonical. (For sales-frameworks synthesis.)
+- **2021-06-23** `yt-42SOlVhDwWE` "1 Mental Technique" — the **belief continuum**: belief is a
+  degree not a binary; sales = transference of belief; conviction "counts twice" over raw skill.
+- **2021-06-28** `yt-oLsWhSRypzM` "Never Start a Business Until…" — 3 things: (1) be deeply
+  dissatisfied enough to uproot everything; (2) it's hard & lonely, master every skill; (3) realistic
+  income expectations (SBA median $49k/avg $73k; expect a 3–5yr income drop).
+- **2021-07-02** `yt-bkPwFqa89gE` "Unconventional Productivity" — anti-biohacking minimalism;
+  standout: "set an alarm for your bedtime, not your wake time"; woke ~4am daily for first ~8 years;
+  identical daily meals to cut decision fatigue. (voice/appearance texture.)
+- **2021-07-26** `yt-rX5zKeQu7ow` "We Fired Everyone Who Was Late" — a partner (not Alex) locked
+  the door at a mandatory 4:00 meeting and fired latecomers to "reset the bar"; Alex's takeaway:
+  business is won on "hearts" (culture/standards) over "smarts" (commoditized strategy).
+
+Ledger 7→L2 (L2 now 540). youtube-index/index/footer updated. **Synthesis backlog:** CLOSER
+canonical-in-2021 + R-added-later dating; belief-continuum → sales-communication; the "softer
+origin" account to reconcile against biography.md's harsher rock-bottom narrative.

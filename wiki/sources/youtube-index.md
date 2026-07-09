@@ -33,8 +33,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-04-15 | [[2021-04-15-yt-0BZ7-PZR8jE]] | 106M ad impressions — three-wheels statistical hook framework | ★ |
 | 2021-04-27 | [[2021-04-27-yt-Tw6kJkVcTL0]] | 1 skill that pays off forever — sales via volume ("Rocky cutscene") | |
 | 2021-05-12 | [[2021-05-12-yt-vKnAWYqMJ10]] | Spent $312,900 living like the 1% — luxury "not worth it"; REINFORCES frugality | ★ |
+| 2021-05-14 | [[2021-05-14-yt-C_SgvSvJZdk]] | 8 Laws of Business from Charlie Munger (all Munger-relayed +1 Alex) | |
 | 2021-05-19 | [[2021-05-19-yt-c5Lw12PXkgU]] | $217k day-trade loss → buy-and-hold investing philosophy (bio) | ★ |
+| 2021-05-21 | [[2021-05-21-yt-R7JOslrt51o]] | "This is why I was Poor" — SOFTER origin (risk-averse, denies school-failure); Albuquerque (bio) | ★ |
+| 2021-06-02 | [[2021-06-02-yt-q32-l3Yoqg4]] | Taught 116+ salesmen — CLOSER already fully named (R added years later) | ★ |
+| 2021-06-23 | [[2021-06-23-yt-42SOlVhDwWE]] | 1 mental technique — the "belief continuum"; conviction counts twice | |
+| 2021-06-28 | [[2021-06-28-yt-oLsWhSRypzM]] | Never start a business until… — 3 things (dissatisfaction/lonely/SBA income) | |
+| 2021-07-02 | [[2021-07-02-yt-bkPwFqa89gE]] | Unconventional productivity — alarm-for-bedtime, 4am-8yrs, identical meals (bio) | |
 | 2021-07-07 | [[2021-07-07-yt-_x6n-CmZqjo]] | A billionaire's advice on $100M→$1B (attribution caution) | ★ |
+| 2021-07-26 | [[2021-07-26-yt-rX5zKeQu7ow]] | "We fired everyone who was late" — hearts>smarts culture (by partner) | |
 | 2021-08-02 | [[2021-08-02-yt-ug5N9qmFVKQ]] | Billion-dollar empire in 2-3 days/wk — leverage/holding-co; early Acquisition.com vision | ★ |
 | 2021-08-23 | [[2021-08-23-yt-_qspvJAq34M]] | 700×$40k — canonical Value Equation + Gym Launch (bio) | ★ |
 | 2021-09-17 | [[2021-09-17-yt-Xb9ZOA6zypU]] | 7-year journey to first million (origin story, DUI, $1k rock bottom) | ★ strong |
@@ -563,7 +570,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_533 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_540 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
