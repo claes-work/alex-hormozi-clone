@@ -2127,3 +2127,39 @@ Ledger 10→L2 (L2 now 664). youtube-index/index/footer updated. @AlexHormozi P2
 ended cleanly. Resume state: ~10 @AlexHormozi P2 rows, then @MoreMozi/@GymLaunch P2, then shorts dedup,
 then the batch-90 synthesis pass (backlog: Netflix 8-C's, ToC constraint-finding, moats, recruit-mirror,
 philanthropy/estate-to-charity, dated-2021 father quote, tax-timeline softening, exit-count reconciliation).
+
+## [2026-07-09] ingest | yt batch 88 — @MoreMozi P2 (2026-07-03 to 2026-07-08), 9 videos
+
+First resumed @MoreMozi P2 Q&A batch after the pause. `yt-JfKwIbvdKtA` errored during caption fetch and
+remains open for retry; the 9 successful rows were ingested as L2.
+
+- **2026-07-03** `yt-UgbhXFmLpqU` "You're Trapped In Your Own Business Because It's Too Local" — real-estate
+  ecosystem owner wants national impact; Alex says fortify the local city first, avoid overextension, use
+  content for leveraged impact, and consider higher-ticket tiers ($15-25k DWY / ~$100k turnkey).
+- **2026-07-04** `yt--fzHdm7LGlk` "$15 in, $550 out. Why aren't you scaling this?" — indoor play park:
+  keep the front-end play offer, add in-person check-in/check-out sales motion to birthdays/camps/memberships,
+  and grow by doubling LTV.
+- **2026-07-04** `yt-bz_oMbt9O6c` "You're the reason your margins look good." — single-location auto shop:
+  owner-operated margins are artificial; first location must run profitably without owners for six months
+  before copy-paste expansion.
+- **2026-07-04** `yt-QdUHe4YokgM` "Do I keep selling pizza or sell the software I built?" — pizza operator
+  with Pizza OS: stores, franchise-light/revenue-share, or software can all work; at scale they converge into
+  people/leadership problems; if choosing software, sell stores and focus.
+- **2026-07-04** `yt-W2KWccTKZuM` "You're Stuck Because You Built the Bottom Layer, Not the Top" — skincare
+  $4.5M/mo business needs senior leadership layer; Alex recommends founder-led/headhunter recruiting,
+  one constraint role at a time, and outside technical vetting.
+- **2026-07-04** `yt-1Zevc7wdRZQ` "You Need to Stop Being the Bottleneck in Your Business" — 2026 AI thesis:
+  shift from role-based to workflow-based organization design; decompose work into granular actions and let
+  agents/prompts absorb administrative steps; training should be action-only.
+- **2026-07-06** `yt-EJyWvNfCeV0` "The TikTok Shop Playbook That Prints Creative at Scale" — supplement brand:
+  creator outbound + Skool community + hundreds of daily posts + retainers/whitelisting; protect brand with
+  guidelines, hook rules, demographic fit, and manual review.
+- **2026-07-06** `yt-kewx3UQAdAg` "I Spent 7 Years Building a Brand With a Sh*tty Product" — clothing brand:
+  product quality and repeat purchase beat pure direct-response arbitrage; fix email/backend and build a
+  figurehead/micro-creator army.
+- **2026-07-08** `yt-ufT6L4A4hRM` "The Real Reason Your Customers Ghost After Buying" — project-management
+  community: add activation/ascension calls and a job-placement upsell instead of just more TikTok Live volume.
+
+Ledger 9→L2 (L2 now 673). youtube-index/index/footer updated. @MoreMozi P2: ~1,766 rows remain.
+Synthesis notes: workflow-based org design/AI agents, senior-leadership top layer, in-person LTV sales motion,
+TikTok Shop creator army, and local-fortification-before-national-scale are candidates for later synthesis.

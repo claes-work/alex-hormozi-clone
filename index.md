@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-08 (first book ingest: $100M Money Models + Affiliate Black Book)_
+_Last updated: 2026-07-09 (MoreMozi Q&A batch resumed; 9 L2 videos added)_
 
 ## Sources
 
@@ -13,7 +13,7 @@ _Last updated: 2026-07-08 (first book ingest: $100M Money Models + Affiliate Bla
 
 ### YouTube
 
-- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**664 L2**; all P1 landmark videos across 5 channels complete; @AlexHormozi 2018–2021 origin-era P1/P2 underway). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
+- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**673 L2**; all P1 landmark videos across 5 channels complete; @MoreMozi Q&A cuts resumed). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
 
 ## Topics
 

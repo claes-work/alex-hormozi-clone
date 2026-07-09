@@ -603,7 +603,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-06-23 | [[2026-06-23-yt-tZUmwYquIi4]] | Cybersecurity $5M→$3.6M recovery — conference net-fishing + SDR | |
 | 2026-06-29 | [[2026-06-29-yt-ZUyXUiqckAE]] | Sales-team agency $14M→$100M — ICP/unit-economics, template service | |
 | 2026-07-01 | [[2026-07-01-yt-88oj6ZlmEi8]] | $6M roofing wants $100M — "want less or trade more", the who game | ★ |
+| 2026-07-03 | [[2026-07-03-yt-UgbhXFmLpqU]] | Local real-estate ecosystem — fortify the city before national scale; content for impact | |
+| 2026-07-04 | [[2026-07-04-yt--fzHdm7LGlk]] | Indoor play park — front-end play visits → birthday/camp/membership LTV sales motion | |
+| 2026-07-04 | [[2026-07-04-yt-bz_oMbt9O6c]] | Auto shop expansion — artificial owner margins; six-month no-owner GM litmus test | |
+| 2026-07-04 | [[2026-07-04-yt-QdUHe4YokgM]] | Pizza stores vs Pizza OS — both become people businesses; choose focus | |
+| 2026-07-04 | [[2026-07-04-yt-W2KWccTKZuM]] | Skincare $4.5M/mo → $25M/mo — missing senior leadership/top layer; headhunting | ★ |
+| 2026-07-04 | [[2026-07-04-yt-1Zevc7wdRZQ]] | Fund-launch services — workflow-based org design, AI agents, action-only training | ★ |
+| 2026-07-06 | [[2026-07-06-yt-EJyWvNfCeV0]] | Supplement brand — TikTok Shop creator army, whitelisting, brand-safety review | |
+| 2026-07-06 | [[2026-07-06-yt-kewx3UQAdAg]] | Clothing brand — product quality, repeat purchase, email backend, creator army | |
 | 2026-07-07 | [[2026-07-07-yt-ndne_8qRh8o]] | Marketing agency $1.2M→$8M — price to worst month, go up-market | |
+| 2026-07-08 | [[2026-07-08-yt-ufT6L4A4hRM]] | Project-management community — ascension, activation, job-placement upsell | |
 
 ## @TheSkoolSchool
 
@@ -694,7 +703,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_664 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_673 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: 1,861 total, including P2 (~1,839, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
