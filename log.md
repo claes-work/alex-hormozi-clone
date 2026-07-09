@@ -3433,3 +3433,31 @@ L2.
 
 Ledger 8→L2 (L2 now 1,045). youtube-index/index/footer updated. @MoreMozi P2: ~1,394 rows remain.
 Synthesis notes: freemium/ascension/channel-demand/next-problem monetization; winner mindset and local-status criticism; father money-scoreboard and chosen games; success-only-revenge/Mr. Given/copycat-behind frame; creator-business network bridge plus IOUs and AI ignorance debt; dating while ambitious/goals-as-self compatibility test; saturated-market/niche ladder/five market moves; focus as commitment/eliminate alternatives/say no.
+
+## [2026-07-09] ingest | yt batch 135 — @MoreMozi P2 (2026-05-17 to 2026-05-18), 8 videos
+
+Forty-eighth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-18** `yt-70PR8iQG2_o` "you need to focus" — operations:
+  change cost, stability, fewer new initiatives, and service-process risk.
+- **2026-05-17** `yt-1-ZAiM_ki3c` "When the Only Way to Win is to Stop Playing" — founder constraint:
+  conviction, skill gaps, and buy-versus-build capability decisions.
+- **2026-05-17** `yt-zSaZZNGj6u8` "How My Childhood Bullying Became a Business Advantage" — reframe:
+  micro negatives, macro wins, time horizon, and explicit caution against blanket trauma claims.
+- **2026-05-17** `yt-p2ChI4mlotw` "How to Fill Your Sales Calendar With Qualified Leads" — paid demand:
+  Andromeda creative burnout, customer-content affiliate loop, and AI-fed winner sheet.
+- **2026-05-17** `yt-fCj_WSw2RIk` "Why Marginal Returns are Still Worth a Shitload of Work" — scale:
+  edge wins, launch math, crumbs become bakeries, and goal-sharing opportunity cost.
+- **2026-05-17** `yt-BJsWuGcCMf8` "Why I Don't Listen to People Who Can't Even Attend My Funeral" — death/learning:
+  funeral freedom, intelligence as rate of learning, and same-condition new behavior.
+- **2026-05-17** `yt-yZyrzSlEtaI` "Why Being Comfortable Is Worse Than Being Broke" — region beta:
+  pain lowers action threshold, job/father/DUI/loss/licensing self-reports, and comfort plateaus.
+- **2026-05-17** `yt-dDegrDiMWos` "How to Be 100% Authentic in Your Business and Life" — authenticity:
+  no-punishment behavior, private thoughts, and continuum rather than binary.
+
+Ledger 8→L2 (L2 now 1,053). youtube-index/index/footer updated. @MoreMozi P2: ~1,386 rows remain.
+Synthesis notes: operational change-cost/stability/focus; founder constraint and buy-vs-build skill gaps; traumatic micro-events-to-macro-wins with caution; Andromeda/customer-content creative machine/winner-sheet AI loop; marginal returns at scale and crumbs-become-bakeries; funeral freedom plus learning/intelligence definitions; region beta/action-threshold and painful-turning-point biography links; authenticity as no-punishment behavior continuum.

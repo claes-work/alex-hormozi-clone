@@ -585,8 +585,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-28 | [[2026-04-28-yt-_TZEJAYUeCo]] | Roadmap $0→$10M — stage ladder + the "$3M three boxes" | ★ |
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
+| 2026-05-17 | [[2026-05-17-yt-1-ZAiM_ki3c]] | Stop playing - founder constraint, conviction, skill-gap buy/build | ★ |
+| 2026-05-17 | [[2026-05-17-yt-zSaZZNGj6u8]] | Bullying reframe - micro negatives, macro wins, time-horizon caution | ★ |
+| 2026-05-17 | [[2026-05-17-yt-p2ChI4mlotw]] | Qualified leads - Andromeda creative volume, customer content, AI winner sheet | ★ |
+| 2026-05-17 | [[2026-05-17-yt-fCj_WSw2RIk]] | Marginal returns - edges, scale math, crumbs become bakeries | ★ |
+| 2026-05-17 | [[2026-05-17-yt-BJsWuGcCMf8]] | Funeral frame - ignore opinions, learning as new behavior, intelligence rate | ★ |
+| 2026-05-17 | [[2026-05-17-yt-yZyrzSlEtaI]] | Region beta - pain lowers action threshold, negative events as net wins | ★ |
+| 2026-05-17 | [[2026-05-17-yt-dDegrDiMWos]] | Authenticity - no-punishment behavior, private thoughts, continuum | ★ |
 | 2026-05-18 | [[2026-05-18-yt-lLbHejMCCbk]] | Ignore close critics - right often, not more right, wider game, death frame | ★ |
 | 2026-05-18 | [[2026-05-18-yt-uGcYQOQS3Nc]] | Lonely chapter - hate as sign, conformity pull, price tag of worthwhile goals | ★ |
+| 2026-05-18 | [[2026-05-18-yt-70PR8iQG2_o]] | Focus - change cost, stability, fewer new initiatives, service-process risk | ★ |
 | 2026-05-18 | [[2026-05-18-yt-fFNDAof0aUc]] | Freemium relocation tool - ascension, channel demand, next-problem monetization | ★ |
 | 2026-05-18 | [[2026-05-18-yt-Z4gDx5tVax4]] | Winner's mindset - critics right often, wider game, local-status noise | ★ |
 | 2026-05-18 | [[2026-05-18-yt-D1DcOxqYiHo]] | Father scoreboard - out-earning, chosen games, reframing who shaped him | ★ |
@@ -1075,7 +1083,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,045 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,489 total, including P2 (~1,467, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,053 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,481 total, including P2 (~1,459, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
