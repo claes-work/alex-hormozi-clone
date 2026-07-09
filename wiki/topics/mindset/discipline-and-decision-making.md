@@ -224,6 +224,27 @@ tolerate, use the skills and assets you already have, learn from contact with th
 and let later opportunities stack on the first one
 [[../../sources/2023-04-26-yt-u4kgZ3pf8cU]].
 
+### Advice-weighting, opportunity friction, and operationalized happiness (2021)
+
+In the Gym Launch / John Berardi interview series, Alex adds three smaller decision
+filters that are useful but not full frameworks:
+
+- **Believability-weighted advice.** To avoid over-indexing on one person's answer, he
+  suggests asking people at different vantage points: same-size operators, slightly
+  bigger operators, huge operators, and professional coaches. The point is not that any
+  one level is always right; the question quality and the answer's usefulness depend on
+  the operator's stage [[../../sources/2021-08-17-yt-LC7x7P_hhEQ]].
+- **Opportunity friction.** His personal filter for opportunities at that time was
+  whether they required him to leave his chair. It is a compact version of his broader
+  attention/focus doctrine: even attractive opportunities are worse if they create travel,
+  disruption, or attention drag [[../../sources/2021-08-17-yt-LC7x7P_hhEQ]].
+- **Operationalize happiness before debating it.** In the "outside the matrix" discussion
+  with Berardi, Alex pushes to define happiness before arguing about it: momentary mood
+  and retrospective life satisfaction are different constructs, so "happiness" must be
+  operationalized before the claim can be evaluated. Berardi owns most of the
+  post-financial-security meaning discussion; this operationalization point is Alex's
+  contribution [[../../sources/2021-08-24-yt-S2egwgQwnLM]].
+
 ---
 
 ## Confidence — stacked proof, and "a trait is a skill"
@@ -434,6 +455,10 @@ American dream until it comes true" [[../../sources/2026-05-08-yt-_Gj9qMJ3jTk]].
   decisions (rest / eat / separate / need nothing).
 - [[../../sources/2023-04-26-yt-u4kgZ3pf8cU]] — one-person risk-adjusted bets, the
   perfect-pick fallacy, and early founder directionality.
+- [[../../sources/2021-08-17-yt-LC7x7P_hhEQ]] — believability-weighted advice and
+  opportunity-friction filter.
+- [[../../sources/2021-08-24-yt-S2egwgQwnLM]] — operationalizing happiness before
+  debating it; post-financial-security meaning context is Berardi-attributed.
 - [[../../sources/2023-10-03-yt-bkEJhzxHHnc]] — infinite-game reframe (Sinek-credited;
   Carse origin); presence/gratitude frames.
 - [[../../sources/2024-03-05-yt-XclY0Yl8u9M]] — money = condensed time; wealth by time

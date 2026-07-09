@@ -4210,3 +4210,15 @@ No wiki source pages were created.
 
 Ledger 6->skipped (L2 unchanged at 1,222; skipped 95). youtube-index/index/footer updated.
 Synthesis notes: none - non-Alex GymLaunch Kale/staff/guest/client videos only; Alex references are context, not persona-attributed speech.
+
+## [2026-07-09] lint | synthesis pass 18 - @GymLaunch completion batches 158-164
+
+Cleared the registered @GymLaunch completion checkpoint for batches 158-164. Promoted the genuinely
+new material from batch 158 into four topic pages: existing-client referral diagnostics in
+`wiki/topics/business/acquisition-channels.md`; believability-weighted advice, opportunity-friction
+filters, and happiness operationalization in `wiki/topics/mindset/discipline-and-decision-making.md`;
+investment attention cost, personal safety trampoline, risk posture, and no-art filters in
+`wiki/topics/wealth/investing-and-wealth.md`; and feeling-personal-at-scale / coach-above-the-workout
+retention context in `wiki/topics/business/retention.md`. No persona files changed, so
+`persona/system-prompt.md` remains v25; advanced the synthesis high-water mark to batch 164. Dropped
+batches 159-164 as non-Alex GymLaunch Kale/staff/guest/client triage.

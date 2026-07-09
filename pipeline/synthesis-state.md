@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 157** — synthesis pass 17, system-prompt **v25** (2026-07-09).
+Synthesized through: **batch 164** — synthesis pass 18, system-prompt **v25** (2026-07-09).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -15,6 +15,13 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@GymLaunch completion — batches 158-164** — synthesis pass 18 (2026-07-09) →
+      system-prompt **v25** unchanged. Promoted the genuinely new Alex-attributed
+      material from batch 158 into topics: existing-client referral diagnostics,
+      believability-weighted advice and opportunity-friction filters, happiness
+      operationalization, investment attention-cost / reserve / no-art filters, and
+      coach-above-the-workout / feeling-personal-at-scale retention context. Dropped the
+      remaining GymLaunch completion batches as non-Alex Kale/staff/guest/client triage.
 - [x] **@TheSkoolSchool completion — batch 157** — synthesis pass 17 (2026-07-09) →
       system-prompt **v25** unchanged. Added the two completion sources as corroborating
       citations to the existing Skool/community-building playbook, including Sam Ovens product-demo

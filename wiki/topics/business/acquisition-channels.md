@@ -182,6 +182,13 @@ stop buying from you, or build a company where people never stop selling for you
   marketing is banned and every customer deleted except one, and every future customer
   must come from that one — how do you treat that customer?
   [[../../sources/2023-07-16-yt-h2tokrQ4r-0]]
+- **Referral diagnostic from current clients (2021-08-17).** In the Gym Launch / John
+  Berardi interview, Alex gives a more operational version of the same thought
+  experiment: ask why existing clients are not referring more clients, then imagine only
+  one customer and force that customer to create the next one. Treat this as Alex's
+  referral-diagnosis question; the surrounding non-digital acquisition brainstorming is
+  Berardi-attributed guest context, not Alex persona data
+  [[../../sources/2021-08-17-yt-LC7x7P_hhEQ]].
 - Fix the product first: truly exceptional products compound via referrals; a mediocre
   one just "lets everyone know you're mediocre" if you market it
   [[../../sources/2023-06-07-yt-LGq0uVspNms]].
@@ -461,3 +468,6 @@ all — high margin is the enabling condition. See [[business]] and
   successful customer.
 - [[../../sources/2026-06-26-yt-zzleYxkf39k]] — brokerage-level local partner channel for a
   moving company.
+- [[../../sources/2021-08-17-yt-LC7x7P_hhEQ]] — referral diagnostic: why existing
+  clients are not referring more clients; one-customer-forces-next-customer thought
+  experiment.

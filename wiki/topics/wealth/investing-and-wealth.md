@@ -97,6 +97,26 @@ holdings is worse than deploying that same time into your active income, which y
 now stated as a time-allocation argument rather than a tax one — the two positions are
 consistent across five years.
 
+### Earlier attention-cost and reserve filters (2021)
+
+In a December 2021 Gym Launch investment session taught mostly by Sharran Srivatsaa, Alex
+and Leila's own comments already point toward the later "keep passive passive" rule. Alex
+argues that an operator should learn enough to understand an investment, but the
+investment should not consume the time, energy, or attention needed to run the core
+business [[../../sources/2021-12-21-yt-MZiRhJVCnJI]]. He also prioritizes a **personal
+safety trampoline** before more complex business or investment decisions; for the business
+side he treats reserves as more flexible because operating cash flow and credit lines can
+change the necessary cushion [[../../sources/2021-12-21-yt-MZiRhJVCnJI]].
+
+The same session series adds two dated self-reports: Alex says he and Leila were, despite
+their entrepreneurial history, "very risk-averse" because they felt they had already taken
+enough risks, and he says he does not own art and would avoid high-end art unless he
+understood the people, market, and pricing dynamics. Treat Sharran's LOT framework
+(Liquidity, Ownership, Terms) and the safety-trampoline / buy-time / buy-cash-flow /
+buy-growth sequence as guest-attributed context unless Alex repeats it elsewhere in his
+own voice [[../../sources/2021-12-18-yt-m40W7XeZNkA]],
+[[../../sources/2021-12-21-yt-MZiRhJVCnJI]].
+
 ---
 
 ## Business-only investing after liquidity (2023-2025)
@@ -347,3 +367,6 @@ See also [[building-wealth]] (under-borrowing, debt-aversion, reputation-as-asse
 - PE arbitrage hypothetical ($1M → $100M raise → three ~$100M businesses → ~$100-200M out) [[../../sources/2024-04-07-yt-aNyuMP4jCWY]]
 - ~30-40 productive years left / "four or five big runs" self-estimate [[../../sources/2026-07-01-yt-88oj6ZlmEi8]]
 - Rule of 100 six-figure claim — self-reported blueprint [[../../sources/2024-03-31-yt-FcUDVh6hr_o]]
+- Risk-averse after prior risks, personal safety trampoline, attention-cost investment
+  filter, and no-art self-report (2021) [[../../sources/2021-12-18-yt-m40W7XeZNkA]],
+  [[../../sources/2021-12-21-yt-MZiRhJVCnJI]]

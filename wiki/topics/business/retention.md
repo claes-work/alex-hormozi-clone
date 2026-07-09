@@ -221,6 +221,19 @@ leaving and the people staying, then engineer more of what makes them stay.
   loyalty ([[../../sources/2024-08-28-yt-afbP6sB_Atc]], takeaway 8). Follow-up is a
   double-edged sword: low-ticket customers want lots of contact; affluent customers just want
   it to work.
+- **Engineer "personal" without requiring literal one-to-one delivery.** In the 2021
+  Berardi interview, the Precision Nutrition example is guest-attributed, but it gives
+  useful historical context for the later retention doctrine: clients can get the result
+  and still not recommend if they do not feel they can ask the important personal
+  question. Alex's contribution is the operating implication that a better-designed coach
+  touch can take the same amount of time while creating much higher impact
+  [[../../sources/2021-08-26-yt-oNWx_wLhXJA]].
+- **Coach above the workout.** In the Chad Wesley Smith interview, Alex applies a similar
+  point to gyms: the future role of the coach is to rise above the workout and become a
+  trusted health go-to or concierge. Emotional support, trust, and simple encouragement
+  may be worth more to clients than workout mechanics alone. Chad's Juggernaut story is
+  guest context; this coach-role implication is Alex-attributed
+  [[../../sources/2021-12-24-yt-32QUXruavlU]].
 
 **The long game.** Retention isn't a single move; it's a discipline.
 
@@ -273,3 +286,8 @@ That makes consumables a retention tactic and a 2026 positioning thesis at the s
   accountability, and community lower churn.
 - [[../../sources/2026-05-27-yt-D8mz-jmYL5M]] — AI-era value stack: curation, time
   compression, real community, and recurring consumables.
+- [[../../sources/2021-08-26-yt-oNWx_wLhXJA]] — Berardi/Precision Nutrition context on
+  feeling personal at scale; Alex-attributed implication that better coach touches can
+  create higher impact with the same time.
+- [[../../sources/2021-12-24-yt-32QUXruavlU]] — Chad Wesley Smith guest context; Alex-
+  attributed coach-above-the-workout implication for gyms.
