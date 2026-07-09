@@ -2926,3 +2926,28 @@ during caption fetch and remain open for retry; the 8 successful rows were inges
 
 Ledger 8→L2 (L2 now 893). youtube-index/index/footer updated. @MoreMozi P2: ~1,546 rows remain.
 Synthesis notes: Gym Launch boiler-room sales-training cadence and consumables-vs-skill continuity; equity alternatives with four-component equity frame; micro-promotion retention ladder; expectation-setting cancellation fix; marketing-as-filtration and advanced-avatar economics; buy-and-hold founder/operator quality plus 24-acquisition self-report; SPCL influence framework; hiring bar/key-person loss in brick-and-mortar retail.
+
+## [2026-07-09] ingest | yt batch 116 — @MoreMozi P2 (2026-06-02 to 2026-06-04), 8 videos
+
+Twenty-ninth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again
+during caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-04** `yt-pEKRblMK-Xg` "`I Feel Stupid': Apartment Broker Stuck at $250K" — apartment brokerage:
+  founder swamp, hiring/poaching a strong broker, and trading doing-hours for management leverage.
+- **2026-06-04** `yt-gMXG_HoYnRY` "He's at $1.2M Solo and Walking Away From It" — real-estate advisory:
+  new-market acquisition with referrals/events/outreach plus concentrated local ads and dollar proof.
+- **2026-06-03** `yt-FzYRdOT_rXQ` "He Built a $5M Paint Biz. Now He's Stuck" — painting company:
+  strong GC unit economics, AR financing, and cash-conversion-cycle diagnosis.
+- **2026-06-03** `yt-RRFXliltxFM` "He Spends $6,700 to Make $22,000 (Is That Good?)" — buyers advisory:
+  qualitative first-touch attribution, blended attribution, and top-performer duplication.
+- **2026-06-03** `yt-AhwQYu01rM0` "Stop the Side Hustle and Grow the Golden Goose" — podcast agency:
+  shiny-object check, offer transition by conversion/LTGP math, and rolling off the old model.
+- **2026-06-03** `yt-15CxTygzVio` "Our CAC Is $6,700 and We Don't Know What's Working" — buyers advisory duplicate:
+  CAC-attribution overlap with first-touch survey and behavior-standard advice.
+- **2026-06-03** `yt-zk5jD2uko_k` "Empty Motels Are a $14M Goldmine (Here's the Catch)" — real-estate deal flow:
+  fallacy of the perfect pick, 18-month thought-leadership horizon, and niche interest-graph content.
+- **2026-06-02** `yt-zb1eSorqNps` "The Two Channels With the Highest Return Right Now" — content channels:
+  Instagram/YouTube blended return, time-on-brand, and shorts as ads for deeper long-form consumption.
+
+Ledger 8→L2 (L2 now 901). youtube-index/index/footer updated. @MoreMozi P2: ~1,538 rows remain.
+Synthesis notes: founder swamp hiring/poaching; local-market channel concentration; cash-conversion-cycle financing; attribution and top-performer duplication; offer transition via conversion/LTGP math; niche thought leadership and the fallacy of the perfect pick; Instagram/YouTube as blended-return channels and shorts-to-longs time-on-brand logic.

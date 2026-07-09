@@ -586,11 +586,19 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
+| 2026-06-02 | [[2026-06-02-yt-zb1eSorqNps]] | Instagram + YouTube - blended return, time-on-brand, shorts as ads for longs | ★ |
+| 2026-06-03 | [[2026-06-03-yt-FzYRdOT_rXQ]] | Painting GC model - AR financing and cash conversion cycle, not channel change | |
+| 2026-06-03 | [[2026-06-03-yt-RRFXliltxFM]] | Buyers advisory - attribution blend and top-performer duplication | ★ |
+| 2026-06-03 | [[2026-06-03-yt-AhwQYu01rM0]] | Podcast agency - offer transition by LTV/conversion math, not shiny object | ★ |
+| 2026-06-03 | [[2026-06-03-yt-15CxTygzVio]] | Buyers advisory CAC duplicate - first-touch survey and behavior standards | |
+| 2026-06-03 | [[2026-06-03-yt-zk5jD2uko_k]] | Motel conversion deal flow - fallacy of the perfect pick + niche thought leadership | ★ |
 | 2026-06-04 | [[2026-06-04-yt-B7P5WCVfnPE]] | First high-ticket sale — $6k quote → $60k morning (bio) | ★ |
 | 2026-06-04 | [[2026-06-04-yt-R5Ay82ZvwWM]] | Marketing as filtration - advanced-avatar lead magnet and LTV/CAC over CPL | |
 | 2026-06-04 | [[2026-06-04-yt-6WPNzaWuAic]] | Buy-and-hold software - founder quality and buying bigger operators | |
 | 2026-06-04 | [[2026-06-04-yt-2Abd02X4PnA]] | SPCL influence framework - status, power, credibility, likeness | |
 | 2026-06-04 | [[2026-06-04-yt-4J_Bo4Dbxjk]] | Golf retail - key-person loss and hiring bar, not market saturation | |
+| 2026-06-04 | [[2026-06-04-yt-pEKRblMK-Xg]] | Apartment brokerage - founder swamp, hiring/poaching strong brokers | |
+| 2026-06-04 | [[2026-06-04-yt-gMXG_HoYnRY]] | Real-estate advisory relocation - local ads + outreach + dollar proof | |
 | 2026-06-05 | [[2026-06-05-yt-7w1HQAvlLZk]] | Sales coaching - boiler-room roleplay cadence and consumables vs skill | |
 | 2026-06-05 | [[2026-06-05-yt-lqKx0GDHFX8]] | Leadership incentives - profit-share pool and avoiding real equity | |
 | 2026-06-05 | [[2026-06-05-yt-bYGRh4ZOdUo]] | Pest control - micro-promotion career ladder for delivery retention | |
@@ -923,7 +931,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_893 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,641 total, including P2 (~1,619, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_901 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,633 total, including P2 (~1,611, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
