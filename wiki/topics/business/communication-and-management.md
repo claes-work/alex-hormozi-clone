@@ -166,6 +166,29 @@ diagnosing after the fact.
 
 ---
 
+## Operator-context note: crisis communication and one-on-ones
+
+> Attribution: this July 2025 Operator Podcast episode is **not Alex primary speech**.
+> The transcript is Leila Hormozi / Sharran Srivatsaa operator context and should not be
+> used as Alex persona voice data unless later corroborated by Alex-attributed sources
+> [[../../sources/2025-07-26-yt-GmJQyCFCz1k]].
+
+The context note is still useful for the Acquisition.com operating environment. In a
+public crisis, the hosts argue for fast truth-telling, accepting responsibility, avoiding
+PR evasions that compound the lie, tying the apology to violated core values, and then
+rebuilding reputation through consistent changed behavior over time. The market-leader
+version is to be first with useful guidance for the whole industry, so the brand becomes
+associated with the solution rather than the panic
+[[../../sources/2025-07-26-yt-GmJQyCFCz1k]].
+
+For internal operating cadence, the same episode treats one-on-ones as prepared working
+sessions, not casual check-ins: use a running log, require an agenda or memo, use
+end-of-week reporting so blockers are visible, adapt structure to seniority, and protect
+the person's current major focus when that focus matters more than a broad agenda
+[[../../sources/2025-07-26-yt-GmJQyCFCz1k]].
+
+---
+
 ## See also
 
 - [[sales-communication]] — the *external* delivery side (prospects, framing, objections);
@@ -173,6 +196,7 @@ diagnosing after the fact.
 - [[../mindset/mental-toughness-and-learning]] — observable-behavior and
   consequences-drive-behavior lens on how skills are actually acquired.
 - Source: [[../../sources/2024-09-11-yt-s6tkRztZwYc]]
+- Context source: [[../../sources/2025-07-26-yt-GmJQyCFCz1k]]
 
 > Note: Hormozi self-reports that much of the behavioral material derives "from the ground
 > up from rat studies" via a "Dr. Cashy" — a self-reported, unverified attribution.

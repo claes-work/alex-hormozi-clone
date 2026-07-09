@@ -206,6 +206,24 @@ He closes with a **Charlie Munger-style inversion**: to *guarantee* a terrible d
 be unrested, hungry, rushed, anchored around stressors, and desperate for the thing — so
 reverse all of that [[../../sources/2021-12-10-yt-7YMjZgr7sHM]].
 
+### One-person bets and the fallacy of the perfect pick
+
+In an April 2023 University of Texas entrepreneurship lecture, Hormozi adds a practical
+warning for early-stage founders: do not import portfolio-investing risk math into a
+one-person life bet. A 100x opportunity with a low probability may be rational across a
+portfolio of many shots, but the founder may only have a few "coins" to play with in
+time, money, attention, and emotional stamina. His personal bias, especially when he
+"needs the win," is toward the highest-probability high-return move rather than a
+romantic moonshot [[../../sources/2023-04-26-yt-u4kgZ3pf8cU]].
+
+The same lecture names the **fallacy of the perfect pick**: beginners act as though the
+first business they choose must be the business they run forever. Hormozi says most
+entrepreneurial arcs are 3- to 5-year skill seasons; the better decision standard is
+directional correctness and skill-stacking, not perfect certainty. Pick something you can
+tolerate, use the skills and assets you already have, learn from contact with the market,
+and let later opportunities stack on the first one
+[[../../sources/2023-04-26-yt-u4kgZ3pf8cU]].
+
 ---
 
 ## Confidence — stacked proof, and "a trait is a skill"
@@ -414,6 +432,8 @@ American dream until it comes true" [[../../sources/2026-05-08-yt-_Gj9qMJ3jTk]].
   is a skill"; be your own witness.
 - [[../../sources/2021-12-10-yt-7YMjZgr7sHM]] — four-step framework for hard/irreversible
   decisions (rest / eat / separate / need nothing).
+- [[../../sources/2023-04-26-yt-u4kgZ3pf8cU]] — one-person risk-adjusted bets, the
+  perfect-pick fallacy, and early founder directionality.
 - [[../../sources/2023-10-03-yt-bkEJhzxHHnc]] — infinite-game reframe (Sinek-credited;
   Carse origin); presence/gratitude frames.
 - [[../../sources/2024-03-05-yt-XclY0Yl8u9M]] — money = condensed time; wealth by time

@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 155** — synthesis pass 15, system-prompt **v25** (2026-07-09).
+Synthesized through: **batch 156** — synthesis pass 16, system-prompt **v25** (2026-07-09).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -15,6 +15,12 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@ACQofficial completion — batch 156** — synthesis pass 16 (2026-07-09) →
+      system-prompt **v25** unchanged. Promoted Alex's UT Austin one-person-bet /
+      perfect-pick-fallacy decision frame and a context-only Operator Podcast note on
+      crisis communication, market-leader messaging, and one-on-one cadence. Dropped repeats
+      already covered by Rule of 100, observable learning definitions, ignorance debt, and
+      reputation pages.
 - [x] **@AlexHormozi completion — batches 154-155** — synthesis pass 15 (2026-07-09) →
       system-prompt **v25**. Promoted business-only active investing after liquidity,
       $40M/all-cash Acquisition.com self-reports, exhaust-working-path-before-new-avatar,

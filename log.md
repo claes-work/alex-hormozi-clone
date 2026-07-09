@@ -4062,3 +4062,14 @@ Leila/Sharran operator context with no Alex primary speech.
 
 Ledger 2->L2 (L2 now 1,214). youtube-index/index/footer updated. @ACQofficial long-form complete.
 Synthesis notes: UT-Austin-validation-stranger-paying/learning-same-circumstance-different-behavior/risk-adjusted-one-person-bets/perfect-pick-fallacy/use-what-you-got-motivation/ignorance-debt-vs-financial-debt/Rule-of-100; Operator-Pod-context-only-crisis-comms/bad-news-does-not-get-better-with-time/reputation-consistent-behavior/market-leader-industry-response/audience-as-clients/farthest-from-revenue-delegation/one-on-one-cadence-no-Alex-primary-speech.
+
+## [2026-07-09] lint | synthesis pass 16 - @ACQofficial completion batch 156
+
+Cleared the registered @ACQofficial completion checkpoint for batch 156. Promoted the genuinely new
+UT Austin decision-making refinement into `wiki/topics/mindset/discipline-and-decision-making.md`:
+one-person bets should not be judged like diversified portfolio bets, and beginners should avoid
+the fallacy of the perfect pick. Added a context-only Operator Podcast note to
+`wiki/topics/business/communication-and-management.md` covering crisis communication, market-leader
+messaging, and one-on-one cadence while explicitly excluding it from Alex persona voice data. No
+persona files changed, so `persona/system-prompt.md` remains v25; advanced the synthesis high-water
+mark to batch 156.
