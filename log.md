@@ -1741,3 +1741,38 @@ Ledger 10→L2 (L2 now 578). youtube-index/index/footer updated. @AlexHormozi P2
 **Synthesis backlog (rich):** "cash flow quadrant" → money-model evolution; inflow-bottleneck →
 business-diagnostics; FHL-2020/$50k + 2CommaClubX + $30M-run-rate + Bear Lake bio; verify GymLaunch
 30–60d unit econ + "Sonic Fitness" brand.
+
+## [2026-07-09] ingest | yt batch 78 — @AlexHormozi P2 (2020-12 / 2021-01 gym-era), 10 videos
+
+Third @AlexHormozi P2 batch (light-bundle, 4 agents / 10 pages). Gym-Launch era.
+
+- **2020-12-10** `yt-y4VoOKa1ywQ` "#1 Way to Increase Profits" — arbitrage as the engine of all
+  business; "price should never relate to what it costs you, only to what the market will allow"
+  (proto-value-equation seed).
+- **2020-12-15** `yt-JfcIUxa8Nn0` "Serial CEO's Ancient Secret" — the secret is "don't be cute"
+  (fundamentals over fancy plays), attributed to an unnamed PE "mercenary" CEO with 4 exits (NOT Alex).
+- **2020-12-17** `yt-yAVI0PS-hzU` "High-Income Skills Without a Degree" — you're not "bad" at a skill,
+  it's just unreasonable to expect unearned competence; do enough reps that being bad is unreasonable.
+- **2020-12-22** `yt-3iHzbqKw7GA` "No Opportunity Is Forever" — every opportunity is finite arbitrage;
+  "it won't last" is no reason to skip a fleeting high-return window.
+- **2020-12-24** `yt-ZLGqnXkjfsQ` "Level Up / Tradeoffs" — separate the logical choice from the
+  emotional blocker, then "outsacrifice anyone" — greatness = unbalanced sacrifice for a season.
+- **2020-12-25** `yt-rNiMm4eVq4M` "Income Goal → Action in 3 Min" — reverse-engineer a revenue goal
+  from LTV×units, chaining conversion ratios backward to daily ad spend (2020 proto-inflow diagnostic).
+- **2020-12-28** `yt-9lLLBlo0YXA` "When Competition Is Cheaper" — the named **comparison close**
+  ("pretend we're priced the same — which would you rather?" → "anything else?" until they self-sell);
+  "you get what you pay for", "buy nice or buy twice".
+- **2020-12-29** `yt-1IhvZC-Wpqs` "Marketing Mastery" — the **"ham and the garlic"**: sell people what
+  they *want* (front-end) to get them in, deliver what they *need* after earning trust.
+- **2021-01-01** `yt-ZuFSLAw2pEI` "This Lesson Cost Me $5M" — ⚠️ **BIO/pricing:** on employees' urging
+  he cut price **$800→$600/week AND added coaching** to fix ~15% churn; churn stayed flat, cost $400/mo
+  profit, upset paying clients — ~$5M lesson: "lowering price never equates to a corresponding rise in
+  sales." Austin TX, agency + "ALAN" software era (~2018–19). New pricing datapoint.
+- **2021-01-04** `yt-vHi18F4yyH4` "Competitor Made 2× As Much" — a rival made 2× profit at 5× ad spend
+  despite half the conversion; "it's just about who makes the most money" — efficiency naturally drops
+  as you scale.
+
+Ledger 10→L2 (L2 now 588). youtube-index/index/footer updated. @AlexHormozi P2: ~90 rows remain.
+**Next iteration = batch 79; synthesis pass at batch 80** (backlog is now large: proto-money-model/
+constraint timeline, CLOSER/Rule-of-100 dating, tax anti-shelter, diet, work/life belief, rich gym-era
+bio incl. $5M-lesson + FHL-2020 + Arnold + softer-origin reconciliation).

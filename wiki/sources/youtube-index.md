@@ -35,7 +35,17 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2020-12-01 | [[2020-12-01-yt-XC_lklN9KmE]] | Your inflow is your bottleneck — explicit proto-constraint/diagnostic | ★ |
 | 2020-12-03 | [[2020-12-03-yt-bgmh7p1s7zs]] | 20+ sales team — CLOSER framework + 5 Cs sales ops | ★ |
 | 2020-12-08 | [[2020-12-08-yt-XZEjp2mP1U0]] | Scale fast — "pi equation" proto-LTGP:CAC (rev 3:1), golden ratio | ★ |
+| 2020-12-10 | [[2020-12-10-yt-y4VoOKa1ywQ]] | #1 way to increase profits — arbitrage; price relates to market not cost | |
+| 2020-12-15 | [[2020-12-15-yt-JfcIUxa8Nn0]] | Serial CEO's "ancient secret" = "don't be cute"/fundamentals (from a PE CEO, not Alex) | |
+| 2020-12-17 | [[2020-12-17-yt-yAVI0PS-hzU]] | High-income skills without a degree — reps make being bad "unreasonable" | |
+| 2020-12-22 | [[2020-12-22-yt-3iHzbqKw7GA]] | No opportunity is forever — every opportunity is finite arbitrage | |
+| 2020-12-24 | [[2020-12-24-yt-ZLGqnXkjfsQ]] | Level up / tradeoffs — separate logic from emotion, outsacrifice for a season | |
+| 2020-12-25 | [[2020-12-25-yt-rNiMm4eVq4M]] | Turn any income goal into action steps — reverse-engineer LTV×units (proto-inflow) | |
+| 2020-12-28 | [[2020-12-28-yt-9lLLBlo0YXA]] | When competition is cheaper — the "comparison close"; "buy nice or buy twice" | |
+| 2020-12-29 | [[2020-12-29-yt-1IhvZC-Wpqs]] | Marketing mastery — "ham and garlic" (sell want, deliver need after trust) | |
 | 2020-12-31 | [[2020-12-31-yt-OyGKFhTf0go]] | The Copy Rule — Rule of One, credits Michael Masterson | |
+| 2021-01-01 | [[2021-01-01-yt-ZuFSLAw2pEI]] | "This lesson cost me $5M" — cut price+added coaching, churn unchanged (bio, ALAN era) | ★ |
+| 2021-01-04 | [[2021-01-04-yt-vHi18F4yyH4]] | Competitor made 2× profit at 5× spend — efficiency drops at scale | |
 | 2021-01-14 | [[2021-01-14-yt-s9fSDCRPQNA]] | First $100k is toughest — Munger idea + Alex wealth framing | |
 | 2021-02-11 | [[2021-02-11-yt-FTgJ0mQi0uU]] | #1 lesson for young entrepreneurs: right-vs-wrong lesson, sustainable growth | |
 | 2021-02-18 | [[2021-02-18-yt-9xAMe0QBFhU]] | If you don't understand margin — proto gross-profit-not-revenue | |
@@ -608,7 +618,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_578 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_588 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
