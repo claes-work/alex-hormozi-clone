@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 3
+sources: 4
 ---
 
 # Appearance
@@ -11,9 +11,9 @@ presentation. Dated where it changes over time.
 
 > All physique, athletic, and diet entries below are **self-reported** by Alex. The
 > physique/athletic numbers come from a filmed leg/calf workout with Chris Bumstead
-> (Nov 2024); the diet & nutrition entries come from his cookbook video (Jan 2024) and his
-> diet-formula video (May 2023). All are Alex's own recall/claims, not registry- or
-> record-verified.
+> (Nov 2024); the diet & nutrition entries come from his cookbook video (Jan 2024), his
+> diet-formula video (May 2023), and his "unconventional diet" video (Oct 2021).
+> All are Alex's own recall/claims, not registry- or record-verified.
 
 ## Physique & build
 
@@ -45,6 +45,10 @@ presentation. Dated where it changes over time.
   [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]])
 - **Won a state record** in competition (state, **not national**). (self-reported,
   [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]])
+- **Six-pack since age 13–14, continuously.** Claims he has had visible abs uninterrupted
+  since he was **13–14 years old** and has stayed in shape for ~17–20 years eating the way
+  described below — and that he "knows as much if not more about fitness than business."
+  (self-reported, [[../wiki/sources/2021-10-27-yt-RpqSy5V1fFQ]])
 - **Gym-owner era.** In his competitive years he "lived at the gym" — ~4 hours in the weight room
   daily plus most of the day eating, on a peak-bulk diet of ~6,000 calories/day. This shaped the
   physique above. (self-reported, [[../wiki/sources/2024-11-18-yt-7qy-EPc2gYU]])
@@ -96,6 +100,10 @@ presentation. Dated where it changes over time.
   the coefficient up a point if you lose too fast; exercise level and physical job "doesn't
   really matter" to the math. (self-reported,
   [[../wiki/sources/2023-05-14-yt-fxyhIXZ6Yog]])
+  He gave the same 7–21 scale earlier (Oct 2021) with worked coefficients for a 200 lb
+  frame: **fast loss 200 × 10 = 2,000 cal**, **moderate loss 200 × 11 = 2,200 cal**, and
+  **high-side maintenance 200 × 15 = 3,000 cal** (a maintenance band of ~2,600–3,000).
+  (self-reported, [[../wiki/sources/2021-10-27-yt-RpqSy5V1fFQ]])
 - **Protein rule: body weight (lb) × 1 = grams/day.** 200 lb → 200 g protein. Rule of thumb:
   **1 lb of lean meat ≈ 100 g protein** (lean white fish, ground turkey breast, ground beef,
   shrimp), so 200 g ≈ 2 lb of meat. Hit protein first, then spend the remaining calories
@@ -103,6 +111,19 @@ presentation. Dated where it changes over time.
   "you can only absorb ~7 g at a time" objection, and **eats over 1 g/lb by choice** — "Do I
   need to? Absolutely not. Do I want to? Absolutely." (self-reported,
   [[../wiki/sources/2023-05-14-yt-fxyhIXZ6Yog]])
+- **"×5 cal/g" protein reserve + discretionary budget.** To reserve calories for protein he
+  uses a back-of-napkin **×5 calories per gram** — not the textbook 4 cal/g — to bake in the
+  fat carried along with lean protein sources. So **200 g protein ≈ 1,000 reserved cal**, and
+  the leftover ("whatever the hell you want" — cookies, ice cream, alcohol, potatoes, rice) is
+  calorie target − protein calories, e.g. **2,200 − 1,000 = ~1,200 free cal/day**. Rule: eat
+  protein first, then "fill up to the lid." He also states the protein → meat conversion
+  literally — **100 g protein ≈ 1 lb of lean meat, so he eats ~2 lb of lean meat a day**
+  (shrimp, tilapia, chicken breast, lean steaks), splittable across several meats. (self-reported,
+  [[../wiki/sources/2021-10-27-yt-RpqSy5V1fFQ]])
+- **Meal timing is fully flexible (1 / 3 / 5 meals a day).** He says how you split the daily
+  totals "doesn't matter" — one meal, three, or five. To change physique he holds the protein
+  base fixed and adjusts **only** the discretionary/variable calories up or down. (self-reported,
+  [[../wiki/sources/2021-10-27-yt-RpqSy5V1fFQ]])
 - **His own numbers.** Maintenance ≈ **3,000 cal/day** (uses 200 × 15 = 3,000 for the math,
   though he notes he's "more than 200 lb"). Sample day: **breakfast ≈ 360 cal / ~50 g
   protein** (a ~200 cal protein bar/"brownie" or Quest Bar + a 30 g / 160 cal shake);

@@ -1815,3 +1815,41 @@ Ledger 10→L2 (L2 now 598). youtube-index/index/footer updated. @AlexHormozi P2
 system-prompt): proto-money-model/constraint/starving-crowd timeline; CLOSER & Rule-of-100 dating; tax
 anti-shelter; diet enrichment; work/life + envy/anger beliefs; revenue-timeline + Bedros + Arnold +
 FHL-2020 + $5M-lesson + softer-origin bio reconciliation.
+
+## [2026-07-09] lint | synthesis pass 8 (batch 80) — origin-era L3 promotion + system-prompt v18
+
+Mid-stream synthesis (maintenance rhythm, every 10th batch). Promoted the accumulated origin-era
+(2018–2022) L3 backlog into persona + topic pages via 8 parallel single-file agents, then recompiled
+the system prompt. No new sources ingested this iteration.
+
+Persona:
+- **biography.md** (sources 34→43): ⭐ revenue-timeline reconciliation — the "$100M"/"$120M" is a
+  CUMULATIVE ~3.5-yr Gym Launch total (annual ~$7M/$28M/$28M/$37M/~$31M 2016–2020, stuck ~$30M/yr),
+  NOT single-year; $17M take-home 2018; ~$35–36M distributions. Added TJ Jones GSO origin (~$3k conf,
+  age 23), seller-financed 5th gym + first Brunson contact, the $5M price-cut lesson (~2018–19), Arnold
+  4× (2020), FHL-2020 2CommaClubX + declined 2×$50k, Bedros Keuilian vendetta + creative-writing
+  background, Cardone $120k/4hrs. New CONTRADICTION #10: softer "good job→miserable→left" framing vs the
+  harsh rock-bottom arc; folded "$1,100 after six gyms" into #2.
+- **beliefs.md** (78→87): work-to-have-the-option-to-work; envy adaptive; anger fuels-not-attacks;
+  haves÷wants / "f*** happiness"; identity via evidence-backed arguments / "you are source"; season-of-no;
+  2022 anti-shelter tax stance. Created ⚠️ EVOLVING (tax 2022→2024) callout.
+- **appearance.md** (3→4): diet formula enrichment (coeff 11, 100g protein≈1lb meat→~2lb/day, ×5 cal/g
+  rule, flexible meal timing, 6-pack since 13–14).
+
+Topics:
+- **sales-frameworks.md** (6→14): ⭐ CLOSER dating (fully named mid-2021, R/Reinforce added later,
+  began as CLOSE); belief continuum + care>technique lineage; new §7 origin-era closes (assumed,
+  comparison, no-half-measures, downsell concession ladder).
+- **business-diagnostics.md** (7→10): proto-constraint origins (inflow-is-bottleneck, income→action
+  reverse-engineering, create-flow→monetize→friction).
+- **acquisition-channels.md**: ⭐ Rule-of-100 dating correction (self-coined 2021-04-01, 2yrs pre-Core-
+  Four); explicit CFA (2021-10-11); zero-budget warm-outreach.
+- **tax-free-liquidity.md**: 2022 anti-shelter "pay and build" view + ⚠️ DATED POSITION EVOLUTION vs
+  2024 borrow-against-assets.
+- **money-model.md** (1→5): ⭐ "cash flow quadrant" named proto-money-model (2020) + proto-GSO/value-
+  equation, Starbucks churn-min, ham-and-garlic.
+
+Build: **persona/system-prompt.md v17→v18** (compiled_from ~598 videos + 2 books) — revenue-accuracy
+guard, 5 new belief bullets, dated tax posture, appearance texture; Skool-ownership disclosure preserved.
+
+Corpus: 598 L2 + 2 L3 books. @AlexHormozi P2 ~80 rows remain; then @MoreMozi/@GymLaunch P2, then shorts.

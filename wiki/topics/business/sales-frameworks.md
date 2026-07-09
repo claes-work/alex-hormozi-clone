@@ -2,14 +2,14 @@
 type: topic
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [sales]
-sources: 6
+sources: 14
 ---
 
 # Sales Frameworks
 
-Hormozi's sales methodology, synthesized from six sources spanning 2020–2026. The
+Hormozi's sales methodology, synthesized from fourteen sources spanning 2020–2026. The
 through-line: sales is not manipulation but **the transference of conviction over a
 bridge of trust**, delivered through a repeatable question-based script (**CLOSER**),
 logical objection-dismantling (the **onion of blame** / five obstacles), and a set of
@@ -85,6 +85,25 @@ team's* belief, not the prospect's ([[../../sources/2022-01-19-yt-okA9Yt2KZuk]])
 > this — he prefers questions *except* for high-transaction, low-price sales (~$200 and
 > under), which can be more heavily scripted ([[../../sources/2022-01-19-yt-okA9Yt2KZuk]]).
 
+### Dating the acronym — CLOSER began as CLOSE
+
+By **mid-2021** the CLOSER acronym was already **fully named and structured** as
+C-L-O-S-E-R — not a rough proto-version but the essentially-mature framework, matching the
+later *$100M Leads* rendering ([[../../sources/2021-06-02-yt-q32-l3Yoqg4]]; corroborated in
+a Jan-2022 War Room keynote, [[../../sources/2022-01-21-yt-oi7bnS8uyJM]], which likewise
+lists all six letters). The one component Hormozi explicitly dates as newer is the **final
+"R" — Reinforce**: he says he **"added it years later,"** once he realized "the sale
+continues throughout the entire customer relationship" and that the first 48 hours after
+purchase decide long-term retention. So the framework **began life as CLOSE and only later
+became CLOSER** ([[../../sources/2021-06-02-yt-q32-l3Yoqg4]];
+[[../../sources/2022-01-21-yt-oi7bnS8uyJM]] both flag R as "added later").
+
+> ⚠️ NOTE on the R timeline: The 2020 stage talk already teaches all six letters including
+> R ([[../../sources/2020-12-03-yt-bgmh7p1s7zs]]), so "added years later" is relative to his
+> *original* creation of the framework (pre-2020, in the gym-sales era), not relative to his
+> public teaching of it. Treat **R as the newest limb of an otherwise-stable acronym** — the
+> CLOSE core was in place first, R was bolted on before he began teaching CLOSER publicly.
+
 ---
 
 ## 2. Logical closing — the onion of blame & five obstacles
@@ -104,7 +123,7 @@ to hold.
 - **The goal of closing is to get someone to *decide*, not to buy** — reward the deciding
   activity, not the outcome, because the team can only control what they do.
 
-**The onion of blame** — borrowed from Albert Ellis / CBT (see §7, not original to Alex).
+**The onion of blame** — borrowed from Albert Ellis / CBT (see §8, not original to Alex).
 People cast their power to three sources of emotional disturbance: **circumstances, other
 people, and self.** A circumstance objection is the outermost layer; expect two or three
 more layers underneath. Peel layers until the prospect is "in power" and can decide
@@ -160,7 +179,7 @@ From a 2023 short clip ([[../../sources/2023-09-26-yt-Uu14KTSVdfk]]):
    into the positive — e.g. "our program's really hard, it's really long, it's honestly very
    complicated, **but** it works better than anything you've ever tried before." Hormozi
    credits the "own all the negatives about yourself so no one else can" idea to **Eminem's**
-   rap technique (borrowed — see §7).
+   rap technique (borrowed — see §8).
 2. **High-anchor to shift the buying curve.** Invent a service level **10x higher** than
    your most expensive offer. Either a rare "whale" buyer takes it, or (far more commonly)
    the buying curve shifts up and more people take the second-highest option because it's
@@ -196,9 +215,27 @@ video ([[../../sources/2022-03-16-yt-bHnVItVGJPA]]) and echoed across the 2022 k
   of their own businesses ([[../../sources/2022-03-16-yt-bHnVItVGJPA]]). The 2023 talk makes
   the same point about belief *and trust* being continuums: "ask *how much*, not *do they /
   don't they*" ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+- **Earliest formulation — the "belief continuum" (2021).** The degree-not-binary idea
+  predates the 2022 solo video. In mid-2021 Hormozi already taught that belief in what you
+  sell is a **continuum, not a binary** — the real question is *to what extent* you believe,
+  gut-checked with "would I bet $1,000 on this product... would I sell my mother this
+  product?" ([[../../sources/2021-06-23-yt-42SOlVhDwWE]];
+  [[../../sources/2021-06-02-yt-q32-l3Yoqg4]]). He models the sale itself as a **transference
+  of belief** you cannot make from an empty tank: "how can you transfer a cup that is only
+  one-third full into another empty cup?" ([[../../sources/2021-06-23-yt-42SOlVhDwWE]]).
+- **Conviction "counts twice" (2021).** Total sales performance has three inputs — **skill,
+  conviction, and work ethic — but conviction counts twice**, because genuine belief also
+  drives faster, more persistent follow-up. He weights conviction *above* raw skill: skill
+  effectively ranges ~1–10 while conviction ranges ~1–100, so a low-skill rep at 100 belief
+  still closes ([[../../sources/2021-06-23-yt-42SOlVhDwWE]]).
 - **"Commission breath":** reps who learn more about a weak product lose belief and
   unconsciously stop closing; humans sniff out intention. Fix belief (and the product)
-  first ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+  first ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]). The term itself **dates to 2020**,
+  where it names the deeper root of conviction: **care.** "A sale is always made; the person
+  who makes the sale is the one who cares most about the buyer" — buyers *smell* self-interest
+  ("commission breath"), so a genuinely caring rep "gets away with so much lack of skill" and
+  still closes, "which is why having conviction in your product is so important"
+  ([[../../sources/2020-10-22-yt-iwskrByMIqo]]).
 - **Conviction is a depletable resource** — prospects spread doubt into reps ("mojo" goes
   off), so leaders must continually "refill the cup." A rep who starts strong then declines
   usually has a *conviction* problem, not a skills problem; training won't fix it
@@ -227,11 +264,28 @@ video ([[../../sources/2022-03-16-yt-bHnVItVGJPA]]) and echoed across the 2022 k
 > "We need to be reminded more than we need to be taught. People who believe in something
 > automatically sell it." — 2022 ([[../../sources/2022-03-16-yt-bHnVItVGJPA]])
 
+> "It would be much more accurate to say to what extent do you believe... because belief is
+> not a binary question, it is a continuum." — 2021
+> ([[../../sources/2021-06-23-yt-42SOlVhDwWE]])
+
+> "You've got skill, you've got conviction, and you've got work ethic, but conviction counts
+> twice." — 2021 ([[../../sources/2021-06-23-yt-42SOlVhDwWE]])
+
+> "A sale is always made. Either they sell you or you sell them... The person who makes the
+> sale is the person who cares the most about the buyer." — 2020
+> ([[../../sources/2020-10-22-yt-iwskrByMIqo]])
+
+> "I give him the term commission breath... People can smell whether you're in it for your
+> agenda or their agenda." — 2020 ([[../../sources/2020-10-22-yt-iwskrByMIqo]])
+
 **Terminology note:** Hormozi uses **"conviction"** and **"belief"** interchangeably for
-the same idea across all three sources (2022 solo: "transference of conviction"; 2023
-talk and 2022 keynote: "transference of belief"). The bridge in every version is **trust**
-([[../../sources/2022-03-16-yt-bHnVItVGJPA]]; [[../../sources/2023-06-06-yt-iqAtBbGr3VY]];
-[[../../sources/2022-01-19-yt-okA9Yt2KZuk]]).
+the same idea. The lineage runs **2020 → 2023**: *care* / "commission breath" (2020,
+[[../../sources/2020-10-22-yt-iwskrByMIqo]]) → the *belief continuum* / "transference of
+belief," conviction "counts twice" (2021, [[../../sources/2021-06-23-yt-42SOlVhDwWE]];
+[[../../sources/2021-06-02-yt-q32-l3Yoqg4]]) → "transference of conviction" (2022 solo,
+[[../../sources/2022-03-16-yt-bHnVItVGJPA]]) → "transference of belief" (2022 keynote and
+2023 talk, [[../../sources/2022-01-19-yt-okA9Yt2KZuk]];
+[[../../sources/2023-06-06-yt-iqAtBbGr3VY]]). The bridge in every version is **trust**.
 
 ---
 
@@ -365,7 +419,110 @@ team = 26 people.
 
 ---
 
-## 7. Borrowed ideas (NOT original to Alex)
+## 7. Origin-era closing & persuasion tactics (2020–2021)
+
+Tactical closes and persuasion principles from Hormozi's gym-launch / origin era, predating
+the systematized 2022–2023 material above. These are the raw sales-floor moves — several
+later fold into his offer/money-model teaching.
+
+### The assumed close (2021) ([[../../sources/2021-01-05-yt-xy1h4qqF778]])
+
+Ask **which** option, never **whether**. Present an either/or where **both answers are a
+purchase**, so the prospect decides *which one* to buy, not *whether* to buy. Hormozi
+stumbled onto it selling over-bought supplements: after repeated rejections, he made his
+first sale by asking a client to pick a protein flavor (chocolate or vanilla) and a
+pre-workout flavor (kiwi or strawberry), then defaulting to the card on file — never
+pitching benefits or usage, and deliberately never asking an open yes/no question "because
+she might back out." Best deployed as an **upsell**, where it can close **~9 / 9.5 out of
+10** (vs. a front-end close of ~1-in-3, or 1-in-2 "if you're good"), because the customer
+already knows and trusts the seller and payment is on file. To find the upsell, predict the
+next natural thing the customer will buy on their journey and weave it in as an either/or.
+
+> "The key was I didn't ask her whether she wanted them. I asked her which one she wanted...
+> that is when I was introduced to the assumed close." — 2021
+> ([[../../sources/2021-01-05-yt-xy1h4qqF778]])
+
+> "The beauty of an assumed close is that the prospect is choosing between two options that
+> both are buying from you rather than whether or not they're going to purchase." — 2021
+> ([[../../sources/2021-01-05-yt-xy1h4qqF778]])
+
+### The comparison close — when the competition is cheaper (2020) ([[../../sources/2020-12-28-yt-9lLLBlo0YXA]])
+
+When a prospect is leaving for a cheaper option, **take price off the table and make them
+self-sell**: "let's pretend price isn't an option — we're both priced exactly the same,
+which would you rather do?" The prospect picks you; ask "why," then keep asking **"anything
+else?"** (prompting ROI, risk, track record) until they spend three minutes telling you why
+you're better — "for that reason you can understand why we're not $200." Supporting reframes:
+**"you get what you pay for"** (the $80/hr trainer vs. the $10 kid down the street — the
+cheap one *has* to charge $10 because his work is worse); **"price is what you pay, value is
+what you get"** (spending $200 for nothing is worse than $1,000 for 10x back); and **"buy
+nice or buy twice"** ("are you going to get burned twice today?"). He dismisses a rock-bottom
+competitor as not real competition (~$2,400 max LTV, no scalable acquisition) and predicts
+"he'll be back."
+
+> "One of my favorite closes is called the comparison close... let's pretend price isn't an
+> option, let's say we're both priced at the exact same amount — which one would you rather
+> do?" — 2020 ([[../../sources/2020-12-28-yt-9lLLBlo0YXA]])
+
+> "Are you being cheap? Are you gonna get burned twice today... or do you want to buy nice?
+> You can buy nice or buy twice." — 2020 ([[../../sources/2020-12-28-yt-9lLLBlo0YXA]])
+
+### No half measures (2021) ([[../../sources/2021-09-20-yt-ThSFgC_4NVA]])
+
+Drawn from a stage pitch he "completely bombed" (a half-hearted $2,000 offer after 2.5 hours
+of giving value): **either pitch hard or don't pitch at all — half-assed asking is the worst
+option and fails.** Half-pitching tells the audience they "don't need" the persuasion
+elements (scarcity, guarantees, bonuses), but people still need those to decide, so stripping
+them kills conversion. The **flip side**, which he calls the more powerful move: give
+relentlessly and **hold the ask entirely** — reciprocity means people start handing you
+business unprompted. He frames it as an upgrade on Gary Vaynerchuk's "jab, jab, jab, right
+hook" (give-give-give-ask): extend the giving long enough and the "get" comes without a
+deliberate ask, because an ask is a **withdrawal from your goodwill / relational capital**.
+
+> "No half measures... either sell or don't sell, but don't be in between." — 2021
+> ([[../../sources/2021-09-20-yt-ThSFgC_4NVA]])
+
+> "Either ask hard or do not ask at all. There is no halfass asking." — 2021
+> ([[../../sources/2021-09-20-yt-ThSFgC_4NVA]])
+
+> "If you keep giving and keep giving and keep giving, you don't need to ask ever. You will
+> just get." — 2021 ([[../../sources/2021-09-20-yt-ThSFgC_4NVA]])
+
+### The downsell concession ladder (2020) ([[../../sources/2020-10-27-yt-gza5RtQCVsA]])
+
+An ethical way to raise close rate on prospects who "can't afford" the primary program,
+built on the belief that **"everyone buys something"** (everyone has some money and some
+version of the problem). The mechanism is **reciprocity/exchange**: "the person who sets the
+terms always has the power in the agreement," so every price drop is **traded for the
+prospect doing more**, never given away (which reads as begging / "commission breath" and
+loses frame). Keep a "back pocket" of tradeable **cards** — (1) longer commitment/term,
+(2) a testimonial, (3) reviews, (4) a friend/referral — and step price down against them.
+Example ladder (front-end $300 / 3 weeks): half price + 12-week commitment → drop commitment
+at $49/wk → $39/wk for a testimonial → $29/wk pay-as-you-go if they bring a friend in 30
+days. The testimonial ask doubles as a sale ("you're selling while you downsell," since it
+implies they'll get results). Close each concession with **"fair enough?" / "sound fair?"**
+— a low-bar yes — then "what card do you want to use?" If they still say no after ~six drops,
+it's **not a money objection** — you lost them earlier. Strategic purpose: get a foot in the
+door cheaply so they trust you in 7–14 days and buy full price later.
+
+> "Everyone buys something... everyone has some money, and everyone has this problem, and we
+> should find a way to help everyone to a certain degree." — 2020
+> ([[../../sources/2020-10-27-yt-gza5RtQCVsA]])
+
+> "The person who sets the terms always has the power in the agreement." — 2020
+> ([[../../sources/2020-10-27-yt-gza5RtQCVsA]])
+
+> "I'll drop the price in half if you leave me a testimonial. Fair enough?" — 2020
+> ([[../../sources/2020-10-27-yt-gza5RtQCVsA]])
+
+**[Proto-offer note]** The downsell ladder is an early **sales-floor** version of the
+"downsell" offer type in his later Money Models / offer-stack thinking — in 2020 it is a
+call tactic (a pricing ladder traded for concessions), not yet the systematized
+attraction/upsell/downsell/continuity structure. See [[money-model]].
+
+---
+
+## 8. Borrowed ideas (NOT original to Alex)
 
 Per fidelity rules, ideas Hormozi explicitly attributes to others — do not train these as
 his own coinages:
@@ -408,3 +565,19 @@ his own coinages:
   breakdown (2022)
 - [[../../sources/2026-06-04-yt-B7P5WCVfnPE]] — first high-ticket sale; cost-vs-value
   pricing; underpricing tiers (2026)
+- [[../../sources/2020-10-22-yt-iwskrByMIqo]] — care / "commission breath" as the root of
+  conviction; sales = coaching (2020)
+- [[../../sources/2020-10-27-yt-gza5RtQCVsA]] — downsell concession ladder; "everyone buys
+  something"; "fair enough?" close (2020)
+- [[../../sources/2020-12-28-yt-9lLLBlo0YXA]] — comparison close for cheaper competition;
+  "you get what you pay for" (2020)
+- [[../../sources/2021-01-05-yt-xy1h4qqF778]] — the assumed close (ask which, not whether);
+  upsell mechanics (2021)
+- [[../../sources/2021-06-02-yt-q32-l3Yoqg4]] — CLOSER already mature mid-2021; R "added
+  years later"; belief-as-degree (2021)
+- [[../../sources/2021-06-23-yt-42SOlVhDwWE]] — the belief continuum; transference of belief;
+  conviction "counts twice" (2021)
+- [[../../sources/2021-09-20-yt-ThSFgC_4NVA]] — "no half measures"; give-give-give-get
+  reciprocity vs. pitching (2021)
+- [[../../sources/2022-01-21-yt-oi7bnS8uyJM]] — War Room keynote corroborating full CLOSER +
+  R-added-later (2022)

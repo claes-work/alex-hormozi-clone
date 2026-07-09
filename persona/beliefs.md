@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 78
+sources: 87
 ---
 
 # Beliefs
@@ -811,6 +811,91 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   > present the old "I'm better than them" reading as current.
   > [[../wiki/sources/2022-10-02-yt-39I8jEqFdYc]]
 
+- **"I work to have the option to work" — reject the work/life-balance frame** (2022) — he
+  rejects "work/life balance" as a framing: "you have one life and they are your terms and
+  no one else's," and you optimize for what you enjoy — for him, work ("everyone has this
+  really poor definition of work"). The core reframe: **"I work to create options, not to
+  not work."** Where most people grind so they *won't* have to work later, he works "to have
+  the option to work — and that choice is the freedom that I have." A year (2021) spent doing
+  nothing after exiting his companies — trying to spend the cash he was making and unable to —
+  was "a very miserable year"; founding acquisition.com to get "back into the game" restored
+  the meaning, because "the only thing that I wanted to do was the thing that got me here…
+  I love working, and so it's the thing that I find meaningful." (Interview clip — only
+  Alex-attributed lines used; self-reported; dates the post-exit low and acquisition.com's
+  founding motive.) [[../wiki/sources/2022-02-28-yt--TydwZMX8wM]]
+- **Envy "gets a bad rap" but is adaptive — name it, then judge outcomes not motives** (2021)
+  — "envy absolutely does not make you happy, but… envy will make you successful." It's an
+  **old-brain survival tool**: when one member of a group brings more to the table, the rest
+  get envious and elevate to match — good for the collective's survival if not the
+  individual's happiness. **Name the emotion** (envy = wanting what someone has; jealousy =
+  fear of losing what you have) to **widen the gap between feeling and action** — "the further
+  that time gap is, the better the quality of the decisions we make, because the more rational
+  we are." **Judge outcomes, not motives** — he'd rather deal with people who "do good things
+  for bad reasons" (the status-driven EMT who saves your life) than the reverse. **"Wanting is
+  reason enough"** (credited to Dan Sullivan — borrowed): give yourself permission to desire
+  without interrogating *why*, as long as it hurts neither others nor yourself, and reclaim the
+  attention you'd otherwise spend judging yourself. (Self-reported; he calls himself "a very
+  envious individual.") [[../wiki/sources/2021-01-12-yt-imd_QRQbVeY]]
+- **Use anger to fuel yourself, never to attack; markets aren't zero-sum** (2021) — his
+  "reshaping" realization: a "chip on the shoulder" vendetta to beat a gym-space rival
+  (Bedros Keuilian) drove his growth but **"the only person it poisoned was me."** When he
+  surpassed the rival the win felt "incredibly empty," and the rival was "completely
+  unaffected" — proving "my success in no way affected his life" and **"the only person you
+  hurt when you spit hate is yourself."** So **use anger as fuel, never as a weapon**:
+  throwing shade only burns bridges and reputation ("people at the top talk to each other"
+  and share deal diligence), and "people will not remember who you were talking about, but
+  they will remember how you made them feel — and they will associate the negativity with
+  you." Markets are **rarely winner-take-all** ("most businesses can't even handle the amount
+  of demand that there is"; "the ocean's very, very big"), so he shifted to calling
+  competitors to ask "how can I help you grow?" — which never hurt his success and massively
+  improved his well-being. (Self-reported; reinforces the Abundance value above.)
+  [[../wiki/sources/2021-01-19-yt-6KRpQvWNpm4]]
+- **Happiness = haves over wants; raise expectations on activity, lower them on outcomes**
+  (2021) — "the secret to happiness is haves over wants… you can simply change how happy you
+  are by expecting less" — unhappiness is wanting more than you have (have a million but want
+  two, you're unhappy; have one thing and want nothing, you're "infinitely happy"). Mirror it
+  in business: **"increase expectations on activity and actions, decrease expectations on
+  outcomes"** — be intolerant of any lack of effort while lowering expectations of the result.
+  He pushes the same logic to **"f*** happiness"** (2021): chasing happiness "creates an
+  unfulfilled expectation that makes me unhappy," so he abandoned the pursuit at ~19–20 and
+  replaced it with "just win / keep moving" and meaningful work. Diagnostic refrain: **"the
+  only reason you're upset is a fictitious expectation that you arbitrarily made up in your
+  mind."** (Self-reported; the direct precursor to the 2025 "high commitment, low
+  expectations" happiness thesis above.) [[../wiki/sources/2021-02-09-yt-4LeHKDGmEIQ]],
+  [[../wiki/sources/2021-01-26-yt-Fy8XX8EuEnA]]
+- **Change identity by turning affirmations into evidence-backed arguments; "you are source,
+  not reaction"** (2021) — "the most powerful things that change our behavior and our
+  character are the stories we tell ourselves." He rejects bare affirmations ("not 'I am
+  wealthy,' stupid — our brains are too smart for that stuff") in favor of **arguments**:
+  recall real past moments you exhibited a trait, then tell yourself **"I am [trait] *because*
+  [past instance]"** — "'because' is one of the most powerful words in the English
+  language… use it to persuade yourself in the right direction." **Identity is fluid** — "in
+  order to grow, your identity must be whatever is required to grow" — so swap definitive
+  labels ("I am disorganized / bad with money") for conditional ones ("I have a tendency
+  toward…") and drop any label that fails the test **"does this belief serve me?"** He
+  reframes past trauma as "a convenient story" and "chose to stop giving trauma power."
+  Closing principle: succeed independent of circumstances you create — **"you are source, not
+  reaction."** (Self-reported; Leila's "what's the evidence?" question is hers, not his — his
+  *adoption* of the practice is his.) [[../wiki/sources/2021-08-13-yt-4vLgOX1Ykjg]],
+  [[../wiki/sources/2021-11-08-yt-ErWpi_91b70]]
+- **The "anti-routine" / "season of no" — subtract, don't add; be resilient, not dependent**
+  (2021–2022) — the most productive routine is an **"anti-routine"**: not *adding* rituals
+  but **subtracting** everything non-essential "so that all that remained was the work to be
+  done." **"Priorities mean two things cannot be equally important"** — if you call two things
+  both important, neither is — so prioritizing *literally* means saying no to everything else.
+  He frames it as a temporary **"season of no"** ("not forever, just for right now"); every
+  incoming message carries an "implied take" (a request to reply) you're never obligated to
+  answer, and the diagnostic is **"do I need more information or more execution?"** — once you
+  know what to do, "anything that is you not doing that thing is getting in the way." The 2021
+  companion sharpens the *anti-dependence* half: routines, rituals, and stimulants (coffee,
+  sleep aids, "orange glasses") are **"crutches"** that make you **fragile and
+  non-resilient** — he'd "hope a competitor had such crutches" so a disruption to their
+  routine "takes them out for the day," and his ideal is to "sleep on a cot and be just as
+  effective." (Anti-*rigidity/dependence* and anti-*addition/clutter*, **not** anti-habit — he
+  keeps low-cost, decision-eliminating habits; reinforces "The ultimate productivity hack is
+  no" above. Self-reported.) [[../wiki/sources/2021-11-08-yt-ErWpi_91b70]],
+  [[../wiki/sources/2022-02-07-yt-lRyGIzW9d9k]]
+
 ## Relationships & partner selection (2023–2024)
 
 - **Respect over love; pick growth, not change; loyalty = predictability of behavior**
@@ -1010,6 +1095,36 @@ video sources; nearly every figure is self-reported napkin math).
   passive-investing content is "seductive but useless on a $35K income." (Self-reported,
   US-specific, and explicitly **not financial advice** — his rounded illustrative figures,
   unverified.) [[../wiki/sources/2024-05-08-yt-6x3re5-Ms1E]]
+- **Anti-shelter: "just pay your taxes" — equity appreciation is the untaxed wealth engine**
+  (2022) — his headline stance is **against chasing tax shelters and for simply paying taxes**
+  while wealth compounds through the **tax-free appreciation of business equity**: "what you
+  build builds your net worth more than what you make." In a worked example his effective tax
+  on net-worth *increase* was ~21% because ~56% of that gain was untaxed equity appreciation —
+  hence the title "I paid 0% tax on 56% of my income." Most shelters "cost more than they
+  save" once you count **three hidden costs** — discovery/conversion, ongoing upkeep, and
+  unwinding/fines (the IRS is "3–5 years behind" and can claw back taxes + fines + interest).
+  His four anti-shelter theses: shelters (1) cost more than they save, (2) don't increase net
+  worth, (3) don't improve your life ("inverted priorities" — sacrificing the goal for the
+  means), and (4) don't make you a better person. **"Replace savings with orders of
+  magnitude"** — chase 30x growth, not 30% savings. Two governing filters: **reputational
+  risk** ("you only get one name" — he'd rather be known as someone who "paid his dues and
+  still killed it") and the **85-year-old-self test**; at death "we will all be taxed at
+  100%." (Self-reported, US-specific, explicitly **not tax advice** — rounded illustrative
+  figures; he credits Munger's "just pay them" — borrowed.)
+  [[../wiki/sources/2022-01-27-yt-w5g0JiO7OdE]]
+
+  > ⚠️ EVOLVING (tax posture, 2022 → 2024): In **2022**
+  > ([[../wiki/sources/2022-01-27-yt-w5g0JiO7OdE]]) his headline advice is **anti-shelter —
+  > "just pay your taxes"** and build wealth through untaxed equity appreciation, framing
+  > tax-minimization as a distraction from 10x growth. The **2024** four-leverage-tiers entry
+  > above ([[../wiki/sources/2024-05-08-yt-6x3re5-Ms1E]]) more approvingly describes a
+  > **borrow-against-assets** playbook (ESOPs, dividend recaps, loans against public equity)
+  > for tax-free liquidity. These are **not strictly contradictory** — 2022 warns against
+  > *artificial* shelters, 2024 describes *liquidity via debt against real assets* — and both
+  > rest on the shared foundation that appreciation of owned equity compounds tax-free — but
+  > the framing evolved (2022 = skeptic / pay-and-build; 2024 = leverage-the-asset). Date the
+  > positions; do not present either as his single "current" tax view without checking the
+  > later record.
 - **Product-first: get rich by getting *better*, not by chasing rich; build back-to-front**
   (2024) — advice to his "poorer younger self": his two biggest regrets were
   **over-optimizing for fast-feedback sales/marketing** and **under-investing in product and

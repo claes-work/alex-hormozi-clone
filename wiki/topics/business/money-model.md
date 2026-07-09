@@ -2,8 +2,8 @@
 type: topic
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-08
-sources: 1
+updated: 2026-07-09
+sources: 5
 ---
 
 # Money Model
@@ -125,6 +125,89 @@ tightening advertising laws, especially around "free"; be transparent; and switc
 poor person mantra "this won't work for my business" to the rich person mantra "how will
 I make this work for my business?"
 
+## Origins / proto-money-model (2020–2021)
+
+The mature Money Model published in [[../../sources/2025-08-16-100m-money-models|$100M Money Models]]
+(2025) did not appear from nowhere. Five years earlier — in solo YouTube talks aimed at gym
+owners and while writing a book he then called *Building a Better Mousetrap* / *Acquire* — Hormozi
+was already teaching the same monetization architecture in pre-book vocabulary. These are the
+documented seeds, dated to when he said them. His own later caveat fits: "When I started, I didn't
+know any of this Money Model stuff. It only looks clean looking back" (PDF p. 194).
+
+### ⭐ The "cash flow quadrant" (2020-11-19) — a named proto-Money-Model
+
+In [[../../sources/2020-11-19-yt--UvmyixFszw|4 Steps to Maximizing Revenue Generated Per Customer]]
+(2020-11-19) Hormozi lays out a **named four-step "cash flow quadrant"** (explicitly distinguished
+from Kiyosaki's) for maximizing revenue per customer. It is the clearest single seed of the mature
+Money Model's offer sequence:
+
+| 2020 "cash flow quadrant" step | Maps to later Money Model stage |
+|---|---|
+| 1. **Products** — bolt on an immediate high-margin physical product (gym → supplements) | Upsell / Menu Upsell |
+| 2. **Add-on services** — a "menu close" of everything else you offer | [[upsell-offers\|Upsell Offers]] |
+| 3. **Prepaid or financing** — third-party financing + ~10% off to "prepay" (never "paid in full"), to liquidate acquisition cost up front | Payment-plan / cash-acceleration mechanics |
+| 4. **Continuity** — via **"downselling the upsell"**: charge more up front, then offer the same thing recurring at a decent discount | [[continuity-offers\|Continuity Offers]] |
+
+The talk already carries the mature model's **cash-per-show / LTV math**: a business's monthly
+ceiling ≈ (customers/month) × (LTV) (e.g. 20 × $2,000 = $40,000/mo); a single prepay of $2,500
+lifts average ticket from $500 to $1,000; and — foreshadowing the 2025 "eliminates cash as a
+bottleneck" thesis — "it comes from the back, not the front," i.e. a strong back end funds
+acquisition. Paraphrase and quotes per [[../../sources/2020-11-19-yt--UvmyixFszw|source]]
+(2020-11-19). This "cash flow quadrant" (products → add-on services → prepay/financing →
+continuity) plus "downselling the upsell" is a **direct, named precursor** to the codified
+attraction/upsell/downsell/continuity Money Model — predating both *$100M Offers* (2021) and the
+2025 *$100M Money Models* book.
+
+### Proto-Grand-Slam-Offer / "monetize free" thinking (2020-11-05)
+
+In [[../../sources/2020-11-05-yt-pxVeOkOVr2w|The Offer Is King]] (2020-11-05) — ~9 months before
+*$100M Offers* — Hormozi frames business around one "irresistible core offer" (proto-**Grand Slam
+Offer**) built from three components: believability, high ROI/value (proto-**Value Equation**), and
+"the business/monetization model around it." His "seven ways to use free" (free bribe, A/B-close
+free trial, free-trial-plus-penalty downsell, free with deposit, **free forever + monetize the
+second need**, free giveaway, free with commitment) is early money-model sequencing: give away the
+high-margin/low-perceived-value thing, monetize the attached need, and "market with reckless
+abandon" once you know your LTV. He states the vocabulary plainly — "it's learning how to build a
+better mousetrap" — and names the book he was then writing: "Right now I'm working on a book called
+**Acquire**, and the subtext is building a better mousetrap." Paraphrase/quotes per
+[[../../sources/2020-11-05-yt-pxVeOkOVr2w|source]] (2020-11-05). Working title is a biographical
+note: the eventual published trilogy differs.
+
+### "Ham and garlic" front-end/back-end logic (2020-12-29)
+
+In [[../../sources/2020-12-29-yt-1IhvZC-Wpqs|Marketing Mastery]] (2020-12-29) Hormozi gives the
+front-end/back-end sequencing that underpins the Money Model's attraction → later-offer order: sell
+people **what they want** (the "ham" — the quick-fix front-end offer that gets them in the door),
+then, once you've earned trust, deliver **what they need** (the "garlic" — real training, macros).
+"You have to give people what they want in order to give them what they need." Applied to his own
+fitness marketing: short challenges/detox front ends, upsold to real training after early wins —
+the same attraction-first logic later formalized as Stage I → Stages II–III. Paraphrase/quotes per
+[[../../sources/2020-12-29-yt-1IhvZC-Wpqs|source]] (2020-12-29).
+
+### Starbucks-era retention / continuity thinking (2021-10-08)
+
+In [[../../sources/2021-10-08-yt-3P1XjUvo1b4|I cracked Starbucks RECURRING SALES model]]
+(2021-10-08), recorded ~1 month after selling his software company, Hormozi frames the continuity
+pillar as **churn-minimization via customer surplus**: "the way to create a fortune in business is
+to only sell things that people do not stop buying." The mechanism is not a gift-card/prepay float
+(the clickbait title is not delivered — see the source's ⚠️ mismatch note) but **retention**: deliver
+value far above price so the customer "never wants to stop buying it," and target **~1–2% monthly
+churn** versus the 10–20% he says most businesses run. This is the retention-first, pre-book
+articulation of the later [[continuity-offers|Continuity Offers]] pillar and of the "never lose a
+customer → LTV compounds → funds acquisition" logic. Paraphrase/quotes per
+[[../../sources/2021-10-08-yt-3P1XjUvo1b4|source]] (2021-10-08).
+
+> Note: These are 2020–2021 **seeds**, not the finished framework. The 2020 "cash flow quadrant"
+> and "downselling the upsell," the 2020 "monetize free / build a better mousetrap" offer thinking,
+> the 2020 "ham and garlic" front-end/back-end order, and the 2021 customer-surplus/churn continuity
+> thesis all predate the codified attraction/upsell/downsell/continuity Money Model of the 2025
+> *$100M Money Models* book. Treat them as dated historical antecedents on the money-model evolution
+> timeline, not as current doctrine.
+
 ## Sources
 
 - [[../../sources/2025-08-16-100m-money-models|$100M Money Models]] (2025) — the entire framework
+- [[../../sources/2020-11-19-yt--UvmyixFszw|4 Steps to Maximizing Revenue Per Customer]] (2020-11-19) — ⭐ named "cash flow quadrant" proto-Money-Model
+- [[../../sources/2020-11-05-yt-pxVeOkOVr2w|The Offer Is King]] (2020-11-05) — proto-Grand-Slam-Offer / "monetize free" / *Acquire* working title
+- [[../../sources/2020-12-29-yt-1IhvZC-Wpqs|Marketing Mastery]] (2020-12-29) — "ham and garlic" front-end/back-end logic
+- [[../../sources/2021-10-08-yt-3P1XjUvo1b4|Starbucks recurring sales]] (2021-10-08) — retention/continuity via customer surplus (~1–2% churn)

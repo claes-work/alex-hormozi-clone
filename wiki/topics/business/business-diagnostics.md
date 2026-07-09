@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 7
+sources: 10
 tags: [diagnostics, constraints, scaling]
 ---
 
@@ -22,6 +22,74 @@ diagnosis. Claims are dated because his
 positions evolve; direct quotes are marked as voice data. See also
 [[scaling-and-enterprise-value]] (what to do once the constraint is found) and
 [[money-model]] (the pricing/offer machinery several of these fixes rely on).
+
+---
+
+## Origins (2020–2021): the proto-constraint / reverse-engineering framework
+
+Before the formalized supply/demand and "big hairy problem" lenses above, Hormozi's
+2020–2021 solo videos already contain the *seed* of the same instinct — name the one
+limiting factor, then reason **backward** from the goal through the numbers to the daily
+action. These predate the polished framework; they are dated here to trace its lineage.
+
+**"Inflow is your bottleneck" (2020-12-01).** ⭐ The clearest proto-version. Hormozi
+argues most service businesses that miss their growth goals are capped by their *inflow* —
+their week-in, week-out ability to acquire and sell new clients — **not** by retention or
+product. The diagnostic move is to name that single constraint and work backward from the
+target: member goal × churn = signups needed just to maintain, then gross that up through
+close rate, show rate, appointments, and time-blocks to a required ad spend.
+
+> "Most times the inflow is the cap." (verbatim,
+> [[../../sources/2020-12-01-yt-XC_lklN9KmE|Your Inflow Is Your Bottleneck]], 2020)
+
+His worked chain: hold 300 members at 10% churn → sign ~30/month → at a 50% trial close =
+60 front-end sales → at 1-in-2 booked-to-close ≈ 120 conversations/month → factoring
+show-up rate ≈ ~60 appointments/week *just to maintain 300 before growing*; backing further
+into media, ~15 leads/day × $10/lead ≈ **$4,500/month ad spend**. Scaling then reduces to
+time-blocking math: "How long does it take? How many of them do we have? Block the time.
+And that is how you scale." (verbatim). This already foreshadows his standard
+**leads → sales → retention** lens.
+
+**Income-goal → action reverse-engineering (2020-12-25).** The same backward-math method,
+generalized to any revenue target. Hormozi reduces a revenue goal to two variables — **how
+much a client is worth (LTV)** and **how many clients you need to sell** — then chains
+conversion ratios backward until he lands on a daily ad spend.
+
+> "When people pay me 50 grand for six hours I literally break it down to these two core
+> pieces... how much is a client worth, how many do I need to sell." (verbatim,
+> [[../../sources/2020-12-25-yt-rNiMm4eVq4M|Turn Any Income Goal Into Action Steps]], 2020)
+
+Worked example: $1M gross at a $10k LTV = 100 clients ≈ 2 sales/week; closing 1 of 5 calls
+= 10 calls/week; at a 75% show rate ≈ 15 booked calls/week; at ~$75/call ≈ ~$300/day ad
+spend — "$300 a day yields me my 15 calls, 15 calls gives me 10 shows, 10 shows gives me
+two sales." (verbatim). He deliberately pads a buffer at each step so the plan stays
+achievable. This is the direct ancestor of the reverse-engineering chains that later run
+through the supply/demand and growth-plateau lenses above.
+
+**"Create flow → monetize flow → add friction" and don't solve problems that don't exist
+yet (2021-03-11).** A sequencing rule that prefigures the later refusal to fix a downstream
+symptom before the upstream constraint is resolved. Advising a friend who feared
+fulfillment "overwhelm" *before making a single sale*, Hormozi's diagnosis was that the
+friend was solving a problem that didn't yet exist — the real constraint was the absence of
+demand.
+
+> "Create flow, monetize flow, then add friction." (verbatim,
+> [[../../sources/2021-03-11-yt-RZbpSe9pdFs|3 Steps To Starting (Or Fixing) Any Business]], 2021)
+
+> "Don't try and fix your non-existent overwhelmed fulfillment issue when you haven't even
+> made a sale yet." (verbatim)
+
+The prescription — create demand first (via an offer "so good they'd feel stupid saying
+no"), monetize it, and only *then* add friction and optimize — is an early, informal
+statement of constraint sequencing: work the binding constraint (no demand), not the one
+you enjoy or fear. It maps forward onto the "solve the problem the business requires, not
+the one you enjoy" logic in the big-hairy-problem lens below.
+
+**Reading the lineage.** All three share the mature framework's DNA — (1) name a single
+binding constraint, (2) reason backward from the goal through the numbers, (3) convert it
+into concrete inputs (signups, calls, time-blocks, ad spend) — but predate its
+formalization. Treat them as the 2020–2021 proto-versions of the supply/demand triage and
+reverse-engineering method, not as the current articulation.
 
 ---
 
@@ -435,6 +503,9 @@ machinery ([[money-model]]) at that one thing.
 
 ## Sources
 
+- [[../../sources/2020-12-01-yt-XC_lklN9KmE|Your Inflow Is Your Bottleneck]] (2020) — proto-constraint: inflow as the bottleneck, backward math, time-blocking.
+- [[../../sources/2020-12-25-yt-rNiMm4eVq4M|Turn Any Income Goal Into Action Steps]] (2020) — proto-reverse-engineering: LTV × units → daily ad spend.
+- [[../../sources/2021-03-11-yt-RZbpSe9pdFs|3 Steps To Starting (Or Fixing) Any Business]] (2021) — proto-sequencing: create flow → monetize → add friction; don't solve problems that don't exist yet.
 - [[../../sources/2025-06-03-yt-sGv2BTUCcCM|How to Grow Your Business So FAST]] (2025) — supply vs demand, the accordion, 8 diagnoses.
 - [[../../sources/2025-04-15-yt-q9OmYf_IlQ0|The Top 1% Aren't Smarter Than You]] (2025) — what business you're in, big hairy problem, features vs bugs.
 - [[../../sources/2025-04-17-yt-s7QA1TJKlbQ|4 Ways To Get Ahead of 99%]] (2025) — the 4 competitive vectors ↔ value equation.

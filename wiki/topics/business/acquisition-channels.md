@@ -105,6 +105,20 @@ operations, never by capital [[../../sources/2022-05-17-yt-XwZH-lOKG9c]].
   generates in the first 14 days** (then averaging $15,500/client)
   [[../../sources/2021-10-25-yt-neTSqOAMgao]].
 
+> **Origin / dating (2021-10-11).** CFA is **not** first stated in *$100M Leads*. In an
+> October 2021 solo video Hormozi already names it — "Client Financed Acquisition" — and
+> gives the identical inequality, **30-day cash > 2 × (CAC + cost to fulfill)**, roughly
+> **2 years before** the book formalizes it [[../../sources/2021-10-11-yt-DpbXWP8fLbc]]. Two
+> mechanics to preserve from that early statement: (1) the **30-day window is pinned to the
+> credit-card interest-free grace period** — put CAC + fulfillment on a card, collect more
+> than double back inside 30 days, pay the card, keep the surplus, repeat, so growth is
+> funded by "the universe's money," never investors or debt; (2) clearing the bar produces a
+> **negative net acquisition cost** ("you make money getting customers"), which makes
+> customer acquisition **uncapped** — the binding constraint moves to operations, hiring, and
+> the owner, never capital. He self-reports building a ~$85M/year portfolio on 100% equity
+> with no outside money this way (2021, self-reported)
+> [[../../sources/2021-10-11-yt-DpbXWP8fLbc]].
+
 > "I basically know that I have 30 days against the clock that I can spend whatever I
 > want, and as long as I have it back plus some in 30 days, I never have to use my own
 > money to grow." [[../../sources/2022-05-17-yt-XwZH-lOKG9c]]
@@ -176,6 +190,17 @@ stop buying from you, or build a company where people never stop selling for you
 
 ## The Rule of 100 (daily volume for beginners)
 
+> **Origin / attribution (2021-04-01).** The Rule of 100 is **not** a 2023 idea. Hormozi
+> explicitly *coined* it in an April 2021 solo video: "I want to give you a rule of thumb
+> that I'm coining, the Rule of 100… I haven't heard this from anyone so I'm claiming it as
+> my own" [[../../sources/2021-04-01-yt-UR9dO1jZemE]]. That is **2+ years before** the 2023
+> Core Four talk this page's fuller formulation cites. The 2021 version is **narrower** — it
+> covered only **outbound and paid ads** (which he files under outbound): **$100/day on ads
+> or 100 reach-outs/day**, done every day for 90 days. The 2023 version **expands the menu**
+> to all four activities (warm outreach, cold outreach, paid ads, content — 100 units of
+> each). Date the *concept* to **2021-04-01**; treat the four-activity menu as a 2023
+> refinement.
+
 Attached to the 2023 Core Four, the **Rule of 100** is his prescription for *quantity
 of action* — pick one of the four activities and hit 100 units of it every day:
 
@@ -199,7 +224,20 @@ until ~$3M revenue, because "the issue is not even time, the issue is attention"
 ## Warm outreach: first 5 customers (the ACA playbook)
 
 Warm outreach is the first of the Core Four activities, and it is where Hormozi tells a
-brand-new business to start. In a 2023 solo lecture (a sneak peek of *$100M Leads*) he
+brand-new business to start.
+
+> **Earlier version (2021-04-01).** The "first 5 clients with no budget" framing predates
+> the *$100M Leads* playbook by two years. An April 2021 video — literally titled *"Easiest
+> Way To Get Your First 5 Clients [if you have no budget]"* — makes the zero-budget case that
+> for a solo operator, manual **outbound is the cheapest channel** ("it's just selling your
+> time"), and prescribes the [Rule of 100](#the-rule-of-100-daily-volume-for-beginners): pick
+> one method and do 100 reach-outs a day **every day for 90 days**, with a guarantee you'll
+> have customers by the end [[../../sources/2021-04-01-yt-UR9dO1jZemE]]. That 2021 talk is a
+> **proto-version** of the fuller 10-step warm-outreach method below — it supplies the
+> zero-budget rationale and the volume engine, but not yet the ACA reply script or the
+> free → retail price ladder (those are 2023 additions).
+
+In a 2023 solo lecture (a sneak peek of *$100M Leads*) he
 gives a **10-step playbook to land your first five customers** purely by messaging people
 who already know you [[../../sources/2023-08-02-yt-w7g08dVTwaE]]:
 
@@ -379,3 +417,9 @@ all — high margin is the enabling condition. See [[business]] and
   retail price ladder.
 - [[../../sources/2023-07-19-yt-7NMH1oAkgLY]] — lead-magnet logic (give complete value to
   lower CAC); the 7-step lead-magnet checklist.
+- [[../../sources/2021-04-01-yt-UR9dO1jZemE]] — **origin (2021-04-01) of the Rule of 100**
+  (explicitly self-coined; narrower outbound/paid-ads version); zero-budget first-5-clients
+  warm-outreach proto.
+- [[../../sources/2021-10-11-yt-DpbXWP8fLbc]] — **origin (2021-10-11) of Client Financed
+  Acquisition** (named, with the 30-day-cash > 2×(CAC+fulfillment) inequality and the
+  credit-card float mechanic), ~2 years before *$100M Leads*.
