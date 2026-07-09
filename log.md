@@ -4772,3 +4772,26 @@ money as bottled time / scarce skill stack.
 
 Recompiled `persona/system-prompt.md` to v27 and advanced the synthesis high-water mark to
 batch 184. Dropped repeats already covered by prior MoreMozi synthesis passes.
+
+## [2026-07-09] ingest | yt batch 185 - @MoreMozi P2 (2026-04-18 to 2026-04-19), 8 videos
+
+- **2026-04-19** `yt-i7XttTpqEk0` - emotion-action separation, superstition about
+  needing to feel good, and game-tape proof that discomfort is often invisible in output.
+- **2026-04-18** `yt-FTfFUE2PHX0` - A-player retention: money attracts talent, culture
+  keeps talent, and real-time reinforcement beats infrequent financial incentives.
+- **2026-04-18** `yt-IOhDCr0x14Y` - main-game focus over side-hustle hedges, rebuild the
+  known exceptional skill, and real estate vs private-equity wealth path contrast.
+- **2026-04-18** `yt-JRQNPi0Yz3A` - hated-job catalyst and Leila 28-day launch hardship
+  as pre-marriage proof of partner quality.
+- **2026-04-18** `yt-IXNoirXe7PA` - nothing-to-lose action threshold, small-player
+  advantages, and naming the specific social-fear voice.
+- **2026-04-18** `yt-DOAxMqnvX9s` - large-group fitness studio to small-group adjacent
+  path, reduced FOMO through hard-everywhere reality, and limited entrepreneurial seasons.
+- **2026-04-18** `yt-A6uw_DcbNM8` - negotiation power from pre-table supply/demand and
+  leverage; tactics are incremental.
+- **2026-04-18** `yt-5M7zYqwUtHU` - buyer QR code to continuity offer, free books as
+  membership join incentive, and continuity cadence matched to usage.
+
+Ledger 8->L2 (L2 now 1,390). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: emotion-action-separation/game-tape-proof; money-attracts-culture-keeps-A-players/reinforcement-latency; main-game-focus-over-side-hustle-hedges/private-equity-vs-real-estate; hated-job-catalyst/Leila-28-day-launch-hardship; nothing-to-lose-action-threshold/specific-social-fear-voice; large-group-to-small-group-fitness-adjacent-path/limited-entrepreneurial-seasons; negotiation-supply-demand-leverage-before-tactics; buyer-QR-continuity-offer/free-books-membership-incentive.

@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-09 (@MoreMozi batch 184; 1,382 L2 videos ingested; system-prompt v26)_
+_Last updated: 2026-07-09 (@MoreMozi batch 185; 1,390 L2 videos ingested; system-prompt v27)_
 
 ## Sources
 
@@ -13,7 +13,7 @@ _Last updated: 2026-07-09 (@MoreMozi batch 184; 1,382 L2 videos ingested; system
 
 ### YouTube
 
-- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**1,382 L2**; all P1 landmark videos across 5 channels complete; @AlexHormozi, @ACQofficial, @TheSkoolSchool, and @GymLaunch long-form complete; only @MoreMozi long-form remains). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
+- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**1,390 L2**; all P1 landmark videos across 5 channels complete; @AlexHormozi, @ACQofficial, @TheSkoolSchool, and @GymLaunch long-form complete; only @MoreMozi long-form remains). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
 
 ## Topics
 
@@ -78,11 +78,11 @@ Domain hubs (full page list lives on each hub):
 
 ## Persona
 
-- [persona/biography.md](persona/biography.md) — Dated timeline 1989–2025 with confidence markers (**48 sources** — father/refugee story, United Fitness + first-gym figures, granular first-gym hardship, philanthropy/estate-plan cluster, Leila airport-recruitment, book-trilogy origin, Goodwill shift, mother Florence's death ~Sep 2025, **DOB ~Aug 1989**, competitive-bodybuilding background, Kylie-Forbes turning point, tracked contradictions).
+- [persona/biography.md](persona/biography.md) — Dated timeline 1989–2025 with confidence markers (**60 sources** — father/refugee story, United Fitness + first-gym figures, granular first-gym hardship, philanthropy/estate-plan cluster, Leila airport-recruitment, book-trilogy origin, Goodwill shift, mother Florence's death ~Sep 2025, **DOB ~Aug 1989**, competitive-bodybuilding background, Kylie-Forbes turning point, tracked contradictions).
 - [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + 2026 Q&A operator language + a borrowed-lines (not-his-coinages) section.
-- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**126 sources**); enriched from the topic pages + P2 synthesis (tax-free-liquidity 2021→2024 evolution, philanthropy/estate-plan belief, no-legacy, perfect-business, 4-shapes, 6-levels risk ladder, business math, moats, retention, culture, purpose/usefulness, relationships, current AI thesis) with tracked evolutions.
+- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**136 sources**); enriched from the topic pages + P2 synthesis (tax-free-liquidity 2021→2024 evolution, philanthropy/estate-plan belief, no-legacy, perfect-business, 4-shapes, 6-levels risk ladder, business math, moats, retention, culture, purpose/usefulness, relationships, current AI thesis) with tracked evolutions.
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Populated** (1 source): physique/build (~235 lb, signature calves), athletic background; grooming/wardrobe/setting still open (await watch-skill frame sampling).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v26** (~1,302 videos + 2 books) — full business frameworks + wealth/tax evolution + business-only active investing after liquidity + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis + April-May 2026 MoreMozi community/content/sales/operator refinements; grooming/wardrobe still pending watch-skill sampling.
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v27** (~1,382 videos + 2 books) — full business frameworks + wealth/tax evolution + business-only active investing after liquidity + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis + April 2026 MoreMozi brand/content/focus/negotiation/operator refinements; grooming/wardrobe still pending watch-skill sampling.
 
 ## Other
 
