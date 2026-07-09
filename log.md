@@ -4431,3 +4431,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,286). youtube-index/index/footer updated.
 Synthesis notes: failed-test-reports-as-value/Gym-Launch-RD-50k-tests/communities-save-time; dental-no-show-integrity-tie-down/24h-morning-60-90m-manual-reminders/prepared-item; social-truth-telling/words-mean-what-they-mean-voice-material; first-5-8-second-hook-rule/intro-thumb-headline-congruency; avatar-specificity/trench-niche-knowledge-beats-broad-authority; community-CPA-LTV-ascension/four-conversion-points/VSL-concern-sequence; criticism-as-preference-mismatch/three-blame-buckets; ads-as-native-content/remove-emojis/benefit-of-benefit/third-grade-copy.
+
+## [2026-07-09] ingest | yt batch 173 - @MoreMozi P2 (2026-04-27 to 2026-04-28), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-27** `yt-zydvAjhEKBA` - leadership compensation for scaling coaching company:
+  profit-share pools, quarterly objectives, and push/pull metrics.
+- **2026-04-27** `yt-RPxzxc_YgFE` - free-group call pitch: sell personalized application
+  and stack features by resources/pain saved.
+- **2026-04-27** `yt-rCIhlLQhOhA` - religious-niche advertising through message, setting,
+  props, and creative signals rather than direct demographic targeting.
+- **2026-04-27** `yt-oxt3CnQJItQ` - suffering as proof, story stakes, and early Gym Launch
+  "this will be an amazing story" self-talk.
+- **2026-04-28** `yt-Rj5ffM1FUrQ` - local services as beginner-friendly because of trust,
+  no inventory, and easier acquisition.
+- **2026-04-28** `yt-tKktM0Go484` - character traits as condition-specific skills, plus
+  the "Alex numbers" feedback behind the state-facts mantra.
+- **2026-04-28** `yt-0BJXgkfJsJ4` - ideal-customer narrowing from the top 10-20% outcome
+  customers and four avatar filters.
+- **2026-04-28** `yt-eiAgZ0lHQok` - specificity as the way copy bypasses the audience's
+  mental spam blocker.
+
+Ledger 8->L2 (L2 now 1,294). youtube-index/index/footer updated.
+Synthesis notes: leadership-comp-architecture/profit-share-pool/quarterly-objectives-over-unstable-KPIs/push-pull-metrics; free-call-paid-pitch/sell-personalization/feature-stack-resources-saved; creative-message-as-targeting-when-demographics-blocked; suffering-as-proof/story-stakes/bigger-monster-bigger-hero/early-Gym-Launch-self-talk; local-service-beginner-trust-acquisition-advantage; traits-as-skills-conditions/Alex-numbers-feedback-origin; top-customer-avatar-narrowing/demographic-psychographic-geographic-activity-filters; specificity-as-mental-spam-blocker-bypass.
