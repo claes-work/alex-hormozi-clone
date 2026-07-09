@@ -18,6 +18,24 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — exit-count reconciliation + sales-training landmark (L2=501, >500!)
+
+Loop iteration 67. 8 @AlexHormozi P2 (Apr-May 2022 — his EARLIEST uploads; channel began ~April 2022).
+**Crossed 500 videos L2.** 2 L3-candidates: NcD2t9qt-fM "the best sales training on the internet"
+(★ a landmark, unusually-complete closing lecture — closing=power, a full objection map [time / value /
+fit / authority / avoidance] built on Albert Ellis's 3 distortions of reality [circumstances / others /
+self] → sales-frameworks), pWbSl7d0tEc "I sold 8 businesses by age 32" (★ M&A masterclass that RECONCILES
+the exit-count confusion: "8 by 32" = 7 sold + 1 shut-down gym [2022 count] vs the later "9 companies"
+[2024] = a genuine evolution; the $46.2M is Gym Launch + Prestige Labs COMBINED, 2/3 sold all-cash to
+American Pacific Group with 66% real equity & no earn-out; ALAN ~$12M TTM sold to a strategic buyer;
+the "9 businesses before Gym Launch" is a separate FAILURE tally — not in conflict). BIO from QQGHCG8d1So
+(the ORIGINAL lessons-and-failures anthology, distinct from SasEJE4FI-I): $7-8M personal earnings outside
+the sales, stuck at ~$30M for ~4 years, sold his Bentley + home to "lease his lifestyle," and a great-
+great-grandfather "Hormosh Khan" said to be an Iranian ruler (Alex himself flags it as possibly folklore).
+Also: zero debt / no mortgage as of Apr 2022 (yr1DrcPCKEg). Rest L2 (28-ways-stay-poor inversion,
+punishment-doesnt-work [4-box reinforcement], losing-friends [relationships], 2-signs-wealthy). Ledger:
+L2=501. These clips had published=NA → dated from captions. Next: continue @AlexHormozi P2 (174 left).
+
 ## [2026-07-09] lint | Synthesis pass 15 — biography/beliefs pass (father story, spending-seasons) + system-prompt v17
 
 Loop iteration 66 (synthesis, biography-focused). 2 parallel agents + recompile (no new topic pages):
