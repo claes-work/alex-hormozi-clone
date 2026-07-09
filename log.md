@@ -4602,3 +4602,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,334). youtube-index/index/footer updated.
 Synthesis notes: ecom-B2C-before-B2B-pivot/UGC-volume/customer-list-intros; gym-retention-five-horsemen/consumption/tribe-approximation/check-in-caveat; in-on-above-business/one-thing-focus/nine-company-stress/business-buying-skill-warning; evidence-over-confidence/domain-specific-confidence/practice-over-affirmation; books-as-legacy-not-monetization; finite-vs-infinite-games/business-as-play/death-awareness; vendor-values-bar/fractional-skill-gap-or-bandwidth/build-in-house; best-worst-advice/focus/anti-inheritance/equal-opportunity.
+
+## [2026-07-09] ingest | yt batch 179 - @MoreMozi P2 (2026-04-22 to 2026-04-23), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-23** `yt-jei4QIp_FVw` - creator-led business tradeoffs: low CAC and product
+  obsession versus key-person risk; backfill with affiliates and approved faces.
+- **2026-04-23** `yt-OyIYsKzPBHw` - accounting-service growth: reclaim founder time,
+  scale proven LinkedIn acquisition, and survive the swamp.
+- **2026-04-23** `yt-uMgNfgPPMCQ` - regulated medical offer: use referral/distribution
+  nodes and avoid distracting service expansion.
+- **2026-04-23** `yt-r9nRQJWZQWc` - real friends react well to wins; advice should come
+  from people with bigger dreams for the person's life.
+- **2026-04-23** `yt-ackX7jNs73s` - brand as persuasion at scale, personal-brand context,
+  and free information producing larger absolute impact.
+- **2026-04-23** `yt-3Cyh6y9qjGc` - referral-channel buildout: niche only to solve an
+  efficiency problem and make the CPA affiliate offer irresistible.
+- **2026-04-23** `yt-ZSVeRZkMbKk` - side quests can help visionary founders if they are
+  additive and do not drain the main business.
+- **2026-04-22** `yt-ehspvdEhkaY` - entrepreneurship as fast feedback-loop development,
+  traits as skill bundles, and education as behavior change.
+
+Ledger 8->L2 (L2 now 1,342). youtube-index/index/footer updated.
+Synthesis notes: creator-business-key-person-risk/affiliate-approved-face-backfill/Dave-Ramsey-model/ACQ-not-planned-for-sale; swamp-stage/business-debt-types/six-hours-promotion/LinkedIn-proven-channel; regulated-offer-referral-nodes/missed-opportunities-vs-problems/distraction-risk; real-friends-win-reaction/bigger-dream-advice/Leila-tactical-alignment/uncapped-upside; brand-persuasion-at-scale/context-carries-message/free-information-impact/ACQ-deal-selectivity; niching-as-efficiency/never-stop-buying-selling/irresistible-affiliate-offer/CPA-journey-integration; side-quests-for-visionary-founders/books-additive-to-ACQ/no-resource-drain; entrepreneurship-feedback-loop/traits-as-skills/useful-goal/education-behavior-change/intelligence-rate-of-learning.

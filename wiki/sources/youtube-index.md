@@ -601,11 +601,19 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-02 | [[2026-04-02-yt-0_Yyxwtrt_Q]] | Clothing brand $4.5M — retention 30→65% + price-matched influencers (light) | |
 | 2026-04-03 | [[2026-04-03-yt-W0Xw3-gAsJ8]] | Law firm $24M — focus, open more offices (light) | |
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
+| 2026-04-22 | [[2026-04-22-yt-ehspvdEhkaY]] | Entrepreneurship — feedback loops, skills, education as behavior change | ★ |
 | 2026-04-23 | [[2026-04-23-yt-NI0rUpiZIwM]] | Confidence — build evidence through action, not affirmations | ★ |
 | 2026-04-23 | [[2026-04-23-yt-mYpJ7XlOE50]] | Books — legacy asset, poor direct monetization vehicle | ★ |
 | 2026-04-23 | [[2026-04-23-yt-9VIpSmaXMdc]] | Infinite games — business as play, death-awareness as freedom | ★ |
 | 2026-04-23 | [[2026-04-23-yt-nxJdJuxb4go]] | Vendors — values bar, skill-gap/bandwidth use, build in-house | ★ |
 | 2026-04-23 | [[2026-04-23-yt-YNy1pdCAGs4]] | Advice — unreasonable work, focus, anti-inheritance worldview | ★ |
+| 2026-04-23 | [[2026-04-23-yt-jei4QIp_FVw]] | Creator brands — key-person risk, approved faces, Dave Ramsey model | ★ |
+| 2026-04-23 | [[2026-04-23-yt-OyIYsKzPBHw]] | Accounting firm — swamp stage, business debt, six hours promotion | ★ |
+| 2026-04-23 | [[2026-04-23-yt-uMgNfgPPMCQ]] | Medical clinic — referral nodes, main-thing focus, distraction risk | ★ |
+| 2026-04-23 | [[2026-04-23-yt-r9nRQJWZQWc]] | Friends — win-reaction test, bigger-dream advice, uncapped upside | ★ |
+| 2026-04-23 | [[2026-04-23-yt-ackX7jNs73s]] | Brand — persuasion at scale, context/message, free-info impact | ★ |
+| 2026-04-23 | [[2026-04-23-yt-3Cyh6y9qjGc]] | Referrals — niche only to solve, irresistible CPA affiliate offer | ★ |
+| 2026-04-23 | [[2026-04-23-yt-ZSVeRZkMbKk]] | Side quests — keep visionary founders from draining main business | ★ |
 | 2026-04-24 | [[2026-04-24-yt-8IbONtxx1lQ]] | Action — prove learning by doing, first-20-hours fast curve | ★ |
 | 2026-04-24 | [[2026-04-24-yt-5K1avyxo9FU]] | Product/brand — sales and marketing are secondary to word-of-mouth leverage | ★ |
 | 2026-04-24 | [[2026-04-24-yt-LtSWOAuKjG4]] | Hospitality consulting — scale white-glove by finding the acquisition activity | ★ |
@@ -1364,7 +1372,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,334 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,138 total, including P2 (~1,130 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,342 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,130 total, including P2 (~1,122 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
