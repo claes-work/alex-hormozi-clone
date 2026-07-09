@@ -14,6 +14,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | Date | Page | Topic | ★ |
 |---|---|---|---|
 | 2018-07-20 | [[2018-07-20-yt-aiS5qH7UMX4]] | 2018 gym-launch clip — "sell anywhere", $500 bills, hands-on operator era (bio) | ★ |
+| 2020-10-01 | [[2020-10-01-yt-_tF3ODk56hg]] | COVID address to the gym industry — pivot-to-remote thesis (gym-era) | |
+| 2020-10-01 | [[2020-10-01-yt-PZjJEQMgyMM]] | "Met Arnold 4 times" — "hatred is a condition of success" (bio) | ★ |
+| 2020-10-06 | [[2020-10-06-yt-3ktgTBNlg7M]] | Flip my 6 gyms to remote playbook — $30k/mo/gym; accountability>workouts (bio) | |
+| 2020-10-08 | [[2020-10-08-yt-hnfh2jqNVEQ]] | Pricing lessons from a PE god (Marcos Rivera/Vista) — score customers by value | |
+| 2020-10-13 | [[2020-10-13-yt-Kk6Vdfdwmxw]] | 5 ways to increase lead quality (targeting/steps/offer/application/value-first) | |
+| 2020-10-15 | [[2020-10-15-yt-JOY6ZzBMb_4]] | Simple operational framework — outcomes→activities→time→inflow→calendar | |
+| 2020-10-20 | [[2020-10-20-yt-YQZK6JVkl4c]] | Leveling up / why we get stuck — skills→lens→character; "do fewer things" | |
+| 2020-10-22 | [[2020-10-22-yt-iwskrByMIqo]] | Win sales without being skilled — care>technique, "commission breath" | |
 | 2020-11-05 | [[2020-11-05-yt-pxVeOkOVr2w]] | The Offer Is King — proto-Grand-Slam-Offer; working book title "Acquire" | ★ |
 | 2020-12-03 | [[2020-12-03-yt-bgmh7p1s7zs]] | 20+ sales team — CLOSER framework + 5 Cs sales ops | ★ |
 | 2020-12-08 | [[2020-12-08-yt-XZEjp2mP1U0]] | Scale fast — "pi equation" proto-LTGP:CAC (rev 3:1), golden ratio | ★ |
@@ -590,7 +598,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_560 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_568 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

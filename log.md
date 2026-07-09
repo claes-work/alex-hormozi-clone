@@ -1671,3 +1671,33 @@ Ledger 5→L2 (L2 now 560), 2→L1 (no-captions). youtube-index/index/footer upd
 is now exhausted** (bar 1 429-retry + 2 no-captions). Next: @AlexHormozi P2 tier (122 rows). **Synthesis
 backlog:** tax anti-shelter/depreciation → tax-free-liquidity (dated); work/life-balance signature belief;
 "season of no" → mindset.
+
+## [2026-07-09] ingest | yt batch 76 — @AlexHormozi P2 begins (2020-10 gym-era), 8 videos
+
+First @AlexHormozi P2 batch. These 2020-10 uploads are the OLDEST in the whole @AlexHormozi corpus
+(pre-dating the earlier-ingested 2020-11 "Offer Is King"). 1 video unavailable/removed
+(yt-SvIcS-Q1Hl4 → L1), 1 429'd (yt-4PX-hE6LTSU → L1 retry). Used the light-bundle pattern
+(6 agents / 8 pages) for the overlapping gym-ops content.
+
+- **2020-10-01** `yt-_tF3ODk56hg` + **2020-10-06** `yt-3ktgTBNlg7M` — COVID-onset Gym-Launch pivot:
+  flip his **six gyms to 100% remote** (~$30k/mo recurring per gym → ~$100k/mo profit), break leases,
+  free-trial front end + supplement upsell + weekly continuity ($39/$49/$59), "no one cares about the
+  workouts, they pay for accountability," sell "hope" while lead costs were 50–75% off.
+- **2020-10-01** `yt-PZjJEQMgyMM` "Met Arnold 4 Times" — ⭐ **BIO:** met Schwarzenegger 4× by Oct 2020
+  (a ~2-hr breakfast, a house visit ~mid-Sept 2020). Lesson: "hatred is a condition of success" — scale
+  attracts haters by law of large numbers; operate on your own plane. (No verbatim Arnold quotes.)
+- **2020-10-08** `yt-hnfh2jqNVEQ` "Pricing from a PE God" — the PE figure is **Marcos Rivera** (ex-Vista
+  Equity pricing head; captions garble to "Marcus"). Lesson: score customers by value, amplify the
+  high-LTV "vein", qualify the front end, mine churned customers, sell on bottom-25% results.
+- **2020-10-13** `yt-Kk6Vdfdwmxw` "5 Ways to Increase Lead Quality" — targeting / #steps / offer /
+  application / value-first (proto lead-magnet thinking).
+- **2020-10-15** `yt-JOY6ZzBMb_4` "Simple Operational Framework" — outcomes → activities → time-per-
+  customer → × inflow → calendar-block per role (proto org-design/value-ladder).
+- **2020-10-20** `yt-YQZK6JVkl4c` "Leveling Up / Why We Get Stuck" — skills → change-of-lens →
+  character traits; late-stage constraint is discipline vs temptation ("woman in the red dress");
+  "successful at anything you want, just not everything."
+- **2020-10-22** `yt-iwskrByMIqo` "Win Sales Without Being Skilled" — care > technique (buyers smell
+  "commission breath"); proto conviction/belief-continuum + skills→character→beliefs model.
+
+Ledger 8→L2 (L2 now 568), 2→L1 (unavailable/429). youtube-index/index/footer updated. @AlexHormozi P2:
+~112 rows remain. **Synthesis backlog:** Arnold + six-gyms-remote + Marcos-Rivera bio/context beats.
