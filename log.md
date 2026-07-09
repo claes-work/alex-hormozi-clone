@@ -2851,3 +2851,28 @@ the 8 successful rows were ingested as L2.
 
 Ledger 8→L2 (L2 now 869). youtube-index/index/footer updated. @MoreMozi P2: ~1,570 rows remain.
 Synthesis notes: RFP case-study close and value-frame decommoditization; upside/downside livability filter; warm-to-cold sales process duplicate; done-for-you/biz-op risk and franchise/legit-partner replacement; med-spa membership/utilization/injector retention model; one-business focus with negotiation leverage; pool-service payback-speed and speed-to-lead capacity loop.
+
+## [2026-07-09] ingest | yt batch 113 — @MoreMozi P2 (2026-06-06 to 2026-06-07), 8 videos
+
+Twenty-sixth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again
+during caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-07** `yt-lJ6jkoD5ApA` "Helping a $3M Balloon Arch Business Fix Their Offer" — balloon decor:
+  corporate avatar focus, productized packages, value-based pricing, and global value frame.
+- **2026-06-07** `yt-OulGPT2kZ7c` "TikTok Shop Has a Hidden $200M Loophole" — creator community:
+  no capital raise, creator/influencer trust as growth lever, and blended membership/transaction model.
+- **2026-06-07** `yt--G08--_mZaU` "The Cobbler's Shoes Problem Killing Your Agency Growth" — performance agency:
+  raise prices or hire capacity, scale-zero founder replacement, and talent/brand reinvestment.
+- **2026-06-07** `yt-TaeBazpcRk8` "He Can Double His Business Tomorrow and Won't" — local HRT practice:
+  strong CAC/LTV but high churn; fix customer success and activation before increasing ad spend.
+- **2026-06-07** `yt-UmBWqjwfgtA` "He Makes $4M Tax-Free but Can't Scale" — UAE sales firm:
+  recruit agents, document scripts, and shift from sales god to sales-training god.
+- **2026-06-06** `yt-C7t6IIPr4QY` "The Best Business to Start With No Money" — no-capital startup:
+  performance-based headhunting and local customer-acquisition arbitrage.
+- **2026-06-06** `yt-rqJM6mFhyes` "$3M Med Spa Owner Wants to Scale to $20M" — med spa:
+  diagnose SDE/cash flow, hire a physician, and buy back founder delivery time before sales fixes.
+- **2026-06-06** `yt-Ok8cv-ivKIw` "Why I'm Rolling Up 50 Med Spas Instead of Exiting" — med spa roll-up:
+  delegate locations with operator incentives and the phone-does-not-ring accountability test.
+
+Ledger 8→L2 (L2 now 877). youtube-index/index/footer updated. @MoreMozi P2: ~1,562 rows remain.
+Synthesis notes: corporate productization and value-based pricing; creator/influencer trust as platform growth lever and anti-capital-raise stance; low-capex service reinvestment into talent/brand plus scale-zero delegation; HRT churn/customer-success constraint; sales-god to sales-training-god identity shift; no-capital performance/headhunting/customer-acquisition model; med-spa founder-delivery buyback; operator incentive/phone-does-not-ring roll-up delegation.
