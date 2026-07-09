@@ -4222,3 +4222,30 @@ investment attention cost, personal safety trampoline, risk posture, and no-art 
 retention context in `wiki/topics/business/retention.md`. No persona files changed, so
 `persona/system-prompt.md` remains v25; advanced the synthesis high-water mark to batch 164. Dropped
 batches 159-164 as non-Alex GymLaunch Kale/staff/guest/client triage.
+
+## [2026-07-09] ingest | yt batch 165 - @MoreMozi P2 (2026-05-05 to 2026-05-06), 8 videos
+
+Resumed @MoreMozi P2 after completing and synthesizing the small channels. The driver selected 10
+rows; 8 caption fetches succeeded and 2 remained open for retry (`yt-JfKwIbvdKtA`,
+`yt-EnGrM5slXO4`). All 8 OK rows were Alex-attributed MoreMozi coaching/content clips and were
+ingested as L2.
+
+- **2026-05-05** `yt-yEwdgWDXlyo` - YouTube description/about-page credibility: origin story,
+  stranger trust, and "don't brag, state facts."
+- **2026-05-05** `yt-v1uoKmNAOl4` - pivoting doom cycle, opportunity debt, compounding from
+  staying with one vehicle, and the "everything has problems" attribution to Suzanne Schiffler.
+- **2026-05-06** `yt-3Ttwj8cdR40` - move-mountains effort standard, hundreds of reps, and
+  backward pricing from assumed success.
+- **2026-05-06** `yt-2iqDp4RXRYI` - strategy as opportunity curation plus prioritization under
+  limited resources.
+- **2026-05-06** `yt-sJckXfyCgxU` - content for tax/business services: stakes, real-client
+  demonstration of expertise, and 20-50 audit calls/month as value-add plus marketing.
+- **2026-05-06** `yt-IqM3pSiAPQE` - temporary youth-status positioning, durable excellence, and
+  fast-to-long reinforcement loops for education products.
+- **2026-05-06** `yt-wmOqyOBlpWo` - tight long-form intros, topic-specific credibility, and
+  origin-story descriptions.
+- **2026-05-06** `yt-Vpb1xfOTCss` - community as whole business, nurture vehicle, or delivery
+  feature; Gym Launch/Skool Games caveat and functional-not-legal franchise clarification.
+
+Ledger 8->L2 (L2 now 1,230). youtube-index/index/footer updated.
+Synthesis notes: move-mountains-effort-standard/hundreds-of-reps/backward-price-from-success; strategy-as-opportunity-curation-plus-prioritization; AI-era-demonstration-of-expertise/real-client-stakes/20-50-audits-content-engine; youth-status-decay/durable-excellence/elongated-reinforcement-loops; long-form-intro-topic-specific-credibility/origin-story-description; community-whole-business-vs-nurture-vs-delivery/GymLaunch-Skool-functional-not-legal-franchise; YouTube-description-stranger-credibility/dont-brag-state-facts; pivoting-doom-cycle/uninformed-optimism-informed-pessimism-valley-of-despair/opportunity-debt/stick-with-it/Suzanne-Schiffler-everything-has-problems.
