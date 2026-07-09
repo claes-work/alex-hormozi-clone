@@ -2901,3 +2901,28 @@ during caption fetch and remain open for retry; the 8 successful rows were inges
 
 Ledger 8→L2 (L2 now 885). youtube-index/index/footer updated. @MoreMozi P2: ~1,554 rows remain.
 Synthesis notes: observable-language offer clarity and win-your-money-back mechanics; tattoo education-vs-exit path with consumable stickiness; nail salon franchise unit-model/founder-media dependence and training bottleneck; agency proof-gap/free-trial-plus-penalty path to low-cost or whale endpoints; centers-of-influence as primary customers with affiliate launch/integration; outbound-before-ads and sell-warm-like-cold sales discipline.
+
+## [2026-07-09] ingest | yt batch 115 — @MoreMozi P2 (2026-06-04 to 2026-06-05), 8 videos
+
+Twenty-eighth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again
+during caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-05** `yt-7w1HQAvlLZk` "How We Trained Sales Teams Across Thousands of Gyms" — financial-advisor sales coaching:
+  Gym Launch boiler-room cadence, activation, avatar filtering, and consumables vs one-time skill.
+- **2026-06-05** `yt-lqKx0GDHFX8` "Never Give Real Equity (Do This Instead)" — agency leadership incentives:
+  profit-share pool, sale bonus, equity's four components, and avoiding real shares.
+- **2026-06-05** `yt-bYGRh4ZOdUo` "Scaling a $50M Pest Control Company to $1B" — pest control:
+  granular career ladder, title/pay/perk rungs, and early retention reinforcement.
+- **2026-06-05** `yt-2PfbKVGNgPM` "Fixing a Sales Agency With a 40% Cancellation Rate" — electricity plans:
+  cancellation as expectation-setting problem around known fulfillment delays.
+- **2026-06-04** `yt-R5Ay82ZvwWM` "Hormozi Reveals the Marketing Lie Costing You Leads" — lead generation:
+  marketing as filtration, advanced-avatar lead magnets, and LTV/CAC over CPL.
+- **2026-06-04** `yt-6WPNzaWuAic` "He Buys Businesses but Can't Make Them Grow" — buy-and-hold software:
+  founder/operator quality, buying bigger better businesses, and Alex's self-reported acquisition lesson.
+- **2026-06-04** `yt-2Abd02X4PnA` "The 4-Part Framework to Build Influence (SPCL)" — influence:
+  status, power, credibility, likeness, and influence as request-compliance probability.
+- **2026-06-04** `yt-4J_Bo4Dbxjk` "My Best Store Is Dying and My Team Blames the Economy" — golf retail:
+  key-person loss, talent bar, and not mistaking undertalent for market saturation.
+
+Ledger 8→L2 (L2 now 893). youtube-index/index/footer updated. @MoreMozi P2: ~1,546 rows remain.
+Synthesis notes: Gym Launch boiler-room sales-training cadence and consumables-vs-skill continuity; equity alternatives with four-component equity frame; micro-promotion retention ladder; expectation-setting cancellation fix; marketing-as-filtration and advanced-avatar economics; buy-and-hold founder/operator quality plus 24-acquisition self-report; SPCL influence framework; hiring bar/key-person loss in brick-and-mortar retail.
