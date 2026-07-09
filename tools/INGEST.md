@@ -74,6 +74,26 @@ Then:
 > `-m` argument get word-split by PowerShell and break the commit. Keep commit messages
 > free of embedded `"` quotes (this bit us twice). In bash/Codex this is not an issue.
 
+## Running a batch in Codex / Pi (no slash commands)
+
+`/loop` and `/ingest-loop` are **Claude Code only** (self-scheduling + `.claude/` skills).
+In Codex/Pi there are no slash commands and no unattended scheduling — you drive batches with a
+plain instruction. Paste this as the session opener (adjust channel/count):
+
+```
+Read AGENTS.md and tools/INGEST.md. Then run one ingest batch:
+run  python tools/ingest_batch.py prepare --channel @MoreMozi --n 10
+For each OK video in the work order, read its transcript and write the wiki/sources page
+under the fidelity rules. Then set each ledger row to L2 (tools/ledger_set.py), insert the
+rows into wiki/sources/youtube-index.md in date order, bump the footer + index.md counts,
+append one log.md entry, and commit + push. Then repeat for the next batch until I say stop.
+```
+
+- To run several batches back-to-back without prompts, use Codex's full-auto approval mode (with
+  the workspace-write sandbox + **network enabled** — yt-dlp and `git push` need it).
+- There is no "run while I'm away" like Claude's scheduled loop; it runs while the session is open.
+- No parallel sub-agents in Codex/Pi → videos are processed sequentially (slower, same quality).
+
 ## Notes
 - `raw/` is gitignored (copyrighted transcripts). The script only reads/writes there + the ledger.
 - Every batch ends in a pushed commit, so an interruption loses at most the current batch; the
