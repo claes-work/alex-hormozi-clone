@@ -3325,3 +3325,29 @@ ingested as L2.
 
 Ledger 8→L2 (L2 now 1,013). youtube-index/index/footer updated. @MoreMozi P2: ~1,426 rows remain.
 Synthesis notes: follow-your-passion critique and pain-as-price-tag; funnel friction/qualified-throughput and save-worthy ads; perfect-pick fallacy/trade-off realism/use-what-you-have; criticism fixed cost, closest-to-goals feedback and shutdown-day learning; more-better-new/new-risk/give-time-time/Gym-Launch director turnover/third-marshmallow; halfway rollover-credit upsell; paid-content merger with organic winners as ads; family criticism good-don't and you're-right defusion.
+
+## [2026-07-09] ingest | yt batch 131 — @MoreMozi P2 (2026-05-20), 8 videos
+
+Forty-fourth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry; the 8 successful rows were
+ingested as L2.
+
+- **2026-05-20** `yt-GVuIX5xtvLc` "Judge Yourself by Your Actions, Not Your Thoughts" — identity:
+  actions-over-thoughts, traits as continua, evidence, and proof-based identity.
+- **2026-05-20** `yt-iClReCOmXGk` "Why You Should Start with Income-Generating Skills" — beginners:
+  track/convert/deliver, passion/profession/pain, and services as low-risk starter.
+- **2026-05-20** `yt-bZB79JdaX_A` "My Family's Intervention Went Horribly Wrong" — criticism:
+  family-intervention overlap, good-don't, you're-right, and game-refusal interpretation.
+- **2026-05-20** `yt-Lr8_788oq5E` "They Can't See You Because You're Already Successful" — revenge:
+  Mr. Given lifting origin, success-is-the-only-revenge, and win into irrelevance.
+- **2026-05-20** `yt-581kQNbACQw` "The Real Math Behind a $27/Month Membership" — membership:
+  annual-only event offer, bonus stack, monthly mop-up, and physical-product premium.
+- **2026-05-20** `yt-Jx3JzJsGcos` "Why I Believe Earning Less Than Someone Else Can Be a Blessing" — envy:
+  Kylie Forbes trigger, learn from higher earners, and brand/content origin.
+- **2026-05-20** `yt-94ihFyYGEds` "The Problem with Wanting to be a Millionaire, Not the Climb" — wealth:
+  view-without-climb, become the person, win daily, and milestones fading.
+- **2026-05-20** `yt-igR389AeBJg` "If You're at Zero, Here's What You Need" — zero-to-one:
+  courage over tactics, father dream, leaving consulting, and failure-over-cowardice.
+
+Ledger 8→L2 (L2 now 1,021). youtube-index/index/footer updated. @MoreMozi P2: ~1,418 rows remain.
+Synthesis notes: actions-over-thoughts/proof-based identity; beginner income skills and three-P business sourcing; family-intervention/game-refusal overlap; success-is-only-revenge origin with Mr. Given lifting story; $27 membership annualization/mop-up/physical premium; Kylie Forbes brand-origin and learning-from-envy; millionaire climb/become-the-person frame; zero-to-one fear, father dream, consulting exit, and failure-over-cowardice self-report.
