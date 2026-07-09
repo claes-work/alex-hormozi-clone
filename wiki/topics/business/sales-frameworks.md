@@ -4,7 +4,7 @@ domains: [business]
 created: 2026-07-08
 updated: 2026-07-09
 tags: [sales]
-sources: 19
+sources: 21
 ---
 
 # Sales Frameworks
@@ -606,6 +606,20 @@ of the better experience [[../../sources/2026-06-26-yt-zzleYxkf39k]].
 
 > "I've never been in the price matching game my whole life. I'd rather just be in the value surpassing game."
 > [[../../sources/2026-06-26-yt-zzleYxkf39k]]
+
+## 11. April-May 2026 Q&A refinements: close-rate pricing and menu close
+
+Hormozi restates the pricing diagnostic in simpler live-coaching terms: raise price until
+roughly one in three qualified prospects buys. A close rate much higher than that often
+signals underpricing or too little conviction in the value being sold; for service offers,
+he also likes an upfront fee when it lets the business recoup acquisition and onboarding
+costs before service delivery begins [[../../sources/2026-05-01-yt-CbiqQOYQwa4]].
+
+For high-ticket med-spa services, he applies an **ideal-plan / menu-close** frame: sell the
+front-end treatment that gets the buyer in motion, then present the expected-value upside
+of the full plan as a menu of logical next steps. The close is not "do you want more?"
+but which path best matches the outcome they already said they wanted
+[[../../sources/2026-04-27-yt-KCN3v3cjwvw]].
 
 ## Related pages
 

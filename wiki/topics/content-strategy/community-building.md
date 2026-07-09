@@ -346,6 +346,40 @@ and other logistics where members can help each other. The durable loop is
 member-to-member reinforcement that survives even when the host is less central
 [[../../sources/2026-05-07-yt-IkRG1lha-GU]].
 
+### 2026 Q&A refinement: free-to-paid ascension and unscalable early activation
+
+In April-May 2026 coaching cuts, Hormozi adds a more granular free-to-paid operating
+sequence. For a community with an engaged free base, he recommends converting the most
+active members into a paid free trial rather than splitting the paid group away from the
+living free room too early [[../../sources/2026-05-05-yt-YHA8KJFytIQ]]. The launch cadence
+is a 4-6 week promotion-first ramp: tell members the paid version is coming, move from
+quiet "whispers" to louder promotion, and use the free period to create urgency and social
+proof before the paid offer opens [[../../sources/2026-05-04-yt-4n4iSAhvF00]].
+
+He also distinguishes three community-builder paths -- pain, profession, and passion --
+and treats a free trial as gross merchandise volume rather than a vanity metric: it is a
+conversion point that proves enough demand to keep improving the group
+[[../../sources/2026-05-05-yt-XH5DbavDfNI]]. A separate ascension clip names four places
+to convert: free community to trial, trial to paid, paid to higher help, and paid members
+to referrals or reactivation [[../../sources/2026-04-28-yt-E_33PAl0AHo]].
+
+For engagement, his prescription remains deliberately unscalable at the beginning:
+personally DM members for permission to matchmake them, prompt picture posts, and create
+small peer interactions that make the room feel alive before automation or scale
+[[../../sources/2026-05-01-yt-L2rFSqxVFlw]],
+[[../../sources/2026-04-30-yt-FsOYmruUaZ8]].
+
+### 2026 Q&A refinement: sell personalization, not information
+
+Across the same run, he repeats the content/community monetization rule in a paid-community
+context: give away information and charge for personalization, troubleshooting, access,
+and implementation [[../../sources/2026-05-01-yt-tJFqLdBAaIA]]. That makes one-to-small-group
+delivery a bridge product: it preserves enough personal application to be valuable while
+creating better economics than pure one-to-one work
+[[../../sources/2026-04-30-yt-w9rzkvlMTj4]], and it explains why a free call can ethically
+pitch the paid layer as the place where generic resources get applied to the member's
+specific constraints [[../../sources/2026-04-27-yt-RPxzxc_YgFE]].
+
 ---
 
 ## The "community as skeleton key" — access leverage

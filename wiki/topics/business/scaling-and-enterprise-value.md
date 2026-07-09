@@ -4,7 +4,7 @@ domain: business
 domains: [business, wealth]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 17
+sources: 21
 tags: [scaling, enterprise-value]
 ---
 
@@ -517,6 +517,28 @@ operator has seen enough roles and failure modes, a second business can assemble
 right people faster than the first. This is not magic compounding; it is reused judgment
 about who belongs in which seat and what a role should produce
 [[../../sources/2026-05-08-yt-JgzGbEkr_yM]].
+
+## 9d. April 2026 Q&A refinements: EV characteristics, second locations, and leadership comp
+
+**Enterprise value is a bundle of characteristics, not a SaaS label.** In an April 2026
+MoreMozi cut, Hormozi cautions against treating "software" as the magic valuation word.
+The valuable traits are high gross margin, durable retention, growth, low founder
+dependence, and low risk; a non-software business with those traits can be valuable, and
+a SaaS business without them is not [[../../sources/2026-04-27-yt-Asy7IqieUho]]. This
+reinforces the 2023 ten-criteria model above rather than replacing it.
+
+**Second-location test for brick-and-mortar.** Before opening another location, he wants
+proof that the first can run without the founder for about six months while maintaining or
+growing profit. Only then does the owner have evidence of a replicable unit. His expansion
+checklist in the same clip includes manager incentives, a grand-opening plan, market-level
+CAC research before signing a lease, and a sober corporate-vs-franchise comparison
+[[../../sources/2026-04-30-yt-X_EDIO-6iO0]].
+
+**Leadership compensation should create push-pull control.** In a coaching-company call,
+he describes a comp architecture built from profit-share pools plus quarterly objectives.
+The point is not to pay for one unstable KPI; it is to combine company-wide economics with
+individual objectives and paired push/pull metrics so leaders do not optimize one number
+while breaking the system around it [[../../sources/2026-04-27-yt-zydvAjhEKBA]].
 
 ## Cross-cutting throughlines
 

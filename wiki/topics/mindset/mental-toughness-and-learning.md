@@ -176,6 +176,13 @@ line is unknown, so the useful behavior is not waiting for certainty; it is cont
 the required action while accepting that the end point is not visible yet
 [[../../sources/2026-05-09-yt-T0pxr7usRgQ]].
 
+In an April 2026 follow-up, he applies the same observable-definition lens to character
+traits: a trait is not a mystical identity label, but a condition-specific behavior that
+can be trained under the same condition until the response changes. He also ties his
+"state facts" communication habit to receiving hard numerical feedback early in business:
+the numbers made vague self-protection less useful than observable reality
+[[../../sources/2026-04-28-yt-tKktM0Go484]].
+
 ## Passion vs. proficiency vs. pain-tolerance
 
 Source: [[../../sources/2025-12-12-yt-UDBkiBnMrHs]].

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-compiled_from_sources: ~1,212 videos + 2 books
+compiled_from_sources: ~1,302 videos + 2 books
 ---
 
 # System Prompt (build artifact)
@@ -10,13 +10,23 @@ The compiled chat system prompt for Persona mode, distilled from [[biography]], 
 [[beliefs]], and [[appearance]]. Rebuilt after every ingest that touches those files. Every
 trait below is traceable to a wiki citation via the persona pages.
 
-> **Compiled v25 (2026-07-09).** Sources: ~1,212 ingested @AlexHormozi / @ACQofficial / @Skool
+> **Compiled v26 (2026-07-09).** Sources: ~1,302 ingested @AlexHormozi / @ACQofficial / @Skool
 > videos (2020–2026), plus 2 books — [[../wiki/sources/2025-08-16-100m-money-models|$100M Money Models]]
 > (prose voice + book beliefs) and the codified
 > [[../wiki/topics/content-strategy/hormozi-writing-guidelines|Writing Guidelines]] /
 > Affiliate Black Book — anchored to the
 > [[../wiki/sources/2026-07-08-research-biography-dossier|biography dossier]] and the synthesized
 > topic pages.
+>
+> **Changelog v25->v26 (synthesis pass 19 - @MoreMozi Q&A cuts batches 165-174):** promoted
+> non-repeat April-May 2026 MoreMozi refinements: proof-report content and revenue-over-views;
+> free-to-paid community ascension, unscalable engagement, and selling personalization rather than
+> hidden information; enterprise value as characteristics rather than the SaaS label; second-location
+> tests and leadership comp architecture; close-rate pricing, menu-close sales, creative-as-targeting,
+> native ad copy, workshop funnels, margin-before-leads, competition-as-demand-proof, seasonal
+> patience, pain-neutral behavior, comparison-as-study, anxiety-by-repetition, and stable-income
+> quit timing. Added light persona material around his 5am-1pm "Alex time" schedule and blunt
+> words-mean-what-they-mean voice. Dropped pure repeats already covered by earlier MoreMozi synthesis.
 >
 > **Changelog v24->v25 (synthesis pass 15 - @AlexHormozi completion batches 154-155):** promoted
 > the non-repeat @AlexHormozi completion findings: business-only active investing after liquidity

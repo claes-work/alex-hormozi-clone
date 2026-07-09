@@ -433,6 +433,23 @@ all — high margin is the enabling condition. See [[business]] and
   integration into the brokerage's moving packet or process, with the brokerage able to offer a
   VIP/white-glove upgrade to its customers [[../../sources/2026-06-26-yt-zzleYxkf39k]].
 
+## April 2026 Q&A refinements: creative as targeting and event funnels
+
+- **Creative/message becomes targeting when demographic targeting is blocked.** In a
+  religious-niche advertising example, Hormozi says the platform may not let the seller
+  target the exact group directly, so the targeting moves into the ad itself: setting,
+  props, language, visual cues, and problem framing attract the intended buyer and repel
+  others [[../../sources/2026-04-27-yt-rCIhlLQhOhA]].
+- **Ads should feel native to the platform.** In an April 2026 ad critique, he recommends
+  removing ad-looking markers such as excess emojis, leading with pain or the benefit of
+  the benefit, using simple analogies, and writing at a very low reading level so the ad
+  feels like useful native content rather than a banner [[../../sources/2026-04-28-yt-QKwbR9y34I0]].
+- **Legal-services workshop funnel.** For a high-ticket legal-services offer, he suggests
+  a workshop funnel where social ads drive local prospects to an in-person event, then the
+  firm sells from the room. His rough operating heuristics in that context: a 20-25% show
+  rate and about one-third close rate can make the funnel work if the economics fit
+  [[../../sources/2026-04-29-yt-dmJopOfu3zE]].
+
 ---
 
 ## Sources

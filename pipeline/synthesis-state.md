@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 164** — synthesis pass 18, system-prompt **v25** (2026-07-09).
+Synthesized through: **batch 174** — synthesis pass 19, system-prompt **v26** (2026-07-09).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -15,6 +15,15 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 165-174** — synthesis pass 19 (2026-07-09) →
+      system-prompt **v26**. Promoted genuinely new April-May 2026 MoreMozi refinements:
+      proof-report content/revenue-over-views, free-to-paid community ascension and
+      personalization monetization, EV-as-characteristics, second-location and leadership-comp
+      operators, close-rate/menu-close sales, creative-as-targeting/native ad/workshop funnels,
+      margin-before-leads, competition-as-demand-proof, seasonal patience, and pain/comparison/
+      anxiety/quit-timing mindset frames. Added light persona updates for 5am-1pm "Alex time"
+      and blunt words-mean-what-they-mean voice. Dropped repeats already covered by prior
+      MoreMozi synthesis.
 - [x] **@GymLaunch completion — batches 158-164** — synthesis pass 18 (2026-07-09) →
       system-prompt **v25** unchanged. Promoted the genuinely new Alex-attributed
       material from batch 158 into topics: existing-client referral diagnostics,

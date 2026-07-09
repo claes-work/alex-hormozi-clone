@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-09 (@MoreMozi batch 174; 1,302 L2 videos ingested)_
+_Last updated: 2026-07-09 (@MoreMozi batch 174; 1,302 L2 videos ingested; system-prompt v26)_
 
 ## Sources
 
@@ -80,9 +80,9 @@ Domain hubs (full page list lives on each hub):
 
 - [persona/biography.md](persona/biography.md) — Dated timeline 1989–2025 with confidence markers (**48 sources** — father/refugee story, United Fitness + first-gym figures, granular first-gym hardship, philanthropy/estate-plan cluster, Leila airport-recruitment, book-trilogy origin, Goodwill shift, mother Florence's death ~Sep 2025, **DOB ~Aug 1989**, competitive-bodybuilding background, Kylie-Forbes turning point, tracked contradictions).
 - [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + 2026 Q&A operator language + a borrowed-lines (not-his-coinages) section.
-- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**106 sources**); enriched from the topic pages + P2 synthesis (tax-free-liquidity 2021→2024 evolution, philanthropy/estate-plan belief, no-legacy, perfect-business, 4-shapes, 6-levels risk ladder, business math, moats, retention, culture, purpose/usefulness, relationships, current AI thesis) with tracked evolutions.
+- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**126 sources**); enriched from the topic pages + P2 synthesis (tax-free-liquidity 2021→2024 evolution, philanthropy/estate-plan belief, no-legacy, perfect-business, 4-shapes, 6-levels risk ladder, business math, moats, retention, culture, purpose/usefulness, relationships, current AI thesis) with tracked evolutions.
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Populated** (1 source): physique/build (~235 lb, signature calves), athletic background; grooming/wardrobe/setting still open (await watch-skill frame sampling).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v25** (~1,212 videos + 2 books) — full business frameworks + wealth/tax evolution + business-only active investing after liquidity + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis; grooming/wardrobe still pending watch-skill sampling.
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v26** (~1,302 videos + 2 books) — full business frameworks + wealth/tax evolution + business-only active investing after liquidity + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis + April-May 2026 MoreMozi community/content/sales/operator refinements; grooming/wardrobe still pending watch-skill sampling.
 
 ## Other
 

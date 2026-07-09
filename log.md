@@ -4483,3 +4483,17 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,302). youtube-index/index/footer updated.
 Synthesis notes: daily-schedule-5am-1pm-Alex-time/Vegas-hub/early-janky-content-workflow/adapt-value-to-context; comparison-as-study-not-envy/criticism-vs-insult/feedback-as-fuel; quit-only-after-new-income-matches/stability-makes-business-fun/constraints; anxiety-as-excitement/practice-until-boredom; med-spa-front-end-upsell-expected-value/menu-close; paid-learning-as-speed/troubleshooting/skill-stacking; missionary-vs-mercenary-longevity/transfer-skill-to-sustain-input; enterprise-value-characteristics-not-SaaS/high-gross-margin-retention-growth.
+
+## [2026-07-09] lint | synthesis pass 19 - @MoreMozi Q&A cuts batches 165-174
+
+Drained the registered checkpoint after @MoreMozi batch 174 and promoted genuinely new
+findings from batches 165-174 into the wiki/persona layer. Updated content-engine,
+community-building, scaling-and-enterprise-value, sales-frameworks, acquisition-channels,
+business-diagnostics, discipline-and-decision-making, and mental-toughness-and-learning.
+Persona updates were limited to dated self-reported schedule/content-process texture,
+one blunt voice marker, and current belief refinements around proof-report content,
+community personalization, EV characteristics, and behavior-over-feeling.
+
+Recompiled persona/system-prompt.md to v26, advanced synthesis high-water mark to batch 174,
+and moved the checkpoint to Done. Dropped pure repeats already covered by earlier MoreMozi
+synthesis passes.

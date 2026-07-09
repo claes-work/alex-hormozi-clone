@@ -4,7 +4,7 @@ domain: content-strategy
 domains: [content-strategy, marketing]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 13
+sources: 16
 tags: [content, media-playbook, volume, hooks, repurposing, personal-brand, give-first]
 ---
 
@@ -310,6 +310,26 @@ moves: record real delivery, do useful work for free when necessary, and let the
 testimonial, or referral compound. The tactic is not abstract education; it is captured
 evidence that the seller can actually create the outcome, which makes it especially
 useful before the seller has status [[../../sources/2026-05-07-yt-Pf68fSIvUk4]].
+
+### 2026 Q&A refinement: proof reports, revenue over views, and hook compression
+
+The later April-May 2026 MoreMozi cuts sharpen this into an operator rule: the strongest
+educational content is often a **report from real work**, not a generic lesson. A founder
+can post "I ran this test; here is what happened," including failed tests, because a failed
+experiment can save the audience time and money. Hormozi self-reports Gym Launch spending
+roughly $50K on two-week tests whose negative results were still valuable to clients
+[[../../sources/2026-04-28-yt-ytudB0vywec]], and separately frames community value as
+doing experiments in public and reporting the outcome [[../../sources/2026-04-29-yt-BdL22_C9UdU]].
+
+For his own media, he also makes the metric hierarchy more explicit: views are not the
+goal if the right buyer is watching. In a highlights-channel discussion, he says one
+operator plus AI can produce many mid-form cuts per day, but the success standard is
+revenue and avatar fit, not generic reach. Narrow, high-value avatar videos can underperform
+on views while still producing the best business result [[../../sources/2026-05-01-yt-NvOvFB4wmXQ]].
+
+Tactically, he restates hook discipline as a first-seconds problem: the opening 5-8 seconds,
+headline, thumbnail, and intro must all pay off the same promise, or the audience leaves
+before the content can teach [[../../sources/2026-04-28-yt-wMdcdkOsq7g]].
 
 ## 7. Engineering hooks from data (the "three wheels")
 

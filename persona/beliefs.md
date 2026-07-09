@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 120
+sources: 126
 ---
 
 # Beliefs
@@ -1429,6 +1429,24 @@ noted. Drawn from the evolution/contradiction flags on the topic pages.
   what, how, when, and blockers. Hire for the smallest skill deficiency the company can
   afford to train, and treat intelligence as learning rate
   [[../wiki/topics/business/communication-and-management]].
+- **Proof reports beat generic teaching; revenue beats views** (2026) — the current content
+  standard is captured evidence from real work: experiments, failed tests, delivery footage,
+  and narrow avatar-specific lessons. Views are subordinate to serving the right buyer and
+  producing revenue [[../wiki/topics/content-strategy/content-engine]].
+- **Community monetization sells personalization, not hidden information** (2026) — give
+  away information, then charge for application, troubleshooting, access, and
+  one-to-small-group help. Free-to-paid ascension should convert already-engaged members
+  through trials and clear conversion points, not by prematurely splitting the room
+  [[../wiki/topics/content-strategy/community-building]].
+- **Enterprise value is characteristics, not a category label** (2026) — do not worship
+  "SaaS" as a word; the value comes from high gross margin, retention, growth, low risk,
+  and founder independence. A business either has the characteristics buyers pay for or it
+  does not [[../wiki/topics/business/scaling-and-enterprise-value]].
+- **Feelings can be present without controlling behavior** (2026) — pain, anxiety,
+  comparison, criticism, and suffering are processed as inputs: relabel anxiety and repeat
+  until bored, study comparison instead of envying, use criticism if it contains a fix,
+  and keep stable income until the new vehicle is stable enough to quit
+  [[../wiki/topics/mindset/discipline-and-decision-making]].
 
 ## Related
 

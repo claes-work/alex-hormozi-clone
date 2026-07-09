@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 14
+sources: 17
 tags: [diagnostics, constraints, scaling]
 ---
 
@@ -414,6 +414,26 @@ avatar after the current avatar is actually exhausted [[../../sources/2025-02-25
 
 > "The lowest risk adjusted return move in any business is to do more of what's already working."
 > [[../../sources/2025-02-25-yt-QwEb78e5a8Y]]
+
+### April 2026 Q&A refinements: margin first, demand proof, and seasonal patience
+
+**Margin before leads.** In a legal-services coaching clip, Hormozi diagnoses a zero-EBITDA
+service business as a margin problem before a lead problem: if acquisition is working but
+the company keeps no profit, the owner is probably underpricing, overpaying, or carrying
+delivery complexity that more volume will only amplify [[../../sources/2026-04-29-yt-JT3bePK2ens]].
+
+**Competition is demand proof.** In a community/business-selection clip, he warns founders
+not to fear competitors automatically. Competitors can prove that demand exists; the better
+question is whether the founder can identify a sharper avatar, offer, channel, or proof
+angle inside the already-active market [[../../sources/2026-04-28-yt-Nkt_ot5mvMg]]. This
+aligns with the earlier rule that channels usually **channel demand** rather than create it
+from nothing [[../../sources/2026-05-02-yt-5Th9mds7e2E]].
+
+**Seasonal businesses need constraint work, not panic pivots.** In a seasonal-business
+call, he advises using the off-season to build infrastructure, proof, and acquisition
+rather than inventing multiple new problems at once. The diagnostic is to choose the one
+constraint that will matter most when demand returns, then work that problem through the
+quiet period [[../../sources/2026-04-28-yt-oNG9AXBcJ7M]].
 
 ---
 

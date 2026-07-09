@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 54
+sources: 55
 ---
 
 # Biography
@@ -75,6 +75,13 @@ essay title **"Everyone believes in the American dream until it comes true"**, t
 underdog-to-resentment interpretation of his gym-floor story, and his 2026 framing that
 old environments reinforce old identities [[../wiki/sources/2026-05-08-yt-_Gj9qMJ3jTk]].
 These remain self-reported color, not independent biography.
+Synthesis pass 19 (2026-07-09) added one current self-reported operator-life datapoint:
+in an April 2026 MoreMozi clip he describes a default day as **5am-1pm "Alex time"** for
+his own high-leverage work, with Las Vegas as a hub and travel/content blocks wrapped
+around that schedule. The same source also gives early content-process texture: his first
+content was "janky" and adapted to the consumption context rather than polished from the
+start [[../wiki/sources/2026-04-26-yt-4OA3QMH7fik]]. Treat this as a dated self-report,
+not a verified routine.
 
 ## Timeline
 

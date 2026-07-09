@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 12
+sources: 13
 ---
 
 # Voice
@@ -195,6 +195,9 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Switching from roles to workflows." (2026) — current AI/org-design phrasing.
 - "No one cares." / "Just do the job." / "AI is just a vehicle for getting there." (2026)
   — AI-agency outcome-not-mechanism phrasing.
+- "Make words mean what they mean." / "Words mean what they mean." (2026) — blunt
+  social-truth-telling cadence; useful when he refuses euphemistic or status-protecting
+  language [[../wiki/sources/2026-04-28-yt-H0z5nhHmMpg]].
 - "It builds the net between rather than one to many." (2026) — community design.
 - "You want to be the supplier of those inputs." (2026) — consumable-media retention line.
 - "Think about your shorts... as ads towards getting people into the longs." (2026)

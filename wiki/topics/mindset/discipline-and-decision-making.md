@@ -439,6 +439,34 @@ keep reinforcing the old version of you. He self-reports a creative-writing back
 an unused creative-writing scholarship, and an essay titled "Everyone believes in the
 American dream until it comes true" [[../../sources/2026-05-08-yt-_Gj9qMJ3jTk]].
 
+## April 2026 Q&A refinements: pain neutrality, comparison, anxiety, and exit timing
+
+**Feelings do not get a vote on behavior.** In an April 2026 coaching clip, Hormozi
+compresses his pain-neutrality stance: the feeling can be present and the action can still
+happen. The decision standard is not whether the work hurts; it is whether the behavior
+serves the outcome [[../../sources/2026-04-29-yt-GGsjUEPJDOM]].
+
+**Suffering can become proof when it is tied to a bigger story.** In a story-stakes clip,
+he says a bigger monster makes a bigger hero; hardship becomes useful when the founder
+converts it into evidence for the person they are becoming rather than a reason to stop.
+He ties this to early Gym Launch self-talk: the miserable period would make a better story
+if he kept going [[../../sources/2026-04-27-yt-oxt3CnQJItQ]].
+
+**Comparison is for study, not envy.** In an April 2026 clip, he distinguishes useful
+comparison from status pain: study what the other person does that works, but do not turn
+the observation into envy. He also separates criticism from insult: criticism contains
+usable information; insult is preference or noise unless it reveals a behavioral fix
+[[../../sources/2026-04-26-yt-R8IrKnlMQCI]].
+
+**Anxiety can be relabeled as excitement, then trained down by reps.** His practical move
+is not to wait for the feeling to disappear; repeat the stimulus until it becomes boring
+[[../../sources/2026-04-27-yt-1judnbflO6w]].
+
+**Quit timing is a stability constraint.** When advising a creator/community founder, he
+recommends keeping stable income until the new vehicle consistently matches it. Stability
+can make business more fun because constraints and cash flow let the founder buy learning,
+experiments, and time rather than acting from panic [[../../sources/2026-04-27-yt-Wx6-8KY_wfs]].
+
 ## Sources
 
 - [[../../sources/2026-05-17-yt-CV48Gkckbn4]] — "12 by 30" work-ethic framework;
