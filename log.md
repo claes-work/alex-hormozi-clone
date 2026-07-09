@@ -4576,3 +4576,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,326). youtube-index/index/footer updated.
 Synthesis notes: action-proves-learning/first-20-hours-fast-curve; product-brand-over-sales-marketing/100M-Offers-word-of-mouth-leverage; hospitality-white-glove-scale-unscalable/find-retain-margin-LTV/events-volume; input-output-confidence/wont-stop/5000-nos/GMAT-reps/content-volume; creator-monetization-constraint/learn-money-game-if-money-goal; Sharran-thought-partner/A-plus-talent-partners/clouds-to-dirt-executives; become-exception-by-being-rule/age-vs-quality/long-tenure; high-skill-service-path-to-partner/profit-share-profits-interest/people-scaling.
+
+## [2026-07-09] ingest | yt batch 178 - @MoreMozi P2 (2026-04-23 to 2026-04-24), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-24** `yt-LrsUgepHc3Y` - two-way-radio e-commerce scale: push B2C before
+  shifting into B2B/government, raise creative volume, and use customers for intros.
+- **2026-04-24** `yt-qXZjagpxxig` - kickboxing gym retention: five horsemen,
+  consumption, tribe approximation, and less weight/reminder-style check-in framing.
+- **2026-04-24** `yt-vsN_xFK3hlY` - in/on/above business, one-thing focus, stress from
+  nine companies, and warnings about operating bought businesses.
+- **2026-04-23** `yt-NI0rUpiZIwM` - confidence comes from evidence, domain-specific
+  reps, and practicing scripts rather than affirmations.
+- **2026-04-23** `yt-mYpJ7XlOE50` - books as legacy rather than strong direct
+  monetization, with self-reported pride in books as durable work.
+- **2026-04-23** `yt-9VIpSmaXMdc` - finite versus infinite games, business as play, and
+  death-awareness as a reason to take bigger shots.
+- **2026-04-23** `yt-nxJdJuxb4go` - vendor values bar, vendors as skill-gap or bandwidth
+  support, and building functions in-house when possible.
+- **2026-04-23** `yt-YNy1pdCAGs4` - best/worst advice, focus, anti-inheritance worldview,
+  and equal opportunity over equal outcomes.
+
+Ledger 8->L2 (L2 now 1,334). youtube-index/index/footer updated.
+Synthesis notes: ecom-B2C-before-B2B-pivot/UGC-volume/customer-list-intros; gym-retention-five-horsemen/consumption/tribe-approximation/check-in-caveat; in-on-above-business/one-thing-focus/nine-company-stress/business-buying-skill-warning; evidence-over-confidence/domain-specific-confidence/practice-over-affirmation; books-as-legacy-not-monetization; finite-vs-infinite-games/business-as-play/death-awareness; vendor-values-bar/fractional-skill-gap-or-bandwidth/build-in-house; best-worst-advice/focus/anti-inheritance/equal-opportunity.
