@@ -3655,3 +3655,29 @@ L2.
 
 Ledger 8->L2 (L2 now 1,108). youtube-index/index/footer updated. @MoreMozi P2: ~1,330 rows remain.
 Synthesis notes: enterprise COIs/trusted champions/brand-vs-fastest-path; fearlessness/one-of-zero/quit-job downside/Leila fear frame; moments and destroy-business inversion; messenger authority/evidence-safe-agreement; hate-as-success-indicator/age-23 gym underdog shift; Leila kudos/positive reinforcement; sales discovery questions/real-time roleplay/point-of-marginal-cheapness; passion-created-by-competence/starting-is-perfect-condition.
+
+## [2026-07-09] ingest | yt batch 143 - @MoreMozi P2 (2026-05-11 to 2026-05-12), 7 videos
+
+Fifty-sixth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. `yt-JghwiajIUlY` was
+marked L1/unavailable by the driver. The driver printed the checkpoint banner again;
+`python tools/synthesis_batch.py prepare` reported no pending checkpoints, so no
+synthesis commit was available. The 7 successful rows were ingested as L2.
+
+- **2026-05-12** `yt-8TVWULd5a8M` "Helping a $1M Agency Hit $10M (17% Monthly Churn)" - churn:
+  ICP segmentation, minnows vs whales, segmented churn tracking, and AI delivery margin.
+- **2026-05-12** `yt-m9dbNDHrQYk` "How Do I Build a Marketing System From Scratch When I Have Never Done It" - marketing:
+  acquisition as core function, PPC vendor-first, local social in-house, and agency transfer.
+- **2026-05-12** `yt-ECkcEc0KHtw` "How to Get in Shape" - fitness:
+  calorie deficit, progressive overload, accountability gap, carrots/sticks, and passive-income body.
+- **2026-05-12** `yt-6Xp0ox_IbE4` "$250M CEO Explains How to Build A Brand in 2026" - brand:
+  premium associations, AI slop, arbitrage vs brand, revenue retention, rebrand test, and email.
+- **2026-05-12** `yt-2D77qLcN9Fk` "You're In Control of How Hard Work Feels" - mood:
+  good mood for no reason, life-impact filter, and perception control around hard work.
+- **2026-05-11** `yt-LEzBAtQA060` "How I Responded to a VC Who Bashed My Clip" - values:
+  peace of mind as values indicator, VC bash-clip self-report, and reputation over viral reach.
+- **2026-05-11** `yt-qoi5W6xGjDM` "Why People Wait a Decade to Start the First Hour" - action:
+  work needs doing, anti-ritual work ethic, 20-hour proficiency, and shrinking action delay.
+
+Ledger 7->L2 (L2 now 1,115); 1 unavailable marked L1. youtube-index/index/footer updated. @MoreMozi P2: ~1,322 rows remain.
+Synthesis notes: ICP churn segmentation/minnows-vs-whales/AI delivery margin; acquisition core function/vendor-to-in-house marketing; fitness accountability gap/passive-income body; brand vs arbitrage/premium associations/revenue retention/email economics; good-mood-for-no-reason hard-work perception; peace-of-mind values indicator/VC bash-clip reputation; work-needs-doing/20-hour proficiency/shrinking action delay.
