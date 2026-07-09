@@ -1187,9 +1187,11 @@ attributed out. (yt-7P9O0wpPnMc 2025-01-01 has no captions → L1.)
 | 2025-01-21 | [[2025-01-21-yt-sDqOC2YtnKE]] | **Skool: the future of business & education** — community-as-business, $99/mo/group, gamification | ★ |
 | 2025-01-25 | [[2025-01-25-yt-Jf8u1Zp9uy4]] | Stop caring about opinions — mortality devices, father-approval upbringing | |
 | 2025-02-01 | [[2025-02-01-yt-qbWp-FObGyM]] | The heavy burden of unmade decisions — commitment = eliminating alternatives (age-19 flip) | ★ |
+| 2025-02-03 | [[2025-02-03-yt-ym8u5mN-_ww]] | Skool Games promo - fun/game framing, complementary partners, Sam product walkthrough | |
 | 2025-02-06 | [[2025-02-06-yt-i2OMANdEpUQ]] | Building a brand — marry audience+product, "promise / proof / path", give-content/ask-ads | ★ |
 | 2025-02-10 | [[2025-02-10-yt-Ky5d35w3LPQ]] | The hidden price of being exceptional — being different means unavoidable conflict | |
 | 2025-02-13 | [[2025-02-13-yt-9PV0eIXSyjI]] | Make money from an audience 2025 — 4 ways (affiliates / sponsors / partnerships / own brand) | ★ |
+| 2025-02-15 | [[2025-02-15-yt-RmzMZGkDHCI]] | Skool community design - avatar, crowdsourced model, free-to-paid path, value equation | |
 | 2025-02-17 | [[2025-02-17-yt--9bwW835fU0]] | The million-dollar rule — rule of 100 → "open to goal", output = volume × leverage | |
 | 2025-01-27 | [[2025-01-27-yt-3kbXlRlSpQg]] | Advice for men to win in their 20s — energy→skills, save→patience | |
 | 2025-02-20 | [[2025-02-20-yt-pWPvVFjXKRs]] | Musk's 5-step algorithm applied — prioritization is the CEO's #1 job | ★ |
@@ -1244,7 +1246,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,214 videos ingested (L2). @ACQofficial long-form complete; @TheSkoolSchool P2 complete; @AlexHormozi long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,318 total, including P2 (~1,305, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,216 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,316 total, including P2 (~1,305, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

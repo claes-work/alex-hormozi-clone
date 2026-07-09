@@ -4073,3 +4073,20 @@ the fallacy of the perfect pick. Added a context-only Operator Podcast note to
 messaging, and one-on-one cadence while explicitly excluding it from Alex persona voice data. No
 persona files changed, so `persona/system-prompt.md` remains v25; advanced the synthesis high-water
 mark to batch 156.
+
+## [2026-07-09] ingest | yt batch 157 - @TheSkoolSchool completion (2025-02-03 to 2025-02-15), 2 videos
+
+Completed the remaining open @TheSkoolSchool long-form rows. The driver selected 2 P3 rows, fetched
+captions successfully for both, and printed a channel-completion checkpoint banner. Speaker
+attribution is split where needed: Alex owns the promotional business framing; Sam Ovens owns the
+Skool product walkthrough in the first video.
+
+- **2025-02-03** `yt-ym8u5mN-_ww` "Watch this before you start a Skool Community | ft. Alex Hormozi
+  & Sam Ovens (Co-Owners of Skool)" - Skool Games as fun/game framing, complementary partner split,
+  free-trial informed-decision framing, and Sam-attributed product walkthrough.
+- **2025-02-15** `yt-RmzMZGkDHCI` "The Secrets to building an Online Community | ft.Alex Hormozi" -
+  community avatar selection, expert vs. crowdsourced model, access/content/events stack, free-to-paid
+  path, value equation for communities, and promotional Skool metrics with caution.
+
+Ledger 2->L2 (L2 now 1,216). youtube-index/index/footer updated. @TheSkoolSchool long-form complete.
+Synthesis notes: Skool-fun-game-positioning/complementary-product-marketing-partnership/trial-as-informed-decision/Sam-attributed-community-classroom-calendar-gamification; Skool-community-avatar-shared-interest-problem-goal/expert-vs-crowdsourced-community/access-content-events-value-stack/free-to-paid-community-path/value-equation-for-community-risk-speed-ease/audience-asset/promotional-Skool-metrics-caution.
