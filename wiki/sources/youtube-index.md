@@ -590,8 +590,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-06-06 | [[2026-06-06-yt-Uw9weyjJL1A]] | "Raising $100M kicked out" — ⚠️ coaching case, NOT Alex bio (title mismatch) | |
 | 2026-06-13 | [[2026-06-13-yt-U8Noy9ly7A4]] | Tutoring $250K→$1M — defined front-end offer + continuity | ★ |
 | 2026-06-16 | [[2026-06-16-yt-Ln94ZnvPDOQ]] | Dental $15M→$50M — talent-side LTV:CAC (recruiting as acquisition) | ★ |
+| 2026-06-16 | [[2026-06-16-yt-W_SBhfRbjqA]] | Appearance/brand — sold likeness, shaved Gym Launch mustache, practical uniform | ★ |
 | 2026-06-17 | [[2026-06-17-yt-i-4IiGGS1wE]] | Scale two companies — focus/opportunity-cost, fire-sell the slower one | |
 | 2026-06-17 | [[2026-06-17-yt-PgiqKklXUaA]] | $15M consulting → $100M by 2029 — enterprise lead-gen engine (conf+affiliates+outbound) | ★ |
+| 2026-06-17 | [[2026-06-17-yt-2mIJ4m9Mn_w]] | Heat-pump/HVAC — expansion speed = teammate activation speed; eliminate discounts | |
+| 2026-06-17 | [[2026-06-17-yt-zLylf0g7LrY]] | Construction + elevator company — opportunity-cost focus, fire-sale weaker asset | ★ |
+| 2026-06-17 | [[2026-06-17-yt-bS5v5g8VZF8]] | HVAC cleaning — talent-acquisition machine, broad local ads, group interviews | |
+| 2026-06-17 | [[2026-06-17-yt-07IvYnICrPY]] | Leukemia research grants — apply at violent volume on the highest-likelihood path | |
+| 2026-06-17 | [[2026-06-17-yt-o7dOvFRzKqA]] | Fitness centers — market what they want, deliver what they need; avoid personal-brand dependency | |
+| 2026-06-17 | [[2026-06-17-yt-4atV_CdvRJE]] | Optometry consulting — price to absolute profit lift; continuity via discount association | |
+| 2026-06-17 | [[2026-06-17-yt-PcTtGIWx1QY]] | Electrical contractor — price-to-fund redundancy; more HVAC partner wells | |
 | 2026-06-18 | [[2026-06-18-yt-LyFh9bLBz7g]] | Brand bouquet — deliberate associations, bad-pairing dilution, product reinforces premium brand | ★ |
 | 2026-06-18 | [[2026-06-18-yt-UIntex_fc3U]] | Cash vs equity — dilution math; self-reported "good day" and process game | ★ |
 | 2026-06-18 | [[2026-06-18-yt-qmdniCg0pfg]] | First 10 testimonials — proof shortcut through free/discount customers | |
@@ -811,7 +819,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_781 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,753 total, including P2 (~1,731, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_789 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,745 total, including P2 (~1,723, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

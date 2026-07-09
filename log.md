@@ -2564,3 +2564,28 @@ findings into existing topic/persona pages:
   Alex/Leila loyalty and role-boundary texture, the good-day loop, and v21 prompt compilation.
 
 Dropped pure repeats and near-duplicates already captured by source pages or earlier topic synthesis.
+
+## [2026-07-09] ingest | yt batch 102 — @MoreMozi P2 (2026-06-16 to 2026-06-17), 8 videos
+
+Checkpoint-resumed @MoreMozi P2 Q&A batch. The work order was prepared before synthesis pass 11; after
+the checkpoint synthesis completed and reset the counter, the 8 successful rows were ingested as L2.
+
+- **2026-06-16** `yt-W_SBhfRbjqA` "Why I Sold My Likeness (And Shaved the Mustache)" — self-reported
+  likeness sale, Gym Launch mustache/identity shift, and practical outfit/uniform explanation.
+- **2026-06-17** `yt-2mIJ4m9Mn_w` "How to Know When to Scale Your Service Business" — heat-pump/HVAC:
+  expansion speed equals teammate activation speed; margins, discount elimination, and commodity reframing.
+- **2026-06-17** `yt-zLylf0g7LrY` "How to Scale Two Companies at the Same Time" — construction plus elevator:
+  opportunity-cost focus, possible fire-sale of the weaker asset, and skills as the transferable asset.
+- **2026-06-17** `yt-bS5v5g8VZF8` "Why Nobody Good Applies to Your Job Post" — HVAC cleaning:
+  technician acquisition as its own machine, broad local ads, group interviews, and attitude screening.
+- **2026-06-17** `yt-07IvYnICrPY` "Apply to 300 Grants, Not 3" — leukemia research:
+  grant funding treated like deal volume; maximize the highest-likelihood path before inventing a new one.
+- **2026-06-17** `yt-o7dOvFRzKqA` "He Charges $300. I'd Charge $3,000." — fitness centers:
+  market what prospects want, deliver what they need, and avoid personal-brand dependency when sellability matters.
+- **2026-06-17** `yt-4atV_CdvRJE` "He's Charging $7K. I'd Charge $22K" — optometry consulting:
+  price to absolute profit lift, manufacturer-funded acquisition, discount-association continuity, and rollup path.
+- **2026-06-17** `yt-PcTtGIWx1QY` "Helping a $5M Electrical Contractor Scale" — electrical contractor:
+  price to fund delivery redundancy, guarantees with teeth, behavior over price complaints, and more HVAC partner wells.
+
+Ledger 8→L2 (L2 now 789). youtube-index/index/footer updated. @MoreMozi P2: ~1,658 rows remain.
+Synthesis notes: appearance and brand-association reset after selling Gym Launch likeness; expansion speed as employee activation speed; discount elimination and price-to-fund-hiring in service businesses; opportunity-cost fire-sale logic for stronger recurring opportunities; scalable technician recruiting funnel and group interviews; grant/outreach volume as existential constraint; want-vs-need marketing and personal-brand sellability tradeoff; optometry avatar pricing, manufacturer-funded acquisition, discount-association continuity, and rollup possibility; electrical contractor redundancy, guarantees, customer behavior over complaints, and partner concentration risk.
