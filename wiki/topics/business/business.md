@@ -51,4 +51,9 @@ Offers, leads, sales, scaling, money models, pricing, retention.
 - [[communication-and-management|Communication & Management]] — the articulation method (debundle vague
   terms into observable behaviors + logic/evidence/utility filter) and the Management Diamond (the 5
   reasons a task went undone), delegation vs abdication.
+- [[company-culture|Company Culture]] — culture = the founder's values "dripping down" and diluting,
+  countered by a vision-meeting cadence; values as decision filters; Acquisition.com's three values
+  (sincere candor, unimpeachable character, competitive greatness).
+- [[complaint-handling|Complaint Handling]] — "a refund is only an apology"; go negative → tragic-to-
+  magic; the "angry boat" (own it, out-angry them, validate); the "box of responsibility"; fault = control.
 

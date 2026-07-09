@@ -18,6 +18,20 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] lint | Synthesis pass 9 — 3 new topics + beliefs 47src + system-prompt v11
+
+Loop iteration 46 (synthesis). Cleared the L3-cand backlog via 4 parallel agents + recompile:
+- **3 new topic pages**: wealth/tax-free-liquidity.md (the ultra-rich playbook — 4 leverage tiers +
+  buy-borrow-die/ESOP/dividend-recap; prominent NOT-financial-advice banner), business/company-culture.md
+  (culture = founder's values dripping down, values-as-decision-filters, Acq.com's 3 values), business/
+  complaint-handling.md ("a refund is only an apology", angry boat, box of responsibility, Disney 37:1).
+  Wired into wealth + business hubs + index. **39 topic pages now.**
+- **persona/beliefs.md** (41→47 sources): +tax-free-liquidity, +culture-values, +complaint-handling,
+  +no-legacy/mortality, +5-levels-of-competence, +diagnostic-selling.
+- **persona/system-prompt.md → v11** (compiled_from_sources 357→383) — folds in the 6 new beliefs +
+  the charity-training pre-gym origin step; keeps the Skool-ownership disclosure.
+Next: continue @AlexHormozi P2 (294 left), then @MoreMozi/@GymLaunch, then shorts.
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — ultra-rich tax playbook + diagnostic sales (L2=381)
 
 Loop iteration 45. Resumed @AlexHormozi P2 (May 2024). 4 L3-candidates; the standout genuinely-NEW

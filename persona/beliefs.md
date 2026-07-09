@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 41
+sources: 47
 ---
 
 # Beliefs
@@ -137,6 +137,31 @@ their L2 source videos (2020–2026).
   focus on this month's bills, rich parents on this decade's skills. (Reinforces the 2025
   book line "you can't file bankruptcy to erase a bad reputation.")
   [[../wiki/sources/2025-06-24-yt-m-k0_pQJ1fY]]
+- **Culture = the founder's values dripping down; values are decision filters** (2023) —
+  "the culture is really just the mission and the vision and the values of the founder…
+  it just continues to drip down," diluting at each org layer unless reinforced by a
+  deliberate cadence (annual / quarterly / monthly "vision meetings"). Values aren't
+  "foofoo things" — "these are the principles that we use to make decisions": every hire
+  and portfolio-CEO pick is scored against them, and values fit is the *first* filter
+  ("it doesn't matter how skilled they are — if they don't fit the values, they just
+  can't work here"). **"Nobody will work for you that has better values than you"** —
+  elite talent works for people of elite character. Acquisition.com's three values:
+  **sincere candor, unimpeachable character, competitive greatness.** Run every
+  opportunity through the same filter — "even if it's a great opportunity, it's not our
+  opportunity." [[../wiki/sources/2023-05-19-yt-Zyv8jhO033c]]
+- **A refund is only an apology — go negative, turn tragic moments into magic** (2024) —
+  "a refund to a customer is an apology, but you have to do better than that"; refunding
+  only returns them to neutral, so you must **"go negative"** (spend more than you refund)
+  to convert one tragic moment into a run of magic ones (cites Disney's claimed **37:1**
+  tragic-to-magic ratio). Be quicker to anger than the customer — the **"angry boat"**:
+  confront it head-on, get in fast, "validate, validate, validate." **Fault = control** —
+  "in business you always want it to be your fault, because if it's your fault it's under
+  your control which means you have the power to fix it"; responsibility follows *the
+  power to fix*, not the blame (Javier at the Ritz). Skip guilt/shame — "no one will give
+  you credit for beating yourself up in silence… making it right and making sure it never
+  happens again." Give front-line staff a **"box of responsibility"** (pre-authorized
+  freebies scaled to severity, baked into margins). High refund rates are a *product*
+  problem. [[../wiki/sources/2024-06-03-yt-p39nLmVtOjc]]
 
 ## Frameworks — Sales (2020–2026)
 
@@ -201,6 +226,22 @@ sources, 2020–2026).
   problems, you just need people to help you." **Buy back time via hires who find their own
   salary** — tell a controller/CFO "I can't afford you; find your salary and cost in 90 days,"
   and they fund the next hire (ops). [[../wiki/sources/2024-07-23-yt-6m6DCQMASEM]]
+- **Diagnostic selling: repackage a transactional sale into a custom, recurring one**
+  (2024) — take a one-off transactional sale and re-present it as a custom, goal-based,
+  recurring sale **without changing delivery**: "we didn't change what we delivered, we
+  only changed how we presented it." Spine: **current → obstacle → desired**, with price
+  tied to closing the gap; make the customer set the goal ("the scale called you fat, not
+  me"). Collect the **credit card up front** ("just standard procedure") and pre-handle
+  objections before revealing price ("kill zombies" — it's far harder to sell once price
+  is on the table). **Sell the goal, not the membership** (200→140 lb at ~1.5 lb/wk = 45
+  weeks × $99 = $4,500, guaranteed). **Anchor high, then step down**: present the full
+  payment-plan rate first so prepaying reads as a *benefit*, then descend — prepay-in-full
+  (~20% off) → half-down (~10% + financing) → payment plan → just book the next visit
+  ("everyone buys something"). **Upsell rule: an upsell ≈ 5× the current price** (given the
+  80/20 split, if the top ~20% take a 5× upsell you double average ticket). "If you win
+  the argument in a sale you lose the sale." (Self-reported: an acquired brick-and-mortar
+  chain's target line went ~$20K → $250K/mo, average revenue per customer $200 → $800.)
+  [[../wiki/sources/2024-05-18-yt-1UhvBSQFy6A]]
 
 ## Frameworks — Scaling & enterprise value (2021–2026)
 
@@ -478,6 +519,33 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   it; problems are tolls you pay to advance) and **"need-to-believes"** (name the assumptions
   a venture requires to be true, then score whether an action raises your odds). Reframe
   external problems as internal skill gaps you control. [[../wiki/sources/2024-07-09-yt-rhVxX5_8xUw]]
+- **There's no such thing as legacy — everything becomes dust** (2023) — "when I died
+  eventually everything that I had would become dust, and anything expanded over a long
+  enough time horizon disappears" (he ties it to Ecclesiastes). The realization **quiets
+  the ego and keeps him present** — "this moment will only be here in my mind, and anything
+  that I do here will not last." His **#1 mentor is his fictitious 85-year-old self** —
+  "the only person that… has my best interest at heart and it's no ulterior motive" — who
+  "would pay all the money I have to get 10 years back." Two corollaries: "there is no
+  better, because we're all going to be dust," and "if we're all going to be dust, we're
+  all siblings." He credits this shift for content he "could not have made five years ago,"
+  when it would have been about "proving a fictitious foe wrong." (Self-reported personal
+  philosophy.) [[../wiki/sources/2023-07-16-yt-rWot6uLajms]]
+- **The learner, not the program, makes education work; five levels of competence** (2024)
+  — "it is never going to be the thing that works. You are going to be the thing that makes
+  it work"; asking "how do you know it'll work?" already predicts failure by outsourcing
+  success to the teacher's quality. **Five levels of competence** (inclination × posture):
+  *positive-active* ("I'll be the best student this person ever had no matter how bad they
+  are") → *positive-passive* ("he did it, so I can do it") → *neutral-passive* (most
+  people) → *negative-passive* (the half-asser) → *negative-active* ("I'll prove it works
+  for everyone but me"). Level 5 has the **highest potential to flip to level 1** — same
+  active energy, redirected from proving it wrong to proving it right. **"Replicate before
+  you iterate"** (do exactly what the teacher did, understand *why*, only then improve).
+  Skills stack like a **bridge of bricks** — the last program lays only the final brick but
+  gets all the credit; more meta-skills means you can act on vaguer instructions. Every
+  experience ROIs — you learn what to do, or by inversion what *not* to do ("a no-fail
+  situation"). "You're proving it to yourself, not the teacher." (Self-reported: claims
+  >$500K spent on his own business education, never a negative ROI.)
+  [[../wiki/sources/2024-05-22-yt-3Ju1I37jWUM]]
 
 ## Frameworks — Wealth & investing (2021–2026)
 
@@ -549,6 +617,23 @@ video sources; nearly every figure is self-reported napkin math).
   skip it — "just focus on the new money stuff." (Illustrated by his 36,000 sq ft building,
   funded via spun-up advisory services — "sawdust money"; self-reported figures.)
   [[../wiki/sources/2025-04-29-yt-by3ZEoo-Quc]]
+- **Wealth is built in four leverage tiers; the ultra-rich borrow against assets tax-free**
+  (2024) — four escalating tiers to a net-worth goal: **V1 pure income** (zero leverage) →
+  **V2 income + passive investing** (reinvest the post-tax remainder into the index at ~9%)
+  → **V3 own-and-sell** (own a business, take distributions, then sell at an earnings
+  multiple) → **V4 borrow against the asset while keeping ownership/control**, via three
+  routes: an **ESOP** (sell a *minority* stake to employees, bank-financed against the
+  equity — payout "tax-free under US tax law"), a **dividend recap** ("the business carries
+  the debt, not you personally" — owner takes the cash, the business repays over years), and
+  **loans against public equities** (banks lend up to ~50% of stock value; "because it's a
+  loan, it's tax-free" — cites Musk borrowing against stock to buy X). The buy-borrow-die
+  mechanic: retain an income-producing asset and borrow against it for tax-free liquidity
+  while keeping control. He hedges the downside — "there's risk that's not being
+  appropriately valued… loans have covenants and must be repaid" — and explicitly flags he's
+  *unsure* whether recap proceeds are tax-free. First **be valuable and generate income**;
+  passive-investing content is "seductive but useless on a $35K income." (Self-reported,
+  US-specific, and explicitly **not financial advice** — his rounded illustrative figures,
+  unverified.) [[../wiki/sources/2024-05-08-yt-6x3re5-Ms1E]]
 
 ## Frameworks — AI era (2026)
 
