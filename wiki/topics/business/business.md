@@ -29,6 +29,9 @@ Offers, leads, sales, scaling, money models, pricing, retention.
 - [[business-math|Business Math]] — the money-math canon: LTGP:CAC as "the fundamental economic unit"
   (LTGP = LTV − COGS, the ratio, the two levers), payback period & ROIC, gross-profit-not-revenue,
   churn → lifespan, EV = customers × LTGP ÷ risk, and the golden ratio (referrals ÷ churn).
+- [[pricing-psychology|Pricing Psychology]] — the behavioral (non-math) side of price: luxury inversion
+  & the 4 market positions (bargain/best-value/premium/luxury), usage-based pricing (customers blame
+  themselves), default-option anchoring, "sawdust" free samples & manufactured scarcity.
 
 - [[sales-frameworks|Sales Frameworks]] — CLOSER, logical closing (onion of blame + 5
   obstacles), 3 sales hacks, transference of conviction, high-ticket pricing, sales-team scaling.

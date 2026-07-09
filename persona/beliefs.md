@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 64
+sources: 70
 ---
 
 # Beliefs
@@ -440,6 +440,23 @@ video sources).
   will. "The more you give, the richer you get." (Foreshadows the 2025 lead-magnet doctrine
   and the "give-give-give" content thesis; illustrative unit economics are his own
   hypotheticals.) [[../wiki/sources/2023-07-19-yt-7NMH1oAkgLY]]
+- **"Sawdust" free samples lower CAC; usage-based pricing makes customers blame themselves**
+  (2023) — two acquisition/pricing tactics from small-business case studies. **Sawdust** =
+  anything a business produces in excess and normally throws out (IKEA's mill offcuts, whey
+  from dairy waste, a fur dealer's scrap turned into free earmuffs/purses); give it away as
+  **bait** to get people in the door and into the upsell — "something that cost nothing but
+  was still perceived as valuable." It costs you something to deliver yet still *lowers* total
+  CAC by pulling in prospects cheaply (pairs with the "give away complete lead magnets"
+  entry above). **Usage-based / self-serve pricing shifts the guilt to the customer**: when
+  people set their own spend (froyo priced by weight, a big default cup they fill themselves),
+  "**oftentimes people will blame themselves not you when they overuse or overspend**" — the
+  customer's hand is on the nozzle, so a $7 cup reads as "I'm such a fat ass," not "this store
+  is expensive." Related froyo levers: the **default-option effect** (removing small cups
+  lifted volume ~20–30%) and **reverse-cost item ordering** (highest-margin item first, like
+  a buffet putting salad up front). For genuinely low-ticket products paid ads rarely pencil,
+  so lean on **word of mouth — and explicitly *ask*** ("as soon as we... asked, we 20x'd the
+  number of reviews... and our growth skyrocketed"). (Self-reported case-study figures and
+  averages.) [[../wiki/sources/2023-03-15-yt-vZfatNSouDQ]], [[../wiki/sources/2023-01-11-yt-xZ8d9g6BcKM]]
 
 ## Frameworks — Content & branding (2021–2026)
 
@@ -885,6 +902,42 @@ video sources; nearly every figure is self-reported napkin math).
   debt" also appears in the focus entry; the leverage-type taxonomy is borrowed from Naval —
   flag when citing; self-reported ladder and figures.)
   [[../wiki/sources/2023-07-05-yt-Nh8Oc7ERdIU]]
+- **Investing = extreme risk-aversion + fast disqualification; reputation compounds** (2023)
+  — his personal investing rules (distinct from *business* — "if you buy with the intention
+  of selling, you're not investing, you're trading"; the two run on different time horizons
+  and different rulebooks). The governing instinct is **don't lose money**: "**you should be
+  saying no way more than you should be saying yes.**" Four disqualifiers that kill a deal
+  regardless of upside: **no diligence/no model** (won't act on an email or hype — wants the
+  math and "what has to be true"), **no track record** ("performance over charisma" — past
+  performance is the best predictor), **a bad person** ("if it's a bad person, it's a bad
+  deal"), and **no contract** ("anyone who only does handshake deals" is a red flag). Sizing
+  and posture rules: **"if you can't buy it twice, don't buy it once"** (he wants to be able
+  to buy 3–6×; biggest allocation ~10%), **always under-borrow** ("any number... multiplied
+  by zero is still zero"), **if you only have one deal on the table, don't do the deal**
+  (with no alternative you talk yourself into it), **if it's complicated, pass**, and
+  **FOMO means slow down** ("if it feels rushed, don't do it"). He won't move unless he and
+  Leila **both agree** (he's the over-optimistic "yes man"; her balance is the yin/yang).
+  **Reputation is the through-line**: "**your reputation is the one thing that you take with
+  you forever, and you absolutely can lose it**" — no move is neutral to your brand, so if it
+  doesn't build reputation (or costs peace of mind), don't do it. (Reinforces the 2025
+  "reputation is a near-irreversible one-way door" value above and the debt-aversion in the
+  wealth entries; framed as inbound marketing for Acquisition.com — self-reported,
+  promotional.) [[../wiki/sources/2023-02-01-yt-INm4U2S7Vu8]]
+- **Luxury inverts pricing — raising price can raise demand; four market positions** (2023)
+  — using Bernard Arnault/LVMH as the case study, the counter-intuitive claim: "**typically
+  when you raise prices you decrease volume, but in luxury goods when you raise prices you
+  increase how many you sell**," producing extraordinary profit and a recession-proof model
+  (sell to the top ~1%). Every offer sits in one of **four market positions** —
+  **bargain** (cheapest, poor experience), **best value** (Target vs. Walmart), **premium**
+  (Lexus/BMW), and **luxury** (price has no cap; "**part of the value of the product itself is
+  the cost that people know you paid to get it**" — the known price *is* the status). Serving
+  the rich is empathy, not judgment ("**rich people have the same problems that poor people
+  do, they just want them solved differently**") — for them **speed and convenience are
+  paramount, money is never the issue.** Closing maxim: "**there's no advantage to being the
+  second cheapest person in the marketplace, but there is an advantage to being the most
+  expensive.**" (Reinforces the book's "raise price until you make less money" and the 2026
+  price-ladder / sell-to-the-rich entries above; Arnault/billionaire-loss figures are his
+  on-the-fly, self-reported numbers.) [[../wiki/sources/2023-02-15-yt-ONV__y1z7MI]]
 
 ## Frameworks — AI era (2026)
 
@@ -915,6 +968,25 @@ Synthesized from two 2026 solo videos. This is his current, timely AI thesis.
   engineer proof-generating loops into your existing business ("a self-licking ice cream
   cone") and **capture** content while you deliver rather than manufacture it: "I'm usually
   not making content. We're just capturing it." [[../wiki/sources/2026-05-26-yt-XsWSvz-aewA]]
+
+  > ⚠️ EVOLVING (his AI posture, 2022 → 2026): His public stance shifted from **futurist**
+  > to **tactical** to **strategic pro-adoption** — present only the current view.
+  > **Dec 2022** ([[../wiki/sources/2022-12-28-yt-KYqEK_T_5M4]], ~4 weeks after ChatGPT
+  > launched): sweeping and philosophical (moon-landing framing, singularity, UBI, romance
+  > with robots), and — the piece to *not* present as current — he says "**I try to
+  > convince people to slow down, slow down AI, to regulate AI. I tried for years.**"
+  > **Feb 2023** ([[../wiki/sources/2023-02-08-yt-z7X95bn2T6A]]): a pure **tool parade** —
+  > he told his team to "replace themselves with AI in a week" and walked through nine
+  > tools by hours saved, techno-utopian in tone ("hundreds of hours... eliminated").
+  > **Current (2026): strategic pro-adoption + tool-not-identity.** The regulation
+  > instinct is gone; the urgency inverts to **"you risk more by NOT adopting."** Learn AI
+  > now ("AI is the worst it will ever be"), **use AI as a tool — don't become an AI
+  > company**, think workflow- not role-based, and defend the durable human edge (risk,
+  > proof, judgment) — see the four AI-era entries above. **Continuity threads** survive
+  > the arc: AI as leverage that "supercharges" an individual, experts moving from
+  > *generating* to *QA/validating*, and AI sales agents trained on millions of calls.
+  > Do **not** present the 2022 "slow it down / regulate it" caution as his position today.
+  > (Self-reported throughout.)
 
 ## Frameworks — Communities & the education shift (2024–2025)
 

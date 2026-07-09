@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: [business, content-strategy, marketing]
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [ai, future-of-work]
 ---
 
@@ -235,3 +235,62 @@ headlines), feed the first task to an AI, and automate it. When stuck, screensho
 and ask "what do I do now?"
 
 > "Everyone has an AI tutor at their fingertips that you're just not using." (2026-03-31)
+
+---
+
+## The evolution of his AI thinking (2022 → 2026)
+
+Hormozi's public AI stance has moved through three distinct phases in ~3.5 years. Everything
+below is **self-reported** (his own on-camera framing, not independently verified). Per
+fidelity rule 3, the 2026 thesis above is his *current* view; the earlier positions are dated
+snapshots, not his present stance.
+
+**Phase 1 — Futurist / philosophical (Dec 2022).** From
+[[../../sources/2022-12-28-yt-KYqEK_T_5M4]], published ~4 weeks after ChatGPT's public
+release. A sweeping, speculative monologue spanning the nature of work, business, the economy,
+romance/mating, and "the nature of life itself" (singularity, space, aliens-as-AI). He frames
+AI as "the equivalent of the moon landing" and the thing that could "overturn the Human
+Institution," floats capitalism being strained and UBI as a societal reset, and predicts a
+nuclear-fusion "golden age." Practical advice is thin and individual-centric: use AI as a
+personal filter to "consume 10x and produce 10x" (a "100x increase"), and adopt the posture
+that "AI isn't here to replace me, it's here to supercharge me." No firm-level or operator
+frame yet.
+
+**Phase 2 — Tactical tool showcase (Feb 2023).** From
+[[../../sources/2023-02-08-yt-z7X95bn2T6A]]. He challenges his team to "replace themselves
+with AI in a week" and parades nine tools across sales, content, training, recruiting, and
+ops. The entire value proposition is **hours saved per task and output-per-worker** ("2 hours
+per day... 25% more output for the same cost"; onboarding avatars eliminating "hundreds of
+hours"; a claimed "40%" calendar gain). Enthusiastically tactical and mildly techno-utopian
+(robots building his HQ). Still no strategic thesis — a tool parade, not a theory of the firm.
+
+**Phase 3 — Strategic + pro-adoption urgency (2026).** The thesis consolidated on this page
+(2026-03-31 / 2026-04-21 / 2026-05-26). AI is reframed as **one tool among many** —
+"use AI as a tool, don't become an AI company" — and even "a necessary evil." The center of
+gravity shifts from output-multiplication to the **durable human moat: risk, proof, and
+judgment** ("capture, don't create"; proof-as-moat; "humans plus tools beat humans with
+inferior tools"). It adds workflow- vs. role-based org design, the barbell strategy,
+margin/leverage math, and BYOS/BYOA. And the urgency inverts: "AI is the worst it will ever
+be," so "you risk more by NOT adopting."
+
+**The arc:** futurist (Dec 2022) → tactical (Feb 2023) → strategic + pro-adoption-urgency (2026).
+
+**Continuity threads** that survive across all three: (a) AI as leverage that makes an
+individual dramatically more productive ("supercharge me" → "humans plus superior technology
+beat humans with inferior technology"); (b) experts move from *generating* to *QA/validating*
+(2022's "Level 2" → 2026's "spend your time doing QA"); (c) AI sales agents trained on
+millions of calls (2022's prediction → 2026's "AI taking sales calls, a year or two away");
+(d) the "automate your own job" instinct (Feb 2023's "replace yourself" → 2026's "if you're
+not automating your own job, you are missing the boat").
+
+> ⚠️ CONTRADICTION (dated reversal, self-reported): In **Dec 2022** he says he spent *years*
+> trying to slow AI down — *"I try to convince people to slow down, slow down AI, to regulate
+> AI. I tried for years."* ([[../../sources/2022-12-28-yt-KYqEK_T_5M4]]). By **2026** his
+> posture has flipped to pro-adoption urgency — **"you risk more by NOT adopting"** and
+> *"learning how to use AI should become your number one priority"* (2026-03-31, above). Not
+> a strict logical contradiction — the 2022 concern is *societal safety/regulation* while the
+> 2026 push is *individual competitiveness* — but a clear directional reversal in tone and
+> emphasis worth flagging before anything flows into `persona/beliefs.md`. (Regulation
+> *skepticism* is itself a continuity thread: even in 2022 he called stopping AI futile —
+> "I have a hard time believing they will be able to stop it" — which by 2026 hardens into
+> the adoption imperative.)

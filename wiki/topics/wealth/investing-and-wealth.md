@@ -1,7 +1,7 @@
 ---
 type: topic
 domain: wealth
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [investing]
 ---
 
@@ -192,6 +192,116 @@ to get it — which is why he's comfortable saying no to opportunities the punch
 [[../../sources/2026-07-01-yt-88oj6ZlmEi8]].
 
 > "I think regrets come when we imagine the upside that we don't have without taking into account the cost that we didn't suffer." [[../../sources/2026-07-01-yt-88oj6ZlmEi8]]
+
+---
+
+## Investing rules & deal disqualifiers
+
+In a 2023 solo talk he laid out 24 rapid-fire investing "rules," each an if-then he claims to
+reuse across decisions. The through-line is **extreme risk-aversion and disqualification**:
+say no far more than yes, minimize the unknowable, and only move when both he and Leila agree.
+He explicitly frames the video as inbound marketing for Acquisition.com (aimed at owners of
+$3M–$100M companies), so the promotional framing and all self-descriptions are **self-reported**
+[[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+
+### Extreme risk-aversion — don't lose money, and stay concentrated in the known
+
+The default posture is defensive: assume every deal can lose money and hunt for *all* the ways
+before committing. This is a sharper, disqualification-first restatement of the buy-and-hold
+and under-borrowing themes above.
+
+> "There's always a way to lose money in the deal, and you not only want to find a way to lose money, but you want to find all the ways you can lose money in the deal." [[../../sources/2023-02-01-yt-INm4U2S7Vu8]]
+
+- **If you don't know how you can lose money, don't do it until you do** — the goal is minimizing
+  the unknown/unknowable to the highest degree possible [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+- **If you can't buy it twice, don't buy it once.** Only invest what you can afford to lose more
+  than once — **self-reported**, he realistically wants to be able to buy the thing 3–6 times.
+  His concentration stance has *tightened* over time: when he started he thought he'd put a third
+  of his net worth into one thing; now his biggest single allocation might be ~10% [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+
+  > "If you can't buy it twice, don't buy it once." [[../../sources/2023-02-01-yt-INm4U2S7Vu8]]
+
+- **Always under-borrow.** Debt introduces the one thing that can zero you out, so borrow less
+  than you could even though it caps upside [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+
+  > "Any number, no matter how big it is, multiplied by zero is still zero." [[../../sources/2023-02-01-yt-INm4U2S7Vu8]]
+
+- **Do more of what already works.** Compounding comes from repeating the same thing you've done
+  well (e.g. a fourth hard-money loan) rather than chasing variety — concentration in the *known*,
+  not diversification for its own sake. "Your luck improves the more you do it" (paraphrase)
+  [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+- **Insurance for anything you fear.** For a specific worry (e.g. running out of money) buy the
+  matching insurance; he frames annuities as "buying money for the rest of your life" (paraphrase)
+  [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+
+### Deal disqualifiers — the four diligence checks and disqualify-fast logic
+
+He runs a fast filter designed to kill deals, not approve them: **you should say no far more than
+you say yes**, and any single failed check ends it.
+
+> "You should be saying no way more than you should be saying yes." [[../../sources/2023-02-01-yt-INm4U2S7Vu8]]
+
+The four hard checks — miss one and it's a no:
+
+1. **Diligence** — *no diligence, no deal.* He won't act on hype, an email, or a phone call.
+2. **Model** — *no model, no deal.* He wants the math, projections and assumptions, and asks
+   what would have to be true for it to work [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+3. **Track record** — *no track record, no deal; performance over charisma.* Best predictor of
+   future performance is past performance (he cites Napoleon: "I'd rather have lucky generals")
+   [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+4. **Contract** — *no contract, no deal.* Contracts set clear expectations for every failure
+   scenario; anyone who "only does handshake deals" is a red flag to run from.
+
+   > "If someone says 'I don't believe in contracts,' be like 'I don't believe in doing deals without contracts, sorry.'" [[../../sources/2023-02-01-yt-INm4U2S7Vu8]]
+
+   > "Negotiate as if the contract is everything; deliver as if it doesn't exist." [[../../sources/2023-02-01-yt-INm4U2S7Vu8]]
+
+Supporting disqualify-fast signals:
+
+- **If it's complicated, pass** — barely catching on is gambling; complete understanding lowers
+  risk. When lost, **play the fool**: ask stupid questions, define terms, draw it back
+  [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+
+  > "Pretend I'm a golden retriever that doesn't speak English — walk me through this." [[../../sources/2023-02-01-yt-INm4U2S7Vu8]]
+
+- **If it feels rushed, don't do it — FOMO means slow down.** Pressure is a signal to pause.
+
+  > "FOMO means slow down." [[../../sources/2023-02-01-yt-INm4U2S7Vu8]]
+
+- **If you only have one deal on the table, don't do the deal** — always have backups, or you'll
+  talk yourself into it (dating analogy) [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+- **If a deal feels like a grand slam, get a second opinion** — if it looks amazing he assumes
+  he's missing something and sends it out for fresh eyes [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+- **People-based kills:** if someone's non-responsive, no deal ("do what you're going to say, say
+  what you're going to do"); and **if it's a bad person, it's a bad deal**, no matter what the
+  paper says [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+- **Partner veto:** *if we don't agree, we don't do it.* Even holding decision authority, he won't
+  move until he and Leila agree — he's usually the "yes man" who over-sees upside, so a partner
+  who balances that adds value [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+
+  > "There's a reason yin and yang are equally weighted in the symbol." [[../../sources/2023-02-01-yt-INm4U2S7Vu8]]
+
+He also draws a hard line between disciplines: **buying with intent to sell is trading, not
+investing**, and applying business rules to investing (or vice versa) is where trouble comes from
+— they're different skills [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+
+> "If you buy with the intention of selling, you're not investing, you're trading." [[../../sources/2023-02-01-yt-INm4U2S7Vu8]]
+
+### Reputation & peace of mind as compounding returns
+
+Two rules treat non-financial assets as the real returns — the ones that compound and can't be
+bought back. **No move is neutral to your brand**, and anything that costs sleep is overpriced.
+
+> "Your reputation is the one thing that you take with you forever, and you absolutely can lose it." [[../../sources/2023-02-01-yt-INm4U2S7Vu8]]
+
+- **If it doesn't build your reputation, don't do it** — reputation is the one thing you keep
+  forever, can lose, and compounds [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+- **If it costs peace of mind, don't buy it** — anything that costs him sleep or worry is too
+  expensive. This is the same "invest in what lets you sleep" logic that underwrites keeping
+  passive money passive above [[../../sources/2023-02-01-yt-INm4U2S7Vu8]].
+
+See also [[building-wealth]] (under-borrowing, debt-aversion, reputation-as-asset) and
+[[tax-free-liquidity]] (holding for the long horizon rather than selling).
 
 ---
 

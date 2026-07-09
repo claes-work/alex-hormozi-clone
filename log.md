@@ -18,6 +18,25 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] lint | Synthesis pass 13 — AI-timeline + pricing-psychology + investing-rules + system-prompt v15
+
+Loop iteration 59 (synthesis). 4 parallel agents + recompile:
+- **ai-in-business.md**: added "The evolution of his AI thinking (2022→2026)" — the 3-point arc
+  (futurist Dec-2022 → tactical Feb-2023 → strategic/pro-adoption 2026) with a ⚠️ CONTRADICTION callout
+  on the key reversal (Dec-2022 "tried to regulate/slow AI" → 2026 "you risk more by NOT adopting") +
+  4 continuity threads. A clean fidelity-rule-3 dated evolution.
+- **NEW wiki/topics/business/pricing-psychology.md** — the behavioral (non-math) side of price: luxury
+  inversion + the 4 market positions (Arnault), usage-based pricing + default-option anchoring (froyo),
+  "sawdust" free samples + manufactured scarcity (dealer). Quantitative math delegated to business-math.
+  Wired into business hub + index. **41 topic pages now.**
+- **wealth/investing-and-wealth.md**: added "Investing rules & deal disqualifiers" (extreme risk-
+  aversion, the 4 disqualifiers diligence/model/track-record/contract, buy-twice concentration, Leila
+  veto, reputation-compounds) from the 24-rules video.
+- **persona/beliefs.md** (64→70 sources): +AI-posture-evolution (⚠️ evolving), +investing-risk-aversion/
+  disqualifiers, +luxury-pricing-inversion, +sawdust-free-samples/usage-based-pricing.
+- **persona/system-prompt.md → v15** (compiled_from_sources 439→455).
+Next: continue @AlexHormozi P2 (222 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — earliest AI take + froyo unit-economics (L2=453)
 
 Loop iteration 58. 8 @AlexHormozi P2 (Dec 2022-Feb 2023 — near his @AlexHormozi channel start). 2
