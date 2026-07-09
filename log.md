@@ -2232,3 +2232,36 @@ for retry; the 9 successful rows were ingested as L2.
 Ledger 9→L2 (L2 now 691). youtube-index/index/footer updated. @MoreMozi P2: ~1,748 rows remain.
 Synthesis notes: decision-as-cutting-off futures, LTGPE:CAT, A+ manager arbitrage, AI-exposed info-product
 harvest thesis, quest/work meaning, licensing after no-founder opening team, copycat/price-cut caution.
+
+## [2026-07-09] ingest | yt batch 91 — @MoreMozi P2 (2026-06-28 to 2026-06-30), 9 videos
+
+Fourth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` errored again during caption fetch and remains open
+for retry; the 9 successful rows were ingested as L2.
+
+- **2026-06-28** `yt-GvKI8Vs4TK0` "How to Use Agencies Without Getting Gouged" — agencies as expertise
+  transfer: basic cadence agency → advanced learning agency → internal co-creation → consulting tail → cut.
+- **2026-06-29** `yt-lVpmuetl56I` "The 3 Metrics That Actually Define a Brand" — brand metrics are influence,
+  direction, and reach; strong positive brands do not have to be polar; pair the brand with what the ideal
+  audience likes.
+- **2026-06-29** `yt-pAa7lDdR2FU` "Why a $200M Builder Can't Hit $300M" — land development is the true
+  constraint; consider vertical integration via developer acquisition or talent lift-out; constraint =
+  highest-return resource allocation.
+- **2026-06-29** `yt-VdSnydriK-A` "$7.5M and Can't Break $15M" — three avatars = three companies; prune
+  rep/manager appendages, focus owner avatar, sticky recurring offer, and scale the front door.
+- **2026-06-29** `yt-p50wyvqB3Qk` "Repost Your Best Content" — repost the prior year's best content because
+  new audience has not seen it; greatest hits compound lore; reminders often beat new teaching.
+- **2026-06-29** `yt-4tTHtDWgPpY` "The One Thing Killing Your Business: Lack of Focus" — novelty vs loyalty,
+  finite entrepreneurial seasons, creative energy into marketing, and Alex's anecdotal 20% change-cost rule.
+- **2026-06-29** `yt-oSS5Lnl7_wc` "Stop Solving Problems You Don't Have" — website-as-service AI fear is a
+  narrative until metrics show it; double down acquisition and use AI internally to improve workflow/margins.
+- **2026-06-29** `yt-eZx2rPcP9pM` "The Price of Building Something Big" — law firm beats small agency on
+  opportunity cost; phase agency out with notice, referrals, and passive kickbacks rather than hiring an operator.
+- **2026-06-30** `yt-5pfq_BtWs8E` "Your Business Won't Scale Until You Hire Better People" — premium
+  home-services key-man risk: time study, value-ranked delegation, national technician recruiting, relocation bonus.
+
+Ledger 9→L2 (L2 now 700). youtube-index/index/footer updated. @MoreMozi P2: ~1,739 rows remain.
+Synthesis notes: agency expertise-transfer playbook, brand influence/direction/reach, constraint-as-highest-return
+allocation, model pruning to owner avatar, reposting greatest hits, novelty-vs-loyalty and 20% change-cost rule,
+AI narrative-vs-metric risk, opportunity-cost phase-out, premium-tech recruiting.
+
+**STOP:** user requested stopping after this run. Do not start another prepare loop until asked.
