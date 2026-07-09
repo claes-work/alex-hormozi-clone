@@ -73,10 +73,11 @@ Then:
    and it finds the debt via `grep -i "synthesis" log.md`. (If nothing new: `Synthesis notes: none`.)
 4. Commit + push.
 
-> **Synthesis is a separate pass** (by design — AGENTS.md tiers). Do not promote L2 material into
-> `topics/`/`persona/` inside a normal batch unless a source is genuinely landmark. Run a dedicated
-> synthesis pass after each channel or every ~10 batches; see BACKLOG.md section E (the standing debt +
-> high-water mark).
+> **Synthesis is the OTHER loop** (by design — AGENTS.md tiers). Do not promote L2 material into
+> `topics/`/`persona/` inside a normal batch unless a source is genuinely landmark. At a checkpoint —
+> **after each channel/era, or every ~10 batches** — switch to the synthesis loop:
+> `python tools/synthesis_batch.py status` → `… prepare`. See [`SYNTHESIS.md`](SYNTHESIS.md) and
+> `pipeline/synthesis-state.md`.
 
 > ⚠️ **Commit-message gotcha (Windows/PowerShell):** double quotes inside a here-string
 > `-m` argument get word-split by PowerShell and break the commit. Keep commit messages

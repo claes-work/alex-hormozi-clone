@@ -118,11 +118,28 @@ updates its row. Nothing enters the wiki untracked.
 
 ## Operations
 
-> **Driver:** the mechanical half of a YouTube batch (select next open rows → fetch captions →
-> clean to text → tidy the ledger) is scripted and harness-neutral — run
-> `python tools/ingest_batch.py status` and `… prepare --channel <@handle> --n 10`.
-> See [`tools/INGEST.md`](tools/INGEST.md) for the full step-by-step. You only do the judgement
-> half (writing the `wiki/sources/` pages under the fidelity rules).
+### The two loops (how the corpus gets processed autonomously)
+
+Processing runs as **two loopable, harness-neutral loops** (same in Claude Code, Codex, Pi). Each runs
+until its work is done, a usage limit is hit, or the user says stop. **Never run both on the same repo at
+once** (two agents editing one working tree corrupts it).
+
+1. **Ingest loop** — grows the wiki OUTWARD: drains the source ledger to L2 (`wiki/sources/` pages).
+   Driver: `python tools/ingest_batch.py status` / `… prepare --channel <@handle> --n 10`.
+   Full how-to: [`tools/INGEST.md`](tools/INGEST.md). Each batch appends a `Synthesis notes:` line to
+   `log.md` recording anything genuinely new (that line is the synthesis debt trail).
+2. **Synthesis loop** — grows the wiki INWARD: promotes the genuinely-new L2 material into
+   `wiki/topics/` + `persona/`, reconciles/date-stamps it, and recompiles `persona/system-prompt.md`.
+   Driver: `python tools/synthesis_batch.py status` / `… prepare`.
+   Full how-to: [`tools/SYNTHESIS.md`](tools/SYNTHESIS.md). State: `pipeline/synthesis-state.md`.
+
+**When to synthesize — checkpoint synthesis (do NOT skip this):** run a synthesis pass when EITHER an
+ingest **channel/era completes**, OR **~10 ingest batches (~100 videos)** have accumulated since the last
+checkpoint — whichever first. Not every batch (wasteful churn) and not only at the very end (unwieldy;
+persona stays stale). Landmark sources (books, origin/canonical videos) are promoted **inline** at ingest
+(L3) and don't wait. The typical rhythm: ingest a channel → synthesize it → next channel.
+
+You (the agent) do the JUDGEMENT half of each loop; the drivers do the mechanical/stateful half.
 
 ### Ingest (one source at a time, user stays in the loop)
 
