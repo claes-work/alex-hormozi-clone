@@ -2396,3 +2396,28 @@ fetch and remain open for retry; the 8 successful rows were ingested as L2.
 
 Ledger 8→L2 (L2 now 733). youtube-index/index/footer updated. @MoreMozi P2: ~1,706 rows remain.
 Synthesis notes: Leila-only people-operator profile (context, not Alex persona), workflow-not-role AI org design and action-only training, paid-assessment front end for managed services, janitorial acquisition channels, cash-flow throttle/upfront fee/reputational risk, duplicate CFO data-first AI evidence, decommoditization by friction removal, and clear-over-clever healthcare ads.
+
+## [2026-07-09] ingest | yt batch 96 — @MoreMozi P2 (2026-06-23 to 2026-06-24), 8 videos
+
+Ninth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during caption
+fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-23** `yt-lHKaMAsQ99c` "Why Cost-Plus Pricing Is Killing Your Roofing Business" — roofing:
+  cost-plus pricing misaligns incentives; price around customer fears and guarantee against downside.
+- **2026-06-23** `yt-hpitQZSznQQ` "The $10M Trucking Owner Who Wants to Sell the Product Too" — trucking:
+  selling the transported product adds cash-flow complexity; Gym Launch/Prestige Labs is Alex's cautionary side-quest parallel.
+- **2026-06-23** `yt-tymBHmJ7vtk` "$51M Doctor Can Cure Anything (And That's the Problem)" — genetics/supplements:
+  unified message, quiz funnel, influencer affiliates, genetic test as front-end, and front-end profit giveaway.
+- **2026-06-24** `yt-PA_jxk5R2i0` "From Broker to Dealership: Should He Make the Jump?" — RV broker:
+  dealership is the bigger asset opportunity; existing audience makes the current model a fallback.
+- **2026-06-24** `yt-JdmtOHXKmQk` "The Cheapest Way to Get Local Customers" — outdoor lighting:
+  seasonal sales-cycle choice, better creative, partial-service lead magnet, banger offer plus qualification friction.
+- **2026-06-24** `yt-oy939QJIosY` "He Sends 10 Million Emails a Month for $10K" — cold-email agency:
+  performance pricing only works with money-flow control, transparency, or enterprise customers; use message-market-fit front end.
+- **2026-06-24** `yt-495JFUOj_EM` "How to Scale a $3M Sports Memorabilia Business to $10M" — ecommerce:
+  low conversion may be traffic quality; supply is solved, media buying is the missing skill before brand.
+- **2026-06-24** `yt-grddZX9MLYg` "Helping an SEO Agency Scale Past $1M" — SEO personal brand:
+  ignore broad views; make highest-value-per-second content for buyers and keep the brand 80/20 business-centric.
+
+Ledger 8→L2 (L2 now 741). youtube-index/index/footer updated. @MoreMozi P2: ~1,698 rows remain.
+Synthesis notes: cost-plus pricing and downside guarantees, Prestige Labs as side-quest warning, quiz-funnel plus influencer front-end-profit giveaway, audience as downside protection for a higher-barrier jump, partial-service lead magnet for local lighting, performance-pricing money-flow control, ecommerce traffic-quality vs CRO/media-buyer gap, and buyer-relevant personal-brand 80/20.
