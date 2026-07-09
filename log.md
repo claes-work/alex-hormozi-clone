@@ -2521,3 +2521,28 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 773). youtube-index/index/footer updated. @MoreMozi P2: ~1,666 rows remain.
 Synthesis notes: duplicate warm-audience ads evidence, boring service focus and intellectual-curiosity trap, delegation by component decomposition, self-reported loyalty/Leila business-marriage boundary, education continuity via consumable inputs and network effects, local-practice pricing-attribution-ads sequence, cash-flow vs sellability paths for digital sports education, and authority as risk-reducing messenger context.
+
+## [2026-07-09] ingest | yt batch 101 — @MoreMozi P2 (2026-06-18), 8 videos
+
+Fourteenth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-18** `yt-LyFh9bLBz7g` "How to Build a Brand That Actually Means Something" — brand bouquet:
+  deliberate associations, bad-pairing dilution, product experience, and premium-brand delivery.
+- **2026-06-18** `yt-UIntex_fc3U` "Cash vs. Equity: How to Pay Employees Without Losing Your Company" — equity math:
+  employee equity versus investor dilution; self-reported good-day definition and process-game answer.
+- **2026-06-18** `yt-qmdniCg0pfg` "Why $1M Feels Harder Than $10M" — early proof:
+  first 10 testimonials as shortcut, with free/discount customers before paid acquisition.
+- **2026-06-18** `yt-lN0oRSsnPUU` "Why Your Leads Are Feast or Famine (And How to Fix It)" — medical billing:
+  podcast outbound to whales plus conference booth/list/slide lead capture.
+- **2026-06-18** `yt-u-lsVY6YL-Y` "His Ads Are Fine. His Offer Is Killing Him." — real-estate coaching:
+  paid ads and sales motion in tandem; in-house brand manager via poaching.
+- **2026-06-18** `yt-51wc-9y3TD4` "Helping a Pilot Scale His Aviation Safety Business" — aviation safety:
+  avoided-loss quantification, insurer case-study wedge, and group delivery ratio before more advertising.
+- **2026-06-18** `yt-Y5e0_4JBs6U` "You're Not Overexpanded, You're Undertalented" — coffee retail:
+  fix margins before store expansion through many small ops/pricing/menu/staffing improvements.
+- **2026-06-18** `yt-8pktlJiDYAo` "How to Scale an In-Person Service Business" — dance school:
+  strong LTV:CAC, materially higher local ad spend, and lead-handler hire.
+
+Ledger 8→L2 (L2 now 781). youtube-index/index/footer updated. @MoreMozi P2: ~1,658 rows remain.
+Synthesis notes: brand as deliberate association bouquet, premium-product reinforcement, cash-vs-equity dilution comparison, self-reported Alex good-day definition, first-10-testimonials proof shortcut, podcast-as-outbound and conference lead capture, organic pyramid plus paid monetization-depth lever, avoided-loss safety offer quantification, margin-before-expansion retail ops, and local LTV:CAC ad-scaling math.
