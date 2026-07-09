@@ -4,6 +4,11 @@ _Canonical, harness-neutral operating instructions for this repo. Every agent ha
 (Claude Code, Codex, Pi, …) reads these rules. Claude Code loads them via `CLAUDE.md`,
 which imports this file — so this is the single source of truth; edit here, not there._
 
+> **▶ Resuming this project?** When the user opens a session to continue (e.g. "was ist offen?",
+> "weiter mit dem Projekt", "womit machen wir weiter?", or "Lies BACKLOG.md …"), FIRST read
+> [`BACKLOG.md`](BACKLOG.md) and give a short summary of what's still open, then wait for the
+> user to pick a workstream. `BACKLOG.md` is the canonical open-work checklist.
+
 This repo is a **knowledge clone of Alex Hormozi**, built on the LLM Wiki pattern: an
 LLM-maintained, persistent, interlinked markdown knowledge base compiled from public
 sources. The end product is a persona spec faithful enough that chatting with it feels
