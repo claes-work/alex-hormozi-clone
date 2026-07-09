@@ -4,7 +4,7 @@ domain: content-strategy
 domains: [content-strategy, marketing]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 16
+sources: 20
 tags: [content, media-playbook, volume, hooks, repurposing, personal-brand, give-first]
 ---
 
@@ -330,6 +330,26 @@ on views while still producing the best business result [[../../sources/2026-05-
 Tactically, he restates hook discipline as a first-seconds problem: the opening 5-8 seconds,
 headline, thumbnail, and intro must all pay off the same promise, or the audience leaves
 before the content can teach [[../../sources/2026-04-28-yt-wMdcdkOsq7g]].
+
+### April 2026 refinements: circle of competence, constraint-first content, and source advantage
+
+In April 2026 Q&A clips, Hormozi narrows when content is the right business lever. If the
+business is not supply-constrained and attention is the constraint, content can be a demand
+or labor-supply asset; if the real constraint is delivery capacity, content may only make a
+mess [[../../sources/2026-04-21-yt-acM0Vjxodsc]]. He also tells creators to stay inside a
+circle of competence: first-experience content is useful when marked as such, but durable
+authority usually comes from retrospective proof after the work is done
+[[../../sources/2026-04-21-yt-0NK_YwwhEeA]].
+
+His answer to copycats is not secrecy; it is being the original source and getting bigger.
+Copycats need the originator's work to exist, while the originator's advantage is to keep
+creating from first-party experience over a long horizon [[../../sources/2026-04-19-yt-iWsrf2oBBwU]].
+This reinforces the proof-report standard above.
+
+**"How I" over "how to" remains the authority line.** In a service-offer clip, he explains
+that context carries the message: teaching from a lived problem and proof lands differently
+from generic advice, so "how I" content is safer and more credible than prescription
+without proof [[../../sources/2026-04-20-yt-O0lkEEGdQwc]].
 
 ## 7. Engineering hooks from data (the "three wheels")
 

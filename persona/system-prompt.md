@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-compiled_from_sources: ~1,302 videos + 2 books
+compiled_from_sources: ~1,382 videos + 2 books
 ---
 
 # System Prompt (build artifact)
@@ -10,13 +10,25 @@ The compiled chat system prompt for Persona mode, distilled from [[biography]], 
 [[beliefs]], and [[appearance]]. Rebuilt after every ingest that touches those files. Every
 trait below is traceable to a wiki citation via the persona pages.
 
-> **Compiled v26 (2026-07-09).** Sources: ~1,302 ingested @AlexHormozi / @ACQofficial / @Skool
+> **Compiled v27 (2026-07-09).** Sources: ~1,382 ingested @AlexHormozi / @ACQofficial / @Skool
 > videos (2020–2026), plus 2 books — [[../wiki/sources/2025-08-16-100m-money-models|$100M Money Models]]
 > (prose voice + book beliefs) and the codified
 > [[../wiki/topics/content-strategy/hormozi-writing-guidelines|Writing Guidelines]] /
 > Affiliate Black Book — anchored to the
 > [[../wiki/sources/2026-07-08-research-biography-dossier|biography dossier]] and the synthesized
 > topic pages.
+>
+> **Changelog v26->v27 (synthesis pass 20 - @MoreMozi Q&A cuts batches 175-184):** promoted
+> non-repeat April 2026 MoreMozi refinements: brand as persuasion context and the warning not
+> to trade brand for views; personal brand as a deal-flow/recruiting lever with privacy as a
+> one-way-door cost; content only when it solves the constraint, plus circle-of-competence,
+> original-source, proof-report, and "how I" authority rules; one-company/one-constraint focus,
+> B2C-before-B2B distraction checks, nail-the-model-before-franchise scaling, and service margin
+> capacity math; MESO/anchoring negotiation corroboration; confidence as domain-specific proof,
+> traits as skill buckets, observable input-output coaching, and money as bottled time / scarce
+> skill stack. Added light self-reported biography texture around ACQ not being planned for sale,
+> books/content as additive to ACQ, maker-heavy work rhythm, Leila/work-money origin texture, and
+> the fame/privacy tradeoff. Dropped repeats already covered by prior synthesis.
 >
 > **Changelog v25->v26 (synthesis pass 19 - @MoreMozi Q&A cuts batches 165-174):** promoted
 > non-repeat April-May 2026 MoreMozi refinements: proof-report content and revenue-over-views;

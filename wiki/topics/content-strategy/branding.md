@@ -4,7 +4,7 @@ domain: content-strategy
 domains: [content-strategy, marketing, business]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 7
+sources: 10
 tags: [branding, associations, positioning, direct-response, give-give-give, pricing-power, flywheel]
 ---
 
@@ -184,6 +184,21 @@ thinking [[../../sources/2026-07-02-yt-Uv4WiUmJbBo]].
 > over personal brand** ([[content-engine]] §4, "the book was the brand... it wasn't even
 > human"). The reconciling view: brand accelerates a *good* product but can't rescue a
 > mediocre one — a strong brand is downstream of a dialed product.
+
+**April 2026 operator refinements: brand as persuasion context, not view-chasing.** In a
+2026 MoreMozi Q&A, Hormozi defines brand in blunt persuasion terms: it is the context that
+changes how the same message is received, which is why free information can create future
+deal flow and trust at scale [[../../sources/2026-04-23-yt-ackX7jNs73s]]. A day earlier he
+warns not to trade that context for short-term views: algorithm chasing can pair the brand
+with the wrong associations, while his own post-Gym-Launch lesson was that the brand should
+make the right market trust his expertise boundary, not make everyone watch
+[[../../sources/2026-04-22-yt-WObB13oaEJE]].
+
+**Personal brand as an irreversible business lever.** In an April 2026 creator-business
+clip, he restates the upside of personal brand in practical terms: deal flow, recruiting,
+and feeding families on the team. The cost is privacy, and he treats fame as a one-way
+door once people know what you look like [[../../sources/2026-04-20-yt-X6_RRxr5GLg]]. This
+extends, rather than replaces, his 2024 fame ledger in [[content-engine]].
 
 ---
 

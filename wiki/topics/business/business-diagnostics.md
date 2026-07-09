@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 17
+sources: 23
 tags: [diagnostics, constraints, scaling]
 ---
 
@@ -434,6 +434,30 @@ call, he advises using the off-season to build infrastructure, proof, and acquis
 rather than inventing multiple new problems at once. The diagnostic is to choose the one
 constraint that will matter most when demand returns, then work that problem through the
 quiet period [[../../sources/2026-04-28-yt-oNG9AXBcJ7M]].
+
+**One company, one constraint, then the next.** In April 2026 he makes the focus rule more
+violent: pick one company, identify the binding constraint, give it a "silent six" style
+block of focused work, and only move to the next constraint after the current one breaks
+[[../../sources/2026-04-19-yt-_FI7RVlWSwo]]. The point is sequential throughput, not a
+portfolio of half-solved problems.
+
+**B2C before B2B when the consumer path already works.** For an e-commerce company tempted
+to pivot into B2B, he diagnoses the B2B path as a likely distraction until the proven B2C
+engine is exhausted; the constraint is the reason "more of what already works" cannot scale,
+not the existence of a shinier market [[../../sources/2026-04-26-yt-tysSBBQLur8]]
+[[../../sources/2026-04-24-yt-LrsUgepHc3Y]].
+
+**Nail the model before scaling the path.** In a nail-business clip, he cautions that
+franchising is often impatient, expensive capital before the owned-store model is actually
+proven. Owned locations keep the learning loop simpler until unit economics and operations
+are nailed [[../../sources/2026-04-22-yt-hyfJiJG9pd4]].
+
+**Supply constraints show up in margin and capacity math.** A medical-service clip
+sharpens the supply side: an 80% gross-margin service can treat sales commissions as CAC,
+but the offer should simplify delivery and pricing around the same operational capacity
+rather than invent new complexity [[../../sources/2026-04-26-yt-R2qzM-0gmec]]. In another
+clip, he distinguishes LTV:CAC from ROIC and notes that semi-private delivery, gross
+margin, and stress/capacity all change the real constraint [[../../sources/2026-04-21-yt-1aGbrnRQcbc]].
 
 ---
 

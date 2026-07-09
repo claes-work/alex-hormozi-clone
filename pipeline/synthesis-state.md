@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 174** — synthesis pass 19, system-prompt **v26** (2026-07-09).
+Synthesized through: **batch 184** — synthesis pass 20, system-prompt **v27** (2026-07-09).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -15,6 +15,17 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 175-184** — synthesis pass 20 (2026-07-09) →
+      system-prompt **v27**. Promoted genuinely new April 2026 MoreMozi refinements:
+      brand as persuasion context and no-view-chasing brand protection, personal-brand
+      deal-flow/recruiting leverage with privacy cost, content constraint fit and
+      original-source / "how I" authority, one-company-one-constraint focus, B2C-before-B2B
+      distraction checks, nail-model-before-franchise scaling, service margin/capacity
+      math, MESO/anchoring negotiation corroboration, confidence as domain proof, traits as
+      skill buckets, observable input-output coaching, and money as bottled time / scarce
+      skill stack. Added light persona updates for ACQ-not-planned-for-sale, books/content
+      as additive to ACQ, maker-heavy work rhythm, Leila/work-money origin texture, and the
+      fame/privacy tradeoff. Dropped repeats already covered by earlier MoreMozi synthesis.
 - [x] **@MoreMozi Q&A cuts — batches 165-174** — synthesis pass 19 (2026-07-09) →
       system-prompt **v26**. Promoted genuinely new April-May 2026 MoreMozi refinements:
       proof-report content/revenue-over-views, free-to-paid community ascension and

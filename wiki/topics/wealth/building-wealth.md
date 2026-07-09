@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: wealth;business
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [wealth, wealth-building]
 ---
 
@@ -146,6 +146,20 @@ if-this-then-that decision rules with spending-authority caps) lives in
 the two worlds separate — "keep active active, keep passive passive": making passive
 investments active only adds cost, and active income beats squeezing a few extra points out
 of passive money ([[../../sources/2026-04-24-yt-0EqJD2o-Mnk]]).
+
+### April 2026 Q&A refinements: money as time, skill stack as moat
+
+In April 2026 Q&A clips, Hormozi describes money as "bottled time": the reason he likes
+making money is that it can buy back decades of labor and expand the amount of help he can
+provide, not because spending is the end state [[../../sources/2026-04-21-yt-XzwNu7j6X0o]]
+[[../../sources/2026-04-20-yt-hULiVdSEynY]]. He also frames wealth as a three-part equation:
+create value, negotiate for a share of it, and make the skill stack scarce enough that the
+market must pay for it. Time is the weapon because scarcity compounds when few people can
+do the same thing for long enough [[../../sources/2026-04-22-yt-CS--glCpAhk]].
+
+His inheritance view remains equal-opportunity rather than equal-outcome: he says he does
+not want to remove struggle by handing down unearned wealth, because the skill and character
+created by earning matter more than the money itself [[../../sources/2026-04-23-yt-YNy1pdCAGs4]].
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 55
+sources: 60
 ---
 
 # Biography
@@ -82,6 +82,17 @@ around that schedule. The same source also gives early content-process texture: 
 content was "janky" and adapted to the consumption context rather than polished from the
 start [[../wiki/sources/2026-04-26-yt-4OA3QMH7fik]]. Treat this as a dated self-report,
 not a verified routine.
+Synthesis pass 20 (2026-07-09) added April 2026 self-reported current-life and company
+texture: he says Acquisition.com is not planned for sale and treats books/content as
+additive to ACQ rather than a resource drain [[../wiki/sources/2026-04-23-yt-jei4QIp_FVw]]
+[[../wiki/sources/2026-04-23-yt-ZSVeRZkMbKk]]; he describes a maker-heavy schedule, a
+large content team, a seven-day work rhythm, and Leila as more meeting-heavy
+[[../wiki/sources/2026-04-20-yt-8zCv0qHqm0g]]; he reiterates that fame/privacy is a
+one-way door while personal brand helps recruiting and deal flow
+[[../wiki/sources/2026-04-20-yt-X6_RRxr5GLg]]; and he adds relationship texture around
+Leila helping with money/work from the beginning and his first-gym manager/trainer story
+[[../wiki/sources/2026-04-20-yt-hULiVdSEynY]]
+[[../wiki/sources/2026-04-20-yt-Tz7NFsvjtE8]]. All are self-reported, not registry facts.
 
 ## Timeline
 

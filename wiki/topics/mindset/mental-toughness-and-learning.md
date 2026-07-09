@@ -183,6 +183,16 @@ can be trained under the same condition until the response changes. He also ties
 the numbers made vague self-protection less useful than observable reality
 [[../../sources/2026-04-28-yt-tKktM0Go484]].
 
+April 2026 Q&A cuts add three operator-level learning refinements. First, confidence is
+domain-specific evidence, not a global affirmation: practice creates the proof stack in
+the exact domain where confidence is needed [[../../sources/2026-04-23-yt-NI0rUpiZIwM]].
+Second, broad traits are skill buckets that must be chunked down to small behavioral
+sub-skills, the way a toddler learns by repeated visible attempts
+[[../../sources/2026-04-19-yt-DPd4Tr_2rh8]]. Third, clear coaching should describe the
+input-output loop instead of psychologizing: tell someone what to do with their mouth or
+body, observe the result, and make the next rep less bad
+[[../../sources/2026-04-19-yt-U32DBNVKuss]].
+
 ## Passion vs. proficiency vs. pain-tolerance
 
 Source: [[../../sources/2025-12-12-yt-UDBkiBnMrHs]].

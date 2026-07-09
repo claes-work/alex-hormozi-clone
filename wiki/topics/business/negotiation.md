@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: business
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [negotiation, deals]
 ---
 
@@ -32,10 +32,20 @@ The first number set in a negotiation becomes the anchor whether or not you disc
 - **Put the other side at ease.** After a fast "yes," tell them you wouldn't have done it for less/more — it makes them feel good regardless of whether it's literally true (he experienced this buying a penthouse).
 - **Anchoring a mess-up.** When a vendor damages something, don't ask *"what can you knock off the price?"* — ask what it would cost or inconvenience *them* to fix it, then use their own number as your discount: *"instead of saying, 'Hey, what can you knock off the price?' Ask them what the big inconvenience would be for them, ascribe a price to it. And then they have a hard time backing down from that."* (Learned from an early gym partner's custom front-desk story.)
 
+An April 2026 Q&A clip repeats the same tactics in compact form: anchor aggressively,
+counter-anchor when needed, control the increment size, and negotiate terms before price;
+for vendor mistakes, make the other side price the inconvenience before asking for the
+discount [[../../sources/2026-04-19-yt-QxOAnOxyP2Q]].
+
 ### 3. MESO (Multiple Equivalent Simultaneous Offers)
 Present several offers — A / B / C — with different price/term mixes, **all** acceptable to you. This embeds reciprocity, signals reasonableness, and teases out the other party's priorities without revealing your own. He cites the Journal of Personality and Social Psychology (his paraphrase) on MESO increasing mutually beneficial outcomes. MESO is the practical expression of the positive-sum principle: because the parties value terms differently, offering several equivalent bundles surfaces which trade is cheapest for you and most valuable to them.
 
 **Countering a MESO** (a tactic he attributes to a deal-mentor friend, name uncertain in captions): take the best part of each option and propose "option D," or ask the other side to give you two or three versions of their own and then recombine them.
+
+**April 2026 Q&A corroboration.** A later MoreMozi cut restates MESO as positive-sum
+priority discovery: offer multiple acceptable bundles, learn what the other side values
+most, and then counter a presented menu by building an "option D" from the best pieces
+(attributed in that clip to Sharran) [[../../sources/2026-04-21-yt-feIy09UZ3YY]].
 
 ### 4. Reciprocity / horse-trading
 The engine of persuasion — but it only works inside cultures where reciprocity is the norm; in mixed-culture situations, people from non-reciprocity cultures may exploit it. His key insight: people register *that* a concession was traded far more than they weigh its *relative value*. So **break the deal into many small pieces** to trade more times — cash vs. financed, 30- vs. 90-day close, furniture, and so on — using the value-equation levers of speed, price, risk, and ease. This lets you make concessions without moving on price. He keeps a **deal sheet** of terms he can change: *"For me, I have this big deal sheet that has 80 different things that I can change about a deal."*

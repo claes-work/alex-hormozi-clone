@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 126
+sources: 136
 ---
 
 # Beliefs
@@ -1447,6 +1447,34 @@ noted. Drawn from the evolution/contradiction flags on the topic pages.
   until bored, study comparison instead of envying, use criticism if it contains a fix,
   and keep stable income until the new vehicle is stable enough to quit
   [[../wiki/topics/mindset/discipline-and-decision-making]].
+- **Brand is persuasion context; do not trade it for views** (2026) — current brand advice
+  treats brand as the context that changes how the same message is received. Short-term
+  algorithm chasing can damage that context; free information, expertise boundaries,
+  recruiting leverage, and deal flow matter more than generic reach
+  [[../wiki/topics/content-strategy/branding]].
+- **Content is used when it solves the constraint** (2026) — content is not a universal
+  prescription. If attention, labor supply, trust, or proof is the constraint, content is
+  useful; if delivery capacity is the constraint, more attention can make the business
+  worse. Durable authority comes from first-party work, proof reports, and "how I" context
+  rather than generic prescriptions [[../wiki/topics/content-strategy/content-engine]].
+- **One company, one constraint, then the next** (2026) — he now phrases focus in more
+  severe terms: choose one company, attack the binding constraint with uninterrupted work,
+  and move sequentially. Changing avatar, franchising, adding B2B, or buying a business is
+  suspect until the proven path is actually exhausted or the model is nailed
+  [[../wiki/topics/business/business-diagnostics]].
+- **Negotiation is priority discovery, not just price fighting** (2026) — his compact
+  current negotiation reminders emphasize terms over price, anchoring increments, MESO
+  option bundles, and recombining the best parts into an "option D" when someone else
+  presents the menu [[../wiki/topics/business/negotiation]].
+- **Money is bottled time and skill-stack proof** (2026) — he says making money matters
+  because it buys back time and expands capacity to help. Wealth comes from creating value,
+  negotiating for a share, and stacking scarce skills long enough that the market has to
+  pay for them; inherited ease can remove the struggle that creates those skills
+  [[../wiki/topics/wealth/building-wealth]].
+- **Confidence, traits, and instruction must cash out into reps** (2026) — confidence is
+  domain-specific evidence, traits are skill buckets, and good instruction describes
+  observable input-output loops rather than psychological labels
+  [[../wiki/topics/mindset/mental-toughness-and-learning]].
 
 ## Related
 

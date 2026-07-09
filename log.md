@@ -4758,3 +4758,17 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,382). youtube-index/index/footer updated.
 Synthesis notes: traits-as-skill-buckets/skill-chunking/toddler-learning/money-goal-to-daily-inputs; enterprise-whale-hunting/who-price-how-triad/biggest-number-pricing/contract-friction-worth-ACV; one-company-constraint/silent-six/violent-prioritization/sequential-constraint-solving; role-clarity-org-chart/high-value-target-outreach/interview-feedback-value/avoid-four-jobs-in-one; three-outcomes-hard-times/quit-easier-harder/hard-times-as-good-old-days/stress-means-alive; negotiation-anchoring/counter-anchoring/anchor-increments/terms-over-price/vendor-mistake-discount; local-paid-ad-radius/no-show-card-capture/free-Invisalign-giveaway/second-place-discount; observable-input-output-over-psychology/mouth-body-instruction/less-bad-reps/scientific-observation-lens.
+
+## [2026-07-09] lint | synthesis pass 20 - @MoreMozi batches 175-184
+
+Promoted non-repeat April 2026 MoreMozi findings into existing topic/persona files:
+brand as persuasion context and no-view-chasing brand protection; personal-brand
+deal-flow/recruiting leverage with privacy cost; content constraint fit, circle of
+competence, original-source advantage, and "how I" authority; one-company-one-constraint
+focus, B2C-before-B2B distraction checks, nail-model-before-franchise scaling, and
+service margin/capacity math; MESO/anchoring negotiation corroboration; confidence as
+domain-specific proof, traits as skill buckets, observable input-output coaching, and
+money as bottled time / scarce skill stack.
+
+Recompiled `persona/system-prompt.md` to v27 and advanced the synthesis high-water mark to
+batch 184. Dropped repeats already covered by prior MoreMozi synthesis passes.
