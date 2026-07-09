@@ -4706,3 +4706,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,366). youtube-index/index/footer updated.
 Synthesis notes: expectation-adjustment/likes-life/no-alarm/sleep-as-long-as-can/anti-crutch-superstition; fear-emotion/inverted-thinking/vague-to-specific-fear/upside-downside-bias; roll-up-option-structure/consolidated-EBITDA-pie/one-person-control/spread-capture; happiness-autonomy/liked-work-with-liked-people/stable-contentedness; MESO-negotiation/positive-sum-priorities/option-D-counter-Sharran; beauty-brand-avoid-service-locations/education-product-distribution/media-location-only/few-details-perfectly; maker-mornings/back-to-front-calendar/large-content-team/seven-day-work-rhythm/Leila-meeting-heavy; enough-as-own-race/ambition-squeezes-person/first-gym-manager-trainer-story.
+
+## [2026-07-09] ingest | yt batch 183 - @MoreMozi P2 (2026-04-19 to 2026-04-20), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-20** `yt-18By5rofTbc` - financial-planning firm: workshops as lead magnet,
+  personal-finance/wealth-management offer split, and premium versus volume positioning.
+- **2026-04-20** `yt-hULiVdSEynY` - compressing a normal career into a shorter work
+  sprint and using money to expand helping capacity.
+- **2026-04-20** `yt-qssGpzK8h_c` - excellence as a power-law cost and one excellent
+  product as a long-lived asset, with `$100M Offers` economics.
+- **2026-04-20** `yt-p9cdjGxyvtk` - spa/float challenge model and Green Play front-end
+  membership conversion.
+- **2026-04-20** `yt-O0lkEEGdQwc` - kitchen-sink service offer, proof/context, and "how I"
+  instead of universal "how to" content while building.
+- **2026-04-20** `yt-X6_RRxr5GLg` - why Alex built content around Acquisition.com:
+  deal flow, recruiting, and privacy as the one-way-door price.
+- **2026-04-20** `yt-KPJDBNqQRa0` - description is not prescription; Alex experiences
+  freedom as choosing work.
+- **2026-04-19** `yt-iWsrf2oBBwU` - original-source content, copycats requiring the
+  originator, and beating copies by getting bigger.
+
+Ledger 8->L2 (L2 now 1,374). youtube-index/index/footer updated.
+Synthesis notes: financial-planning-offer-split/workshops-as-trust-lead-magnet/premium-vs-volume/personal-finance-to-wealth-ascension; buy-back-decades-compressed-work/Leila-first-date-help-money-story/money-expands-helping-capacity; excellence-power-law/opportunity-cost-of-one-thing/Offers-Book-economics/control-every-variable; spa-Green-Play/challenge-to-membership/front-end-breakeven/product-upsell; kitchen-sink-service-offer-then-trim/lived-problem-proof/context-carries-message/how-I-vs-how-to; personal-brand-for-deal-flow/recruiting-leverage/fame-privacy-one-way-door/content-feeds-families; description-not-prescription/freedom-as-choosing-work/work-as-presence; original-source-content/copycats-need-originator/beat-copycats-by-getting-bigger/long-game-independence.
