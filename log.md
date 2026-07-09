@@ -3169,3 +3169,29 @@ ingested as L2.
 
 Ledger 8→L2 (L2 now 965). youtube-index/index/footer updated. @MoreMozi P2: ~1,474 rows remain.
 Synthesis notes: upside in uncertainty/delay and downside bias; learning-speed/iteration-compression repeat; service workflow/AI-delivery plus VSL pain-point mining and avatar bar; choose-your-regret/loss-aversion frame; consistency/exact-adherence and boring-work value; skill chunking into behavioral sub-skills; determination as long extinction curve/get-better-don't-stop; advice filters plus SPCL influence restatement.
+
+## [2026-07-09] ingest | yt batch 125 — @MoreMozi P2 (2026-05-24 to 2026-05-25), 8 videos
+
+Thirty-eighth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry; the 8 successful rows were
+ingested as L2.
+
+- **2026-05-25** `yt-H84fq02j0H8` "You Need to Take Action" — learning/content:
+  declarative vs procedural knowledge, practitioner reps, and education as time compression.
+- **2026-05-25** `yt-Sn5wBUC-SFk` "You should start a boring business" — vehicle selection:
+  known problems, sticky products, and sales skill applied to a better opportunity.
+- **2026-05-25** `yt-5rk7GElwf6M` "I Build Websites For Clients - Is AI Going to Put Me Out of Business?" — AI/business:
+  narrative vs metric risk, inbound acquisition, quarterly prepay, and AI workflow margin.
+- **2026-05-25** `yt-HA_RUliOGhY` "How to Think About Competition at Every Goal Size" — competition:
+  goal size, network effects, finite attention, and probability bets.
+- **2026-05-24** `yt-2aUhv-GLnpk` "Manifestation vs Visualization: What's the Real Difference?" — observable mindset:
+  anti-manifestation stance, visualization caveat, and action requirement.
+- **2026-05-24** `yt-loIbj4NMExM` "How to Appear 50 IQ Points Smarter in Meetings with Just 20 Minutes..." — preparation:
+  prep leverage, time-on-task timer, and start-working productivity frame.
+- **2026-05-24** `yt-ew7Ek8y-E78` "How to Build a Network When You Have Nothing to Offer" — networking:
+  generalized giving early, skill as first currency, and narrowing later.
+- **2026-05-24** `yt-cAoAqel1Ufk` "Why Winning Isn't for Everyone" — work capacity:
+  wartime seasons, trade-offs, built-for-war frame, and long-horizon balance.
+
+Ledger 8→L2 (L2 now 973). youtube-index/index/footer updated. @MoreMozi P2: ~1,466 rows remain.
+Synthesis notes: declarative-vs-procedural knowledge and education-as-time-compression; boring vehicle/known problem/sticky product; AI narrative-vs-metric risk and internal workflow margin; competition by goal size/finite attention; anti-manifestation observable-world stance; preparation/time-on-task/start-working frame; early-career generalized giving and skill-as-currency networking; wartime seasons/trade-offs/work-capacity frame.
