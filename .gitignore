@@ -5,3 +5,7 @@ raw/
 .DS_Store
 Thumbs.db
 .obsidian/workspace.json
+
+# Python bytecode cache
+__pycache__/
+*.pyc
