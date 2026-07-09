@@ -4864,3 +4864,26 @@ Synthesis notes: Rocky-cutscene-5-to-10-year-grind/hard-as-selection-effect/slow
 Ledger 8->L2 (L2 now 1,414). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: free-offer-hidden-costs/why-not-discovery/first-four-hours-advertising; chosen-success-metric/play-the-business-game/work-life-balance-rejection; warm-audience-stealth-launches; structural-churn-small-customers/go-upmarket-or-low-cost-leader; complementary-skill-stacking/business-game-vs-product/promote-sell-product; CAT-cost-to-acquire-talent/supply-constrained-recruiting/referral-bonus-economics; skill-money-gap/luck-surface-area/lucky-belief-bigger-swings; death-agency/first-principles-living/social-judgment-irrelevance.
+
+## [2026-07-09] ingest | yt batch 189 - @MoreMozi P2 (2026-04-15), 8 videos
+
+- **2026-04-15** `yt-WEpeACs-NzQ` - ego as small-pond trap, harder opponents as ego
+  solvent, and Buffett/Munger reference-point self-report.
+- **2026-04-15** `yt-mVZHM5eTy38` - AI as humans-plus-technology, expert judgment for
+  output evaluation, and use-it-until-total-displacement posture.
+- **2026-04-15** `yt-V7M83TaBJks` - fully loaded CAC, conservative LTV underestimation,
+  and longer time horizons for lumpy service businesses.
+- **2026-04-15** `yt-jO3FhJLg1r0` - one-thing focus, Leila cut-everything-but-one
+  self-report, and state-facts/tell-truth anti-posturing rule.
+- **2026-04-15** `yt-HC50YS58VFY` - excuse vs origin story, hard past as fuel, and
+  Joe-Rogan-credited spawn-point frame.
+- **2026-04-15** `yt-8eb1wJLiKdg` - choose-your-regret decision frame and using loss
+  aversion when upside motivation fails.
+- **2026-04-15** `yt-Pt4fBDG2xJs` - Alex/Leila Bumble and frozen-yogurt first-date
+  biography color.
+- **2026-04-15** `yt-vvQpVOC0vI0` - cash-flow issue as expectation/timeline problem,
+  payment terms as sales issue, and growth-rate math.
+
+Ledger 8->L2 (L2 now 1,422). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: ego-small-pond-trap/harder-opponents/Buffett-Munger-reference; AI-humans-plus-technology/expert-judgment/use-it-posture; fully-loaded-CAC/conservative-LTV/lumpy-service-horizon; one-thing-focus/Leila-cut-everything-but-one/state-facts-tell-truth; excuse-vs-origin-story/spawn-point-frame; choose-your-regret/loss-aversion-decisions; Alex-Leila-Bumble-froyo-first-date; cash-flow-expectation-problem/payment-terms/growth-rate-math.

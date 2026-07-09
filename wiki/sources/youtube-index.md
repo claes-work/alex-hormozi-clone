@@ -601,6 +601,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-02 | [[2026-04-02-yt-0_Yyxwtrt_Q]] | Clothing brand $4.5M — retention 30→65% + price-matched influencers (light) | |
 | 2026-04-03 | [[2026-04-03-yt-W0Xw3-gAsJ8]] | Law firm $24M — focus, open more offices (light) | |
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
+| 2026-04-15 | [[2026-04-15-yt-WEpeACs-NzQ]] | Ego - small-pond trap, harder opponents, Buffett/Munger comparison | |
+| 2026-04-15 | [[2026-04-15-yt-mVZHM5eTy38]] | AI - humans plus technology, use it until total displacement | |
+| 2026-04-15 | [[2026-04-15-yt-V7M83TaBJks]] | Service math - fully loaded CAC, conservative LTV over long horizon | |
+| 2026-04-15 | [[2026-04-15-yt-jO3FhJLg1r0]] | Focus - one thing, stop posturing, state facts and tell truth | |
+| 2026-04-15 | [[2026-04-15-yt-HC50YS58VFY]] | Agency - excuse vs origin story, spawn-point frame | |
+| 2026-04-15 | [[2026-04-15-yt-8eb1wJLiKdg]] | Decisions - choose your regret, use loss aversion | |
+| 2026-04-15 | [[2026-04-15-yt-Pt4fBDG2xJs]] | Biography - Alex/Leila Bumble and frozen-yogurt first date | |
+| 2026-04-15 | [[2026-04-15-yt-vvQpVOC0vI0]] | Cash flow - expectation problem, payment terms, growth rate | |
 | 2026-04-16 | [[2026-04-16-yt-VIQVVeD63GA]] | Free offer - hidden costs and "why not" discovery | |
 | 2026-04-16 | [[2026-04-16-yt-hB8EMGliz2Q]] | Success metric - choose the game, no external balance standard | |
 | 2026-04-16 | [[2026-04-16-yt-Cz7lZSAnieo]] | Service launches - warm-audience ads behind organic cadence | |
@@ -1444,7 +1452,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,414 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,058 total, including P2 (~1,050 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,422 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,050 total, including P2 (~1,042 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
