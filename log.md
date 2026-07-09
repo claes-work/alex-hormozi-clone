@@ -4182,3 +4182,17 @@ Alex only as background context, not as speaker. No wiki source pages were creat
 
 Ledger 10->skipped (L2 unchanged at 1,222; skipped 79). youtube-index/index/footer updated.
 Synthesis notes: none - non-Alex GymLaunch staff/client/guest videos only; Alex references are context, not persona-attributed speech.
+
+## [2026-07-09] ingest | yt batch 163 - @GymLaunch P2 title triage (2024-09-13 to 2025-08-15), 10 skipped
+
+Continued @GymLaunch oldest-first P2 triage. The driver selected 10 rows, fetched captions
+successfully for all, and printed no checkpoint banner. Transcript starts and keyword checks confirm
+Kale/GymLaunch-led instruction or case-study discussion rather than Alex speech. No wiki source pages
+were created.
+
+- Skipped as non-Alex GymLaunch rows: `yt-YA0fJEkMpv4`, `yt-DOaiypfoPO8`, `yt-Bflgu3S0nII`,
+  `yt-2X5dcYVwM5Q`, `yt-v3KMlpMXi5c`, `yt-q4EDKA1iGSY`, `yt-KjY8TSF_-uk`,
+  `yt-KBglrWTLI-E`, `yt-IBLdUQH8JWI`, and `yt-myhZtabObeA`.
+
+Ledger 10->skipped (L2 unchanged at 1,222; skipped 89). youtube-index/index/footer updated.
+Synthesis notes: none - non-Alex GymLaunch Kale/staff videos only; Alex references are context, not persona-attributed speech.
