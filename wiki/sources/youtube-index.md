@@ -45,6 +45,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-06-04 | [[2024-06-04-yt-9unucIBuNio]] | "10x your pricing" (actually a 6-step branding framework) — pairing → why → who → advertise | ★ |
 | 2024-06-07 | [[2024-06-07-yt-VxKwz6hBVZU]] | Build a valuable company you can sell — goose & golden eggs, keyman risk, rollups | ★ |
 | 2024-06-09 | [[2024-06-09-yt-41EvCgwPrDc]] | Make more profit than 99% — 5 pricing concepts (LTV = price ÷ churn, look-back window) | ★ |
+| 2022-08-23 | [[2022-08-23-yt-Q2JCTCQzgKM]] | From rock bottom to breakthrough — the DUI/processor/mother rock-bottom → licensing pivot | |
+| 2022-08-27 | [[2022-08-27-yt-5RiR6cBLkFg]] | Why you should quit college — opportunity cost / skills vs degree (the Jacob case study) | |
+| 2022-08-30 | [[2022-08-30-yt-7ITff1fIbSc]] | How to grow an audience from 0 — years of daily consistency, action as the goal | |
+| 2022-09-03 | [[2022-09-03-yt-PFKGHL1MqkU]] | Investor 3-min morning routine — anti-routine; productivity = volume × leverage | |
+| 2022-09-06 | [[2022-09-06-yt-_ArQlwPvGUA]] | A business genie grants 3 wishes — price is the strongest profit lever (Van Westendorp) | ★ |
+| 2022-09-11 | [[2022-09-11-yt-yEKu6q0W3gs]] | How to make a ton of money — 10x/50x/100x price anchoring, S/M/L tier mechanics | |
+| 2022-09-13 | [[2022-09-13-yt-7DKXLasU4Kg]] | How to never feel stressed again — the volume + time levers of meaning | |
+| 2022-09-18 | [[2022-09-18-yt-bx48qPlaGvE]] | My best sales tactic — "ghost products" (send them cheaper elsewhere to earn trust) | |
 | 2022-09-20 | [[2022-09-20-yt-JsXZzgD_k9k]] | The one thing that makes you a better entrepreneur — skills/beliefs/traits triad | |
 | 2022-09-25 | [[2022-09-25-yt--TOYJHax5x8]] | How I wrote a #1 bestseller with $0 — the self-publish + word-of-mouth book-launch playbook | ★ |
 | 2022-09-27 | [[2022-09-27-yt-2lA_A8BGRRs]] | How to build large sales teams from 0 — the CLOSER-based team-scaling system | ★ |
@@ -499,7 +507,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_469 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_477 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

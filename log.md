@@ -18,6 +18,21 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — price-is-strongest-lever + rock-bottom bio (L2=477)
+
+Loop iteration 63. 8 @AlexHormozi P2 (Aug-Sep 2022, channel-start era). 1 L3-candidate: _ArQlwPvGUA
+"a business genie grants 3 wishes" (★ the pricing thought-experiment — of the 3 ways to double a
+business [more customers / longer retention / higher price], RAISING PRICE is the strongest profit
+lever [~6x profit from one change] + a concrete price-raise process [Van Westendorp survey, value-stack
+question, clear-the-pipeline] → feeds pricing-psychology). Rich rock-bottom bio in Q2JCTCQzgKM "rock
+bottom to breakthrough" (the detailed DUI + processor-seizure + mother-hospitalized timeline, the
+warehouse-living gym era, the 6k→8k→10k licensing-pivot origin, 400k→1M+/mo run). 5RiR6cBLkFg "quit
+college" corroborates Vanderbilt-graduated-a-year-early + is built on a dated on-camera case study
+(neighbor "Jacob", now 20 — his lines flagged non-persona). Minor bio color: his cat is named Bill.
+Rest L2 (grow-audience-from-0 [6yr/400-ep consistency], morning-routine [anti-routine], make-a-ton
+[10x/50x/100x anchoring], never-stressed [volume+time], best-sales-tactic [ghost products]). Ledger:
+L2=477. Next: continue @AlexHormozi P2 (198 left).
+
 ## [2026-07-09] lint | Synthesis pass 14 — 2 new topics (book-launch, sales-team-scaling) + biography + system-prompt v16
 
 Loop iteration 62 (synthesis). 4 parallel agents + recompile:
