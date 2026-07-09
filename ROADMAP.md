@@ -1,5 +1,9 @@
 # ROADMAP — Mass Ingestion Plan
 
+> 📋 **For the plain-language "what's still open" checklist across ALL workstreams
+> (ingest, analytics layer, acquisition.com courses, other sources, synthesis), see
+> [`BACKLOG.md`](BACKLOG.md).** In a new session, ask: "Lies BACKLOG.md und fass zusammen, was offen ist."
+
 _Status: APPROVED v1 (2026-07-08). This is the execution plan the curator follows
 autonomously across sessions. The ledger (Phase 0) tracks per-item progress; this file
 tracks per-phase progress._
