@@ -3821,3 +3821,31 @@ L2.
 
 Ledger 8->L2 (L2 now 1,155). youtube-index/index/footer updated. @MoreMozi P2: ~1,282 rows remain.
 Synthesis notes: acceptance-vs-good-enough/hard-times/high-agency; documentation failures/2-minute-gym-ad/$10M-self-report/capture-feedback; founder workload/model-climb-vs-summit/business-functions; subscription churn/default-box/text-edits/premium-avatar/quarterly-billing; second-arrow/only-suffer-once/memory-dividends; nuisance-business/owner-operator-advantage; comparison-as-measurement/Kylie-Forbes/brand-origin; absolute-acceptance/agency/judgment-fear/caption-caution.
+
+## [2026-07-09] ingest | yt batch 149 - @MoreMozi P2 (2026-05-08 to 2026-05-09), 8 videos
+
+Sixty-second resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-09** `yt-zgSWrcB5Jok` "What Should I Sell" - first business:
+  parents/jobs/interests filter, service business, problem selection, and ignorance debt.
+- **2026-05-09** `yt-T0pxr7usRgQ` "you must endure" - endurance:
+  unknown endpoint, hope frame, entrepreneurship breath-hold analogy, and must-be-nice acceptance.
+- **2026-05-09** `yt-K8I067HAF9Q` "What Makes Business So Difficult, and How to Win Anyways" - business pain:
+  five-year grasp, ego/comparison pain, infinite game, and many-sided-die persistence.
+- **2026-05-09** `yt-IuOjYZMQu_I` "The 4 Reasons Employees Don't Do What You Ask" - management:
+  Management Diamond, what/how/when/block, smallest skill deficiency, and intelligence as learning rate.
+- **2026-05-09** `yt-391bllD_W8o` "How to Win When Everything Takes Longer Than Expected" - expectations:
+  longer-than-expected work, entitlement, achievement credit, and marathon pacing.
+- **2026-05-09** `yt-2hhSDE9JoAg` "How to Take 100 Primary Actions to Reach Your Goal" - action:
+  Rule of 100, learning as behavior change, kitchen timer, fastest morning routine, and effort-defined winning.
+- **2026-05-08** `yt-xw6-p1jbpXA` "patience is relative to the outcome that you're going for" - urgency:
+  macro patience/micro speed, Everest-vs-foothill scale, blockers, and deadline compression.
+- **2026-05-08** `yt-XJ_-7_9x9XE` "Why Most Pricing Ladders Don't Actually Work" - pricing:
+  bespoke luxury pricing, insufficient tier differentiation, continuity retainer, and small-jobs-lead-big-jobs.
+
+Ledger 8->L2 (L2 now 1,163). youtube-index/index/footer updated. @MoreMozi P2: ~1,274 rows remain.
+Synthesis notes: what-to-sell parents/jobs/interests/service-business/ignorance-debt; endurance/unknown-endpoint/hope-frame/must-be-nice-acceptance; business-difficulty/five-year-grasp/infinite-game/many-sided-die; Management-Diamond/what-how-when-block/smallest-skill-deficiency/intelligence-as-learning-rate; expectations/entitlement/marathon-pacing/achievement-credit; Rule-of-100/learning-as-behavior-change/effort-defined-winning; macro-patience-micro-speed/Everest-vs-foothill/deadline-compression; pricing-ladder-critique/bespoke-luxury-pricing/continuity-retainer/small-jobs-lead-big-jobs.
