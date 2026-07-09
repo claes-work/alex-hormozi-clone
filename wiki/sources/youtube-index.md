@@ -601,10 +601,18 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-02 | [[2026-04-02-yt-0_Yyxwtrt_Q]] | Clothing brand $4.5M — retention 30→65% + price-matched influencers (light) | |
 | 2026-04-03 | [[2026-04-03-yt-W0Xw3-gAsJ8]] | Law firm $24M — focus, open more offices (light) | |
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
+| 2026-04-26 | [[2026-04-26-yt-4OA3QMH7fik]] | Daily schedule — 5am-1pm Alex time, meetings, gym; janky content origins | ★ |
+| 2026-04-26 | [[2026-04-26-yt-R8IrKnlMQCI]] | Comparison — study vs envy, criticism vs insult, feedback as fuel | ★ |
 | 2026-04-27 | [[2026-04-27-yt-zydvAjhEKBA]] | Coaching scale — leadership comp, quarterly objectives, push/pull metrics | ★ |
 | 2026-04-27 | [[2026-04-27-yt-RPxzxc_YgFE]] | Free-group pitch — sell personalization, feature stack by resources saved | ★ |
 | 2026-04-27 | [[2026-04-27-yt-rCIhlLQhOhA]] | Ad targeting — message/creative signals reach religious niche | ★ |
 | 2026-04-27 | [[2026-04-27-yt-oxt3CnQJItQ]] | Suffering — proof, story stakes, bigger monster makes hero | ★ |
+| 2026-04-27 | [[2026-04-27-yt-Wx6-8KY_wfs]] | Quit timing — keep stable role until community income matches | ★ |
+| 2026-04-27 | [[2026-04-27-yt-1judnbflO6w]] | Anxiety — reframe as excitement, practice until boredom | ★ |
+| 2026-04-27 | [[2026-04-27-yt-KCN3v3cjwvw]] | Med spa — front-end/upsell math, ideal-plan menu close | ★ |
+| 2026-04-27 | [[2026-04-27-yt-NeCiS1C9amQ]] | Paid learning — buy speed, troubleshooting, skill stacking | ★ |
+| 2026-04-27 | [[2026-04-27-yt--nfAO26sCzY]] | Missionaries vs mercenaries — sustained effort, transfer skill to team | ★ |
+| 2026-04-27 | [[2026-04-27-yt-Asy7IqieUho]] | Enterprise value — characteristics, not SaaS label | ★ |
 | 2026-04-28 | [[2026-04-28-yt-_TZEJAYUeCo]] | Roadmap $0→$10M — stage ladder + the "$3M three boxes" | ★ |
 | 2026-04-28 | [[2026-04-28-yt-Nkt_ot5mvMg]] | Competition — proof people are buying, channel demand | ★ |
 | 2026-04-28 | [[2026-04-28-yt-oNG9AXBcJ7M]] | Seasonal business — choose one path, off-season infrastructure vs new line | ★ |
@@ -1324,7 +1332,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,294 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,178 total, including P2 (~1,170 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,302 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,170 total, including P2 (~1,162 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

@@ -4457,3 +4457,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,294). youtube-index/index/footer updated.
 Synthesis notes: leadership-comp-architecture/profit-share-pool/quarterly-objectives-over-unstable-KPIs/push-pull-metrics; free-call-paid-pitch/sell-personalization/feature-stack-resources-saved; creative-message-as-targeting-when-demographics-blocked; suffering-as-proof/story-stakes/bigger-monster-bigger-hero/early-Gym-Launch-self-talk; local-service-beginner-trust-acquisition-advantage; traits-as-skills-conditions/Alex-numbers-feedback-origin; top-customer-avatar-narrowing/demographic-psychographic-geographic-activity-filters; specificity-as-mental-spam-blocker-bypass.
+
+## [2026-07-09] ingest | yt batch 174 - @MoreMozi P2 (2026-04-26 to 2026-04-27), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-26** `yt-4OA3QMH7fik` - daily schedule, Vegas/travel hub, early janky content
+  workflow, and adapting value to consumption context.
+- **2026-04-26** `yt-R8IrKnlMQCI` - comparison as study vs envy, criticism vs insult, and
+  feedback as fuel.
+- **2026-04-27** `yt-Wx6-8KY_wfs` - do not quit stable income until the community matches
+  it consistently; use income to buy learning and experiments.
+- **2026-04-27** `yt-1judnbflO6w` - anxiety as excitement and practice until the stimulus
+  becomes boring.
+- **2026-04-27** `yt-KCN3v3cjwvw` - med-spa front-end versus upsell expected-value math
+  and ideal-plan/menu-close framing.
+- **2026-04-27** `yt-NeCiS1C9amQ` - paid courses/coaching buy speed, troubleshooting, and
+  skill stacking.
+- **2026-04-27** `yt--nfAO26sCzY` - missionaries outlast mercenaries and founders must
+  transfer skills to sustain input.
+- **2026-04-27** `yt-Asy7IqieUho` - enterprise value comes from gross margin, retention,
+  and growth characteristics, not the SaaS label.
+
+Ledger 8->L2 (L2 now 1,302). youtube-index/index/footer updated.
+Synthesis notes: daily-schedule-5am-1pm-Alex-time/Vegas-hub/early-janky-content-workflow/adapt-value-to-context; comparison-as-study-not-envy/criticism-vs-insult/feedback-as-fuel; quit-only-after-new-income-matches/stability-makes-business-fun/constraints; anxiety-as-excitement/practice-until-boredom; med-spa-front-end-upsell-expected-value/menu-close; paid-learning-as-speed/troubleshooting/skill-stacking; missionary-vs-mercenary-longevity/transfer-skill-to-sustain-input; enterprise-value-characteristics-not-SaaS/high-gross-margin-retention-growth.
