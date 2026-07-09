@@ -3299,3 +3299,29 @@ ingested as L2.
 
 Ledger 8→L2 (L2 now 1,005). youtube-index/index/footer updated. @MoreMozi P2: ~1,434 rows remain.
 Synthesis notes: friendship cut signal/past-only talk and self-respect; learning/intelligence operational definitions applied to relationships; local-market base fortification and content-as-impact for real estate education; interest-media/content-is-targeting with quality-view and market-size math; premium-offer speed/risk/ease plus lead-magnet/softer-ask mechanics; five-stage painful income cycle; success language/work redefinition plus family-criticism boundary; pain-specificity and pain-over-passion fuel frame.
+
+## [2026-07-09] ingest | yt batch 130 — @MoreMozi P2 (2026-05-21), 8 videos
+
+Forty-third resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry; the 8 successful rows were
+ingested as L2.
+
+- **2026-05-21** `yt-9p9aoeO3n2g` "Should You Do What You Love or What Pays the Bills" — passion:
+  follow-your-passion critique, changing interests, market value, and pain as price tag.
+- **2026-05-21** `yt-8g1FXXMqApc` "How to Fix a Broken Sales Funnel" — funnel:
+  application friction, quality-over-quantity content attribution, save-worthy paid creative.
+- **2026-05-21** `yt-1LRv0Bif2vM` "You Are the Problem" — trade-offs:
+  perfect-pick fallacy, regret analysis, sacrifices, and starting with available resources.
+- **2026-05-21** `yt-5JOzXM0wjj4` "The 3 Things Everyone Gets Wrong About Feedback" — feedback:
+  criticism as fixed cost, goal-proximate feedback, veteran frame, and shutdown-day learning.
+- **2026-05-21** `yt-jlZKI6RE9bY` "Just do MORE" — scaling:
+  more/better/new, new as risky, give time time, Gym Launch director turnover, and reaping.
+- **2026-05-21** `yt-MqyeikfbeTc` "You need to upsell" — sales:
+  halfway rollover-credit upsell, owner sales calls, and continuity downsell.
+- **2026-05-21** `yt-egvfFY8Rv0k` "Ads Have Changed Forever" — ads:
+  paid/content merger, organic winners as ads, saves/follows, and overlay CTA.
+- **2026-05-21** `yt-FzK6oFRJckw` "The Harsh Truth About What Others Think of Your Life" — criticism:
+  family-table overlap, good-don't boundary, and you're-right defusion tactic.
+
+Ledger 8→L2 (L2 now 1,013). youtube-index/index/footer updated. @MoreMozi P2: ~1,426 rows remain.
+Synthesis notes: follow-your-passion critique and pain-as-price-tag; funnel friction/qualified-throughput and save-worthy ads; perfect-pick fallacy/trade-off realism/use-what-you-have; criticism fixed cost, closest-to-goals feedback and shutdown-day learning; more-better-new/new-risk/give-time-time/Gym-Launch director turnover/third-marshmallow; halfway rollover-credit upsell; paid-content merger with organic winners as ads; family criticism good-don't and you're-right defusion.

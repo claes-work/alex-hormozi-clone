@@ -589,6 +589,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-21 | [[2026-05-21-yt-RFNk5-TJVgQ]] | Painful stage - uninformed optimism to valley of despair to achievement | ★ |
 | 2026-05-21 | [[2026-05-21-yt-XYjQgcCvypg]] | Success language - work redefined, don't justify to people with unwanted lives | ★ |
 | 2026-05-21 | [[2026-05-21-yt-OZJWhKm6f94]] | Pain beats passion - use pain, twist the knife, specificity as fuel | ★ |
+| 2026-05-21 | [[2026-05-21-yt-9p9aoeO3n2g]] | Passion myth - market value, changing interests, pain as price tag | ★ |
+| 2026-05-21 | [[2026-05-21-yt-8g1FXXMqApc]] | Funnel fix - friction improved quality, content attribution, save-worthy ads | ★ |
+| 2026-05-21 | [[2026-05-21-yt-1LRv0Bif2vM]] | Trade-offs - you are the problem, perfect-pick fallacy, use what you have | ★ |
+| 2026-05-21 | [[2026-05-21-yt-5JOzXM0wjj4]] | Feedback - criticism fixed cost, closest to goals, 20-hour immersion | ★ |
+| 2026-05-21 | [[2026-05-21-yt-jlZKI6RE9bY]] | More/better/new - new is risky, give time time, third marshmallow fallacy | ★ |
+| 2026-05-21 | [[2026-05-21-yt-MqyeikfbeTc]] | Upsell - halfway rollover credit, owner sales call, continuity downsell | ★ |
+| 2026-05-21 | [[2026-05-21-yt-egvfFY8Rv0k]] | Ads/content merger - organic winners as ads, saves/follows, overlay CTA | ★ |
+| 2026-05-21 | [[2026-05-21-yt-FzK6oFRJckw]] | Criticism - family-table overlap, good-don't, you're-right defusion | ★ |
 | 2026-05-22 | [[2026-05-22-yt-2zdUPuStNok]] | Wrong game - father apology, status-game realization, negative micro to macro win | ★ |
 | 2026-05-22 | [[2026-05-22-yt-fMTZmFbyhcI]] | Work ethic - required work, but-I'll-know standard, good-day blueprint | ★ |
 | 2026-05-22 | [[2026-05-22-yt-JiOXM2imrL4]] | Focus/pain - red-dress overlap, billion-dollar razor, heroes use pain | ★ |
@@ -1035,7 +1043,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,005 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,529 total, including P2 (~1,507, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,013 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,521 total, including P2 (~1,499, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
