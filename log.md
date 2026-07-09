@@ -18,6 +18,23 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — earliest uploads: invest-criteria + first-sale turning point (L2=509)
+
+Loop iteration 68. 8 @AlexHormozi P2 (Mar-Apr 2022 — his EARLIEST uploads; channel began ~March 2022,
+earlier than previously thought). 2 L3-candidates: aOq1Hdz0w3k "what I look for to invest" (★ the 3-part
+investment checklist — # of units sellable × profit/gross-margin per unit × competitive dynamics; plus
+the 80% service-margin rule and "TAM is overrated" → investing-rules/scaling-EV), _33XVdvO4Gc "the day
+everything changed" (★ a net-new dated BIOGRAPHY beat — the first sale ever closed by SOMEONE OTHER than
+Alex; he got the text while driving, pulled over teary, realizing "it could become a business that did
+not require me"; this is his operator→owner turning point, distinct from the Kylie/Forbes moment → seeds
+the "salespeople are born, selection beats training" hiring thesis). Bio corroboration: kzKxrifSMNg names
+the **three 2021 exits — Gym Launch, Prestige Labs, ALAN** (aligns with the "8 businesses/$46.2M-combined"
+reconciliation from last batch). FNJpJG-sSXM "Biden's tax plan" is DATED Apr-2022 political commentary —
+⚠️ rule-3 flagged, kept OUT of beliefs.md (bio nugget: he anticipated a cap-gains hike as a 2021-exit
+reason; has voted once and regretted it). Rest L2 (6-LTV-levers/customers-are-fractal, inverse-thinking,
+software-terrible-idea [SaaS contrarian], selfcare-makes-poor, redefine-reality [labeling/Frankl]).
+These had published=NA → dated from captions. Ledger: L2=509. Next: continue @AlexHormozi P2 (166 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — exit-count reconciliation + sales-training landmark (L2=501, >500!)
 
 Loop iteration 67. 8 @AlexHormozi P2 (Apr-May 2022 — his EARLIEST uploads; channel began ~April 2022).
