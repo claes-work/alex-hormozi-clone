@@ -1701,3 +1701,43 @@ First @AlexHormozi P2 batch. These 2020-10 uploads are the OLDEST in the whole @
 
 Ledger 8→L2 (L2 now 568), 2→L1 (unavailable/429). youtube-index/index/footer updated. @AlexHormozi P2:
 ~112 rows remain. **Synthesis backlog:** Arnold + six-gyms-remote + Marcos-Rivera bio/context beats.
+
+## [2026-07-09] ingest | yt batch 77 — @AlexHormozi P2 (2020-10/11 gym-era), 10 videos
+
+Second @AlexHormozi P2 batch (light-bundle pattern, 4 agents / 10 pages). All 2020 Gym-Launch-era.
+
+- **2020-10-27** `yt-gza5RtQCVsA` "Downselling Like a Pro" — proto-downsell: concession ladder (each
+  price drop traded for term/testimonial/referral via reciprocity), "fair enough?" close.
+- **2020-10-29** `yt-mOKl6dodMTg` "Reopening the Right Way" — COVID-reopen margin math; 80% GM rule,
+  price-to-service-level, 5 reset levers.
+- **2020-11-03** `yt-j1tA4l7R2c0` "Close by Saying No First" — proto-assume-close (negative-question
+  framing → high take rates) + "fries and Coke" high-margin bolt-on; includes a Schwartz/Mano furrier
+  biographical anecdote.
+- **2020-11-10** `yt-7wN8n3qrqnQ` "Why Coaches Get Hate" — perceived value of a favor/information
+  decays over time → capture testimonials immediately.
+- **2020-11-12** `yt-bpPoIOPgoAw` "Turned Down 2×$50k" — ⭐ **BIO:** at **Funnel Hacking Live 2020**
+  two attendees each offered $50k for one consulting day; **Leila said "No, we don't do that"** before
+  he could answer. Attention > time. Won ClickFunnels **"2 Comma Club X"** (>$10M sales); **~$30M/yr
+  run rate late 2020**; cites an unnamed ex-COO of a "$10B company" as his "go slow to go fast" mentor.
+- **2020-11-17** `yt-3oD41B66NsM` "The Sweet Spot" — every role governed by **paired metrics** (a
+  volume/speed metric counterbalanced by a quality metric), per Andy Grove's *High Output Management*;
+  the sweet spot is the balanced middle.
+- **2020-11-19** `yt--UvmyixFszw` "4 Steps to Max Revenue/Customer" — ⭐ a **NAMED proto-Money-Model**,
+  the **"cash flow quadrant"**: (1) Products, (2) Add-on services, (3) Prepaid/financing, (4) Continuity
+  ("downselling the upsell"). Clear seed of the 2025 [[money-model]]; pre-book vocabulary.
+- **2020-11-24** `yt-5Kt-EYieNko` "A Hard Learned Lesson" — level-up temptation ("woman in the red
+  dress"); filter bets through 3 questions (upside / downside / can I live with the downside);
+  "casino chips" (most founders can't bet like Bezos). Filmed at **Bear Lake** (personal-location flag).
+- **2020-11-26** `yt-JSsuK_0kdzA` "The Oh Sh*t Moment" — gym-owner COVID reckoning → pivot online now
+  (Blockbuster-vs-Netflix, "forced adoption pulled remote fitness 10 yrs forward"). ⚠️ **BIO cross-check:**
+  self-reports "in Gym Launch I lose money the first 30–60 days" (unit econ) and mentions relaunching
+  **"Sonic Fitness at large"** — a brand not previously in the wiki; both flagged to verify.
+- **2020-12-01** `yt-XC_lklN9KmE` "Your Inflow Is Your Bottleneck" — ⭐ explicit **proto-constraint/
+  diagnostic**: most service businesses are capped by new-client inflow not retention; work *backward*
+  from the member goal through churn/close/show to required signups/appointments/ad spend. Candidate to
+  promote into [[business-diagnostics]].
+
+Ledger 10→L2 (L2 now 578). youtube-index/index/footer updated. @AlexHormozi P2: ~100 rows remain.
+**Synthesis backlog (rich):** "cash flow quadrant" → money-model evolution; inflow-bottleneck →
+business-diagnostics; FHL-2020/$50k + 2CommaClubX + $30M-run-rate + Bear Lake bio; verify GymLaunch
+30–60d unit econ + "Sonic Fitness" brand.
