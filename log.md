@@ -18,6 +18,25 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — earliest AI take + froyo unit-economics (L2=453)
+
+Loop iteration 58. 8 @AlexHormozi P2 (Dec 2022-Feb 2023 — near his @AlexHormozi channel start). 2
+L3-candidates: xZ8d9g6BcKM "building a frozen yogurt store in 11 min" (★ unit-economics + pricing-
+psychology case — 6 lessons: usage-based-pricing-self-blame, highest-margin-first ordering, default-
+option cup sizing, buy failed competitors' equipment cheap, WoM/affiliate on low-ticket; bio hook: the
+froyo business he nearly started at 21), INm4U2S7Vu8 "24 investing rules" (★ a dense investing canon —
+extreme risk-aversion, the deal disqualifiers [diligence/model/track-record/contract], reputation &
+peace-of-mind as compounding returns → seeds an investing-rules topic page). AI TIMELINE: KYqEK_T_5M4
+"get rich in the AI revolution" (Dec 28 2022, ~4 weeks post-ChatGPT) is his EARLIEST logged AI take —
+a sweeping futurist thesis; pairs with the Feb-2023 z7X95bn2T6A tool-showcase and the 2026 strategic
+thesis to form a clean AI-evolution arc. Rule-3 flag: in Dec 2022 he "tried for years to slow down/
+regulate AI" → reverses to 2026's pro-adoption urgency. Early-life bio surfaced: test-prep as one of 3
+businesses before the gym (scored above Harvard's GMAT after 4mo prep), Smoothie King at 15 ($7.25/hr),
+lived 7-to-a-house for $400/mo, family lost everything in the Iranian Revolution. Rest L2 (student-side-
+hustle, 14/42 money-mistakes compilations, Chick-fil-A 7-lessons, burnt-out coaching call). Ledger:
+L2=453. Backlog for synthesis 13: AI-thesis-timeline (Dec22→Feb23→2026), investing-rules, froyo-unit-
+economics/pricing-psychology, Arnault brand-pricing-power, dealer sawdust. Next: @AlexHormozi P2 (222 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — AI-2023 bookend + Arnault + dealer lessons (L2=445)
 
 Loop iteration 57. 8 @AlexHormozi P2 (Feb-Mar 2023). 2 L3-candidates: ONV__y1z7MI "how the world's

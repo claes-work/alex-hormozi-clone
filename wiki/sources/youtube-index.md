@@ -45,7 +45,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-06-04 | [[2024-06-04-yt-9unucIBuNio]] | "10x your pricing" (actually a 6-step branding framework) — pairing → why → who → advertise | ★ |
 | 2024-06-07 | [[2024-06-07-yt-VxKwz6hBVZU]] | Build a valuable company you can sell — goose & golden eggs, keyman risk, rollups | ★ |
 | 2024-06-09 | [[2024-06-09-yt-41EvCgwPrDc]] | Make more profit than 99% — 5 pricing concepts (LTV = price ÷ churn, look-back window) | ★ |
-| 2023-02-08 | [[2023-02-08-yt-z7X95bn2T6A]] | Replace yourself with AI — his EARLIEST (Feb 2023) AI take (dated bookend vs the 2026 thesis) | |
+| 2022-12-14 | [[2022-12-14-yt-CGSd00h-6zI]] | The best student side hustle — the semi-private (1-to-8) test-prep model to $1M/yr | |
+| 2022-12-21 | [[2022-12-21-yt-q6SdmgIji30]] | 14 money mistakes to avoid in your 20s — season of learning not earning | |
+| 2022-12-28 | [[2022-12-28-yt-KYqEK_T_5M4]] | Get rich in the AI revolution (2023) — his EARLIEST (Dec 2022) AI take (origin of the AI timeline) | |
+| 2023-01-04 | [[2023-01-04-yt-vthPawWn6ws]] | Watch this if you're feeling burnt out — stress-reframing (a coaching call, Alex's half) | |
+| 2023-01-11 | [[2023-01-11-yt-xZ8d9g6BcKM]] | Building a frozen yogurt store in 11 min — unit economics + pricing psychology (froyo at 21) | ★ |
+| 2023-01-18 | [[2023-01-18-yt-TIH1w-KuATk]] | 7 secrets behind Chick-fil-A's $50B empire — focus, missionary-not-mercenary, internal compounding | |
+| 2023-01-25 | [[2023-01-25-yt-rp1PzCxj3eU]] | 42 recession-proof money hacks — a wealth-principles compilation | |
+| 2023-02-01 | [[2023-02-01-yt-INm4U2S7Vu8]] | Get rich with these 24 investing rules — risk-aversion & deal disqualifiers | ★ |
+| 2023-02-08 | [[2023-02-08-yt-z7X95bn2T6A]] | Replace yourself with AI — an early (Feb 2023) AI tool showcase (dated bookend vs the 2026 thesis) | |
 | 2023-02-15 | [[2023-02-15-yt-ONV__y1z7MI]] | How the world's richest man made his money — Arnault/LVMH luxury pricing inversion | ★ |
 | 2023-02-22 | [[2023-02-22-yt-0mqqbuM9sAk]] | I built 4 businesses to show it's not luck — Gym Launch / Prestige / ALAN / Acquisition.com | |
 | 2023-03-01 | [[2023-03-01-yt--wnnwCqGeNc]] | The #1 reason young people stay poor — learn-vs-earn seasons, do 2–4× volume | |
@@ -475,7 +483,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_445 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_453 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
