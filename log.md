@@ -18,6 +18,25 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @ACQofficial P2 Alex clips (L2) — origin-story bio gold (L2=371)
+
+Loop iteration 43. 8 @ACQofficial ALEX clips (2023, deliberately picked the Alex-titled ones; the
+~10 Leila-titled ones deferred/triage-next). 3 L3-candidates, two with genuinely NEW biography:
+- EkcGq5e7KoQ "story of his first business" (★ NEW pre-gym origin — a charity "free training project"
+  [$500-1000 donation for training] → ~20-client online training business → CA apprenticeship → first
+  gym; ABSENT from his 2024 telling → added to biography.md as a self-reported pre-gym row + gaps entry).
+- GKvAQIe5vpo "slept on gym floors" (★ corroborates the rock-bottom timeline — quit DC job at 22, drove
+  cross-country, "Seven Figure Sam" 12-wk apprenticeship, Huntington Beach gym floor, 2013 FB ads, 5
+  locations → added as corroboration citation to the existing biography row).
+- rWot6uLajms "weird views on death" (★ distinct mortality philosophy — no legacy / all becomes dust,
+  the fictitious-85-year-old-self as mentor #1, "we're all going to be dust so we're all siblings").
+Also: 8JkrmHHxh-Q "started lifting at 19" — the "19" is title-only; clip says teacher "Mr Givens" at
+~15 with earlier training → early-teens start (logged in gaps, reconciles bodybuilding ~14-22). Rest
+L2 dups (10x-income [title unsupported, no income content, Lewis Howes host], own-way [woman-in-red-
+dress], angry2 [father-revenge dup], business-as-hobby). Ledger: L2=371. Speaker attribution clean
+(hosts Lewis Howes etc. excluded). Next: triage the ~12 remaining @ACQofficial P2 (mostly Leila-primary
+→ context-flag/skip the no-Alex ones), then @AlexHormozi/@MoreMozi P2, then shorts.
+
 ## [2026-07-09] ingest | Stage B: 8 @ACQofficial P2 (L2) — $46M-exit anatomy + Gym Launch founding bio (L2=363)
 
 Loop iteration 42. Pivoted to @ACQofficial P2 (28 open; Leila-heavy channel). 8 clips (2024 Q1-Q2).

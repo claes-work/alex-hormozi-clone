@@ -11,6 +11,17 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
 
 ## Open
 
+- **[2026-07-09] Lifting/fitness start age.** An @ACQofficial clip titled "Started Lifting Weights
+  at 19" ([[sources/2023-06-27-yt-8JkrmHHxh-Q]]) actually has Alex describing structured training
+  with a teacher ("Mr Givens") at **~15**, with training already underway before that → an
+  **early-teens** start, not 19. The "19" appears only in the title (channel-written), not his words.
+  Reconciles with the bodybuilding "~age 14–22" claim; treat "19" as unverified/title-only.
+- **[2026-07-09] Pre-gym origin — charity-training step needs cross-check.** The 2023 telling
+  ([[sources/2023-12-17-yt-EkcGq5e7KoQ]]) adds a charity "free training project" → ~20-client online
+  training business *before* the California apprenticeship — absent from the 2024 "drove west → Seven
+  Fig Sam → first gym" telling. Added to biography.md as a self-reported pre-gym step; corroborate
+  against other origin sources before hardening the sequence.
+
 - **[2026-07-09] Appearance — grooming/wardrobe/setting still ungrounded.** `persona/appearance.md`
   is now **populated** for physique/build/athletic background (from the Bumstead workout, 2024-11-18),
   but on-camera grooming (hair/facial hair/skin), wardrobe/dress, filming backdrop, height, and an

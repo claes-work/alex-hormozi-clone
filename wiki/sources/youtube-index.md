@@ -211,6 +211,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2023-06-12 | [[2023-06-12-yt-sJn1Hjcj8-g]] | Dark side of entrepreneurship — ⚠️ **no Alex** (Leila's angle; cross-check only) | |
 | 2023-06-13 | [[2023-06-13-yt-rOTT4vZgB5Y]] | Crumbl Cookies model — rotating variety to extend LTV (case study) | |
 | 2023-06-18 | [[2023-06-18-yt-B1-oIkRLh-8]] | Dad advice — his father's story (Iranian refugee, Tehran, 1979) + maxims | ★ |
+| 2023-06-27 | [[2023-06-27-yt-8JkrmHHxh-Q]] | Started lifting (teacher "Mr Givens"); ⚠️ title says 19 but clip = early teens (bio/fitness) | |
+| 2023-07-04 | [[2023-07-04-yt-GKvAQIe5vpo]] | Slept on gym floors — rock-bottom bio: quit DC job at 22, "Seven Figure Sam", Huntington Beach | ★ |
+| 2023-07-11 | [[2023-07-11-yt-x_NMNlGcEXY]] | "10xed his income" (title unsupported) — ego-reduction since 19 (host Lewis Howes) | |
+| 2023-07-16 | [[2023-07-16-yt-rWot6uLajms]] | Weird views on death — no legacy / all becomes dust, the 85-year-old-self mentor | ★ |
+| 2023-07-18 | [[2023-07-18-yt-eNU4CGnvykA]] | How to stop getting in your own way — "woman in the red dress", specialize projects / generalize skills | |
+| 2023-07-21 | [[2023-07-21-yt-WEw8r5Avcxw]] | Stop being so angry — father-revenge → play your own game (dup) | |
+| 2023-10-10 | [[2023-10-10-yt--OhpgLV7IFw]] | Business is his favorite "hobby" — rebuts burnout / work-life-balance as projection | |
+| 2023-12-17 | [[2023-12-17-yt-EkcGq5e7KoQ]] | Story of his first business — NEW pre-gym origin: charity training project → online training → first gym | ★ |
 | 2023-07-01 | [[2023-07-01-yt-M2VP64Tc60w]] | 5 ways to scale — up/down/adjacent/broader/narrower market | ★ |
 | 2023-07-04 | [[2023-07-04-yt-x1j6hfL3U9U]] | Ego is keeping you poor — comparison/humility (host Lewis Howes) | |
 | 2023-07-07 | [[2023-07-07-yt-obmdEvHJlAg]] | Rock bottom is good — nothing to lose, "shame only in the shadows" | |
@@ -393,7 +401,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_363 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_371 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
