@@ -4249,3 +4249,29 @@ ingested as L2.
 
 Ledger 8->L2 (L2 now 1,230). youtube-index/index/footer updated.
 Synthesis notes: move-mountains-effort-standard/hundreds-of-reps/backward-price-from-success; strategy-as-opportunity-curation-plus-prioritization; AI-era-demonstration-of-expertise/real-client-stakes/20-50-audits-content-engine; youth-status-decay/durable-excellence/elongated-reinforcement-loops; long-form-intro-topic-specific-credibility/origin-story-description; community-whole-business-vs-nurture-vs-delivery/GymLaunch-Skool-functional-not-legal-franchise; YouTube-description-stranger-credibility/dont-brag-state-facts; pivoting-doom-cycle/uninformed-optimism-informed-pessimism-valley-of-despair/opportunity-debt/stick-with-it/Suzanne-Schiffler-everything-has-problems.
+
+## [2026-07-09] ingest | yt batch 166 - @MoreMozi P2 (2026-05-05), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the same 2
+rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows were
+Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-05-05** `yt-9byGJaxVRDI` - paid community pricing by audience affinity, conversion,
+  churn, and effective EPC.
+- **2026-05-05** `yt-oQ9xAXvac7M` - CFA/credential decision as short-term sacrifice for
+  permanent income ROI.
+- **2026-05-05** `yt-qViyhoDLhks` - niche-down/proof ladder: do not compete with Tony Robbins
+  broadly; win a narrow pain/avatar first.
+- **2026-05-05** `yt-QPGYviux24o` - work-after-tired standard, lived exposure to exceptional
+  work, and proximity to champions.
+- **2026-05-05** `yt-DpB_hUtBqwk` - outdoor-lighting sales motion: spouse confirmation, VSL
+  pre-framing, and giveaway second-place prize offer.
+- **2026-05-05** `yt-RZBHmwX-uE0` - mediocre-plan consistency, stick-to-it muscle, and the
+  utility test for helplessness/must-be-nice mindsets.
+- **2026-05-05** `yt-iiX23it0jUg` - high-ticket dental acquisition: Meta/PPC lead temperature,
+  BANT screening, premium creative-avatar matching, and set-call diagnosis.
+- **2026-05-05** `yt-REqnb6hkk5E` - community referral unlock and optional uncapped giveaway
+  overlay.
+
+Ledger 8->L2 (L2 now 1,238). youtube-index/index/footer updated.
+Synthesis notes: paid-community-pricing-by-EPC/conversion/churn; credential-ROI/short-term-sacrifice-for-lifetime-income; niche-down-proof-ladder/beat-Tony-Robbins-in-narrow-avatar; work-after-tired/proximity-to-champions/live-exposure-standards; outdoor-lighting-sales-motion/spouse-confirmation/VSL-preframe/giveaway-second-place-prize; mediocre-plan-beats-perfect/stick-to-it-muscle/must-be-nice-mindset-utility-test; high-ticket-dental-Meta-vs-PPC-lead-temperature/BANT-screening/premium-creative-avatar/set-call-diagnosis; community-referral-unlock/uncapped-giveaway-overlay.
