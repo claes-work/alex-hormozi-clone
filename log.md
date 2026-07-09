@@ -4139,3 +4139,17 @@ created.
 
 Ledger 10->skipped (L2 unchanged at 1,222; skipped 49). youtube-index/index/footer updated.
 Synthesis notes: none - non-Alex GymLaunch Kale/Kayla/staff videos only; Alex mentions are framework/source references, not persona-attributed speech.
+
+## [2026-07-09] ingest | yt batch 160 - @GymLaunch P2 title triage (2022-10-05 to 2022-11-02), 10 skipped
+
+Continued @GymLaunch oldest-first P2 triage. The driver selected 10 rows, fetched captions
+successfully for all, and printed no checkpoint banner. Transcript starts and keyword checks confirm
+Kale/Kayla/staff-led GymLaunch instruction or promotion rather than Alex speech. The GymCon promo
+names Alex as a future speaker only; no source page was created.
+
+- Skipped as non-Alex GymLaunch Kale/Kayla/staff rows: `yt-l0ruE0jGq80`, `yt-luoGH2y-Zzk`,
+  `yt-TtNkS4PfkjY`, `yt-SsMTi4C-520`, `yt-wQoMix-m_G0`, `yt-PBTq3WokuC4`,
+  `yt-x9kwSDXxuAM`, `yt-nukVm6tc3AE`, `yt-KPwq1eqEKFI`, and `yt--UFVycklgUs`.
+
+Ledger 10->skipped (L2 unchanged at 1,222; skipped 59). youtube-index/index/footer updated.
+Synthesis notes: none - non-Alex GymLaunch Kale/Kayla/staff videos only; GymCon promo names Alex as a future speaker, not as source speech.
