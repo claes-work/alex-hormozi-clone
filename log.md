@@ -1776,3 +1776,42 @@ Ledger 10→L2 (L2 now 588). youtube-index/index/footer updated. @AlexHormozi P2
 **Next iteration = batch 79; synthesis pass at batch 80** (backlog is now large: proto-money-model/
 constraint timeline, CLOSER/Rule-of-100 dating, tax anti-shelter, diet, work/life belief, rich gym-era
 bio incl. $5M-lesson + FHL-2020 + Arnold + softer-origin reconciliation).
+
+## [2026-07-09] ingest | yt batch 79 — @AlexHormozi P2 (2021-01/02 gym-era), 10 videos
+
+Fourth @AlexHormozi P2 batch (5 agents / 10 pages). Gym-Launch era, framework + bio dense.
+
+- **2021-01-05** `yt-xy1h4qqF778` "The Assumed Close" — ask *which* option (both = buying), never
+  *whether*; flavor pick + card-on-file, ~9/10 as an upsell.
+- **2021-01-07** `yt-4XWlHPyAico` "3 Ways to Increase Wealth" — top-down levers **Market > Offer >
+  Persuasion**; fix the offer first (fastest, "grand slam offer"); can't out-power a bad market.
+- **2021-01-08** `yt-Kj3xhPRJtQA` "Wealthiest 1%" — wealth is made in punctuated arbitrage windows;
+  stack a full skill set in advance, go all-in when the door opens.
+- **2021-01-12** `yt-imd_QRQbVeY` "Negative Emotional Motivation" — envy is *adaptive* (survival tool):
+  doesn't make you happy but makes you successful; name emotions to widen the gap between feeling and
+  action; "wanting is reason enough."
+- **2021-01-19** `yt-6KRpQvWNpm4` "The Realization That Reshaped My Business" — ⭐ **BIO/beliefs:** his
+  vendetta to beat rival **Bedros Keuilian** drove growth but felt empty and left the rival unaffected —
+  "the only person it poisoned was me"; use anger to fuel, never to attack; markets aren't zero-sum.
+  Notes creative-writing background + sleeping-on-the-gym-floor years.
+- **2021-01-21** `yt-LqC-oXjatmA` "Key to a Profitable Market" — ⭐ proto-**"starving crowd"**: serve
+  the market you can add most value to (personal experience trumps); else pass all four — pain / growing /
+  easy-to-target / purchasing power. 2021 pre-$100M Offers version.
+- **2021-01-26** `yt-Fy8XX8EuEnA` "63-Min Year Review" — ⭐ **BIO clarification:** cumulative ~$100M
+  sales over ~3.5 yrs — annual **$7M/$28M/$28M/$37M/~$31M for 2016–2020** (NOT $100M in one year);
+  $17M take-home profit 2018; ~$35–36M total distributions; projects ~$700M net worth by 60; killed a
+  ~$1M gym-CRM build. Lessons: scale-zero, one A-player > five B-players, 5–10yr horizon, "f*** happiness."
+  L3-candidate (reconciles revenue-timeline confusion in biography.md).
+- **2021-01-28** `yt-cemduJKQl5w` "Recruiting & Hiring" — HR exists to protect profit & recruit top
+  talent (its only "customer" is the company); default-no on headcount, "recruit the who not the what",
+  self-policing "assimilate or be rejected" culture; pay by value contribution.
+- **2021-02-04** `yt-bSYfZdAE8Ks` "Don't Start a Business Until…" — investor/shareholder mindset on a
+  5yr+ horizon; favor inevitable-over-fast; drive a leading indicator (qualified inbound applications).
+- **2021-02-09** `yt-4LeHKDGmEIQ` "Why You're Not Happy" — unhappiness = wanting > having; "haves over
+  wants"; raise expectations on activity, lower them on outcomes; reject binary "made it" thinking.
+
+Ledger 10→L2 (L2 now 598). youtube-index/index/footer updated. @AlexHormozi P2: ~80 rows remain.
+**Batch 80 next = SYNTHESIS PASS** (promote the large L3 backlog into topics + persona, recompile
+system-prompt): proto-money-model/constraint/starving-crowd timeline; CLOSER & Rule-of-100 dating; tax
+anti-shelter; diet enrichment; work/life + envy/anger beliefs; revenue-timeline + Bedros + Arnold +
+FHL-2020 + $5M-lesson + softer-origin bio reconciliation.
