@@ -2951,3 +2951,28 @@ during caption fetch and remain open for retry; the 8 successful rows were inges
 
 Ledger 8→L2 (L2 now 901). youtube-index/index/footer updated. @MoreMozi P2: ~1,538 rows remain.
 Synthesis notes: founder swamp hiring/poaching; local-market channel concentration; cash-conversion-cycle financing; attribution and top-performer duplication; offer transition via conversion/LTGP math; niche thought leadership and the fallacy of the perfect pick; Instagram/YouTube as blended-return channels and shorts-to-longs time-on-brand logic.
+
+## [2026-07-09] ingest | yt batch 117 — @MoreMozi P2 (2026-06-01 to 2026-06-02), 8 videos
+
+Thirtieth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again
+during caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-02** `yt-EjBgv-DGJ-M` "How to Raise Capital Without Using Your Personal Network" — micro-development housing:
+  investor acquisition as enterprise sale, audience access, and face-to-face event trust.
+- **2026-06-02** `yt-yBrRSS3Vsxk` "The Pricing Rule That 5x'd My Profit Overnight" — pricing:
+  5-10x upsell tiers, 20% take-rate rule of thumb, and profit concentration at the top.
+- **2026-06-02** `yt-HlK_MeYWKEs` "He Sold $125M in Real Estate After I Fired Him" — real-estate tax strategy:
+  cutting low-leverage management, expectation-setting, and scaling CPA/strategic partners.
+- **2026-06-02** `yt-0ZwRf4Dy_MM` "How to Sell More Franchises (Without Selling Them)" — restaurant franchising:
+  unit economics as North Star and corporate-vs-franchise enterprise-value math.
+- **2026-06-02** `yt-_4BGku-jLh4` "We hit $700K then crashed to $200K. Why?" — wholesaling sales team:
+  sales-ops consistency, script adherence, process over player, and coachability screening.
+- **2026-06-01** `yt-Vt4D1qgo9ic` "What Branding Actually Is (And How to Build One Fast)" — branding:
+  deliberate pairing through an outcome, good-vs-bad pairings, pricing power, ads, and loyalty.
+- **2026-06-01** `yt-iq4VNdOAfWM` "'I want to grow my business but I don't want to sacrifice family time.'" — founder tradeoffs:
+  want-less-or-trade-more, higher-level talent, who-game progression, and passive investments.
+- **2026-06-01** `yt-gOG7zvp2ub0` "Scared of Debt? Your Business Will Stall" — capital-intensive rental equipment:
+  debt-risk math, coverage/volatility modeling, and slow-compounding vs overlevered growth.
+
+Ledger 8→L2 (L2 now 909). youtube-index/index/footer updated. @MoreMozi P2: ~1,530 rows remain.
+Synthesis notes: fundraising as enterprise sales; 5-10x pricing tiers and top-tier profit; focus on high-margin core with strategic partners; franchise unit-economics North Star; sales culture/process and recruiting screens; branding as deliberate outcome pairing; want-less-or-trade-more founder tradeoff; debt risk as quantified coverage/volatility math.

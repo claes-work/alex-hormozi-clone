@@ -586,7 +586,15 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
+| 2026-06-01 | [[2026-06-01-yt-Vt4D1qgo9ic]] | Branding - deliberate pairing through an outcome; premium pricing and loyalty | ★ |
+| 2026-06-01 | [[2026-06-01-yt-iq4VNdOAfWM]] | Family-time tradeoff - want less or trade more; higher-level talent and passive investments | ★ |
+| 2026-06-01 | [[2026-06-01-yt-gOG7zvp2ub0]] | Debt risk - capital-intensive growth modeled by math, coverage, and volatility | ★ |
 | 2026-06-02 | [[2026-06-02-yt-zb1eSorqNps]] | Instagram + YouTube - blended return, time-on-brand, shorts as ads for longs | ★ |
+| 2026-06-02 | [[2026-06-02-yt-EjBgv-DGJ-M]] | Capital raising - investor acquisition as enterprise sale; events and affiliates | |
+| 2026-06-02 | [[2026-06-02-yt-yBrRSS3Vsxk]] | Pricing tiers - 5-10x upsell ladder and top-tier profit concentration | ★ |
+| 2026-06-02 | [[2026-06-02-yt-HlK_MeYWKEs]] | Real-estate focus - CPA partner channel and cutting low-leverage management | ★ |
+| 2026-06-02 | [[2026-06-02-yt-0ZwRf4Dy_MM]] | Franchise growth - unit economics before franchise sales tactics | ★ |
+| 2026-06-02 | [[2026-06-02-yt-_4BGku-jLh4]] | Sales ops - script adherence, process over player, and recruiting screen | ★ |
 | 2026-06-03 | [[2026-06-03-yt-FzYRdOT_rXQ]] | Painting GC model - AR financing and cash conversion cycle, not channel change | |
 | 2026-06-03 | [[2026-06-03-yt-RRFXliltxFM]] | Buyers advisory - attribution blend and top-performer duplication | ★ |
 | 2026-06-03 | [[2026-06-03-yt-AhwQYu01rM0]] | Podcast agency - offer transition by LTV/conversion math, not shiny object | ★ |
@@ -931,7 +939,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_901 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,633 total, including P2 (~1,611, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_909 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,625 total, including P2 (~1,603, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
