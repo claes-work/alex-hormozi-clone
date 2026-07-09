@@ -4124,3 +4124,18 @@ as non-Alex Kale Owen or staff videos and marked skipped.
 
 Ledger 6->L2 and 4->skipped (L2 now 1,222; skipped 39). youtube-index/index/footer updated.
 Synthesis notes: Berardi-referral-diagnostic/existing-clients-not-referring/believability-weighted-advice/opportunity-leaving-chair-filter; outside-matrix-meaning-after-financial-security/happiness-operationalization/Gym-Launch-one-sixth-self-report; feeling-personal-at-scale/question-quality-by-stage/higher-impact-coach-touches; Sharran-LOT-liquidity-ownership-terms/safety-trampoline/Alex-Leila-risk-averse-self-report/whole-life-mentor-selection; investment-attention-cost/personal-safety-trampoline-first/business-reserve-flexibility/no-art-self-report; Chad-Juggernaut-valuable-content/focus/coach-rise-above-workout.
+
+## [2026-07-09] ingest | yt batch 159 - @GymLaunch P2 title triage (2022-08-28 to 2022-10-03), 10 skipped
+
+Continued @GymLaunch oldest-first P2 triage. The driver selected 10 rows, fetched captions
+successfully for all, and printed no checkpoint banner. Transcript starts and keyword checks confirm
+Kale/Kayla/staff-led GymLaunch instruction rather than Alex speech; two rows mention Alex only as a
+framework/source reference, not as speaker. Per the GymLaunch triage rule, no wiki source pages were
+created.
+
+- Skipped as non-Alex GymLaunch Kale/Kayla/staff rows: `yt-FFRQ094-L38`, `yt-oOYDtbe62Gw`,
+  `yt-_Pf7KhZFFH8`, `yt-bEH7ni3OoP8`, `yt-0dNJvqPMsoY`, `yt-10ozi3mUJss`,
+  `yt-8AmjyjuRPJs`, `yt-JcBdamJjT9E`, `yt-6Z_yNR-lEdY`, and `yt-ZtMHybFV6OI`.
+
+Ledger 10->skipped (L2 unchanged at 1,222; skipped 49). youtube-index/index/footer updated.
+Synthesis notes: none - non-Alex GymLaunch Kale/Kayla/staff videos only; Alex mentions are framework/source references, not persona-attributed speech.

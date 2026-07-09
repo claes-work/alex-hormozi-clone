@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-09 (@GymLaunch batch 158; 1,222 L2 videos ingested)_
+_Last updated: 2026-07-09 (@GymLaunch batch 159 triaged; 1,222 L2 videos ingested)_
 
 ## Sources
 

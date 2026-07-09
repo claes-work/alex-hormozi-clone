@@ -1247,12 +1247,12 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-08-20 | [[2022-08-20-yt-cvLIh2KxAy4]] | ⚠️ no Alex — Kale (lead-nurture 4 pillars) | |
 | 2022-08-22 | [[2022-08-22-yt-bY1-QJQ5j64]] | ⚠️ no Alex — Kale (9-step sales process) | |
 | 2022-08-24 | [[2022-08-24-yt-hrvm3hQyS44]] | ⚠️ no Alex — Kale (presale questionnaire, close 90%) | |
-| 2022-08 → 2025-05 | (7 pages + 28 title-triaged) | ⚠️ **no Alex** — remaining reviewed @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 28 cataloged as skipped, not individually watched) | |
+| 2022-08 → 2025-05 | (7 pages + 38 title-triaged) | ⚠️ **no Alex** — remaining reviewed @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 38 cataloged as skipped, not individually watched) | |
 | 2022-08-30 | [[2022-08-30-yt-94EB6J-ch0k]] | ⚠️ no Alex — Kale (8-part irresistible offer; credits Alex for downsell-upsell) | |
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,222 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @GymLaunch P2 triage in progress; @MoreMozi Q&A cuts paused until small channels finish.** Remaining open long-form: ~1,306 total, including P2 (~1,295, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 39 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,222 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @GymLaunch P2 triage in progress; @MoreMozi Q&A cuts paused until small channels finish.** Remaining open long-form: ~1,296 total, including P2 (~1,285, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 49 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
