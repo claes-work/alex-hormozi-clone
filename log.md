@@ -4354,3 +4354,28 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,262). youtube-index/index/footer updated.
 Synthesis notes: traffic-over-authority-partner-selection/access-as-value; side-quest-as-founder-novelty-management/books-as-additive-thinking-space; imposter-syndrome-evidence-gap/state-facts-tell-truth/change-world-to-make-facts-compelling; niche-based-pricing/5x-price/sell-from-back-foot; cash-flow-arbitrage-vs-enterprise-value/localization-gap/50-creatives-per-10k-day; personal-permission-DMs/picture-prompts-for-community-engagement; revenue-over-views/highlights-channel-one-operator-AI-mids/avatar-value-per-second; deliverable-simplicity-activation-consumption-reduce-churn.
+
+## [2026-07-09] ingest | yt batch 170 - @MoreMozi P2 (2026-04-29 to 2026-04-30), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-29** `yt-bQZkXEIDWz4` - ACQ Real Estate, self-reported deal volume, and
+  credibility before public teaching.
+- **2026-04-29** `yt-dmJopOfu3zE` - $11M legal-services scale: PPC cap, preventative-buyer
+  education, and workshop funnel.
+- **2026-04-29** `yt-GGsjUEPJDOM` - pain as reality/being-alive signal and feelings as
+  irrelevant to required action.
+- **2026-04-30** `yt-eQxPAbjr8Jo` - insignificance and mortality as ambition-pressure
+  release while fighting regression to the mean.
+- **2026-04-30** `yt-X_EDIO-6iO0` - brick-and-mortar second-location test: manager-run
+  6-month proof, grand opening, CAC-by-market, and franchise math.
+- **2026-04-30** `yt-uDQrkJZHjWE` - two-group free-to-paid Skool model with free-group
+  ascension points.
+- **2026-04-30** `yt-6TViiqEqJLk` - lottery fear and skill-over-weapon/gauntlet framing.
+- **2026-04-30** `yt-w9rzkvlMTj4` - one-to-small-group support economics and do-the-
+  unscalable delivery before scaling.
+
+Ledger 8->L2 (L2 now 1,270). youtube-index/index/footer updated.
+Synthesis notes: ACQ-Real-Estate-emergence/self-reported-deal-volume/credibility-before-teaching; legal-services-workshop-funnel/PPC-cap/preventative-buyer-education/20-25-show-one-third-close; pain-neutrality/feelings-irrelevant-to-action; insignificance-as-ambition-pressure-release/fight-regression-to-mean; brick-and-mortar-second-location-test/6-month-manager-proof/grand-opening/market-CAC-before-lease/corporate-vs-franchise-math; two-group-free-to-paid-Skool-model/ascension-points; lottery-fear/skill-over-weapon/gauntlet; one-to-small-group-unscalable-delivery-economics/early-mover-incentives.
