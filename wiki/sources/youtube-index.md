@@ -147,12 +147,22 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-10-15 | [[2021-10-15-yt-E732S9fteRc]] | 5 things billionaires think about — opportunity size, long horizons, brand | |
 | 2021-10-18 | [[2021-10-18-yt-O1As2zxy0es]] | Only 4 ways to scale a service biz (chain/franchise/license/software) | |
 | 2021-10-20 | [[2021-10-20-yt-MA-5y9s80Qs]] | Customer-surplus / word-of-mouth virality formula | |
+| 2021-10-22 | [[2021-10-22-yt-QtE6kk0158o]] | Every business is limited by the constraint — walk the pipeline backward (Theory of Constraints) | ★ |
 | 2021-10-25 | [[2021-10-25-yt-neTSqOAMgao]] | Canonical $100M Offers explainer (value equation, 6 channels) — hosted interview | ★ |
 | 2021-10-27 | [[2021-10-27-yt-RpqSy5V1fFQ]] | Unconventional diet — calorie coefficients, protein=bodyweight, sixpack since 13-14 (appearance) | ★ |
+| 2021-10-29 | [[2021-10-29-yt-cGup9yYrOoc]] | How I crush copycats & competition — never acknowledge them, out-serve (moats) | |
+| 2021-11-01 | [[2021-11-01-yt-aOUK4DG0-kM]] | First hire — the "stack of time" method (buy back highest-time/lowest-value tasks) | |
+| 2021-11-03 | [[2021-11-03-yt-gZvW1Hghv6U]] | The brutal truth about passive income — it's a myth; he regrets the near-passive state | |
+| 2021-11-05 | [[2021-11-05-yt-RsXcCjLtnsA]] | How I make friends with billionaires (5 steps) — always say yes to the first ask | |
 | 2021-11-08 | [[2021-11-08-yt-ErWpi_91b70]] | Why routines make you fragile — anti-rigidity (not anti-habit); "you are source" | |
 | 2021-11-10 | [[2021-11-10-yt-y3T4GqoH0Us]] | #1 in a "saturated" industry — LTV=price/churn, differentiate via retention (bio) | ★ |
+| 2021-11-12 | [[2021-11-12-yt-EZLQzR-_83A]] | The first product you must sell — one "dream" solution; a confused mind doesn't buy | |
+| 2021-11-15 | [[2021-11-15-yt-Lxp-e5NionA]] | How I recruit — talent pipeline mirrors the 5 customer-acquisition functions; "make it Harvard" | |
 | 2021-11-17 | [[2021-11-17-yt-6ZEZWuVC8-8]] | Time is NOT the most precious resource — attention is; plug leaks, do less | |
+| 2021-11-19 | [[2021-11-19-yt-PArqypiHcyQ]] | (Provocative title) Retention via never taking relationships for granted — "sell Leila every day" | |
+| 2021-11-22 | [[2021-11-22-yt-sGHbp0Vr1dQ]] | Why I don't go home for the holidays — family "meets me in my past" (bio: dated 2021 father quote) | ★ |
 | 2021-11-24 | [[2021-11-24-yt-cX7cCA3Be8A]] | 4 tiny habits (4am / consistent sleep / give-no-expectation / extreme ownership) | |
+| 2021-11-26 | [[2021-11-26-yt-52tcB5FopAg]] | How the wealthy avoid taxes ("my new plan") — borrow against the business (dividend recap) | |
 | 2021-12-01 | [[2021-12-01-yt-F3NyhOtRpOE]] | Growth levers — "business genie" (price 6x > retention 2x > new-cust 2x); proto-LTGP:CAC | ★ |
 | 2021-12-08 | [[2021-12-08-yt-o7R_K6LwKNk]] | "Why therapists failed me" — strip-meaning mindset (medical-disclaimer caveat) | ★ |
 | 2021-12-10 | [[2021-12-10-yt-7YMjZgr7sHM]] | 4-step framework for hard/irreversible decisions | |
@@ -684,7 +694,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_654 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_664 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

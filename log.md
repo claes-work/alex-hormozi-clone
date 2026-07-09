@@ -2083,3 +2083,47 @@ Tenth @AlexHormozi P2 batch (4 agents / 10 pages). Framework + bio dense.
 Ledger 10→L2 (L2 now 654). youtube-index/index/footer updated. @AlexHormozi P2: ~20 rows remain.
 Synthesis backlog: Netflix 8-C's stickiness → retention; never-lower-prices → pricing-psychology; ToC
 plateau diagnosis → business-diagnostics; boring-formula/6-gyms exit-count reconciliation → biography.
+
+## [2026-07-09] ingest | yt batch 87 — @AlexHormozi P2 (2021-10/11 gym-era), 10 videos
+
+Eleventh @AlexHormozi P2 batch (4 agents / 10 pages). Final batch before a user-requested pause.
+
+- **2021-10-22** `yt-QtE6kk0158o` "Every Business Is Limited by the Constraint" — ⭐ explicit
+  constraint-finding: walk the pipeline backward stage-by-stage (throughput/conversion/churn) until the
+  one true bottleneck surfaces; fix it, not the wrongly-blamed party. Proto Theory-of-Constraints.
+- **2021-10-29** `yt-cGup9yYrOoc` "How I Crush Copycats & Competition" — never acknowledge competitors,
+  get louder about your own message, out-serve everyone (a copycat is a subset of its source). Proto-moats.
+- **2021-11-01** `yt-aOUK4DG0-kM` "This First Hire Nearly Bankrupt Me" — the "stack of time" hiring
+  method (buy back highest-time/lowest-value tasks); first hire ≈ jack-of-all-trades admin/first-follower
+  (often a spouse). NOTE: the title's "nearly bankrupt me" anecdote is NOT actually narrated (flagged).
+- **2021-11-03** `yt-gZvW1Hghv6U` "The Brutal Truth About Passive Income" — "passive income" is a myth
+  (everyone trades time for money, only leverage differs); having reached a near-passive state he regrets
+  it (bored/empty); "make active income cool again"; freedom = freedom to choose, not to do nothing.
+- **2021-11-05** `yt-RsXcCjLtnsA` "How I Make Friends With Billionaires (5 Steps)" — (1) repeat their name,
+  (2) text immediately with a funny self-ID, (3) value first, (4) always say yes to the first ask, (5) never
+  ask — describe your problem and let reciprocity work. No billionaires named (aspirational).
+- **2021-11-12** `yt-EZLQzR-_83A` "The First Product You Must Sell" — one "dream" solution to the core
+  problem, accommodate budgets via payment terms (not multiple products); "a confused mind doesn't buy."
+- **2021-11-15** `yt-Lxp-e5NionA` "How I Recruit the Best Employees" — the talent pipeline mirrors the five
+  external customer-acquisition functions (application gen → nurture → interview[=sell] → train[=fulfill] →
+  retain/ascend), recruited via the same six channels; "you need a who, not a what"; "make it Harvard"
+  employer brand (5 functions credited to Alex Tarfin).
+- **2021-11-19** `yt-PArqypiHcyQ` (provocative title) — real thesis is retention via never taking
+  relationships for granted: treat customers, employees AND spouse as "week-to-week"; value keeps people,
+  not contracts/vows; be a 10× value discrepancy; "I sell Leila every single day."
+- **2021-11-22** `yt-sGHbp0Vr1dQ` "Why I Don't Go Home for the Holidays" — ⭐ **BIO:** stopped going home
+  because family "meets him in his past" and speaks old identities over him. Contains a **direct dated 2021
+  quote of his father** ("you have the shortest views out of anyone… such a short temper," which Alex
+  rejects) + an uncle's alcohol jab — an early, in-the-moment instance of the documented father conflict
+  (predates the June-2022 mortality clips and the Father's-Day-2023 telling); dated as a 2021 position.
+- **2021-11-26** `yt-52tcB5FopAg` "How the Wealthy Avoid Taxes (My New Plan)" — borrow against the
+  business (minority/majority debt or dividend recap) instead of selling equity; a loan isn't income, so
+  it's untaxed; refinance the growing asset to de-risk. Corroborates the buy-borrow mechanic already present
+  in his June-2021 tax video (reinforces the "consistent worldview, shifting emphasis" tax reading).
+
+Ledger 10→L2 (L2 now 664). youtube-index/index/footer updated. @AlexHormozi P2: ~10 rows remain.
+
+**PAUSE:** user requested a stop after this batch (resuming ~next week when Claude usage recovers). Loop
+ended cleanly. Resume state: ~10 @AlexHormozi P2 rows, then @MoreMozi/@GymLaunch P2, then shorts dedup,
+then the batch-90 synthesis pass (backlog: Netflix 8-C's, ToC constraint-finding, moats, recruit-mirror,
+philanthropy/estate-to-charity, dated-2021 father quote, tax-timeline softening, exit-count reconciliation).
