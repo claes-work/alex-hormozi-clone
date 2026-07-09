@@ -601,6 +601,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-06-22 | [[2026-06-22-yt-Bh3QhADMqg4]] | Scale $1.2M→$3.5M (duct-cleaning supply) — 3 revenue wheels, retention annuity | |
 | 2026-06-22 | [[2026-06-22-yt-zJDtRUr4Huk]] | Real-estate developer to $100M — outreach + conference deal flow | |
 | 2026-06-23 | [[2026-06-23-yt-tZUmwYquIi4]] | Cybersecurity $5M→$3.6M recovery — conference net-fishing + SDR | |
+| 2026-06-24 | [[2026-06-24-yt-z1Q2X5jPsFw]] | Leila-only operator advice — people operator, influence/sales skills; no Alex coaching | |
+| 2026-06-24 | [[2026-06-24-yt-NMb7MRPL41U]] | AI workflow org design — workflow not role, agents, action-only training | ★ |
+| 2026-06-24 | [[2026-06-24-yt-0nqLmLYRgK0]] | Cloud managed services — paid assessment/improvement front-end, big-head long-tail | |
+| 2026-06-24 | [[2026-06-24-yt-fsupOvPjW0U]] | Janitorial lead gen — PPC, door knocking, LinkedIn outbound; offer over lead magnet | |
+| 2026-06-25 | [[2026-06-25-yt-CBBUKRBj6DQ]] | Financial planning cash-flow throttle — upfront fee vs equity, reputational risk | ★ |
+| 2026-06-25 | [[2026-06-25-yt-YzJZxUOao90]] | CFO advisory duplicate — supply constraint before courses; data-first before AI-first | |
+| 2026-06-25 | [[2026-06-25-yt-XzAIgy_q-RI]] | Exhaust-hood cleaning — decommoditize by removing friction, route density | ★ |
+| 2026-06-25 | [[2026-06-25-yt-9HGT56_Ei6w]] | TMS clinic — clear-over-clever healthcare ads, local high-ticket demand | ★ |
 | 2026-06-25 | [[2026-06-25-yt-Yqz84f-amuU]] | Trading/charting platform — product excellence removes friction from desired outcome | ★ |
 | 2026-06-25 | [[2026-06-25-yt-uE8_XXZ7F40]] | Hair-extension founder — SaaS red-dress trap, sunk cost, recurring/reoccurring retention | ★ |
 | 2026-06-25 | [[2026-06-25-yt-0Ny_H81fOQc]] | CFO advisory duplicate — supply constraint before courses; data-first before AI-first | |
@@ -755,7 +763,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_725 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,809 total, including P2 (~1,787, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_733 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,801 total, including P2 (~1,779, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

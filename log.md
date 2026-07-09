@@ -2371,3 +2371,28 @@ fetch and remain open for retry; the 8 successful rows were ingested as L2.
 
 Ledger 8→L2 (L2 now 725). youtube-index/index/footer updated. @MoreMozi P2: ~1,714 rows remain.
 Synthesis notes: product-as-friction-removal, SaaS red-dress/sunk-cost warning and recurring-vs-reoccurring retention, duplicate CFO data-first AI evidence, paid whitening/card-on-file dental offer, regret minimization with opportunity-cost risk, inbound/outbound sales-team split, control-first dental expansion, and talent demand as advertising/outreach volume.
+
+## [2026-07-09] ingest | yt batch 95 — @MoreMozi P2 (2026-06-24 to 2026-06-25), 8 videos
+
+Eighth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during caption
+fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-24** `yt-z1Q2X5jPsFw` "Hire the Influencer, Not the Technician" — Leila-only operator advice:
+  people operator, influence/sales skills, kind-but-tough profile; no Alex-attributed coaching.
+- **2026-06-24** `yt-NMb7MRPL41U` "Most People Will Lose Their Jobs to AI in 2026" — fund-launch services:
+  workflow-not-role org design, AI agents at the action level, ACQ media-output leverage, action-only training.
+- **2026-06-24** `yt-0nqLmLYRgK0` "I Built a $1.5M Business I Secretly Hate" — cloud managed services:
+  paid assessment/improvement patch as front end, then managed-service back end; big-head/long-tail model.
+- **2026-06-24** `yt-fsupOvPjW0U` "Helping a Janitorial Business Get More Leads" — janitorial lead gen:
+  Google PPC for qualified local searches, door knocking for small buildings, LinkedIn outbound for building managers.
+- **2026-06-25** `yt-CBBUKRBj6DQ` "How to Increase Cash Flow in a Consulting Firm" — financial planning:
+  cash-flow throttle, upfront planning fee or equity raise, and reputational risk from growing too fast.
+- **2026-06-25** `yt-YzJZxUOao90` "$2.9M CFO Advisory Stopped Taking Clients to Hit $20M" — near-duplicate
+  CFO advisory clip: supply constraint before courses; operating leverage, data layer, AI, then demand.
+- **2026-06-25** `yt-XzAIgy_q-RI` "How to Win in a Commoditized Service Business" — exhaust hood cleaning:
+  decommoditize by removing market friction, clarify good/fast/cheap, increase route density, and improve payment terms.
+- **2026-06-25** `yt-9HGT56_Ei6w` "High Ticket Sales Are Easier Than Cheap Ones" — TMS clinic:
+  demand constraint, clear-over-clever healthcare advertising, simple outcome language, and local high-ticket ads.
+
+Ledger 8→L2 (L2 now 733). youtube-index/index/footer updated. @MoreMozi P2: ~1,706 rows remain.
+Synthesis notes: Leila-only people-operator profile (context, not Alex persona), workflow-not-role AI org design and action-only training, paid-assessment front end for managed services, janitorial acquisition channels, cash-flow throttle/upfront fee/reputational risk, duplicate CFO data-first AI evidence, decommoditization by friction removal, and clear-over-clever healthcare ads.
