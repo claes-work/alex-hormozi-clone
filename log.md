@@ -1497,3 +1497,42 @@ open videos (L2), his framework-seed era:
 Ledger 8→L2 (L2 now 525). youtube-index/index/footer updated. **L3-candidate backlog for next
 synthesis:** proto-framework timeline (offer/money-model/LTGP:CAC/CFA seeds 2020–2021) + the
 frugality→reinvest wealth-philosophy reversal (needs a dated CONTRADICTION callout).
+
+## [2026-07-09] ingest | yt batch 71 — @AlexHormozi origin-era (2021 Mar–May), 8 videos
+
+Continued oldest-first P1 ingestion (all L2). Framework-seed + biographical era:
+
+- **2021-03-09** `yt-CojS0DwflXc` "Close Any Sale" — proto-CLOSER (three statement types map to
+  Clarify→Label→Overview→Sell); early "sales = transference of belief over a bridge of trust".
+- **2021-03-11** `yt-RZbpSe9pdFs` "Start/Fix Any Business" — proto-diagnostic (create flow →
+  monetize flow → add friction; "don't solve problems that don't exist yet"). **BIO:** credits the
+  "offer so good they'd feel stupid saying no" line to coach **Travis "TJ" Jones** at a $3,000
+  conference when Alex was 23.
+- **2021-03-16** `yt-JfbtySq6_B4` "Sell Anything (Unusual Method)" — the **damaging admission**:
+  state true negatives so the following positive is believed, hinged on "but" as an amplifier;
+  says he learned it from **Eminem in 8 Mile**. Proto-transference-of-conviction.
+- **2021-04-01** `yt-UR9dO1jZemE` "First 5 Clients (no budget)" — ⚠️ **attribution note:**
+  Alex explicitly **coins the "Rule of 100" here** ("claiming it as my own"), 2+ years before the
+  2023 Core Four framing the topic page currently cites. 2021 version narrower (outbound + $100/day
+  ads only). Flagged to update [[../topics/business/acquisition-channels]] in next synthesis.
+- **2021-04-06** `yt-KNl83INePXI` "I'm Broke, What Should I Do?" — ⚠️ **BIO cross-check:** places
+  the **$1,100 rock-bottom "after I had six gyms"** (orders the low point after the gym-chain phase,
+  not the post-DUI era); gym economics ($40k first vs $250k second earning no more), seller-financed
+  5th gym ($0 down, 12-mo, $51k first-month sales), met Russell Brunson, sold for 1.5x. Needs
+  reconciliation with biography.md's rock-bottom timeline.
+- **2021-04-13** `yt-R7Fin9HFhoM` "4 Stages of Entrepreneurship" — discrete revenue-banded
+  framework: (1) $0–1M one product/one channel; (2) $1–10M cross-sells/upsells (value ladder);
+  (3) $10–30M professionalize (HR/legal/accounting/IT); (4) $30–100M+ intrapreneurs/profit centers.
+- **2021-04-27** `yt-Tw6kJkVcTL0` "1 Skill That Pays Off Forever" — the skill is **sales**, built
+  by sheer volume ("time under the bar", the multi-year "Rocky cutscene"), shortcut by copying
+  proven models before iterating.
+- **2021-05-12** `yt-vKnAWYqMJ10` "Spent $312,900 Living Like the 1%" — **wealth-timeline:**
+  after buying jets/exotic cars/designer/$500 steaks, concludes luxury is "just not worth it."
+  This **REINFORCES** (not reverses) his 2021-03-02 frugality stance — hardened Bentley regret,
+  "wealth = ratio of income to expenses", "happiness = haves ÷ wants". (The reinvest-everything
+  shift comes later, in the Acquisition.com era — the frugality view is internally consistent
+  through 2021.)
+
+Ledger 8→L2 (L2 now 533). youtube-index/index/footer updated. **Synthesis backlog additions:**
+Rule-of-100 self-coinage attribution fix; the 2021 4-Stages framework; TJ-Jones GSO-origin bio
+beat; the "$1,100 after six gyms" rock-bottom ordering (reconcile with biography.md).
