@@ -3117,3 +3117,29 @@ texture.
 Recompiled `persona/system-prompt.md` to v23 (~949 videos + 2 books), advanced
 `pipeline/synthesis-state.md` through batch 122, and updated `index.md`. Dropped repeats
 already covered by existing topic pages.
+
+## [2026-07-09] ingest | yt batch 123 — @MoreMozi P2 (2026-05-26), 8 videos
+
+Thirty-sixth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry; the 8 successful rows were
+ingested as L2.
+
+- **2026-05-26** `yt-l6_t_e3FIxs` "How I Diffused a Decade-Long Family Fight" — family/mindset:
+  reinforcement history, grace, repeated trigger patterns, and choosing-regrets attribution note.
+- **2026-05-26** `yt-OUowG_oCbCI` "Why Money Stops Buying Happiness After $70K" — wealth:
+  spending skill, time buyback, memory dividends, and environment upgrades.
+- **2026-05-26** `yt-8N8_Jgx97jA` "Why Most Businesses Fail: No Standards" — standards:
+  modeled owner behavior and standards communicated as observable actions.
+- **2026-05-26** `yt-W2Oz2wXlh3E` "How to Bounce Back From Anything Fast" — resilience:
+  cosmic relevance, veteran frame, and return-to-baseline behavior.
+- **2026-05-26** `yt-unkbSx2WZH0` "How Learning to Try One Thing Beats 99% of People" — effort:
+  learning to try as transferable skill and focused effort across domains.
+- **2026-05-26** `yt-lBNpcvKvf38` "You need to advertise more" — acquisition:
+  creative volume, paid-ad scaling sequence, and Money Models launch ad volume.
+- **2026-05-26** `yt-_deYfX6flgo` "Are You Even Trying" — volume:
+  300 vs. 5,000 flyers, 450 content pieces/week, call-volume gaps, and hard-way frame.
+- **2026-05-26** `yt-IVNuDhV1uw4` "Why Your Sales Team Tanks After Every Big Month" — sales ops:
+  process over player, script adherence, daily training cadence, and coachability hiring screen.
+
+Ledger 8→L2 (L2 now 957). youtube-index/index/footer updated. @MoreMozi P2: ~1,482 rows remain.
+Synthesis notes: family conflict through reinforcement-history/grace; spending skill and time-buyback; standards as observable modeled behavior; resilience via cosmic relevance/veteran frame; learning-to-try as transferable skill; creative-volume/Money Models launch advertising scale; action-volume/flyer-test/hard-way frame; sales ops process-over-player, script adherence, and coachability screen.

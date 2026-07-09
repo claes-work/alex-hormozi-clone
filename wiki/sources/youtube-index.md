@@ -588,6 +588,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
 | 2026-05-26 | [[2026-05-26-yt-70LSQk_RH_M]] | Identity - actions as behavior aggregation, not sacred self-concepts | ★ |
 | 2026-05-26 | [[2026-05-26-yt-o06NDWKHFVA]] | Agency/uncertainty - "must be easy" victim frame and becoming as output | ★ |
+| 2026-05-26 | [[2026-05-26-yt-l6_t_e3FIxs]] | Family conflict - reinforcement history, grace, and regret attribution note | ★ |
+| 2026-05-26 | [[2026-05-26-yt-OUowG_oCbCI]] | Spending skill - time buyback, memory dividends, and environment upgrades | ★ |
+| 2026-05-26 | [[2026-05-26-yt-8N8_Jgx97jA]] | Standards - modeled observable actions and owner example | ★ |
+| 2026-05-26 | [[2026-05-26-yt-W2Oz2wXlh3E]] | Resilience - cosmic relevance, veteran frame, and return to baseline | ★ |
+| 2026-05-26 | [[2026-05-26-yt-unkbSx2WZH0]] | Learning to try - focused effort as transferable skill | ★ |
+| 2026-05-26 | [[2026-05-26-yt-lBNpcvKvf38]] | Advertise more - creative volume and Money Models launch ad volume | ★ |
+| 2026-05-26 | [[2026-05-26-yt-_deYfX6flgo]] | Volume - 300 vs 5000 flyers, 450 content pieces/week, hard way | ★ |
+| 2026-05-26 | [[2026-05-26-yt-IVNuDhV1uw4]] | Sales ops - process over player, script adherence, coachability screen | ★ |
 | 2026-05-27 | [[2026-05-27-yt-wlZmj97Irtk]] | First-gym hardship - California, slept under parking garage, first rent exact self-report | ★ |
 | 2026-05-27 | [[2026-05-27-yt-B6yMJkT7CJo]] | Tolerance - hardship duration before behavior changes | ★ |
 | 2026-05-27 | [[2026-05-27-yt-Bt6lTDsX12s]] | Healthcare VA growth - webinars, B2B partner integration, savings assessment | |
@@ -979,7 +987,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_949 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,585 total, including P2 (~1,563, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_957 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,577 total, including P2 (~1,555, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
