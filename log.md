@@ -4153,3 +4153,18 @@ names Alex as a future speaker only; no source page was created.
 
 Ledger 10->skipped (L2 unchanged at 1,222; skipped 59). youtube-index/index/footer updated.
 Synthesis notes: none - non-Alex GymLaunch Kale/Kayla/staff videos only; GymCon promo names Alex as a future speaker, not as source speech.
+
+## [2026-07-09] ingest | yt batch 161 - @GymLaunch P2 title triage (2022-11-07 to 2022-12-08), 10 skipped
+
+Continued @GymLaunch oldest-first P2 triage. The driver selected 10 rows, fetched captions
+successfully for all, and printed no checkpoint banner. Transcript starts and keyword checks confirm
+Kale, Ed Turney, GymLaunch partner webinar, or GymLaunch coaching-room footage rather than Alex
+speech. No wiki source pages were created.
+
+- Skipped as non-Alex GymLaunch Kale/Ed/staff/partner rows: `yt-v6LEvFuTaIA`,
+  `yt-Dsp-qO-SWTI`, `yt-B_1aqrr0ExI`, `yt-K0CiuRLGjTM`, `yt-aEfaLzmmEMU`,
+  `yt-q3g1ltswzMQ`, `yt-a6Cl0zlSCWE`, `yt-MJtbewdCfCA`, `yt-JFgDJz3XBrY`, and
+  `yt-TZI-E8623fo`.
+
+Ledger 10->skipped (L2 unchanged at 1,222; skipped 69). youtube-index/index/footer updated.
+Synthesis notes: none - non-Alex GymLaunch Kale/Ed/staff/partner videos only.
