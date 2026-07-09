@@ -4045,3 +4045,20 @@ local-to-global service sales/VIP tiering, brokerage-level local partner channel
 Black-Friday offer design/data capture. Recompiled `persona/system-prompt.md` to v25 and advanced
 the synthesis high-water mark to batch 155. Dropped repeats already covered by complaint-handling,
 observable management, and future-self/85-year-old material.
+
+## [2026-07-09] ingest | yt batch 156 - @ACQofficial completion (2023-04-26 to 2025-07-26), 2 videos
+
+Completed the remaining open @ACQofficial long-form rows. The driver selected 2 P3 rows, fetched
+captions successfully for both, and printed a channel-completion checkpoint banner. Speaker
+attribution is split: the UT Austin lecture is Alex-attributed; the Operator Pod episode is
+Leila/Sharran operator context with no Alex primary speech.
+
+- **2023-04-26** `yt-u4kgZ3pf8cU` "Alex Hormozi: The University of Texas at Austin (FULL LECTURE + Q&A)" -
+  validation as a stranger paying, learning as changed behavior, risk-adjusted decisions, perfect-pick
+  fallacy, ignorance debt, basic acquisition paths, and Rule of 100.
+- **2025-07-26** `yt-GmJQyCFCz1k` "CEO Reacts to Coldplay Kiss Cam Scandal | The Operator Pod Ep. 2" -
+  context-only Operator Pod discussion of crisis communication, reputation repair, industry-leader
+  messaging, founder delegation, and one-on-one cadence; excluded from Alex persona voice data.
+
+Ledger 2->L2 (L2 now 1,214). youtube-index/index/footer updated. @ACQofficial long-form complete.
+Synthesis notes: UT-Austin-validation-stranger-paying/learning-same-circumstance-different-behavior/risk-adjusted-one-person-bets/perfect-pick-fallacy/use-what-you-got-motivation/ignorance-debt-vs-financial-debt/Rule-of-100; Operator-Pod-context-only-crisis-comms/bad-news-does-not-get-better-with-time/reputation-consistent-behavior/market-leader-industry-response/audience-as-clients/farthest-from-revenue-delegation/one-on-one-cadence-no-Alex-primary-speech.

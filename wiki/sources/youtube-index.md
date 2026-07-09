@@ -510,6 +510,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 | Date | Page | Topic | ★ |
 |---|---|---|---|
+| 2023-04-26 | [[2023-04-26-yt-u4kgZ3pf8cU]] | UT Austin lecture - validation, learning as behavior change, ignorance debt, Rule of 100 | ★ |
 | 2023-05-15 | [[2023-05-15-yt-1AtSSNygSK4]] | Leg day w/ Stan Efferding — ⚠️ fitness content is Stan's; bio: sold gyms ~2017 | |
 | 2023-05-19 | [[2023-05-19-yt-Zyv8jhO033c]] | Build world-class culture — culture drips from founder's values; values-as-filter (Acq.com's 3 values) | ★ |
 | 2023-05-22 | [[2023-05-22-yt-mUpty7tscJo]] | Content Strategy revealed — most complete media playbook (frame, "how I", delay the ask) | ★ |
@@ -571,6 +572,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-04-21 | [[2024-04-21-yt-oUWv5LZ24gQ]] | How Acquisition.com builds companies — theory of constraints (clip) | |
 | 2024-04-22 | [[2024-04-22-yt-YtbHaogHlpY]] | Broke-to-rich staged blueprint | |
 | 2025-07-21 | [[2025-07-21-yt-ZklXJzHzW2U]] | Operator Pod Ep.1 — ⚠️ **no Alex** (Leila + operator), not persona data | |
+| 2025-07-26 | [[2025-07-26-yt-GmJQyCFCz1k]] | Operator Pod Ep.2 — ⚠️ **no Alex primary speech**; crisis communication, reputation, one-on-ones | |
 | 2025-09-13 | [[2025-09-13-yt-EuMu6LaxBSk]] | $106M/72h launch debrief — ⚠️ **no Alex** (Leila + exec); useful launch/bio facts | |
 
 ## @MoreMozi
@@ -1242,7 +1244,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,212 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,320 total, including P2 (~1,305, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,214 videos ingested (L2). @ACQofficial long-form complete; @TheSkoolSchool P2 complete; @AlexHormozi long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,318 total, including P2 (~1,305, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,701). 35 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
