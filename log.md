@@ -2976,3 +2976,28 @@ during caption fetch and remain open for retry; the 8 successful rows were inges
 
 Ledger 8→L2 (L2 now 909). youtube-index/index/footer updated. @MoreMozi P2: ~1,530 rows remain.
 Synthesis notes: fundraising as enterprise sales; 5-10x pricing tiers and top-tier profit; focus on high-margin core with strategic partners; franchise unit-economics North Star; sales culture/process and recruiting screens; branding as deliberate outcome pairing; want-less-or-trade-more founder tradeoff; debt risk as quantified coverage/volatility math.
+
+## [2026-07-09] ingest | yt batch 118 — @MoreMozi P2 (2026-05-31 to 2026-06-01), 8 videos
+
+Thirty-first resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again
+during caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-01** `yt-zJc777yAE-w` "Free Car Wash Made More Than Paid Ones" — pick-your-price offer:
+  free attraction, goodwill, bonus rungs, and low-trust intro offer mechanics.
+- **2026-06-01** `yt-u99G6KwRWQ0` "Why Your Restaurant Marketing Doesn't Matter" — restaurant group:
+  product/experience over marketing, word of mouth/reviews, and grand-opening playbook.
+- **2026-06-01** `yt-yEmM9JygeEo` "Stop Selling From Your Own Wallet" — pricing belief:
+  high-ticket upsells, prospect-wallet pricing, high anchors, and absolute profit.
+- **2026-06-01** `yt-tfWtqcYI7Zk` "1 Habit That Fixes 90% of Problems" — discipline:
+  going to bed on time as one high-leverage behavior with many downstream effects.
+- **2026-06-01** `yt-otJE7ij924s` "You Need to Work 100x Harder" — work standards:
+  count in hundreds, quality by exhaustive improvement, and Money Models drafting self-report.
+- **2026-06-01** `yt-OsYAUkL6L6Y` "The Single Greatest Opportunity for 2026" — opportunities:
+  AI as macro wave, TikTok Shop as land grab, social media brand opportunity, and skills required.
+- **2026-05-31** `yt-Gr2A7wUoEwo` "Why You Should Always Build a Business Top-Down" — positioning:
+  high-end-first brand narrative and operational capacity before mass-market volume.
+- **2026-05-31** `yt-dX-eI11-kSw` "Affiliate Offer: 10x the Kickback to Boost Referrals" — B2B affiliate growth:
+  richer payouts, urgency, risk/speed/ease activation, and authority-content ad funnel.
+
+Ledger 8→L2 (L2 now 917). youtube-index/index/footer updated. @MoreMozi P2: ~1,522 rows remain.
+Synthesis notes: pick-your-price/free-goodwill offer; restaurant product-led growth; prospect-wallet high-ticket pricing and absolute profit; bedtime as high-leverage discipline; count-in-hundreds work standard and Money Models drafting facts; AI/TikTok Shop/social opportunity framing; top-down high-end positioning; affiliate activation economics and authority-content funnel.

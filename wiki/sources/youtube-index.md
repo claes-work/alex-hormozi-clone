@@ -586,9 +586,17 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
+| 2026-05-31 | [[2026-05-31-yt-Gr2A7wUoEwo]] | Build top-down - high-end first, brand narrative, and operational capacity | ★ |
+| 2026-05-31 | [[2026-05-31-yt-dX-eI11-kSw]] | Affiliate offer - richer payouts, activation urgency, and authority content funnel | ★ |
 | 2026-06-01 | [[2026-06-01-yt-Vt4D1qgo9ic]] | Branding - deliberate pairing through an outcome; premium pricing and loyalty | ★ |
 | 2026-06-01 | [[2026-06-01-yt-iq4VNdOAfWM]] | Family-time tradeoff - want less or trade more; higher-level talent and passive investments | ★ |
 | 2026-06-01 | [[2026-06-01-yt-gOG7zvp2ub0]] | Debt risk - capital-intensive growth modeled by math, coverage, and volatility | ★ |
+| 2026-06-01 | [[2026-06-01-yt-zJc777yAE-w]] | Pick-your-price offer - free attraction, goodwill, and bonus rungs | ★ |
+| 2026-06-01 | [[2026-06-01-yt-u99G6KwRWQ0]] | Restaurant growth - product/experience over marketing; grand-opening playbook | |
+| 2026-06-01 | [[2026-06-01-yt-yEmM9JygeEo]] | Sell from the prospect's wallet - high-ticket upsells and absolute profit | ★ |
+| 2026-06-01 | [[2026-06-01-yt-tfWtqcYI7Zk]] | Bedtime discipline - one high-leverage behavior with many downstream effects | |
+| 2026-06-01 | [[2026-06-01-yt-otJE7ij924s]] | Extreme work standards - count in hundreds and make it better until no known move remains | ★ |
+| 2026-06-01 | [[2026-06-01-yt-OsYAUkL6L6Y]] | 2026 opportunities - AI macro wave, TikTok Shop land grab, and skills required | ★ |
 | 2026-06-02 | [[2026-06-02-yt-zb1eSorqNps]] | Instagram + YouTube - blended return, time-on-brand, shorts as ads for longs | ★ |
 | 2026-06-02 | [[2026-06-02-yt-EjBgv-DGJ-M]] | Capital raising - investor acquisition as enterprise sale; events and affiliates | |
 | 2026-06-02 | [[2026-06-02-yt-yBrRSS3Vsxk]] | Pricing tiers - 5-10x upsell ladder and top-tier profit concentration | ★ |
@@ -939,7 +947,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_909 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,625 total, including P2 (~1,603, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_917 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,617 total, including P2 (~1,595, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
