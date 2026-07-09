@@ -18,6 +18,23 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — local-biz + goal-setting + diet formula (L2=437)
+
+Loop iteration 55. 8 @AlexHormozi P2 (Apr-May 2023). 3 L3-candidates: BHMeYaHEMpc "grow any local
+business" (★ the franchise-vs-owned 4-variable checklist — ROC / centralized-vs-decentralized effort /
+reverse-the-exit-into-location-count / founder personality, investor lens), zBZHWrvjD8Y "goals that
+make money" (★ the 4-step goal method — frame every goal as an input→output hypothesis tied to one of
+3 money levers [more customers / worth more / higher EV], 1% compounding), oTQPxPFROck "build a legit
+online course" (★ the 4-pillar education-business method: screen customers / data-based expectations /
+give-secrets-sell-implementation / don't-endorse-everyone). Notable: fxyhIXZ6Yog "the Alex Hormozi
+diet" adds a NEW quantified diet formula (calories = bodyweight × 7-21 coefficient with named bands;
+protein = bodyweight in grams; maintenance ~3,000 cal; 20 years of nightly dessert; greens only via a
+multivitamin) → feeds appearance.md next synthesis, with a flagged affect-tension vs the cookbook
+("struggles to eat enough/lowfat" there vs "loves protein/eats >1g/lb" here). New bio: mother is an
+eye surgeon; applied to Harvard 10× and was rejected (self-reported). Rest L2 (season-of-no [overlaps
+RlXAG1RxR7Q], what-to-sell [delivery Cube], all-in-side-hustle [save/match/sustain], 3-fixes [ToC]).
+Ledger: L2=437. Next: continue @AlexHormozi P2 (238 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — friendship philosophy + MrBeast + growth diagnostics (L2=429)
 
 Loop iteration 54. 8 @AlexHormozi P2 (May-Jul 2023; used a bundled light-agent for 5 mindset/vlog

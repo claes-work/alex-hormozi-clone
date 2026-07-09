@@ -45,6 +45,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-06-04 | [[2024-06-04-yt-9unucIBuNio]] | "10x your pricing" (actually a 6-step branding framework) — pairing → why → who → advertise | ★ |
 | 2024-06-07 | [[2024-06-07-yt-VxKwz6hBVZU]] | Build a valuable company you can sell — goose & golden eggs, keyman risk, rollups | ★ |
 | 2024-06-09 | [[2024-06-09-yt-41EvCgwPrDc]] | Make more profit than 99% — 5 pricing concepts (LTV = price ÷ churn, look-back window) | ★ |
+| 2023-04-05 | [[2023-04-05-yt-BHMeYaHEMpc]] | How to grow any local business — the franchise-vs-owned 4-variable checklist | ★ |
+| 2023-04-12 | [[2023-04-12-yt-ueJg14gQLuc]] | The season of no — energy/goal-account metaphor, the categories of "no" | |
+| 2023-04-26 | [[2023-04-26-yt-LVM89ik-7Kw]] | "I'm broke, what should I sell?" — the 7 sellable categories × physical/digital + the delivery Cube | |
+| 2023-05-03 | [[2023-05-03-yt-zBZHWrvjD8Y]] | How I set goals that make money — input→output hypotheses tied to the 3 money levers | ★ |
+| 2023-05-10 | [[2023-05-10-yt-SYkwtqFoRcM]] | How to go all in on your side hustle — the save / match / sustain jump framework | |
+| 2023-05-14 | [[2023-05-14-yt-fxyhIXZ6Yog]] | The Alex Hormozi diet — the calorie formula (bodyweight × 7–21), protein rule, 20-yr nightly dessert | |
+| 2023-05-17 | [[2023-05-17-yt-oTQPxPFROck]] | How to build a legit online course — the 4-pillar education-business method | ★ |
+| 2023-05-24 | [[2023-05-24-yt-KQuyQpFANpA]] | 3 simple fixes that grow any business — ToC + own-the-outcome + 4-question problem-selection | |
 | 2023-05-31 | [[2023-05-31-yt-qLM5G7N3l3I]] | 3 ways to do what you love — the Artist / Entrepreneur / Hybrid three-paths taxonomy | |
 | 2023-06-07 | [[2023-06-07-yt-6ySRKgXBcO0]] | Day in the life (Ep 002) — vlog; the Hurricane Maria private-jet origin (Leila on camera) | |
 | 2023-06-14 | [[2023-06-14-yt-9gVdCR7W8o8]] | The real reason your business isn't growing — marketing hierarchy + the pyramid of markets | ★ |
@@ -459,7 +467,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_429 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_437 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
