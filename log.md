@@ -2199,3 +2199,36 @@ for retry; the 9 successful rows were ingested as L2.
 Ledger 9→L2 (L2 now 682). youtube-index/index/footer updated. @MoreMozi P2: ~1,757 rows remain.
 Synthesis notes: direct-response doom loop/brand, ROIC growth reinvestment, micro-promotion career ladders,
 advertising brick foundation, bootstrap cash-flow throttle, price-integrity wholesale control.
+
+## [2026-07-09] ingest | yt batch 90 — @MoreMozi P2 (2026-06-30 to 2026-07-01), 9 videos
+
+Third resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` errored again during caption fetch and remains open
+for retry; the 9 successful rows were ingested as L2.
+
+- **2026-06-30** `yt-JXscsKvX4HA` "Doctor or $7M Brand? Pick One." — fitness founder / medical school
+  decision: lack of optimization target makes decisions hard; compare MD after six-year delay vs no-MD with
+  six-year head start; decision means cutting off futures.
+- **2026-06-30** `yt-mcAqxwL7ig0` "You're too cheap to hire anyone good" — trade-show booth company:
+  calculate gross profit per tradesperson; paying up for scarce skilled labor is rational when LTGPE:CAT works.
+- **2026-06-30** `yt-_SiuAU23MIY` "When Should a Founder Step Out of Day-to-Day Operations?" — German
+  bike-parts ecommerce: hire an A+ manager if freed founder time can repay the cost; A+ talent premium remains
+  a major arbitrage.
+- **2026-06-30** `yt-HCAP5EWqMoc` "Helping a $200M info product portfolio survive AI" — minority
+  info-product portfolio: specialist support team economics do not work for small illiquid minority stakes;
+  AI-exposed info products may be harvest-and-change-vehicle, not defend.
+- **2026-07-01** `yt-LwdeeAruO3Q` "Watch this if you think you're the key man in your business" — skincare
+  ecommerce: key-man risk is premature at ~$1M; focus on customers/AOV/repeat purchase, UGC, brand, and email.
+- **2026-07-01** `yt-kEuFH11u9T8` "You're making $1.2M and still clocking in at your day job" — firefighter
+  with ADU business: work/quest meaning, day-job productivity, and fear disguised as rational security.
+- **2026-07-01** `yt-Zlydq3Kx2CU` "Watch this if you keep chasing every shiny business model" — dietitian
+  practice: upside/downside/live-with-it, mature businesses converge into the same leadership problems, licensing
+  only after no-founder location opening.
+- **2026-07-01** `yt-N78wCREYF7w` "$2M Cowboy Hat Owner" — custom hats: if demand outruns delivery, supply and
+  talent pricing are the constraint; use margin/pricing power to recruit rare artisans.
+- **2026-07-01** `yt-oGgGkbmAIPU` "Watch This If A Copycat Is Stealing Your Business" — motocross events:
+  hope copycats copy broken models; serve non-buyers with free content, price paid work correctly, and avoid
+  Gym Launch-style competitor-triggered price cuts.
+
+Ledger 9→L2 (L2 now 691). youtube-index/index/footer updated. @MoreMozi P2: ~1,748 rows remain.
+Synthesis notes: decision-as-cutting-off futures, LTGPE:CAT, A+ manager arbitrage, AI-exposed info-product
+harvest thesis, quest/work meaning, licensing after no-founder opening team, copycat/price-cut caution.

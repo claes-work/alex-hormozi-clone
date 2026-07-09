@@ -602,6 +602,15 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-06-22 | [[2026-06-22-yt-zJDtRUr4Huk]] | Real-estate developer to $100M — outreach + conference deal flow | |
 | 2026-06-23 | [[2026-06-23-yt-tZUmwYquIi4]] | Cybersecurity $5M→$3.6M recovery — conference net-fishing + SDR | |
 | 2026-06-29 | [[2026-06-29-yt-ZUyXUiqckAE]] | Sales-team agency $14M→$100M — ICP/unit-economics, template service | |
+| 2026-06-30 | [[2026-06-30-yt-JXscsKvX4HA]] | Doctor or $7M brand — decision target, six-year trade, cut off futures | ★ |
+| 2026-06-30 | [[2026-06-30-yt-mcAqxwL7ig0]] | Trade-show booths — LTGPE:CAT, pay up for skilled trades talent | ★ |
+| 2026-06-30 | [[2026-06-30-yt-_SiuAU23MIY]] | German bike-parts store — founder step-out math and A+ manager arbitrage | |
+| 2026-06-30 | [[2026-06-30-yt-HCAP5EWqMoc]] | Info-product portfolio — AI risk; harvest rather than defend weak vehicle | ★ |
+| 2026-07-01 | [[2026-07-01-yt-LwdeeAruO3Q]] | Skincare ecommerce — key-man-risk deferred; brand, UGC, email levers | |
+| 2026-07-01 | [[2026-07-01-yt-kEuFH11u9T8]] | Firefighter/ADU founder — quest, day-job decision, comfort rationalization | ★ |
+| 2026-07-01 | [[2026-07-01-yt-Zlydq3Kx2CU]] | Dietitian practice — shiny models, licensing only after no-founder opening team | ★ |
+| 2026-07-01 | [[2026-07-01-yt-N78wCREYF7w]] | Custom hats — supply constraint, talent pricing, delivery latency | |
+| 2026-07-01 | [[2026-07-01-yt-oGgGkbmAIPU]] | Motocross events — copycat broken model, pricing guilt, Gym Launch price-cut lesson | ★ |
 | 2026-07-01 | [[2026-07-01-yt-88oj6ZlmEi8]] | $6M roofing wants $100M — "want less or trade more", the who game | ★ |
 | 2026-07-02 | [[2026-07-02-yt--raDp0vMe5c]] | Wildfire sprinklers — insurance leads need sales motion to lift close rate | |
 | 2026-07-02 | [[2026-07-02-yt-W4Xs0oE7jzk]] | Dental group — ROIC, owner distributions vs growth, core-role recruiting | ★ |
@@ -712,7 +721,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_682 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: 1,852 total, including P2 (~1,830, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_691 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: 1,843 total, including P2 (~1,821, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
