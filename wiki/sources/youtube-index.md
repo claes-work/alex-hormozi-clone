@@ -587,6 +587,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
 | 2026-05-18 | [[2026-05-18-yt-lLbHejMCCbk]] | Ignore close critics - right often, not more right, wider game, death frame | ★ |
 | 2026-05-18 | [[2026-05-18-yt-uGcYQOQS3Nc]] | Lonely chapter - hate as sign, conformity pull, price tag of worthwhile goals | ★ |
+| 2026-05-18 | [[2026-05-18-yt-fFNDAof0aUc]] | Freemium relocation tool - ascension, channel demand, next-problem monetization | ★ |
+| 2026-05-18 | [[2026-05-18-yt-Z4gDx5tVax4]] | Winner's mindset - critics right often, wider game, local-status noise | ★ |
+| 2026-05-18 | [[2026-05-18-yt-D1DcOxqYiHo]] | Father scoreboard - out-earning, chosen games, reframing who shaped him | ★ |
+| 2026-05-18 | [[2026-05-18-yt-Lww40n3BcLA]] | Success as revenge - Mr. Given story, critics, copycats behind | ★ |
+| 2026-05-18 | [[2026-05-18-yt-Exmo_hcJZM0]] | Network building - creator/business intersection, IOUs, ignorance debt | ★ |
+| 2026-05-18 | [[2026-05-18-yt-w6lO1_NN_ig]] | Dating while building - live real life, goals as self, early compatibility test | ★ |
+| 2026-05-18 | [[2026-05-18-yt-wdUelpec4ns]] | Saturated markets - red ocean demand, niche ladder, five market moves | ★ |
+| 2026-05-18 | [[2026-05-18-yt-Vi0_cK57bQc]] | Productivity hacks - focus, commitment as eliminating alternatives, say no | ★ |
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
 | 2026-05-19 | [[2026-05-19-yt-VX_iLv-QY8I]] | Skill acquisition - volume times feedback loops, tutors, community | ★ |
 | 2026-05-19 | [[2026-05-19-yt-IKK_JUtU12U]] | Hijacked direction - father-proof loop and apology overlap | ★ |
@@ -1067,7 +1075,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,037 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,497 total, including P2 (~1,475, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,045 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,489 total, including P2 (~1,467, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

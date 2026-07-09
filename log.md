@@ -3405,3 +3405,31 @@ L2.
 
 Ledger 8→L2 (L2 now 1,037). youtube-index/index/footer updated. @MoreMozi P2: ~1,402 rows remain.
 Synthesis notes: Acquisition.com origin/PE better game/content deal flow; outwork-self-doubt Money Models prep and self-esteem standard; hard conversations/DUI crash/death catalyst; quitting math plus guaranteed-bad/chance-good and fear specificity; Rule of 100/comments/asymmetric-positioning for beginner ads; seasonal local-service lighting and lead magnet offer; close-critics/local-status/death-freedom frame; lonely chapter/hate signal/price-tag frame.
+
+## [2026-07-09] ingest | yt batch 134 — @MoreMozi P2 (2026-05-18), 8 videos
+
+Forty-seventh resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-18** `yt-fFNDAof0aUc` "The Hardest Business Model to Get Right" — freemium:
+  ascension, channeling demand, user calls, and next-problem monetization.
+- **2026-05-18** `yt-Z4gDx5tVax4` "The Winner's Mindset Is a Contradiction" — criticism:
+  critics right often but not more right, wider game, and local-status noise.
+- **2026-05-18** `yt-D1DcOxqYiHo` "Why I Stopped Trying to Outearn My Father" — father:
+  money-status scoreboard, chosen games, and reframing the person who shaped him.
+- **2026-05-18** `yt-Lww40n3BcLA` "Success Is the Only Revenge" — revenge:
+  Mr. Given story, critics keeping attention, winning into irrelevance, and copycats.
+- **2026-05-18** `yt-Exmo_hcJZM0` "How to Build a Powerful Network From Scratch" — network:
+  creator/business intersection, monetization plus deal flow, IOUs, and ignorance debt.
+- **2026-05-18** `yt-w6lO1_NN_ig` "How Do I Date While Building a Business" — relationships:
+  real-life compatibility test, goals as self, and not performing for a partner.
+- **2026-05-18** `yt-wdUelpec4ns` "How to Win in Saturated Markets" — markets:
+  red-ocean demand, puddle-to-ocean niche ladder, and five market moves.
+- **2026-05-18** `yt-Vi0_cK57bQc` "Why Productivity Hacks Are a Waste of Time" — focus:
+  commitment as eliminating alternatives, removing rather than adding, and saying no.
+
+Ledger 8→L2 (L2 now 1,045). youtube-index/index/footer updated. @MoreMozi P2: ~1,394 rows remain.
+Synthesis notes: freemium/ascension/channel-demand/next-problem monetization; winner mindset and local-status criticism; father money-scoreboard and chosen games; success-only-revenge/Mr. Given/copycat-behind frame; creator-business network bridge plus IOUs and AI ignorance debt; dating while ambitious/goals-as-self compatibility test; saturated-market/niche ladder/five market moves; focus as commitment/eliminate alternatives/say no.
