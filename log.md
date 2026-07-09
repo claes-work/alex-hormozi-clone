@@ -4550,3 +4550,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,318). youtube-index/index/footer updated.
 Synthesis notes: expectation-reset/harder-longer-costs-more/unknown-finish-line-marathon; ecommerce-cohort-LTV-by-source/DTC-vs-B2B-distribution/killer-marketer-gap; belief-ownership/explain-why/change-mind/dont-analyze-pleasures; ACQ-deal-flow-3000-month-two-LOIs/EBITDA-threshold/deal-fit/minority-to-majority-shift; push-vs-pivot/need-to-believe-assumptions/skill-deficiency-iteration; ad-scaling-awareness-level-hooks/VSL-first-five-minutes-CRO/high-ticket-phone-upsell; eliminate-should-why-because/observable-behavior/preference-boundaries; course-to-annual-community/simple-launch/retention/exclusivity-by-turning-people-down.
+
+## [2026-07-09] ingest | yt batch 177 - @MoreMozi P2 (2026-04-24), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-24** `yt-8IbONtxx1lQ` - action proves learning; the first 20 hours produce
+  fast terrible-to-proficient gains.
+- **2026-04-24** `yt-5K1avyxo9FU` - product and brand beat sales/marketing; $100M Offers
+  as word-of-mouth leverage.
+- **2026-04-24** `yt-LtSWOAuKjG4` - hospitality consulting: scale white-glove if the
+  higher-LTV customer can be found through a repeatable activity.
+- **2026-04-24** `yt-aHYgDvTlwXo` - confidence from controllable input-output equations,
+  including 5,000 nos, GMAT reps, and content volume.
+- **2026-04-24** `yt-exF37VV4bkE` - creator-business constraint: if the goal is money, the
+  constraint may be monetization, not content quality.
+- **2026-04-24** `yt-CpFX9CTwEaU` - Sharran as thought partner, A+ talent as partners, and
+  clouds-to-dirt/full-stack executive standard.
+- **2026-04-24** `yt-gz-O_SFlD-0` - become the exception by being the rule; young founders
+  may be dismissed because quality is not there yet, not because of age.
+- **2026-04-24** `yt-uwJLalV897Y` - high-skill service scaling: path to partner,
+  profit-share/profits-interest, and recruiting/hiring/training/culture.
+
+Ledger 8->L2 (L2 now 1,326). youtube-index/index/footer updated.
+Synthesis notes: action-proves-learning/first-20-hours-fast-curve; product-brand-over-sales-marketing/100M-Offers-word-of-mouth-leverage; hospitality-white-glove-scale-unscalable/find-retain-margin-LTV/events-volume; input-output-confidence/wont-stop/5000-nos/GMAT-reps/content-volume; creator-monetization-constraint/learn-money-game-if-money-goal; Sharran-thought-partner/A-plus-talent-partners/clouds-to-dirt-executives; become-exception-by-being-rule/age-vs-quality/long-tenure; high-skill-service-path-to-partner/profit-share-profits-interest/people-scaling.
