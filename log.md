@@ -1568,3 +1568,35 @@ Continued oldest-first P1 (all L2). 8th of the planned batch (yt-aO56wn5sBSA) hi
 Ledger 7→L2 (L2 now 540). youtube-index/index/footer updated. **Synthesis backlog:** CLOSER
 canonical-in-2021 + R-added-later dating; belief-continuum → sales-communication; the "softer
 origin" account to reconcile against biography.md's harsher rock-bottom narrative.
+
+## [2026-07-09] ingest | yt batch 73 — @AlexHormozi origin-era (2021 Aug–Oct), 7 videos
+
+Continued oldest-first P1 (all L2). One video (yt-aO56wn5sBSA "A Billionaire told me how to
+invest") 429'd on caption fetch 3× (video-specific, not global — the other 7 fetched clean) →
+set L1, notes "429-persistent", excluded from future batch selection until a later retry.
+
+- **2021-08-09** `yt-kULFeI3LRYk` "$100k on Courses" — business is a "bridge" of skill-bricks;
+  courses usually reinforce a brick you already have, not the missing weak link. **BIO:** paid
+  **Grant Cardone $120k for four hours**; Leila cited for their "no diligence, no deal" rule.
+- **2021-08-13** `yt-4vLgOX1Ykjg` "Told Myself I Was Wealthy" — identity change via the *stories
+  you tell yourself*, turning affirmations into evidence-backed **arguments** ("I am X *because*
+  [past instance]") — weaponizing "because." NOTE: title contradicts content (he rejects bare
+  affirmations); flagged on the page.
+- **2021-09-20** `yt-ThSFgC_4NVA` "Most Persuasive Tactic" — **"no half measures"** (pitch fully
+  or not at all) + its flip: give relentlessly so reciprocity brings business without an ask.
+- **2021-09-24** `yt-m-7VjocC76M` "Buckets of Money in Service" — sell a few high-touch, fully-
+  prepaid "access" slots on top of the core service (near-100% margin, no discount), deliberately
+  underselling to keep pent-up demand.
+- **2021-10-08** `yt-3P1XjUvo1b4` "Starbucks Recurring" — ⚠️ title/content mismatch: actually a
+  churn-minimization-via-customer-surplus talk (target 1–2% monthly churn); Starbucks is a one-line
+  stickiness example, no prepay/float mechanics. Retention-first proto-continuity thinking.
+- **2021-10-11** `yt-DpbXWP8fLbc` "Unlimited Funding in 30 Days" — explicit early **Client-Financed
+  Acquisition**: fund growth from 30-day interest-free card float so 30-day cash > 2×(CAC+fulfill),
+  negative net CAC, uncapped acquisition without investors/debt. Self-reported $1,036 → ~$85M/yr.
+- **2021-10-18** `yt-O1As2zxy0es` "Only 4 Ways to Scale a Service Biz" — (1) private chain,
+  (2) franchise, (3) licensing, (4) software/tech-enabled. These are monetization/packaging vehicles,
+  a DIFFERENT framework from the 2023 "5 ways to scale" (TAM moves) — flagged so synthesis doesn't
+  conflate them; foreshadows the 2026 "three expansion paths" (M&A/organic/franchise-license).
+
+Ledger 7→L2 (L2 now 547), 1→L1 (429). youtube-index/index/footer updated. **Synthesis backlog:**
+proto-CFA dating; the 4-ways-to-scale-service vehicles (distinct from 5-ways); Cardone-$120k bio beat.
