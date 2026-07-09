@@ -2739,3 +2739,28 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 837). youtube-index/index/footer updated. @MoreMozi P2: ~1,602 rows remain.
 Synthesis notes: sales-director role definition as culture/training; process-driven selling vs unicorn talent; "Armageddon button" pivot test; membership as emergency-service back end; channel selection by existing skill overlap; founder-driven sales vs prospect-led scalable sales; action over motive/worthiness; 20% cost-of-change hurdle and monopoly levers; SaaS activation economics; discount-plus-one-time-fee offer structure and anti-haggling rule.
+
+## [2026-07-09] ingest | yt batch 109 — @MoreMozi P2 (2026-06-10 to 2026-06-11), 8 videos
+
+Twenty-second resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-11** `yt-EbcqyxLLWN4` "Helping a Pet Care Coach Scale to $3M/Year" — pet-care coaching:
+  supply constraint, expectation reset, delivery decrease, and mission-integrity framing.
+- **2026-06-11** `yt-w435ckDcfy4` "How to Hire 20 Lawyers and Add $12M in Revenue" — law firm:
+  attorney hiring as a resource/volume problem with clear recruiting ROI and enterprise-value upside.
+- **2026-06-11** `yt-aTP0fwDESOY` "I Baited the Hook With the Wrong Bait" — life-coach certification:
+  interest-media reframing from consumer relationship content to coach-facing client/problem content.
+- **2026-06-11** `yt-pstJXCdpIio` "Helping a Pet Care Coaching Business Scale to $3M" — near-duplicate
+  pet-care coaching clip: same supply/delivery reset; preserve as separate source row.
+- **2026-06-10** `yt-kYUXKevbChg` "They Pass My Exam and Triple Their Income (Then Ghost Me)" — BCBA test prep:
+  document earnings outcomes, use alumni/job-board incentives, and sell university exclusivity.
+- **2026-06-10** `yt-pobfyHIItag` "How a 22 Year Old Built a $2.4M Pizza Shop" — pizza shop:
+  nail-then-scale, data before expansion, GM profit share, and 3-6 month absence test.
+- **2026-06-10** `yt-960cDVNgTC8` "How to Find Motivated Sellers in a Frozen Real Estate Market" — multifamily brokerage:
+  Sharran-led 1031 buyer/community strategy; Alex adds scarce-resource gated community/status frame.
+- **2026-06-10** `yt-EiUW4sCi23s` "Helping a $3M Restaurant Consultant Get to $10M" — restaurant consulting:
+  logic/evidence/utility, VSL pre-framing, good friction, fast-cash onboarding, and action-contingent guarantees.
+
+Ledger 8→L2 (L2 now 845). youtube-index/index/footer updated. @MoreMozi P2: ~1,594 rows remain.
+Synthesis notes: delivery decreases and mission-integrity expectation resets; talent acquisition as capital/resource allocation; wrong-bait content reframing under interest media; earnings-outcome proof and university exclusivity; brick-and-mortar GM absence test; Sharran-attributed motivated-buyer/community strategy with Alex-attributed scarce-resource gating; logic/evidence/utility diagnostic; VSL pre-framing, good friction, fast-cash activation, and action-contingent guarantees.
