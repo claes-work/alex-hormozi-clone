@@ -2317,3 +2317,31 @@ for retry; the 9 successful rows were ingested as L2.
 
 Ledger 9→L2 (L2 now 709). youtube-index/index/footer updated. @MoreMozi P2: ~1,730 rows remain.
 Synthesis notes: outbound expected-value math, close-rate pricing guide and non-retroactive usage tiers, quest/work meaning with paid-study-hall caveat, live-interactive/long-form trust, local-fortification-before-national-scale, athlete audience monetization paths, quality bottleneck in creator-led media, LTGPE:CAT reinforcement, and data-first-before-AI-first.
+
+## [2026-07-09] ingest | yt batch 93 — @MoreMozi P2 (2026-06-26 to 2026-06-27), 8 videos
+
+Sixth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored during caption fetch
+and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-26** `yt-ZZgB379SXu0` "Helping a Fitness Coach Double His Business in 6 Months" — fitness
+  coaching: delegate content research/scripting, repost top trial Reels to new audiences, and build sales capacity
+  before turning up ads.
+- **2026-06-26** `yt-17iS8WLu9R8` "The Minor League/Major League Model for Scaling a Team" — real-estate
+  team: add brokerage as a minor league, team as the major league, cap Zillow Flex exposure, and expand with a local
+  leader.
+- **2026-06-27** `yt-qF_a_FlBAyU` "Pumping ETFs for $20K/Month (Legally)" — ETF/influencer business:
+  position as a media channel against paid media spend, not as a low-priced service agency; recruit like marketing.
+- **2026-06-27** `yt-3m5pkEFBQZE` "Our Close Rate Is Insane But Nobody Shows Up" — sales funnel:
+  low show rate points to missing friction, lead nurture, and a real proof-promise-plan VSL.
+- **2026-06-27** `yt-stNoWmrpcg8` "The 3 Roles Every Company Needs to Scale" — org design:
+  promote, build, and operate are the required functions; hire only where the current supply/demand constraint is.
+- **2026-06-27** `yt-99_aF4RFTDg` "Founder Has No Job (Business Prints $500K)" — soccer tournament business:
+  if the model works and lead flow exceeds sales capacity, the founder's job becomes recruiting salespeople.
+- **2026-06-27** `yt-i-5npWTbiaQ` "Burn $200K on Google Ads to 5x a Boring Business" — luxury gaming tables:
+  treat profit as keyword experimentation budget, use awareness-stage bridge pages, and later test visual influencer
+  whitelisting.
+- **2026-06-27** `yt-mAhPpY1MPQM` "We do $8M and can't get past it without ads" — B2B cocktail mix:
+  mechanize the father's proven outbound motion and use trade-show sampling before starting a brand-awareness push.
+
+Ledger 8→L2 (L2 now 717). youtube-index/index/footer updated. @MoreMozi P2: ~1,722 rows remain.
+Synthesis notes: trial-Reels greatest-hits reposting plus sales-capacity-before-ads, minor/major league ascension, media-channel positioning against paid media, show-rate friction and VSL proof checklist, promote/build/operate function triad, founder as sales-recruiter when conversion capacity constrains, keyword experimentation budget with awareness bridge pages, and mechanized outbound before brand.
