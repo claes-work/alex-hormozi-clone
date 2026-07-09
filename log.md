@@ -4379,3 +4379,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,270). youtube-index/index/footer updated.
 Synthesis notes: ACQ-Real-Estate-emergence/self-reported-deal-volume/credibility-before-teaching; legal-services-workshop-funnel/PPC-cap/preventative-buyer-education/20-25-show-one-third-close; pain-neutrality/feelings-irrelevant-to-action; insignificance-as-ambition-pressure-release/fight-regression-to-mean; brick-and-mortar-second-location-test/6-month-manager-proof/grand-opening/market-CAC-before-lease/corporate-vs-franchise-math; two-group-free-to-paid-Skool-model/ascension-points; lottery-fear/skill-over-weapon/gauntlet; one-to-small-group-unscalable-delivery-economics/early-mover-incentives.
+
+## [2026-07-09] ingest | yt batch 171 - @MoreMozi P2 (2026-04-28 to 2026-04-29), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-28** `yt-Nkt_ot5mvMg` - competition as demand proof and the channel-demand,
+  don't-create-demand frame.
+- **2026-04-28** `yt-oNG9AXBcJ7M` - seasonal lighting business: choose between off-season
+  infrastructure and permanent-lighting ascension, not both.
+- **2026-04-29** `yt-iT6HjY0DjpE` - imposter syndrome repeat: honest deficiencies can make
+  positioning more compelling.
+- **2026-04-29** `yt-gU9HNpXw-_E` - cognitive decline, replaceability, and the universe-
+  undefeated ambition frame.
+- **2026-04-29** `yt-JT3bePK2ens` - $2M legal-services company with zero EBITDA: fix
+  pricing/payroll margin before adding leads.
+- **2026-04-29** `yt-I4jizguH3nc` - no-input/no-output brand building and value-in-advance
+  influencer outreach.
+- **2026-04-29** `yt-BdL22_C9UdU` - community marketing as doing tests and reporting the
+  results, not generic listicles.
+- **2026-04-29** `yt-S45XRAUHhkE` - conversion congruency across content, CTA, offer, and
+  mobile thumbnail packaging.
+
+Ledger 8->L2 (L2 now 1,278). youtube-index/index/footer updated.
+Synthesis notes: competition-as-demand-proof/channel-demand-not-create; seasonal-business-patience/off-season-infrastructure/choose-one-problem; imposter-positioning-repeat-deficiency-as-asset; cognitive-decline/never-sharper-than-now/universe-undefeated; margin-before-leads/legal-services-underpriced-overpaying; busy-and-broke/no-input-output/mega-influencer-outreach-value-in-advance; value-as-reported-experiment/community-marketing-by-doing-and-sharing; conversion-congruency-content-CTA-offer/package-before-production/mobile-thumbnail-check.
