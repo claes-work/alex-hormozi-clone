@@ -2689,3 +2689,28 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 821). youtube-index/index/footer updated. @MoreMozi P2: ~1,626 rows remain.
 Synthesis notes: campaign-test spend at 2x target CAC; one-level-up partner/channel strategy; senior leadership layer and founder-led headhunting; delegate revenue last with Leila attribution; decoy offers for outbound; warm-process failure on cold leads; partial service-delivery handoff; sales leader identity progression; service-business swamp and never-email-quotes sales motion; creator reminders-over-novelty sustainability; EBITDA-over-revenue target and margin-data sequencing.
+
+## [2026-07-09] ingest | yt batch 107 — @MoreMozi P2 (2026-06-12 to 2026-06-13), 8 videos
+
+Twentieth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-13** `yt-MKz81j4FsSM` "Cut the Lower-Margin Customer and Just Win" — cleaning business:
+  focus homeowners, preserve stronger LTV:CAC, and say no to the lower-value vertical for now.
+- **2026-06-13** `yt-PEnDTYaSVw0` "AI Ads Agency Charging $25K Per Commercial" — AI ad studio:
+  sell customer acquisition and creative volume, not AI novelty; target proven ad spenders.
+- **2026-06-12** `yt-NTm8BibjUqQ` "The 3 Types of Content (And Why Only One Builds a Business)" — solo content strategy:
+  education over entertainment, proof/promise/plan intros, pre-work over post, and ad revenue/RPM over views.
+- **2026-06-12** `yt-bHOR3aMRs1U` "Helping a $20M Fence Company Scale to $50M" — fencing:
+  not a new growth problem; compare location-level variance and copy the proven units.
+- **2026-06-12** `yt-k8-xbMrcUtA` "Helping a $5.5M Auto Hail Repair Company Scale to $15M" — auto hail repair:
+  hire an operator, recruit through targeted outreach, and align leaders with profit pools/phantom sale upside.
+- **2026-06-12** `yt-DiOVkIanOkQ` "Helping a Wildfire Sprinkler Company Scale to $200M" — wildfire sprinklers:
+  insurance mandates create leads, not revenue; install a sales motion before avatar overthinking.
+- **2026-06-12** `yt-bBm70Ojep80` "I'm a physics tutor making $80k. How do I scale?" — tutoring market entry:
+  target the US first with English content and reduce avoidable signals that repel English-speaking buyers.
+- **2026-06-12** `yt-fTV3PbWAfWQ` "I'm so confused. Walk me through how you make money" — real estate:
+  deal flow is not close to tapped; seek wholesaler exclusivity or vertical integration.
+
+Ledger 8→L2 (L2 now 829). youtube-index/index/footer updated. @MoreMozi P2: ~1,610 rows remain.
+Synthesis notes: LTV:CAC-based vertical focus and "no for now"; AI as hidden production method vs customer outcome; education-content strategy with RPM/ad revenue as audience-quality metric; multi-location variance copying; operator compensation via cash flow/sale/risk/control equity decomposition; sales-machine expected-value math for partner leads; market-entry signaling and accent-friction advice; real-estate deal-flow exclusivity and vertical integration.
