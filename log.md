@@ -4405,3 +4405,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,278). youtube-index/index/footer updated.
 Synthesis notes: competition-as-demand-proof/channel-demand-not-create; seasonal-business-patience/off-season-infrastructure/choose-one-problem; imposter-positioning-repeat-deficiency-as-asset; cognitive-decline/never-sharper-than-now/universe-undefeated; margin-before-leads/legal-services-underpriced-overpaying; busy-and-broke/no-input-output/mega-influencer-outreach-value-in-advance; value-as-reported-experiment/community-marketing-by-doing-and-sharing; conversion-congruency-content-CTA-offer/package-before-production/mobile-thumbnail-check.
+
+## [2026-07-09] ingest | yt batch 172 - @MoreMozi P2 (2026-04-28), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-28** `yt-ytudB0vywec` - failed Gym Launch R&D tests as community value and
+  time compression.
+- **2026-04-28** `yt-9iYbOuQd1eE` - dental no-show system: integrity tie-down, close-in
+  manual reminders, and prepared-item reciprocity.
+- **2026-04-28** `yt-H0z5nhHmMpg` - truth-telling in social settings, words carrying
+  weight, and direct voice examples.
+- **2026-04-28** `yt-wMdcdkOsq7g` - first 5/8 seconds of content, intro-thumb-headline
+  congruency, and hook reuse.
+- **2026-04-28** `yt-WAmCM4pzhco` - avatar specificity and niche trench knowledge as the
+  counter-position against broad business authority.
+- **2026-04-28** `yt-E_33PAl0AHo` - low-ticket CPA/LTV fix through free-group ascension
+  and four conversion points.
+- **2026-04-28** `yt-gk0B-0Xg03U` - criticism as other people's preferences and three
+  blame buckets.
+- **2026-04-28** `yt-QKwbR9y34I0` - ads as native content: remove emojis, use pain hooks,
+  benefit-of-benefit copy, and simple analogies.
+
+Ledger 8->L2 (L2 now 1,286). youtube-index/index/footer updated.
+Synthesis notes: failed-test-reports-as-value/Gym-Launch-RD-50k-tests/communities-save-time; dental-no-show-integrity-tie-down/24h-morning-60-90m-manual-reminders/prepared-item; social-truth-telling/words-mean-what-they-mean-voice-material; first-5-8-second-hook-rule/intro-thumb-headline-congruency; avatar-specificity/trench-niche-knowledge-beats-broad-authority; community-CPA-LTV-ascension/four-conversion-points/VSL-concern-sequence; criticism-as-preference-mismatch/three-blame-buckets; ads-as-native-content/remove-emojis/benefit-of-benefit/third-grade-copy.
