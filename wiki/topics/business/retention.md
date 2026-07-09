@@ -229,6 +229,31 @@ leaving and the people staying, then engineer more of what makes them stay.
 > really just looks like a flat retention curve, and then what happens is it just keeps
 > growing." — [[../../sources/2026-03-24-yt--j8_YCWZ05Q]]
 
+## Consumable recurring inputs
+
+In a May 2026 MoreMozi clip, Hormozi adds a sharper retention distinction for education,
+coaching, and membership businesses: **curriculum is consumed once, but recurring inputs
+are consumed again and again**. Once a student learns the lesson, that lesson's value falls;
+the business needs something the customer still uses monthly [[../../sources/2026-05-28-yt-Pa1XNVGhzOI]].
+
+The pattern is to become the supplier of inputs into the customer's operating system, not
+just the teacher of the system. His Gym Launch example is self-reported: across many active
+locations, the company created, tested, and distributed winning ads to gym clients as a
+recurring input. Comparable consumables include researched property lists for wholesalers,
+trend lists for print-on-demand sellers, accountability, and community
+[[../../sources/2026-05-28-yt-Pa1XNVGhzOI]].
+
+Two rules follow:
+
+- The consumable should save work, reduce risk, or compress complexity for the customer.
+- Adding unused bonuses can reduce perceived value; monthly-use assets are more valuable
+  than more curriculum nobody consumes.
+
+In a separate AI-era value clip, he gives the same category a broader market role: as AI
+creates cheap information, value concentrates in **curation, time compression, real
+community, and consumable recurring inputs** [[../../sources/2026-05-27-yt-D8mz-jmYL5M]].
+That makes consumables a retention tactic and a 2026 positioning thesis at the same time.
+
 ---
 
 ## Sources
@@ -243,3 +268,8 @@ leaving and the people staying, then engineer more of what makes them stay.
 - [[../../sources/2026-03-24-yt--j8_YCWZ05Q]] — "How to Get Your Customers to Stay FOREVER":
   ~13-point Skool retention playbook; leaky bucket, day-90 / month-6 thresholds, subtraction,
   daily owner presence, member success, tiering, annual plans.
+- [[../../sources/2026-05-28-yt-Pa1XNVGhzOI]] — consumable media / recurring inputs:
+  curriculum loses value after learning; monthly consumables, tested ads, research,
+  accountability, and community lower churn.
+- [[../../sources/2026-05-27-yt-D8mz-jmYL5M]] — AI-era value stack: curation, time
+  compression, real community, and recurring consumables.

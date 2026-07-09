@@ -4,12 +4,12 @@ domains: [business]
 created: 2026-07-08
 updated: 2026-07-09
 tags: [sales]
-sources: 17
+sources: 18
 ---
 
 # Sales Frameworks
 
-Hormozi's sales methodology, synthesized from fourteen sources spanning 2020–2026. The
+Hormozi's sales methodology, synthesized from eighteen sources spanning 2020–2026. The
 through-line: sales is not manipulation but **the transference of conviction over a
 bridge of trust**, delivered through a repeatable question-based script (**CLOSER**),
 logical objection-dismantling (the **onion of blame** / five obstacles), and a set of
@@ -286,6 +286,14 @@ belief," conviction "counts twice" (2021, [[../../sources/2021-06-23-yt-42SOlVhD
 [[../../sources/2022-03-16-yt-bHnVItVGJPA]]) → "transference of belief" (2022 keynote and
 2023 talk, [[../../sources/2022-01-19-yt-okA9Yt2KZuk]];
 [[../../sources/2023-06-06-yt-iqAtBbGr3VY]]). The bridge in every version is **trust**.
+
+**2026 Q&A restatement.** In a late-May 2026 interview cut, he restates the sales core in
+plainer teaching language: selling is helping someone make a decision that benefits them,
+and the main ingredients remain **conviction and trust**. Conviction is strengthened by
+testimonials and visible customer outcomes; trust comes from expertise plus rapport. His
+recommended objection posture is **childlike curiosity** — ask with genuine interest
+instead of arguing — so the prospect keeps explaining rather than defending
+[[../../sources/2026-05-27-yt-n_6TZGmck3k]].
 
 ---
 
@@ -603,3 +611,5 @@ buyers while making the offer feel less risky to people willing to do the work
   reciprocity vs. pitching (2021)
 - [[../../sources/2022-01-21-yt-oi7bnS8uyJM]] — War Room keynote corroborating full CLOSER +
   R-added-later (2022)
+- [[../../sources/2026-05-27-yt-n_6TZGmck3k]] — conviction + trust restatement; testimonials
+  as conviction fuel; childlike curiosity in objections (2026)

@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-08
-sources: 4
+updated: 2026-07-09
+sources: 8
 ---
 
 # Voice
@@ -182,6 +182,16 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "You can know how wealthy someone is based on the time horizons they speak in." (2024)
 - "The deeming of the thing a problem is the problem." (2021)
 - "Shame only exists in darkness." (2021)
+
+**2026 Q&A operator language** ([[../wiki/topics/mindset/mental-toughness-and-learning|mental-toughness-and-learning]],
+[[../wiki/topics/business/ai-in-business|ai-in-business]], [[../wiki/topics/business/retention|retention]],
+[[../wiki/topics/content-strategy/content-engine|content-engine]])
+- "Same condition, new behavior." (2026) — compact definition of learning.
+- "Switching from roles to workflows." (2026) — current AI/org-design phrasing.
+- "You want to be the supplier of those inputs." (2026) — consumable-media retention line.
+- "Think about your shorts... as ads towards getting people into the longs." (2026)
+- "The rocky cut scene lasts 30 seconds in the movie, but it can last 5 years in your life." (2026)
+- "You're not selling, you're helping someone make a decision." (2026)
 
 **Wealth & investing** ([[../wiki/topics/wealth/investing-and-wealth|investing-and-wealth]])
 - "Maybe get a hobby and just let the money grow and pretend you're a dead person." (2021)

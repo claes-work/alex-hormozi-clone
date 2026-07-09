@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 99
+sources: 106
 ---
 
 # Beliefs
@@ -1230,7 +1230,7 @@ video sources; nearly every figure is self-reported napkin math).
 
 ## Frameworks — AI era (2026)
 
-Synthesized from two 2026 solo videos. This is his current, timely AI thesis.
+Synthesized from 2026 solo videos and MoreMozi Q&A cuts. This is his current, timely AI thesis.
 
 - **"AI is the worst it will ever be" — learn it now** (2026) — assuming any reasonable rate
   of improvement, learning to use AI should be "your number one priority, your number two
@@ -1257,6 +1257,18 @@ Synthesized from two 2026 solo videos. This is his current, timely AI thesis.
   engineer proof-generating loops into your existing business ("a self-licking ice cream
   cone") and **capture** content while you deliver rather than manufacture it: "I'm usually
   not making content. We're just capturing it." [[../wiki/sources/2026-05-26-yt-XsWSvz-aewA]]
+- **Data first, workflows first, observable language first** (2026) — the practical AI
+  layer is not "replace a role with AI"; it is mapping the business into recurring actions,
+  making the inputs clean enough to use, and training agents with observable, behavioral
+  instructions. In May 2026 he says service businesses often need data-first discipline
+  before AI-first leverage [[../wiki/sources/2026-05-29-yt-NadXwJQjBiY]], then restates the
+  org-design move as "switching from roles to workflows" and predicts that over the next
+  12-24 months UX will compress as agents replace much clicking and navigation
+  [[../wiki/sources/2026-05-29-yt-rMf-JuikR-Q]].
+- **AI-era value shifts to curation, time compression, real community, and consumables**
+  (2026) — as generated information becomes cheap and noisy, the durable value is selecting
+  the right thing, shortening time-to-result, putting people in real communities, and
+  supplying recurring inputs they continue to consume [[../wiki/sources/2026-05-27-yt-D8mz-jmYL5M]].
 
   > ⚠️ EVOLVING (his AI posture, 2022 → 2026): His public stance shifted from **futurist**
   > to **tactical** to **strategic pro-adoption** — present only the current view.
@@ -1371,6 +1383,23 @@ noted. Drawn from the evolution/contradiction flags on the topic pages.
   Early opportunities can be worth taking for skill and access, but a partnership still
   needs a clear scarce contribution rather than a disguised contractor fee.
   [[../wiki/topics/mindset/discipline-and-decision-making]]
+- **Definitions should cash out into behavior** (2026) — abstract traits and labels only
+  become useful when translated into observable actions. His compact definitions in the May
+  2026 Q&A: learning = same condition/new behavior; intelligence = rate of learning; an
+  excuse = a statement to avoid punishment; patience = figuring out what to do in the
+  meantime; trauma = permanent behavior change after an aversive stimulus
+  [[../wiki/topics/mindset/mental-toughness-and-learning]].
+- **Retention needs recurring inputs, not just education** (2026) — curriculum loses value
+  once learned, so memberships/coaching should supply monthly consumables: tested ads,
+  lists, research, accountability, community, or any pre-chewed input the customer keeps
+  using [[../wiki/topics/business/retention]].
+- **Go high in real tiers, not cosmetic upsells** (2026) — top tiers should usually jump
+  5x-10x from the prior price, add a meaningful block of revenue, and be introduced one at
+  a time as operations can support them [[../wiki/topics/business/pricing-psychology]].
+- **Shorts are ads for deeper time-on-brand** (2026) — Instagram and YouTube have strong
+  blended return because they mix discovery and nurture, but short-form content should move
+  people into longer videos, podcasts, books, live calls, or webinars where persuasion has
+  more surface area [[../wiki/topics/content-strategy/content-engine]].
 
 ## Related
 

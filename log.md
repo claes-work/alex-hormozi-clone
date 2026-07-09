@@ -3102,3 +3102,18 @@ during caption fetch and remain open for retry; the 8 successful rows were inges
 
 Ledger 8→L2 (L2 now 949). youtube-index/index/footer updated. @MoreMozi P2: ~1,490 rows remain.
 Synthesis notes: first-gym California hardship and father-return stakes; tolerance definition; healthcare VA webinars/B2B integration; sales conviction/trust/testimonials/childlike curiosity; pain-exposure "you're fine" evidence; AI-era curation/community/consumables; identity-as-behavior aggregation; agency/uncertainty/becoming-as-output frame.
+
+## [2026-07-09] lint | synthesis pass 13 — @MoreMozi Q&A batches 112-122
+
+Checkpoint synthesis after resumed @MoreMozi batches 112-122. Promoted genuinely new
+findings into topic/persona pages: observable definitions and behavior-first language
+(`learning = same condition/new behavior`); data-first / roles-to-workflows AI with
+observable AI instructions and UX-compression forecast; AI-era curation/community/
+consumables; consumable recurring inputs for retention; childlike-curiosity sales as a
+conviction/trust restatement; 5x-10x tier pricing; Instagram/YouTube blended-return and
+shorts-as-ads-for-longs content strategy; and granular self-reported first-gym hardship
+texture.
+
+Recompiled `persona/system-prompt.md` to v23 (~949 videos + 2 books), advanced
+`pipeline/synthesis-state.md` through batch 122, and updated `index.md`. Dropped repeats
+already covered by existing topic pages.

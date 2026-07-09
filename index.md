@@ -29,12 +29,12 @@ Domain hubs (full page list lives on each hub):
   - [sales-frameworks](wiki/topics/business/sales-frameworks.md) — CLOSER, logical closing (onion of blame + 5 obstacles), sales hacks, transference of conviction, high-ticket pricing, sales-team scaling.
   - [scaling-and-enterprise-value](wiki/topics/business/scaling-and-enterprise-value.md) — $0→$10M ladder, 5 ways to scale, scale-zero, Talent Grid, EV = customers × LTGP ÷ risk, exit/M&A, talent-side LTV:CAC/LTGPE:CAT.
   - [acquisition-channels](wiki/topics/business/acquisition-channels.md) — Big 4 vs 6 sources vs Core Four reconciled; Client Financed Acquisition, word-of-mouth as only exponential channel, Rule of 100, MAGIC naming.
-  - [ai-in-business](wiki/topics/business/ai-in-business.md) — his current (2026) AI thesis: use AI as a tool, capture-don't-create, workflow-not-role, narrative-vs-metric risk, risk-is-the-last-paid-human-act, barbell strategy (time-sensitive).
+  - [ai-in-business](wiki/topics/business/ai-in-business.md) — his current (2026) AI thesis: use AI as a tool, capture-don't-create, workflow-not-role, data-first before AI-first, curation/community/consumables, narrative-vs-metric risk, risk-is-the-last-paid-human-act, barbell strategy (time-sensitive).
   - [sales-communication](wiki/topics/business/sales-communication.md) — verbal delivery beneath CLOSER: 5 voice levers, breathing the script, chunk-up discovery, 7 universal closes.
   - [negotiation](wiki/topics/business/negotiation.md) — 5 tactics (BATNA, anchoring, MESO, reciprocity, framing) via his ~$20M home purchase.
   - [business-diagnostics](wiki/topics/business/business-diagnostics.md) — 2020–2021 ToC/proto-constraint lineage, supply-vs-demand constraint, "what business are you really in", 4 vectors, 4 shapes, growth-stage traps.
   - [competitive-moats](wiki/topics/business/competitive-moats.md) — anti-copycat precursor + 13 legal moats (network effects, scale, IP, M&A, distribution) — building a monopoly.
-  - [retention](wiki/topics/business/retention.md) — revenue-retention > logo, leaky bucket, 2021 eight-C stickiness, onboarding/expectations, tenure thresholds, member success.
+  - [retention](wiki/topics/business/retention.md) — revenue-retention > logo, leaky bucket, 2021 eight-C stickiness, onboarding/expectations, tenure thresholds, member success, consumable recurring inputs.
   - [communication-and-management](wiki/topics/business/communication-and-management.md) — articulation (debundle terms into behaviors), the Management Diamond, delegation vs abdication.
   - [business-math](wiki/topics/business/business-math.md) — the money-math canon: LTGP:CAC (fundamental economic unit), payback period, ROIC, EV = customers × LTGP ÷ risk, golden ratio.
   - [pricing-psychology](wiki/topics/business/pricing-psychology.md) — behavioral pricing: luxury inversion + 4 market positions, usage-based pricing, default-option anchoring, "sawdust" free samples.
@@ -47,7 +47,7 @@ Domain hubs (full page list lives on each hub):
   - [paid-ads](wiki/topics/marketing/paid-ads.md) — creative scaling (80% reskin winners, hook splicing), 70/20/10 budget split, Meta lookalikes, ROAS-gated scaling.
 - [wiki/topics/mindset/mindset.md](wiki/topics/mindset/mindset.md) — Discipline, self-belief, decision-making, pain and identity.
   - [discipline-and-decision-making](wiki/topics/mindset/discipline-and-decision-making.md) — "12 by 30" work ethic, to-sacrifice list, radical ownership, irreversible decisions, confidence-from-proof, infinite game, money = condensed time.
-  - [mental-toughness-and-learning](wiki/topics/mindset/mental-toughness-and-learning.md) — mental toughness 4-model (post mother's death), the "same condition, new behavior" learning method, passion vs proficiency vs pain-tolerance.
+  - [mental-toughness-and-learning](wiki/topics/mindset/mental-toughness-and-learning.md) — mental toughness 4-model (post mother's death), the "same condition, new behavior" learning method, observable definitions, passion vs proficiency vs pain-tolerance.
 - [wiki/topics/wealth/wealth.md](wiki/topics/wealth/wealth.md) — Investing, net-worth philosophy, spending.
   - [investing-and-wealth](wiki/topics/wealth/investing-and-wealth.md) — Buy-and-hold vs trading, play-money quarantine, keep-passive-passive, proximity to wealth, wealth = what you own.
   - [building-wealth](wiki/topics/wealth/building-wealth.md) — the 4 paths to wealth (bootstrap/raise/invest/fund), cash-flow vs net-worth (6x multiple), his own route through all four.
@@ -78,11 +78,11 @@ Domain hubs (full page list lives on each hub):
 
 ## Persona
 
-- [persona/biography.md](persona/biography.md) — Dated timeline 1989–2025 with confidence markers (**46 sources** — father/refugee story, United Fitness + first-gym figures, philanthropy/estate-plan cluster, Leila airport-recruitment, book-trilogy origin, Goodwill shift, mother Florence's death ~Sep 2025, **DOB ~Aug 1989**, competitive-bodybuilding background, Kylie-Forbes turning point, tracked contradictions).
-- [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + a borrowed-lines (not-his-coinages) section.
-- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**90+ sources**); enriched from the topic pages + P2 synthesis (tax-free-liquidity 2021→2024 evolution, philanthropy/estate-plan belief, no-legacy, perfect-business, 4-shapes, 6-levels risk ladder, business math, moats, retention, culture, purpose/usefulness, relationships, AI thesis) with tracked evolutions.
+- [persona/biography.md](persona/biography.md) — Dated timeline 1989–2025 with confidence markers (**48 sources** — father/refugee story, United Fitness + first-gym figures, granular first-gym hardship, philanthropy/estate-plan cluster, Leila airport-recruitment, book-trilogy origin, Goodwill shift, mother Florence's death ~Sep 2025, **DOB ~Aug 1989**, competitive-bodybuilding background, Kylie-Forbes turning point, tracked contradictions).
+- [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + 2026 Q&A operator language + a borrowed-lines (not-his-coinages) section.
+- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**106 sources**); enriched from the topic pages + P2 synthesis (tax-free-liquidity 2021→2024 evolution, philanthropy/estate-plan belief, no-legacy, perfect-business, 4-shapes, 6-levels risk ladder, business math, moats, retention, culture, purpose/usefulness, relationships, current AI thesis) with tracked evolutions.
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Populated** (1 source): physique/build (~235 lb, signature calves), athletic background; grooming/wardrobe/setting still open (await watch-skill frame sampling).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v22** (~861 videos + 2 books) — full business frameworks + wealth/tax evolution + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis; grooming/wardrobe still pending watch-skill sampling.
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v23** (~949 videos + 2 books) — full business frameworks + wealth/tax evolution + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis; grooming/wardrobe still pending watch-skill sampling.
 
 ## Other
 

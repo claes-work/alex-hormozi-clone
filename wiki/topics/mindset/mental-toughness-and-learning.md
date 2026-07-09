@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: [mindset]
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [mental-toughness, learning, discipline]
 ---
 
@@ -137,6 +137,35 @@ lexicon** — "Me calling someone else lucky makes me better in zero ways"
 > not know why" is attributed by Alex to "Professor Bergman from Stanford," not his own
 > phrasing. See [[../../sources/2025-12-18-yt-q9qBqnhdWKw]].
 
+### 2026 Q&A refinement: observable definitions as the operating layer
+
+In a 2026 Q&A cut, Hormozi restates the learning definition in even more operational
+language and extends it into management, self-change, AI prompting, and communication:
+abstract labels only become useful when they are translated into observable behavior
+[[../../sources/2026-05-29-yt-8YJEyMYYwnE]]. He defines the cluster this way:
+
+- **Learning** = same condition, new behavior.
+- **Intelligence** = rate of learning.
+- **Excuse** = a statement made to avoid punishment.
+- **Patience** = figuring out what to do in the meantime.
+- **Trauma** = permanent behavior change after an aversive stimulus.
+- **Resilience** = returning to baseline behavior after disruption.
+
+The practical rule: when a term like "lazy," "confident," "patient," or "acting like a
+dick" appears, break the bundled label into the specific visible actions that would prove
+or disprove it. He treats this as the same skill behind clear leadership instructions,
+good sales diagnosis, personal trait change, and useful AI prompts
+[[../../sources/2026-05-29-yt-8YJEyMYYwnE]].
+
+In the same May 2026 run, he separates the toughness sub-skills again with short-form
+definitions: **resilience** is how fast behavior returns to baseline
+[[../../sources/2026-05-29-yt-tbNTKpwvRK4]], **fortitude** is the intensity of the drop
+after one's tolerance threshold is exceeded [[../../sources/2026-05-28-yt-X4z_5m5_hig]],
+and **tolerance** is how long hardship can continue before behavior changes
+[[../../sources/2026-05-27-yt-B6yMJkT7CJo]]. These are not new frameworks versus the
+2025 four-part model above; they are concise 2026 operator definitions useful for persona
+voice and coaching.
+
 ## Passion vs. proficiency vs. pain-tolerance
 
 Source: [[../../sources/2025-12-12-yt-UDBkiBnMrHs]].
@@ -188,4 +217,6 @@ All three threads share one conviction: the things people treat as fixed traits 
 toughness, intelligence, passion, grit — are **skills defined by observable behavior and
 improved by iteration**. Toughness is trained by rating and drilling four components;
 learning is accelerated by raising your iteration rate; and durable achievement comes
-from proficiency and pain tolerance, not passion. Related: [[discipline-and-decision-making]].
+from proficiency and pain tolerance, not passion. The 2026 Q&A material sharpens the
+operating habit: if a word cannot tell someone what to do with their mouth or body, keep
+defining until it can. Related: [[discipline-and-decision-making]].

@@ -4,7 +4,7 @@ domain: content-strategy
 domains: [content-strategy, marketing]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 10
+sources: 13
 tags: [content, media-playbook, volume, hooks, repurposing, personal-brand, give-first]
 ---
 
@@ -181,6 +181,29 @@ idea, the clarity of the communication is what people were attracted to." In eff
 book was the brand — "it wasn't even human." (This coexists with — and partly tensions
 against — his strong pro-brand case in [[branding]]; the resolution he'd offer is that
 brand accelerates a *good* product but cannot rescue a mediocre one.)
+
+### Q&A refinements: channel blend, shorts as ads, and content-to-ads
+
+In a June 2026 Q&A, Hormozi warns that channel ROI can mislead because the asset closest
+to conversion looks best. His current blended-return hierarchy favors **Instagram and
+YouTube** because they combine discovery, nurture, calls to action, DMs, long-form, and
+short-form. Podcasts can be very loyal and down-funnel, but that does not mean they should
+receive all allocation [[../../sources/2026-06-02-yt-zb1eSorqNps]].
+
+His tactical reading of shorts is narrower than a generic "shorts grow everything" claim:
+use shorts for facial recognition and as **ads for longer interactions**. Long videos,
+podcasts, and books create more time-on-brand and more surface area for persuasion; the
+short should move someone toward that deeper touch [[../../sources/2026-06-02-yt-zb1eSorqNps]].
+
+For higher-ticket services in saturated niches, he also treats content and ads as merged:
+make lots of content, turn winners into ads, then send low-volume traffic to live calls
+and higher-volume traffic to webinars before a one-on-one sales call
+[[../../sources/2026-05-28-yt-trAAFADIAZw]].
+
+In a May 2026 coaching-business clip, he adds a production mechanic: strong long-form can
+be assembled from many proven short loops on one theme. The long video is not a single
+uninterrupted idea; it is a retention-friendly sequence of tested ideas, much like his
+write-first atomic-unit model above [[../../sources/2026-05-30-yt-kp68MDBTpWY]].
 
 ---
 

@@ -127,6 +127,14 @@ more valuable output).
 For every hire, list the 4–10 concrete things that person does ("what are the five things
 an editor does?") and ask whether each could be a workflow instead of head count.
 
+**Late-May 2026 Q&A sharpening:** when asked about AI agents replacing hires, he restates
+the move as "switching from roles to workflows." Decompose a role into the actual actions
+inside each workflow, map the business as a chain of actions, then train agents on the
+reducible pieces with a clear task, examples, feedback, and observable language
+[[../../sources/2026-05-29-yt-rMf-JuikR-Q]]. The point is not "hire an AI" as a role; the
+point is to make each recurring activity explicit enough that either a human or a machine
+can execute and improve it.
+
 **2026 MoreMozi application:** in a coaching clip, he restates the thesis as "less about
 org charts and more about flows" and says Acquisition.com recently tripled media output
 without adding headcount because prompts absorbed roughly 30-50% of the workload. For
@@ -173,6 +181,16 @@ packaging, auto-run thumbnail tests, trend research); ad automation (yesterday's
 auto-overlaid with a CTA into a daily ad campaign — the "self-licking ice cream cone");
 sales (lead enrichment, personalized voice notes / images / DMs, AI-to-AI scheduling for
 speed-to-contact).
+
+**Data-first before AI-first.** In a May 2026 advisory-business clip, he warns that a
+service business usually needs structured, usable data before AI can create leverage. The
+near-term constraint is often not "we need AI"; it is "we need clean inputs, repeatable
+delivery, and enough mapped activity for AI to work on" [[../../sources/2026-05-29-yt-NadXwJQjBiY]].
+
+**UX compresses.** He expects the next 12-24 months to reduce interface navigation as users
+ask agents for answers instead of clicking through software screens. That makes workflow
+mapping more important, not less: if the interface disappears, the underlying task logic
+has to be clearer [[../../sources/2026-05-29-yt-rMf-JuikR-Q]].
 
 > ⚠️ Third-party examples (Hormozi's paraphrases of others' reported results, **not** his own):
 > **PayPal** cut fraud losses ~$700M in a year; **JP Morgan's "COIN"** saved ~360,000
@@ -229,6 +247,12 @@ toward ~zero (bounded only by energy cost), the last thing a human gets paid for
   real-time demonstration are what AI can't yet fake, so they are the durable content moat.
   "The proof is going to be in the pudding, and you want to make sure that you've got your
   first spoon in." (2026-05-26)
+- **Curation, time compression, real community, and consumable inputs** are the AI-era
+  value stack he names in a May 2026 Q&A: as cheap generated information floods the market,
+  value shifts to selecting the right thing, compressing time-to-result, putting people in
+  real communities, and supplying recurring inputs the buyer continues to consume
+  [[../../sources/2026-05-27-yt-D8mz-jmYL5M]]. This ties the AI thesis back to
+  [[retention]] and [[../content-strategy/community-building]].
 - **De-mystify "intuition" / "taste"** (2026-03-31, 2026-04-21). Treat gut instinct as
   pattern recognition — observable behaviors producing an outcome — so it can be described,
   rewarded, and automated. His operations habit (strip out emotional/intangible words,

@@ -180,6 +180,13 @@ already has capital, automation, and a cost structure built for volume; most ser
 operators should instead move toward the best customer at the highest price
 [[../../sources/2026-06-08-yt-CTJRsVA89Oc]].
 
+In a second June 2026 tiering clip, he makes the rule more explicit: each higher rung
+should usually be **5x to 10x** the prior price, with the rough expectation that a minority
+of the previous rung can qualify or take it. The point is not a cosmetic upsell; the new
+tier should add a full block of revenue and disproportionate profit because the base tier
+already carries much of the overhead. Add tiers one at a time, and start as high as the
+business can operationally support [[../../sources/2026-06-02-yt-yBrRSS3Vsxk]].
+
 **Discounts should buy behavior, and one-time fees should increase commitment.** In the
 parking-lot offer-structure clip, he treats a discount as a trade for the behavior the
 seller wants, not a concession to haggling. A one-time startup or setup fee can raise
