@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 156** — synthesis pass 16, system-prompt **v25** (2026-07-09).
+Synthesized through: **batch 157** — synthesis pass 17, system-prompt **v25** (2026-07-09).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -15,6 +15,11 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@TheSkoolSchool completion — batch 157** — synthesis pass 17 (2026-07-09) →
+      system-prompt **v25** unchanged. Added the two completion sources as corroborating
+      citations to the existing Skool/community-building playbook, including Sam Ovens product-demo
+      context and promotional-metrics caution. Dropped repeats already covered by the community
+      avatar, free-to-paid, access/content/events, value-equation, and fun/game sections.
 - [x] **@ACQofficial completion — batch 156** — synthesis pass 16 (2026-07-09) →
       system-prompt **v25** unchanged. Promoted Alex's UT Austin one-person-bet /
       perfect-pick-fallacy decision frame and a context-only Operator Podcast note on

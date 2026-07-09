@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: content-strategy;business
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [community-building, skool]
 ---
 
@@ -23,6 +23,11 @@ coherent community-building system.
 > letters, so their quotes are *marketing voice*, not off-the-cuff teaching. The
 > instructional videos ([[../../sources/2025-03-25-yt-1s1PtaUAE84]] through
 > [[../../sources/2025-03-29-yt-hdawvvYqmYo]]) carry the substantive method.
+> Two earlier February 2025 Skool videos now corroborate the same playbook:
+> [[../../sources/2025-02-03-yt-ym8u5mN-_ww]] repeats the fun/game and complementary-partner
+> framing, while [[../../sources/2025-02-15-yt-RmzMZGkDHCI]] repeats the who/free-or-paid/
+> what's-inside design sequence. The Sam Ovens product walkthrough inside the Feb. 3 source is
+> Skool platform context, not Alex-attributed persona material.
 
 Cross-links: [[../business/acquisition-channels]] · [[../business/money-model]] ·
 [[content-engine]]
@@ -71,7 +76,8 @@ start today" and "the simplest business model in the entire world."
 > VSLs he repeatedly cites "54.1% of people who start a paid community on Skool
 > make money" and an "average paid-community owner earns $1,360/month," plus "tens
 > of thousands of groups." ([[../../sources/2024-12-18-yt-V5hkdejbybQ]],
-> [[../../sources/2025-02-22-yt-_Nz_0qxIyok]], [[../../sources/2025-01-18-yt-J7DWZsKr3bI]])
+> [[../../sources/2025-02-22-yt-_Nz_0qxIyok]], [[../../sources/2025-01-18-yt-J7DWZsKr3bI]],
+> [[../../sources/2025-02-15-yt-RmzMZGkDHCI]])
 > These are platform-reported figures inside a sales pitch. Member success-story
 > earnings (Kai $57k/mo, Nate's "anime fitness" $91k first month, Kenneth
 > "Creditpreneur" $70k/mo, etc.) are cherry-picked promotional examples.
@@ -80,8 +86,9 @@ start today" and "the simplest business model in the entire world."
 
 ## Design (who it's for, free vs. paid, what's inside)
 
-The design sequence from [[../../sources/2025-03-25-yt-1s1PtaUAE84]]: decide
-**who it's for → free or paid → what goes inside**.
+The design sequence from [[../../sources/2025-03-25-yt-1s1PtaUAE84]], also previewed in
+[[../../sources/2025-02-15-yt-RmzMZGkDHCI]]: decide **who it's for → free or paid →
+what goes inside**.
 
 ### 1. Who is it for?
 
@@ -298,7 +305,7 @@ started with **time instead of capital**. (paraphrase)
   fun than doing shitty stuff alone") and **partner on complementary skills** — he
   cites his own Skool partnership: founder Sam builds product, Alex does
   content/marketing; each fills the other's gap. (verbatim + paraphrase,
-  [[../../sources/2025-03-25-yt-1s1PtaUAE84]])
+  [[../../sources/2025-03-25-yt-1s1PtaUAE84]], [[../../sources/2025-02-03-yt-ym8u5mN-_ww]])
 - **Peer cohort + public progress as social proof.** Delivered inside a live Skool
   group, he uses a peer cohort (the "$100 test" / "speedrunners" group he monitors
   nightly) and public progress posts to create social proof and a gentle
@@ -389,6 +396,11 @@ Three analogies recur across the whole corpus and are useful persona/voice marke
 
 - [[../../sources/2025-03-25-yt-1s1PtaUAE84]] — Build/design: who → free/paid →
   access/content/events; skeleton-key leverage; Value Equation; make-it-fun.
+- [[../../sources/2025-02-03-yt-ym8u5mN-_ww]] — Earlier Skool Games promo: fun/game framing,
+  complementary Sam/product + Alex/marketing partnership, and Sam-attributed platform walkthrough.
+- [[../../sources/2025-02-15-yt-RmzMZGkDHCI]] — Earlier community-design VSL: avatar, expert vs.
+  crowdsourced path, free-to-paid sequencing, access/content/events, value equation, and promotional
+  Skool metrics.
 - [[../../sources/2025-03-26-yt-ogMxa_2DWZI]] — Launch: 10 true regulars, start
   with 3, text ~400–800 contacts, 1,000 True Fans / niche stacking.
 - [[../../sources/2025-03-27-yt-C6d4BEyYszo]] — Monetize: four paths, grandfathering

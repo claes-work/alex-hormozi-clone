@@ -4090,3 +4090,12 @@ Skool product walkthrough in the first video.
 
 Ledger 2->L2 (L2 now 1,216). youtube-index/index/footer updated. @TheSkoolSchool long-form complete.
 Synthesis notes: Skool-fun-game-positioning/complementary-product-marketing-partnership/trial-as-informed-decision/Sam-attributed-community-classroom-calendar-gamification; Skool-community-avatar-shared-interest-problem-goal/expert-vs-crowdsourced-community/access-content-events-value-stack/free-to-paid-community-path/value-equation-for-community-risk-speed-ease/audience-asset/promotional-Skool-metrics-caution.
+
+## [2026-07-09] lint | synthesis pass 17 - @TheSkoolSchool completion batch 157
+
+Cleared the registered @TheSkoolSchool completion checkpoint for batch 157. The two Skool completion
+sources mostly repeated an already-synthesized community-building playbook, so the pass added them as
+corroborating citations in `wiki/topics/content-strategy/community-building.md`, including a note that
+Sam Ovens' product walkthrough is platform context rather than Alex-attributed persona material and
+that the Skool earning statistics remain promotional/self-reported. No persona files changed, so
+`persona/system-prompt.md` remains v25; advanced the synthesis high-water mark to batch 157.
