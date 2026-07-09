@@ -2614,3 +2614,28 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 797). youtube-index/index/footer updated. @MoreMozi P2: ~1,650 rows remain.
 Synthesis notes: setup-plus-continuity content staffing offer; community-owner affiliate cadence and two-layer testimonials; bootstrap debt taxonomy and backfill-before-rainmaker hiring; salespeople using product challenges before selling; menu upsell with ethical unselling and prescription; power-law profit concentration and whale-capturing offer design; employee-theft disclosure and reputation-first M&A ethics; e-commerce brand as escape from paid-click arbitrage through UGC/influencer associations; wholesale-vs-D2C margin separation and price-control decisions.
+
+## [2026-07-09] ingest | yt batch 104 — @MoreMozi P2 (2026-06-15), 8 videos
+
+Seventeenth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-15** `yt-ALetvboiCik` "Niche So Boring Nobody Competes (80 Deals/Yr)" — assisted-living
+  architecture: speed/risk/ease positioning, stats-based logical sale, and referral-partner journey.
+- **2026-06-15** `yt-hYmsOK1exxg` "One Location Prints Cash. The Other Bleeds It." — cosmetic dentistry:
+  fill existing capacity before expansion; collaborations, CTAs, and Instagram DM triage.
+- **2026-06-15** `yt-Q66lW0XSU8M` "How to Scale a Low-Ticket Business With 170K Customers" — digital products:
+  simple recurring product, reinvest profit into talent/brand, and AI-era fewer-better media team.
+- **2026-06-15** `yt-_n0sLjXQ8qk` "Helping a Pilot Scale His Niche Organic Ads Business" — pilot mortgages:
+  pilot-only community, lead magnet, interest-media ads, and niche content repurposed into paid ads.
+- **2026-06-15** `yt-qdH9cKpl4p0` "How to Get Known Fast as a Tax Strategist" — tax strategy:
+  repeat a three-strategy webinar, ask every group for more groups, and narrow delivery for margin.
+- **2026-06-15** `yt-rklE0lzFOt4` "How to Scale a Business in a Legally Gray Industry" — gray-market ecommerce:
+  irrelevance as enemy, content as advertising, cross-platform repurposing, batching, and diagnostic CTAs.
+- **2026-06-15** `yt-mLPQZjKB5kE` "How to Scale a Low-Ticket Digital Product Business to $1.2M" — near-duplicate
+  digital-products clip: avoid the consulting detour and do more of the simple recurring product.
+- **2026-06-15** `yt-pHBSA4udH8Q` "He's Copying the Business Model That Makes No Money" — motocross events:
+  unit economics, pricing to willingness-to-pay, competitor discipline, and self-reported Gym Launch price-cut mistake.
+
+Ledger 8→L2 (L2 now 805). youtube-index/index/footer updated. @MoreMozi P2: ~1,642 rows remain.
+Synthesis notes: speed/risk/ease positioning with stats for logical service sales; COI/referral-partner journey as reoccurring revenue; fill existing local capacity before new locations; visual-proof collaborations and warm-follower DM triage; low-ticket digital simplicity and talent/brand reinvestment as growth CapEx; AI-era fewer-better media teams; pilot-specific interest media, community, and lead magnets; repeatable three-strategy webinar distribution; content as advertising with cross-platform/batched production; pricing discipline and self-reported Gym Launch competitor-response price-cut regret.
