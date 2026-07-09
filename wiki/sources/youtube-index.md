@@ -45,6 +45,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2024-06-04 | [[2024-06-04-yt-9unucIBuNio]] | "10x your pricing" (actually a 6-step branding framework) — pairing → why → who → advertise | ★ |
 | 2024-06-07 | [[2024-06-07-yt-VxKwz6hBVZU]] | Build a valuable company you can sell — goose & golden eggs, keyman risk, rollups | ★ |
 | 2024-06-09 | [[2024-06-09-yt-41EvCgwPrDc]] | Make more profit than 99% — 5 pricing concepts (LTV = price ÷ churn, look-back window) | ★ |
+| 2022-07-05 | [[2022-07-05-yt-IMowPVgcWbA]] | The simple managerial framework — the comm/train/incentive triangle (why an employee underperforms) | |
+| 2022-07-12 | [[2022-07-12-yt-JShQ8BX08rs]] | 10 keys to a terrible partnership — Munger inversion (a good partner brings what you lack) | |
+| 2022-07-30 | [[2022-07-30-yt-JDkiAxSd5Ms]] | "My employees don't take my business serious" — the management triangle, in reverse | |
+| 2022-08-02 | [[2022-08-02-yt-MD5-HByRxoA]] | 1.2M followers in 6 months — his EARLY content machine (5 phases; superseded by the 7.8M version) | |
+| 2022-08-06 | [[2022-08-06-yt-hrp3ehx_lJM]] | How I hacked my brain to feel gratitude — the "grandfather frame" (be your 85-year-old self) | |
+| 2022-08-09 | [[2022-08-09-yt-dZ7xeVCYC5M]] | How I'd invest $1,000 in my 20s — invest in your own earning capacity, not the S&P | |
+| 2022-08-16 | [[2022-08-16-yt-LvHDT0ZxSmw]] | Launch a physical product brand — the CPG playbook (nose-strips worked example) | |
+| 2022-08-20 | [[2022-08-20-yt-LMlbWtUFa4E]] | How billionaires make their billions — you don't make it, you own it (an LBO walkthrough) | |
 | 2022-08-23 | [[2022-08-23-yt-Q2JCTCQzgKM]] | From rock bottom to breakthrough — the DUI/processor/mother rock-bottom → licensing pivot | |
 | 2022-08-27 | [[2022-08-27-yt-5RiR6cBLkFg]] | Why you should quit college — opportunity cost / skills vs degree (the Jacob case study) | |
 | 2022-08-30 | [[2022-08-30-yt-7ITff1fIbSc]] | How to grow an audience from 0 — years of daily consistency, action as the goal | |
@@ -507,7 +515,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_477 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_485 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

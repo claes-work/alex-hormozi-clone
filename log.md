@@ -18,6 +18,22 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — management triangle + early content machine (L2=485)
+
+Loop iteration 64. 8 @AlexHormozi P2 (Jul-Aug 2022 — right at the @AlexHormozi channel start; the
+2022-07-05 managerial video is near his very first uploads). No new L3-candidates — all L2, high
+overlap. Notable: IMowPVgcWbA + JDkiAxSd5Ms both teach the **management triangle** (why an employee
+underperforms: communication / training / incentive — extends Andy Grove's 2-reason model, credited to
+Leila's scripting) → folds into communication-and-management on a later pass. MD5-HByRxoA "1.2M followers
+in 6 months" is his EARLY 5-phase content machine (quantity>quality, ~$70k/mo for ~160 pieces/wk) —
+dated per rule 3, superseded by the later 7.8M-follower/6-shifts material. JShQ8BX08rs "10 keys to a
+terrible partnership" is a Munger inversion (good partner brings the knowledge/money/time you lack).
+LvHDT0ZxSmw = CPG/physical-product playbook (nose-strips example, ties to Prestige Labs). hrp3ehx_lJM
+"gratitude hack" = the grandfather-frame (be your 85-yr-old self — corroborates the mortality/#1-mentor
+material). Bio color: he's 32, married ~6 yrs to Leila, in Vegas; a former classmate was murdered
+(his "tomorrow isn't guaranteed" prompt); slept on gym floors taking 20+ consults/day. Ledger: L2=485.
+Next: continue @AlexHormozi P2 (190 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — price-is-strongest-lever + rock-bottom bio (L2=477)
 
 Loop iteration 63. 8 @AlexHormozi P2 (Aug-Sep 2022, channel-start era). 1 L3-candidate: _ArQlwPvGUA
