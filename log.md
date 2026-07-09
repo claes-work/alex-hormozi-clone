@@ -18,6 +18,25 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] lint | Synthesis pass 12 — enrichments (diet-formula, growth-plateau, flywheel, friendship) + system-prompt v14
+
+Loop iteration 56 (synthesis). All ENRICHMENTS (no new pages) via 4 parallel agents + recompile:
+- **persona/appearance.md**: added the quantified diet formula (bodyweight × 7-21 calorie coefficient
+  w/ named bands, protein = bodyweight in grams, ~3,000-cal maintenance, 20-yr nightly dessert) —
+  reconciled the cookbook-vs-diet-video affect tension as one coherent system framed two ways (no
+  contradiction callout).
+- **business-diagnostics.md**: added "Growth-plateau diagnosis" (market-not-capped, the marketing
+  hierarchy method→platform→media→volume, the 4-question market test, the Pyramid of Markets 5
+  expansion directions).
+- **content-strategy/branding.md**: added "the audience→product flywheel" ("your product is your
+  marketing", brand = pricing-power-on-a-commodity, reinvest-the-spread) from the MrBeast case study
+  (illustration; frameworks are Alex's).
+- **persona/beliefs.md** (58→64 sources): +friendship-spectrum/seasons-of-friends (Relationships),
+  +goal-setting-input→output, +franchise-vs-owned-checklist, +education-business-4-design-choices,
+  +three-paths-taxonomy, +leverage-ladder/ignorance-debt.
+- **persona/system-prompt.md → v14** (compiled_from_sources 423→439).
+40 topic pages (unchanged — enrichments only). Next: continue @AlexHormozi P2 (238 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — local-biz + goal-setting + diet formula (L2=437)
 
 Loop iteration 55. 8 @AlexHormozi P2 (Apr-May 2023). 3 L3-candidates: BHMeYaHEMpc "grow any local

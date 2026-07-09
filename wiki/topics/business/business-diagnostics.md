@@ -3,8 +3,8 @@ type: topic
 domain: business
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-08
-sources: 6
+updated: 2026-07-09
+sources: 7
 tags: [diagnostics, constraints, scaling]
 ---
 
@@ -15,9 +15,10 @@ to refuse tactics until the real constraint is named: "The difference between bu
 that grow and those that don't isn't just the hard work, but it's working hard on the
 right problem"
 ([[../../sources/2025-06-03-yt-sGv2BTUCcCM|How to Grow Your Business So FAST]], 2025).
-This page synthesizes five overlapping diagnostic lenses he uses to locate that problem —
+This page synthesizes six overlapping diagnostic lenses he uses to locate that problem —
 the supply/demand triage, "what business are you really in," the four competitive vectors,
-the four shapes of business, and the growth-stage traps. Claims are dated because his
+the four shapes of business, the growth-stage traps, and the growth-plateau / market-cap
+diagnosis. Claims are dated because his
 positions evolve; direct quotes are marked as voice data. See also
 [[scaling-and-enterprise-value]] (what to do once the constraint is found) and
 [[money-model]] (the pricing/offer machinery several of these fixes rely on).
@@ -318,6 +319,103 @@ imaginary," and "business is built on the amount of nos that you're able to make
 
 ---
 
+## Growth-plateau diagnosis (is the market really capped?)
+
+Source: [[../../sources/2023-06-14-yt-9gVdCR7W8o8|The REAL Reason Your Business Isn't Growing]] (2023).
+
+A diagnostic aimed squarely at the founder who has hit a first plateau (he cites a
+~$3M/year top-line business) and concludes the *market is saturated* — then reacts by
+bolting on new product lines, new offers, or new businesses. Hormozi's counter-diagnosis:
+you almost never have a capped market, you have a capped ability to acquire customers in
+the market you already serve. Adding complexity before exhausting acquisition is the
+mistake.
+
+> "Your Market isn't capped your mindset is capped." (verbatim)
+
+He explicitly calls the reflexive small-business ceiling a mistake:
+
+> "business that only makes $3 million top line per year that is a mistake." (verbatim)
+
+**Your market isn't capped, your mindset is — run these before assuming saturation.**
+Two frameworks establish that you have *not* actually maxed out demand generation yet.
+
+### Framework 1 — the marketing hierarchy (four nested levers)
+
+Four levels of customer acquisition, each of which you can almost always add *more* to
+before concluding you're capped. Most entrepreneurs haven't maxed even one.
+
+1. **Method** — the biggest thing you do to get customers: paid ads, content, outreach,
+   referrals, affiliates.
+2. **Platform** — where you run the method: Facebook, phones, email, YouTube, Google.
+3. **Media** — the formats within a platform (e.g. on Instagram: DMs, stories, posts,
+   reels).
+4. **Volume** — how much you do within a given media (one story a day vs. multiple posts
+   a day).
+
+The fix is sequential: max one lever, then another, then eventually all of them.
+
+> "you have your four initial levers that you can immediately pull to grow how many leads
+> you're get it and you probably haven't even done one of them." (verbatim)
+
+This hierarchy is a lead-generation ladder — see [[acquisition-channels]] for the
+channel-level machinery each "method" plugs into. To *size* a niche before deciding it's
+tapped, he adds up the total ad spend of every competitor serving it on a given platform
+as an estimate of how many new clients per month are available there.
+
+### Framework 2 — the 4-question market test (from *$100M Offers*)
+
+Before picking (or blaming) a market, run four questions. A market passing all four is a
+good opportunity:
+
+1. **Are they in pain?** — am I solving a real problem?
+2. **Are they easy to find?** — can I target and reach them?
+3. **Do they have money to spend?** — "if I'm trying to sell to broke people it's
+   probably not going to be a good idea." (verbatim)
+4. **Is the market growing?** — avoid dying markets, prefer growing ones. "I don't want to
+   be selling to newspapers I want to be selling to something like old people that
+   are there's more of them every single day that are retiring." (verbatim)
+
+### Framework 3 — the Pyramid of Markets (5 expansion directions)
+
+Only *once a niche is genuinely saturated* does he sanction expanding the market itself.
+Five directions to get more customers:
+
+1. **Up market** — fewer buyers, higher cost/higher quality, they spend more (Enterprise;
+   e.g. from gym owners to franchisors or multi-location/chain owners).
+2. **Down market** — ~10x more people, lower on the pyramid (e.g. from salon *owners* to
+   individual hair stylists working chairs).
+3. **Adjacent (narrower / similar vertical)** — a similar-but-different vertical with
+   similar owner/customer characteristics in the same larger industry, attacked the same
+   way (e.g. chiropractor → physical therapy; salon → lash-and-nails).
+4. **Broader (adjacent-wider)** — encompass the adjacent pyramids into one bigger market
+   serving the same psychographic (e.g. salons → all "Beauty": medspas, lash, massage
+   studios).
+5. **Narrower / new** — the only direction that *shrinks* the audience without necessarily
+   shrinking income; niching down (e.g. salons that only do Brazilian blowouts) lets you
+   get more specific with messaging/offer/value. He claims niching has doubled, tripled,
+   or 5x'd revenue while cutting the addressable audience by ~85% (self-reported).
+
+**Gym Launch worked example.** A licensing company that initially served only micro-gyms
+— only ~50,000 in the US; they'd already spoken with ~20,000 and maxed every channel — so
+the market genuinely *was* nearly tapped. They expanded **up market** into health clubs
+after asking "who do we provide the most value to by dollars made?", where they could
+restructure onboarding/sales/retention/upsells to double or triple the owner's bottom
+line (self-reported).
+
+**The mindset reframe.** At a meetup of 8 entrepreneurs doing a combined ~$500M/yr (he was
+doing ~$30M/yr, among the smallest), he concluded they were neither smarter nor
+harder-working; two things separated them: they'd been in business *longer* ("big [stuff]
+takes time"), and they went after *bigger markets*, "because at a certain point you do
+saturate a niche." (self-reported anecdote). His investor reframe against premature
+saturation: "this is a $60 billion industry, I don't even have 1% of it."
+
+> ⚠️ Note the scope discipline: the marketing hierarchy is for the plateau you *haven't*
+> earned yet (acquisition not maxed); the Pyramid of Markets is only for the plateau you
+> *have* (niche truly exhausted). Reaching for the Pyramid first is the same error as
+> adding product lines — expanding before you've earned the right to.
+
+---
+
 ## How the lenses fit together
 
 - **Supply vs demand** is the fast triage — always run first.
@@ -327,6 +425,9 @@ imaginary," and "business is built on the amount of nos that you're able to make
 - **The 4 shapes** predict which constraint you'll *keep* hitting, so you stop treating a
   feature as a bug.
 - **Growth-stage traps** locate you on the curve and price the cost of acting.
+- **Growth-plateau / market-cap diagnosis** guards the demand side against a false "market
+  is saturated" verdict — max the marketing hierarchy first, and only expand via the
+  Pyramid of Markets once the niche is genuinely tapped.
 
 All five converge on one Hormozi instinct: name the constraint, value it in
 enterprise-value terms ([[scaling-and-enterprise-value]]), then aim the offer/pricing
@@ -340,3 +441,4 @@ machinery ([[money-model]]) at that one thing.
 - [[../../sources/2026-01-14-yt-qsXxckCbci0|How To Grow ANY Business FASTER]] (2026) — the 4 shapes of business.
 - [[../../sources/2025-05-06-yt-FiL0r5_dUvM|Build Your Business Like Harvard]] (2025) — education-business sellability.
 - [[../../sources/2025-04-18-yt-uYds0zcAFWM|I Just Learned This After 14 Years]] (2025) — the swamp, cost of change, LTGP:CAC.
+- [[../../sources/2023-06-14-yt-9gVdCR7W8o8|The REAL Reason Your Business Isn't Growing]] (2023) — market isn't capped, marketing hierarchy, 4-question market test, Pyramid of Markets.

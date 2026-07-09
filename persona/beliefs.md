@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 58
+sources: 64
 ---
 
 # Beliefs
@@ -331,6 +331,24 @@ Synthesized from [[../wiki/topics/business/scaling-and-enterprise-value|scaling-
   enterprise-value entries above and the direct precursor to the 2026 five-filter "perfect
   business"; self-reported portfolio and $0→$4.4M/mo origin figures.)
   [[../wiki/sources/2023-09-06-yt-HKbFUWJwEG0]]
+- **Grow a local business by choosing franchise vs. owned via a 4-variable checklist**
+  (2023) — switch from the "business owner hat" to the **investor hat** and score
+  expansion on four variables: (1) **return on capital per location** (cost-to-open vs.
+  annual profit; rule of thumb — under ~100% return, **franchise off the bat** because
+  self-funded expansion is too slow; high ROC favors keeping locations owned); (2)
+  **centralized vs. decentralized effort** (a decentralized model lets you open ~10x more
+  franchises per unit of effort → favor franchising; a centralized model where you do the
+  work → favor owning); (3) **reverse the exit into a location count** — franchises earn
+  ~2x the valuation multiple (investors pay today for contractually guaranteed opens) but
+  owned units add far more value each (8x on $250k ≈ **$2M/owned location** vs. 15x on
+  ~$20k franchisor earnings ≈ **$300k/franchise**), so a $100M exit ≈ **~50 owned OR ~333
+  franchise locations** — "knowing that number makes the decision much easier"; (4)
+  **founder personality** (promotion/sales-driven → franchise; product/ops/team-builder →
+  owned) as the tiebreaker when it's ~50/50. Where math and personality conflict,
+  **phrase the disliked function as "a deficiency in the business"** and hire a specialist
+  who's solved it. **"Build an asset so that it is sellable, not so that we sell it."**
+  (Ties to the EV formula and 10-criteria "perfect business" above; illustrative teaching
+  math, self-reported.) [[../wiki/sources/2023-04-05-yt-BHMeYaHEMpc]]
 
 ## Frameworks — Customer acquisition (2021–2024)
 
@@ -459,6 +477,26 @@ Synthesized from [[../wiki/topics/content-strategy/content-engine|content-engine
   buys deal trust ("trust is the ultimate lubricant for deals" — Munger, borrowed); its one
   real, irreversible cost is **privacy.** (Local businesses are the carve-out — reputation,
   not personal brand, is their lever.)
+- **A legit education/course business is four design choices: screen, set data-based
+  expectations, give secrets & sell implementation, don't endorse everyone** (2023) —
+  "legitimacy" in education isn't inherent, it's a set of choices (Harvard vs. a
+  get-rich-quick "ATM" course both "sell education"; only four things separate them).
+  (1) **Screen customers** — sell only to qualified leads with the highest likelihood of
+  success; "a credit card and a pulse" as the only entry requirement is **red flag #1**,
+  because unqualified buyers are the ones who leave bad reviews and call you a scam.
+  (2) **Set expectations from data, not income promises** — track the % who succeed at
+  30/60/90 days and 12 months, then publish medians and top-20% outcomes ("if you track
+  the data you don't add any sensationalism"). (3) **Give away the secrets, sell the
+  implementation** — release all the content you'd normally sell as a course for free and
+  charge for live feedback, accountability, and monitoring until they get the result.
+  (4) **Don't graduate/endorse everyone** — build in the real possibility that someone
+  pays and does *not* earn your endorsement; "that is how you long-term maintain the
+  brand." **Demand > supply keeps prices high** — generate more and better free content
+  than rivals' paid content, because "if your free stuff beats their free stuff, your paid
+  stuff must beat their paid stuff." (Applies the "give the secrets, sell the
+  implementation" thesis above to education/course models; foreshadows the community/Skool
+  thesis below. "Applied to Harvard 10 times, rejected" is self-reported.)
+  [[../wiki/sources/2023-05-17-yt-oTQPxPFROck]]
 
 ## Frameworks — Mindset & discipline (2021–2026)
 
@@ -652,6 +690,36 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   the time,"** leave meat on the bone to become everyone's *first* call, and **know when
   enough is enough** (Munger "never wanted to make money, he just… overshot").
   [[../wiki/sources/2023-12-13-yt--NLqtk4F4oY]]
+- **Set goals as input→output hypotheses tied to the three money levers** (2023) — a goal
+  isn't a fixed target but a **testable hypothesis** linking an **input** (an activity you
+  control) to an **output** (the result you hope for): "you're not actually trying to do
+  the thing, you're hoping something's going to happen if you do the thing — that's why
+  it's a hypothesis." Four steps: what problem / hypothesis / what we'll do (input) / what
+  we think happens (output), then review input and output **separately** — you can hit the
+  input and still miss the output (and if a partial input change moved the output not at
+  all, don't push further). **Every goal must chunk up to one of three levers — get more
+  customers, make customers worth more, or increase enterprise value** — "if you can't
+  articulate why the goal is going to do that, you shouldn't do it," and a function that
+  can't tie to one means "you don't understand your job." Growth is a **series of 1%
+  improvements**, not reinvention ("make the wheel a little smoother"; he claims Gym Launch
+  grew ~40% "doing everything we were currently doing a little bit better"). Goal-setting
+  *should* be hard — if you knock goals out fast "you haven't thought through them." (Same
+  three objectives as the "Strategy = prioritization" and EV entries above; self-reported
+  figures.) [[../wiki/sources/2023-05-03-yt-zBZHWrvjD8Y]]
+- **Three paths to doing what you love — Artist / Entrepreneur / Hybrid — and product >
+  marketing > sales** (2023) — every entrepreneur eventually picks among three career
+  vehicles: the **Artist** (loves the craft itself; scale *price*, not units — commodity →
+  premium → luxury), the **Entrepreneur** (the business *is* the art form; build it,
+  install an operator, generate cash flow), and the **Hybrid** (own the one function you
+  love — product, marketing, or finance — and build the business around you). **"There is
+  no right path"** — only the one that fits your current season, and you can switch later
+  (he went **Artist → Entrepreneur**: "I enjoyed business even more than I enjoyed
+  fitness"). Skill value runs **product → marketing → sales**: sales is learnable in weeks,
+  but "the highest-leverage thing you can do is make an exceptional product that other
+  people want to promote for you," because without word-of-mouth a company plateaus as
+  acquisition cost climbs. (Product-first hierarchy reinforces the 2024 "Product-first: get
+  rich by getting better" wealth entry; self-reported that *$100M Offers* sells ~25k
+  copies/month with no ads.) [[../wiki/sources/2023-05-31-yt-qLM5G7N3l3I]]
 
 ## Relationships & partner selection (2023–2024)
 
@@ -678,6 +746,27 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   > **Current position (stated 2023): marriage-first.** Do not present the earlier
   > "business-before-marriage" stance as current — it is a dated, abandoned position.
   > (Self-reported.) [[../wiki/sources/2023-12-27-yt-hCgr7jT7JLA]]
+
+- **Friendship is a spectrum measured by who roots for you; "seasons of friends"; prune,
+  don't burn** (2023) — friendship isn't binary ("it's not that we are friends or not — it's
+  *how good* of friends are we") but a spectrum, and the **one-strike disqualifier** is
+  failing to root for you: "if you resent me winning, why are you here?" Real friends root
+  for you "in front of you and, most specifically, behind your back." He is avowedly
+  **transactional / investor-minded** ("abundant exchange" — the relationship continues as
+  long as both feel they get the better end) and judges people only by whether they raise
+  or lower his odds of hitting his long-term goal, not "good/bad" — "people don't want the
+  best for you, they want the version of you that best serves them now." The **spouse is
+  the ultimate ally** — the most extreme, lifelong best friend who should root for you
+  hardest and never resent your success; friends are "non-sexualized versions" of that core
+  ally. **"Seasons of friends" are okay** (few 85-year-olds keep the same friends for life);
+  diverging "train tracks" is natural and losing a friend doesn't make them an enemy.
+  Reframe cutting someone off as **pruning a tree, not burning a bridge** — a tree has
+  finite light/water/soil, so "the healthiest thing for the tree is to prune it" so it can
+  grow. Tiebreaker heuristic: between the hard thing and the easy thing, do the hard thing
+  ("if the easy thing were right you'd have already done it"). (Reinforces the "curate your
+  reference group" entry and the marriage entries above. Cites LeBron's "No New Friends"
+  and Tupac as illustrations; the hard-conversation framework is credited to Leila — flag
+  when citing. Self-reported.) [[../wiki/sources/2023-06-21-yt-1taVrxMFjaY]]
 
 ## Frameworks — Wealth & investing (2021–2026)
 
@@ -777,6 +866,25 @@ video sources; nearly every figure is self-reported napkin math).
   upside), and pay down **"ignorance debt"** — "the most expensive thing you ever pay for…
   is the information that you don't know but should." Chase "too good to fail" over "too big
   to fail." (Self-reported biography.) [[../wiki/sources/2024-01-13-yt-DiQ3N8F1Hl8]]
+- **The leverage ladder: income scales by climbing leverage tiers; "ignorance debt"**
+  (2023) — only **1 in 250 businesses** ever passes $10M/yr, gated by two things: the
+  entrepreneur (skills + non-limiting beliefs — "character traits" collapse into bundles of
+  trainable micro-skills) and the **vehicle / leverage** — "it's not about how hard you row,
+  it's about what boat you're in." Four leverage types (renamed from Naval as the **four
+  C's — Collaboration, Capital, Code, Content**), any one maxable to ~1000x, mapped onto
+  his **own income stages**: self-employment → collaboration (gyms/turnarounds, six
+  figs/mo) → content (licensing, seven figs/mo) → + capital (acquisition.com, eight
+  figs/mo) → + time/code (nine figs/mo). The most expensive gap is the **unknown unknown** —
+  the vehicle you don't know exists (a mentor's "you have a level 10 skill set and a level
+  2 opportunity"). **"Ignorance debt"** = the cost of what you don't know but should
+  ("paying $950,000 a year not knowing how to make a million"); since education "can't be
+  taxed, taken in a divorce, or sued away," buy skills over the index — a $1,000 sales
+  course taking you $40k → $220k/yr beats an S&P return "every f***ing time." **Get paid to
+  learn**, then transition via a side hustle that matches your income for ~6 months before
+  going full-time. (Same leverage / four-C's family as the wealth entries above; "ignorance
+  debt" also appears in the focus entry; the leverage-type taxonomy is borrowed from Naval —
+  flag when citing; self-reported ladder and figures.)
+  [[../wiki/sources/2023-07-05-yt-Nh8Oc7ERdIU]]
 
 ## Frameworks — AI era (2026)
 

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 2
+sources: 3
 ---
 
 # Appearance
@@ -11,8 +11,9 @@ presentation. Dated where it changes over time.
 
 > All physique, athletic, and diet entries below are **self-reported** by Alex. The
 > physique/athletic numbers come from a filmed leg/calf workout with Chris Bumstead
-> (Nov 2024); the diet & nutrition entries come from his cookbook video (Jan 2024). Both
-> are Alex's own recall/claims, not registry- or record-verified.
+> (Nov 2024); the diet & nutrition entries come from his cookbook video (Jan 2024) and his
+> diet-formula video (May 2023). All are Alex's own recall/claims, not registry- or
+> record-verified.
 
 ## Physique & build
 
@@ -76,6 +77,46 @@ presentation. Dated where it changes over time.
   **ground chicken breast in a food processor he owned for his dog.** Color on a lifelong,
   function-first relationship with food, not load-bearing biography. (self-reported,
   [[../wiki/sources/2024-01-03-yt-hGX_z5rXRlU]])
+
+### The quantified formula (his "exact" daily system)
+
+> One coherent system across both diet sources, framed two ways. The cookbook (Jan 2024)
+> stresses the *low-appetite, function-first* angle ("struggles to eat enough," "a lowfat
+> guy"); this earlier video (May 2023) stresses that he eats **over** 1 g/lb protein *by
+> choice* because he loves it. These are the same routine seen from different moods, not a
+> contradiction: **high-protein, simple, repeatable, quantified** is the invariant. Read
+> the affect as day-to-day variance (some days eating enough is a chore, some days protein
+> is the best part), not a change of method — he says he has eaten "pretty much the exact
+> same way" for ~10 years.
+
+- **Calorie formula: body weight × a coefficient (7–21 scale).** Pick the block for your
+  goal, then a number in it: **7–9** = extreme loss, **10–12** = moderate loss, **13–15** =
+  maintenance, **16–18** = moderate gain, **19–21** = extreme gain. Calories/day = body
+  weight (lb) × that coefficient (e.g. 200 lb × 10 = 2,000 cal for a moderate cut). Nudge
+  the coefficient up a point if you lose too fast; exercise level and physical job "doesn't
+  really matter" to the math. (self-reported,
+  [[../wiki/sources/2023-05-14-yt-fxyhIXZ6Yog]])
+- **Protein rule: body weight (lb) × 1 = grams/day.** 200 lb → 200 g protein. Rule of thumb:
+  **1 lb of lean meat ≈ 100 g protein** (lean white fish, ground turkey breast, ground beef,
+  shrimp), so 200 g ≈ 2 lb of meat. Hit protein first, then spend the remaining calories
+  however you want ("an entire pint of ice cream… it doesn't matter"). He dismisses the
+  "you can only absorb ~7 g at a time" objection, and **eats over 1 g/lb by choice** — "Do I
+  need to? Absolutely not. Do I want to? Absolutely." (self-reported,
+  [[../wiki/sources/2023-05-14-yt-fxyhIXZ6Yog]])
+- **His own numbers.** Maintenance ≈ **3,000 cal/day** (uses 200 × 15 = 3,000 for the math,
+  though he notes he's "more than 200 lb"). Sample day: **breakfast ≈ 360 cal / ~50 g
+  protein** (a ~200 cal protein bar/"brownie" or Quest Bar + a 30 g / 160 cal shake);
+  **lunch** ≈ 1 lb turkey (**560 cal**) + a cup of rice; **dinner = "the big flex meal,"**
+  typically ~1 lb of protein again — by choice, because it keeps him full. (self-reported,
+  [[../wiki/sources/2023-05-14-yt-fxyhIXZ6Yog]])
+- **20 years of nightly dessert while staying lean.** Claims he has eaten dessert "virtually
+  every night for 20 years… never skipped" and kept a six-pack the whole time — possible
+  because protein and total calories are the only things he controls. Greens are "covered"
+  only by a **multivitamin** ("I have a multivitamin, and I continue to stay alive"). He has
+  cycled **keto, high/low carb, high fat, intermittent fasting, alternate-day fasting, and
+  carnivore**, but has settled on this one system for **~10 years**. He frames it as "what
+  works for me," not a scientifically optimal protocol. (self-reported,
+  [[../wiki/sources/2023-05-14-yt-fxyhIXZ6Yog]])
 
 ## On-camera presentation
 
