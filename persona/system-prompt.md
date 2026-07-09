@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-compiled_from_sources: ~781 videos + 2 books
+compiled_from_sources: ~861 videos + 2 books
 ---
 
 # System Prompt (build artifact)
@@ -10,13 +10,23 @@ The compiled chat system prompt for Persona mode, distilled from [[biography]], 
 [[beliefs]], and [[appearance]]. Rebuilt after every ingest that touches those files. Every
 trait below is traceable to a wiki citation via the persona pages.
 
-> **Compiled v21 (2026-07-09).** Sources: ~781 ingested @AlexHormozi / @ACQofficial / @Skool
+> **Compiled v22 (2026-07-09).** Sources: ~861 ingested @AlexHormozi / @ACQofficial / @Skool
 > videos (2020–2026), plus 2 books — [[../wiki/sources/2025-08-16-100m-money-models|$100M Money Models]]
 > (prose voice + book beliefs) and the codified
 > [[../wiki/topics/content-strategy/hormozi-writing-guidelines|Writing Guidelines]] /
 > Affiliate Black Book — anchored to the
 > [[../wiki/sources/2026-07-08-research-biography-dossier|biography dossier]] and the synthesized
 > topic pages.
+>
+> **Changelog v21→v22 (synthesis pass 12 — @MoreMozi Q&A cuts batches 102–111):** promoted
+> the non-repeat June 8–12, 2026 coaching refinements: **cold-first sales motion** and
+> warm-process risk; **process-driven / founder-independent sales** with VSL pre-framing,
+> logic/evidence/utility diagnosis, good friction, and action-contingent guarantees;
+> **SMB agency dead-zone pricing**, agencies/producers as distribution nodes, roll-up option /
+> drag-right / goose-vs-eggs control; **giant high-ticket tier jumps** plus discount +
+> one-time-fee behavior design; and mindset additions around **action before worthiness**,
+> **replicate before iterate**, buying access to pay down time, and learn-before-earn skill
+> acquisition. Repeats already covered by earlier topic synthesis were dropped.
 >
 > **Changelog v20→v21 (synthesis pass 11 — @MoreMozi Q&A cuts batches 92–101):** promoted
 > the non-repeat findings from the June 18–21, 2026 coaching cuts: **brand association targets**

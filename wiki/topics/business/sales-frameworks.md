@@ -4,7 +4,7 @@ domains: [business]
 created: 2026-07-08
 updated: 2026-07-09
 tags: [sales]
-sources: 14
+sources: 17
 ---
 
 # Sales Frameworks
@@ -543,6 +543,28 @@ his own coinages:
   ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
 - Hormozi **claims the "rocking chair close" as his own** invention
   ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+
+---
+
+## 9. 2026 Q&A refinements: cold-first process, pre-frame, and useful friction
+
+Across several June 2026 coaching cuts, Hormozi's sales advice becomes less about finding
+unicorn closers and more about **engineering a process that works cold**. Warm audiences
+already trust the seller, so a warm-only process can hide weak persuasion; a scalable sales
+motion should assume low trust, pre-frame the buyer before the call, and make the rep's job
+repeatable [[../../sources/2026-06-08-yt-lPZOkIvVxPc]], [[../../sources/2026-06-12-yt-fECT6E27oi8]].
+
+The recommended spine: build a VSL or other pre-frame that transfers enough belief before
+the call, then diagnose the gap between **logic, evidence, and utility**. If prospects
+understand the logic but do not believe it, add proof; if they believe it but still do not
+act, make the utility immediate through activation, fast cash, or a concrete first outcome
+[[../../sources/2026-06-10-yt-EiUW4sCi23s]], [[../../sources/2026-06-09-yt-lCmdlNNJkBw]].
+
+He also distinguishes **bad friction** (unnecessary effort that lowers conversion) from
+**good friction** (action that reveals seriousness and increases belief). Guarantees can
+be tied to the buyer taking the required action; that protects the seller from passive
+buyers while making the offer feel less risky to people willing to do the work
+[[../../sources/2026-06-10-yt-EiUW4sCi23s]].
 
 ---
 

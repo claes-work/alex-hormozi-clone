@@ -4,7 +4,7 @@ domain: business
 domains: [business, wealth]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 13
+sources: 17
 tags: [scaling, enterprise-value]
 ---
 
@@ -464,6 +464,32 @@ durable recurring revenue, brand, productized delivery, or reduced founder depen
 business is not the place to satisfy the founder's intellectual curiosity; the scalable answer may
 be the boring, repeatable service that compounds instead of a more interesting new direction
 [[../../sources/2026-06-19-yt-POS-kprGUDI]].
+
+---
+
+## 9b. 2026 Q&A refinements: SMB dead zone, distribution nodes, and roll-up control
+
+**SMB agencies have a dangerous middle price band.** In a June 2026 white-label / SMB
+agency coaching clip, Hormozi sharpens the agency warning: clients paying roughly
+**$1.5K-$3K/mo** can churn after 4-6 months because a small business's cash flow is too
+volatile for the service to feel safe every month. His prescription repeats the polar
+choice: either go very cheap with automation and volume, or go up-market to clients with
+enough margin and LTV to stay [[../../sources/2026-06-09-yt-3Lvhd3LIwwY]].
+
+**For episodic work, distribution partners are assets, not one-off customers.** In an
+experiential-marketing call and a white-label PR call, he treats agencies/producers as
+compounding distribution nodes: measure where clients actually come from, retain the
+intermediary, and design the offer so the partner has a reason to keep routing future jobs
+through the business [[../../sources/2026-06-10-yt-EIlXNKmHK20]], [[../../sources/2026-06-09-yt-0coMtm_i1UA]].
+
+**In roll-ups, do not buy the eggs while killing the goose.** In a dental roll-up clip,
+he separates the operating engine that creates the opportunity from the assets being
+rolled up. If the coaching / acquisition engine is the goose, the deal should protect it:
+use better-than-standalone economics, option rights, drag rights, and IP/licensing terms
+that let the platform scale without handing away the source of future deals
+[[../../sources/2026-06-09-yt-lpA7Uhav8qA]]. A separate partnership clip adds the
+contribution test: equity is justified only when each partner's scarce contribution is
+clear, durable, and not merely a disguised contractor fee [[../../sources/2026-06-09-yt-LGbS0GOZBNE]].
 
 ---
 

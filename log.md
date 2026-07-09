@@ -2814,3 +2814,14 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 861). youtube-index/index/footer updated. @MoreMozi P2: ~1,578 rows remain.
 Synthesis notes: partnership contribution criteria and stake-vs-partnership distinction; skill acquisition over early earning; SMB agency dead-zone pricing; focus as price paid after LTV:CAC proof; roll-up offer math, goose-vs-eggs coaching engine, and drag/option rights; high-ticket tier jumps vs automated low-budget mass market; regulatory uncertainty behavior rule; cold-first sales motion; quality+quantity continuity offer; before/after proof capture into customer journey.
+
+## [2026-07-09] lint | synthesis pass 12 — @MoreMozi batches 102-111
+
+Checkpoint synthesis for the 10-batch @MoreMozi Q&A cut window after batch 111.
+Promoted only non-repeat findings into topics/persona: cold-first sales process,
+founder-independent/process-led sales, logic/evidence/utility diagnosis, good friction,
+SMB agency dead-zone pricing, distribution-node retention, roll-up option/drag-right and
+goose-vs-eggs control, giant high-ticket tier jumps, discount-plus-one-time-fee behavior
+design, action before worthiness, replicate-before-iterate learning, buying access to pay
+down time, and learn-before-earn skill acquisition. Recompiled `persona/system-prompt.md`
+to v22 and advanced the synthesis high-water mark to batch 111.

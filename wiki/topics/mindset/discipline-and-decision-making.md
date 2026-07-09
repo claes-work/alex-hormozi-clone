@@ -1,7 +1,7 @@
 ---
 type: topic
 domain: mindset
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [discipline, decision-making]
 ---
 
@@ -346,6 +346,28 @@ owning it so that making money carried no shame [[../../sources/2021-12-08-yt-o7
 > tells people who *are* being helped by therapists to keep going. The above is his
 > self-administered mental model, not clinical advice
 > [[../../sources/2021-12-08-yt-o7R_K6LwKNk]].
+
+---
+
+## Action before worthiness; replicate before iterate (2026)
+
+**Act first; motive and worthiness can follow.** In a June 2026 coaching clip, Hormozi
+pushes against waiting until the founder feels noble, ready, or worthy. The business
+problem is solved by taking the next concrete action; motive analysis can become another
+avoidance loop if it delays the behavior that would produce evidence [[../../sources/2026-06-11-yt-HwTWXXoVm-8]].
+
+**Replicate before you iterate.** In an Alex-and-Leila learning clip, he frames paid
+access and mentorship as buying down time: copy the proven inputs first, then change the
+model only after the copied version works. The integrity rule is to share the relevant
+inputs and constraints with the person helping you, because hidden information makes the
+advice worse [[../../sources/2026-06-09-yt-j7JGiFKooD4]].
+
+**Early in skill acquisition, learn before you optimize for the immediate fee.** In a
+partnership coaching clip, he advises evaluating an opportunity by the skill it builds and
+the access it creates, not just the small ownership percentage or short-term cash. That
+does not mean taking every bad deal; the contribution must be explicit enough that the
+arrangement is real partnership rather than underpriced contracting
+[[../../sources/2026-06-09-yt-LGbS0GOZBNE]].
 
 ---
 

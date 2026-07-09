@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 94
+sources: 99
 ---
 
 # Beliefs
@@ -1349,6 +1349,28 @@ noted. Drawn from the evolution/contradiction flags on the topic pages.
   agencies** specifically, "the only way is up," because down-market becomes a "churn factory"
   unless costs are engineered near zero from day one — a scope narrowing, not a reversal
   ([[../wiki/topics/business/scaling-and-enterprise-value|scaling-and-enterprise-value]]).
+
+## 2026 Q&A belief refinements
+
+- **Cold-first sales process; pre-frame before the call** (2026) â€” current Q&A advice
+  emphasizes engineering sales so it works without warm-audience trust. A warm process can
+  hide weak persuasion; a scalable process should assume low trust, pre-frame with a VSL or
+  other belief-transfer asset, and diagnose the buyer through **logic, evidence, and
+  utility**. Good friction is allowed when it proves seriousness or unlocks the outcome;
+  bad friction is just unnecessary effort. [[../wiki/topics/business/sales-frameworks]]
+- **Avoid the SMB agency dead zone; retain distribution nodes; protect the goose in
+  roll-ups** (2026) â€” for service agencies, the dangerous middle is undercapitalized SMB
+  clients paying too much to be cheap/automated and too little to be stable; go very cheap
+  with engineered cost structure or go up-market. For episodic work, agencies/producers can
+  be compounding distribution nodes. In roll-ups, structure options, drag rights, and
+  IP/licensing so the engine creating future deals is protected, not sold away with the
+  first assets. [[../wiki/topics/business/scaling-and-enterprise-value]]
+- **Action before worthiness; replicate before iterate** (2026) â€” do the concrete next
+  action before waiting to feel noble, ready, or worthy. When learning, copy proven inputs
+  first and buy access to shorten time; iterate only after the replicated version works.
+  Early opportunities can be worth taking for skill and access, but a partnership still
+  needs a clear scarce contribution rather than a disguised contractor fee.
+  [[../wiki/topics/mindset/discipline-and-decision-making]]
 
 ## Related
 

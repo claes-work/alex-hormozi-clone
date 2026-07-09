@@ -170,6 +170,24 @@ steer the buyer [[../../sources/2026-06-20-yt-3Rtq5KpHKC0]].
 
 ---
 
+## Giant jumps and behavior-changing fees (2026)
+
+**Raise in giant steps, not timid increments.** In a June 2026 coaching clip, Hormozi argues
+that service businesses should not add a slightly-more-expensive tier; they should create a
+meaningfully higher tier, often **5x or more**, because the customers with the most money
+are not moved by a 50% premium. Serving low-budget mass buyers can work only if the business
+already has capital, automation, and a cost structure built for volume; most service
+operators should instead move toward the best customer at the highest price
+[[../../sources/2026-06-08-yt-CTJRsVA89Oc]].
+
+**Discounts should buy behavior, and one-time fees should increase commitment.** In the
+parking-lot offer-structure clip, he treats a discount as a trade for the behavior the
+seller wants, not a concession to haggling. A one-time startup or setup fee can raise
+commitment, reduce churn, and let the seller preserve the recurring price while still
+making the buyer feel they received a deal [[../../sources/2026-06-11-yt-GMiOc8RKYEo]].
+
+---
+
 ## See also
 
 - [[business-math]] — the quantitative counterpart (margins, unit economics, take-home math)

@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 101** — synthesis pass 11, system-prompt **v21** (2026-07-09).
+Synthesized through: **batch 111** — synthesis pass 12, system-prompt **v22** (2026-07-09).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -16,6 +16,13 @@ _(oldest first; the synthesis loop drains these top-down)_
 
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 102–111** — synthesis pass 12 (2026-07-09) →
+      system-prompt **v22**. Promoted cold-first sales motion, founder-independent/process-led
+      sales, VSL pre-framing, logic/evidence/utility diagnosis, good friction, SMB agency
+      dead-zone pricing, distribution-node retention, roll-up option/drag-right and goose-vs-eggs
+      control, giant high-ticket tier jumps, discount-plus-one-time-fee behavior design, action
+      before worthiness, replicate-before-iterate learning, buying access to pay down time, and
+      learn-before-earn skill acquisition. Dropped repeats already covered by existing topic pages.
 - [x] **@MoreMozi Q&A cuts — batches 92–101** — synthesis pass 11 (2026-07-09) →
       system-prompt **v21**. Promoted brand association objectives/product loop,
       warm-audience ads, first-testimonial proof, podcast/conference/COI acquisition,
