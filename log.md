@@ -3351,3 +3351,29 @@ ingested as L2.
 
 Ledger 8→L2 (L2 now 1,021). youtube-index/index/footer updated. @MoreMozi P2: ~1,418 rows remain.
 Synthesis notes: actions-over-thoughts/proof-based identity; beginner income skills and three-P business sourcing; family-intervention/game-refusal overlap; success-is-only-revenge origin with Mr. Given lifting story; $27 membership annualization/mop-up/physical premium; Kylie Forbes brand-origin and learning-from-envy; millionaire climb/become-the-person frame; zero-to-one fear, father dream, consulting exit, and failure-over-cowardice self-report.
+
+## [2026-07-09] ingest | yt batch 132 — @MoreMozi P2 (2026-05-19 to 2026-05-20), 8 videos
+
+Forty-fifth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry; the 8 successful rows were
+ingested as L2.
+
+- **2026-05-20** `yt-R8Ts4-RkxR8` "Deleting Work Life Balance for a Season" — seasons:
+  work-life balance over a timeline, compressed sacrifice, and season-specific answers.
+- **2026-05-20** `yt-VpesfGvv9cE` "Get RICH in the AI Revolution 2026" — AI:
+  AI hygiene, SOP-as-prompt, data sources, prompt chains, and judgment over typing.
+- **2026-05-20** `yt-ZzeTkbkpFvs` "The Problem With the Agency Model" — agencies:
+  scale the avatar, fewer better clients, higher qualifications, and debt choice.
+- **2026-05-20** `yt-KKChb9hAuCQ` "Social Media is About To Change Forever" — media:
+  shorts-to-longs, live-stream truth, SPCL influence, and high-volume consistency.
+- **2026-05-19** `yt-VX_iLv-QY8I` "How to Figure Out What You're Good At (And Get Better)" — skill:
+  volume times feedback loops, tutors, small groups, communities, and early-language example.
+- **2026-05-19** `yt-IKK_JUtU12U` "Why Most People Hijack Their Own Direction" — father/story:
+  direction hijack framing and father-proof/apology overlap.
+- **2026-05-19** `yt-l4RuVk7TXwA` "How to Know When It's Time to Cut a Friend" — relationships:
+  past-only friends, self-respect, and freedom/game-refusal angle.
+- **2026-05-19** `yt-ZyVeRn2cLHI` "He's Doing $3.4M But Wants Out of the Stress" — focus/gym:
+  pick one business, modeling/photo-studio split, six-week gym challenge, and rollover credit.
+
+Ledger 8→L2 (L2 now 1,029). youtube-index/index/footer updated. @MoreMozi P2: ~1,410 rows remain.
+Synthesis notes: work-life balance as seasonal timeline/compressed sacrifice; AI context/SOP prompts/data sources/prompt-chain workflow; agency avatar scaling and fewer-better-client counterintuitive growth; shorts-to-longs/live-stream truth/SPCL/content-volume thesis; skill acquisition as volume times feedback loops and community; father-proof/apology overlap for hijacked direction; friendship past-only/self-respect boundary; pick-one-business focus plus six-week gym challenge/rollover credit.
