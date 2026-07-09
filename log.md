@@ -4732,3 +4732,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,374). youtube-index/index/footer updated.
 Synthesis notes: financial-planning-offer-split/workshops-as-trust-lead-magnet/premium-vs-volume/personal-finance-to-wealth-ascension; buy-back-decades-compressed-work/Leila-first-date-help-money-story/money-expands-helping-capacity; excellence-power-law/opportunity-cost-of-one-thing/Offers-Book-economics/control-every-variable; spa-Green-Play/challenge-to-membership/front-end-breakeven/product-upsell; kitchen-sink-service-offer-then-trim/lived-problem-proof/context-carries-message/how-I-vs-how-to; personal-brand-for-deal-flow/recruiting-leverage/fame-privacy-one-way-door/content-feeds-families; description-not-prescription/freedom-as-choosing-work/work-as-presence; original-source-content/copycats-need-originator/beat-copycats-by-getting-bigger/long-game-independence.
+
+## [2026-07-09] ingest | yt batch 184 - @MoreMozi P2 (2026-04-19), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-19** `yt-DPd4Tr_2rh8` - traits as skill buckets, skill chunking, and mapping
+  income goals to daily activity inputs.
+- **2026-04-19** `yt-b7jhejS05QU` - enterprise software pricing: whale hunting,
+  biggest-number pricing, and contract friction only at enterprise ACV.
+- **2026-04-19** `yt-_FI7RVlWSwo` - one company constraint, silent-six baseline work, and
+  violent prioritization by the entrepreneur.
+- **2026-04-19** `yt-nPXvRghjNsQ` - operator role clarity through org charts and avoiding
+  four jobs hidden inside one.
+- **2026-04-19** `yt-ZhPT_fgyBMU` - hard times end through quitting, easier conditions, or
+  a harder self; stress means being alive and active.
+- **2026-04-19** `yt-QxOAnOxyP2Q` - negotiation anchoring, anchoring increments, terms over
+  price, and mistake-discount framing.
+- **2026-04-19** `yt-BOYphPIi4JY` - local-business Meta radius ads, no-show card capture,
+  and giveaway-to-second-place discount strategy.
+- **2026-04-19** `yt-U32DBNVKuss` - observable input-output behavior over vague
+  psychology, with mouth/body instruction as the teaching standard.
+
+Ledger 8->L2 (L2 now 1,382). youtube-index/index/footer updated.
+Synthesis notes: traits-as-skill-buckets/skill-chunking/toddler-learning/money-goal-to-daily-inputs; enterprise-whale-hunting/who-price-how-triad/biggest-number-pricing/contract-friction-worth-ACV; one-company-constraint/silent-six/violent-prioritization/sequential-constraint-solving; role-clarity-org-chart/high-value-target-outreach/interview-feedback-value/avoid-four-jobs-in-one; three-outcomes-hard-times/quit-easier-harder/hard-times-as-good-old-days/stress-means-alive; negotiation-anchoring/counter-anchoring/anchor-increments/terms-over-price/vendor-mistake-discount; local-paid-ad-radius/no-show-card-capture/free-Invisalign-giveaway/second-place-discount; observable-input-output-over-psychology/mouth-body-instruction/less-bad-reps/scientific-observation-lens.
