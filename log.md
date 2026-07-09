@@ -2345,3 +2345,29 @@ and remain open for retry; the 8 successful rows were ingested as L2.
 
 Ledger 8→L2 (L2 now 717). youtube-index/index/footer updated. @MoreMozi P2: ~1,722 rows remain.
 Synthesis notes: trial-Reels greatest-hits reposting plus sales-capacity-before-ads, minor/major league ascension, media-channel positioning against paid media, show-rate friction and VSL proof checklist, promote/build/operate function triad, founder as sales-recruiter when conversion capacity constrains, keyword experimentation budget with awareness bridge pages, and mechanized outbound before brand.
+
+## [2026-07-09] ingest | yt batch 94 — @MoreMozi P2 (2026-06-25 to 2026-06-26), 8 videos
+
+Seventh resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during caption
+fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-25** `yt-Yqz84f-amuU` "Don't Reinvent What's Already Working" — trading/charting platform:
+  product excellence means removing friction from the outcome customers already want; reinvestment math is a risk
+  tolerance question.
+- **2026-06-25** `yt-uE8_XXZ7F40` "Should I Quit My $2.6M Hair Business to Build SaaS?" — hair extensions:
+  avoid the SaaS red-dress trap, stop sunk-cost spending, prove recurring/reoccurring revenue retention, and fix margins/acquisition.
+- **2026-06-25** `yt-0Ny_H81fOQc` "Scaling a $3M CFO Firm to $20M" — near-duplicate CFO advisory clip:
+  supply constraint before courses; operating leverage, data layer, AI, then demand.
+- **2026-06-25** `yt-0Q366JQLdBQ` "Hormozi's AI Just Out-Coached Him on an Invisalign Offer" — Invisalign:
+  paid whitening front-end, card-on-file no-show friction, imaging, and menu-style smile upsell.
+- **2026-06-26** `yt-53pN4aIgbkw` "The Framework I Use to Never Regret a Decision" — sports facility:
+  regret minimization, worst-case acceptance, focus risk, and opportunity cost as the true risk.
+- **2026-06-26** `yt-NOC1QmHjDtU` "I Spent $7,500 to Acquire a $6,500 Customer" — roofing:
+  inbound/outbound teams must split; inbound is a promotion for top closers; bring core marketing in-house.
+- **2026-06-26** `yt-nKz6NuP9O5w` "Dentist Asks for Advice, Gets Brutal Reality Check" — dentistry:
+  control beats minority-style growth investments; expand/acquire locally and own the market instead.
+- **2026-06-26** `yt-8lXPR-E1eaU` "Most Problems Can Be Solved With More Advertising" — luxury-home builder:
+  talent is a demand problem; use outreach, regional expansion, relocation packages, and far more volume.
+
+Ledger 8→L2 (L2 now 725). youtube-index/index/footer updated. @MoreMozi P2: ~1,714 rows remain.
+Synthesis notes: product-as-friction-removal, SaaS red-dress/sunk-cost warning and recurring-vs-reoccurring retention, duplicate CFO data-first AI evidence, paid whitening/card-on-file dental offer, regret minimization with opportunity-cost risk, inbound/outbound sales-team split, control-first dental expansion, and talent demand as advertising/outreach volume.
