@@ -1,7 +1,7 @@
 id,type,title,channel_or_publisher,url,published,discovered,status,priority,domains,notes
 book-100m-money-models,book,$100M Money Models: How To Make Money,Acquisition.com,https://www.acquisition.com/books,2025-08-16,2026-07-08,L3,1,business,Landmark source. Full L3 ingest 2026-07-08 from user-purchased PDF.
 doc-affiliate-black-book,document,Affiliate Black Book ($100M Money Models launch),Acquisition.com,,2025-08-16,2026-07-08,L3,2,marketing;content-strategy,Affiliate launch playbook + email/DM swipe copy for the 2025-08-16 launch. L3 ingest 2026-07-08.
-yt-zzleYxkf39k,video,"8 Entrepreneurs Compete For $100,000 - Episode 1",@AlexHormozi,https://www.youtube.com/watch?v=zzleYxkf39k,NA,2026-07-08,L0-discovered,3,,views=0
+yt-zzleYxkf39k,video,"8 Entrepreneurs Compete For $100,000 - Episode 1",@AlexHormozi,https://www.youtube.com/watch?v=zzleYxkf39k,2026-06-26,2026-07-08,L0-discovered,3,,views=332920
 yt-Z5rKn1ZIp3A,video,I can’t hide this anymore.,@AlexHormozi,https://www.youtube.com/watch?v=Z5rKn1ZIp3A,2026-06-22,2026-07-08,L2,2,business;content-strategy,L2; promo trailer Scale-or-Fail competition show
 yt-k5-57282taI,video,How The Top 1% Actually Think About Trust,@AlexHormozi,https://www.youtube.com/watch?v=k5-57282taI,2026-06-10,2026-07-08,L2,2,mindset;business,"L2; trust=punishability, 4 types, zero-punishment model"
 yt-sL16tsGafcQ,video,"If You Want To Create Wealth In 2026, Watch This (4 Paths)",@AlexHormozi,https://www.youtube.com/watch?v=sL16tsGafcQ,2026-06-04,2026-07-08,L2,2,wealth;business,L2; L3-cand wealth 4-paths taxonomy (bootstrap/capital/invest/fund)
@@ -53,7 +53,7 @@ yt-Avp3xh3Y1Ic,video,"If You Have a Hard Life, Watch This",@AlexHormozi,https://
 yt-3SVksBB3_YY,video,Give me 20 Minutes and I'll Give You Back 20 Years of Your Life,@AlexHormozi,https://www.youtube.com/watch?v=3SVksBB3_YY,2025-09-19,2026-07-08,L2,2,mindset;wealth,"L2; L3-cand buy-back-time/humaning (7 investments, outsource meals/laundry/driving)"
 yt-q_4P7FOFEEI,video,"If you're watching this, we did it.",@AlexHormozi,https://www.youtube.com/watch?v=q_4P7FOFEEI,2025-08-23,2026-07-08,L2,2,content-strategy;business;mindset,"L2; launch vlog (100M goal, 3.3M copies, secret book + 12 playbooks, ~100wk prep)"
 yt-tGhe3sBuk34,video,My final update,@AlexHormozi,https://www.youtube.com/watch?v=tGhe3sBuk34,2025-08-15,2026-07-08,L2,2,content-strategy;marketing;business,L2; book-launch BTS doc; corroborates 2021 single-manuscript origin; birthday ~Aug 9
-yt-c6wfunUDDOs,video,$100M Money Models Rick Roll,@AlexHormozi,https://www.youtube.com/watch?v=c6wfunUDDOs,NA,2026-07-08,skipped,1,,"joke/troll video, no knowledge value"
+yt-c6wfunUDDOs,video,$100M Money Models Rick Roll,@AlexHormozi,https://www.youtube.com/watch?v=c6wfunUDDOs,2025-08-13,2026-07-08,skipped,1,,views=76298
 yt-prj1bnTAM8A,video,Your biggest advantage is no one knows who you are,@AlexHormozi,https://www.youtube.com/watch?v=prj1bnTAM8A,2025-07-26,2026-07-08,L2,2,mindset;business;marketing;content-strategy,"L2; obscurity-advantage (underdog wins, rule of 100, nail-it-then-scale)"
 yt-3yAiVjcImQ4,video,I Blew Up a Business Through 3 Small Changes (Just Copy Me),@AlexHormozi,https://www.youtube.com/watch?v=3yAiVjcImQ4,2025-07-19,2026-07-08,L2,2,business;marketing,"L2; attorney teardown (111 focus rule, free-education front-end, value-repricing, VSL/BANT/CLOSER)"
 yt-XwzU4RikbGs,video,You're Setting Goals Wrong,@AlexHormozi,https://www.youtube.com/watch?v=XwzU4RikbGs,2025-07-17,2026-07-08,L2,2,mindset;business,"L2; L3-cand goals-wrong (priority-is-singular, focus-as-elimination, execution>ideas)"
@@ -87,7 +87,7 @@ yt-Jc2UW3nlNBA,video,How to get what you want every time,@AlexHormozi,https://ww
 yt-kQFSiEDvXws,video,The Biggest MYTH You Probably Still Believe,@AlexHormozi,https://www.youtube.com/watch?v=kQFSiEDvXws,2025-04-22,2026-07-08,L2,2,business;mindset,"L2; scalability-myth (every business scales, difficulty is a feature)"
 yt-uYds0zcAFWM,video,I Just Learned This After 14 Years of Business,@AlexHormozi,https://www.youtube.com/watch?v=uYds0zcAFWM,2025-04-18,2026-07-08,L2,2,business;mindset;wealth,"L2; L3-cand learned-14yrs (cost-of-change, LTV:CAC by manual-ness, the-swamp 1-3M, rush-imaginary)"
 yt-s7QA1TJKlbQ,video,4 Ways To Get Ahead of 99% of People,@AlexHormozi,https://www.youtube.com/watch?v=s7QA1TJKlbQ,2025-04-17,2026-07-08,L2,2,business;mindset;marketing,"L2; L3-cand 4-vectors (speed/risk/price/ease -> value equation, win one to beat 99pct)"
-yt--HJg4TYBgtI,video,Watch These 51 Minutes if You Want to Grow Your Business in 2026 (Dave Ramsey Interview),@AlexHormozi,https://www.youtube.com/watch?v=-HJg4TYBgtI,NA,2026-07-08,L0-discovered,3,,views=0
+yt--HJg4TYBgtI,video,Watch These 51 Minutes if You Want to Grow Your Business in 2026 (Dave Ramsey Interview),@AlexHormozi,https://www.youtube.com/watch?v=-HJg4TYBgtI,2025-04-16,2026-07-08,L0-discovered,3,,views=285073
 yt-q9OmYf_IlQ0,video,The Top 1% of Business Owners Aren't Smarter Than You,@AlexHormozi,https://www.youtube.com/watch?v=q9OmYf_IlQ0,2025-04-15,2026-07-08,L2,2,business;mindset;wealth,"L2; L3-cand top-1pct-not-smarter (what-business-really-in, big-hairy-problem, 100M-version)"
 yt-6Fg4VXjRphQ,video,I Confronted a Stranger With a Failing Business...,@AlexHormozi,https://www.youtube.com/watch?v=6Fg4VXjRphQ,2025-04-11,2026-07-08,L2,2,business;marketing;content-strategy,"L2; confront-failing attorney Alexi (kill money-loser, one offer); dup format"
 yt-6uhd-FiCggg,video,Why 'Following Your Dreams' is Keeping You Poor,@AlexHormozi,https://www.youtube.com/watch?v=6uhd-FiCggg,2025-04-10,2026-07-08,L2,2,mindset;wealth,L2; following-dreams (passion follows competence); dup passion-vs-proficiency
@@ -97,7 +97,7 @@ yt-orMbq2LtzKE,video,"He Makes $600,000,000/Yr Selling Bacon",@AlexHormozi,https
 yt---9kOXNCUdE,video,$100M Investor Answers The Most Important Business Questions for 1 Hour,@AlexHormozi,https://www.youtube.com/watch?v=--9kOXNCUdE,2025-03-17,2026-07-08,L2,1,business;marketing;mindset,L2; 1hr multi-business Q&A
 yt-BMF2fWHyDrg,video,"Building a $3,500,000 Business for a Stranger in 51 Mins",@AlexHormozi,https://www.youtube.com/watch?v=BMF2fWHyDrg,2025-03-10,2026-07-08,L2,2,business;marketing;content-strategy,"L2; stranger-3.5M trophy ecom (value-pricing, TikTok Shop); dup"
 yt-HwPXctiw_rY,video,STEAL Ryan Reynolds' $1.3B Marketing Strategy [NO FAME REQUIRED],@AlexHormozi,https://www.youtube.com/watch?v=HwPXctiw_rY,2025-03-05,2026-07-08,L2,2,marketing,"L2; L3-cand Ryan Reynolds/Mint case study (hook/meat/CTA, us-vs-them, offer wrappers, 3-tier pricing)"
-yt-QwEb78e5a8Y,video,Answering Your Top Business Questions for 1 Hour,@AlexHormozi,https://www.youtube.com/watch?v=QwEb78e5a8Y,NA,2026-07-08,L0-discovered,3,,views=0
+yt-QwEb78e5a8Y,video,Answering Your Top Business Questions for 1 Hour,@AlexHormozi,https://www.youtube.com/watch?v=QwEb78e5a8Y,2025-02-25,2026-07-08,L0-discovered,3,,views=182519
 yt-npi7UeOE_0o,video,I Ranked the Best Superbowl Ads 2026 [TIER LIST],@AlexHormozi,https://www.youtube.com/watch?v=npi7UeOE_0o,2025-02-15,2026-07-08,L2,2,marketing;content-strategy;business,L2; L3-cand superbowl-2026 tier-list (6-factor ad rubric: attention/care/dream/urgency/proof/CTA)
 yt-sBJppqCeFGI,video,"Building a $5,000,000 Business for a Stranger in 42 Mins",@AlexHormozi,https://www.youtube.com/watch?v=sBJppqCeFGI,2025-02-11,2026-07-08,L2,2,business;marketing,L2; stranger-5M chiropractic (6mo growth plan); dup
 yt-eX3Ch_HuR70,video,Breaking down Rihanna’s Company (Real Tactics You Can Use),@AlexHormozi,https://www.youtube.com/watch?v=eX3Ch_HuR70,2025-01-28,2026-07-08,L2,2,marketing;business;content-strategy,"L2; L3-cand Rihanna/Fenty case study (partner-for-deficiencies, brand affinity, skippable credit membership)"
@@ -117,7 +117,7 @@ yt-wtsX7WHQMFM,video,How the Top 1% ACTUALLY Make Their Money,@AlexHormozi,https
 yt-k-3PoOT4vOM,video,How to Make Money So Fast It Feels ILLEGAL,@AlexHormozi,https://www.youtube.com/watch?v=k-3PoOT4vOM,2024-12-05,2026-07-08,L2,2,business;wealth,"L2; L3-cand money-fast (value equation, client-financed-acquisition, wealth-alchemy EV/tax arbitrage)"
 yt-QTZsh3BgOwY,video,You're WASTING Your Chance to Make INSANE Money,@AlexHormozi,https://www.youtube.com/watch?v=QTZsh3BgOwY,2024-12-04,2026-07-08,L2,2,business;mindset;marketing,"L2; L3-cand six-horsemen (too-many-avatars, underpricing, overextension/red-dress, no-who, no-data) + 5-to-30pct turnaround"
 yt-ovL6Z5z0jxQ,video,The 3 Fastest Ways I Know To Grow Any Business,@AlexHormozi,https://www.youtube.com/watch?v=ovL6Z5z0jxQ,2024-12-03,2026-07-08,L2,2,business;wealth;marketing,"L2; L3-cand 3-fastest (arbitrage, giveaways, pricing; wealth-as-ratio)"
-yt-YUXLJauT4eY,video,REVEALING Black Friday Secrets To Use In Your Business (feat. Shopify's President),@AlexHormozi,https://www.youtube.com/watch?v=YUXLJauT4eY,NA,2026-07-08,L0-discovered,3,,views=0
+yt-YUXLJauT4eY,video,REVEALING Black Friday Secrets To Use In Your Business (feat. Shopify's President),@AlexHormozi,https://www.youtube.com/watch?v=YUXLJauT4eY,2024-11-30,2026-07-08,L0-discovered,3,,views=80303
 yt-oDK4g5na4Jw,video,No BS Advice to Get Rich Like the 1%,@AlexHormozi,https://www.youtube.com/watch?v=oDK4g5na4Jw,2024-11-27,2026-07-08,L2,2,mindset;wealth;business;content-strategy,"L2; no-BS-1pct (4 pairings, 100x volume, 12x30); dup of cnbHgYYHzyE"
 yt-rn5-yLUaNw0,video,Why The Best Business to Start in 2026 is a Skool Community,@AlexHormozi,https://www.youtube.com/watch?v=rn5-yLUaNw0,2024-11-20,2026-07-08,L2,2,business;marketing;content-strategy,"L2; Skool comedic AD (Old Spice parody, not teaching); thin; self-reported stats"
 yt-7qy-EPc2gYU,video,My Full Workout with Chris Bumstead [6x Mr. Olympia Champion],@AlexHormozi,https://www.youtube.com/watch?v=7qy-EPc2gYU,2024-11-18,2026-07-08,L2,2,fitness;mindset;wealth;content-strategy,"L2; L3 FITNESS/APPEARANCE/BIO (Bumstead workout: calves signature, PRs, 235lb natural; DOB ~Aug 1989, bodybuilding 14-22, state record, Kylie-Forbes depression)"
@@ -189,7 +189,7 @@ yt-oK2_u-uS_Bo,video,Money Lessons I Learned In Marriage.,@AlexHormozi,https://w
 yt-nxL4ZfVqKLI,video,"Seriously, watch this before you go to college",@AlexHormozi,https://www.youtube.com/watch?v=nxL4ZfVqKLI,2024-02-28,2026-07-08,L2,2,mindset;wealth;business,"L2; college-ROI game-of-one-or-zero; RESOLVES Tufts-gap: explicitly VANDERBILT magna cum laude 3yr, declined HBS (above GMAT median), took 250k to start business"
 yt-5JLqmQlGG0U,video,"If I Wanted to Get Rich and Famous, This Is What I'd Do",@AlexHormozi,https://www.youtube.com/watch?v=5JLqmQlGG0U,2024-02-21,2026-07-08,L2,2,content-strategy;marketing;mindset,"L2; L3-cand rich+famous (5-influencer breakdown Swift/Rock/MrBeast/Rogan/Kylie, 7-pt inverted playbook, you-are-the-niche); feeds branding"
 yt-jiCGLDhUCHY,video,"If I Were Single and Starting Over, This Is What I Would Do",@AlexHormozi,https://www.youtube.com/watch?v=jiCGLDhUCHY,2024-02-14,2026-07-08,L2,2,mindset,"L2; partner-selection (higher-standard-for-self, growth-not-change, loyalty=predictability); title says starting-over but is relationship advice"
-yt-YZdE8U5eD_s,video,"If You Want to Start a Business in 2024, Watch This Interview",@AlexHormozi,https://www.youtube.com/watch?v=YZdE8U5eD_s,NA,2026-07-08,L0-discovered,3,,views=0
+yt-YZdE8U5eD_s,video,"If You Want to Start a Business in 2024, Watch This Interview",@AlexHormozi,https://www.youtube.com/watch?v=YZdE8U5eD_s,2024-02-07,2026-07-08,L0-discovered,3,,views=716081
 yt-pt50QF6al8g,video,Brutally Honest Advice to Build Your Confidence,@AlexHormozi,https://www.youtube.com/watch?v=pt50QF6al8g,2024-01-31,2026-07-08,L2,2,mindset,"L2; confidence=evidence-based prediction (walk-it-before-talk-it), finite vs infinite game; bio: 46M sale, 100M net worth at 32, 4.5yr podcast grind"
 yt-3aAbKVSFP6k,video,'Getting rich isn't fun' [Ep 014],@AlexHormozi,https://www.youtube.com/watch?v=3aAbKVSFP6k,2024-01-24,2026-07-08,L2,2,mindset;wealth,"L2; getting-rich-isnt-fun vlog (glamour hides meetings/calls, jagged growth); Leila/Graham Stephan context; bio: Baltimore, mustache, 50k/hr"
 yt-0_Gf5v8DEMY,video,I Helped Business Owners Overcome Their Fear of Failure,@AlexHormozi,https://www.youtube.com/watch?v=0_Gf5v8DEMY,2024-01-17,2026-07-08,L2,2,mindset;business,"L2; fear-of-failure (judge by controllable inputs not outcomes); multi-speaker Q&A; bio: 70 stores, lost everything twice; dup"
@@ -212,17 +212,17 @@ yt-yPDQCfrwh8E,video,I Tried This Simple Business Strategy for 60 Days. This is 
 yt-c_6BrF7jOGk,video,I Doubled A Business in 60 Days to Show It's Not Luck (Part 1),@AlexHormozi,https://www.youtube.com/watch?v=c_6BrF7jOGk,2023-10-04,2026-07-08,L2,2,business;marketing,"L2; L3-cand doubled-biz-60days Part1 (5 sales-funnel metrics, 56-93 units, ad-targeting/scripts/org fixes); seeds sales-metrics"
 yt-Ktwv_uEW-uA,video,'What now?' [Ep 009],@AlexHormozi,https://www.youtube.com/watch?v=Ktwv_uEW-uA,2023-09-27,2026-07-08,L2,2,mindset,"L2; what-now vlog Ep009 (one-of-zero brand, redefining-winning); Leads launch tour; co-hosts+Mark context; bio: rubber wedding ring, minimalist packing"
 yt-4GjwtnA76ig,video,This video will make you more money than anything else on the Internet,@AlexHormozi,https://www.youtube.com/watch?v=4GjwtnA76ig,2023-09-20,2026-07-08,L2,2,business;marketing,"L2; offers keynote (100M Offers core); dup 1000-book-demo w/ RdAKXJlMIZM; bio: age-23 2013 FB-ads workshop, 3k-of-10k-net-worth"
-yt-jvXOOddDg_s,video,How to Get Rich [Full Interview with Dave Ramsey],@AlexHormozi,https://www.youtube.com/watch?v=jvXOOddDg_s,NA,2026-07-08,L0-discovered,3,,views=0
+yt-jvXOOddDg_s,video,How to Get Rich [Full Interview with Dave Ramsey],@AlexHormozi,https://www.youtube.com/watch?v=jvXOOddDg_s,2023-09-13,2026-07-08,L0-discovered,3,,views=1802540
 yt-aBPWCdaJJqA,video,I Helped 6 Business Owners Make More Money,@AlexHormozi,https://www.youtube.com/watch?v=aBPWCdaJJqA,2023-09-09,2026-07-08,L2,2,business,"L2; helped-6-owners live diagnostics (6 askers context, gym unit-economics, yes-man/no-man partnerships, skills-character-time ladder); bio: Leila 30-dates story, prior broken engagement"
 yt-HKbFUWJwEG0,video,I Reverse Engineered the Perfect Business,@AlexHormozi,https://www.youtube.com/watch?v=HKbFUWJwEG0,2023-09-06,2026-07-08,L2,2,business;wealth;marketing,"L2; L3-cand perfect-business (10 EV criteria, EV=customers x LGP / risk, Mosey-Lisa); COMPLETES scaling-EV section5 teased-not-enumerated"
 yt-fd-hi3NqMYo,video,"I Gained 5,000,000+ Followers with this Secret Method",@AlexHormozi,https://www.youtube.com/watch?v=fd-hi3NqMYo,2023-08-30,2026-07-08,L2,2,content-strategy;marketing;business,"L2; 5M-followers agency-playbook (2-phase: basic then premium-to-learn-decisions, transfer in-house, avoid agency-trap); complement HVOubeXUcx0"
 yt-qel9bf653Es,video,Behind the Scenes of The $100M Leads Launch [Ep 006],@AlexHormozi,https://www.youtube.com/watch?v=qel9bf653Es,2023-08-26,2026-07-08,L2,1,business;marketing;mindset;content-strategy,L2; L3-candidate: Leads launch playbook + bio (declined ~50M)
-yt-cHXYi7MqP5c,video,Behind the Scenes of the $100M Leads Book Launch [OFFICIAL TRAILER],@AlexHormozi,https://www.youtube.com/watch?v=cHXYi7MqP5c,NA,2026-07-08,skipped,1,,"promo trailer, no teaching content"
+yt-cHXYi7MqP5c,video,Behind the Scenes of the $100M Leads Book Launch [OFFICIAL TRAILER],@AlexHormozi,https://www.youtube.com/watch?v=cHXYi7MqP5c,2023-08-23,2026-07-08,skipped,1,,views=99616
 yt-RdAKXJlMIZM,video,How to get SO rich you question the meaning of making money,@AlexHormozi,https://www.youtube.com/watch?v=RdAKXJlMIZM,2023-08-05,2026-07-08,L2,2,wealth;mindset,"L2; so-rich-meaning (work=volume x leverage, focus, better-from-boring, valley-of-despair); bio: 9-biz/broke-at-26 to focus to 1.5M/mo"
 yt-w7g08dVTwaE,video,Watch this to get your first 5 customers,@AlexHormozi,https://www.youtube.com/watch?v=w7g08dVTwaE,2023-08-02,2026-07-08,L2,2,business;marketing,"L2; L3-cand first-5-customers (10-step warm outreach, ACA=Acknowledge/Compliment/Ask, free-to-retail price ladder); 100M Leads"
 yt-60_7PU9JDIw,video,My $100M Leads Affiliate Marketing Guide,@AlexHormozi,https://www.youtube.com/watch?v=60_7PU9JDIw,2023-07-29,2026-07-08,L2,1,marketing;business;content-strategy,"L2; affiliate playbook (whisper-tease-shout, 2-customer model)"
 yt-5cOwh-8scu8,video,Make Money Online (Without Destroying Your Reputation),@AlexHormozi,https://www.youtube.com/watch?v=5cOwh-8scu8,2023-07-26,2026-07-08,L2,2,business;content-strategy,"L2; make-money-online (give-until-ask/gift-to-ask ratio); bio: 2013 free-training-for-charity origin, first 20 clients"
-yt-y7O-iTWwTW8,video,Interviewing a Billionaire + Revealing My Workout Routine [Ep 005],@AlexHormozi,https://www.youtube.com/watch?v=y7O-iTWwTW8,NA,2026-07-08,L0-discovered,3,,views=0
+yt-y7O-iTWwTW8,video,Interviewing a Billionaire + Revealing My Workout Routine [Ep 005],@AlexHormozi,https://www.youtube.com/watch?v=y7O-iTWwTW8,2023-07-24,2026-07-08,L0-discovered,3,,views=462426
 yt-7NMH1oAkgLY,video,Giving Away Free Stuff Will Make You Rich,@AlexHormozi,https://www.youtube.com/watch?v=7NMH1oAkgLY,2023-07-19,2026-07-08,L2,2,marketing;business,"L2; free-stuff (give complete lead-magnets lowers CAC, 7-step checklist); 100M Leads chapter; lead-magnet page cand"
 yt-VPre_XMgKjs,video,Why MrBeast Will be Worth $100 Billion,@AlexHormozi,https://www.youtube.com/watch?v=VPre_XMgKjs,2023-07-12,2026-07-08,L2,2,business;content-strategy;marketing,"L2; L3-cand MrBeast-100B case study (media-CPG flywheel, product-is-marketing, brand-premium-on-commodities, infinite-game)"
 yt-zZyRg4Fzabk,short,HUGE ANNOUNCEMENT,@AlexHormozi,https://www.youtube.com/watch?v=zZyRg4Fzabk,NA,2026-07-08,L0-discovered,2,,views=0
@@ -297,11 +297,11 @@ yt-6nkoXslz_pI,video,Why I don't follow my feelings..,@AlexHormozi,https://www.y
 yt-AGCtZmgJ1JA,video,How I learned to SELL...[mindset training],@AlexHormozi,https://www.youtube.com/watch?v=AGCtZmgJ1JA,2022-06-16,2026-07-08,L2,2,business;mindset,"L2; L3-cand learned-to-sell (conviction-transfer, childlike-curiosity questions close); Sean/Shaan MFM interview repost; bio: Leila 50/50, 5AM-4PM, drive from crippling-insecurity, 5yr seasons"
 yt-x1CtbsEqxW0,video,I lived on $0 income for 3 years growing my business...,@AlexHormozi,https://www.youtube.com/watch?v=x1CtbsEqxW0,2022-06-14,2026-07-08,L2,2,wealth;mindset,"L2; L3-cand 0-income-3yr rich bio timeline (gym-floor/0-rent, 500+ Chipotle yr1, ~70k saved lasted 3yr Costa Mesa 7-person-house, Prius MozyMobiles, Albuquerque, 1.8M Austin cash, i8 from ClickFunnels, ~30M, 2021 sold all, 2022 Acq 150M/yr); reinvest-everything reframed as mistake"
 yt-Ul87yrDKZ78,video,"How to CLOSE THE SALE when the prospect says, 'I left my wallet at home..'",@AlexHormozi,https://www.youtube.com/watch?v=Ul87yrDKZ78,2022-06-09,2026-07-08,L2,2,business,"L2; wallet-close (ask-for-ID-first, bank-statement ACH/delayed-charge workarounds); granular sales tactic"
-yt-OVhNSzFSoZs,video,$100M CEO shares the SECRET to the FASTEST road to FINANCIAL FREEDOM,@AlexHormozi,https://www.youtube.com/watch?v=OVhNSzFSoZs,NA,2026-07-08,L1,1,,no-captions (no auto/manual subs)
+yt-OVhNSzFSoZs,video,$100M CEO shares the SECRET to the FASTEST road to FINANCIAL FREEDOM,@AlexHormozi,https://www.youtube.com/watch?v=OVhNSzFSoZs,2022-06-07,2026-07-08,L1,1,,views=67233
 yt-WsYgWC7NmO8,video,Top 10 Fast Business Lessons From My Last 10 Years,@AlexHormozi,https://www.youtube.com/watch?v=WsYgWC7NmO8,2022-06-02,2026-07-08,L2,2,business;mindset,"L2; top-10-lessons compilation (focus, slice-of-pie, compounding, brand/pricing, simple-scales, customer-centric); dup"
 yt-pmxzhyF0NrE,video,2 Signs That You Will Become Wealthy One Day..,@AlexHormozi,https://www.youtube.com/watch?v=pmxzhyF0NrE,2022-05-30,2026-07-08,L2,2,mindset;wealth,"L2; 2-signs-wealthy (money measuring-sticks, time-horizon/marshmallow, base-unit); dup; bio: measured money in Chipotle burritos in HS"
 yt-WrCt0R3FBFs,video,How I built a 1.2M follower audience in 6 months,@AlexHormozi,https://www.youtube.com/watch?v=WrCt0R3FBFs,2022-05-27,2026-07-08,L2,1,content-strategy;marketing;business;wealth;mindset,views=0; L2 ingest 2026-07-08; canonical content-strategy playbook - candidate for L3
-yt-FXzDLLdxsCk,video,$100M CEO teaches the quickest way to increase revenue [without more marketing(or sales)],@AlexHormozi,https://www.youtube.com/watch?v=FXzDLLdxsCk,NA,2026-07-08,L1,1,,no-captions (no auto/manual subs)
+yt-FXzDLLdxsCk,video,$100M CEO teaches the quickest way to increase revenue [without more marketing(or sales)],@AlexHormozi,https://www.youtube.com/watch?v=FXzDLLdxsCk,2022-05-19,2026-07-08,L1,1,,views=59407
 yt-XwZH-lOKG9c,video,KEYNOTE: Small To BIG. The Big 4 Customer Acquisition Models.,@AlexHormozi,https://www.youtube.com/watch?v=XwZH-lOKG9c,2022-05-17,2026-07-08,L2,1,business;marketing,"L2; L3-CANDIDATE keynote: CFA, value-eq, 6 traffic, MAGIC, LTGP + origin story"
 yt-rl_IkHyKHJI,video,Why losing friends is normal...,@AlexHormozi,https://www.youtube.com/watch?v=rl_IkHyKHJI,2022-05-13,2026-07-08,L2,2,mindset,"L2; losing-friends-normal (shed on the climb, feeds relationships); bio: no parental support until success beyond-obvious"
 yt-pWbSl7d0tEc,video,I sold 8 businesses by age 32 [here’s how],@AlexHormozi,https://www.youtube.com/watch?v=pWbSl7d0tEc,2022-05-11,2026-07-08,L2,2,business;wealth,L2; L3-cand 8-businesses-by-32 M&A masterclass; RECONCILES exits: 8=7-sold+1-shutdown (2022) vs 9 (2024)=evolution; 46.2M=GymLaunch+Prestige COMBINED to APG 66pct-equity no-earnout; ALAN ~12M sold strategic
@@ -327,187 +327,187 @@ yt-sij16VKQL2M,video,The biggest mistake in your 20's that will make you poor in
 yt-Ec41cSp_tWc,video,Why direct response marketers get rich...not wealthy,@AlexHormozi,https://www.youtube.com/watch?v=Ec41cSp_tWc,2022-03-07,2026-07-08,L2,2,marketing;business;wealth,"L2; L3-cand rich-not-wealthy (DR extracts-capital-today caps at goodwill-balance vs branding compounds, income-vs-asset, time-horizon; give-give-give-get, own-one-or-two-words)"
 yt-j536U19iTwk,video,Want to be rich? Stop letting THIS affect you...,@AlexHormozi,https://www.youtube.com/watch?v=j536U19iTwk,2022-03-04,2026-07-08,L2,2,mindset,"L2; stop-letting-affect-you (same GS podcast, trauma/meaning, casino-of-life); bio: born-again Christian ~19-20 then lost faith after ~5yr apologetics"
 yt-kX2EJSwOCug,video,"If you think like this, you will stay poor and unhappy...",@AlexHormozi,https://www.youtube.com/watch?v=kX2EJSwOCug,2022-03-02,2026-07-08,L2,2,mindset,"L2; think-like-this-stay-poor (Graham Stephan podcast cut; desire=contract-to-be-unhappy, nihilism-as-freedom); bio: 100M net worth at 32"
-yt--TydwZMX8wM,video,How society fools the poor with 'work/life balance',@AlexHormozi,https://www.youtube.com/watch?v=-TydwZMX8wM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-7NqsFh5ej0w,video,The first 5 hires EVERY entrepreneur should make...or go broke...,@AlexHormozi,https://www.youtube.com/watch?v=7NqsFh5ej0w,NA,2026-07-08,L0-discovered,2,,views=0
-yt-VgEvIIpDYG8,video,The 10 Minute MILLIONAIRE entrepreneur advice for people starting from ZERO,@AlexHormozi,https://www.youtube.com/watch?v=VgEvIIpDYG8,NA,2026-07-08,L0-discovered,2,,views=0
+yt--TydwZMX8wM,video,How society fools the poor with 'work/life balance',@AlexHormozi,https://www.youtube.com/watch?v=-TydwZMX8wM,2022-02-28,2026-07-08,L0-discovered,1,,views=736080
+yt-7NqsFh5ej0w,video,The first 5 hires EVERY entrepreneur should make...or go broke...,@AlexHormozi,https://www.youtube.com/watch?v=7NqsFh5ej0w,2022-02-23,2026-07-08,L0-discovered,2,,views=89529
+yt-VgEvIIpDYG8,video,The 10 Minute MILLIONAIRE entrepreneur advice for people starting from ZERO,@AlexHormozi,https://www.youtube.com/watch?v=VgEvIIpDYG8,2022-02-21,2026-07-08,L0-discovered,1,,views=215802
 yt-kW2vDMAmlPI,video,$100M CEO: How I know who to trust...,@AlexHormozi,https://www.youtube.com/watch?v=kW2vDMAmlPI,2022-02-16,2026-07-08,L2,1,business;mindset,L2; 3 hiring non-negotiables + trust heuristics
-yt-_gcqwupsza8,video,I Sold My Company at 31: My Detailed Breakdown of the Decision,@AlexHormozi,https://www.youtube.com/watch?v=_gcqwupsza8,NA,2026-07-08,L0-discovered,2,,views=0
-yt-lRyGIzW9d9k,video,The anti-routine...[what billionaires use to win],@AlexHormozi,https://www.youtube.com/watch?v=lRyGIzW9d9k,NA,2026-07-08,L0-discovered,2,,views=0
-yt-2tHlHWgDRdQ,video,The reason you are not successful...,@AlexHormozi,https://www.youtube.com/watch?v=2tHlHWgDRdQ,NA,2026-07-08,L0-discovered,2,,views=0
-yt-w5g0JiO7OdE,video,I paid 0% tax on 56% of my income...here's how..,@AlexHormozi,https://www.youtube.com/watch?v=w5g0JiO7OdE,NA,2026-07-08,L0-discovered,2,,views=0
-yt-oi7bnS8uyJM,video,30 Minutes of sales training that will explode your business in 2022,@AlexHormozi,https://www.youtube.com/watch?v=oi7bnS8uyJM,NA,2026-07-08,L0-discovered,2,,views=0
+yt-_gcqwupsza8,video,I Sold My Company at 31: My Detailed Breakdown of the Decision,@AlexHormozi,https://www.youtube.com/watch?v=_gcqwupsza8,2022-02-14,2026-07-08,L0-discovered,2,,views=81542
+yt-lRyGIzW9d9k,video,The anti-routine...[what billionaires use to win],@AlexHormozi,https://www.youtube.com/watch?v=lRyGIzW9d9k,2022-02-07,2026-07-08,L0-discovered,1,,views=1301065
+yt-2tHlHWgDRdQ,video,The reason you are not successful...,@AlexHormozi,https://www.youtube.com/watch?v=2tHlHWgDRdQ,2022-02-04,2026-07-08,L0-discovered,2,,views=103207
+yt-w5g0JiO7OdE,video,I paid 0% tax on 56% of my income...here's how..,@AlexHormozi,https://www.youtube.com/watch?v=w5g0JiO7OdE,2022-01-27,2026-07-08,L0-discovered,1,,views=576523
+yt-oi7bnS8uyJM,video,30 Minutes of sales training that will explode your business in 2022,@AlexHormozi,https://www.youtube.com/watch?v=oi7bnS8uyJM,2022-01-21,2026-07-08,L0-discovered,1,,views=1014343
 yt-okA9Yt2KZuk,video,"How I Scaled My Sales Team [Compensation, Recruiting & Training]",@AlexHormozi,https://www.youtube.com/watch?v=okA9Yt2KZuk,2022-01-19,2026-07-08,L2,1,business;wealth;mindset,L2; L3-CAND sales-team playbook (Taki Moore mastermind); credits Chiron/Martell/Ford
-yt-qxQIcDrre1E,video,Watch these 55 minutes if you want to be a millionaire in 2022..,@AlexHormozi,https://www.youtube.com/watch?v=qxQIcDrre1E,NA,2026-07-08,L0-discovered,2,,views=0
-yt-_8olk4-VFP8,video,7 figure CONFIDENTIAL meeting LEAKED - business growth STRATEGY exposed...,@AlexHormozi,https://www.youtube.com/watch?v=_8olk4-VFP8,NA,2026-07-08,L0-discovered,2,,views=0
-yt-eVY4Zo-hpqU,video,How I Put Out So Much Content Despite Being Part-Time,@AlexHormozi,https://www.youtube.com/watch?v=eVY4Zo-hpqU,NA,2026-07-08,L0-discovered,2,,views=0
-yt-oW6JkqL6sdM,video,A DOER's approach to PROCRASTINATION,@AlexHormozi,https://www.youtube.com/watch?v=oW6JkqL6sdM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-AH_R5cZNFFc,video,*REVEALED* Compensation plans that ACTUALLY WORK...,@AlexHormozi,https://www.youtube.com/watch?v=AH_R5cZNFFc,NA,2026-07-08,L0-discovered,2,,views=0
-yt-SbZFTPJ9KZU,video,The 4 RAREST skills on earth that make BILLIONAIRES...,@AlexHormozi,https://www.youtube.com/watch?v=SbZFTPJ9KZU,NA,2026-07-08,L0-discovered,2,,views=0
+yt-qxQIcDrre1E,video,Watch these 55 minutes if you want to be a millionaire in 2022..,@AlexHormozi,https://www.youtube.com/watch?v=qxQIcDrre1E,2021-12-31,2026-07-08,L0-discovered,1,,views=2357896
+yt-_8olk4-VFP8,video,7 figure CONFIDENTIAL meeting LEAKED - business growth STRATEGY exposed...,@AlexHormozi,https://www.youtube.com/watch?v=_8olk4-VFP8,2021-12-22,2026-07-08,L0-discovered,2,,views=34349
+yt-eVY4Zo-hpqU,video,How I Put Out So Much Content Despite Being Part-Time,@AlexHormozi,https://www.youtube.com/watch?v=eVY4Zo-hpqU,2021-12-20,2026-07-08,L0-discovered,2,,views=48816
+yt-oW6JkqL6sdM,video,A DOER's approach to PROCRASTINATION,@AlexHormozi,https://www.youtube.com/watch?v=oW6JkqL6sdM,2021-12-17,2026-07-08,L0-discovered,1,,views=490303
+yt-AH_R5cZNFFc,video,*REVEALED* Compensation plans that ACTUALLY WORK...,@AlexHormozi,https://www.youtube.com/watch?v=AH_R5cZNFFc,2021-12-15,2026-07-08,L0-discovered,2,,views=53095
+yt-SbZFTPJ9KZU,video,The 4 RAREST skills on earth that make BILLIONAIRES...,@AlexHormozi,https://www.youtube.com/watch?v=SbZFTPJ9KZU,2021-12-13,2026-07-08,L0-discovered,2,,views=107179
 yt-7YMjZgr7sHM,video,$100M CEO: 'How to make the HARD decisions that change your life',@AlexHormozi,https://www.youtube.com/watch?v=7YMjZgr7sHM,2021-12-10,2026-07-08,L2,1,mindset,L2; 4-step decision framework
 yt-o7R_K6LwKNk,video,$100M CEO: 'Why therapists failed me...' [language warning],@AlexHormozi,https://www.youtube.com/watch?v=o7R_K6LwKNk,2021-12-08,2026-07-08,L2,1,mindset,L2; L3-cand mindset (strip meaning); medical-disclaimer caveat
-yt-ahslH-8qoFY,video,The Truth About Retiring At Age 31,@AlexHormozi,https://www.youtube.com/watch?v=ahslH-8qoFY,NA,2026-07-08,L0-discovered,2,,views=0
-yt-gN--zZi3Nfc,video,Why entrepreneurs stay broke and sad [trigger warning],@AlexHormozi,https://www.youtube.com/watch?v=gN--zZi3Nfc,NA,2026-07-08,L0-discovered,2,,views=0
-yt-F3NyhOtRpOE,video,GROWTH LEVERS: Big Business Owner Explains Real World Tactics That Work,@AlexHormozi,https://www.youtube.com/watch?v=F3NyhOtRpOE,NA,2026-07-08,L0-discovered,2,,views=0
-yt-GDqmlwY_uj4,video,How I find MILLION DOLLAR opportunities...,@AlexHormozi,https://www.youtube.com/watch?v=GDqmlwY_uj4,NA,2026-07-08,L0-discovered,2,,views=0
-yt-52tcB5FopAg,video,How wealthy people avoid paying taxes..my new plan,@AlexHormozi,https://www.youtube.com/watch?v=52tcB5FopAg,NA,2026-07-08,L0-discovered,2,,views=0
-yt-cX7cCA3Be8A,video,The 4 Tiny Habits That Made Me The Most Money,@AlexHormozi,https://www.youtube.com/watch?v=cX7cCA3Be8A,NA,2026-07-08,L0-discovered,2,,views=0
-yt-sGHbp0Vr1dQ,video,Why I don't go home for the holidays,@AlexHormozi,https://www.youtube.com/watch?v=sGHbp0Vr1dQ,NA,2026-07-08,L0-discovered,2,,views=0
-yt-PArqypiHcyQ,video,IMPORTANT: How to get more sex and increase your revenue...(this works),@AlexHormozi,https://www.youtube.com/watch?v=PArqypiHcyQ,NA,2026-07-08,L0-discovered,2,,views=0
-yt-6ZEZWuVC8-8,video,Millionaire explains why time is NOT the most precious resource...,@AlexHormozi,https://www.youtube.com/watch?v=6ZEZWuVC8-8,NA,2026-07-08,L0-discovered,2,,views=0
-yt-Lxp-e5NionA,video,How I recruit the best employees in the world...,@AlexHormozi,https://www.youtube.com/watch?v=Lxp-e5NionA,NA,2026-07-08,L0-discovered,2,,views=0
-yt-EZLQzR-_83A,video,The first product you must sell in a new business...,@AlexHormozi,https://www.youtube.com/watch?v=EZLQzR-_83A,NA,2026-07-08,L0-discovered,2,,views=0
-yt-y3T4GqoH0Us,video,How I became #1 in a 'saturated' industry in my 20s...,@AlexHormozi,https://www.youtube.com/watch?v=y3T4GqoH0Us,NA,2026-07-08,L0-discovered,2,,views=0
-yt-ErWpi_91b70,video,Why daily routines make you poor & fragile [trigger warning],@AlexHormozi,https://www.youtube.com/watch?v=ErWpi_91b70,NA,2026-07-08,L0-discovered,2,,views=0
-yt-RsXcCjLtnsA,video,How I make friends with BILLIONAIRES [5 Steps],@AlexHormozi,https://www.youtube.com/watch?v=RsXcCjLtnsA,NA,2026-07-08,L0-discovered,2,,views=0
-yt-gZvW1Hghv6U,video,the brutal truth behind passive income,@AlexHormozi,https://www.youtube.com/watch?v=gZvW1Hghv6U,NA,2026-07-08,L0-discovered,2,,views=0
-yt-aOUK4DG0-kM,video,This first hire nearly bankrupt me...but was worth it..,@AlexHormozi,https://www.youtube.com/watch?v=aOUK4DG0-kM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-cGup9yYrOoc,video,"How I CRUSH copycats, thieves and competition.",@AlexHormozi,https://www.youtube.com/watch?v=cGup9yYrOoc,NA,2026-07-08,L0-discovered,2,,views=0
-yt-RpqSy5V1fFQ,video,My Unconventional Diet Explained in 15min,@AlexHormozi,https://www.youtube.com/watch?v=RpqSy5V1fFQ,NA,2026-07-08,L0-discovered,2,,views=0
+yt-ahslH-8qoFY,video,The Truth About Retiring At Age 31,@AlexHormozi,https://www.youtube.com/watch?v=ahslH-8qoFY,2021-12-06,2026-07-08,L0-discovered,2,,views=81136
+yt-gN--zZi3Nfc,video,Why entrepreneurs stay broke and sad [trigger warning],@AlexHormozi,https://www.youtube.com/watch?v=gN--zZi3Nfc,2021-12-03,2026-07-08,L0-discovered,2,,views=95966
+yt-F3NyhOtRpOE,video,GROWTH LEVERS: Big Business Owner Explains Real World Tactics That Work,@AlexHormozi,https://www.youtube.com/watch?v=F3NyhOtRpOE,2021-12-01,2026-07-08,L0-discovered,1,,views=247731
+yt-GDqmlwY_uj4,video,How I find MILLION DOLLAR opportunities...,@AlexHormozi,https://www.youtube.com/watch?v=GDqmlwY_uj4,2021-11-29,2026-07-08,L0-discovered,2,,views=48091
+yt-52tcB5FopAg,video,How wealthy people avoid paying taxes..my new plan,@AlexHormozi,https://www.youtube.com/watch?v=52tcB5FopAg,2021-11-26,2026-07-08,L0-discovered,2,,views=39855
+yt-cX7cCA3Be8A,video,The 4 Tiny Habits That Made Me The Most Money,@AlexHormozi,https://www.youtube.com/watch?v=cX7cCA3Be8A,2021-11-24,2026-07-08,L0-discovered,1,,views=225396
+yt-sGHbp0Vr1dQ,video,Why I don't go home for the holidays,@AlexHormozi,https://www.youtube.com/watch?v=sGHbp0Vr1dQ,2021-11-22,2026-07-08,L0-discovered,2,,views=130911
+yt-PArqypiHcyQ,video,IMPORTANT: How to get more sex and increase your revenue...(this works),@AlexHormozi,https://www.youtube.com/watch?v=PArqypiHcyQ,2021-11-19,2026-07-08,L0-discovered,2,,views=166309
+yt-6ZEZWuVC8-8,video,Millionaire explains why time is NOT the most precious resource...,@AlexHormozi,https://www.youtube.com/watch?v=6ZEZWuVC8-8,2021-11-17,2026-07-08,L0-discovered,1,,views=410565
+yt-Lxp-e5NionA,video,How I recruit the best employees in the world...,@AlexHormozi,https://www.youtube.com/watch?v=Lxp-e5NionA,2021-11-15,2026-07-08,L0-discovered,2,,views=41672
+yt-EZLQzR-_83A,video,The first product you must sell in a new business...,@AlexHormozi,https://www.youtube.com/watch?v=EZLQzR-_83A,2021-11-12,2026-07-08,L0-discovered,2,,views=159304
+yt-y3T4GqoH0Us,video,How I became #1 in a 'saturated' industry in my 20s...,@AlexHormozi,https://www.youtube.com/watch?v=y3T4GqoH0Us,2021-11-10,2026-07-08,L0-discovered,1,,views=231713
+yt-ErWpi_91b70,video,Why daily routines make you poor & fragile [trigger warning],@AlexHormozi,https://www.youtube.com/watch?v=ErWpi_91b70,2021-11-08,2026-07-08,L0-discovered,1,,views=937986
+yt-RsXcCjLtnsA,video,How I make friends with BILLIONAIRES [5 Steps],@AlexHormozi,https://www.youtube.com/watch?v=RsXcCjLtnsA,2021-11-05,2026-07-08,L0-discovered,2,,views=35572
+yt-gZvW1Hghv6U,video,the brutal truth behind passive income,@AlexHormozi,https://www.youtube.com/watch?v=gZvW1Hghv6U,2021-11-03,2026-07-08,L0-discovered,2,,views=41006
+yt-aOUK4DG0-kM,video,This first hire nearly bankrupt me...but was worth it..,@AlexHormozi,https://www.youtube.com/watch?v=aOUK4DG0-kM,2021-11-01,2026-07-08,L0-discovered,2,,views=48195
+yt-cGup9yYrOoc,video,"How I CRUSH copycats, thieves and competition.",@AlexHormozi,https://www.youtube.com/watch?v=cGup9yYrOoc,2021-10-29,2026-07-08,L0-discovered,2,,views=72998
+yt-RpqSy5V1fFQ,video,My Unconventional Diet Explained in 15min,@AlexHormozi,https://www.youtube.com/watch?v=RpqSy5V1fFQ,2021-10-27,2026-07-08,L0-discovered,1,,views=686852
 yt-neTSqOAMgao,video,Explaining How Anyone Can Make $100M® Offers,@AlexHormozi,https://www.youtube.com/watch?v=neTSqOAMgao,2021-10-25,2026-07-08,L2,1,business;marketing;mindset,L2; L3-cand canonical Offers explainer; NOTE hosted interview (host Dan); contradiction 126k-vs-42k backend
-yt-QtE6kk0158o,video,Every business is limited by the constraint. Here's how to find it.,@AlexHormozi,https://www.youtube.com/watch?v=QtE6kk0158o,NA,2026-07-08,L0-discovered,2,,views=0
+yt-QtE6kk0158o,video,Every business is limited by the constraint. Here's how to find it.,@AlexHormozi,https://www.youtube.com/watch?v=QtE6kk0158o,2021-10-22,2026-07-08,L0-discovered,2,,views=23121
 yt-MA-5y9s80Qs,video,The SIMPLE FORMULA that has DESTROYED BILLION DOLLAR BUSINESSES,@AlexHormozi,https://www.youtube.com/watch?v=MA-5y9s80Qs,2021-10-20,2026-07-08,L2,1,business;marketing,L2; customer-surplus / word-of-mouth model
-yt-O1As2zxy0es,video,The Only 4 Ways To Scale A Service Business (PICK ONE),@AlexHormozi,https://www.youtube.com/watch?v=O1As2zxy0es,NA,2026-07-08,L0-discovered,2,,views=0
-yt-E732S9fteRc,video,5 Things that BILLIONAIRES think about that MILLIONAIRES don't...,@AlexHormozi,https://www.youtube.com/watch?v=E732S9fteRc,NA,2026-07-08,L0-discovered,2,,views=0
-yt-ebrcIErJi10,video,Why PRETENDING to be RICH will make you POOR..,@AlexHormozi,https://www.youtube.com/watch?v=ebrcIErJi10,NA,2026-07-08,L0-discovered,2,,views=0
-yt-DpbXWP8fLbc,video,How to get unlimited funding to build your business in 30 days...,@AlexHormozi,https://www.youtube.com/watch?v=DpbXWP8fLbc,NA,2026-07-08,L0-discovered,2,,views=0
-yt-3P1XjUvo1b4,video,I cracked Starbucks RECURRING SALES model and built a FORTUNE...,@AlexHormozi,https://www.youtube.com/watch?v=3P1XjUvo1b4,NA,2026-07-08,L0-discovered,2,,views=0
-yt-JbxxxVXzHEg,video,5 UNTAPPED Industries that could make you a BILLIONAIRE,@AlexHormozi,https://www.youtube.com/watch?v=JbxxxVXzHEg,NA,2026-07-08,L0-discovered,2,,views=0
-yt-BZQtuK-ucDM,video,NEVER lower your prices...,@AlexHormozi,https://www.youtube.com/watch?v=BZQtuK-ucDM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-f_ceDZqhKbw,video,'My business has stopped growing..what should I do?',@AlexHormozi,https://www.youtube.com/watch?v=f_ceDZqhKbw,NA,2026-07-08,L0-discovered,2,,views=0
-yt-a0hUVFYzv3k,video,LEAKED: Street millionaire employee training...how he REALLY got rich..,@AlexHormozi,https://www.youtube.com/watch?v=a0hUVFYzv3k,NA,2026-07-08,L0-discovered,2,,views=0
-yt-m-7VjocC76M,video,How To Make BUCKETS of Money In SERVICE Businesses,@AlexHormozi,https://www.youtube.com/watch?v=m-7VjocC76M,NA,2026-07-08,L0-discovered,2,,views=0
-yt-gxKxeie5JFo,video,"Hard Money Lending EXPLAINED [I lent $3,000,000 using this]",@AlexHormozi,https://www.youtube.com/watch?v=gxKxeie5JFo,NA,2026-07-08,L0-discovered,2,,views=0
-yt-ThSFgC_4NVA,video,How to sell a product - The most PURSUASIVE tactic you can use...,@AlexHormozi,https://www.youtube.com/watch?v=ThSFgC_4NVA,NA,2026-07-08,L0-discovered,2,,views=0
+yt-O1As2zxy0es,video,The Only 4 Ways To Scale A Service Business (PICK ONE),@AlexHormozi,https://www.youtube.com/watch?v=O1As2zxy0es,2021-10-18,2026-07-08,L0-discovered,1,,views=591496
+yt-E732S9fteRc,video,5 Things that BILLIONAIRES think about that MILLIONAIRES don't...,@AlexHormozi,https://www.youtube.com/watch?v=E732S9fteRc,2021-10-15,2026-07-08,L0-discovered,2,,views=76488
+yt-ebrcIErJi10,video,Why PRETENDING to be RICH will make you POOR..,@AlexHormozi,https://www.youtube.com/watch?v=ebrcIErJi10,2021-10-13,2026-07-08,L0-discovered,2,,views=38702
+yt-DpbXWP8fLbc,video,How to get unlimited funding to build your business in 30 days...,@AlexHormozi,https://www.youtube.com/watch?v=DpbXWP8fLbc,2021-10-11,2026-07-08,L0-discovered,1,,views=604377
+yt-3P1XjUvo1b4,video,I cracked Starbucks RECURRING SALES model and built a FORTUNE...,@AlexHormozi,https://www.youtube.com/watch?v=3P1XjUvo1b4,2021-10-08,2026-07-08,L0-discovered,1,,views=428952
+yt-JbxxxVXzHEg,video,5 UNTAPPED Industries that could make you a BILLIONAIRE,@AlexHormozi,https://www.youtube.com/watch?v=JbxxxVXzHEg,2021-10-06,2026-07-08,L0-discovered,2,,views=70473
+yt-BZQtuK-ucDM,video,NEVER lower your prices...,@AlexHormozi,https://www.youtube.com/watch?v=BZQtuK-ucDM,2021-10-04,2026-07-08,L0-discovered,2,,views=121125
+yt-f_ceDZqhKbw,video,'My business has stopped growing..what should I do?',@AlexHormozi,https://www.youtube.com/watch?v=f_ceDZqhKbw,2021-10-01,2026-07-08,L0-discovered,2,,views=37063
+yt-a0hUVFYzv3k,video,LEAKED: Street millionaire employee training...how he REALLY got rich..,@AlexHormozi,https://www.youtube.com/watch?v=a0hUVFYzv3k,2021-09-29,2026-07-08,L0-discovered,2,,views=167694
+yt-m-7VjocC76M,video,How To Make BUCKETS of Money In SERVICE Businesses,@AlexHormozi,https://www.youtube.com/watch?v=m-7VjocC76M,2021-09-24,2026-07-08,L0-discovered,1,,views=670351
+yt-gxKxeie5JFo,video,"Hard Money Lending EXPLAINED [I lent $3,000,000 using this]",@AlexHormozi,https://www.youtube.com/watch?v=gxKxeie5JFo,2021-09-22,2026-07-08,L0-discovered,2,,views=37096
+yt-ThSFgC_4NVA,video,How to sell a product - The most PURSUASIVE tactic you can use...,@AlexHormozi,https://www.youtube.com/watch?v=ThSFgC_4NVA,2021-09-20,2026-07-08,L0-discovered,1,,views=235765
 yt-Xb9ZOA6zypU,video,My 7 year journey to making my first million.,@AlexHormozi,https://www.youtube.com/watch?v=Xb9ZOA6zypU,2021-09-17,2026-07-08,L2,1,business;mindset;wealth,"L2; L3-CAND strong origin story (DUI, 1k rock bottom, first million), bio-rich"
-yt-sEQNnsaeiAs,video,I STARTED AND SOLD 6 BUSINESSES BY AGE 32...my boring formula..,@AlexHormozi,https://www.youtube.com/watch?v=sEQNnsaeiAs,NA,2026-07-08,L0-discovered,2,,views=0
-yt-uRhArskhqms,video,"Entrepreneurs, your lack of focus is killing your business.",@AlexHormozi,https://www.youtube.com/watch?v=uRhArskhqms,NA,2026-07-08,L0-discovered,2,,views=0
-yt-jOM0m34dxz4,video,Netflix's Recurring Revenue Tactics Can Scale Any Business,@AlexHormozi,https://www.youtube.com/watch?v=jOM0m34dxz4,NA,2026-07-08,L0-discovered,2,,views=0
-yt-TNQyFxVbkBs,video,How MILLIONAIRES become BILLIONAIRES...,@AlexHormozi,https://www.youtube.com/watch?v=TNQyFxVbkBs,NA,2026-07-08,L0-discovered,2,,views=0
-yt--fV1MZe2vzs,video,A BILLIONAIRE taught me how to think like a BILLIONAIRE..,@AlexHormozi,https://www.youtube.com/watch?v=-fV1MZe2vzs,NA,2026-07-08,L0-discovered,2,,views=0
-yt-s59jbVBprn0,video,"Entrepreneurs, stop starting new businesses. Fix the one you've got.",@AlexHormozi,https://www.youtube.com/watch?v=s59jbVBprn0,NA,2026-07-08,L0-discovered,2,,views=0
-yt-bxs5pN0ZnRw,video,This is my plan to become a BILLIONAIRE.,@AlexHormozi,https://www.youtube.com/watch?v=bxs5pN0ZnRw,NA,2026-07-08,L0-discovered,2,,views=0
-yt-8GRfCTu9Lsg,video,Brutally Honest Business Lessons I Learned from My Wife,@AlexHormozi,https://www.youtube.com/watch?v=8GRfCTu9Lsg,NA,2026-07-08,L0-discovered,2,,views=0
-yt-R9gHvJxHRhA,video,We're giving away all our money.,@AlexHormozi,https://www.youtube.com/watch?v=R9gHvJxHRhA,NA,2026-07-08,L0-discovered,2,,views=0
-yt-zh0bklzwI3g,video,How to Pick the Right Mentor,@AlexHormozi,https://www.youtube.com/watch?v=zh0bklzwI3g,NA,2026-07-08,L0-discovered,2,,views=0
-yt-RzswhUHnTHA,video,"I spent $2,000,000 and it didn't make me happy..",@AlexHormozi,https://www.youtube.com/watch?v=RzswhUHnTHA,NA,2026-07-08,L0-discovered,2,,views=0
+yt-sEQNnsaeiAs,video,I STARTED AND SOLD 6 BUSINESSES BY AGE 32...my boring formula..,@AlexHormozi,https://www.youtube.com/watch?v=sEQNnsaeiAs,2021-09-15,2026-07-08,L0-discovered,2,,views=66465
+yt-uRhArskhqms,video,"Entrepreneurs, your lack of focus is killing your business.",@AlexHormozi,https://www.youtube.com/watch?v=uRhArskhqms,2021-09-13,2026-07-08,L0-discovered,2,,views=89976
+yt-jOM0m34dxz4,video,Netflix's Recurring Revenue Tactics Can Scale Any Business,@AlexHormozi,https://www.youtube.com/watch?v=jOM0m34dxz4,2021-09-10,2026-07-08,L0-discovered,2,,views=108887
+yt-TNQyFxVbkBs,video,How MILLIONAIRES become BILLIONAIRES...,@AlexHormozi,https://www.youtube.com/watch?v=TNQyFxVbkBs,2021-09-08,2026-07-08,L0-discovered,2,,views=35700
+yt--fV1MZe2vzs,video,A BILLIONAIRE taught me how to think like a BILLIONAIRE..,@AlexHormozi,https://www.youtube.com/watch?v=-fV1MZe2vzs,2021-09-06,2026-07-08,L0-discovered,2,,views=60001
+yt-s59jbVBprn0,video,"Entrepreneurs, stop starting new businesses. Fix the one you've got.",@AlexHormozi,https://www.youtube.com/watch?v=s59jbVBprn0,2021-09-03,2026-07-08,L0-discovered,2,,views=50191
+yt-bxs5pN0ZnRw,video,This is my plan to become a BILLIONAIRE.,@AlexHormozi,https://www.youtube.com/watch?v=bxs5pN0ZnRw,2021-09-02,2026-07-08,L0-discovered,2,,views=88405
+yt-8GRfCTu9Lsg,video,Brutally Honest Business Lessons I Learned from My Wife,@AlexHormozi,https://www.youtube.com/watch?v=8GRfCTu9Lsg,2021-09-01,2026-07-08,L0-discovered,2,,views=103520
+yt-R9gHvJxHRhA,video,We're giving away all our money.,@AlexHormozi,https://www.youtube.com/watch?v=R9gHvJxHRhA,2021-08-30,2026-07-08,L0-discovered,2,,views=19294
+yt-zh0bklzwI3g,video,How to Pick the Right Mentor,@AlexHormozi,https://www.youtube.com/watch?v=zh0bklzwI3g,2021-08-27,2026-07-08,L0-discovered,2,,views=42991
+yt-RzswhUHnTHA,video,"I spent $2,000,000 and it didn't make me happy..",@AlexHormozi,https://www.youtube.com/watch?v=RzswhUHnTHA,2021-08-25,2026-07-08,L0-discovered,2,,views=40456
 yt-_qspvJAq34M,video,"How I got 700 people to pay me $40,000 each...no bs..",@AlexHormozi,https://www.youtube.com/watch?v=_qspvJAq34M,2021-08-23,2026-07-08,L2,1,business;marketing,L2; L3-CAND canonical Value Equation + Gym Launch bio
-yt-FKWEybUIda4,video,I quit advertising..this is why,@AlexHormozi,https://www.youtube.com/watch?v=FKWEybUIda4,NA,2026-07-08,L0-discovered,2,,views=0
-yt-EdUAAVKl_io,video,I Built a Business That Runs Without Me,@AlexHormozi,https://www.youtube.com/watch?v=EdUAAVKl_io,NA,2026-07-08,L0-discovered,2,,views=0
-yt-MLkFOaxIdxM,video,The Biggest Mistake Everyone is Making,@AlexHormozi,https://www.youtube.com/watch?v=MLkFOaxIdxM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-4vLgOX1Ykjg,video,I told myself I was wealthy until it came true.,@AlexHormozi,https://www.youtube.com/watch?v=4vLgOX1Ykjg,NA,2026-07-08,L0-discovered,2,,views=0
-yt-OmDv6-651SM,video,My SIMPLE voice tweak that EXPLODED OUR REVENUE...,@AlexHormozi,https://www.youtube.com/watch?v=OmDv6-651SM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-kULFeI3LRYk,video,"I SPENT $100,000 on courses, so you don't have to...",@AlexHormozi,https://www.youtube.com/watch?v=kULFeI3LRYk,NA,2026-07-08,L0-discovered,2,,views=0
-yt-s3tH9Sz1fEc,video,I stepped down as CEO...and created a PASSIVE INCOME machine..,@AlexHormozi,https://www.youtube.com/watch?v=s3tH9Sz1fEc,NA,2026-07-08,L0-discovered,2,,views=0
-yt-aO56wn5sBSA,video,A BILLIONAIRE told me how to invest my money...this is my plan..,@AlexHormozi,https://www.youtube.com/watch?v=aO56wn5sBSA,NA,2026-07-08,L0-discovered,2,,views=0
+yt-FKWEybUIda4,video,I quit advertising..this is why,@AlexHormozi,https://www.youtube.com/watch?v=FKWEybUIda4,2021-08-20,2026-07-08,L0-discovered,2,,views=104611
+yt-EdUAAVKl_io,video,I Built a Business That Runs Without Me,@AlexHormozi,https://www.youtube.com/watch?v=EdUAAVKl_io,2021-08-18,2026-07-08,L0-discovered,2,,views=38417
+yt-MLkFOaxIdxM,video,The Biggest Mistake Everyone is Making,@AlexHormozi,https://www.youtube.com/watch?v=MLkFOaxIdxM,2021-08-16,2026-07-08,L0-discovered,2,,views=45601
+yt-4vLgOX1Ykjg,video,I told myself I was wealthy until it came true.,@AlexHormozi,https://www.youtube.com/watch?v=4vLgOX1Ykjg,2021-08-13,2026-07-08,L0-discovered,1,,views=353788
+yt-OmDv6-651SM,video,My SIMPLE voice tweak that EXPLODED OUR REVENUE...,@AlexHormozi,https://www.youtube.com/watch?v=OmDv6-651SM,2021-08-11,2026-07-08,L0-discovered,2,,views=174267
+yt-kULFeI3LRYk,video,"I SPENT $100,000 on courses, so you don't have to...",@AlexHormozi,https://www.youtube.com/watch?v=kULFeI3LRYk,2021-08-09,2026-07-08,L0-discovered,1,,views=300193
+yt-s3tH9Sz1fEc,video,I stepped down as CEO...and created a PASSIVE INCOME machine..,@AlexHormozi,https://www.youtube.com/watch?v=s3tH9Sz1fEc,2021-08-06,2026-07-08,L0-discovered,2,,views=32844
+yt-aO56wn5sBSA,video,A BILLIONAIRE told me how to invest my money...this is my plan..,@AlexHormozi,https://www.youtube.com/watch?v=aO56wn5sBSA,2021-08-04,2026-07-08,L0-discovered,1,,views=340944
 yt-ug5N9qmFVKQ,video,How I'm building a BILLION DOLLAR empire working 2-3 days per week..,@AlexHormozi,https://www.youtube.com/watch?v=ug5N9qmFVKQ,2021-08-02,2026-07-08,L2,1,business;mindset;wealth,L2; L3-cand leverage/holding-co; early Acquisition.com vision
-yt-K3cSPJDlcVc,video,Entrepreneurs Get Stuck For 3 Reasons,@AlexHormozi,https://www.youtube.com/watch?v=K3cSPJDlcVc,NA,2026-07-08,L0-discovered,2,,views=0
-yt-Ikm8tTuA10Q,video,Why you should NEVER  listen to your parents at any age...,@AlexHormozi,https://www.youtube.com/watch?v=Ikm8tTuA10Q,NA,2026-07-08,L0-discovered,2,,views=0
-yt-rX5zKeQu7ow,video,We fired everyone who was late...this is why..,@AlexHormozi,https://www.youtube.com/watch?v=rX5zKeQu7ow,NA,2026-07-08,L0-discovered,2,,views=0
-yt-sSEm3qJUh9s,video,POOR & WEAK? WATCH THIS!,@AlexHormozi,https://www.youtube.com/watch?v=sSEm3qJUh9s,NA,2026-07-08,L0-discovered,2,,views=0
-yt-AM_-lnyY70M,video,How the rich avoid paying taxes - the Augusta Rule LOOPHOLE,@AlexHormozi,https://www.youtube.com/watch?v=AM_-lnyY70M,NA,2026-07-08,L0-discovered,2,,views=0
-yt-Gy-RmpRif-I,video,How To Raise Your Prices [plus the letter I actually sent to customers],@AlexHormozi,https://www.youtube.com/watch?v=Gy-RmpRif-I,NA,2026-07-08,L0-discovered,2,,views=0
-yt-A4L3byKcYQg,video,Scaling Business Explained With One Formula,@AlexHormozi,https://www.youtube.com/watch?v=A4L3byKcYQg,NA,2026-07-08,L0-discovered,2,,views=0
-yt-PxpPynt1mis,video,Here's Why I Always Give Away a % of My Business,@AlexHormozi,https://www.youtube.com/watch?v=PxpPynt1mis,NA,2026-07-08,L0-discovered,2,,views=0
-yt-Gh9zWsP8JpI,video,How To Upsell More Customers By Reversing Your Pricing,@AlexHormozi,https://www.youtube.com/watch?v=Gh9zWsP8JpI,NA,2026-07-08,L0-discovered,2,,views=0
-yt-V7oUcAfof34,video,I OWN 6 multimillion dollar companies...this is how I do it...,@AlexHormozi,https://www.youtube.com/watch?v=V7oUcAfof34,NA,2026-07-08,L0-discovered,2,,views=0
+yt-K3cSPJDlcVc,video,Entrepreneurs Get Stuck For 3 Reasons,@AlexHormozi,https://www.youtube.com/watch?v=K3cSPJDlcVc,2021-07-30,2026-07-08,L0-discovered,2,,views=54129
+yt-Ikm8tTuA10Q,video,Why you should NEVER  listen to your parents at any age...,@AlexHormozi,https://www.youtube.com/watch?v=Ikm8tTuA10Q,2021-07-28,2026-07-08,L0-discovered,2,,views=135849
+yt-rX5zKeQu7ow,video,We fired everyone who was late...this is why..,@AlexHormozi,https://www.youtube.com/watch?v=rX5zKeQu7ow,2021-07-26,2026-07-08,L0-discovered,1,,views=222175
+yt-sSEm3qJUh9s,video,POOR & WEAK? WATCH THIS!,@AlexHormozi,https://www.youtube.com/watch?v=sSEm3qJUh9s,2021-07-23,2026-07-08,L0-discovered,2,,views=179698
+yt-AM_-lnyY70M,video,How the rich avoid paying taxes - the Augusta Rule LOOPHOLE,@AlexHormozi,https://www.youtube.com/watch?v=AM_-lnyY70M,2021-07-21,2026-07-08,L0-discovered,2,,views=36899
+yt-Gy-RmpRif-I,video,How To Raise Your Prices [plus the letter I actually sent to customers],@AlexHormozi,https://www.youtube.com/watch?v=Gy-RmpRif-I,2021-07-19,2026-07-08,L0-discovered,2,,views=24564
+yt-A4L3byKcYQg,video,Scaling Business Explained With One Formula,@AlexHormozi,https://www.youtube.com/watch?v=A4L3byKcYQg,2021-07-16,2026-07-08,L0-discovered,2,,views=30319
+yt-PxpPynt1mis,video,Here's Why I Always Give Away a % of My Business,@AlexHormozi,https://www.youtube.com/watch?v=PxpPynt1mis,2021-07-14,2026-07-08,L0-discovered,2,,views=37049
+yt-Gh9zWsP8JpI,video,How To Upsell More Customers By Reversing Your Pricing,@AlexHormozi,https://www.youtube.com/watch?v=Gh9zWsP8JpI,2021-07-12,2026-07-08,L0-discovered,2,,views=60242
+yt-V7oUcAfof34,video,I OWN 6 multimillion dollar companies...this is how I do it...,@AlexHormozi,https://www.youtube.com/watch?v=V7oUcAfof34,2021-07-09,2026-07-08,L0-discovered,2,,views=32524
 yt-_x6n-CmZqjo,video,A BILLIONAIRE told me how to make BILLION DOLLARS...here's my plan...,@AlexHormozi,https://www.youtube.com/watch?v=_x6n-CmZqjo,2021-07-07,2026-07-08,L2,1,business;wealth;mindset,L2; L3-cand billionaire advice (ATTRIB keep out of beliefs)
-yt-lIC8fYbrkII,video,How To Scale Yourself: The What-Why-How Framework,@AlexHormozi,https://www.youtube.com/watch?v=lIC8fYbrkII,NA,2026-07-08,L0-discovered,2,,views=0
-yt-bkPwFqa89gE,video,Unconventional Productivity Habits That Made Me Successful,@AlexHormozi,https://www.youtube.com/watch?v=bkPwFqa89gE,NA,2026-07-08,L0-discovered,2,,views=0
-yt-GO6VCcLlnLs,video,How I RAISE PRICES without losing sales...(using this psychological trick),@AlexHormozi,https://www.youtube.com/watch?v=GO6VCcLlnLs,NA,2026-07-08,L0-discovered,2,,views=0
-yt-oLsWhSRypzM,video,Never start a business until you hear this..(3 THINGS THAT MAY CHANGE YOUR MIND),@AlexHormozi,https://www.youtube.com/watch?v=oLsWhSRypzM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-al_WXFDbN8I,video,How gurus lie about how much MONEY they make...I'm calling it out..,@AlexHormozi,https://www.youtube.com/watch?v=al_WXFDbN8I,NA,2026-07-08,L0-discovered,2,,views=0
-yt-42SOlVhDwWE,video,1 SIMPLE mental technique that will SKYROCKET your sales...,@AlexHormozi,https://www.youtube.com/watch?v=42SOlVhDwWE,NA,2026-07-08,L0-discovered,2,,views=0
-yt-CRMT2yubBxc,video,The best way to invest your money...nobody will tell you this.,@AlexHormozi,https://www.youtube.com/watch?v=CRMT2yubBxc,NA,2026-07-08,L0-discovered,2,,views=0
-yt-YhxiVIQp_ws,video,How the rich avoid paying taxes...MY strategy - Part 1,@AlexHormozi,https://www.youtube.com/watch?v=YhxiVIQp_ws,NA,2026-07-08,L0-discovered,2,,views=0
-yt-iFhiK5zORGk,video,How To Charge Exorbitant Prices,@AlexHormozi,https://www.youtube.com/watch?v=iFhiK5zORGk,NA,2026-07-08,L0-discovered,2,,views=0
-yt-BnvkMpUu-7c,video,My 4-Part Invesing Model (with real example),@AlexHormozi,https://www.youtube.com/watch?v=BnvkMpUu-7c,NA,2026-07-08,L0-discovered,2,,views=0
-yt-ZfaZYFx89UU,video,The 4 Ways Fortunes Are Made (and how I stumbled into one),@AlexHormozi,https://www.youtube.com/watch?v=ZfaZYFx89UU,NA,2026-07-08,L0-discovered,2,,views=0
-yt-DAm0EOes5to,video,What I Learned After Countless Failed Business Partnerships,@AlexHormozi,https://www.youtube.com/watch?v=DAm0EOes5to,NA,2026-07-08,L0-discovered,2,,views=0
-yt-9xFtox66U28,video,When Money Stopped Mattering,@AlexHormozi,https://www.youtube.com/watch?v=9xFtox66U28,NA,2026-07-08,L0-discovered,2,,views=0
-yt-d0dBZbd13jM,video,9 Money Beliefs of the Ultra Wealthy,@AlexHormozi,https://www.youtube.com/watch?v=d0dBZbd13jM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-q32-l3Yoqg4,video,I Taught 116+ Salesmen My Closing Framework,@AlexHormozi,https://www.youtube.com/watch?v=q32-l3Yoqg4,NA,2026-07-08,L0-discovered,2,,views=0
-yt-gpKz22P84iM,video,The Talent Grid - How I Recognize Skill in Self & Team,@AlexHormozi,https://www.youtube.com/watch?v=gpKz22P84iM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-7C-P-ctmhuU,video,4 Perspective Shifts That Keep Me Going,@AlexHormozi,https://www.youtube.com/watch?v=7C-P-ctmhuU,NA,2026-07-08,L0-discovered,2,,views=0
-yt-t7o8dtUWPQg,video,Millionaire Reveals “7 Things I Wish They Taught In School”,@AlexHormozi,https://www.youtube.com/watch?v=t7o8dtUWPQg,NA,2026-07-08,L0-discovered,2,,views=0
-yt-noO8ERpgMr4,video,“The 3 Evil Es” That Almost Killed My Business,@AlexHormozi,https://www.youtube.com/watch?v=noO8ERpgMr4,NA,2026-07-08,L0-discovered,2,,views=0
-yt-R7JOslrt51o,video,This is why I was Poor,@AlexHormozi,https://www.youtube.com/watch?v=R7JOslrt51o,NA,2026-07-08,L0-discovered,2,,views=0
+yt-lIC8fYbrkII,video,How To Scale Yourself: The What-Why-How Framework,@AlexHormozi,https://www.youtube.com/watch?v=lIC8fYbrkII,2021-07-05,2026-07-08,L0-discovered,2,,views=33321
+yt-bkPwFqa89gE,video,Unconventional Productivity Habits That Made Me Successful,@AlexHormozi,https://www.youtube.com/watch?v=bkPwFqa89gE,2021-07-02,2026-07-08,L0-discovered,1,,views=508677
+yt-GO6VCcLlnLs,video,How I RAISE PRICES without losing sales...(using this psychological trick),@AlexHormozi,https://www.youtube.com/watch?v=GO6VCcLlnLs,2021-06-30,2026-07-08,L0-discovered,2,,views=160345
+yt-oLsWhSRypzM,video,Never start a business until you hear this..(3 THINGS THAT MAY CHANGE YOUR MIND),@AlexHormozi,https://www.youtube.com/watch?v=oLsWhSRypzM,2021-06-28,2026-07-08,L0-discovered,1,,views=309407
+yt-al_WXFDbN8I,video,How gurus lie about how much MONEY they make...I'm calling it out..,@AlexHormozi,https://www.youtube.com/watch?v=al_WXFDbN8I,2021-06-25,2026-07-08,L0-discovered,2,,views=21502
+yt-42SOlVhDwWE,video,1 SIMPLE mental technique that will SKYROCKET your sales...,@AlexHormozi,https://www.youtube.com/watch?v=42SOlVhDwWE,2021-06-23,2026-07-08,L0-discovered,1,,views=221960
+yt-CRMT2yubBxc,video,The best way to invest your money...nobody will tell you this.,@AlexHormozi,https://www.youtube.com/watch?v=CRMT2yubBxc,2021-06-21,2026-07-08,L0-discovered,2,,views=143946
+yt-YhxiVIQp_ws,video,How the rich avoid paying taxes...MY strategy - Part 1,@AlexHormozi,https://www.youtube.com/watch?v=YhxiVIQp_ws,2021-06-18,2026-07-08,L0-discovered,2,,views=69072
+yt-iFhiK5zORGk,video,How To Charge Exorbitant Prices,@AlexHormozi,https://www.youtube.com/watch?v=iFhiK5zORGk,2021-06-16,2026-07-08,L0-discovered,2,,views=18361
+yt-BnvkMpUu-7c,video,My 4-Part Invesing Model (with real example),@AlexHormozi,https://www.youtube.com/watch?v=BnvkMpUu-7c,2021-06-14,2026-07-08,L0-discovered,2,,views=44654
+yt-ZfaZYFx89UU,video,The 4 Ways Fortunes Are Made (and how I stumbled into one),@AlexHormozi,https://www.youtube.com/watch?v=ZfaZYFx89UU,2021-06-11,2026-07-08,L0-discovered,2,,views=112488
+yt-DAm0EOes5to,video,What I Learned After Countless Failed Business Partnerships,@AlexHormozi,https://www.youtube.com/watch?v=DAm0EOes5to,2021-06-09,2026-07-08,L0-discovered,2,,views=29039
+yt-9xFtox66U28,video,When Money Stopped Mattering,@AlexHormozi,https://www.youtube.com/watch?v=9xFtox66U28,2021-06-07,2026-07-08,L0-discovered,2,,views=8049
+yt-d0dBZbd13jM,video,9 Money Beliefs of the Ultra Wealthy,@AlexHormozi,https://www.youtube.com/watch?v=d0dBZbd13jM,2021-06-04,2026-07-08,L0-discovered,2,,views=107931
+yt-q32-l3Yoqg4,video,I Taught 116+ Salesmen My Closing Framework,@AlexHormozi,https://www.youtube.com/watch?v=q32-l3Yoqg4,2021-06-02,2026-07-08,L0-discovered,1,,views=504703
+yt-gpKz22P84iM,video,The Talent Grid - How I Recognize Skill in Self & Team,@AlexHormozi,https://www.youtube.com/watch?v=gpKz22P84iM,2021-05-31,2026-07-08,L0-discovered,2,,views=32695
+yt-7C-P-ctmhuU,video,4 Perspective Shifts That Keep Me Going,@AlexHormozi,https://www.youtube.com/watch?v=7C-P-ctmhuU,2021-05-28,2026-07-08,L0-discovered,2,,views=52903
+yt-t7o8dtUWPQg,video,Millionaire Reveals “7 Things I Wish They Taught In School”,@AlexHormozi,https://www.youtube.com/watch?v=t7o8dtUWPQg,2021-05-26,2026-07-08,L0-discovered,2,,views=147498
+yt-noO8ERpgMr4,video,“The 3 Evil Es” That Almost Killed My Business,@AlexHormozi,https://www.youtube.com/watch?v=noO8ERpgMr4,2021-05-24,2026-07-08,L0-discovered,2,,views=9768
+yt-R7JOslrt51o,video,This is why I was Poor,@AlexHormozi,https://www.youtube.com/watch?v=R7JOslrt51o,2021-05-21,2026-07-08,L0-discovered,1,,views=194779
 yt-c5Lw12PXkgU,video,"How I Lost $217,000 on A Day Trade & How I Trade Now",@AlexHormozi,https://www.youtube.com/watch?v=c5Lw12PXkgU,2021-05-19,2026-07-08,L2,1,wealth,"L2; L3-cand investing philo (buy-hold, tax drag) + 217k trade-loss bio"
-yt-t9Vv7rK-4Jc,video,I Broke Down Every High Margin Service Into 6 Buckets [Delivery Cube],@AlexHormozi,https://www.youtube.com/watch?v=t9Vv7rK-4Jc,NA,2026-07-08,L0-discovered,2,,views=0
-yt-C_SgvSvJZdk,video,The 8 Laws of Business I Learned From Charlie Munger,@AlexHormozi,https://www.youtube.com/watch?v=C_SgvSvJZdk,NA,2026-07-08,L0-discovered,2,,views=0
-yt-vKnAWYqMJ10,video,"I Spent $312,900 Living Like The 1% (Here's What I Learned)",@AlexHormozi,https://www.youtube.com/watch?v=vKnAWYqMJ10,NA,2026-07-08,L0-discovered,2,,views=0
-yt-9Dc2UQbQNTo,video,3 Landing Page Tests To Skyrocket Conversions & Optins,@AlexHormozi,https://www.youtube.com/watch?v=9Dc2UQbQNTo,NA,2026-07-08,L0-discovered,2,,views=0
-yt-awOQDy_o9ww,video,How to buyback your time as a business owner,@AlexHormozi,https://www.youtube.com/watch?v=awOQDy_o9ww,NA,2026-07-08,L0-discovered,2,,views=0
-yt-EPEjYEihZ1s,video,Warren Buffett’s #1 Rule for Business Owners,@AlexHormozi,https://www.youtube.com/watch?v=EPEjYEihZ1s,NA,2026-07-08,L0-discovered,2,,views=0
-yt-ZZZNsDs2G_s,video,Wealth Principle #1: Get Paid First,@AlexHormozi,https://www.youtube.com/watch?v=ZZZNsDs2G_s,NA,2026-07-08,L0-discovered,2,,views=0
-yt--is6Z2T2h8o,video,All Entrepreneurs Have Only 1 Problem...,@AlexHormozi,https://www.youtube.com/watch?v=-is6Z2T2h8o,NA,2026-07-08,L0-discovered,2,,views=0
-yt-Tw6kJkVcTL0,video,"1 SKILL That Is HARD To Learn, BUT Will Pay Off FOREVER",@AlexHormozi,https://www.youtube.com/watch?v=Tw6kJkVcTL0,NA,2026-07-08,L0-discovered,2,,views=0
-yt-ETEFhDICm5o,video,Close High-Ticket Sales By Saying 'NO',@AlexHormozi,https://www.youtube.com/watch?v=ETEFhDICm5o,NA,2026-07-08,L0-discovered,2,,views=0
-yt-Q2VUuUGfpNY,video,6 Hacks To Make More Money [Increase LTV] Without More Customers,@AlexHormozi,https://www.youtube.com/watch?v=Q2VUuUGfpNY,NA,2026-07-08,L0-discovered,2,,views=0
+yt-t9Vv7rK-4Jc,video,I Broke Down Every High Margin Service Into 6 Buckets [Delivery Cube],@AlexHormozi,https://www.youtube.com/watch?v=t9Vv7rK-4Jc,2021-05-17,2026-07-08,L0-discovered,2,,views=25157
+yt-C_SgvSvJZdk,video,The 8 Laws of Business I Learned From Charlie Munger,@AlexHormozi,https://www.youtube.com/watch?v=C_SgvSvJZdk,2021-05-14,2026-07-08,L0-discovered,1,,views=229127
+yt-vKnAWYqMJ10,video,"I Spent $312,900 Living Like The 1% (Here's What I Learned)",@AlexHormozi,https://www.youtube.com/watch?v=vKnAWYqMJ10,2021-05-12,2026-07-08,L0-discovered,1,,views=408401
+yt-9Dc2UQbQNTo,video,3 Landing Page Tests To Skyrocket Conversions & Optins,@AlexHormozi,https://www.youtube.com/watch?v=9Dc2UQbQNTo,2021-05-10,2026-07-08,L0-discovered,2,,views=137534
+yt-awOQDy_o9ww,video,How to buyback your time as a business owner,@AlexHormozi,https://www.youtube.com/watch?v=awOQDy_o9ww,2021-05-07,2026-07-08,L0-discovered,2,,views=16642
+yt-EPEjYEihZ1s,video,Warren Buffett’s #1 Rule for Business Owners,@AlexHormozi,https://www.youtube.com/watch?v=EPEjYEihZ1s,2021-05-05,2026-07-08,L0-discovered,2,,views=27292
+yt-ZZZNsDs2G_s,video,Wealth Principle #1: Get Paid First,@AlexHormozi,https://www.youtube.com/watch?v=ZZZNsDs2G_s,2021-05-04,2026-07-08,L0-discovered,2,,views=26150
+yt--is6Z2T2h8o,video,All Entrepreneurs Have Only 1 Problem...,@AlexHormozi,https://www.youtube.com/watch?v=-is6Z2T2h8o,2021-04-29,2026-07-08,L0-discovered,2,,views=22689
+yt-Tw6kJkVcTL0,video,"1 SKILL That Is HARD To Learn, BUT Will Pay Off FOREVER",@AlexHormozi,https://www.youtube.com/watch?v=Tw6kJkVcTL0,2021-04-27,2026-07-08,L0-discovered,1,,views=381326
+yt-ETEFhDICm5o,video,Close High-Ticket Sales By Saying 'NO',@AlexHormozi,https://www.youtube.com/watch?v=ETEFhDICm5o,2021-04-22,2026-07-08,L0-discovered,2,,views=152703
+yt-Q2VUuUGfpNY,video,6 Hacks To Make More Money [Increase LTV] Without More Customers,@AlexHormozi,https://www.youtube.com/watch?v=Q2VUuUGfpNY,2021-04-20,2026-07-08,L0-discovered,2,,views=49159
 yt-0BZ7-PZR8jE,video,How I Got 106M Impressions With Ads,@AlexHormozi,https://www.youtube.com/watch?v=0BZ7-PZR8jE,2021-04-15,2026-07-08,L2,1,marketing;content-strategy,L2; L3-cand three-wheels hook framework
-yt-R7Fin9HFhoM,video,The 4 Stages of Entrepreneurship,@AlexHormozi,https://www.youtube.com/watch?v=R7Fin9HFhoM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-QbDFCbpmI6w,video,The Actual Secret Behind Mastering Sales & Marketing,@AlexHormozi,https://www.youtube.com/watch?v=QbDFCbpmI6w,NA,2026-07-08,L0-discovered,2,,views=0
-yt-KNl83INePXI,video,'I'm Broke... What Should I Do?',@AlexHormozi,https://www.youtube.com/watch?v=KNl83INePXI,NA,2026-07-08,L0-discovered,2,,views=0
-yt-UR9dO1jZemE,video,Easiest Way To Get Your First 5 Clients [if you have no budget],@AlexHormozi,https://www.youtube.com/watch?v=UR9dO1jZemE,NA,2026-07-08,L0-discovered,2,,views=0
-yt-BSwJQsogah0,video,Investor Boils Down Business Growth to Simple Math,@AlexHormozi,https://www.youtube.com/watch?v=BSwJQsogah0,NA,2026-07-08,L0-discovered,2,,views=0
+yt-R7Fin9HFhoM,video,The 4 Stages of Entrepreneurship,@AlexHormozi,https://www.youtube.com/watch?v=R7Fin9HFhoM,2021-04-13,2026-07-08,L0-discovered,1,,views=187495
+yt-QbDFCbpmI6w,video,The Actual Secret Behind Mastering Sales & Marketing,@AlexHormozi,https://www.youtube.com/watch?v=QbDFCbpmI6w,2021-04-08,2026-07-08,L0-discovered,2,,views=113186
+yt-KNl83INePXI,video,'I'm Broke... What Should I Do?',@AlexHormozi,https://www.youtube.com/watch?v=KNl83INePXI,2021-04-06,2026-07-08,L0-discovered,1,,views=1124406
+yt-UR9dO1jZemE,video,Easiest Way To Get Your First 5 Clients [if you have no budget],@AlexHormozi,https://www.youtube.com/watch?v=UR9dO1jZemE,2021-04-01,2026-07-08,L0-discovered,1,,views=195304
+yt-BSwJQsogah0,video,Investor Boils Down Business Growth to Simple Math,@AlexHormozi,https://www.youtube.com/watch?v=BSwJQsogah0,2021-03-30,2026-07-08,L0-discovered,2,,views=172027
 yt-sKCrYIWPHLc,video,I Built My $100M Business WRONG...,@AlexHormozi,https://www.youtube.com/watch?v=sKCrYIWPHLc,2021-03-25,2026-07-08,L2,1,business;mindset,"L2; L3-cand built-wrong (scale zero, oceans-not-lakes); bio"
-yt-yJfn_pWzFqg,video,Top Signs You Have The Wrong Business Partner,@AlexHormozi,https://www.youtube.com/watch?v=yJfn_pWzFqg,NA,2026-07-08,L0-discovered,2,,views=0
-yt-JfbtySq6_B4,video,Sell Anything To Anyone With This Unusual Method,@AlexHormozi,https://www.youtube.com/watch?v=JfbtySq6_B4,NA,2026-07-08,L0-discovered,2,,views=0
-yt-RZbpSe9pdFs,video,3 Steps To Starting (Or Fixing) Any Business,@AlexHormozi,https://www.youtube.com/watch?v=RZbpSe9pdFs,NA,2026-07-08,L0-discovered,2,,views=0
-yt-CojS0DwflXc,video,3 Simple Steps To Close Any Sale,@AlexHormozi,https://www.youtube.com/watch?v=CojS0DwflXc,NA,2026-07-08,L0-discovered,2,,views=0
-yt-VaE4pcf9PI8,video,'What Business Should I Start in 2021?' [Perfect Business Model],@AlexHormozi,https://www.youtube.com/watch?v=VaE4pcf9PI8,NA,2026-07-08,L0-discovered,2,,views=0
-yt-rnvOwA39dDg,video,How To Retire Early (and be in the top 1%),@AlexHormozi,https://www.youtube.com/watch?v=rnvOwA39dDg,NA,2026-07-08,L0-discovered,2,,views=0
-yt-xQLQoGD6Sjg,video,The Choice | How To Improve Decision Making Skills,@AlexHormozi,https://www.youtube.com/watch?v=xQLQoGD6Sjg,NA,2026-07-08,L0-discovered,2,,views=0
-yt-Cr0KdqZ954c,video,Introduction To Marketing | Business Marketing 101,@AlexHormozi,https://www.youtube.com/watch?v=Cr0KdqZ954c,NA,2026-07-08,L0-discovered,2,,views=0
-yt-9xAMe0QBFhU,video,"If You Don't Understand Margin, You Don't Understand Business",@AlexHormozi,https://www.youtube.com/watch?v=9xAMe0QBFhU,NA,2026-07-08,L0-discovered,2,,views=0
-yt-w9Zvk70uj5Q,video,How To Create Luck,@AlexHormozi,https://www.youtube.com/watch?v=w9Zvk70uj5Q,NA,2026-07-08,L0-discovered,2,,views=0
+yt-yJfn_pWzFqg,video,Top Signs You Have The Wrong Business Partner,@AlexHormozi,https://www.youtube.com/watch?v=yJfn_pWzFqg,2021-03-18,2026-07-08,L0-discovered,2,,views=45643
+yt-JfbtySq6_B4,video,Sell Anything To Anyone With This Unusual Method,@AlexHormozi,https://www.youtube.com/watch?v=JfbtySq6_B4,2021-03-16,2026-07-08,L0-discovered,1,,views=1154830
+yt-RZbpSe9pdFs,video,3 Steps To Starting (Or Fixing) Any Business,@AlexHormozi,https://www.youtube.com/watch?v=RZbpSe9pdFs,2021-03-11,2026-07-08,L0-discovered,1,,views=205465
+yt-CojS0DwflXc,video,3 Simple Steps To Close Any Sale,@AlexHormozi,https://www.youtube.com/watch?v=CojS0DwflXc,2021-03-09,2026-07-08,L0-discovered,1,,views=424203
+yt-VaE4pcf9PI8,video,'What Business Should I Start in 2021?' [Perfect Business Model],@AlexHormozi,https://www.youtube.com/watch?v=VaE4pcf9PI8,2021-03-04,2026-07-08,L0-discovered,2,,views=167115
+yt-rnvOwA39dDg,video,How To Retire Early (and be in the top 1%),@AlexHormozi,https://www.youtube.com/watch?v=rnvOwA39dDg,2021-03-02,2026-07-08,L0-discovered,1,,views=245636
+yt-xQLQoGD6Sjg,video,The Choice | How To Improve Decision Making Skills,@AlexHormozi,https://www.youtube.com/watch?v=xQLQoGD6Sjg,2021-02-25,2026-07-08,L0-discovered,2,,views=22574
+yt-Cr0KdqZ954c,video,Introduction To Marketing | Business Marketing 101,@AlexHormozi,https://www.youtube.com/watch?v=Cr0KdqZ954c,2021-02-23,2026-07-08,L0-discovered,1,,views=340082
+yt-9xAMe0QBFhU,video,"If You Don't Understand Margin, You Don't Understand Business",@AlexHormozi,https://www.youtube.com/watch?v=9xAMe0QBFhU,2021-02-18,2026-07-08,L0-discovered,1,,views=532412
+yt-w9Zvk70uj5Q,video,How To Create Luck,@AlexHormozi,https://www.youtube.com/watch?v=w9Zvk70uj5Q,2021-02-16,2026-07-08,L0-discovered,2,,views=45303
 yt-FTgJ0mQi0uU,video,#1 Lesson for Young Entrepreneurs from $100M CEO | Alex Hormozi,@AlexHormozi,https://www.youtube.com/watch?v=FTgJ0mQi0uU,2021-02-11,2026-07-08,L2,1,mindset;business;wealth,L2; right-vs-wrong lesson; bio married Leila before love ~5yr
-yt-4LeHKDGmEIQ,video,This is Why You're Not Happy - Eye Opening,@AlexHormozi,https://www.youtube.com/watch?v=4LeHKDGmEIQ,NA,2026-07-08,L0-discovered,2,,views=0
-yt-bSYfZdAE8Ks,video,Don't Start a Business Until You Watch This...,@AlexHormozi,https://www.youtube.com/watch?v=bSYfZdAE8Ks,NA,2026-07-08,L0-discovered,2,,views=0
-yt-cemduJKQl5w,video,Recruiting and Hiring Tips - How to Hire The Best Employees,@AlexHormozi,https://www.youtube.com/watch?v=cemduJKQl5w,NA,2026-07-08,L0-discovered,2,,views=0
-yt-Fy8XX8EuEnA,video,Big Business Owner Shares 1 YR of Wealth Lessons in 63min,@AlexHormozi,https://www.youtube.com/watch?v=Fy8XX8EuEnA,NA,2026-07-08,L0-discovered,2,,views=0
-yt-LqC-oXjatmA,video,The Key To Finding a Profitable Market,@AlexHormozi,https://www.youtube.com/watch?v=LqC-oXjatmA,NA,2026-07-08,L0-discovered,2,,views=0
-yt-6KRpQvWNpm4,video,The Realization That Reshaped My Approach To Business,@AlexHormozi,https://www.youtube.com/watch?v=6KRpQvWNpm4,NA,2026-07-08,L0-discovered,2,,views=0
-yt-s9fSDCRPQNA,video,Why The First $100k is the Toughest | Charlie Munger Secrets,@AlexHormozi,https://www.youtube.com/watch?v=s9fSDCRPQNA,NA,2026-07-08,L0-discovered,2,,views=0
-yt-imd_QRQbVeY,video,Negative Emotional Motivation,@AlexHormozi,https://www.youtube.com/watch?v=imd_QRQbVeY,NA,2026-07-08,L0-discovered,2,,views=0
-yt-Kj3xhPRJtQA,video,The Wealthiest 1% Get There By Doing THIS,@AlexHormozi,https://www.youtube.com/watch?v=Kj3xhPRJtQA,NA,2026-07-08,L0-discovered,2,,views=0
-yt-4XWlHPyAico,video,3 Ways To Increase Wealth Through Business Now,@AlexHormozi,https://www.youtube.com/watch?v=4XWlHPyAico,NA,2026-07-08,L0-discovered,2,,views=0
-yt-xy1h4qqF778,video,The 'Assumed Close': How to Close Deals Without Resistance,@AlexHormozi,https://www.youtube.com/watch?v=xy1h4qqF778,NA,2026-07-08,L0-discovered,2,,views=0
-yt-vHi18F4yyH4,video,The Mind-Blowing Reason A Competitor Made Twice As Much As Me,@AlexHormozi,https://www.youtube.com/watch?v=vHi18F4yyH4,NA,2026-07-08,L0-discovered,2,,views=0
-yt-ZuFSLAw2pEI,video,"This Lesson Cost me $5,000,000...",@AlexHormozi,https://www.youtube.com/watch?v=ZuFSLAw2pEI,NA,2026-07-08,L0-discovered,2,,views=0
-yt-OyGKFhTf0go,video,The Copy Rule I Learned From The Best Copywriter I Know,@AlexHormozi,https://www.youtube.com/watch?v=OyGKFhTf0go,NA,2026-07-08,L0-discovered,2,,views=0
-yt-1IhvZC-Wpqs,video,Marketing Mastery - How To Get Your Ideal Clients To Come To You,@AlexHormozi,https://www.youtube.com/watch?v=1IhvZC-Wpqs,NA,2026-07-08,L0-discovered,2,,views=0
-yt-9lLLBlo0YXA,video,Say THIS When Your Competition is CHEAPER,@AlexHormozi,https://www.youtube.com/watch?v=9lLLBlo0YXA,NA,2026-07-08,L0-discovered,2,,views=0
-yt-rNiMm4eVq4M,video,You Can Turn Any Income Goal Into Action Steps in 3 minutes,@AlexHormozi,https://www.youtube.com/watch?v=rNiMm4eVq4M,NA,2026-07-08,L0-discovered,2,,views=0
-yt-ZLGqnXkjfsQ,video,How To Level Up In Business - Understanding Tradeoffs,@AlexHormozi,https://www.youtube.com/watch?v=ZLGqnXkjfsQ,NA,2026-07-08,L0-discovered,2,,views=0
-yt-3iHzbqKw7GA,video,No Opportunity is Forever (And this is why thats good...),@AlexHormozi,https://www.youtube.com/watch?v=3iHzbqKw7GA,NA,2026-07-08,L0-discovered,2,,views=0
-yt-yAVI0PS-hzU,video,Unlock High Income Skills Without a Degree,@AlexHormozi,https://www.youtube.com/watch?v=yAVI0PS-hzU,NA,2026-07-08,L0-discovered,2,,views=0
-yt-JfcIUxa8Nn0,video,Serial CEO Sells 4 Companies Using This Ancient Business Strategy,@AlexHormozi,https://www.youtube.com/watch?v=JfcIUxa8Nn0,NA,2026-07-08,L0-discovered,2,,views=0
-yt-y4VoOKa1ywQ,video,The #1 Way To Increase Profits,@AlexHormozi,https://www.youtube.com/watch?v=y4VoOKa1ywQ,NA,2026-07-08,L0-discovered,2,,views=0
-yt-XZEjp2mP1U0,video,How to Scale Your Business Fast,@AlexHormozi,https://www.youtube.com/watch?v=XZEjp2mP1U0,NA,2026-07-08,L0-discovered,2,,views=0
+yt-4LeHKDGmEIQ,video,This is Why You're Not Happy - Eye Opening,@AlexHormozi,https://www.youtube.com/watch?v=4LeHKDGmEIQ,2021-02-09,2026-07-08,L0-discovered,2,,views=83153
+yt-bSYfZdAE8Ks,video,Don't Start a Business Until You Watch This...,@AlexHormozi,https://www.youtube.com/watch?v=bSYfZdAE8Ks,2021-02-04,2026-07-08,L0-discovered,2,,views=121028
+yt-cemduJKQl5w,video,Recruiting and Hiring Tips - How to Hire The Best Employees,@AlexHormozi,https://www.youtube.com/watch?v=cemduJKQl5w,2021-01-28,2026-07-08,L0-discovered,2,,views=113441
+yt-Fy8XX8EuEnA,video,Big Business Owner Shares 1 YR of Wealth Lessons in 63min,@AlexHormozi,https://www.youtube.com/watch?v=Fy8XX8EuEnA,2021-01-26,2026-07-08,L0-discovered,2,,views=121594
+yt-LqC-oXjatmA,video,The Key To Finding a Profitable Market,@AlexHormozi,https://www.youtube.com/watch?v=LqC-oXjatmA,2021-01-21,2026-07-08,L0-discovered,2,,views=103692
+yt-6KRpQvWNpm4,video,The Realization That Reshaped My Approach To Business,@AlexHormozi,https://www.youtube.com/watch?v=6KRpQvWNpm4,2021-01-19,2026-07-08,L0-discovered,2,,views=21885
+yt-s9fSDCRPQNA,video,Why The First $100k is the Toughest | Charlie Munger Secrets,@AlexHormozi,https://www.youtube.com/watch?v=s9fSDCRPQNA,2021-01-14,2026-07-08,L0-discovered,1,,views=581785
+yt-imd_QRQbVeY,video,Negative Emotional Motivation,@AlexHormozi,https://www.youtube.com/watch?v=imd_QRQbVeY,2021-01-12,2026-07-08,L0-discovered,2,,views=19569
+yt-Kj3xhPRJtQA,video,The Wealthiest 1% Get There By Doing THIS,@AlexHormozi,https://www.youtube.com/watch?v=Kj3xhPRJtQA,2021-01-08,2026-07-08,L0-discovered,2,,views=7220
+yt-4XWlHPyAico,video,3 Ways To Increase Wealth Through Business Now,@AlexHormozi,https://www.youtube.com/watch?v=4XWlHPyAico,2021-01-07,2026-07-08,L0-discovered,2,,views=20175
+yt-xy1h4qqF778,video,The 'Assumed Close': How to Close Deals Without Resistance,@AlexHormozi,https://www.youtube.com/watch?v=xy1h4qqF778,2021-01-05,2026-07-08,L0-discovered,2,,views=57517
+yt-vHi18F4yyH4,video,The Mind-Blowing Reason A Competitor Made Twice As Much As Me,@AlexHormozi,https://www.youtube.com/watch?v=vHi18F4yyH4,2021-01-04,2026-07-08,L0-discovered,2,,views=8442
+yt-ZuFSLAw2pEI,video,"This Lesson Cost me $5,000,000...",@AlexHormozi,https://www.youtube.com/watch?v=ZuFSLAw2pEI,2021-01-01,2026-07-08,L0-discovered,2,,views=7405
+yt-OyGKFhTf0go,video,The Copy Rule I Learned From The Best Copywriter I Know,@AlexHormozi,https://www.youtube.com/watch?v=OyGKFhTf0go,2020-12-31,2026-07-08,L0-discovered,1,,views=283068
+yt-1IhvZC-Wpqs,video,Marketing Mastery - How To Get Your Ideal Clients To Come To You,@AlexHormozi,https://www.youtube.com/watch?v=1IhvZC-Wpqs,2020-12-29,2026-07-08,L0-discovered,2,,views=104973
+yt-9lLLBlo0YXA,video,Say THIS When Your Competition is CHEAPER,@AlexHormozi,https://www.youtube.com/watch?v=9lLLBlo0YXA,2020-12-28,2026-07-08,L0-discovered,2,,views=12032
+yt-rNiMm4eVq4M,video,You Can Turn Any Income Goal Into Action Steps in 3 minutes,@AlexHormozi,https://www.youtube.com/watch?v=rNiMm4eVq4M,2020-12-25,2026-07-08,L0-discovered,2,,views=18220
+yt-ZLGqnXkjfsQ,video,How To Level Up In Business - Understanding Tradeoffs,@AlexHormozi,https://www.youtube.com/watch?v=ZLGqnXkjfsQ,2020-12-24,2026-07-08,L0-discovered,2,,views=32243
+yt-3iHzbqKw7GA,video,No Opportunity is Forever (And this is why thats good...),@AlexHormozi,https://www.youtube.com/watch?v=3iHzbqKw7GA,2020-12-22,2026-07-08,L0-discovered,2,,views=8492
+yt-yAVI0PS-hzU,video,Unlock High Income Skills Without a Degree,@AlexHormozi,https://www.youtube.com/watch?v=yAVI0PS-hzU,2020-12-17,2026-07-08,L0-discovered,2,,views=120875
+yt-JfcIUxa8Nn0,video,Serial CEO Sells 4 Companies Using This Ancient Business Strategy,@AlexHormozi,https://www.youtube.com/watch?v=JfcIUxa8Nn0,2020-12-15,2026-07-08,L0-discovered,2,,views=30123
+yt-y4VoOKa1ywQ,video,The #1 Way To Increase Profits,@AlexHormozi,https://www.youtube.com/watch?v=y4VoOKa1ywQ,2020-12-10,2026-07-08,L0-discovered,2,,views=18509
+yt-XZEjp2mP1U0,video,How to Scale Your Business Fast,@AlexHormozi,https://www.youtube.com/watch?v=XZEjp2mP1U0,2020-12-08,2026-07-08,L0-discovered,1,,views=196312
 yt-bgmh7p1s7zs,video,How I Built A 20+ Sales Team [The Process],@AlexHormozi,https://www.youtube.com/watch?v=bgmh7p1s7zs,2020-12-03,2026-07-08,L2,1,business,L2; L3-CAND CLOSER framework + 5Cs sales ops (Marcus credited 5C)
-yt-XC_lklN9KmE,video,Your Inflow Is Your Bottleneck (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=XC_lklN9KmE,NA,2026-07-08,L0-discovered,2,,views=0
-yt-JSsuK_0kdzA,video,The Oh Sh*t Moment (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=JSsuK_0kdzA,NA,2026-07-08,L0-discovered,2,,views=0
-yt-5Kt-EYieNko,video,A Hard Learned Lesson (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=5Kt-EYieNko,NA,2026-07-08,L0-discovered,2,,views=0
-yt--UvmyixFszw,video,4 Steps to Maximizing Revenue Generated Per Customer,@AlexHormozi,https://www.youtube.com/watch?v=-UvmyixFszw,NA,2026-07-08,L0-discovered,2,,views=0
-yt-3oD41B66NsM,video,The Sweet Spot (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=3oD41B66NsM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-bpPoIOPgoAw,video,Why I Turned down two people who offered me $50K (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=bpPoIOPgoAw,NA,2026-07-08,L0-discovered,2,,views=0
-yt-7wN8n3qrqnQ,video,Why Coaches Get So Much Hate (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=7wN8n3qrqnQ,NA,2026-07-08,L0-discovered,2,,views=0
-yt-pxVeOkOVr2w,video,The Offer Is King (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=pxVeOkOVr2w,NA,2026-07-08,L0-discovered,2,,views=0
-yt-j1tA4l7R2c0,video,How To Close Prospects By Saying 'No' First (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=j1tA4l7R2c0,NA,2026-07-08,L0-discovered,2,,views=0
-yt-mOKl6dodMTg,video,Reopening the Right Way (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=mOKl6dodMTg,NA,2026-07-08,L0-discovered,2,,views=0
-yt-gza5RtQCVsA,video,How To Close Everyone Downselling Like A Pro (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=gza5RtQCVsA,NA,2026-07-08,L0-discovered,2,,views=0
-yt-iwskrByMIqo,video,How To Win Sales Without Being Skilled (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=iwskrByMIqo,NA,2026-07-08,L0-discovered,2,,views=0
-yt-YQZK6JVkl4c,video,Leveling Up Why We Get Stuck (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=YQZK6JVkl4c,NA,2026-07-08,L0-discovered,2,,views=0
-yt-JOY6ZzBMb_4,video,Simple Operational Framework (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=JOY6ZzBMb_4,NA,2026-07-08,L0-discovered,2,,views=0
-yt-Kk6Vdfdwmxw,video,5 Ways To Increase Lead Quality (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=Kk6Vdfdwmxw,NA,2026-07-08,L0-discovered,2,,views=0
-yt-hnfh2jqNVEQ,video,Pricing Lessons From a Private Equity God,@AlexHormozi,https://www.youtube.com/watch?v=hnfh2jqNVEQ,NA,2026-07-08,L0-discovered,2,,views=0
-yt-3ktgTBNlg7M,video,What I Would Do If I Had My Gyms (Do This in 2020) [ALEX HORMOZI],@AlexHormozi,https://www.youtube.com/watch?v=3ktgTBNlg7M,NA,2026-07-08,L0-discovered,2,,views=0
-yt-kGfzLjPNsBU,video,How To Make Ad Headlines That Get Clicks [ALEX HORMOZI],@AlexHormozi,https://www.youtube.com/watch?v=kGfzLjPNsBU,NA,2026-07-08,L0-discovered,2,,views=0
-yt-_tF3ODk56hg,video,My Address To The Gym Industry At The Onset of COVID,@AlexHormozi,https://www.youtube.com/watch?v=_tF3ODk56hg,NA,2026-07-08,L0-discovered,2,,views=0
-yt-SvIcS-Q1Hl4,video,"If you're struggling with cash flow, Watch This",@AlexHormozi,https://www.youtube.com/watch?v=SvIcS-Q1Hl4,NA,2026-07-08,L0-discovered,2,,views=0
-yt-PZjJEQMgyMM,video,I've met Arnold 4 times. Here's what I learned.,@AlexHormozi,https://www.youtube.com/watch?v=PZjJEQMgyMM,NA,2026-07-08,L0-discovered,2,,views=0
-yt-4PX-hE6LTSU,video,#1 Mistake I'm Seeing Gyms Make Right Now [ALEX HORMOZI],@AlexHormozi,https://www.youtube.com/watch?v=4PX-hE6LTSU,NA,2026-07-08,L0-discovered,2,,views=0
-yt-aiS5qH7UMX4,video,Sell Anywhere (SELL TO ANY CUSTOMER in 2018),@AlexHormozi,https://www.youtube.com/watch?v=aiS5qH7UMX4,NA,2026-07-08,L0-discovered,2,,views=0
+yt-XC_lklN9KmE,video,Your Inflow Is Your Bottleneck (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=XC_lklN9KmE,2020-12-01,2026-07-08,L0-discovered,2,,views=43480
+yt-JSsuK_0kdzA,video,The Oh Sh*t Moment (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=JSsuK_0kdzA,2020-11-26,2026-07-08,L0-discovered,2,,views=17742
+yt-5Kt-EYieNko,video,A Hard Learned Lesson (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=5Kt-EYieNko,2020-11-24,2026-07-08,L0-discovered,2,,views=41880
+yt--UvmyixFszw,video,4 Steps to Maximizing Revenue Generated Per Customer,@AlexHormozi,https://www.youtube.com/watch?v=-UvmyixFszw,2020-11-19,2026-07-08,L0-discovered,2,,views=56659
+yt-3oD41B66NsM,video,The Sweet Spot (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=3oD41B66NsM,2020-11-17,2026-07-08,L0-discovered,2,,views=12187
+yt-bpPoIOPgoAw,video,Why I Turned down two people who offered me $50K (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=bpPoIOPgoAw,2020-11-12,2026-07-08,L0-discovered,2,,views=11257
+yt-7wN8n3qrqnQ,video,Why Coaches Get So Much Hate (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=7wN8n3qrqnQ,2020-11-10,2026-07-08,L0-discovered,2,,views=21105
+yt-pxVeOkOVr2w,video,The Offer Is King (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=pxVeOkOVr2w,2020-11-05,2026-07-08,L0-discovered,1,,views=278587
+yt-j1tA4l7R2c0,video,How To Close Prospects By Saying 'No' First (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=j1tA4l7R2c0,2020-11-03,2026-07-08,L0-discovered,2,,views=94835
+yt-mOKl6dodMTg,video,Reopening the Right Way (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=mOKl6dodMTg,2020-10-29,2026-07-08,L0-discovered,2,,views=6381
+yt-gza5RtQCVsA,video,How To Close Everyone Downselling Like A Pro (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=gza5RtQCVsA,2020-10-27,2026-07-08,L0-discovered,2,,views=145057
+yt-iwskrByMIqo,video,How To Win Sales Without Being Skilled (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=iwskrByMIqo,2020-10-22,2026-07-08,L0-discovered,2,,views=163478
+yt-YQZK6JVkl4c,video,Leveling Up Why We Get Stuck (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=YQZK6JVkl4c,2020-10-20,2026-07-08,L0-discovered,2,,views=60904
+yt-JOY6ZzBMb_4,video,Simple Operational Framework (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=JOY6ZzBMb_4,2020-10-15,2026-07-08,L0-discovered,2,,views=52073
+yt-Kk6Vdfdwmxw,video,5 Ways To Increase Lead Quality (ALEX HORMOZI),@AlexHormozi,https://www.youtube.com/watch?v=Kk6Vdfdwmxw,2020-10-13,2026-07-08,L0-discovered,2,,views=86458
+yt-hnfh2jqNVEQ,video,Pricing Lessons From a Private Equity God,@AlexHormozi,https://www.youtube.com/watch?v=hnfh2jqNVEQ,2020-10-08,2026-07-08,L0-discovered,2,,views=27172
+yt-3ktgTBNlg7M,video,What I Would Do If I Had My Gyms (Do This in 2020) [ALEX HORMOZI],@AlexHormozi,https://www.youtube.com/watch?v=3ktgTBNlg7M,2020-10-06,2026-07-08,L0-discovered,2,,views=15450
+yt-kGfzLjPNsBU,video,How To Make Ad Headlines That Get Clicks [ALEX HORMOZI],@AlexHormozi,https://www.youtube.com/watch?v=kGfzLjPNsBU,2020-10-01,2026-07-08,L0-discovered,2,,views=144294
+yt-_tF3ODk56hg,video,My Address To The Gym Industry At The Onset of COVID,@AlexHormozi,https://www.youtube.com/watch?v=_tF3ODk56hg,2020-10-01,2026-07-08,L0-discovered,2,,views=14022
+yt-SvIcS-Q1Hl4,video,"If you're struggling with cash flow, Watch This",@AlexHormozi,https://www.youtube.com/watch?v=SvIcS-Q1Hl4,2020-10-01,2026-07-08,L0-discovered,2,,views=164709
+yt-PZjJEQMgyMM,video,I've met Arnold 4 times. Here's what I learned.,@AlexHormozi,https://www.youtube.com/watch?v=PZjJEQMgyMM,2020-10-01,2026-07-08,L0-discovered,2,,views=36220
+yt-4PX-hE6LTSU,video,#1 Mistake I'm Seeing Gyms Make Right Now [ALEX HORMOZI],@AlexHormozi,https://www.youtube.com/watch?v=4PX-hE6LTSU,2020-10-01,2026-07-08,L0-discovered,2,,views=60829
+yt-aiS5qH7UMX4,video,Sell Anywhere (SELL TO ANY CUSTOMER in 2018),@AlexHormozi,https://www.youtube.com/watch?v=aiS5qH7UMX4,2018-07-20,2026-07-08,L0-discovered,1,,views=516838
 yt-QnBXoVkygA0,short,You Cannot Wish for Strong Character and an Easy Life,@AlexHormozi,https://www.youtube.com/watch?v=QnBXoVkygA0,NA,2026-07-08,L0-discovered,3,,views=650
 yt-wNDxmPzeTf4,short,How to Break a Tie With Your Business Partner,@AlexHormozi,https://www.youtube.com/watch?v=wNDxmPzeTf4,NA,2026-07-08,L0-discovered,3,,views=12000
 yt-wH5hs4-KCXM,short,Make the Calls Whether You Love It or Hate It,@AlexHormozi,https://www.youtube.com/watch?v=wH5hs4-KCXM,NA,2026-07-08,L0-discovered,3,,views=22000
