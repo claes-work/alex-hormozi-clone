@@ -18,6 +18,22 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — ultra-rich tax playbook + diagnostic sales (L2=381)
+
+Loop iteration 45. Resumed @AlexHormozi P2 (May 2024). 4 L3-candidates; the standout genuinely-NEW
+topic: 6x3re5-Ms1E "the ultra-rich playbook [legal & tax-free]" (★ 4 leverage tiers [income → passive
+investing → own-and-sell → borrow-against-assets] + tax-free liquidity mechanics: buy-borrow-die,
+ESOP, dividend recap, loan-against-equity, qualified dividends — a DISTINCT wealth/tax topic not yet
+covered → candidate for a new wealth/tax-free-liquidity topic page; all self-reported, US-specific,
+not-financial-advice). Other L3-cands enrich existing areas: 1UhvBSQFy6A "10x with 1 sales process"
+(diagnostic sale, transactional→recurring repackage, anchor-high step-downs, 5x upsell), 3Ju1I37jWUM
+"outlearning everyone" (5 levels of competence pos/neg×active/passive, skills-bridge/replicate-before-
+iterate), rj7rzOdj84A "not what you think" (big-hairy-problem, push-vs-pivot good-hard/bad-hard — dup
+business-diagnostics). Found 1 DUP: oRqnTOT9ZG8 "monetize audience 2026" = dup-of yt-9PV0eIXSyjI (same
+4-ways, already in audience-monetization.md). Rest L2 (13-years-90min compilation [quote source],
+not-good-enough [locus of control], unstoppable [prep-is-skill]). Ledger: L2=381. Next: continue
+@AlexHormozi P2 (294 left). Note: ultra-rich-tax-playbook is a strong synthesis-9 candidate.
+
 ## [2026-07-09] ingest | Stage B: @ACQofficial P2 COMPLETE — 2 Alex clips L2 + 10 Leila skipped (L2=373)
 
 Loop iteration 44. Finished @ACQofficial P2. Assessed the 2 ambiguous clips (both turned out to be
