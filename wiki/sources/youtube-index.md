@@ -586,8 +586,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
+| 2026-05-25 | [[2026-05-25-yt-REDPMH2BMrY]] | Learning speed - same condition/new behavior and iteration compression | ★ |
+| 2026-05-25 | [[2026-05-25-yt-g-vU4ajbpvU]] | Service scaling - workflows, AI delivery, VSL pain-point mining, avatar bar | ★ |
+| 2026-05-25 | [[2026-05-25-yt-oQLkgvb2pqw]] | Decision-making - choose your regret, loss aversion, tried-harder fear | ★ |
+| 2026-05-25 | [[2026-05-25-yt-kayQJ2BEYQo]] | Consistency - exact adherence, boring work, Gym Launch value | ★ |
+| 2026-05-25 | [[2026-05-25-yt-E-jrNJ8Ci0A]] | Skill learning - chunk broad labels into behavioral sub-skills | ★ |
+| 2026-05-25 | [[2026-05-25-yt-zG3foXstsQY]] | Determination - long extinction curve, get better/don't stop | ★ |
+| 2026-05-25 | [[2026-05-25-yt-8pzL2ZSgW-E]] | Advice filters - context, competence, incentives, and influence SPCL | ★ |
 | 2026-05-26 | [[2026-05-26-yt-70LSQk_RH_M]] | Identity - actions as behavior aggregation, not sacred self-concepts | ★ |
 | 2026-05-26 | [[2026-05-26-yt-o06NDWKHFVA]] | Agency/uncertainty - "must be easy" victim frame and becoming as output | ★ |
+| 2026-05-26 | [[2026-05-26-yt-I8YZLBYYMag]] | Uncertainty - upside beyond downside bias and delayed arbitrage | ★ |
 | 2026-05-26 | [[2026-05-26-yt-l6_t_e3FIxs]] | Family conflict - reinforcement history, grace, and regret attribution note | ★ |
 | 2026-05-26 | [[2026-05-26-yt-OUowG_oCbCI]] | Spending skill - time buyback, memory dividends, and environment upgrades | ★ |
 | 2026-05-26 | [[2026-05-26-yt-8N8_Jgx97jA]] | Standards - modeled observable actions and owner example | ★ |
@@ -987,7 +995,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_957 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,577 total, including P2 (~1,555, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_965 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,569 total, including P2 (~1,547, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

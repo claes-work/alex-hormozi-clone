@@ -3143,3 +3143,29 @@ ingested as L2.
 
 Ledger 8→L2 (L2 now 957). youtube-index/index/footer updated. @MoreMozi P2: ~1,482 rows remain.
 Synthesis notes: family conflict through reinforcement-history/grace; spending skill and time-buyback; standards as observable modeled behavior; resilience via cosmic relevance/veteran frame; learning-to-try as transferable skill; creative-volume/Money Models launch advertising scale; action-volume/flyer-test/hard-way frame; sales ops process-over-player, script adherence, and coachability screen.
+
+## [2026-07-09] ingest | yt batch 124 — @MoreMozi P2 (2026-05-25 to 2026-05-26), 8 videos
+
+Thirty-seventh resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry; the 8 successful rows were
+ingested as L2.
+
+- **2026-05-26** `yt-I8YZLBYYMag` "Humans Overestimate the Downside" — uncertainty:
+  downside bias, upside in uncertainty/delay, and borrowed Jocko failure frame.
+- **2026-05-25** `yt-REDPMH2BMrY` "You Think You're Not Smart Enough" — learning:
+  same condition/new behavior, intelligence as rate, and iteration compression.
+- **2026-05-25** `yt-g-vU4ajbpvU` "How to 3.5x a Service Business in 6 Months" — service scaling:
+  workflows, AI-assisted delivery, VSL pain-point mining, and avatar quality bar.
+- **2026-05-25** `yt-oQLkgvb2pqw` "How to Make Hard Decisions: Choose Your Regret" — decisions:
+  choose-your-regret frame, loss aversion, and "could have tried harder" fear.
+- **2026-05-25** `yt-kayQJ2BEYQo` "The #1 Trait That Almost Guarantees Success" — consistency:
+  exact adherence, boring work, and Gym Launch value.
+- **2026-05-25** `yt-E-jrNJ8Ci0A` "How to Actually Learn Any Skill Faster" — skill learning:
+  broad labels chunked down into behavioral sub-skills.
+- **2026-05-25** `yt-zG3foXstsQY` "Why Determination Beats Brilliance in Entrepreneurship" — persistence:
+  long extinction curve, get better/don't stop, and infinite-game entrepreneurship.
+- **2026-05-25** `yt-8pzL2ZSgW-E` "The Problem with Getting Advice for Your Business" — advice:
+  context/competence/incentive filters and influence via status, credibility, power, likeness.
+
+Ledger 8→L2 (L2 now 965). youtube-index/index/footer updated. @MoreMozi P2: ~1,474 rows remain.
+Synthesis notes: upside in uncertainty/delay and downside bias; learning-speed/iteration-compression repeat; service workflow/AI-delivery plus VSL pain-point mining and avatar bar; choose-your-regret/loss-aversion frame; consistency/exact-adherence and boring-work value; skill chunking into behavioral sub-skills; determination as long extinction curve/get-better-don't-stop; advice filters plus SPCL influence restatement.
