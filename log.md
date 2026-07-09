@@ -2289,3 +2289,31 @@ talent-side LTGPE:CAT, senior-leadership layer, micro-promotion ladders, and pre
 technician recruiting. Recompiled `persona/system-prompt.md` to **v20** (~700 videos + 2
 books) and advanced `pipeline/synthesis-state.md` through **batch 91**. No pending
 synthesis checkpoints remain.
+
+## [2026-07-09] ingest | yt batch 92 — @MoreMozi P2 (2026-06-27 to 2026-06-28), 9 videos
+
+Fifth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` errored again during caption fetch and remains open
+for retry; the 9 successful rows were ingested as L2.
+
+- **2026-06-27** `yt-bfVsgQYvuWA` "200 Cold Calls, 2 Customers: That's Not Luck, That's Math" — enterprise
+  software outbound: 200 calls for 2 customers is process data, not luck; list volume, dollars per dial, and
+  waived-fee positioning are the near-term levers.
+- **2026-06-27** `yt-X6LnfrTQqT0` "Agencies Charge Wrong (Here's the Fix)" — performance-marketing agency:
+  high retention and 60-70% close rates imply underpricing; raise the base and add non-retroactive ad-spend tiers.
+- **2026-06-28** `yt-QQaVh5qIUJs` "Firefighter by Day, $1.2M Profit by Night" — firefighter/ADU founder:
+  quest/work meaning, opportunity-cost math, paid-study-hall constraint, and comfort rationalized as caution.
+- **2026-06-28** `yt-qm3GU9rzEVo` "Mr Beast Showed Me Who Actually Has Fans" — live-interactive media:
+  long-form/live formats build more trust than shorts; optimize for future compliance, not raw views.
+- **2026-06-28** `yt-Cc-q6mPjiUQ` "The Real Reason You're Not Winning in Business" — real-estate ecosystem:
+  fortify the local market before national scale; use content for broad impact while the core market compounds.
+- **2026-06-28** `yt-TSGZ02GJF1M` "Scaling a Pro Volleyball Brand Past $150K/Month" — pro athlete creator:
+  athlete-as-media-company monetization paths are sponsorship, education/product delivery, or equity/royalty partner.
+- **2026-06-28** `yt--9gNwMrVHBE` "The Real Bottleneck in a $4.3M YouTube Business" — travel-food YouTube
+  business: quality is the bottleneck; hire a senior strategist with enough pre-hire surface area.
+- **2026-06-28** `yt-uWST7uRN-Fs` "What Nobody Tells You About Scaling to $30M" — sports social agency:
+  calculate lifetime gross profit per employee against cost of acquiring talent, and pay recruiters when the math works.
+- **2026-06-28** `yt-JUqeq7BEdTE` "There's No Easy Business" — CPA/CFO advisory: fix supply and operating
+  leverage before marketing; an AI-first company must become data-first first.
+
+Ledger 9→L2 (L2 now 709). youtube-index/index/footer updated. @MoreMozi P2: ~1,730 rows remain.
+Synthesis notes: outbound expected-value math, close-rate pricing guide and non-retroactive usage tiers, quest/work meaning with paid-study-hall caveat, live-interactive/long-form trust, local-fortification-before-national-scale, athlete audience monetization paths, quality bottleneck in creator-led media, LTGPE:CAT reinforcement, and data-first-before-AI-first.
