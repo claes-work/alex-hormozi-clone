@@ -587,6 +587,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
 | 2026-05-23 | [[2026-05-23-yt-J0Z0OTHXY7Q]] | Content monetization - entertainers broader than educators, niche math | ★ |
+| 2026-05-23 | [[2026-05-23-yt-jvFvaCuyVfM]] | Minimum standard - hundreds of hours, content volume, game-tape review | ★ |
+| 2026-05-23 | [[2026-05-23-yt-c1tqC2DxWyc]] | Productivity - begin work, open loops, triple-shift no-shortcuts frame | ★ |
+| 2026-05-23 | [[2026-05-23-yt-7moVAy2UBkA]] | Revenge/fuel - win into irrelevance, use whatever fuel, criticism frame | ★ |
+| 2026-05-23 | [[2026-05-23-yt-1EyaHclUUjM]] | Medical-practice acquisition - physician-license leverage and retiring doctors | ★ |
+| 2026-05-23 | [[2026-05-23-yt-9tBpPH3TmEk]] | Negative thoughts - cosmic irrelevance, enough, great-day checklist | ★ |
+| 2026-05-23 | [[2026-05-23-yt-m4FpZ35Q3X4]] | Anxiety - choices, unclear priorities, commitment, emotion as fuel | ★ |
+| 2026-05-23 | [[2026-05-23-yt-xRzZaHUOk4E]] | Creator business - YouTube strategist hire, quality leverage, give time time | ★ |
+| 2026-05-23 | [[2026-05-23-yt-UdDCsWkyO4o]] | Proof-first content - effort proof, free work, tiny-niche upstart position | ★ |
 | 2026-05-24 | [[2026-05-24-yt-2aUhv-GLnpk]] | Manifestation vs visualization - observable behavior and action requirement | ★ |
 | 2026-05-24 | [[2026-05-24-yt-loIbj4NMExM]] | Preparation - 20 minutes, time-on-task timer, start working | ★ |
 | 2026-05-24 | [[2026-05-24-yt-ew7Ek8y-E78]] | Networking - generalized giving early, skill as first currency | ★ |
@@ -1011,7 +1019,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_981 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,553 total, including P2 (~1,531, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_989 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,545 total, including P2 (~1,523, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

@@ -3221,3 +3221,29 @@ ingested as L2.
 
 Ledger 8→L2 (L2 now 981). youtube-index/index/footer updated. @MoreMozi P2: ~1,458 rows remain.
 Synthesis notes: confidence by proof stack/Money Models prep self-report; teachability as ROI and soft skills as behavior; time-to-success middle/proximity; direct-response ecommerce brand wall and contractor junk-drawer delegation; behaviorism/rewards/triggers/extinction burst; revenue-retention/run-without-founder/shiny-object discipline; TikTok-to-IG CTA, lead-magnet lighter ask and organic bucket; entertainers-broader-than-educators niche math.
+
+## [2026-07-09] ingest | yt batch 127 — @MoreMozi P2 (2026-05-23), 8 videos
+
+Fortieth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry; the 8 successful rows were
+ingested as L2.
+
+- **2026-05-23** `yt-jvFvaCuyVfM` "The Minimum Standard That Changed My Career" — work standard:
+  hundreds of hours, 300 pieces/week self-report, presentation game tape, and podcast review.
+- **2026-05-23** `yt-c1tqC2DxWyc` "Why Your Brain Hates Finishing Tasks" — productivity:
+  beginning work, open loops, no-shortcuts self-talk, and triple-shift periods.
+- **2026-05-23** `yt-7moVAy2UBkA` "Win So Big You Shrink Them Into Irrelevance" — fuel:
+  revenge reframed as irrelevance, negative emotion as fuel, and public-criticism defusing.
+- **2026-05-23** `yt-1EyaHclUUjM` "Acquiring a Medical Practice as a Physician" — acquisition:
+  medical-license leverage, physician-required businesses, and retiring-doctor succession.
+- **2026-05-23** `yt-9tBpPH3TmEk` "How I Kill 99% of Negative Thoughts" — reframes:
+  judging thoughts, veteran frame, cosmic irrelevance, enough, and great-day checklist.
+- **2026-05-23** `yt-m4FpZ35Q3X4` "How Successful People Use Anxiety as Fuel" — anxiety:
+  many choices plus unclear priorities, commitment as eliminating alternatives, and emotions as fuel.
+- **2026-05-23** `yt-xRzZaHUOk4E` "I Make YouTube Videos - How Do I Get More Sponsors" — creator business:
+  high-level YouTube strategist, quality leverage, and giving an existing hire time to work.
+- **2026-05-23** `yt-UdDCsWkyO4o` "Maybe you shouldn't create content" — proof:
+  proof-first authority, effort-based achievements, free work, and tiny-niche upstart positioning.
+
+Ledger 8→L2 (L2 now 989). youtube-index/index/footer updated. @MoreMozi P2: ~1,450 rows remain.
+Synthesis notes: minimum-standard/hundreds-of-hours/game-tape review; begin-work/open-loop productivity and triple-shift self-report; revenge/fuel/criticism-usefulness frame; medical-license acquisition leverage; negative-thought reframes/cosmic irrelevance/enough/great-day checklist; anxiety as choices plus unclear priorities and emotion as fuel; creator-business quality leverage/high-level hire/give-time-time; proof-first authority, free-to-proof path, tiny-niche upstart position.
