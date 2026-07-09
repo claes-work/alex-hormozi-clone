@@ -25,4 +25,7 @@ His own media playbook: platforms, formats, hooks, volume.
 - [[audience-growth|Audience Growth (2026)]] — his current audience playbook: the SPCL influence
   framework (Status/Power/Credibility/Likeness), social→interest media ("content is the targeting"),
   the 6 content shifts, 4 ways to monetize an audience, the live/interactive bet. **Time-sensitive.**
+- [[audience-monetization|Audience Monetization]] — the 4 ways to turn an audience into money
+  (affiliates / sponsorships / partnerships & equity / own brand) on a difficulty×risk×exit continuum,
+  vanity vs business metrics (niche > reach), deal-structuring rules (equity over cash).
 

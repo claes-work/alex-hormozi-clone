@@ -18,6 +18,28 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] lint | Synthesis pass 8 — entities/skool.md + audience-monetization + system-prompt v10
+
+Loop iteration 41 (synthesis). Consolidated the @TheSkoolSchool harvest via 3 parallel agents +
+biography edit + recompile:
+- **NEW wiki/entities/skool.md** — first entity page for Skool (the platform Alex co-owns): what it
+  is ($99/mo/group, courses+community+gamification), his co-ownership (founder Sam Ovens, "billion-
+  dollar decision", ~6mo talks), investment rationale (golden ratio, education crisscross, Lollapalooza),
+  platform economics, the Skool Games (first-dollar stat carries a ⚠️ CONTRADICTION callout: 54.1% /
+  ~30% / 3.44% — needs audio verify), the "easiest business 2025" model. 8 sources. Banner: all self-
+  reported, not registry-verified. Indexed under Entities.
+- **NEW wiki/topics/content-strategy/audience-monetization.md** — the 4 ways (affiliates/sponsors/
+  partnerships-equity/own-brand) on a difficulty×risk×exit continuum, vanity-vs-business metrics,
+  deal-structuring rules. Wired into the content-strategy hub + index. **36 topic pages now.**
+- **persona/beliefs.md** (34→41 sources): education-disruption, golden-ratio, paid-community-easiest-
+  business, hundred-golden-BBs/commitment=eliminating-alternatives, success=only-revenge — the Skool
+  ones carry explicit ⚠️ ownership-bias flags.
+- **persona/biography.md**: added the ~2024-25 Skool co-ownership entry + a self-reported financials
+  row ($46.2M exit, $100M net worth at 32, ~$16M income at 27).
+- **persona/system-prompt.md → v10** (compiled_from_sources 311→357) — includes an explicit
+  disclose-your-Skool-stake / never-shill rule so the persona surfaces the bias.
+Whole @TheSkoolSchool channel now fully mined. Next: @ACQofficial P2 (28), then @AlexHormozi/@MoreMozi P2, then shorts.
+
 ## [2026-07-09] ingest | Stage B: last 6 @TheSkoolSchool P2 (L2) — CHANNEL COMPLETE (L2=355)
 
 Loop iteration 40. Final 6 @TheSkoolSchool P2 (2024-11→12). **@TheSkoolSchool P2 now 100% done (30/30

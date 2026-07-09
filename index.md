@@ -54,6 +54,7 @@ Domain hubs (full page list lives on each hub):
   - [branding](wiki/topics/content-strategy/branding.md) — brand = deliberate associations, bouquet model, 3 brand metrics, brand > direct-response, give-give-give.
   - [community-building](wiki/topics/content-strategy/community-building.md) — **his paid-community / Skool playbook** (why the model, design, launch, monetization, growth funnel, retention) — high-value.
   - [audience-growth](wiki/topics/content-strategy/audience-growth.md) — his 2026 audience playbook: SPCL framework, social→interest media, 6 content shifts, 4 monetization paths, live/interactive (time-sensitive).
+  - [audience-monetization](wiki/topics/content-strategy/audience-monetization.md) — the 4 ways to monetize an audience (affiliates/sponsors/partnerships-equity/own-brand), vanity vs business metrics, deal-structuring rules.
 
 ## Entities
 
@@ -62,6 +63,7 @@ Domain hubs (full page list lives on each hub):
 - [wiki/entities/gym-launch.md](wiki/entities/gym-launch.md) — Detail page: the gym-licensing company, its money model, revenue milestones ($476K→$4.4M/mo), $46.2M exit (book-sourced).
 - [wiki/entities/prestige-labs.md](wiki/entities/prestige-labs.md) — Detail page: his supplement company, integrated with Gym Launch (book-sourced).
 - [wiki/entities/acquisition-com.md](wiki/entities/acquisition-com.md) — Detail page: family office / holding co, $200M+/yr portfolio, book publisher (book-sourced).
+- [wiki/entities/skool.md](wiki/entities/skool.md) — Detail page: the community platform Alex **co-owns** (founder Sam Ovens); his "billion-dollar decision", the golden ratio, education-crisscross thesis, Skool Games, platform economics (self-reported; ⚠️ he owns what he promotes).
 - [wiki/entities/leila-hormozi.md](wiki/entities/leila-hormozi.md) — Wife/co-founder/Acquisition.com CEO. Context only — persona clones Alex.
 - [wiki/entities/youtube-channels.md](wiki/entities/youtube-channels.md) — All channels with IDs and counts: 4 ingestion targets (2,561 long-form, 7,725 shorts), 5 excluded.
 - [wiki/entities/the-game-podcast.md](wiki/entities/the-game-podcast.md) — The Game podcast: RSS, 1,133 episodes since 2017-07-01, only source for 2017–2021 material.
@@ -71,9 +73,9 @@ Domain hubs (full page list lives on each hub):
 
 - [persona/biography.md](persona/biography.md) — Dated timeline 1989–2025 with confidence markers (**v6, 27 sources** — father/refugee story, United Fitness + first-gym figures, Leila airport-recruitment, book-trilogy origin, Goodwill shift, mother Florence's death ~Sep 2025, **DOB ~Aug 1989 (age puzzle substantially resolved)**, competitive-bodybuilding background, Kylie-Forbes turning point; contradiction #9 = dropped-out-at-22 vs magna-cum-laude-in-3-years).
 - [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + a borrowed-lines (not-his-coinages) section.
-- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**34 sources**); enriched from the topic pages + P2 synthesis (perfect-business 5-filter, wealth 4-paths, 4-shapes, 6-levels risk ladder, tiered pricing, biz-math benchmarks, lead-magnets, TAM, fat-pitch, maximizer, trust=punishability, 2026 AI thesis) with tracked evolutions (net-worth→Goodwill).
+- [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**41 sources**); enriched from the topic pages + P2 synthesis (perfect-business 5-filter, wealth 4-paths, 4-shapes, 6-levels risk ladder, tiered pricing, biz-math benchmarks, lead-magnets, TAM, fat-pitch, maximizer, trust=punishability, LTV:CAC, competitive-moats, focus-superpower, Skool/education-disruption + golden-ratio [⚠️ ownership bias], hundred-golden-BBs, 2026 AI thesis) with tracked evolutions (net-worth→Goodwill).
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Populated** (1 source): physique/build (~235 lb, signature calves), athletic background; grooming/wardrobe/setting still open (await watch-skill frame sampling).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v9** (311 sources: ~309 videos + 2 books) — full business frameworks (4-shapes, 6-levels, biz-math, LTV:CAC, sales-voice, SPCL, 4-vectors, business-diagnostics, negotiation, copywriting-hacks, email-marketing, paid-ads, competitive-moats, retention, STAR/Management-Diamond) + prose/spoken voice + origin story + DOB ~Aug 1989 + bodybuilding + physique + mother's death & 2025 record year + 2026 AI/content thesis; grooming/wardrobe still pending watch-skill sampling.
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v10** (357 sources: ~355 videos + 2 books) — full business frameworks (4-shapes, 6-levels, biz-math, LTV:CAC, sales-voice, SPCL, 4-vectors, business-diagnostics, negotiation, copywriting-hacks, email-marketing, paid-ads, competitive-moats, retention, audience-monetization, STAR/Management-Diamond) + prose/spoken voice + origin story + DOB ~Aug 1989 + bodybuilding + physique + mother's death & 2025 record year + **Skool co-ownership (⚠️ disclosed bias) + education-disruption/golden-ratio** + 2026 AI/content thesis; grooming/wardrobe still pending watch-skill sampling.
 
 ## Other
 

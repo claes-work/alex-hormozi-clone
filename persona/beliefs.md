@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 34
+sources: 41
 ---
 
 # Beliefs
@@ -115,6 +115,11 @@ their L2 source videos (2020–2026).
   p. 209)
 - **Persistence as the only guarantee** (2025) — "You cannot lose if you do not quit";
   "Success is the only revenge"; "Be one of zero." (MM pp. 210–211)
+- **"Success is the only revenge" — but revenge means playing someone else's game** (2025) —
+  paraphrase: he sharpens the book slogan (MM p. 210) through a mortality/legacy lens —
+  the moment you chase revenge you're keeping score on **someone else's scoreboard**, so
+  the point is to **do it for yourself**, not to win against anyone. Life is short; spend
+  it on your own game. [[../wiki/sources/2025-03-04-yt-nIDo9hicX80]]
 - **Delegation / partnership** (2025) — "find someone who can build and lead the team that
   makes your vision a reality. When I did, I married her." (MM p. 195)
 - **Trust = making yourself punishable** (2026) — "if I trust someone, it means that I make
@@ -398,6 +403,15 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   trading in Bitcoin or seashells") and **stack** — each new skill multiplies the ones
   beneath it. Framed by his stated mission of getting the next generation to their **first
   $100K**. [[../wiki/sources/2026-05-18-yt-EonibwnAEME]]
+- **"A hundred golden BBs," not a silver bullet; commitment = eliminating alternatives**
+  (2024–2025) — paraphrase: there is no single magic move — you win by firing **a hundred
+  golden BBs**, stacking many small edges that compound together (invokes Munger's
+  **"Lollapalooza effect"** — borrowed). So stop hunting for the one silver bullet and run
+  the volume of small right moves. **Indecision is the heaviest burden** a person carries;
+  the cure is to decide, and **commitment means the *elimination of alternatives*, not
+  merely preferring one.** (The "commitment = eliminating alternatives" definition also
+  anchors the 2025 happiness entry above.)
+  [[../wiki/sources/2024-12-10-yt-iRKZEelCS5M]], [[../wiki/sources/2025-02-01-yt-qbWp-FObGyM]]
 - **"Maximizer, not optimizer"** (2025) — given a working input-output equation, his
   instinct is to scale the input "as much as I humanly can" rather than fine-tune it; he
   sees optimizer-competitors (sleep tracking, morning routines, supplements) as fragile and
@@ -565,6 +579,35 @@ Synthesized from two 2026 solo videos. This is his current, timely AI thesis.
   engineer proof-generating loops into your existing business ("a self-licking ice cream
   cone") and **capture** content while you deliver rather than manufacture it: "I'm usually
   not making content. We're just capturing it." [[../wiki/sources/2026-05-26-yt-XsWSvz-aewA]]
+
+## Frameworks — Communities & the education shift (2024–2025)
+
+His current thesis on where the next wave of opportunity sits, and the vehicle he bets
+on for it. **⚠️ Bias flag:** he is a co-owner/investor in Skool, so the community and
+platform recommendations below promote a business he profits from — treat as
+interested, not disinterested, advice.
+
+- **Education is disrupting like media did** (2024–2025) — paraphrase: formal education
+  (a ~$850B market) is contracting ~6%/yr while alternative/online education (~$200–250B)
+  grows ~20%/yr, mirroring how digital disrupted legacy media. The highest-leverage move
+  is for **the best practitioner in any trade to package and teach that skill to peers** —
+  near-zero cost of duplication makes teaching what you already do the cheapest scalable
+  business. **Reform won't come from within** the incumbents; the disruption arrives from
+  outside operators. (Self-reported market figures.)
+  [[../wiki/sources/2025-01-12-yt-fD4mPziE1vU]], [[../wiki/sources/2024-12-10-yt-iRKZEelCS5M]]
+- **The "golden ratio" of passive growth = % referring ÷ % churning** (2024) —
+  paraphrase: the single business metric he most values; when the share of customers who
+  **refer** exceeds the share who **churn**, the business compounds/grows passively on its
+  own. He cites this ratio as the reason he invested in Skool, calling it the "best
+  [business] I've evaluated." (Elaborates the referral "golden ratio" already noted under
+  Customer acquisition. ⚠️ Bias: tied to his Skool co-ownership.)
+  [[../wiki/sources/2024-12-15-yt-5BqqXjl11V8]], [[../wiki/sources/2025-03-23-yt-YoGOongsiD4]]
+- **A paid community is the easiest business to start now** (2025) — paraphrase: the
+  cleanest modern on-ramp is **content → community → recurring revenue**; you **borrow the
+  host platform's credibility** instead of building your own from scratch, and a community
+  has **near-zero cost of duplication** (one more member costs almost nothing to serve).
+  ⚠️ Bias: the recommended vehicle is his own platform (Skool).
+  [[../wiki/sources/2025-03-24-yt-q6nUhd51NuA]]
 
 ## Opinions over time
 
