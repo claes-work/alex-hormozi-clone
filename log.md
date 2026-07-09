@@ -2789,3 +2789,28 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 853). youtube-index/index/footer updated. @MoreMozi P2: ~1,586 rows remain.
 Synthesis notes: future-vs-current constraint sequencing with capital availability; distribution nodes for episodic work; software-multiple criteria and partner-before-build path; DM-setter capacity in organic funnels; duplicate good-friction/VSL material; SMB volatility transmitted to vendors; agency distributor retention target; founder-brand objection handling; replicate-before-iterate learning philosophy and shared-input/integrity relationship material.
+
+## [2026-07-09] ingest | yt batch 111 — @MoreMozi P2 (2026-06-08 to 2026-06-09), 8 videos
+
+Twenty-fourth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-09** `yt-LGbS0GOZBNE` "Should I Take 5% to Help Grow His Business?" — partnership:
+  partner criteria, stake-vs-partnership distinction, and learn-not-earn skill acquisition.
+- **2026-06-09** `yt-3Lvhd3LIwwY` "SMB Clients Will Quietly Bankrupt You" — SMB agency:
+  churn/CAC margin compression, $1.5K-$3K dead zone, and go cheap/automated or upmarket.
+- **2026-06-09** `yt-3t6sA6OmzHA` "Why You Can't Run Two Businesses at Once" — marketing services:
+  wait for LTV:CAC on the new chauffeur avatar, then pay the focus price if economics hold.
+- **2026-06-09** `yt-lpA7Uhav8qA` "Make an Offer So Good They Feel Stupid Saying No" — dental roll-up:
+  better-than-standalone offer math, coaching engine as goose, option/drag rights, and IP licensing.
+- **2026-06-08** `yt-CTJRsVA89Oc` "Why You Should Charge 5x More, Not 50% More" — pricing:
+  low-budget masses need capital/automation; service businesses should make giant high-ticket jumps.
+- **2026-06-08** `yt-85lDC9uzFWI` "Scaling a $22M Hemp Distributor to $50M" — hemp distribution:
+  operate under current information, expand until regulation actually changes, then pivot product mix.
+- **2026-06-08** `yt-lPZOkIvVxPc` "Stop Using a Warm Sales Process on Cold Leads" — testimonial agency:
+  build cold-first sales motion, VSL/pre-frame, and big-head/long-tail quality+quantity testimonial offers.
+- **2026-06-08** `yt-wTXCZLVQ0x8` "How to Get More Patients for Your Dental Clinic" — dental marketing:
+  build before/after proof capture into the patient journey, test organic content, then run paid winners.
+
+Ledger 8→L2 (L2 now 861). youtube-index/index/footer updated. @MoreMozi P2: ~1,578 rows remain.
+Synthesis notes: partnership contribution criteria and stake-vs-partnership distinction; skill acquisition over early earning; SMB agency dead-zone pricing; focus as price paid after LTV:CAC proof; roll-up offer math, goose-vs-eggs coaching engine, and drag/option rights; high-ticket tier jumps vs automated low-budget mass market; regulatory uncertainty behavior rule; cold-first sales motion; quality+quantity continuity offer; before/after proof capture into customer journey.

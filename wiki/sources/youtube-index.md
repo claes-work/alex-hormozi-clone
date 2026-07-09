@@ -588,6 +588,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
 | 2026-06-04 | [[2026-06-04-yt-B7P5WCVfnPE]] | First high-ticket sale — $6k quote → $60k morning (bio) | ★ |
 | 2026-06-06 | [[2026-06-06-yt-Uw9weyjJL1A]] | "Raising $100M kicked out" — ⚠️ coaching case, NOT Alex bio (title mismatch) | |
+| 2026-06-08 | [[2026-06-08-yt-CTJRsVA89Oc]] | Pricing — charge 5x/10x more or automate low-budget masses | ★ |
+| 2026-06-08 | [[2026-06-08-yt-85lDC9uzFWI]] | Hemp distributor — operate until regulation changes; pivot when facts change | |
+| 2026-06-08 | [[2026-06-08-yt-lPZOkIvVxPc]] | Video testimonials — build cold sales motion; quality + quantity continuity | ★ |
+| 2026-06-08 | [[2026-06-08-yt-wTXCZLVQ0x8]] | Dental clinic — before/after content first, then paid winners with CTA | |
+| 2026-06-09 | [[2026-06-09-yt-LGbS0GOZBNE]] | Partnership — 5% stake is not partnership; learn not earn | ★ |
+| 2026-06-09 | [[2026-06-09-yt-3Lvhd3LIwwY]] | SMB agency — mid-market dead zone, go cheap/automated or upmarket | ★ |
+| 2026-06-09 | [[2026-06-09-yt-3t6sA6OmzHA]] | Two avatars — wait for LTV:CAC, then pay the price of focus | |
+| 2026-06-09 | [[2026-06-09-yt-lpA7Uhav8qA]] | Dental roll-up — offer math, goose vs eggs, option/drag rights | ★ |
 | 2026-06-09 | [[2026-06-09-yt-g2i-aBfWfvA]] | IG organic consulting — 20K leads/month, DM setter bottleneck | ★ |
 | 2026-06-09 | [[2026-06-09-yt-lCmdlNNJkBw]] | Restaurant consulting duplicate — logic/evidence/utility + good friction | |
 | 2026-06-09 | [[2026-06-09-yt-0coMtm_i1UA]] | White-label PR — agency distribution journey, SMB volatility, retention stack | ★ |
@@ -883,7 +891,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_853 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,681 total, including P2 (~1,659, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_861 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,673 total, including P2 (~1,651, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
