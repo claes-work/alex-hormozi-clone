@@ -95,10 +95,20 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-06-02 | [[2021-06-02-yt-q32-l3Yoqg4]] | Taught 116+ salesmen — CLOSER already fully named (R added years later) | ★ |
 | 2021-06-04 | [[2021-06-04-yt-d0dBZbd13jM]] | 9 money beliefs of the ultra wealthy (skill-investment, talent-stacking, $100M blueprint) | |
 | 2021-06-07 | [[2021-06-07-yt-9xFtox66U28]] | When money stopped mattering — happiness→joy, outcome→value (bio: ~$2M/wk) | |
+| 2021-06-09 | [[2021-06-09-yt-DAm0EOes5to]] | After failed partnerships — phantom equity > default equity (bio: "8" failed) | |
+| 2021-06-11 | [[2021-06-11-yt-ZfaZYFx89UU]] | 4 ways fortunes are made (labor/capital/code/media) — stumbled into media (bio: 27→$1,036→$17M) | ★ |
+| 2021-06-14 | [[2021-06-14-yt-BnvkMpUu-7c]] | My 4-part investing model (yield/preservation/tax/equity-growth) | |
+| 2021-06-16 | [[2021-06-16-yt-iFhiK5zORGk]] | How to charge exorbitant prices — restrict supply + stimulate demand | |
+| 2021-06-18 | [[2021-06-18-yt-YhxiVIQp_ws]] | How the rich avoid taxes (Pt 1) — ⭐ EARLIEST tax source; buy-borrow-die + anti-shelter both present | ★ |
+| 2021-06-21 | [[2021-06-21-yt-CRMT2yubBxc]] | Best way to invest — yourself/income first, then passive index | |
 | 2021-06-23 | [[2021-06-23-yt-42SOlVhDwWE]] | 1 mental technique — the "belief continuum"; conviction counts twice | |
+| 2021-06-25 | [[2021-06-25-yt-al_WXFDbN8I]] | How gurus lie about income — 6 deceptions; his transparency positioning | |
 | 2021-06-28 | [[2021-06-28-yt-oLsWhSRypzM]] | Never start a business until… — 3 things (dissatisfaction/lonely/SBA income) | |
+| 2021-06-30 | [[2021-06-30-yt-GO6VCcLlnLs]] | How I raise prices without losing sales — anchor high, downsell to target (prepay discount) | |
 | 2021-07-02 | [[2021-07-02-yt-bkPwFqa89gE]] | Unconventional productivity — alarm-for-bedtime, 4am-8yrs, identical meals (bio) | |
+| 2021-07-05 | [[2021-07-05-yt-lIC8fYbrkII]] | How to scale yourself — the What-Why-How framework (diagnose underperformance) | |
 | 2021-07-07 | [[2021-07-07-yt-_x6n-CmZqjo]] | A billionaire's advice on $100M→$1B (attribution caution) | ★ |
+| 2021-07-09 | [[2021-07-09-yt-V7oUcAfof34]] | How I run 6 companies — owner-not-CEO portfolio model, "nose in hands out" (bio) | |
 | 2021-07-26 | [[2021-07-26-yt-rX5zKeQu7ow]] | "We fired everyone who was late" — hearts>smarts culture (by partner) | |
 | 2021-08-02 | [[2021-08-02-yt-ug5N9qmFVKQ]] | Billion-dollar empire in 2-3 days/wk — leverage/holding-co; early Acquisition.com vision | ★ |
 | 2021-08-09 | [[2021-08-09-yt-kULFeI3LRYk]] | $100k on courses — "bridge of skill-bricks"; paid Cardone $120k/4hrs (bio) | ★ |
@@ -648,7 +658,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_618 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_628 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

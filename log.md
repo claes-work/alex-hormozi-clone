@@ -1925,3 +1925,45 @@ Ledger 10→L2 (L2 now 618). youtube-index/index/footer updated. @AlexHormozi P2
 Synthesis backlog: service-delivery-cube + talent-grid → scaling/company-culture; the Mar-2019 Leila
 "shut it all down" burnout beat → biography.md; 3-Evil-Es / perspective-shifts / money-stopped-mattering
 → beliefs.
+
+## [2026-07-09] ingest | yt batch 83 — @AlexHormozi P2 (2021-06/07 gym-era), 10 videos
+
+Seventh @AlexHormozi P2 batch (4 agents / 10 pages). Wealth/tax/pricing/bio dense.
+
+- **2021-06-09** `yt-DAm0EOes5to` "After Failed Partnerships" — phantom equity / performance agreements
+  over default equity. ⚠️ **CONTRADICTION:** says **"eight" failed partnerships** here vs **"nine"** on
+  2021-03-18 (both self-reported; callout added on the source page).
+- **2021-06-11** `yt-ZfaZYFx89UU` "4 Ways Fortunes Are Made" — **labor / capital** (permission-based) vs
+  **code / media** (permissionless); "stumbled into" media by pivoting DFY→media/licensing. Corroborates
+  the Labor→Capital→Code→Content leverage ladder. **BIO:** at 27 sold gyms, lost everything to $1,036,
+  then >$17M two years later (self-reported).
+- **2021-06-14** `yt-BnvkMpUu-7c` "4-Part Investing Model" — evaluate via yield / capital preservation /
+  tax advantage / equity growth; example: a $2.5M hard-money bridge note (~4%/mo).
+- **2021-06-16** `yt-iFhiK5zORGk` "Charge Exorbitant Prices" — restrict supply + stimulate demand
+  (engineered scarcity, waiting lists) to shift the demand curve (proto scarcity-urgency pricing).
+- **2021-06-18** `yt-YhxiVIQp_ws` "How the Rich Avoid Taxes (Pt 1)" — ⭐ **TAX-TIMELINE REVISION:** this
+  is the EARLIEST dated tax source and already contains BOTH the buy-borrow-die mechanic AND anti-shelter
+  skepticism (rejects conservation easements/captive insurance; rejects PR on freedom grounds). So the
+  2021→2022→2024 tax arc is ONE consistent worldview with shifting emphasis, not a reversal — the
+  synthesis-pass position-evolution callout on [[tax-free-liquidity]] should be softened to "shifting
+  emphasis." ~$18M tax over 3 yrs, ~$750k on advisors (self-reported).
+- **2021-06-21** `yt-CRMT2yubBxc` "Best Way to Invest" — invest in yourself/your income first
+  (opportunity cost of attention beats active returns), then pull dividends into truly-passive index funds.
+- **2021-06-25** `yt-al_WXFDbN8I` "How Gurus Lie About Income" — 6 deceptions (extrapolating one deal;
+  lifetime-as-annual; revenue-as-cash-collected; fantasy multiples; top-line posturing; revenue-hiding-
+  net-worth). His transparency positioning (discloses revenue AND profit; admits using the "$122M" headline).
+- **2021-06-30** `yt-GO6VCcLlnLs` "Raise Prices Without Losing Sales" — anchor high, keep the old price as
+  the buyer's emotional "home base," down-sell the true target as a same-day prepay discount; "clear the
+  pipe" by pre-announcing increases (proto anchoring/prepay pricing).
+- **2021-07-05** `yt-lIC8fYbrkII` "How to Scale Yourself" — the **What-Why-How** diagnostic (What =
+  communication / "if it's not written it never happened"; How = training; Why = motivation/vision). First
+  two credit Andy Grove; distinct from the 2021-05-31 Talent Grid despite shared vocabulary.
+- **2021-07-09** `yt-V7oUcAfof34` "How I Run 6 Companies" — early Acquisition.com-precursor portfolio
+  model: owner-not-CEO, "nose in, hands out", quarterly meetings, 6-month "does it grow without me" test.
+  ⚠️ transcript says **3 owned outright + 5 minority = 8** (conflicts the title's "6"); companies unnamed;
+  portfolio ~$100M/yr (self-reported).
+
+Ledger 10→L2 (L2 now 628). youtube-index/index/footer updated. @AlexHormozi P2: ~50 rows remain.
+**Synthesis backlog:** tax-timeline REVISION (soften the 2022→2024 callout — buy-borrow-die present in
+2021); pricing (exorbitant/raise-prices → pricing-psychology); 4-ways-fortunes/leverage; What-Why-How +
+portfolio model → scaling; partnership 8-vs-9 count contradiction.
