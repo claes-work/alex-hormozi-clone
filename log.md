@@ -4328,3 +4328,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,254). youtube-index/index/footer updated.
 Synthesis notes: dead-community-unscalable-matchmaking/picture-prompts; Promise-Proof-Plan/B2B-risk-friction-reduction; feature-proof-testimonials/rock-bottom-vs-rock-top-story; one-market-focus-France/proof-context-over-US-FOMO; affiliate-monetization-for-product-heavy-community/honest-review-equity; raise-price-until-one-in-three/upfront-fee-plus-client-first-recoup; publish-to-learn/perfectionism-as-fear/450-pieces-per-week-standard; give-away-information-sell-personalization.
+
+## [2026-07-09] ingest | yt batch 169 - @MoreMozi P2 (2026-04-30 to 2026-05-01), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-30** `yt-HTgVjHO55Fs` - partner selection: expert without influence vs traffic,
+  authority, and access value.
+- **2026-04-30** `yt-ryEe--YzzrE` - founder side quests as a way to protect the main
+  business from novelty-driven disruption.
+- **2026-04-30** `yt-BpJ_aZ3UYKQ` - imposter syndrome as an evidence gap, and marketing
+  as stating facts and telling truth.
+- **2026-04-30** `yt-kVoFflryxDI` - niche-down pricing, 10k-100k YouTuber avatar, and
+  selling from the back foot.
+- **2026-04-30** `yt-XMh09JEjU_I` - online-education scale through ascension, localization,
+  creative volume, and cash-flow arbitrage.
+- **2026-04-30** `yt-FsOYmruUaZ8` - early community engagement through personal permission
+  DMs and picture prompts.
+- **2026-05-01** `yt-NvOvFB4wmXQ` - highlights-channel economics: avatar value and
+  attributed revenue over broad views.
+- **2026-05-01** `yt-IIaBNkmhuX8` - churn reduction through simple deliverables, activation,
+  and consumption instead of added content.
+
+Ledger 8->L2 (L2 now 1,262). youtube-index/index/footer updated.
+Synthesis notes: traffic-over-authority-partner-selection/access-as-value; side-quest-as-founder-novelty-management/books-as-additive-thinking-space; imposter-syndrome-evidence-gap/state-facts-tell-truth/change-world-to-make-facts-compelling; niche-based-pricing/5x-price/sell-from-back-foot; cash-flow-arbitrage-vs-enterprise-value/localization-gap/50-creatives-per-10k-day; personal-permission-DMs/picture-prompts-for-community-engagement; revenue-over-views/highlights-channel-one-operator-AI-mids/avatar-value-per-second; deliverable-simplicity-activation-consumption-reduce-churn.

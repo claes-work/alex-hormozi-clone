@@ -602,6 +602,12 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-03 | [[2026-04-03-yt-W0Xw3-gAsJ8]] | Law firm $24M — focus, open more offices (light) | |
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
 | 2026-04-28 | [[2026-04-28-yt-_TZEJAYUeCo]] | Roadmap $0→$10M — stage ladder + the "$3M three boxes" | ★ |
+| 2026-04-30 | [[2026-04-30-yt-HTgVjHO55Fs]] | Partner selection — experts without influence are just authorities | |
+| 2026-04-30 | [[2026-04-30-yt-ryEe--YzzrE]] | Side quests — protect the main business without draining resources | ★ |
+| 2026-04-30 | [[2026-04-30-yt-BpJ_aZ3UYKQ]] | Imposter syndrome — evidence gap, state facts and tell truth | ★ |
+| 2026-04-30 | [[2026-04-30-yt-kVoFflryxDI]] | Niche pricing — narrow avatar, 5x price, sell from back foot | ★ |
+| 2026-04-30 | [[2026-04-30-yt-XMh09JEjU_I]] | Online education scale — ascension, localization, cash-flow arbitrage | ★ |
+| 2026-04-30 | [[2026-04-30-yt-FsOYmruUaZ8]] | Early community engagement — personal DMs, permission, picture prompts | ★ |
 | 2026-05-01 | [[2026-05-01-yt-50qBolA4Vgw]] | Facilitator, not expert — mastermind as peer roundtable, sell outside own wallet/geography | ★ |
 | 2026-05-01 | [[2026-05-01-yt-L2rFSqxVFlw]] | Dead community — unscalable matchmaking plus real-world picture prompts | ★ |
 | 2026-05-01 | [[2026-05-01-yt-A_Xz7rkV-HI]] | Videographer page — Promise/Proof/Plan, B2B risk/friction reduction | ★ |
@@ -611,6 +617,8 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-01 | [[2026-05-01-yt-CbiqQOYQwa4]] | Pricing — raise until one-in-three close rate, upfront fee plus recoup preference | ★ |
 | 2026-05-01 | [[2026-05-01-yt-U-CWGwQ0VrY]] | Content iteration — publish to learn, perfectionism as fear of rejection | ★ |
 | 2026-05-01 | [[2026-05-01-yt-tJFqLdBAaIA]] | Monetization — give away information, sell personalization | ★ |
+| 2026-05-01 | [[2026-05-01-yt-NvOvFB4wmXQ]] | Highlights channel — revenue over views, avatar value per second, AI mids | ★ |
+| 2026-05-01 | [[2026-05-01-yt-IIaBNkmhuX8]] | Churn — fewer deliverables, more activation and consumption | ★ |
 | 2026-05-02 | [[2026-05-02-yt-5Th9mds7e2E]] | Freemium ascension — call free users, channel demand, next-problem monetization | ★ |
 | 2026-05-04 | [[2026-05-04-yt-4n4iSAhvF00]] | Free-to-paid community launch — 4-6 week data window, whisper-to-shout, conversion points | ★ |
 | 2026-05-04 | [[2026-05-04-yt-BP-W6ry0R-Y]] | Community exitability — recurring-revenue annuity, risk discount, asset vs job | ★ |
@@ -1284,7 +1292,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,254 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,218 total, including P2 (~1,210 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,262 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,210 total, including P2 (~1,202 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
