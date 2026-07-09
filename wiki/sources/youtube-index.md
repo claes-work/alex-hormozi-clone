@@ -601,6 +601,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-02 | [[2026-04-02-yt-0_Yyxwtrt_Q]] | Clothing brand $4.5M — retention 30→65% + price-matched influencers (light) | |
 | 2026-04-03 | [[2026-04-03-yt-W0Xw3-gAsJ8]] | Law firm $24M — focus, open more offices (light) | |
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
+| 2026-04-16 | [[2026-04-16-yt-iT4lqNIckcE]] | Sales speed - 60-second lead response under LTV:CAC | |
+| 2026-04-16 | [[2026-04-16-yt-OnRzaNiYsL0]] | Goals - trade-offs, time allocation reveals priority, volume advice | |
+| 2026-04-17 | [[2026-04-17-yt-0l11i7sn6fY]] | Endurance - Rocky cutscene grind, hard as selection effect | |
+| 2026-04-17 | [[2026-04-17-yt-G_M5eenRzQs]] | Sales team - utilization sweet spot, show rate and pipeline follow-up | |
+| 2026-04-17 | [[2026-04-17-yt-2Pzuc_8DxtU]] | Reference groups - decision influence, proximity changes behavior | |
+| 2026-04-17 | [[2026-04-17-yt-ss_FPYy1PXA]] | Life advice - want, ignore opinions, unreasonable volume | |
+| 2026-04-17 | [[2026-04-17-yt-jBfIY0nTBqc]] | Affiliates - lead magnet with 100% partner commission | |
+| 2026-04-17 | [[2026-04-17-yt-vllpsBJgYBI]] | Standards - unseen work and private scorecard | |
 | 2026-04-17 | [[2026-04-17-yt-6cmtCJj4rS0]] | Confidence - proof stack from tiny impulse wins | |
 | 2026-04-17 | [[2026-04-17-yt-QLyGPvXiO8M]] | Construction - niche to bathrooms, shift marketing before revenue | |
 | 2026-04-17 | [[2026-04-17-yt-Lww55zuwDIA]] | Paid scaling - LTV, creative quality, CAC convergence | |
@@ -1428,7 +1436,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,398 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,074 total, including P2 (~1,066 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,406 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~1,066 total, including P2 (~1,058 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

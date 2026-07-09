@@ -4818,3 +4818,26 @@ Synthesis notes: emotion-action-separation/game-tape-proof; money-attracts-cultu
 Ledger 8->L2 (L2 now 1,398). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: focus-high-quality-nos/big-domino/data-changes-behavior; reference-groups/spend-now-work-later-poverty-frame/bigger-dream-advice-filter; ignorance-debt/richer-avatar-same-work-higher-value; proof-stack-confidence/tiny-impulses; construction-niche-down-bathrooms/revenue-color-shift; paid-scaling-LTV-creative-cap/CAC-convergence/70-20-10-creative; lonely-chapter/hate-leading-indicator/convenience-friends-fade; no-luck-plans/Core-Four-leverage/customers-employees-agencies-affiliates.
+
+## [2026-07-09] ingest | yt batch 187 - @MoreMozi P2 (2026-04-16 to 2026-04-17), 8 videos
+
+- **2026-04-17** `yt-0l11i7sn6fY` - Rocky-cutscene grind, hard as selection effect, and
+  self-rooting through the long unsupported chapter.
+- **2026-04-17** `yt-G_M5eenRzQs` - sales-team utilization range, overbooked calendars
+  lowering show rates/follow-up, and hiring reps to squeeze pipeline.
+- **2026-04-17** `yt-2Pzuc_8DxtU` - reference group as decision influence, proximity only
+  mattering through behavior change, and paid access to better learning rooms.
+- **2026-04-17** `yt-ss_FPYy1PXA` - compressed 60-second advice: want, ignore opinions,
+  and do unreasonable volume.
+- **2026-04-17** `yt-jBfIY0nTBqc` - affiliate lead magnet with 100% partner commission
+  instead of a weak flat percentage.
+- **2026-04-17** `yt-vllpsBJgYBI` - unseen-work standard, private scorecard, and Goggins
+  quote attribution caveat.
+- **2026-04-16** `yt-iT4lqNIckcE` - 60-second lead response as an LTV:CAC driver and
+  high-return sales-speed rule.
+- **2026-04-16** `yt-OnRzaNiYsL0` - life as trade-offs, time allocation as revealed
+  priority, and repeated want/opinions/volume advice.
+
+Ledger 8->L2 (L2 now 1,406). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: Rocky-cutscene-5-to-10-year-grind/hard-as-selection-effect/slow-clap-self-rooting; sales-team-utilization-70-75-sweet-spot/show-rate-follow-up-pipeline; reference-group-decision-influence/proximity-changes-behavior/paid-learning-rooms; 60-second-advice-want-ignore-opinions-volume; affiliate-lead-magnet-100-percent-commission; unseen-work-standard/private-scorecard/Goggins-attribution; 60-second-lead-response-under-LTV-CAC; trade-offs/time-allocation-revealed-priority/under-skilled-vs-under-lived.
