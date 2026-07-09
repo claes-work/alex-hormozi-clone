@@ -3599,3 +3599,31 @@ L2.
 
 Ledger 8→L2 (L2 now 1,092). youtube-index/index/footer updated. @MoreMozi P2: ~1,346 rows remain.
 Synthesis notes: gross-margin/undercharging/80%-service-rule/30-day-cash-collect; small-creator consistency/commitment/confidence-output; real-case hiring/work samples/coachable learning speed; marketplace hard-side brand acquisition/AI workflows/revenue retention; good mood without reasons; past-success predictor/early-achievement self-report/moving standards; high-ticket creative volume/spend/pixel optimization; gym-floor/YMCA/status-resentment biography self-report.
+
+## [2026-07-09] ingest | yt batch 141 - @MoreMozi P2 (2026-05-13), 8 videos
+
+Fifty-fourth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-13** `yt-5Kjr3Sq5jYk` "I Worked 12-Hour Days for 2 Years and Made $30K" - agency:
+  Slovenia-to-U.S. market shift, realtor focus, teach-everything content, and add-zero pricing.
+- **2026-05-13** `yt-vvvi5rTL7TI` "Why You Don't Do What You Said You'd Do" - identity:
+  short-term reinforcement, behavior-first self-labeling, and adult identity formation.
+- **2026-05-13** `yt-UfCGLGt_Bzg` "Start a Business Based on Your Existing Industry Knowledge" - first business:
+  existing industry knowledge, lived problems, ignorance tax, and first-business momentum.
+- **2026-05-13** `yt-tx_NEKS0J2Q` "The Rule I Made After Reading 10 Self-Help Books" - action:
+  Baltimore self-help phase, implementation-before-more-reading rule, and knowing-that vs knowing-how.
+- **2026-05-13** `yt-qYXdbjE9SL8` "I Caught My Employee Stealing What Should I Do" - reputation:
+  disclose to buyer, fire the thief, values over tactics, and whole-truth trust.
+- **2026-05-13** `yt-l1cPJOxNi6c` "It's Okay to Not Know What You're Doing" - mindset:
+  normal-growth uncertainty, anti-pathologizing stance, anti-overmedication opinion, and medical caution.
+- **2026-05-13** `yt-Nug8TCS7G7Y` "You Need to Focus" - focus:
+  commitment as eliminated alternatives, nine-business self-report, Leila pointing to the best thing, and six-month payoff.
+- **2026-05-13** `yt--_03Pd5RFTk` "How To Know If You're Actually Working Hard Enough" - work ethic:
+  hard work as treasure map, granular feedback, coats of paint, and excellence through focus.
+
+Ledger 8->L2 (L2 now 1,100). youtube-index/index/footer updated. @MoreMozi P2: ~1,338 rows remain.
+Synthesis notes: Slovenia agency/US realtor market/content-as-proof/add-zero pricing; short-term reinforcement/behavior-first identity; first-business industry knowledge/ignorance tax; Baltimore self-help implementation rule/knowing-that-vs-knowing-how; employee theft disclosure/reputation/whole truth; anti-pathologizing/anti-overmedication medical-caution position; focus commitment/nine-business self-report/Leila/six-month payoff; hard-work treasure-map/granular feedback/coats-of-paint.
