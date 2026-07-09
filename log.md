@@ -2876,3 +2876,28 @@ during caption fetch and remain open for retry; the 8 successful rows were inges
 
 Ledger 8→L2 (L2 now 877). youtube-index/index/footer updated. @MoreMozi P2: ~1,562 rows remain.
 Synthesis notes: corporate productization and value-based pricing; creator/influencer trust as platform growth lever and anti-capital-raise stance; low-capex service reinvestment into talent/brand plus scale-zero delegation; HRT churn/customer-success constraint; sales-god to sales-training-god identity shift; no-capital performance/headhunting/customer-acquisition model; med-spa founder-delivery buyback; operator incentive/phone-does-not-ring roll-up delegation.
+
+## [2026-07-09] ingest | yt batch 114 — @MoreMozi P2 (2026-06-05 to 2026-06-06), 8 videos
+
+Twenty-seventh resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again
+during caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-06** `yt-qsGvub8nxaU` "My Spiritual Coaching Offer Isn't Converting. Help." — spiritual coaching:
+  observable behavior language, low-ticket buyer ascension, and win-your-money-back offer mechanics.
+- **2026-06-06** `yt-cvn8nPtLtfc` "Helping a $4M Tattoo Business Scale to $35M" — tattoo business:
+  education cash flow vs sellable studio path, focus tradeoff, and consumable stickiness.
+- **2026-06-06** `yt-I1NYJ8dm4Jk` "Helping a $1.5M Nail Salon Owner Stop Doing Too Much" — nail salon:
+  vision vs plan, nail the unit model, remove founder-media dependence, then franchise.
+- **2026-06-06** `yt-xrZH29ut-LY` "I'm Trying to Build an Empire' — Hormozi Stops Her Cold" — near-duplicate nail salon clip:
+  franchise path, quality-control training problem, and AI/robotics caveat.
+- **2026-06-05** `yt-tWRrd0ClwjA` "I'm Closing 10% of My Sales Calls. What Am I Doing Wrong?" — client-acquisition agency:
+  proof gap, free-trial-plus-penalty, and eventual low-cost automation vs whale upmarket paths.
+- **2026-06-05** `yt-Ht9u-qEXTQY` "Sounds like a scam': Pitching $200K in savings to CEOs" — health-benefits nonprofit:
+  believable savings mechanism, centers of influence, and affiliate launch/integration.
+- **2026-06-05** `yt-K9YN5sbwR94` "Why Warren Buffett Calls This Industry a Scam" — near-duplicate health-benefits clip:
+  center-of-influence acquisition, sales-process repair, and affiliate integration.
+- **2026-06-05** `yt-MEuEEoC-9s0` "Why I Tell Beginners to Cold Email Before Running Ads" — acquisition channels:
+  outbound as beginner training, baseline content as nurture, and sell-warm-like-cold discipline.
+
+Ledger 8→L2 (L2 now 885). youtube-index/index/footer updated. @MoreMozi P2: ~1,554 rows remain.
+Synthesis notes: observable-language offer clarity and win-your-money-back mechanics; tattoo education-vs-exit path with consumable stickiness; nail salon franchise unit-model/founder-media dependence and training bottleneck; agency proof-gap/free-trial-plus-penalty path to low-cost or whale endpoints; centers-of-influence as primary customers with affiliate launch/integration; outbound-before-ads and sell-warm-like-cold sales discipline.

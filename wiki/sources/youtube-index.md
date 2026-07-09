@@ -587,7 +587,15 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
 | 2026-06-04 | [[2026-06-04-yt-B7P5WCVfnPE]] | First high-ticket sale — $6k quote → $60k morning (bio) | ★ |
+| 2026-06-05 | [[2026-06-05-yt-tWRrd0ClwjA]] | Agency proof gap - free-trial-plus-penalty and SMB churn path | |
+| 2026-06-05 | [[2026-06-05-yt-Ht9u-qEXTQY]] | Health-benefits savings pitch - centers of influence and affiliate integration | |
+| 2026-06-05 | [[2026-06-05-yt-K9YN5sbwR94]] | Health-benefits duplicate - believable mechanism and affiliate integration | |
+| 2026-06-05 | [[2026-06-05-yt-MEuEEoC-9s0]] | Outbound before ads - baseline content nurture and sell warm like cold | |
 | 2026-06-06 | [[2026-06-06-yt-Uw9weyjJL1A]] | "Raising $100M kicked out" — ⚠️ coaching case, NOT Alex bio (title mismatch) | |
+| 2026-06-06 | [[2026-06-06-yt-qsGvub8nxaU]] | Spiritual coaching - observable behavior language and win-your-money-back | |
+| 2026-06-06 | [[2026-06-06-yt-cvn8nPtLtfc]] | Tattoo business - education cash-flow vs sellable studio path | |
+| 2026-06-06 | [[2026-06-06-yt-I1NYJ8dm4Jk]] | Nail salon - franchise after model works without founder media | |
+| 2026-06-06 | [[2026-06-06-yt-xrZH29ut-LY]] | Nail salon duplicate - vision vs plan; training as hard franchise problem | |
 | 2026-06-06 | [[2026-06-06-yt-C7t6IIPr4QY]] | No-capital startup — performance-based headhunting/customer acquisition | |
 | 2026-06-06 | [[2026-06-06-yt-rqJM6mFhyes]] | Med spa — founder delivery bottleneck; hire physician to buy back time | |
 | 2026-06-06 | [[2026-06-06-yt-Ok8cv-ivKIw]] | Med-spa roll-up — operator incentives and phone-does-not-ring test | |
@@ -907,7 +915,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_877 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,657 total, including P2 (~1,635, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_885 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,649 total, including P2 (~1,627, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
