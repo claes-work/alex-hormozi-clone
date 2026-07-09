@@ -4680,3 +4680,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,358). youtube-index/index/footer updated.
 Synthesis notes: passion-through-competence/learning-to-work/repetitive-actions-as-win/ping-pong-lifting-presence; money-as-bottled-time/love-making-money/fear-of-power/money-amplifies-mission; accept-suffering/fix-story-loop/punishment-fades-reward-sticks/present-lament-warning; content-circle-of-competence/first-experience-content/retrospective-authority/comments-sting-when-true; LTV-CAC-vs-ROIC/semi-private-lessons/80-percent-gross-margin/supply-constraint-levers/stress-lowers-capacity; SaaS-resting-growth-rate/fix-bucket-before-paid-traffic/referrals-vs-expansion/Skool-metrics; LTV-over-CAC/negative-word-of-mouth/coaching-new-offer-trap/solve-back-to-front; content-only-if-constraint/attention-if-not-supply-constrained/content-for-labor-supply.
+
+## [2026-07-09] ingest | yt batch 182 - @MoreMozi P2 (2026-04-20 to 2026-04-21), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-21** `yt-0M7TNTWKwZI` - expectation adjustment, liking his life, no-alarm
+  sleep pattern, and anti-crutch superstition.
+- **2026-04-21** `yt-RItoqWMqLHU` - fear as vague downside projection, inverted thinking,
+  and making worst cases concrete.
+- **2026-04-21** `yt-TH0v1BpsgeQ` - roofing roll-up option structure, EBITDA contribution
+  slices, and the need for one person in control.
+- **2026-04-21** `yt-Uwgqp_RBl7Y` - happiness as autonomy and doing liked work with liked
+  people.
+- **2026-04-21** `yt-feIy09UZ3YY` - MESO negotiation, priority discovery, positive-sum
+  tradeoffs, and Sharran's option-D counter.
+- **2026-04-20** `yt-xKA-sxrumEA` - beauty brand should avoid opening salons and scale
+  through education, media, and existing distribution.
+- **2026-04-20** `yt-8zCv0qHqm0g` - maker mornings, meetings booked back-to-front, large
+  content team, and seven-day work rhythm.
+- **2026-04-20** `yt-Tz7NFsvjtE8` - enough as finishing one's own race, including the
+  first-gym-manager story.
+
+Ledger 8->L2 (L2 now 1,366). youtube-index/index/footer updated.
+Synthesis notes: expectation-adjustment/likes-life/no-alarm/sleep-as-long-as-can/anti-crutch-superstition; fear-emotion/inverted-thinking/vague-to-specific-fear/upside-downside-bias; roll-up-option-structure/consolidated-EBITDA-pie/one-person-control/spread-capture; happiness-autonomy/liked-work-with-liked-people/stable-contentedness; MESO-negotiation/positive-sum-priorities/option-D-counter-Sharran; beauty-brand-avoid-service-locations/education-product-distribution/media-location-only/few-details-perfectly; maker-mornings/back-to-front-calendar/large-content-team/seven-day-work-rhythm/Leila-meeting-heavy; enough-as-own-race/ambition-squeezes-person/first-gym-manager-trainer-story.
