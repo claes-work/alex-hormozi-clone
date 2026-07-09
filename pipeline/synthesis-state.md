@@ -12,7 +12,9 @@ Everything ingested after this is L2 (source pages exist) but **NOT yet promoted
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_None._
+- [ ] **@MoreMozi Q&A cuts — batches 123–153** — ~31 ingest batches (~300 videos) accumulated after
+      the batch-122 high-water mark during the 2026-07-09 Codex run. L2 source pages exist; not yet
+      promoted to topics/persona. Drain via `python tools/synthesis_batch.py prepare`.
 
 ## Done checkpoints
 - [x] **@MoreMozi Q&A cuts — batches 112–122** — synthesis pass 13 (2026-07-09) →

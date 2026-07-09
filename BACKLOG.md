@@ -5,20 +5,23 @@ This is the single human-readable checklist of all planned work. Tick `[x]` when
 after each work block. (Machine state of truth for sources stays in `pipeline/ledger.csv`; this file is the
 plain-language overview.)
 
-**Snapshot (2026-07-09):** 664 videos ingested (L2) + 1 book (L3) · persona system-prompt **v18** ·
-mass-ingest **paused** at user request (resume ~week of 2026-07-14).
+**Snapshot (2026-07-09, updated after Codex run):** **1,187** videos ingested (L2) + 2 books (L3) ·
+persona system-prompt **v23** · ingest **paused** at @MoreMozi **batch 153**.
+⚠️ **Synthesis debt:** batches **123–153** (~31 batches / ~300 videos) are L2 but **not yet promoted**
+to topics/persona (high-water mark = batch 122). See section E.
 
 ---
 
 ## A. YouTube ingest — IN PROGRESS
-- [ ] @AlexHormozi long-form — **~15 P2 rows left** (late-2021 onward)
-- [ ] @ACQofficial long-form — ~2 rows left
-- [ ] @TheSkoolSchool long-form — ~2 rows left
-- [ ] @GymLaunch long-form — ~59 rows left (mostly Kale Owen — title-triage, skip non-Alex)
-- [ ] @MoreMozi long-form — **~1,692 rows left** (Q&A cuts; the big remaining chunk)
-- [ ] Shorts dedup — **~8,300 shorts** across channels (dedupe vs long-form; new → L2, dup → skipped)
+_Open long-form counts as of 2026-07-09 (post-Codex run), from `python tools/ingest_batch.py status`:_
+- [ ] @AlexHormozi long-form — **17 rows left** (10 P2 + 7 P3, late-2021 onward)
+- [ ] @ACQofficial long-form — **2 rows left** (P3)
+- [ ] @TheSkoolSchool long-form — **2 rows left** (P3)
+- [ ] @GymLaunch long-form — **66 rows left** (63 P2 + 3 P3, mostly Kale Owen — title-triage, skip non-Alex)
+- [ ] @MoreMozi long-form — **1,258 rows left** (1,250 P2 + 8 P3; Q&A cuts — the big remaining chunk)
+- [ ] Shorts dedup — **~8,701 shorts** across channels (dedupe vs long-form; new → L2, dup → skipped)
 - [ ] Retry the ~10 videos flagged `429` / `no-captions` / `unavailable`
-- [ ] Periodic synthesis passes (promote L3 material every ~10 batches)
+- [ ] Periodic synthesis passes (promote L3 material every ~10 batches) — **currently 31 batches behind**
 
 ## B. YouTube performance/analytics layer — PLANNED (decisions made)
 _See memory `youtube-analytics-layer-plan`. Cross-project with `D:\Dev\youtube-engine`._
@@ -56,11 +59,14 @@ _See memory `acquisition-com-course-ingest-plan`. Index public; lessons are JS-r
 ## E. Synthesis / persona / wrap-up — ONGOING
 - [ ] **⏳ SYNTHESIS DEBT — tracked in `pipeline/synthesis-state.md`.** L2 batches write ONLY
   `wiki/sources/` pages; promoting into `topics/`+`persona/` is a **separate synthesis loop** (by design).
-  **High-water mark: batch 91 (system-prompt v20).** Pending: _none currently_ (future
-  batches will add new checkpoints). Run the synthesis loop —
-  `python tools/synthesis_batch.py status` → `… prepare` — at each channel/era boundary or every ~10
-  batches (see [`tools/SYNTHESIS.md`](tools/SYNTHESIS.md) + AGENTS.md "The two loops"). This is the
-  **immediate next big job** once the current @MoreMozi ingest run pauses.
+  **High-water mark: batch 122 (system-prompt v23).** ⚠️ **Pending: @MoreMozi batches 123–153**
+  (~31 batches / ~300 videos) — registered as a pending checkpoint in `pipeline/synthesis-state.md`.
+  Run the synthesis loop — `python tools/synthesis_batch.py prepare` → do the pass → commit — at each
+  channel/era boundary or every ~10 batches (see [`tools/SYNTHESIS.md`](tools/SYNTHESIS.md) + AGENTS.md
+  "The two loops"). This is the **immediate next big job** before resuming ingest.
+  _Note: `synthesis_batch.py status` only counts **registered** pending checkpoints, so it can print
+  "caught up" while real debt exists in the log — always cross-check `ingest_batch.py status`'s
+  "batches since last synthesis" counter._
 - [x] Work the accumulated @AlexHormozi P2 L3 synthesis backlog from batches 81–87 (Netflix 8-C's, Theory-of-Constraints, moats, recruit-mirror, service-delivery-cube, talent-grid)
 - [x] ⭐ Add **philanthropy** to biography.md (Aug-2021 wills leave entire $60–80M estate to charity + After-School All-Stars) and **resolve the philanthropy gap** in `wiki/gaps.md`
 - [x] Add the dated-2021 **father quote** to biography (early father-conflict instance)
