@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 153** — synthesis pass 14, system-prompt **v24** (2026-07-09).
+Synthesized through: **batch 155** — synthesis pass 15, system-prompt **v25** (2026-07-09).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -15,6 +15,12 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@AlexHormozi completion — batches 154-155** — synthesis pass 15 (2026-07-09) →
+      system-prompt **v25**. Promoted business-only active investing after liquidity,
+      $40M/all-cash Acquisition.com self-reports, exhaust-working-path-before-new-avatar,
+      back-to-front diagnosis, local-to-global service sales, brokerage-level local channel
+      partners, and event-day/Black-Friday offer design. Dropped repeats already covered by
+      complaint-handling, observable management, and 85-year-old/future-self pages.
 - [x] **@MoreMozi Q&A cuts — batches 123-153** — synthesis pass 14 (2026-07-09) →
       system-prompt **v24**. Promoted outcome-not-AI positioning, outcome/bespoke pricing,
       existing-provider objection handling, VSL pre-framing, predictable seasonality as

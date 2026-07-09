@@ -420,6 +420,11 @@ all — high margin is the enabling condition. See [[business]] and
   centers-of-influence coaching, he pushes the owner to make the partner's first referred customer
   successful so the partner sees a concrete, low-risk proof case before being asked for volume
   [[../../sources/2026-06-20-yt-xaRTwfdKero]].
+- **Brokerages as leveraged local channel partners.** In the 2026 moving-company "Scale or Fail"
+  diagnosis, he treats real-estate brokerages as a higher-leverage channel than individual
+  realtor DMs: one brokerage can contain many agents and recurring move referrals. The target is
+  integration into the brokerage's moving packet or process, with the brokerage able to offer a
+  VIP/white-glove upgrade to its customers [[../../sources/2026-06-26-yt-zzleYxkf39k]].
 
 ---
 
@@ -454,3 +459,5 @@ all — high margin is the enabling condition. See [[business]] and
   B2B outbound channels.
 - [[../../sources/2026-06-20-yt-xaRTwfdKero]] — COI / partner acquisition anchored on one real
   successful customer.
+- [[../../sources/2026-06-26-yt-zzleYxkf39k]] — brokerage-level local partner channel for a
+  moving company.

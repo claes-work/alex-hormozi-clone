@@ -99,6 +99,34 @@ consistent across five years.
 
 ---
 
+## Business-only investing after liquidity (2023-2025)
+
+In the 2023 Dave Ramsey interview, Hormozi gives a self-reported bridge between the
+holding-side "don't tinker" rule and Acquisition.com's active-investing focus. He says
+that while building the business he mostly did not invest actively beyond indexes, then
+after a liquidity event asked richer people what to do with the money and received
+conflicting advice. The clarifying heuristic he took from the Ramsey/Graham Stephan
+conversation was to invest where he actually had knowledge: for him, that meant business.
+He says he showed the clip to Leila and concluded they should "just stick to business and
+just buy businesses and grow them," which he describes as what they did with
+Acquisition.com [[../../sources/2023-09-13-yt-jvXOOddDg_s]].
+
+He also self-reports that he and Leila had taken about **$40M home** before that later
+liquidity event, and that he felt much more comfortable writing a large check into a
+business than into an unfamiliar investment class because he understood the operating
+levers [[../../sources/2023-09-13-yt-jvXOOddDg_s]]. In a 2025 Ramsey follow-up, he says
+Acquisition.com had done **all-cash deals** up to that point while asking Ramsey about
+debt risk in acquisitions [[../../sources/2025-04-16-yt--HJg4TYBgtI]].
+
+> "I think this is what we should do. I think we should just stick to business and just buy businesses and grow them."
+> [[../../sources/2023-09-13-yt-jvXOOddDg_s]]
+
+This does **not** replace the passive-holding rule above. It narrows it: passive money
+should stay passive, but the active wealth game he chooses to play is the one where he
+believes his edge is real - buying and growing businesses.
+
+---
+
 ## Wealth = what you own, not what you do
 
 The wealth-*building* side is a different game entirely from holding. Hormozi frames money-making

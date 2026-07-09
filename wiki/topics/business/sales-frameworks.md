@@ -4,7 +4,7 @@ domains: [business]
 created: 2026-07-08
 updated: 2026-07-09
 tags: [sales]
-sources: 18
+sources: 19
 ---
 
 # Sales Frameworks
@@ -589,6 +589,24 @@ pre-call asset should frame the seller, proof, conversation, and buying decision
 the live close; otherwise the call has to do too much trust-transfer work at once
 [[../../sources/2026-05-06-yt-kwAg8D95ktE]].
 
+## 10. Local-to-global selling: escape commodity price comparison
+
+In a 2026 "Scale or Fail" moving-company diagnosis, Hormozi applies his sales lens to a
+local service business competing on hourly price. His advice is to move the buyer from a
+**local** comparison ("what is the hourly rate?") to a **global** comparison that includes
+the whole risk/ease/speed system: mover experience, insurance, materials, packing, caps,
+same-day availability, and the cost of a bad move. A good sales process educates the buyer
+on variables they had not considered, so the offer is no longer apples-to-apples with a
+cheaper competitor [[../../sources/2026-06-26-yt-zzleYxkf39k]].
+
+The offer prescription: create **VIP** and **standard** tiers, start high, and let budget
+buyers step down. For realtor referrals, give the end customer a free VIP/white-glove
+upgrade rather than a simple discount, because the realtor gains status by being the source
+of the better experience [[../../sources/2026-06-26-yt-zzleYxkf39k]].
+
+> "I've never been in the price matching game my whole life. I'd rather just be in the value surpassing game."
+> [[../../sources/2026-06-26-yt-zzleYxkf39k]]
+
 ## Related pages
 
 - Hub: [[business]]
@@ -626,3 +644,5 @@ the live close; otherwise the call has to do too much trust-transfer work at onc
   R-added-later (2022)
 - [[../../sources/2026-05-27-yt-n_6TZGmck3k]] — conviction + trust restatement; testimonials
   as conviction fuel; childlike curiosity in objections (2026)
+- [[../../sources/2026-06-26-yt-zzleYxkf39k]] — local-to-global service sales, VIP/standard
+  tiering, and value-surpassing vs. price matching (2026)

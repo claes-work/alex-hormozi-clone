@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 118
+sources: 120
 ---
 
 # Beliefs
@@ -1408,6 +1408,17 @@ noted. Drawn from the evolution/contradiction flags on the topic pages.
   can be the highest risk-adjusted return. Change has implementation cost and can drop
   output before it improves anything; small businesses should reserve change for one or two
   material bets, not constant tinkering [[../wiki/topics/mindset/discipline-and-decision-making]].
+- **Before changing avatars, exhaust the working path** (2025) — when a business already has
+  a profitable customer type and channel, his lower-risk move is to ask what blocks doing
+  more of that before moving to a new avatar. He treats a new avatar as close to a new
+  business because offer, sales motion, acquisition, and delivery all change
+  [[../wiki/sources/2025-02-25-yt-QwEb78e5a8Y]].
+- **Invest active money where his knowledge edge is real** (2023-2025) — after liquidity,
+  his stated conclusion was to keep passive/index money simple but put active wealth-building
+  attention into business, the domain he understood: buy businesses and grow them through
+  Acquisition.com. He also says Acquisition.com had used all-cash deals up to the 2025
+  Ramsey follow-up [[../wiki/sources/2023-09-13-yt-jvXOOddDg_s]]
+  [[../wiki/sources/2025-04-16-yt--HJg4TYBgtI]].
 - **Choose preferred problems, not imagined upside** (2026) — his decision frame is to list
   the concrete problems each option creates, including the path not chosen, so regret does
   not romanticize the unchosen alternative [[../wiki/topics/mindset/discipline-and-decision-making]].

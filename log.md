@@ -4034,3 +4034,14 @@ and participant material was attributed separately on interview/show pages befor
 
 Ledger 7->L2 (L2 now 1,212). youtube-index/index/footer updated. @AlexHormozi long-form complete.
 Synthesis notes: future-self-journaling/business-only-investing-focus/workout-full-body-own-niche-branding; Dave-Ramsey-trust-brand-context/$40M-taken-home-before-liquidity/indexes-before-liquidity/all-cash-Acquisition-com-deals; first-business-as-learning/scratch-own-itch/do-things-and-tell-people/advertising-making-known; Black-Friday-focus/event-offers/data-capture/first-time-buyer-incentives/media-asset-monetization; make-it-more-than-right/consumption-before-renewal/data-before-ideation/exhaust-working-path-before-new-avatar/behavior-level-management/supply-constraint-recruiting; speed-of-trust/Acquisition-com-family-office-structure/all-cash-deals; back-to-front-fix-order/local-to-global-sales/brokerage-channel/commodity-to-VIP-repositioning.
+
+## [2026-07-09] lint | synthesis pass 15 - @AlexHormozi completion batches 154-155
+
+Cleared the registered @AlexHormozi completion checkpoint for batches 154-155. Promoted only
+non-repeat findings into existing topic/persona files: business-only active investing after
+liquidity ($40M self-report, indexes while building, Acquisition.com buy-and-grow-businesses focus,
+all-cash deals to date), exhaust working path before new avatar, back-to-front diagnosis,
+local-to-global service sales/VIP tiering, brokerage-level local partner channel, and event-day/
+Black-Friday offer design/data capture. Recompiled `persona/system-prompt.md` to v25 and advanced
+the synthesis high-water mark to batch 155. Dropped repeats already covered by complaint-handling,
+observable management, and future-self/85-year-old material.

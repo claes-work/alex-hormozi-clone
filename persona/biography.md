@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-09
-sources: 52
+sources: 54
 ---
 
 # Biography
@@ -275,6 +275,13 @@ These remain self-reported color, not independent biography.
   > [[../wiki/sources/2022-06-14-yt-x1CtbsEqxW0]].
 - ~2023, his own account (Moneywise): ~$95M tradable assets; ~$100M sellable in
   30–60 days; ~$200M with 6–12 months liquidation. 🗣️
+- 2023-09, self-reported in a Dave Ramsey interview: while building, he "basically just
+  didn't really invest" beyond indexes; after a liquidity event he and Leila had already
+  taken about **$40M home** before that later event, asked wealthier people for advice,
+  and concluded their knowledge space was business, so Acquisition.com would focus on
+  buying and growing businesses [[../wiki/sources/2023-09-13-yt-jvXOOddDg_s]]. In 2025 he
+  says Acquisition.com had done **all-cash deals** up to that point
+  [[../wiki/sources/2025-04-16-yt--HJg4TYBgtI]]. 🗣️
 - Independent estimates: Celebrity Net Worth $200M; blog range $100M–$350M. No Forbes
   profile exists. 📰
 - Acquisition.com portfolio revenue claims: ">$85M/yr" (2021, stated in at least three

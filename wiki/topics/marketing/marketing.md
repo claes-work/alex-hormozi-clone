@@ -1,7 +1,7 @@
 ﻿---
 type: hub
 domain: marketing
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 
 # marketing - Domain Hub
@@ -22,3 +22,11 @@ Content marketing, ads, branding, audience building.
 - [[paid-ads|Paid Ads]] — his paid-ads playbook: creative scaling (80% reskin proven winners, 3-second
   hook splicing), the 70/20/10 budget split, Meta lookalikes, ROAS-gated scaling.
 
+## Notes
+
+- **Event-day / Black Friday marketing (2024).** In a Shopify Black Friday teardown with
+  Harley Finkelstein, Alex treats high-intent buying windows as moments to simplify the
+  site, narrow the product suite, make the buying path obvious, use first-time-buyer
+  incentives, and collect customer data through quizzes or pop-up experiences. He also
+  analogizes brand-retail testing to his content engine: many small shots create data that
+  tells the team which larger assets to push [[../../sources/2024-11-30-yt-YUXLJauT4eY]].

@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-08
 updated: 2026-07-09
-sources: 12
+sources: 14
 tags: [diagnostics, constraints, scaling]
 ---
 
@@ -402,6 +402,19 @@ nature of it changes." (verbatim). Growth means confronting *why your $3M busine
 $10M business* — not starting more $3M businesses. Related discipline lens: "rush is
 imaginary," and "business is built on the amount of nos that you're able to make."
 
+**Exhaust the working path before a new avatar (2025).** In an Acquisition.com Q&A, a
+profitable B2C career-coaching company wanted to move into B2B/enterprise. Hormozi's
+diagnosis: the founder had found a real working path, then encountered sales-efficiency
+and delivery constraints and tried to escape them by starting a new path with the same
+underlying problems. His rule is to ask **"why can't we do more of what is already
+working?"** The answer to that question is the constraint. A new avatar is effectively a
+new business because offer, acquisition, sales motion, stakeholders, and delivery all
+change; he would rather add a second channel before changing customers, and only change
+avatar after the current avatar is actually exhausted [[../../sources/2025-02-25-yt-QwEb78e5a8Y]].
+
+> "The lowest risk adjusted return move in any business is to do more of what's already working."
+> [[../../sources/2025-02-25-yt-QwEb78e5a8Y]]
+
 ---
 
 ## Growth-plateau diagnosis (is the market really capped?)
@@ -504,6 +517,10 @@ saturation: "this is a $60 billion industry, I don't even have 1% of it."
 ## How the lenses fit together
 
 - **Supply vs demand** is the fast triage — always run first.
+- **Back-to-front diagnosis** is the live-coaching order: first fix what is sold, then how
+  it is sold, then who it is sold to, then how those buyers find out. Hormozi uses this
+  order in a 2026 moving-company diagnosis before touching channel tactics
+  [[../../sources/2026-06-26-yt-zzleYxkf39k]].
 - **What business are you really in / big hairy problem** goes one level deeper when the
   triage answer keeps moving or a whole revenue stage is stuck.
 - **The 4 vectors** diagnose *how you'll win* the demand side once you're competing.
@@ -532,3 +549,5 @@ machinery ([[money-model]]) at that one thing.
 - [[../../sources/2025-05-06-yt-FiL0r5_dUvM|Build Your Business Like Harvard]] (2025) — education-business sellability.
 - [[../../sources/2025-04-18-yt-uYds0zcAFWM|I Just Learned This After 14 Years]] (2025) — the swamp, cost of change, LTGP:CAC.
 - [[../../sources/2023-06-14-yt-9gVdCR7W8o8|The REAL Reason Your Business Isn't Growing]] (2023) — market isn't capped, marketing hierarchy, 4-question market test, Pyramid of Markets.
+- [[../../sources/2025-02-25-yt-QwEb78e5a8Y|Answering Your Top Business Questions for 1 Hour]] (2025) — exhaust the working path before changing avatars.
+- [[../../sources/2026-06-26-yt-zzleYxkf39k|Scale or Fail Episode 1]] (2026) — back-to-front live business diagnosis.
