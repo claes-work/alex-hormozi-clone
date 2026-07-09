@@ -62,6 +62,8 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 LEDGER = REPO / "pipeline" / "ledger.csv"
 INDEX = REPO / "wiki" / "sources" / "youtube-index.md"
+LOG = REPO / "log.md"
+SYNTH_CHECKPOINT = 10  # ingest batches since last synthesis -> a synthesis pass is due
 FLAG_RE = re.compile(r"429|no-captions|unavailable|dup-of", re.IGNORECASE)
 OPEN_STATUSES = {"L0-discovered", "L1"}
 
@@ -88,6 +90,40 @@ def normalize_channel(arg: str) -> str:
             return h
     sys.exit(f"unknown channel '{arg}'. Known: " + ", ".join(
         sorted({r['channel_or_publisher'] for r in read_ledger() if r['channel_or_publisher'].startswith('@')})))
+
+
+def batches_since_synthesis() -> int:
+    """Count ingest-batch log entries since the last synthesis pass (the synthesis debt, in batches)."""
+    count = 0
+    for line in (LOG.read_text(encoding="utf-8", errors="replace") if LOG.exists() else "").splitlines():
+        if line.startswith("## ["):
+            low = line.lower()
+            if "synthesis" in low:      # a synthesis/lint pass resets the counter
+                count = 0
+            elif "ingest |" in low or "| ingest" in low or "ingest |" in low:
+                count += 1
+    return count
+
+
+def channel_open_count(rows: list[dict], channel: str) -> int:
+    return sum(1 for r in rows if r["channel_or_publisher"] == channel and r["type"] == "video"
+               and r["status"] in OPEN_STATUSES and not FLAG_RE.search(r.get("notes", "")))
+
+
+def print_checkpoint(rows: list[dict], channel: str, batch_size: int) -> None:
+    """Nudge the agent to switch to the synthesis loop at a checkpoint (channel done / ~10 batches)."""
+    debt = batches_since_synthesis()
+    remaining_after = channel_open_count(rows, channel) - batch_size
+    if remaining_after <= 0:
+        print("\n" + "!" * 78)
+        print(f">>> CHECKPOINT: {channel} long-form will be COMPLETE after this batch.")
+        print(">>> Run the SYNTHESIS loop before the next channel:  python tools/synthesis_batch.py prepare")
+        print("!" * 78)
+    elif debt >= SYNTH_CHECKPOINT:
+        print("\n" + "!" * 78)
+        print(f">>> CHECKPOINT: {debt} ingest batches since the last synthesis pass (>= {SYNTH_CHECKPOINT}).")
+        print(">>> Run the SYNTHESIS loop now, then resume ingest:  python tools/synthesis_batch.py prepare")
+        print("!" * 78)
 
 
 def ledger_set(row_id: str, **fields: str) -> None:
@@ -168,6 +204,9 @@ def cmd_status(_: argparse.Namespace) -> None:
     l3 = sum(1 for r in rows if r["status"] == "L3")
     print(f"\n  open shorts (all channels): {shorts}")
     print(f"  ingested: L2={l2}  L3={l3}")
+    debt = batches_since_synthesis()
+    flag = "  <-- SYNTHESIS DUE (run tools/synthesis_batch.py)" if debt >= SYNTH_CHECKPOINT else ""
+    print(f"  ingest batches since last synthesis: {debt} (checkpoint at {SYNTH_CHECKPOINT}){flag}")
     if INDEX.exists():
         m = re.search(r"_(\d+) videos ingested", INDEX.read_text(encoding="utf-8", errors="replace"))
         if m:
@@ -258,6 +297,7 @@ English only.
     print(f"  4. bump the youtube-index footer count (+{len(ok)}) and the index.md count")
     print("  5. append ONE log.md entry, then commit + push")
     print(f"\nSummary: {len(ok)} ok, {len(marked)} marked, {len(retry)} retry/error.")
+    print_checkpoint(rows, channel, len(batch))
 
 
 def main() -> None:

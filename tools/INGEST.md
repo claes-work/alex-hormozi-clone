@@ -90,13 +90,21 @@ In Codex/Pi there are no slash commands and no unattended scheduling — you dri
 plain instruction. Paste this as the session opener (adjust channel/count):
 
 ```
-Read AGENTS.md and tools/INGEST.md. Then run one ingest batch:
+Read AGENTS.md, tools/INGEST.md and tools/SYNTHESIS.md. Then run one ingest batch:
 run  python tools/ingest_batch.py prepare --channel @MoreMozi --n 10
 For each OK video in the work order, read its transcript and write the wiki/sources page
 under the fidelity rules. Then set each ledger row to L2 (tools/ledger_set.py), insert the
 rows into wiki/sources/youtube-index.md in date order, bump the footer + index.md counts,
-append one log.md entry, and commit + push. Then repeat for the next batch until I say stop.
+append one log.md entry (ending in a `Synthesis notes:` line), and commit + push.
+IMPORTANT: if the driver prints a ">>> CHECKPOINT" banner (channel complete, or >=10 batches
+since the last synthesis), STOP ingesting and run one full synthesis loop instead
+(python tools/synthesis_batch.py prepare -> do the pass -> commit), then resume ingesting.
+Repeat this ingest/checkpoint rhythm until I say stop.
 ```
+
+This single opener runs **both loops in one session**: it ingests, and whenever the driver flags a
+checkpoint it switches to synthesis, then resumes. One agent alternating the two loops is safe (the
+"never both at once" rule is only about two *separate* sessions on the same repo).
 
 - To run several batches back-to-back without prompts, use Codex's full-auto approval mode (with
   the workspace-write sandbox + **network enabled** — yt-dlp and `git push` need it).
