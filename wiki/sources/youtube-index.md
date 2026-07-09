@@ -584,11 +584,19 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-04-12 | [[2026-04-12-yt-lIL8wDuLWac]] | Shiny object trap — tech-enabled vs SaaS multiple (coaching) | |
 | 2026-04-28 | [[2026-04-28-yt-_TZEJAYUeCo]] | Roadmap $0→$10M — stage ladder + the "$3M three boxes" | ★ |
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
+| 2026-05-15 | [[2026-05-15-yt-odzFTjbZUQk]] | Crowd-following - father approval, agency compression, first-wall proof | ★ |
+| 2026-05-15 | [[2026-05-15-yt-vMtyb9dW0nw]] | Risk misjudgment - threat bias, upside, play-it-out specificity | ★ |
+| 2026-05-15 | [[2026-05-15-yt-onWjGPPXe-w]] | Future self - bulletproof identity, 85-year-old gratitude, presence | ★ |
 | 2026-05-16 | [[2026-05-16-yt-W2KFhckp47Y]] | Wantrepreneur catalyst - plan B, deletion, death grounding | ★ |
 | 2026-05-16 | [[2026-05-16-yt-vUa-zHArE9Q]] | Happiness formula - pursuit, Rocky cut scene, goals as long target | ★ |
 | 2026-05-16 | [[2026-05-16-yt-bxnaIwzAC-M]] | SaaS churn - onboarding, activation, segmentation, value-cycle billing | ★ |
 | 2026-05-16 | [[2026-05-16-yt-IMcNmUxa2-M]] | Triple shifts - no shortcuts, required work, "but I'll know" | ★ |
 | 2026-05-16 | [[2026-05-16-yt-zlufflFw2NM]] | Fear voices - failure debt, belief ownership, 46.2M sale psychology | ★ |
+| 2026-05-16 | [[2026-05-16-yt-sbJsLoVPw1Y]] | Obvious list - Solomon paradox, future-self advice, price tag | ★ |
+| 2026-05-16 | [[2026-05-16-yt-yg3dDXAZCME]] | Personal brand - content flashlight, proportional curation, "how I" | ★ |
+| 2026-05-16 | [[2026-05-16-yt-nbsEEXTDxis]] | Cold outreach - ticket size, target specificity, organic nurture | ★ |
+| 2026-05-16 | [[2026-05-16-yt-oIvIf1Rv7vg]] | Productized service - professional-services constraint, no outside capital | ★ |
+| 2026-05-16 | [[2026-05-16-yt-2TtFI3OMWAI]] | Owner vs CEO - focus, portfolio order, splitting attention | ★ |
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
 | 2026-05-17 | [[2026-05-17-yt-IBqhhvrtQaU]] | Minimum work standard - hundreds of hours, prep, repeat until glass | ★ |
 | 2026-05-17 | [[2026-05-17-yt-ROo9U2SQyRg]] | $10M in any business - switching cost, vehicle commitment, model shapes | ★ |
@@ -1091,7 +1099,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_1,061 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,473 total, including P2 (~1,451, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,069 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,465 total, including P2 (~1,443, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

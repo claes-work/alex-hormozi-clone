@@ -3489,3 +3489,31 @@ L2.
 
 Ledger 8→L2 (L2 now 1,061). youtube-index/index/footer updated. @MoreMozi P2: ~1,378 rows remain.
 Synthesis notes: minimum-standard prep/hundreds-of-hours/repeat-until-glass; $10M-current-vehicle/switching-cost/business-model-shape taxonomy; hard-day math/reframe skill/money-impermanence/good-day formula; wantrepreneur catalyst and plan-B deletion philosophy; happiness as pursuit not outcome; SaaS churn via onboarding/activation/segmentation/value-cycle billing; triple-shift/no-shortcuts/internal refrains; fear voices/belief ownership/46.2M sale-offer/job-quitting self-reports.
+
+## [2026-07-09] ingest | yt batch 137 — @MoreMozi P2 (2026-05-15 to 2026-05-16), 8 videos
+
+Fiftieth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-16** `yt-sbJsLoVPw1Y` "The Obvious List Nobody Does" — obvious work:
+  Solomon paradox, future-self advice, and dream price-tag frame.
+- **2026-05-16** `yt-yg3dDXAZCME` "Don't Abandon Your Old Content" — personal brand:
+  content flashlight, proportional curation, fitness/relationship reach, and "how I" caveat.
+- **2026-05-16** `yt-nbsEEXTDxis` "Why Most Cold Outreach Fails" — outbound:
+  ticket size, target specificity, organic as nurture, and sales-asset content.
+- **2026-05-16** `yt-oIvIf1Rv7vg` "The Trap of Productizing Your Service Business" — services:
+  professional-services supply constraint, outside-capital avoidance, and LTV-to-CAC/gross-margin choice.
+- **2026-05-16** `yt-2TtFI3OMWAI` "The Difference Between an Owner and a CEO" — focus:
+  owner-vs-CEO distinction, portfolio-order warning, splitting attention, and year-zero switching cost.
+- **2026-05-15** `yt-odzFTjbZUQk` "Don't Follow the Crowds for a Life You Actually Want" — agency:
+  father approval, six-month change path, leaving Baltimore, and first-wall proof.
+- **2026-05-15** `yt-vMtyb9dW0nw` "Why You Misjudge Risk & Miss Opportunities" — risk:
+  threat bias, upside underestimation, risk-adjusted bets, and play-it-out specificity.
+- **2026-05-15** `yt-onWjGPPXe-w` "The 3 Things I'd Put My Future Self Through to Be Bulletproof" — future self:
+  bulletproof identity, hard thresholds, 85-year-old gratitude, and presence as gratitude.
+
+Ledger 8→L2 (L2 now 1,069). youtube-index/index/footer updated. @MoreMozi P2: ~1,370 rows remain.
+Synthesis notes: obvious-list/Solomon-paradox/future-self advice; personal-brand content flashlight/proportional curation/how-I caveat; cold-outreach ticket-size/channel fit and organic-nurture sales assets; productized-service trap/professional-services supply constraint/no-outside-capital; owner-vs-CEO/focus/portfolio-order/splitting-attention; father approval/agility compression/first-wall proof; risk upside underestimation/play-it-out; bulletproof future self/85-year-old gratitude/presence.
