@@ -592,9 +592,17 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-06-16 | [[2026-06-16-yt-Ln94ZnvPDOQ]] | Dental $15M→$50M — talent-side LTV:CAC (recruiting as acquisition) | ★ |
 | 2026-06-17 | [[2026-06-17-yt-i-4IiGGS1wE]] | Scale two companies — focus/opportunity-cost, fire-sell the slower one | |
 | 2026-06-17 | [[2026-06-17-yt-PgiqKklXUaA]] | $15M consulting → $100M by 2029 — enterprise lead-gen engine (conf+affiliates+outbound) | ★ |
+| 2026-06-19 | [[2026-06-19-yt-ZckLXKaCekQ]] | Brand framework — status, power, credibility, likeness; recover by dilution | ★ |
 | 2026-06-20 | [[2026-06-20-yt-vMVForz7IPM]] | $1.5M→$9.4M UK dental (one advice) — now retention as compounding vehicle | |
 | 2026-06-20 | [[2026-06-20-yt-QSCPwFs0Yew]] | High-school coaches market — broke-avatar monetization problem; pivot to corporate training | |
 | 2026-06-20 | [[2026-06-20-yt-c8PSSDdu4Cc]] | Poker coaching offers — fix ops capacity before paid ads; avatar-specific pricing | |
+| 2026-06-20 | [[2026-06-20-yt-XrRdXhxc5BY]] | Dance-school exit — $10M-$30M sale gap; simplify toward franchise/licensing | ★ |
+| 2026-06-20 | [[2026-06-20-yt-zPNYxzVB2JQ]] | Talent funnel — mirror customer journey for delivery supply | |
+| 2026-06-20 | [[2026-06-20-yt-3Rtq5KpHKC0]] | Physical therapy pricing — financing, VSL, decoy continuity offer | ★ |
+| 2026-06-20 | [[2026-06-20-yt-gaNkOL513jo]] | Piano-course scale — warm-audience paid ads via interest media; CRO ceiling | |
+| 2026-06-20 | [[2026-06-20-yt-_uLe-ZMXlDw]] | Tennis facility — revenue per square foot; smaller replicable core engine | |
+| 2026-06-20 | [[2026-06-20-yt-xaRTwfdKero]] | Commercial HOA management — brokers/COIs as the real customer | |
+| 2026-06-20 | [[2026-06-20-yt-bdKVgkudo5A]] | Ad-training scale — talent debt, ROIC hiring, future-team lens | ★ |
 | 2026-06-21 | [[2026-06-21-yt-QX1tnRsIbqU]] | Inside the 1,000 hours writing Money Models — writing process + trilogy arc (bio) | ★ |
 | 2026-06-21 | [[2026-06-21-yt-S1Lq8ITwtHQ]] | Why a $25M exit is harder than $100M — exit/M&A philosophy | ★ |
 | 2026-06-21 | [[2026-06-21-yt-2Is-h74fklE]] | $30M online service → $100M — dollars-per-lead reframe | |
@@ -787,7 +795,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_757 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,777 total, including P2 (~1,755, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_765 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,769 total, including P2 (~1,747, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

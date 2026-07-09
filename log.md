@@ -2471,3 +2471,28 @@ caption fetch and remain open for retry; the 8 successful rows were ingested as 
 
 Ledger 8→L2 (L2 now 757). youtube-index/index/footer updated. @MoreMozi P2: ~1,682 rows remain.
 Synthesis notes: broke-avatar pivot criterion, ops capacity before paid demand, excellence-over-passion business framing, sell-to-rich wealth-distribution argument, realistic door-to-door training and leading-indicator gamification, ecommerce media-arbitrage-to-brand shift, media business attention loop, and duplicate boat-membership economics evidence.
+
+## [2026-07-09] ingest | yt batch 99 — @MoreMozi P2 (2026-06-19 to 2026-06-20), 8 videos
+
+Twelfth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again during
+caption fetch and remain open for retry; the 8 successful rows were ingested as L2.
+
+- **2026-06-19** `yt-ZckLXKaCekQ` "The 4 Things That Build a Powerful Brand" — brand framework:
+  status, power, credibility, likeness, reputation dilution, product experience, and interest media.
+- **2026-06-20** `yt-XrRdXhxc5BY` "$25M Is the Worst Price to Sell For" — dance school:
+  hard $10M-$30M exit range, talent-heavy service risk, and franchise/licensing simplification.
+- **2026-06-20** `yt-zPNYxzVB2JQ` "The Simple Framework That Solves 99% of Business Problems" — talent funnel:
+  supply-vs-demand diagnosis and delivery talent as a parallel customer journey.
+- **2026-06-20** `yt-3Rtq5KpHKC0` "We raised prices 4 times and still can't grow" — physical therapy:
+  financing/VSL/pricing lift plus Money Models decoy offer and continuity price spread.
+- **2026-06-20** `yt-gaNkOL513jo` "Helping an Online Coaching Business Scale Past $10M" — piano courses:
+  warm-audience paid ads via interest media, CRO ceiling, and agency-as-learning vehicle.
+- **2026-06-20** `yt-_uLe-ZMXlDw` "How to Scale a $3M Tennis Business to $10M" — tennis facility:
+  revenue per square foot, price while supply constrained, and micro-facility core engine.
+- **2026-06-20** `yt-xaRTwfdKero` "$625K/Year Working 90 Minutes a Week — How to Scale to $3M" — commercial HOA:
+  brokers and COIs as the real customers; accidental referrals made deliberate.
+- **2026-06-20** `yt-bdKVgkudo5A` "Helping an Online Coaching Business Scale to $50M/Year" — advertising training:
+  talent debt, hiring as ROIC, future-team lens, and premium compensation.
+
+Ledger 8→L2 (L2 now 765). youtube-index/index/footer updated. @MoreMozi P2: ~1,674 rows remain.
+Synthesis notes: status/power/credibility/likeness brand model, reputation dilution, $10M-$30M exit gap and franchise simplification, talent acquisition as mirrored customer journey, decoy continuity price spread, warm-audience paid ads under interest media, revenue-per-square-foot replication, COI/channel-partner customer redefinition, and talent debt as a scaling constraint.
