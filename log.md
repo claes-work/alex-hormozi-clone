@@ -18,6 +18,22 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: @ACQofficial P2 COMPLETE — 2 Alex clips L2 + 10 Leila skipped (L2=373)
+
+Loop iteration 44. Finished @ACQofficial P2. Assessed the 2 ambiguous clips (both turned out to be
+ALEX, not Leila — worth checking): Zyv8jhO033c "world-class company culture" (★ L3-cand — culture =
+founder's mission/values dripping down + diluting, reinforced by annual/quarterly/monthly vision
+meetings, values-as-decision-filter; names Acquisition.com's 3 values: sincere candor / unimpeachable
+character / competitive greatness; Alex as guest on Iced Coffee Hour w/ Graham Stephan) and rko5QoAhfEU
+"make your haters irrelevant" (ignore-don't-address critics — addressing associates your name with the
+negative word — the "extinction curve"; get louder about who you are). Both persona-eligible.
+**Skipped 10 Leila-titled solo clips** (nFC0Yvdxgsc, CHLXYAPYOmg, BRDbiYq_VUI, 7op5ytGrLRU, P7MEdHITuiQ,
+48gXRL-2v_Q, zb4k2gkYr7s, 6nMTGEiHyMY, w3zEYkgVnDw, nd22J08b1TA) — Leila is context only, not Alex
+persona data (rule 6); revisit if Alex-content surfaces. Ledger: L2=373, skipped=43.
+**@ACQofficial channel now fully triaged.** Next: @AlexHormozi P2 (302 left) or @MoreMozi P2 (1775),
+then shorts. Note: the culture-values framework (Zyv8jhO033c) is an L3-candidate for a future company-
+culture topic page + beliefs entry.
+
 ## [2026-07-09] ingest | Stage B: 8 @ACQofficial P2 Alex clips (L2) — origin-story bio gold (L2=371)
 
 Loop iteration 43. 8 @ACQofficial ALEX clips (2023, deliberately picked the Alex-titled ones; the

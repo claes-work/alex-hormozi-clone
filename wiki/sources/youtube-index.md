@@ -203,11 +203,13 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | Date | Page | Topic | ★ |
 |---|---|---|---|
 | 2023-05-15 | [[2023-05-15-yt-1AtSSNygSK4]] | Leg day w/ Stan Efferding — ⚠️ fitness content is Stan's; bio: sold gyms ~2017 | |
+| 2023-05-19 | [[2023-05-19-yt-Zyv8jhO033c]] | Build world-class culture — culture drips from founder's values; values-as-filter (Acq.com's 3 values) | ★ |
 | 2023-05-22 | [[2023-05-22-yt-mUpty7tscJo]] | Content Strategy revealed — most complete media playbook (frame, "how I", delay the ask) | ★ |
 | 2023-05-25 | [[2023-05-25-yt-2JLU4R8Zcgg]] | 66-min "$10M company" — ⚠️ **no Alex** (Leila's 5-principles-of-management talk) | |
 | 2023-05-30 | [[2023-05-30-yt-EimLrO6p3DI]] | Stop caring about competition — product-obsession vs marketing (Lewis Howes) | ★ |
 | 2023-06-06 | [[2023-06-06-yt-iqAtBbGr3VY]] | Selling with logic — onion of blame, 5 obstacle types (canonical sales) | ★ |
 | 2023-06-07 | [[2023-06-07-yt-LGq0uVspNms]] | Branding in 2023 — brand = associations, Rule of 100, theory of constraints | ★ |
+| 2023-06-09 | [[2023-06-09-yt-rko5QoAhfEU]] | Make your haters irrelevant — ignore, don't address critics ("extinction curve") | |
 | 2023-06-12 | [[2023-06-12-yt-sJn1Hjcj8-g]] | Dark side of entrepreneurship — ⚠️ **no Alex** (Leila's angle; cross-check only) | |
 | 2023-06-13 | [[2023-06-13-yt-rOTT4vZgB5Y]] | Crumbl Cookies model — rotating variety to extend LTV (case study) | |
 | 2023-06-18 | [[2023-06-18-yt-B1-oIkRLh-8]] | Dad advice — his father's story (Iranian refugee, Tehran, 1979) + maxims | ★ |
@@ -401,7 +403,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_371 videos ingested (L2). **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_373 videos ingested (L2). @ACQofficial P2 complete (10 Leila-titled clips skipped as context)._ **ALL P1 (landmark) videos complete across all 5 channels; P2 tier underway (@AlexHormozi P2 — his solo content runs framework-dense, many L3-candidates).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
