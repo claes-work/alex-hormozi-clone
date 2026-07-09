@@ -4628,3 +4628,29 @@ were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,342). youtube-index/index/footer updated.
 Synthesis notes: creator-business-key-person-risk/affiliate-approved-face-backfill/Dave-Ramsey-model/ACQ-not-planned-for-sale; swamp-stage/business-debt-types/six-hours-promotion/LinkedIn-proven-channel; regulated-offer-referral-nodes/missed-opportunities-vs-problems/distraction-risk; real-friends-win-reaction/bigger-dream-advice/Leila-tactical-alignment/uncapped-upside; brand-persuasion-at-scale/context-carries-message/free-information-impact/ACQ-deal-selectivity; niching-as-efficiency/never-stop-buying-selling/irresistible-affiliate-offer/CPA-journey-integration; side-quests-for-visionary-founders/books-additive-to-ACQ/no-resource-drain; entrepreneurship-feedback-loop/traits-as-skills/useful-goal/education-behavior-change/intelligence-rate-of-learning.
+
+## [2026-07-09] ingest | yt batch 180 - @MoreMozi P2 (2026-04-22), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-22** `yt-wQA6vpgMtlw` - retail product pitch as lead generation, competitor
+  curiosity opener, and price premium as marketing budget.
+- **2026-04-22** `yt-hyfJiJG9pd4` - roofing scale path: nail the model before choosing
+  franchising or corporate locations; franchise as expensive capital.
+- **2026-04-22** `yt-YwAfiVpmh0E` - giving without expectation, goodwill deposits, and
+  reframing small early podcast/download numbers as real rooms.
+- **2026-04-22** `yt-AcUVSgT8_rg` - legal/tax structure can be fixed later; Gym Launch
+  entity sale; by-the-book tax posture and durable shelter buckets.
+- **2026-04-22** `yt-WObB13oaEJE` - brand should constrain content; avoid algorithm
+  chasing and speaking outside expertise for views.
+- **2026-04-22** `yt-TDPxe8RQX74` - master the lonely middle where supporters fade before
+  the outcome is known.
+- **2026-04-22** `yt-rzPZJ7O9iao` - coaching-business book funnel, hooks from worst pain
+  moments, and books as brand halo.
+- **2026-04-22** `yt-CS--glCpAhk` - wealth equation: value created, negotiated share, and
+  scarcity; skill stack and time as moat.
+
+Ledger 8->L2 (L2 now 1,350). youtube-index/index/footer updated.
+Synthesis notes: retailer-product-as-lead-gen/competitor-curiosity-opener/price-premium-as-marketing-budget; nail-model-before-scale-path/franchise-as-impatient-expensive-capital/owned-stores-simplify; give-without-expectation/goodwill-deposits/early-podcast-small-for-years/real-room-reframe; tax-structure-later/Gym-Launch-entity-sale/by-the-book-tax-posture/durable-tax-shelters/location-tax-leverage; do-not-sacrifice-brand-for-views/algorithm-chasing-risk/post-Gym-Launch-brand-epiphany/expertise-boundary; lonely-middle/status-ladder-support/doubters-right-until-outcome/uncertainty-of-sacrifice; book-funnel-for-coaching/highest-pain-hook/books-as-brand-halo/high-LTV-ad-spend; wealth-equation-value-negotiation-scarcity/skill-stack-as-moat/time-as-weapon.
