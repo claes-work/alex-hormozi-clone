@@ -2045,3 +2045,41 @@ Ledger 9→L2 (L2 now 644), 1→L1. youtube-index/index/footer updated. @AlexHor
 **Synthesis backlog:** ⭐ PHILANTHROPY (entire-estate-to-charity + After-School All-Stars) → biography.md
 + resolve the philanthropy gap in gaps.md; Leila working-relationship + married-in-a-week bio; billionaire
 plan (give-free-then-invest) → the Acquisition.com model; stop-starting-businesses/Theory-of-Constraints.
+
+## [2026-07-09] ingest | yt batch 86 — @AlexHormozi P2 (2021-09/10 gym-era), 10 videos
+
+Tenth @AlexHormozi P2 batch (4 agents / 10 pages). Framework + bio dense.
+
+- **2021-09-10** `yt-jOM0m34dxz4` "Netflix's Recurring Revenue" — ⭐ recurring revenue is a continuum;
+  the **8 C's of stickiness**: Consumption, Collateral, Cost-of-switching, Choice, Control-of-money-flow,
+  Cause, Community, Contracts (term packaging can lift LTV 2–3×).
+- **2021-09-13** `yt-uRhArskhqms` "Lack of Focus Is Killing You" — attention (not time) is the scarcest
+  resource; unmade decisions/unconfronted conversations drain thinking power; BIO: consolidated from
+  ~9–11 businesses down to Gym Launch after his DUI to restore bandwidth.
+- **2021-09-15** `yt-sEQNnsaeiAs` "Sold 6 Businesses by 32 — My Boring Formula" — make the business a
+  sellable asset: (1) stop doing fulfillment, (2) build one reliable acquisition channel, (3) productize,
+  (4) take off every hat until you're just a shareholder. ⚠️ BIO exit-count: "6 businesses" = his six gyms
+  (sold) + 30+ turnarounds — loosely defined, lower than the "~7 companies sold" framing elsewhere.
+- **2021-09-22** `yt-gxKxeie5JFo` "Hard Money Lending ($3M)" — BIO/self-reported: a $2.5M cash note
+  against a distressed 334-unit Memphis foreclosure at 4%/month (~$100k/mo), first-position title + two
+  personal guarantees; repaid ~$2.85M. Downside-first philosophy; trust as the highest currency.
+- **2021-09-29** `yt-a0hUVFYzv3k` "LEAKED Street Millionaire Training" — ⚠️ **TITLE MISMATCH:** actually a
+  **personal-finance** employee training (Ramsey-style baby-steps: emergency fund → debt snowball → invest
+  15% in the S&P), NOT a sales-method leak. Re-domained to wealth/mindset.
+- **2021-10-01** `yt-f_ceDZqhKbw` "My Business Stopped Growing" — ⭐ explicit **Theory-of-Constraints**
+  plateau diagnosis: churn = cancels ÷ active; LTV = price ÷ churn; hypothetical max = new-sales × LTV; a
+  business capped ~$770k/mo on 13% churn — cutting churn 13%→3% beats 10×-ing acquisition.
+- **2021-10-04** `yt-BZQtuK-ucDM` "Never Lower Your Prices" — margin math (cut $100/$40-profit to $80 →
+  halves profit); the gym $99→$299 kept 2/3 of clients and doubled revenue; cutting a $42k program to ~$31k
+  to fight churn left churn flat and lost ~$5M/yr.
+- **2021-10-06** `yt-JbxxxVXzHEg` "5 Untapped Industries" — crypto/NFT/DeFi/Web3, cannabis, e-learning,
+  remote living, warehousing/logistics.
+- **2021-10-13** `yt-ebrcIErJi10` "Pretending to Be Rich Makes You Poor" — haves over wants; BIO: six gyms
+  sold, 30+ turnarounds, ~$1M cash millionaire at the time.
+- **2021-10-15** `yt-E732S9fteRc` "5 Things Billionaires Think About" — opportunity size; product over
+  promotion; an army of 10/10s vs "a genius with a thousand slaves"; long time horizons (the master trait);
+  brand/reputation ("you only get one name").
+
+Ledger 10→L2 (L2 now 654). youtube-index/index/footer updated. @AlexHormozi P2: ~20 rows remain.
+Synthesis backlog: Netflix 8-C's stickiness → retention; never-lower-prices → pricing-psychology; ToC
+plateau diagnosis → business-diagnostics; boring-formula/6-gyms exit-count reconciliation → biography.
