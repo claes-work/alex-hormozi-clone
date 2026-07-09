@@ -586,10 +586,18 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-05-12 | [[2026-05-12-yt-f4wnTeNgPaI]] | Ruthless focus to first million — to-sacrifice list, dollars-per-hour | ★ |
 | 2026-05-17 | [[2026-05-17-yt-CV48Gkckbn4]] | 9 months of 16-hour days — "12 by 30" work-ethic framework | ★ |
 | 2026-05-19 | [[2026-05-19-yt-ubAZHpGZ45w]] | Quality trumps personal brand — write-first atomic-unit repurposing engine | ★ |
+| 2026-05-23 | [[2026-05-23-yt-J0Z0OTHXY7Q]] | Content monetization - entertainers broader than educators, niche math | ★ |
 | 2026-05-24 | [[2026-05-24-yt-2aUhv-GLnpk]] | Manifestation vs visualization - observable behavior and action requirement | ★ |
 | 2026-05-24 | [[2026-05-24-yt-loIbj4NMExM]] | Preparation - 20 minutes, time-on-task timer, start working | ★ |
 | 2026-05-24 | [[2026-05-24-yt-ew7Ek8y-E78]] | Networking - generalized giving early, skill as first currency | ★ |
 | 2026-05-24 | [[2026-05-24-yt-cAoAqel1Ufk]] | Work capacity - wartime seasons, trade-offs, built for war | ★ |
+| 2026-05-24 | [[2026-05-24-yt-JUXOxp7a93s]] | Confidence - proof stack, Money Models prep, self-esteem standard | ★ |
+| 2026-05-24 | [[2026-05-24-yt-4HngOoPzbhY]] | Teachability - behavior skills, buy-vs-build ROI, smallest deficiency | ★ |
+| 2026-05-24 | [[2026-05-24-yt-HSe9Rp7ka9g]] | Time to success - consistency hard to observe, middle wins, proximity | ★ |
+| 2026-05-24 | [[2026-05-24-yt-fNPlt_C54KM]] | Ecommerce - junk drawer, contractor tasks, media-arbitrage to brand wall | ★ |
+| 2026-05-24 | [[2026-05-24-yt-JSpRbQVDS-s]] | Behaviorism - rewards, triggers, extinction burst, delayed reward | ★ |
+| 2026-05-24 | [[2026-05-24-yt-9_UfW-kknqQ]] | Revenue retention - real estate coaching, run-without-founder test, shiny object | ★ |
+| 2026-05-24 | [[2026-05-24-yt-3TtgqWKobdY]] | Post more - TikTok to IG CTA, lead magnets, lighter ask, organic bucket | ★ |
 | 2026-05-25 | [[2026-05-25-yt-REDPMH2BMrY]] | Learning speed - same condition/new behavior and iteration compression | ★ |
 | 2026-05-25 | [[2026-05-25-yt-g-vU4ajbpvU]] | Service scaling - workflows, AI delivery, VSL pain-point mining, avatar bar | ★ |
 | 2026-05-25 | [[2026-05-25-yt-oQLkgvb2pqw]] | Decision-making - choose your regret, loss aversion, tried-harder fear | ★ |
@@ -1003,7 +1011,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_973 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,561 total, including P2 (~1,539, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_981 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; @MoreMozi Q&A cuts resumed after pause.** Remaining open long-form: ~1,553 total, including P2 (~1,531, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,702). 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

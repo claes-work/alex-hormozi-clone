@@ -3195,3 +3195,29 @@ ingested as L2.
 
 Ledger 8→L2 (L2 now 973). youtube-index/index/footer updated. @MoreMozi P2: ~1,466 rows remain.
 Synthesis notes: declarative-vs-procedural knowledge and education-as-time-compression; boring vehicle/known problem/sticky product; AI narrative-vs-metric risk and internal workflow margin; competition by goal size/finite attention; anti-manifestation observable-world stance; preparation/time-on-task/start-working frame; early-career generalized giving and skill-as-currency networking; wartime seasons/trade-offs/work-capacity frame.
+
+## [2026-07-09] ingest | yt batch 126 — @MoreMozi P2 (2026-05-23 to 2026-05-24), 8 videos
+
+Thirty-ninth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry; the 8 successful rows were
+ingested as L2.
+
+- **2026-05-24** `yt-JUXOxp7a93s` "I Don't Gain Confidence by Affirmations, Here's What Works Instead" — confidence:
+  proof stack, Money Models launch prep, and self-esteem standard.
+- **2026-05-24** `yt-4HngOoPzbhY` "Is Everyone Teachable? A Controversial View on Skills and Behavior" — teachability:
+  behavior skills, buy-versus-build ROI, and smallest-skill-deficiency framing.
+- **2026-05-24** `yt-HSe9Rp7ka9g` "Why Most People Underestimate the Time to Success" — time horizons:
+  consistency as hard to observe, the middle winning the race, and proximity learning.
+- **2026-05-24** `yt-fNPlt_C54KM` "The 'Junk Drawer' Problem Every Founder Hits" — ecommerce:
+  contractor delegation, direct-response media arbitrage, and the brand wall.
+- **2026-05-24** `yt-JSpRbQVDS-s` "Why You Keep Repeating the Same Bad Habits" — behavior:
+  reinforcement history, triggers, extinction bursts, and delayed rewards.
+- **2026-05-24** `yt-9_UfW-kknqQ` "You Need Recurring Revenue" — retention:
+  real-estate coaching, run-without-founder test, shiny-object discipline, and vertical stacking.
+- **2026-05-24** `yt-3TtgqWKobdY` "You need to post more" — content:
+  TikTok-to-Instagram CTA, lead magnets, lighter ask, and organic bucket refilling.
+- **2026-05-23** `yt-J0Z0OTHXY7Q` "Why Entertainers Will Always Beat Educators" — monetization:
+  entertainers' broader audience, educator niche math, and relevance-versus-reach trade-off.
+
+Ledger 8→L2 (L2 now 981). youtube-index/index/footer updated. @MoreMozi P2: ~1,458 rows remain.
+Synthesis notes: confidence by proof stack/Money Models prep self-report; teachability as ROI and soft skills as behavior; time-to-success middle/proximity; direct-response ecommerce brand wall and contractor junk-drawer delegation; behaviorism/rewards/triggers/extinction burst; revenue-retention/run-without-founder/shiny-object discipline; TikTok-to-IG CTA, lead-magnet lighter ask and organic bucket; entertainers-broader-than-educators niche math.
