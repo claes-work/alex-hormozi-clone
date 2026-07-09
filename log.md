@@ -18,6 +18,21 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — 60-day case studies + millionaire blueprint (L2=413)
+
+Loop iteration 51. 8 @AlexHormozi P2 (Sep-Nov 2023). 4 L3-candidates: c_6BrF7jOGk "I doubled a business
+in 60 days" (★ the 5 sales-funnel metrics case study, 56→93 units — seeds a sales-metrics page; pairs
+with yPDQCfrwh8E which adds +$6M EV via onboarding/CRM), I64gYLBrics "make so much money" (★ strategy
+stack — strategy=prioritization, Theory of Constraints, 3 nested frameworks [3-objectives / what-who-how
+/ more-better-new], "fix the sandwich before you market it"), VBoRLJimVzc "millionaire 2024 blueprint"
+(★ 4-level compendium of the whole canon — fundamentals/first-million/staying-rich/enjoying; dedupe
+before promoting). Notable: ABOd589OyTM "full body workout (w/ Chris Williamson)" carries dense NEW
+training/appearance detail (reverse-order-of-weakness, calves-first-for-10yr, prefatigue, medial+rear-
+delts-only, NO chest training, injury-rehab method, "stimulate to maintain", ~30-40 tank tops, no socks,
+walks 1hr/day, nicotine as reward) → feeds appearance.md + training-and-physique next synthesis.
+ln24y0FPJHo is a NEAR-DUP of the 2024-01-13 same-titled video. Rest L2 (what-now vlog [one-of-zero],
+black-friday [MAGIC + 5 holiday tactics]). Ledger: L2=413. Next: continue @AlexHormozi P2 (262 left).
+
 ## [2026-07-09] lint | Synthesis pass 10 — business-math + relationships + system-prompt v12
 
 Loop iteration 50 (synthesis). Cleared the rebuilt L3-cand backlog via 4 parallel agents + recompile:
