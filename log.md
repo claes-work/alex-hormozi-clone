@@ -18,6 +18,23 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — AI-2023 bookend + Arnault + dealer lessons (L2=445)
+
+Loop iteration 57. 8 @AlexHormozi P2 (Feb-Mar 2023). 2 L3-candidates: ONV__y1z7MI "how the world's
+richest man made his money" (★ Bernard Arnault/LVMH — luxury pricing inversion [raising price raises
+volume], the 4 market positions [bargain/best-value/premium/luxury], serve-the-rich playbook →
+brand-pricing-power material), vZfatNSouDQ "business lessons from a dealer" (★ 6 fur-dealer lessons —
+angry-boat, off-season insurance/continuity product, no-based selling, "sawdust" free scraps as bait,
+manufactured scarcity, boring-basics-for-a-long-time). Notable DATED BOOKEND: z7X95bn2T6A "replace
+yourself with AI" is his EARLIEST public AI take (Feb 2023) — tactical tool-showcase, techno-utopian,
+value=hours-saved; contains NONE of the 2026 strategic frame (tool-not-identity, proof/credibility
+moat, humans-plus-tools) → flagged per rule 3 as his 2023 position only; useful as the origin point of
+an AI-thesis timeline. 0mqqbuM9sAk confirms the 4 businesses (Gym Launch→$46.2M APG, Prestige Labs,
+ALAN/useallen.com 75% all-stock, Acquisition.com). Bio: revenue timeline $300-400k→$1M/mo in 6mo, ~3yr
+plateau at $30-40M; $1M donation to Schwarzenegger's charity to meet him. Rest L2 dups (young-people-
+poor [learn-vs-earn], 17-conversations anthology, dont-copy-me [skill-vs-identity], get-what-you-want
+[Cialdini]). Ledger: L2=445. Next: continue @AlexHormozi P2 (230 left).
+
 ## [2026-07-09] lint | Synthesis pass 12 — enrichments (diet-formula, growth-plateau, flywheel, friendship) + system-prompt v14
 
 Loop iteration 56 (synthesis). All ENRICHMENTS (no new pages) via 4 parallel agents + recompile:
