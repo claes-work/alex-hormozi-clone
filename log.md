@@ -3933,3 +3933,31 @@ L2.
 
 Ledger 8->L2 (L2 now 1,187). youtube-index/index/footer updated. @MoreMozi P2: ~1,250 rows remain.
 Synthesis notes: preferred-problems/decision-regret/path-not-chosen; demonstration-marketing/show-the-work/start-free/proof-referrals; cold-traffic/paid-workshop/buyers-buy-more/qualification-data/qualified-conversion-rate; low-bar/not-overweight/gainfully-employed/mostly-Chris-context; attractiveness-comfort-direction-fun/Glover-frame-via-Chris; desire-replacement/reinforcers/breakup-analogy/choose-new-want; hourly-to-outcome-pricing/ROI-content/five-call-lead-magnet/describe-not-explain/calculator-close; weirdness-as-filter/Leila-first-date/authenticity/role-performance-loneliness.
+
+## [2026-07-09] ingest | yt batch 153 - @MoreMozi P2 (2026-05-06 to 2026-05-07), 8 videos
+
+Sixty-sixth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-07** `yt-cov0I0fXUO8` "The Biggest Mistake AI Agencies Are Making" - AI:
+  sell outcomes not AI, AI as vehicle, and AI mention as lower pricing anchor.
+- **2026-05-07** `yt-FZcLVuW7MEs` "Why Beginners Quit Before They Win" - endurance:
+  future story, becoming as asset, gym-floor/lost-everything self-reports, and epic-story razor.
+- **2026-05-07** `yt-yMa4gjZ_0A4` "Why You Should Want People to Copy You" - copying:
+  what-vs-why, Gym Launch R&D/testing self-reports, imitators, and winning in the weeds.
+- **2026-05-07** `yt-IkRG1lha-GU` "How to Build a Community With Insanely High Engagement" - community:
+  member-to-member network, work-desk prompt, granular everyday problems, and reinforcement loops.
+- **2026-05-06** `yt-vrtM0XsmE18` "How to Funnel a LinkedIn Audience Into a Paid Community" - funnel:
+  first-comment CTA, email tactical nugget, examples, and more-vs-more-personal CTAs.
+- **2026-05-06** `yt-PgohOZaYOpU` "Helping a $2.8M Catering Biz Hit $8M (Seasonal Problem)" - seasonality:
+  feature-not-bug, volatility not risk, predictable cycles, double PPC, and crack Meta.
+- **2026-05-06** `yt-sJIOruqscvs` "Why You Shouldn't Switch to English Content" - language:
+  stay native-language, lowest-risk market, English competition, and wait for AI translation.
+- **2026-05-06** `yt-kwAg8D95ktE` "How Do I Handle 'We're Already Working With Someone'?" - Q&A:
+  existing-provider objection, search-fund retention, active-income skill investment, VSLs, outbound, AI language courses, and 2026 gym model.
+
+Ledger 8->L2 (L2 now 1,195). youtube-index/index/footer updated. @MoreMozi P2: ~1,242 rows remain.
+Synthesis notes: AI-agency-outcome-positioning/AI-as-vehicle/lower-price-anchor; beginner-endurance/future-story/becoming-as-asset/gym-floor-lost-everything-self-reports/epic-story-razor; copying/what-vs-why/Gym-Launch-RD/win-in-weeds; community-member-network/work-desk-prompt/granular-everyday-problems; LinkedIn-to-School/first-comment-CTA/email-tactical-nugget/more-vs-more-personal; seasonality/volatility-not-risk/predictable-cycles/double-PPC/crack-Meta; native-language-strategy/English-competition/AI-translation; already-working-objection/search-fund-retention/active-income-skill/VSL-sales-process/2026-gym-model.
