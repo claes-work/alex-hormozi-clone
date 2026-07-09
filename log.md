@@ -4524,3 +4524,29 @@ were ingested as L2.
 
 Ledger 8->L2 (L2 now 1,310). youtube-index/index/footer updated.
 Synthesis notes: negative-motivation/directionally-correct/evidence-based-self-belief; niche-as-monetizable-skill-acquisition/basic-skills-to-market-demand; B2B-distraction/exhaust-proven-B2C-path/constraint-is-why-more-cannot-scale; medical-service-80-percent-margin/commission-as-CAC/simplify-same-delivery-pricing; focus-eliminate-alternatives/action-over-feelings/experience-over-opinion; first-principles-opinion-ownership/deliberate-thought-delegation; high-leverage-bedtime-alarm/protein/recurring-meals/dog-focus-cost; mechanic-shop-utilization/solve-problem-pricing/nail-it-then-scale/seller-finance.
+
+## [2026-07-09] ingest | yt batch 176 - @MoreMozi P2 (2026-04-25), 8 videos
+
+Continued @MoreMozi P2. The driver selected 10 rows; 8 caption fetches succeeded and the
+same 2 rows remained open for retry (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`). All 8 OK rows
+were Alex-attributed MoreMozi coaching/content clips and were ingested as L2.
+
+- **2026-04-25** `yt-j81cCOSFp4E` - expectation reset: worthwhile goals are harder,
+  slower, more expensive, and feel like an unknown-finish-line marathon.
+- **2026-04-25** `yt-KUZ9PbqilNs` - e-commerce scale: cohort LTV by source, DTC vs B2B
+  distribution, and "killer marketer" as missing hat.
+- **2026-04-25** `yt-3EZDlh4pztM` - belief ownership, changing one's mind, and "don't
+  analyze your pleasures."
+- **2026-04-25** `yt-zKRsDh6W2KA` - Acquisition.com deal flow, EBITDA threshold, deal fit,
+  and minority-to-majority ownership shift.
+- **2026-04-25** `yt-sQaMoXLE8BI` - push vs pivot: bad failure invalidates need-to-believe
+  assumptions; skill deficiency calls for iteration.
+- **2026-04-25** `yt-oSPFHI0M1_k` - ad scaling via awareness-level creative, VSL intro CRO,
+  and high-ticket phone upsell to raise LTV.
+- **2026-04-25** `yt-rbvLZ76QQD0` - eliminate should/why/because; stick to observable
+  behavior and preference boundaries.
+- **2026-04-25** `yt-fOPhKzYZPGU` - course business scale: simple annual launch, retention,
+  and exclusivity by turning people down.
+
+Ledger 8->L2 (L2 now 1,318). youtube-index/index/footer updated.
+Synthesis notes: expectation-reset/harder-longer-costs-more/unknown-finish-line-marathon; ecommerce-cohort-LTV-by-source/DTC-vs-B2B-distribution/killer-marketer-gap; belief-ownership/explain-why/change-mind/dont-analyze-pleasures; ACQ-deal-flow-3000-month-two-LOIs/EBITDA-threshold/deal-fit/minority-to-majority-shift; push-vs-pivot/need-to-believe-assumptions/skill-deficiency-iteration; ad-scaling-awareness-level-hooks/VSL-first-five-minutes-CRO/high-ticket-phone-upsell; eliminate-should-why-because/observable-behavior/preference-boundaries; course-to-annual-community/simple-launch/retention/exclusivity-by-turning-people-down.
