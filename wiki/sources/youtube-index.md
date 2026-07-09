@@ -80,11 +80,21 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-04-27 | [[2021-04-27-yt-Tw6kJkVcTL0]] | 1 skill that pays off forever — sales via volume ("Rocky cutscene") | |
 | 2021-04-29 | [[2021-04-29-yt--is6Z2T2h8o]] | All entrepreneurs have 1 problem — it's always a people problem | |
 | 2021-05-04 | [[2021-05-04-yt-ZZZNsDs2G_s]] | Wealth principle #1: get paid first — the "money ladder" | |
+| 2021-05-05 | [[2021-05-05-yt-EPEjYEihZ1s]] | Buffett's #1 rule — net free cash flow ("owner earnings"), take money out monthly | |
+| 2021-05-07 | [[2021-05-07-yt-awOQDy_o9ww]] | How to buy back your time — the relinquish-control sequence | |
+| 2021-05-10 | [[2021-05-10-yt-9Dc2UQbQNTo]] | 3 landing-page tests (headline / image / sub-headline, above the fold) | |
 | 2021-05-12 | [[2021-05-12-yt-vKnAWYqMJ10]] | Spent $312,900 living like the 1% — luxury "not worth it"; REINFORCES frugality | ★ |
 | 2021-05-14 | [[2021-05-14-yt-C_SgvSvJZdk]] | 8 Laws of Business from Charlie Munger (all Munger-relayed +1 Alex) | |
+| 2021-05-17 | [[2021-05-17-yt-t9Vv7rK-4Jc]] | Every high-margin service in 6 buckets — the "service delivery cube" | ★ |
 | 2021-05-19 | [[2021-05-19-yt-c5Lw12PXkgU]] | $217k day-trade loss → buy-and-hold investing philosophy (bio) | ★ |
 | 2021-05-21 | [[2021-05-21-yt-R7JOslrt51o]] | "This is why I was Poor" — SOFTER origin (risk-averse, denies school-failure); Albuquerque (bio) | ★ |
+| 2021-05-24 | [[2021-05-24-yt-noO8ERpgMr4]] | The "3 Evil Es" (Expectations/Emotions/Expenses) that almost killed my business (bio) | |
+| 2021-05-26 | [[2021-05-26-yt-t7o8dtUWPQg]] | 7 things school should teach (the 7 disciplines) | |
+| 2021-05-28 | [[2021-05-28-yt-7C-P-ctmhuU]] | 4 perspective shifts — BIO: Mar 2019 $4.4M month, Leila "shut it all down" (bio) | ★ |
+| 2021-05-31 | [[2021-05-31-yt-gpKz22P84iM]] | The Talent Grid — What→How→Who × IC→Manager→Leader × Doing→Teaching→Systematizing | ★ |
 | 2021-06-02 | [[2021-06-02-yt-q32-l3Yoqg4]] | Taught 116+ salesmen — CLOSER already fully named (R added years later) | ★ |
+| 2021-06-04 | [[2021-06-04-yt-d0dBZbd13jM]] | 9 money beliefs of the ultra wealthy (skill-investment, talent-stacking, $100M blueprint) | |
+| 2021-06-07 | [[2021-06-07-yt-9xFtox66U28]] | When money stopped mattering — happiness→joy, outcome→value (bio: ~$2M/wk) | |
 | 2021-06-23 | [[2021-06-23-yt-42SOlVhDwWE]] | 1 mental technique — the "belief continuum"; conviction counts twice | |
 | 2021-06-28 | [[2021-06-28-yt-oLsWhSRypzM]] | Never start a business until… — 3 things (dissatisfaction/lonely/SBA income) | |
 | 2021-07-02 | [[2021-07-02-yt-bkPwFqa89gE]] | Unconventional productivity — alarm-for-bedtime, 4am-8yrs, identical meals (bio) | |
@@ -638,7 +648,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_608 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_618 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

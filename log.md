@@ -1887,3 +1887,41 @@ Fifth @AlexHormozi P2 batch (4 agents / 10 pages). Framework + mindset dense.
 Ledger 10→L2 (L2 now 608). youtube-index/index/footer updated. @AlexHormozi P2: ~70 rows remain.
 Synthesis backlog: 6-LTV-hacks + growth-math → business-math; money-ladder → wealth; 9-failed-
 partnerships bio corroboration; people-problem → company-culture.
+
+## [2026-07-09] ingest | yt batch 82 — @AlexHormozi P2 (2021-05/06 gym-era), 10 videos
+
+Sixth @AlexHormozi P2 batch (4 agents / 10 pages). Framework + bio dense.
+
+- **2021-05-05** `yt-EPEjYEihZ1s` "Buffett's #1 Rule" — track **net free cash flow / "owner earnings"**
+  (cash you can pull after reinvesting to maintain the moat); take money out monthly, don't bet on a
+  mythical exit. (Buffett-attributed; Alex elaborates.)
+- **2021-05-07** `yt-awOQDy_o9ww` "Buy Back Your Time" — relinquish control in sequence (support → admin →
+  ops/money → selling → sales team → leadership) while keeping accountability; "know where the bodies
+  are buried."
+- **2021-05-10** `yt-9Dc2UQbQNTo` "3 Landing-Page Tests" — headline / image-beneath / sub-headline, all
+  above the fold; one split test per week.
+- **2021-05-17** `yt-t9Vv7rK-4Jc` "Every High-Margin Service in 6 Buckets" — ⭐ the **service delivery
+  cube**: (1) ratio (1:1 / group / one-to-many), (2) effort (DIY / DWY / DFY), (3) support channel,
+  (4) consumption (live vs recorded), (5) speed & convenience ("fast beats free"), (6) 10×-to-1/10th
+  pricing exercise. Candidate for offers/scaling synthesis.
+- **2021-05-24** `yt-noO8ERpgMr4` "The 3 Evil Es" — **Expectations, Emotions, Expenses** (Expectations
+  deadliest; self-reinforcing loop). BIO: hired 25 Prestige Labs reps in anticipation of growth (~2019),
+  now does more with 4; self-reports $120M/4yrs.
+- **2021-05-26** `yt-t7o8dtUWPQg` "7 Things School Should Teach" — foundational / physical / professional /
+  emotional / relational / financial / philosophical (last = most important).
+- **2021-05-28** `yt-7C-P-ctmhuU` "4 Perspective Shifts" — go 1000× negative then re-evaluate; brace for
+  the worst; pain-anchor; cosmic "fine mist" insignificance (his most-used). ⭐ **BIO:** **March 2019,
+  after a $4.4M month, Leila said "let's just shut it all down"** (burnout) — a turning point.
+- **2021-05-31** `yt-gpKz22P84iM` "The Talent Grid" — ⭐ **What → How → Who** × **IC → Manager → Leader**
+  × **Doing → Teaching → Systematizing** ("build the machine that builds the machine"). Proto talent/hiring.
+- **2021-06-04** `yt-d0dBZbd13jM` "9 Money Beliefs of the Ultra Wealthy" — skill/information is the best
+  investment; talent-stacking = exponential; do less/one thing; the $100M blueprint (acquire → monetize →
+  reinvest into an enterprise-value business); mastery via high-volume reps ("bamboo tree").
+- **2021-06-07** `yt-9xFtox66U28` "When Money Stopped Mattering" — external achievement is ephemeral
+  ("fake game, fake money"); shift happiness→joy and outcome→value-based decisions; only values are
+  eternal. BIO: self-reports ~$2M/week across companies; ~$1M in the bank while living off ~$30k.
+
+Ledger 10→L2 (L2 now 618). youtube-index/index/footer updated. @AlexHormozi P2: ~60 rows remain.
+Synthesis backlog: service-delivery-cube + talent-grid → scaling/company-culture; the Mar-2019 Leila
+"shut it all down" burnout beat → biography.md; 3-Evil-Es / perspective-shifts / money-stopped-mattering
+→ beliefs.
