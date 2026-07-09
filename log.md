@@ -3877,3 +3877,31 @@ L2.
 
 Ledger 8->L2 (L2 now 1,171). youtube-index/index/footer updated. @MoreMozi P2: ~1,266 rows remain.
 Synthesis notes: beginner-advantage/energy/nothing-to-lose/unlimited-shots; creative-machine/lifecycle-ads/backend-offer/market-size-constraint/adjacent-language-verticals; public-struggle/American-dream-essay/sleeping-at-gym/hometown-resistance/environment-change; second-business-faster/talent-pattern-recognition/assembling-roles; personal-brand/anti-conformity/post-Gym-Launch-clothing/85-year-old-self/stick-to-it-muscle/sensitive-blackpill-context; LTV-problem/survive-to-thrive/memberships/marketing-as-reps; COO-junk-drawer/time-study/decision-trees/decision-boxes/training-debt; talent-ROI/settling/firing-priority/local-vs-global-comfort.
+
+## [2026-07-09] ingest | yt batch 151 - @MoreMozi P2 (2026-05-08), 8 videos
+
+Sixty-fourth resumed @MoreMozi P2 Q&A batch. `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4`
+errored again during caption fetch and remain open for retry. The driver printed the
+checkpoint banner again; `python tools/synthesis_batch.py prepare` reported no pending
+checkpoints, so no synthesis commit was available. The 8 successful rows were ingested as
+L2.
+
+- **2026-05-08** `yt-flyjsXDAj4g` "How I Became an Extreme Person" - intensity:
+  father/balance self-report, Elon horizon, entrepreneurship personal development, and tradeoff pricing.
+- **2026-05-08** `yt-ZnNmkvlWxXU` "The Trick to Never Being Insulted Again" - insults:
+  agreeing with labels, trait degrees, Leila skinny story, and choosing interpretation.
+- **2026-05-08** `yt-TCXG1S__QGU` "The Grand Slam Offer for Employees" - recruiting:
+  growth, meritocracy, guaranteed demand, mission, and talent acquisition as reverse funnel.
+- **2026-05-08** `yt-BHJEEqDLyaw` "The Question Every Employee Should Ask Their Boss" - employee value:
+  tying job to revenue, what-it-takes raise question, small-business opportunity, and Leila raise-content attribution.
+- **2026-05-08** `yt-vU3Uo1m_w2k` "Helping a Landscaping Business Scale" - local services:
+  enterprise-value math, constraint allocation, two VSLs, crew leader, recurring maintenance, and sales motions by lead source.
+- **2026-05-08** `yt-ibjJFr_iZ2w` "The Lead Magnet That Will Sell Your Mentorship Program" - targeting:
+  creative self-selection, church-stage ad context, practical lead magnet, and school/community feedback offer.
+- **2026-05-08** `yt-SHUE3z2Z5IY` "Helping a Marketing Agency Scale" - agency:
+  more sample data, pay-per-show margin risk, go upmarket, avoid sales-agency drift, and billing predictability.
+- **2026-05-08** `yt-N5tckVyDSs4` "How To Actually Get Ahead of 99% of People" - execution:
+  exceptional-life frame, more as risk-adjusted return, maximizers vs optimizers, 20pct change cost, and repetition skill.
+
+Ledger 8->L2 (L2 now 1,179). youtube-index/index/footer updated. @MoreMozi P2: ~1,258 rows remain.
+Synthesis notes: intensity/father-balance-self-report/Elon-horizon/entrepreneurship-personal-development/tradeoff-pricing; insults/agree-with-labels/trait-degrees/Leila-skinny-story/choose-interpretation; employee-grand-slam-offer/growth/meritocracy/guaranteed-demand/reverse-funnel; employee-raise-question/job-to-revenue/what-it-takes/small-business-opportunity; landscaping-scale/EV-math/constraint-allocation/two-VSLs/recurring-maintenance/lead-source-sales-motion; mentorship-lead-magnet/creative-self-selection/stage-ad/school-community-feedback; agency-scale/pay-per-show-margin-risk/go-upmarket/billing-predictability/no-sales-agency-drift; exceptional-life/more-as-risk-adjusted-return/maximizers-vs-optimizers/20pct-change-cost/repetition-skill.
