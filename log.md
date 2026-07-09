@@ -18,6 +18,26 @@ Loop iteration 34 (maintenance/synthesis). Cleared the distinct-topic backlog vi
 - **persona/system-prompt.md → v9** (compiled_from_sources 287→311).
 Next: resume @AlexHormozi P2 ingestion (326 left).
 
+## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — channel-start bio gold (father story, $0-income) (L2=493)
+
+Loop iteration 65. 8 @AlexHormozi P2 (June 2022 — the very start of his channel; WsYgWC7NmO8 2022-06-02
+is one of his first uploads). 3 L3-candidates, all BIO-RICH: To8jcTDwcxc "why I chose to disappoint my
+dad" (★ the deep father story — quit consulting at 23 via a "die to myself or die to my father"
+mortality frame; only child; single father born in Iran, immigrant with ~$1k + a medical degree who
+didn't speak English; father set up the DC job & thought he was wasting his life; later reconciled with
+the father's sole lifetime apology; a great-great-grandfather in the Iranian ruling class with ~400
+children), x1CtbsEqxW0 "I lived on $0 income for 3 years" (★ the reinvest-everything era timeline — gym-
+floor/$0 rent, 500+ Chipotle transactions yr 1, ~$70k saved lasted 3 yrs in a 7-person Costa Mesa house,
+the Prius #MozyMobiles era, Albuquerque, the $1.8M Austin cash house, a gifted ClickFunnels BMW i8, ~$30M
+accumulated, 2021 sold everything, 2022 Acquisition.com $150M+/yr; NB he reframes reinvest-everything as
+a MISTAKE — a dated belief shift), AGCtZmgJ1JA "how I learned to sell" (★ selling = transferring
+conviction + the childlike-curiosity questions close; a Sean/Shaan My-First-Million interview reposted —
+hosts flagged non-persona; bio: Leila as 50/50 operator, drive from "crippling insecurity," 5-yr
+"seasons"). Rest L2 (top-10-lessons compilation, wallet-close tactic, dont-follow-feelings [distinct
+personal philosophy + candid mental-illness disclosure], 2-types-risk, biggest-mistake-past-$30M
+[mass-market plateau]). Ledger: L2=493. **These June-2022 clips are strong biography-integration fuel →
+synthesis 15 = a biography pass (father story, $0-income timeline, seasons).** Next: @AlexHormozi P2 (182 left).
+
 ## [2026-07-09] ingest | Stage B: 8 @AlexHormozi P2 (L2) — management triangle + early content machine (L2=485)
 
 Loop iteration 64. 8 @AlexHormozi P2 (Jul-Aug 2022 — right at the @AlexHormozi channel start; the
