@@ -1967,3 +1967,38 @@ Ledger 10→L2 (L2 now 628). youtube-index/index/footer updated. @AlexHormozi P2
 **Synthesis backlog:** tax-timeline REVISION (soften the 2022→2024 callout — buy-borrow-die present in
 2021); pricing (exorbitant/raise-prices → pricing-psychology); 4-ways-fortunes/leverage; What-Why-How +
 portfolio model → scaling; partnership 8-vs-9 count contradiction.
+
+## [2026-07-09] ingest | yt batch 84 — @AlexHormozi P2 (2021-07/08 gym-era), 7 videos + 3 no-captions
+
+Eighth @AlexHormozi P2 batch (3 agents / 7 pages). 3 of 10 had no captions (yt-Gh9zWsP8JpI,
+yt-A4L3byKcYQg, yt-sSEm3qJUh9s → L1).
+
+- **2021-07-14** `yt-PxpPynt1mis` "Why I Give Away % of My Business" — equity philosophy: "the more money
+  I make other people, the more I make"; vehicle = **phantom equity** (vests on a sale/liquidity trigger,
+  forfeited on early exit, no up-front tax hit); sizing ~0.5–2% for senior leaders, 3–5% for a true
+  executive; his arc = loose → hoarded → middle path.
+- **2021-07-19** `yt-Gy-RmpRif-I` "How to Raise Prices (+ the letter)" — price is the #1 profit lever
+  (20% margin → a 20% price bump doubles profit). 4-part increase letter (why writing / re-sell value +
+  hidden costs / future improvements / anchor to an integrity promise) + daily-terms + hardship P.S.
+  Story: **"the culling"** — tripling gym prices lost a third of customers but doubled revenue.
+- **2021-07-21** `yt-AM_-lnyY70M` "The Augusta Rule" — rent your home to your own business ≤14 days/yr:
+  tax-free personal income + business deduction; a ~$14k "golden BB," defer to a CPA. → [[tax-free-liquidity]].
+- **2021-07-28** `yt-Ikm8tTuA10Q` "Never Listen to Your Parents" — don't take advice from anyone poorer
+  than you *want* to be; cautious naysayers are right ~99% of the time but 100% wrong on the rare
+  life-changing bet; the danger is macro-risk (never trying), not micro-risk. (No father-conflict ref here;
+  bio: rejected investment banking, quit consulting to open a gym against advice; gym was his "4th–5th business.")
+- **2021-07-30** `yt-K3cSPJDlcVc` "Entrepreneurs Get Stuck for 3 Reasons" — (1) an incorrect belief,
+  (2) a missing/wrong trait, (3) a lacking skill; a perceived growth ceiling is almost never the market
+  (if you've sold <1% of it, you've capped your skill/belief/traits, not the market).
+- **2021-08-06** `yt-s3tH9Sz1fEc` "I Stepped Down as CEO" — ⭐ **BIO:** stepped out of the CEO seat at his
+  fitness companies down to ~90 min/week (owner/chairman) in the **Acquisition.com transition era**;
+  de-personalize into a sellable enterprise, "jump two steps forward." Self-reported profit **~$17M (2018)
+  → ~$8M (2021)** — traded intentionally for enterprise value ("you get paid on what you do, returns on
+  what you own").
+- **2021-08-11** `yt-OmDv6-651SM` "Simple Voice Tweak" — reps say the right words the wrong way; levers =
+  **tone** and **cadence/emphasis**; study your own "game tape", and genuinely believe ("a sale is a
+  transfer of belief"). → [[sales-communication]] (five voice levers).
+
+Ledger 7→L2 (L2 now 635), 3→L1 (no-captions). youtube-index/index/footer updated. @AlexHormozi P2:
+~43 rows remain. Synthesis backlog: equity/phantom-equity + step-down/EV-over-profit → scaling/wealth;
+Augusta Rule → tax-free-liquidity; raise-prices letter + "the culling" → pricing-psychology.

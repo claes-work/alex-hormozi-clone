@@ -109,9 +109,16 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2021-07-05 | [[2021-07-05-yt-lIC8fYbrkII]] | How to scale yourself — the What-Why-How framework (diagnose underperformance) | |
 | 2021-07-07 | [[2021-07-07-yt-_x6n-CmZqjo]] | A billionaire's advice on $100M→$1B (attribution caution) | ★ |
 | 2021-07-09 | [[2021-07-09-yt-V7oUcAfof34]] | How I run 6 companies — owner-not-CEO portfolio model, "nose in hands out" (bio) | |
+| 2021-07-14 | [[2021-07-14-yt-PxpPynt1mis]] | Why I give away % of my business — phantom equity, grow-the-pie | |
+| 2021-07-19 | [[2021-07-19-yt-Gy-RmpRif-I]] | How to raise prices (+ the letter I sent) — "the culling" (3× price, 2× revenue) | ★ |
+| 2021-07-21 | [[2021-07-21-yt-AM_-lnyY70M]] | The Augusta Rule tax loophole — 14-day tax-free home rental to your business | |
 | 2021-07-26 | [[2021-07-26-yt-rX5zKeQu7ow]] | "We fired everyone who was late" — hearts>smarts culture (by partner) | |
+| 2021-07-28 | [[2021-07-28-yt-Ikm8tTuA10Q]] | Never listen to (poorer) parents — macro-risk > micro-risk | |
+| 2021-07-30 | [[2021-07-30-yt-K3cSPJDlcVc]] | Entrepreneurs get stuck for 3 reasons — belief / trait / skill (not the market) | |
 | 2021-08-02 | [[2021-08-02-yt-ug5N9qmFVKQ]] | Billion-dollar empire in 2-3 days/wk — leverage/holding-co; early Acquisition.com vision | ★ |
+| 2021-08-06 | [[2021-08-06-yt-s3tH9Sz1fEc]] | Stepped down as CEO — passive-income/holding-co model (bio: profit $17M→$8M traded for EV) | ★ |
 | 2021-08-09 | [[2021-08-09-yt-kULFeI3LRYk]] | $100k on courses — "bridge of skill-bricks"; paid Cardone $120k/4hrs (bio) | ★ |
+| 2021-08-11 | [[2021-08-11-yt-OmDv6-651SM]] | Simple voice tweak — tone + cadence; "a sale is a transfer of belief" | |
 | 2021-08-13 | [[2021-08-13-yt-4vLgOX1Ykjg]] | "Told myself I was wealthy" — identity via evidence-backed arguments ("because") | |
 | 2021-08-23 | [[2021-08-23-yt-_qspvJAq34M]] | 700×$40k — canonical Value Equation + Gym Launch (bio) | ★ |
 | 2021-09-17 | [[2021-09-17-yt-Xb9ZOA6zypU]] | 7-year journey to first million (origin story, DUI, $1k rock bottom) | ★ strong |
@@ -658,7 +665,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 | 2022-10 → 2025-05 | (7 pages + 24 title-triaged) | ⚠️ **no Alex** — remaining @GymLaunch is Kale Owen / staff / client stories / company scripts (title-triaged; 24 cataloged as skipped, not individually watched) | |
 
-_628 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_635 videos ingested (L2). @ACQofficial + @TheSkoolSchool P2 complete; @AlexHormozi metadata backfilled (177 rows dated, +44 P1) — now ingesting his OLDEST content chronologically (2018–2021 origin-era, framework-seed material)._ **ALL P1 (landmark) videos complete across all 5 channels; @AlexHormozi P1/P2 origin-era underway — 2018–2021 solo content is proto-framework-dense (proto-Grand-Slam-Offer, proto-LTGP:CAC, extreme-frugality wealth phase).** Remaining: P2 (~2,302, mostly @MoreMozi Q&A cuts) + shorts dedup (~8,700)._ 33 videos skipped (Leila/promo/joke/title-triaged Kale). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
