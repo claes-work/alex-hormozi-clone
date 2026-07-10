@@ -5131,3 +5131,26 @@ Synthesis notes: price-to-revenue-ceiling/maintenance-protection/national-talent
 Ledger 8->L2 (L2 now 1,502). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: VSMB-low-price-high-margin/revealed-value/strategy-prioritization; fund-brand-language/accredited-channels/compliance; MSP-subscription-retention-margin-leverage; two-sided-tutor-monetization/SEO-skill-ceiling/ad-economics; restaurant-repetition-loop/sequence-fires/capacity-before-cross-sell; free-course-implementation-funnel/qualification-pixel; niche-agency-customer-rollup/teach-vs-do-income-boundary; metric-exposure/measurement-cadence/self-reported-20m-threshold.
+
+## [2026-07-10] ingest | yt batch 200 - @MoreMozi P2 (2026-03-31 to 2026-04-01), 8 videos
+
+- **2026-04-01** `yt-CUDu2EE8Bwk` - SaaS as product/retention business,
+  cohort reverse engineering, passive growth, and disciplined qualification.
+- **2026-04-01** `yt-ypc2iwsbXNc` - leading-input scorecards and the
+  effort-gap definition of a daily win.
+- **2026-04-01** `yt-TIZF3U_GKOo` - short-term status consumption versus
+  long-term work signals across wealth levels.
+- **2026-04-01** `yt-01MXBvMeFCw` - consistency, preparation, timed
+  time-on-task, beginning before mood, and mid-task open loops.
+- **2026-04-01** `yt-nuoD2Hxv92M` - evidence-backed nonconformity,
+  independent valuation, and rejection exposure; mixed speakers.
+- **2026-03-31** `yt-SLA-q8HdZTE` - value-equation recap and self-reported
+  PR specialization/pricing example.
+- **2026-03-31** `yt-I3gI4nSeG7k` - pass-through revenue correction and
+  price-or-delivery model repair before hiring.
+- **2026-03-31** `yt-4oRS9Xebea4` - economic-engine-funded character IP,
+  measurable media investment, and commerce validation.
+
+Ledger 8->L2 (L2 now 1,510). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: SaaS-product-retention/retained-cohort/passive-growth/say-no; leading-input-win/zero-effort-gap; status-spending/outwork-not-outspend; exact-consistency/preparation/timed-focus/start-before-mood/open-loop; evidence-backed-nonconformity/rejection-exposure; offers-value-equation/PR-specialization-corroboration; pass-through-revenue/model-before-hiring; economic-engine-funded-IP/measurable-brand-media/commerce-validation.
