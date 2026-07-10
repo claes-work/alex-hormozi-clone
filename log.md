@@ -5434,3 +5434,29 @@ Synthesis notes: learning=new-behavior-same-conditions-corroboration/intelligenc
 Ledger 9->L2 (L2 now 1,602). youtube-index/index/footer updated. 9 of 10 captions OK;
 `yt-98Vjqwe3rwk` marked unavailable (removed). 0 retry.
 Synthesis notes: dont-call-it-off-season-naming-principle-labels-shape-behavior; confidence-as-predictive-metric-statistical-confidence-interval-built-by-repetition-corroboration; 12-by-30/16-by-30-work-intensity-exercise/relentless-gear-grind; reverse-from-end-state/arbitrage-impermanence/FOMO-worst-driver-corroboration; VSL-FIVE-PIECE-STRUCTURE+four-step-belief-breaking-objection-formula — promote to sales/marketing (VSL) at next checkpoint; two-filter-feedback-discernment-incentives+competence/critics-cast-preferences; scale-PT=recruiting-not-price/treat-scarce-employees-as-the-customer/profit-anchored-referral-bounties/supply-vs-demand-constrained; pick-one-avatar-by-LTV:CAC/say-no-for-now-not-forever.
+
+## [2026-07-10] ingest | yt batch 212 - @MoreMozi P2 (2026-03-23 to 2026-03-24), 10 videos
+
+- **2026-03-24** `yt-norSbF8HNxY` - coaching to $5M: reframing hire-with-equity vs
+  raise-cash as one "cost of equity to the employee vs to the investor" math equation.
+- **2026-03-24** `yt-2f1xtzNQsXo` - "buying courses but not getting results": a
+  bridge-of-bricks cumulative-skills framing; the issue is the promises, not the products.
+- **2026-03-24** `yt-KPXGJBAoLGM` - tutoring scale: a "ham and the garlic" parable for
+  selling a defined front-end offer as a sales motion into continuity.
+- **2026-03-24** `yt-X5tf1UBUAwY` - scaling B2B without paid ads: mechanize proven
+  outbound and skip brand (corroborates existing material — nothing genuinely new).
+- **2026-03-24** `yt-5ltooz9gG0I` - dating while building a business: a "try before you
+  buy" compatibility test and "your most important relationship is with your goals" (self-reported/hypothetical).
+- **2026-03-24** `yt-ol5LFgqTGag` - $4M ARR SaaS scale/exit: a "features not bugs"
+  enterprise reframe, pulling cash forward in terms, and advertising upmarket.
+- **2026-03-24** `yt-Y-GLsSl5FS8` - offer problem or people problem: record and listen to
+  sales calls before changing offer/price/marketing — it's usually the reps, not the offer.
+- **2026-03-24** `yt-0ACmZguiDyc` - "be a perfectionist": real perfectionists finish and
+  ship volume; reconcile perfectionism with volume by picking your battles (standards only on the highest-contribution work).
+- **2026-03-24** `yt-6eAOVw3zLtc` - Dave Ramsey guest appearance (MIXED attribution):
+  asset-protection tactics are Ramsey's; Alex-attributed detail on acquisition.com's family-office structure.
+- **2026-03-23** `yt-N_lUGPDUHo8` - protecting info products from AI: a dated March 2026
+  stance — don't defend them, maximize cash and rotate to a different vehicle.
+
+Ledger 10->L2 (L2 now 1,612). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: cost-of-equity-to-employee-vs-to-investor-as-one-equation; bridge-of-bricks-cumulative-skills/issue-is-the-promises-not-the-products; ham-and-the-garlic-parable-defined-front-end-offer-into-continuity; try-before-you-buy-compatibility/most-important-relationship-is-with-your-goals — mindset/beliefs candidate; features-not-bugs-enterprise-reframe/pull-cash-forward-terms/advertise-upmarket; record-listen-to-sales-calls-before-changing-offer-usually-reps-not-offer; PERFECTIONISM-reconciled-with-volume-pick-your-battles-standards-on-highest-contribution-work — mindset candidate; DATED-Mar-2026-AI-stance-dont-protect-info-products-cash-out-and-rotate-vehicles — promote to ai-in-business at next checkpoint; Ramsey-guest-asset-protection-is-Ramsey/Alex-acquisition.com-family-office-structure.

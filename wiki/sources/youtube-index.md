@@ -597,7 +597,17 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-19 | [[2026-03-19-yt-y7ToMgdDcIs]] | Construction + elevator → $100M — burn-it-down (likely dup of i-4IiGGS1wE) (light) | |
 | 2026-03-20 | [[2026-03-20-yt-UKd3hu6IRbY]] | Home services → $100M — sell membership on the back end (light) | |
 | 2026-03-26 | [[2026-03-26-yt-XWHqOYR0IHM]] | Champions see their past as origin story — victims-vs-champions reframe | |
+| 2026-03-23 | [[2026-03-23-yt-N_lUGPDUHo8]] | Protect info products from AI? - don't; cash out and rotate vehicles (Mar 2026) | |
 | 2026-03-24 | [[2026-03-24-yt-KG5QJ3FuwA8]] | Home services →$3M - pick one avatar by LTV:CAC; say no for now, not forever | |
+| 2026-03-24 | [[2026-03-24-yt-norSbF8HNxY]] | Coaching →$5M - cost of equity to employee vs investor as one equation | |
+| 2026-03-24 | [[2026-03-24-yt-2f1xtzNQsXo]] | Courses not working - bridge of bricks; the issue is the promises, not the products | |
+| 2026-03-24 | [[2026-03-24-yt-KPXGJBAoLGM]] | Tutoring scale - "ham and the garlic"; defined front-end offer into continuity | |
+| 2026-03-24 | [[2026-03-24-yt-X5tf1UBUAwY]] | B2B without paid ads - mechanize proven outbound, skip brand | |
+| 2026-03-24 | [[2026-03-24-yt-5ltooz9gG0I]] | Dating while building - try before you buy; top relationship is with your goals | |
+| 2026-03-24 | [[2026-03-24-yt-ol5LFgqTGag]] | SaaS $4M scale/exit - features not bugs, pull cash forward, advertise upmarket | |
+| 2026-03-24 | [[2026-03-24-yt-Y-GLsSl5FS8]] | Offer or people? - record sales calls first; usually the reps, not the offer | |
+| 2026-03-24 | [[2026-03-24-yt-0ACmZguiDyc]] | Be a perfectionist - real perfectionists ship volume; pick your battles | |
+| 2026-03-24 | [[2026-03-24-yt-6eAOVw3zLtc]] | Dave Ramsey guest - asset protection (Ramsey's tactics; mixed) | |
 | 2026-03-25 | [[2026-03-25-yt-rbxrRh1t8b0]] | Retail over-expansion - it's a talent gap not saturation; hire for want not pain | |
 | 2026-03-25 | [[2026-03-25-yt-8rx0OQy1a2s]] | Coaching →$50M - talent debt; your best talent is always in the future | |
 | 2026-03-25 | [[2026-03-25-yt-pkK7NoFRpas]] | E-com when to exit - how-will-my-daily-behavior-change heuristic | |
@@ -1632,7 +1642,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,602 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~868 total, including P2 (~860 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,612 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~858 total, including P2 (~850 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
