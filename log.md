@@ -5460,3 +5460,29 @@ Synthesis notes: dont-call-it-off-season-naming-principle-labels-shape-behavior;
 
 Ledger 10->L2 (L2 now 1,612). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: cost-of-equity-to-employee-vs-to-investor-as-one-equation; bridge-of-bricks-cumulative-skills/issue-is-the-promises-not-the-products; ham-and-the-garlic-parable-defined-front-end-offer-into-continuity; try-before-you-buy-compatibility/most-important-relationship-is-with-your-goals — mindset/beliefs candidate; features-not-bugs-enterprise-reframe/pull-cash-forward-terms/advertise-upmarket; record-listen-to-sales-calls-before-changing-offer-usually-reps-not-offer; PERFECTIONISM-reconciled-with-volume-pick-your-battles-standards-on-highest-contribution-work — mindset candidate; DATED-Mar-2026-AI-stance-dont-protect-info-products-cash-out-and-rotate-vehicles — promote to ai-in-business at next checkpoint; Ramsey-guest-asset-protection-is-Ramsey/Alex-acquisition.com-family-office-structure.
+
+## [2026-07-10] ingest | yt batch 213 - @MoreMozi P2 (2026-03-23), 10 videos
+
+- **2026-03-23** `yt-sGiObaoef10` - Spanish-language real-estate education to $3M:
+  double the events, a break-even-CAC "downsell the upsell" membership, and strategy-follows-the-owner's-goal.
+- **2026-03-23** `yt-jOM-BzXV39M` - two-sided B2B influencer agency: referral-hiding
+  incentives make word-of-mouth weak, so default to cold-traffic paid ads.
+- **2026-03-23** `yt-EXudDKvJC54` - $10M trucking: double down rather than diversify;
+  the "woman in the red dress" opportunity-cost metaphor for chasing shiny new options.
+- **2026-03-23** `yt-rMMOHeBzA50` - agency to $1M/month: focus one avatar and wait for
+  a real LTV:CAC (corroborates existing avatar-focus material — nothing genuinely new).
+- **2026-03-23** `yt-YAgVN1HsVfY` - "shadowbanned or just bad content": diagnose declining
+  metrics as a fixable content problem, interest-graph over followership, and the oneof10 headline/thumbnail research tool.
+- **2026-03-23** `yt-94mDeuLH24c` - B2B lead-gen lead quality: raise LTV before switching
+  ad platforms (nothing genuinely new).
+- **2026-03-23** `yt-6G_Lj8SavD8` - the 3 core roles/functions every company needs:
+  promotion, product, and operations, gated by the active supply-vs-demand constraint.
+- **2026-03-23** `yt-20HYrn6opWI` - auto-repair shop hiring an operator: a
+  four-attributes-of-equity model and a reverse-engineer-OTE compensation method.
+- **2026-03-23** `yt-Pal3Z97jZpM` - selling SaaS to B2B: sell the outcome/problem, not
+  the product itself (nothing genuinely new beyond existing sales/offer pages).
+- **2026-03-23** `yt-vvAzWbSU_K4` - selling outcomes beats selling activity: reframe
+  client offers from lead count to revenue volume (nothing genuinely new).
+
+Ledger 10->L2 (L2 now 1,622). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: break-even-CAC-downsell-the-upsell-membership/strategy-follows-owner-goal; two-sided-B2B-referral-hiding-weak-WOM-default-to-cold-ads; double-down-not-diversify/woman-in-the-red-dress-opportunity-cost-metaphor; interest-graph-over-followership-shadowban-reframe/oneof10-headline-thumbnail-research-tool; 3-CORE-ROLES-promotion-product-operations-gated-by-active-constraint — promote to business/company-culture or scaling at next checkpoint; four-attributes-of-equity-model/reverse-engineer-OTE-comp-method — comp/hiring candidate; sell-the-outcome-not-the-product (corroboration); reframe-offers-from-lead-count-to-revenue-volume (corroboration).
