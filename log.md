@@ -4887,3 +4887,26 @@ Synthesis notes: free-offer-hidden-costs/why-not-discovery/first-four-hours-adve
 Ledger 8->L2 (L2 now 1,422). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: ego-small-pond-trap/harder-opponents/Buffett-Munger-reference; AI-humans-plus-technology/expert-judgment/use-it-posture; fully-loaded-CAC/conservative-LTV/lumpy-service-horizon; one-thing-focus/Leila-cut-everything-but-one/state-facts-tell-truth; excuse-vs-origin-story/spawn-point-frame; choose-your-regret/loss-aversion-decisions; Alex-Leila-Bumble-froyo-first-date; cash-flow-expectation-problem/payment-terms/growth-rate-math.
+
+## [2026-07-10] ingest | yt batch 190 - @MoreMozi P2 (2026-04-14 to 2026-04-15), 8 videos
+
+- **2026-04-14** `yt-9p9tc5tK2Ag` - starting advantages versus controllable rate of
+  progress, education as behavior change, and intelligence as learning speed.
+- **2026-04-14** `yt-ykKh_sf8wa0` - money as neutral potential that amplifies how its
+  holder chooses to use it.
+- **2026-04-14** `yt-zdoqcS6jGH8` - credited hero-versus-villain pain frame,
+  pain-specificity, and mixed-speaker attribution boundary.
+- **2026-04-14** `yt-XdeEygNS-no` - large-event avatar focus and paid-ad scaling under
+  a self-reported 58:1 LTV-to-CAC ratio.
+- **2026-04-14** `yt-Ol6b3eQdiwI` - info-business/software focus and matching strong
+  distribution to an already strong product.
+- **2026-04-15** `yt-pwob1lhXUsk` - delegation as relinquished control, scale zero,
+  and an explicit demand-first to supply-first position change.
+- **2026-04-15** `yt-4Jo8bWSpLgA` - immediate reinforcement, process-embedded team
+  compliance, and a team-wide bonus contingency.
+- **2026-04-15** `yt-gV1nQ3TsXQY` - persistent goal attention rather than written or
+  age-based milestones.
+
+Ledger 8->L2 (L2 now 1,430). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: starting-point-vs-rate-of-progress/intelligence-as-learning-rate; money-as-neutral-potential; credited-heroes-use-pain/mixed-attribution/pain-specificity; event-business-avatar-focus/paid-ad-scale; distribution-product-matching/Skool-capability-context; scale-zero/delegation/demand-first-to-supply-first-position-change; reward-latency/process-embedded-compliance/team-contingency; persistent-attention-over-written-goals.
