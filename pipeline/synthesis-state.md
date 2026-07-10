@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 194** — synthesis pass 21, system-prompt **v28** (2026-07-10).
+Synthesized through: **batch 204** — synthesis pass 22, system-prompt **v29** (2026-07-10).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -15,6 +15,21 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 195-204** — synthesis pass 22 (2026-07-10) →
+      system-prompt **v29**. Promoted genuinely-new late-March/April 2026 MoreMozi
+      refinements: "culture is what you tolerate" enforcement framing and skill-calibrated
+      directive vagueness; feedback = latency + specificity and criticism-vs-insult delivery;
+      AI avatars to staff a niche coaching/education platform; "reoccurring" (seasonal repeat)
+      vs "recurring" subscription revenue for one-time-purchase retention, plus clients-infer-
+      quality-from-experience; the competitor roll-up acquisition-integration playbook
+      (component SOPs, operator bonuses, single-brand rebrand); vendor-first-per-channel,
+      organic-as-free-ad-testing, and the "pulse of content" supports-outbound nuance;
+      anxiety=too-many-options / periodized balance and focus-as-environment (+ADHD-environment
+      with medical disclaimer); damaging-admission and every-position-has-an-advantage sales
+      reframes; automate-investing/manualize-spending and time-buyback arbitrage. Added
+      self-reported biography texture: beating-my-dad (not money) driver + honor-in-ordinary-work
+      counterpoint; 2024 best year / 2025 local low; eight lawsuits, five resolved; Bentley bought
+      under social pressure and returned at a loss. Dropped repeats already covered by prior passes.
 - [x] **@MoreMozi Q&A cuts — batches 185-194** — synthesis pass 21 (2026-07-10) →
       system-prompt **v28**. Promoted the explicit demand-first-to-supply-first position
       change and sharper scale-zero razor; culture as low-latency reinforcement rules;

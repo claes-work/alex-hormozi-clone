@@ -407,6 +407,39 @@ all — high margin is the enabling condition. See [[business]] and
 
 ---
 
+## March 2026 refinements: cracking new channels and stitching organic into paid
+
+- **Vendor-first when cracking a channel you've never run.** As of March 2026, Alex's default
+  for any new acquisition channel is to start with a vendor/agency rather than build in-house
+  first — buy the agency's services, tell them he'll take over in ~6 months, have them train his
+  in-house hire, then no longer need them. He applies it to local PPC and SEO especially (good
+  local agencies run a repeatable playbook and are well-priced). Paid *social* creative he'd build
+  in-house, because local creative "gets tired" roughly every **21 days** (2–3 weeks) and needs
+  constant refreshing — a cadence agencies serving small companies handle poorly
+  [[../../sources/2026-03-30-yt-FjpYz_4NIjQ]].
+  > "Whenever I do anything in a new thing, I start with vendors." / "Creative gets tired in local
+  > marketing like two to three weeks. So you have to make creative every 21 days."
+  > [[../../sources/2026-03-30-yt-FjpYz_4NIjQ]]
+- **Organic content as free ad testing.** As of March 2026, Alex frames posting organic content as
+  free testing: make many targeted pieces, let the audience reveal the winners, then promote the
+  winners into targeted (e.g. local) paid ads. If you don't want a CTA in the organic piece,
+  **stitch ~5 seconds of a CTA onto the end of the winning clip** and run that as the ad. Adding
+  organic to a mostly-paid business also lifts conversions via lead nurture — prospects look up the
+  account before a call and see the person is "alive"/real [[../../sources/2026-03-30-yt-8978JbPnlU4]].
+  > "The ones that take off, you take those, make them into ads… stitch on five seconds of a CTA at
+  > the end and then run that as the ad." [[../../sources/2026-03-30-yt-8978JbPnlU4]]
+- **"Pulse of content" supports outbound; content leads are "gravy."** As of March 2026, for an
+  outbound-led business Alex distinguishes the *large* volume needed to use content as a top-of-funnel
+  channel from a *much smaller* amount (roughly one or two posts a week) needed just to look like a
+  credible, real business. That minimal "pulse" **supports** the primary channel rather than replacing
+  it; customers who arrive via content are "bonus or gravy," with outbound the main channel early on
+  [[../../sources/2026-03-30-yt-E6xW-GCv31I]]. This nuances the [Rule of 100](#the-rule-of-100-daily-volume-for-beginners)
+  "one channel" advice: content can run as a thin credibility layer alongside the primary channel, not
+  necessarily as the channel itself.
+  > "Having the outbound spin up and then having what I would consider a pulse of content rather than
+  > trying to make content your strategy… Anybody who comes in from the content I just see as like
+  > bonus or gravy." [[../../sources/2026-03-30-yt-E6xW-GCv31I]]
+
 ## 2026 refinements: warm audiences, proof, and partner channels
 
 - **Interest media makes paid ads warmer than subscriber counts imply.** In the piano-studio
@@ -488,3 +521,9 @@ all — high margin is the enabling condition. See [[business]] and
 - [[../../sources/2021-08-17-yt-LC7x7P_hhEQ]] — referral diagnostic: why existing
   clients are not referring more clients; one-customer-forces-next-customer thought
   experiment.
+- [[../../sources/2026-03-30-yt-FjpYz_4NIjQ]] — vendor-first for cracking new channels
+  (buy agency → train in-house → drop them); local creative fatigues every ~21 days.
+- [[../../sources/2026-03-30-yt-8978JbPnlU4]] — organic content as free ad testing;
+  stitch a 5-second CTA onto the winning organic clip to run it as a paid ad.
+- [[../../sources/2026-03-30-yt-E6xW-GCv31I]] — "pulse of content" supports an
+  outbound-led business; content-sourced leads are "gravy," not the strategy.

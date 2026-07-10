@@ -353,6 +353,53 @@ See also [[building-wealth]] (under-borrowing, debt-aversion, reputation-as-asse
 
 ---
 
+## Behavior design: automate investing, manualize spending
+
+The passive-holding thesis above has a savings-side counterpart aimed at getting money *into*
+the holdings in the first place. **As of April 2026, Alex reverses the usual "save the
+remainder" order — invest first, then spend what's left** — and treats it as a friction-design
+problem rather than a willpower one: make the good behavior automatic and the bad behavior
+manual [[../../sources/2026-04-03-yt-I6o9cB_UGrA]].
+
+> "Invest, then spend the rest." [[../../sources/2026-04-03-yt-I6o9cB_UGrA]]
+
+> "Automate deposits and manualize withdrawals." [[../../sources/2026-04-03-yt-I6o9cB_UGrA]]
+
+> "Automate investing and then create friction around spending." [[../../sources/2026-04-03-yt-I6o9cB_UGrA]]
+
+Concretely (paraphrase): pull the investment out before it is ever seen via payroll, apps, or
+separate accounts; hold lifestyle spending at a **fixed amount as income rises** so every
+incremental dollar flows to investment; and deliberately add friction to spending — manual
+withdrawals, deleting shopping apps, removing stored cards. For beginners the "investment" may
+be in their own skills, distinguishing declarative knowledge of a subject from procedural
+ability to perform it. He self-reports (dated) owning no Lamborghinis, Rolexes, or jets despite
+being able to buy several a month. **His Switzerland millionaire-rate aside is unverified in the
+source — treat as illustration, not data** [[../../sources/2026-04-03-yt-I6o9cB_UGrA]].
+
+## Time-buyback arbitrage (buy time, not stuff)
+
+On the wealth-*building* side, Alex frames outsourcing low-value time as a concrete arbitrage.
+**As of April 2026, he argues that people dedicated to earning and skill-building should buy
+back low-income household time and pour the recovered hours into income-producing work** —
+while staying frugal about objects [[../../sources/2026-04-03-yt-0hO89FCmAF0]].
+
+> "Buy time like a rich person, buy stuff like a poor person." [[../../sources/2026-04-03-yt-0hO89FCmAF0]]
+
+> "Buy time, not stuff." [[../../sources/2026-04-03-yt-0hO89FCmAF0]]
+
+The mechanism is a double return: if outsourced food, cleaning, and laundry cost *less per hour*
+than your income-producing work earns, replacing chores yields both immediate time-arbitrage
+earnings **and** more repetitions at the valuable skill, so "you get better faster." He traces
+the insight to a self-reported **$500 gym sale that took ~30 minutes** — a few extra sales would
+pay for a month of groceries and household help. His heuristic (**unsupported estimates in the
+source, not a universal threshold**): roughly **$1,500 can replace ~96 monthly household hours**,
+making outsourcing rational above about **$15/hour**. Two caveats he flags: household work drains
+energy on top of time (so recovered hours can be *higher-quality* practice), and the added skill
+only pays if the worker actually asks for or otherwise captures the increased value
+[[../../sources/2026-04-03-yt-0hO89FCmAF0]].
+
+---
+
 ## Cross-links
 
 - [[../wealth]] — domain hub
@@ -370,3 +417,7 @@ See also [[building-wealth]] (under-borrowing, debt-aversion, reputation-as-asse
 - Risk-averse after prior risks, personal safety trampoline, attention-cost investment
   filter, and no-art self-report (2021) [[../../sources/2021-12-18-yt-m40W7XeZNkA]],
   [[../../sources/2021-12-21-yt-MZiRhJVCnJI]]
+- Switzerland millionaire-rate aside (unverified illustration); no-Lamborghini/Rolex/jet
+  self-report (2026) [[../../sources/2026-04-03-yt-I6o9cB_UGrA]]
+- $500 / ~30-min gym sale; $1,500 → ~96 hrs / ~$15-per-hour outsourcing heuristic —
+  unsupported estimates (2026) [[../../sources/2026-04-03-yt-0hO89FCmAF0]]

@@ -4,7 +4,7 @@ domain: business
 domains: [business, wealth]
 created: 2026-07-08
 updated: 2026-07-10
-sources: 21
+sources: 22
 tags: [scaling, enterprise-value]
 ---
 
@@ -444,6 +444,35 @@ Live coaching of a two-location dance-school owner; only Alex's advice is person
 - **Warning:** almost every multi-location fitness operator he knows **never sold the whole
   thing** — "every one of them piecemealed it: one to a trainer, one to a customer, one to
   a competitor" when they got tired.
+
+---
+
+## 8b. Competitor roll-up: the acquisition-integration playbook
+
+Source: [[../../sources/2026-03-29-yt-n0Rw4KT6boI|Helping a Home Services Business Scale]] (2026).
+Live coaching of a ~$2M/yr dog-waste-removal owner buying up local competitors; only Alex's
+advice is persona data.
+
+- **Decompose each acquired business into component SOPs.** As of March 2026, Alex advises
+  separating an acquisition into its core components — routes, customer list, delivery labor,
+  administrative functions — and building an SOP for each. (paraphrase)
+- **Integration is one ever-growing checklist.** Each deal improves it until it covers
+  everything and future integrations go faster.
+  > "It's just the world's longest checklist and every single integration you do you get a
+  > little bit better and you add things to the checklist until eventually... you can go
+  > faster and faster."
+- **Align operators with post-integration bonuses.** Keep the acquired operator on and tie a
+  large bonus to a successful integration, especially on small deals.
+  > "I would have some sort of big incentive for them to have bonus basically post
+  > integration... like we're in this together. If this doesn't work then you're not going
+  > to get paid."
+- **Rebrand acquisitions under one brand for a valuation premium.** As of March 2026, he calls
+  single-brand consolidation "the big play" that earns a premium at exit.
+  > "I would probably rebrand it. If you really want to do the big play you'll get a premium
+  > for it."
+- **Roll-up references (self-reported reading):** the book *How to Make a Few Billion Dollars*
+  (author did three roll-ups each sold for ~$10B) and **Waste Management** as the model for
+  route-based roll-up growth.
 
 ---
 

@@ -621,6 +621,28 @@ of the full plan as a menu of logical next steps. The close is not "do you want 
 but which path best matches the outcome they already said they wanted
 [[../../sources/2026-04-27-yt-KCN3v3cjwvw]].
 
+## 12. March 2026 Q&A refinements: damaging admissions, position advantage, buyer readiness
+
+From several March 2026 coaching cuts, three additions to the persuasion and vetting toolkit:
+
+- **The damaging admission (overcoming the fear of selling).** Volunteering a genuine
+  weakness or downside of your own offer *lowers* the prospect's anxiety and *raises*
+  trust, because it signals the seller is telling the truth rather than only pitching
+  upside. Paired with plain truth-telling, this is Hormozi's antidote to a rep's own
+  fear of selling — you sell more confidently when you are not hiding anything
+  ([[../../sources/2026-03-30-yt-9AV0Er3NXz4]]). (Sharper, trust-framed cousin of the
+  "own the negatives / but-reversal" move in §3.)
+- **"Every position has an advantage."** Whether the rep is the solo newcomer or the
+  entrenched incumbent, each starting position carries its own sales advantages to lean
+  on — so no position is a reason not to sell; find and press the advantage the position
+  gives you ([[../../sources/2026-03-30-yt-9AV0Er3NXz4]]).
+- **Buyer-readiness litmus: "stop learning on the sales call."** A prospect (or, inverted,
+  a provider being vetted) who is still learning the basics *on the call itself* is not
+  ready to transact; genuine readiness shows up as already understanding the fundamentals
+  going in. Hormozi uses this as a screen when vetting agencies/providers — if they are
+  learning your business live on the call, they are not the right buyer/seller yet
+  ([[../../sources/2026-03-30-yt-omxB6GesatE]]).
+
 ## Related pages
 
 - Hub: [[business]]
@@ -660,3 +682,7 @@ but which path best matches the outcome they already said they wanted
   as conviction fuel; childlike curiosity in objections (2026)
 - [[../../sources/2026-06-26-yt-zzleYxkf39k]] — local-to-global service sales, VIP/standard
   tiering, and value-surpassing vs. price matching (2026)
+- [[../../sources/2026-03-30-yt-9AV0Er3NXz4]] — damaging admission + "every position has an
+  advantage"; overcoming the fear of selling (2026)
+- [[../../sources/2026-03-30-yt-omxB6GesatE]] — buyer-readiness litmus "stop learning on the
+  sales call" when vetting providers (2026)

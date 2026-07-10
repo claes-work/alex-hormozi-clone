@@ -140,6 +140,29 @@ accepted a shared bonus for a shared duty, making the payout contingent on every
 performing creates peer accountability. These are dated operating tactics, not a
 replacement for the mission/values layer above.
 
+## March 2026 refinement: tolerance, calibrated direction, and criticism vs. insult
+
+In two MoreMozi coaching cuts, Hormozi sharpens the leader's day-to-day mechanics of
+culture.
+
+- **Culture is what you tolerate.** As of March 2026, Alex reduces the reinforcement
+  framework to its enforcement edge: a culture is defined by the behaviors a leader
+  permits to continue, so tolerating a violation is itself a cultural choice
+  (paraphrase). [[../../sources/2026-03-30-yt-6szA-MMR_a8]]
+- **Calibrate directive vagueness to the person's skill.** As of March 2026, Alex
+  advises matching how specific your direction is to how skilled the recipient is: give
+  high-skill people vague, outcome-level direction and let them fill in the how; give
+  low-skill people precise, specific instructions. Mismatching the two (over-specifying
+  to an expert or under-specifying to a novice) is a management error
+  (paraphrase). [[../../sources/2026-03-30-yt-6szA-MMR_a8]]
+- **Criticism vs. insult, as an accountability tool.** As of March 2026, Alex draws a
+  hard line for partnership/co-founder conversations: criticism names the gap between a
+  person's stated intent and their actual behavior and attaches a plan to close it,
+  whereas an insult does neither. Framing an underperforming co-founder as an
+  accountability conversation — not a personal attack — is how the hard message stays
+  constructive (paraphrase). This operationalizes the "sincere candor" value above.
+  [[../../sources/2026-03-30-yt-nBu2WYJHeMs]]
+
 ## Related
 
 - [[communication-and-management]]

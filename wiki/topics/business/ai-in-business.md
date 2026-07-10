@@ -151,6 +151,27 @@ training, he recommends reducing explanation into action-only steps: tell people
 what to do, then let agents/prompts handle the administrative and instructional pieces
 [[../../sources/2026-07-04-yt-1Zevc7wdRZQ]].
 
+**AI avatars as a staffing/scaling model** (2026-03-30). In a coaching-call clip
+([[../../sources/2026-03-30-yt-32R-eshEOdY]]), advising a caller who wants to build a
+multi-personality educational platform (the "Ramsey Solutions" of a niche) rather than a
+solo coaching business, Hormozi "strongly" recommends building a **team of AI avatars** to
+deliver the niche coaching instead of hiring human coaches — a capability he notes "wasn't
+available 12 months ago." The model: build the education/curriculum **once**, feed it into
+the avatars, and run an entirely AI-driven delivery layer; avatars can be built from scratch
+or trained on a real person and deployed by licensing their likeness. He pairs it with cold-
+vs-warm funnel advice and frames non-founder personalities as the path to a saleable,
+non-founder-dependent business.
+
+> "The really cool news that wasn't like available 12 months ago even is the AI avatars. And
+> I think I would like really strongly consider just building out a team of AI avatars." (2026-03-30)
+
+> "Now you have an entirely AI driven business with avatars that won't cheat, won't sleep with
+> each other, won't go work for a competitor. Like all of that is just done." (2026-03-30)
+
+This extends the avatar mentions elsewhere on this page (Feb 2023 onboarding avatars; the
+2026-04-21 skincare-avatar "proof-in-its-look" note) into an explicit **delivery-at-scale
+staffing** use case: the avatar replaces headcount for the recurring teaching workflow.
+
 **Automate your own job.** One task at a time, one layer beneath the role. If you don't
 automate it, someone else controls that automation.
 

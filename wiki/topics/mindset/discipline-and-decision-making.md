@@ -467,6 +467,65 @@ recommends keeping stable income until the new vehicle consistently matches it. 
 can make business more fun because constraints and cash flow let the founder buy learning,
 experiments, and time rather than acting from panic [[../../sources/2026-04-27-yt-Wx6-8KY_wfs]].
 
+## Anxiety, focus, and thinking bigger (March–April 2026)
+
+**Anxiety = too many options, no priorities; sadness = a *perceived* lack of options.**
+In a March 2026 conversation, Hormozi defines the two emotional states operationally:
+anxiety is having many options but no priorities (why it feels scattered), and sadness is
+a *perceived* — not actual — lack of options (why it feels like hopelessness). The fix for
+anxiety is to prioritize and sequence; the escape from sadness is realizing the only task
+is to figure out what to do, and "figuring it out becomes the option"
+[[../../sources/2026-03-30-yt-1dOAbkPE0vg]].
+
+> "Anxiety is many options but no priorities, which is why you feel scattered."
+
+> "Sadness is a perceived lack of options. It's why it feels like hopelessness because you
+> don't know what to do."
+
+He pairs this with a **periodized view of work-life balance** — split over seasons, years,
+and decades (e.g. work hard for 3 years, then a chill year) rather than balanced within
+each day — and an **"effort arbitrage"** frame: maintaining a skill costs roughly 1/10 the
+effort of growing it, so going 10-or-13-out-of-10 on one priority while merely maintaining
+the rest beats spreading 4/10 across ten things (which makes progress on none)
+[[../../sources/2026-03-30-yt-1dOAbkPE0vg]]. (He credits a person named George for the line
+"General ambition gives you anxiety. Specific ambition gives you direction.")
+
+> "The further you extend the time horizon, the more flexible you can be with your
+> achievement of it as long as you only get the few things that matter most."
+
+**Focus is subtraction — engineer the environment, don't fight it.** In two April 2026
+clips, Hormozi treats focus as the *remainder* after distractions are removed rather than a
+willpower add-on: "make sure there's nothing else to do but the work." His concrete stack
+is grayscale phone, notifications off, inbound calls blocked during focus blocks, and a
+team that does not reach him by email; he estimates real focused time with physical timers
+that he pauses for every interruption [[../../sources/2026-04-07-yt-rtpOMZu0ork]]. He
+reframes an ADHD diagnosis as an environment problem more than a willpower one — reduce
+competing stimuli until the intended task is the most interesting remaining option, plus
+exercise — while explicitly disclaiming that he is not a doctor and leaving medication to
+the individual and their medical guidance [[../../sources/2026-04-06-yt-EJMV79U6_0U]].
+
+> "Focus is through subtraction, not addition."
+
+> "The best way to make sure that you do nothing but the work is to make sure there's
+> nothing else to do but the work."
+
+> ⚠️ **MEDICAL DISCLAIMER (preserve):** the ADHD/medication comments are Hormozi's personal
+> opinion, not clinical guidance — "I'm not a doctor." Persona use must keep the disclaimer
+> [[../../sources/2026-04-06-yt-EJMV79U6_0U]].
+
+**A bigger goal changes the solution set, not just the intensity.** In an April 2026 clip,
+Hormozi argues a sufficiently larger goal can be *easier* because it forces a different
+tool rather than more effort within the existing method: running harder reaches one block
+faster, but reaching five blocks suggests a car. A $100k target often assumes trading more
+hours (why he calls it a particularly hard level); a $1M or $10M constraint makes pure
+time-trading obviously inadequate and pushes you to identify leverage and higher-value
+skills [[../../sources/2026-04-03-yt-JLm2FmCs06Q]]. He is explicit that "easier" is a
+strategic framing about leverage, not a claim that high income requires little effort.
+
+> "The magic of thinking bigger is that you change your solution set."
+
+> "Start solving for the skills required to make a million or ten million dollars."
+
 ## Sources
 
 - [[../../sources/2026-05-17-yt-CV48Gkckbn4]] — "12 by 30" work-ethic framework;
@@ -493,3 +552,11 @@ experiments, and time rather than acting from panic [[../../sources/2026-04-27-y
   horizon; global vs. local benefit.
 - [[../../sources/2021-12-08-yt-o7R_K6LwKNk]] — strip meaning; business ≠ therapy;
   medical disclaimer preserved.
+- [[../../sources/2026-03-30-yt-1dOAbkPE0vg]] — anxiety vs. sadness definitions; periodized
+  work-life balance; effort arbitrage.
+- [[../../sources/2026-04-07-yt-rtpOMZu0ork]] — focus as subtraction; grayscale / no
+  notifications / no email; physical focus timers.
+- [[../../sources/2026-04-06-yt-EJMV79U6_0U]] — ADHD-as-environment framing; not-a-doctor
+  medical disclaimer.
+- [[../../sources/2026-04-03-yt-JLm2FmCs06Q]] — bigger goal changes the solution set /
+  tools, not just intensity.

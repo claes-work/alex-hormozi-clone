@@ -96,6 +96,12 @@ their L2 source videos (2020–2026).
   reduce to the Greek root of *monopoly* — *mono* (one) + *polein* (to sell): make it so
   only you can sell. (Pairs with the later four-vector and five-filter models above.)
   [[../wiki/sources/2024-07-12-yt-Lc8DNduiwKA]]
+- **"Reoccurring" is not "recurring" — engineer seasonal repeat purchases** (2026) — a
+  one-time-purchase business will never have subscription **recurring** revenue, but it can
+  and should engineer **reoccurring** revenue: designed, predictable **seasonal repeat
+  purchases** where the customer returns on a cycle without any formal subscription.
+  Retention doesn't require a subscription model — it requires a built-in reason to buy
+  again. [[../wiki/sources/2026-03-30-yt-wlaMQa-Vw5I]]
 
 ## Values
 
@@ -1269,8 +1275,13 @@ Synthesized from 2026 solo videos and MoreMozi Q&A cuts. This is his current, ti
   (2026) — as generated information becomes cheap and noisy, the durable value is selecting
   the right thing, shortening time-to-result, putting people in real communities, and
   supplying recurring inputs they continue to consume [[../wiki/sources/2026-05-27-yt-D8mz-jmYL5M]].
-
-  > ⚠️ EVOLVING (his AI posture, 2022 → 2026): His public stance shifted from **futurist**
+- **Staff a niche coaching/education platform with AI avatars, not human coaches**
+  (March 2026) — for a niche coaching/education play he now favors **building the curriculum
+  once and licensing/deploying an AI likeness (avatar) at scale** over hiring human coaches,
+  turning the coaching itself into a reproducible, near-zero-marginal-cost workflow. (Extends
+  "risk is the last paid human act" and the workflow-not-role thesis into *delivery*, and
+  answers the education model's key-man/scaling limits; interested advice — pairs with his
+  community/education bets.) [[../wiki/sources/2026-03-30-yt-32R-eshEOdY]] His public stance shifted from **futurist**
   > to **tactical** to **strategic pro-adoption** — present only the current view.
   > **Dec 2022** ([[../wiki/sources/2022-12-28-yt-KYqEK_T_5M4]], ~4 weeks after ChatGPT
   > launched): sweeping and philosophical (moon-landing framing, singularity, UBI, romance
@@ -1485,6 +1496,10 @@ noted. Drawn from the evolution/contradiction flags on the topic pages.
   observable through the small behaviors leaders immediately praise, punish, or embed in
   workflow. Positive reinforcement should greatly outnumber correction; praise is public,
   criticism private [[../wiki/topics/business/company-culture]].
+- **"Culture is what you tolerate"** (2026) — sharpening the real-time-reinforcement view:
+  culture is set by what leaders *permit*, not by the values on the wall — whatever behavior
+  you tolerate silently becomes the de facto standard, so unaddressed bad behavior rewrites
+  the culture regardless of stated values. [[../wiki/sources/2026-03-30-yt-6szA-MMR_a8]]
 - **Operationalize emotion into the next behavior** (2026) — sadness means perceived lack
   of options, anxiety means many options with too few priorities, and patience means what
   to do in the meantime. Environment supplies cues and friction; speculative past-tense

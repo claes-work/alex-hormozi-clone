@@ -5235,3 +5235,26 @@ Synthesis notes: anxiety=many-options-no-priorities/sadness-anxiety-definitions/
 Ledger 5->L2 (L2 now 1,537). youtube-index/index/footer updated. 5 of 8 captions OK;
 `yt--TPsWUK8FeU` marked unavailable (removed); `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again, open for retry.
 Synthesis notes: pain-over-passion/beating-my-dad-not-money-motivator/stop-dreaming-honor-in-ordinary-work-counterpoint; agency-sales-as-cofounder-accountability/insult-vs-criticism-stated-vs-reality-gap-plus-plan; reoccurring-vs-recurring-revenue-seasonal-repurchase-for-one-time-purchase-retention; unused-time-is-the-constraint/pulse-of-content-supports-outbound-content-leads-are-gravy; roll-up-integration-component-SOPs-growing-checklist/operator-bonuses/single-brand-rebrand-for-valuation-premium.
+
+## [2026-07-10] lint | synthesis pass 22 — @MoreMozi batches 195-204
+
+Promoted the genuinely-new late-March / April 2026 @MoreMozi refinements from batches
+195-204 (~53 videos) into topics + persona; recompiled the system prompt v28 -> **v29**.
+
+Topics touched:
+- `mindset/mental-toughness-and-learning.md` — feedback = latency + specificity; criticism-not-insult delivery protocol.
+- `mindset/discipline-and-decision-making.md` — anxiety = too many options / no priorities; periodized work-life balance; focus-as-subtraction (grayscale, no notifications, timers) + ADHD-as-environment (medical disclaimer); bigger goals change the solution set.
+- `business/company-culture.md` — "culture is what you tolerate"; skill-calibrated directive vagueness; criticism-vs-insult accountability tool.
+- `business/retention.md` — "reoccurring" (seasonal repeat) vs "recurring" subscription revenue for one-time-purchase businesses; clients infer internal quality from external experience.
+- `business/scaling-and-enterprise-value.md` — competitor roll-up acquisition-integration playbook (component SOPs, operator bonuses, single-brand rebrand for a valuation premium).
+- `business/ai-in-business.md` — AI avatars to staff a niche coaching/education platform (build curriculum once, license likeness).
+- `business/sales-frameworks.md` — damaging admission lowers prospect anxiety; every-position-has-an-advantage reframe; "stop learning on the sales call" buyer-readiness litmus.
+- `business/acquisition-channels.md` — vendor-first per new channel + local creative fatigues ~21 days; organic-as-free-ad-testing (5-sec CTA onto winners); "pulse of content" supports outbound.
+- `wealth/investing-and-wealth.md` — automate investing / manualize spending (invest-first friction design); time-buyback arbitrage.
+
+Persona touched:
+- `biography.md` — beating-my-dad (not money) as deepest early driver + honor-in-ordinary-work counterpoint; 2024 best year / 2025 local low; eight lawsuits, five resolved; Bentley bought under social pressure and returned at ~$20k loss (self-reported, cited).
+- `beliefs.md` — "reoccurring" vs "recurring" revenue; AI-avatars-staff-the-platform 2026 position; "culture is what you tolerate."
+- `system-prompt.md` — recompiled to **v29** (compiled_from_sources ~1,537 videos + 2 books); body gained the culture-is-what-you-tolerate line, the AI-avatar delivery position, and the beating-my-dad motivator.
+
+High-water mark advanced to **batch 204** in `pipeline/synthesis-state.md`; no pending checkpoints remain. Dropped pure repeats already covered by prior passes.

@@ -107,6 +107,20 @@ expectations do more than hype.
 
 - **Lower the reading-grade level** of all customer-facing language (emails, ads, scripts,
   product pages) to lift comprehension, conversion, and experience while lowering refunds.
+- **Clients infer internal quality from the external experience — so communication defends
+  retention.** In sticky professional-services firms (his 2026 example: a virtual CPA/accounting
+  firm at ~70% annual retention), clients can't judge the internal work, so they gut-call on the
+  outside experience: sloppy communication makes them assume the core work is sloppy too, and
+  tight communication makes them assume the opposite. The fix is *proactive, frequent, pushed*
+  updates — notifying the client every time work is done on their behalf, never asking them for
+  things — so they feel the team is constantly working for them and won't leave for a cheaper
+  competitor. He argues such firms should retain 80%+, and diagnoses sub-par retention as bad
+  onboarding (the delta between what was sold and the early experience) plus weak communication
+  cadence, not the client's stated reason (2026-03-30) [[../../sources/2026-03-30-yt-o9fYl33Xzuc]].
+
+> "If this is my external experience, I'll bet you they're not crossing their T's and dotting
+> their I's on my taxes. And so if you get all of the other stuff tight, they will just guess
+> that your internal stuff is tight." — [[../../sources/2026-03-30-yt-o9fYl33Xzuc]]
 
 ## Tenure thresholds
 
@@ -267,6 +281,34 @@ creates cheap information, value concentrates in **curation, time compression, r
 community, and consumable recurring inputs** [[../../sources/2026-05-27-yt-D8mz-jmYL5M]].
 That makes consumables a retention tactic and a 2026 positioning thesis at the same time.
 
+## "Reoccurring" revenue in one-time-purchase businesses
+
+Not every business can — or should — force a subscription. For one-time-purchase businesses,
+Hormozi draws a distinction between **recurring** revenue (memberships/subscriptions) and
+**"reoccurring"** revenue (reliable repeat purchase with no subscription), using Coca-Cola as
+the analog: no memberships, yet reliable repeat buying (2026-03-30)
+[[../../sources/2026-03-30-yt-wlaMQa-Vw5I]].
+
+> "Instead of saying like it's recurring it becomes reoccurring... Coca-Cola has no recurring
+> basically no recurring memberships but we buy Coca-Cola products all the time. So we have
+> reoccurring. It's reliable revenue. It's just not on a membership or a subscription."
+> — [[../../sources/2026-03-30-yt-wlaMQa-Vw5I]]
+
+Advising a permanent-holiday-lighting installer with no retention (the product is bought once),
+his playbook for engineering reoccurring revenue:
+
+- **Run 2–3 seasonal campaigns a year** (e.g. Easter, Christmas) to stay top-of-mind and open
+  upsell windows.
+- **Maintenance check-ins as upsell openings** — a "let's make sure the lights still work"
+  touch creates natural upgrade offers, using prior work done for a neighbor as social proof.
+- **Just tracking it makes the business more valuable.** Merely having the data to show that
+  ~half of customers buy again each year makes the company far more viable and valuable — the
+  same "revenue retention as the metric that compounds" thesis, ported to a non-subscription
+  model (*caller figures self-reported*: ~$5,000 ticket, ~$300 CAC).
+
+> "If we can just show that half the people continue to buy something from us every year that
+> still makes it a very viable business." — [[../../sources/2026-03-30-yt-wlaMQa-Vw5I]]
+
 ---
 
 ## Sources
@@ -286,6 +328,12 @@ That makes consumables a retention tactic and a 2026 positioning thesis at the s
   accountability, and community lower churn.
 - [[../../sources/2026-05-27-yt-D8mz-jmYL5M]] — AI-era value stack: curation, time
   compression, real community, and recurring consumables.
+- [[../../sources/2026-03-30-yt-wlaMQa-Vw5I]] — "How To Build Revenue Retention in a 1-Time
+  Purchase Business": recurring vs. "reoccurring" revenue (Coca-Cola), seasonal campaigns,
+  maintenance upsells, tracking repeat-buy rate to raise business value.
+- [[../../sources/2026-03-30-yt-o9fYl33Xzuc]] — "Why Most Accounting Firms Stay Small":
+  clients infer internal quality from the external experience; proactive/pushed communication
+  cadence defends retention in sticky professional-services firms.
 - [[../../sources/2021-08-26-yt-oNWx_wLhXJA]] — Berardi/Precision Nutrition context on
   feeling personal at scale; Alex-attributed implication that better coach touches can
   create higher impact with the same time.

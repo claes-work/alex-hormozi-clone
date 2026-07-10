@@ -213,6 +213,30 @@ Three April cuts extend the observable-definition system without replacing it:
   action [[../../sources/2026-04-10-yt-tKQvYeLedFg]]. This is a dated self-description,
   not a clinical model.
 
+### March 2026: what makes feedback useful (latency + specificity)
+
+Extending the same behaviorist lens (people act because past behavior was reinforced), a
+March 2026 solo cut adds a two-variable test for feedback quality
+[[../../sources/2026-03-30-yt-efGgS8XbsR4]]. As of March 2026, Alex says feedback is only
+"fuel" when it scores high on both **latency** (how quickly it is given after the
+behavior) and **specificity** (how precisely it targets one behavior). Vague, delayed
+criticism like "that sucked" does the opposite — it just makes the person less likely to
+act in front of you.
+
+> "The reason feedback is fuel and what makes feedback good versus bad or rather useful
+> versus non-useful is the latency of the feedback. How quickly do you get it? And how
+> specific is it?" — [[../../sources/2026-03-30-yt-efGgS8XbsR4]]
+
+The delivery protocol follows from the observable-definition habit: target behaviors, not
+character. He recounts coaching a competent but widely-disliked director by dropping the
+personal judgment ("I don't care if you're a dick on the inside") and changing two
+specific behaviors instead — not interrupting on calls, and asking permission before
+telling people how to do their jobs — after which colleagues reported a night-and-day
+change within a week ([[../../sources/2026-03-30-yt-efGgS8XbsR4]]).
+
+> "When you share it, share in terms of behaviors, criticism, not insult."
+> — [[../../sources/2026-03-30-yt-efGgS8XbsR4]]
+
 ## Passion vs. proficiency vs. pain-tolerance
 
 Source: [[../../sources/2025-12-12-yt-UDBkiBnMrHs]].

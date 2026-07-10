@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-10 (@MoreMozi batch 204; 1,537 L2 videos ingested; system-prompt v28)_
+_Last updated: 2026-07-10 (@MoreMozi batch 204; 1,537 L2 videos ingested; synthesis pass 22, system-prompt v29)_
 
 ## Sources
 
