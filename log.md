@@ -5177,3 +5177,25 @@ Synthesis notes: SaaS-product-retention/retained-cohort/passive-growth/say-no; l
 Ledger 8->L2 (L2 now 1,518). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: preferred-day/suffering-signal/2024-best-2025-local-low/eight-lawsuits-five-resolved; communication-behavior-change/memorability/reinforcement-influence; play-it-out/catastrophe/stakes-temperament; add-not-cancel/parallel-acquisition; first-gym-4972-rent-29-members/sleeping-turf/uncertainty-value; comparable-maximum/skill-gap/brand-before-category; service-to-consulting/negative-qualification; expertise-over-age/local-capture-central-edit/franchise-capital-test.
+
+## [2026-07-10] ingest | yt batch 202 - @MoreMozi P2 (2026-03-30 to 2026-03-31), 8 videos
+
+- **2026-03-30** `yt-FjpYz_4NIjQ` - marketing system from scratch: vendor-first per
+  channel, then bring local ads in-house.
+- **2026-03-30** `yt-6szA-MMR_a8` - scaling an online service = scaling culture and
+  training; directive-vagueness scales with the operator's skill.
+- **2026-03-30** `yt-omxB6GesatE` - home-services lead gen: vetting agencies and referral
+  partners, stop-learning-on-the-call buying litmus.
+- **2026-03-30** `yt-lFIkGo9Lu5Y` - real-estate sales slump: script-as-Bible,
+  best-closer is not best-manager, CEO must own sales.
+- **2026-03-30** `yt-efGgS8XbsR4` - feedback = latency + specificity; behaviorist
+  trauma/learning framing, criticism-not-insult protocol.
+- **2026-03-30** `yt-UlS2JRt4JJs` - switch the vehicle, do not scale a weak product;
+  three-burden hard-pitch test.
+- **2026-03-31** `yt-8mjvHvhMaQo` - law-firm marketing constraint: pay an agency a
+  premium to learn the playbook, then retain as consultant.
+- **2026-03-31** `yt-OQfdhf22M6I` - fitness + money-making skills solve most problems;
+  skill-stacking, longer timelines make goals easier.
+
+Ledger 8->L2 (L2 now 1,526). youtube-index/index/footer updated. All 8 captions OK, 0 retry.
+Synthesis notes: vendor-first-per-channel/local-creative-tires-~21-days/agency-takeover-in-6-months; scale-culture-and-training/directive-vagueness-proportional-to-skill/culture-is-what-you-tolerate; stop-learning-on-the-call-buying-litmus/agency-5-min-lead-call-standard; script-as-Bible/best-closer-not-best-manager/CEO-owns-sales-or-loses-leverage; feedback=latency+specificity/learning=same-condition-new-behavior/behaviorist-trauma-framing; switch-vehicle-not-scale-weak-product/three-burden-hard-pitch-test; pay-agency-premium-to-learn-playbook-then-consult; fitness+money-skills-solve-most-problems/bridge-of-100-microskill-bricks/longer-timeline-eases-goals.
