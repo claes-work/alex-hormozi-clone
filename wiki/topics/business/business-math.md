@@ -164,6 +164,34 @@ important." Use trailing 90-day / 6-month / 12-month averages because small
 businesses are volatile ([[../../sources/2023-12-20-yt-QGcjweehrvU]]). See
 [[retention]].
 
+### Gross margin is the master variable (2026-03)
+
+By March 2026 Alex sharpens the gross-profit point into a stated hierarchy:
+**net margin can never exceed gross margin**, so gross margin is the ceiling on
+everything downstream ([[../../sources/2026-03-28-yt-XpqeenUIMHI]]).
+
+- **Net ≤ gross, always.** A 50%-gross-margin business could only reach 50% net
+  with zero acquisition, overhead, admin, or non-delivery staff cost — "basically
+  impossible." Verbatim: *"Your net margins cannot exceed your gross margins."*
+  Diagnostic corollary (paraphrase): if something is wrong with the business,
+  "it's usually because your margins are off. You're mispriced."
+- **The 80% minimum for services.** Alex states a hard personal rule — *"I will
+  not get into a business with less than 80% gross margins. I won't do it"* — and
+  cites fixing gym pricing to ≥80% as proof services can hit it. He treats
+  60% vs. 80% not as "close" but as "a different stratosphere."
+- **Worked pricing math (paraphrase).** Off a $100 delivery cost: 70% margin ⇒
+  ~$333 price (~$233 GP/customer), 80% ⇒ $500 price, 90% ⇒ ~$1,000 price — small-
+  looking margin gaps compound into materially different per-customer profit. Earn
+  the high margin by de-commoditizing via branding + a real sales process (the
+  pink-Himalayan-salt example); price off the value of the customer's solved
+  problem, not off the ease of delivery.
+- **Rule of thumb: 30-day cash collected ≥ COGS + CAC.** The gross profit
+  collected in a customer's first 30 days should exceed cost of goods sold plus
+  cost to acquire them; once it does, "that customer pays you back all of that
+  cost" and funds the next acquisition — a self-financing growth loop and a
+  tighter, front-loaded cousin of the [[#payback-period--roic]] idea
+  ([[../../sources/2026-03-28-yt-XpqeenUIMHI]]).
+
 ---
 
 ## Enterprise value = customers × LTGP ÷ risk
@@ -211,6 +239,29 @@ Alex says Skool's passive-growth metrics were the best he'd ever seen, citing
 this ratio as one reason for his investment. This connects the acquisition side
 (LTGP:CAC) to the [[retention]] side: referrals and churn are the two dials of
 organic compounding.
+
+---
+
+## Hire-with-equity vs. raise-cash — one equation (2026-03)
+
+Asked (March 2026) how to fund the hiring needed to scale a $1M coaching
+business toward $5M, Alex reframes the classic build-vs-buy financing choice as a
+**single math equation** rather than a philosophy: compare the **cost of equity
+given to an employee** against the **cost of equity sold to an investor** to raise
+the cash that would instead pay that employee in full cash
+([[../../sources/2026-03-24-yt-norSbF8HNxY]]).
+
+- **Cost of equity to the employee** = the delta between full-cash comp and
+  cash-plus-equity comp — i.e. how much stock it takes to close the compensation
+  gap you're *not* paying in cash.
+- **Cost of equity to the investor** = the stake you'd sell to raise the cash to
+  pay that person fully in cash instead.
+- **Illustrative example (paraphrase).** Raise at a $100M valuation, sell 5% ⇒
+  $5M cash. The question becomes: can that $5M pay everyone in cash for a net loss
+  of only 5% of the business — *or* could you get everyone you need for **less than
+  5%** in equity directly and skip the raise entirely? Whichever costs less equity
+  wins. Verbatim: *"So, it's a math equation."* See
+  [[scaling-and-enterprise-value]].
 
 ---
 

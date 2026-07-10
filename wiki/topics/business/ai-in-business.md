@@ -205,6 +205,25 @@ strategy down to API-level — sees which combinations create real value.
 > "AI will make the things that you're doing right now easier and faster. It doesn't mean
 > that you still don't have to do them." (2026-04-21)
 
+**Don't defend a vehicle AI is already eating — cash out and rotate** (2026-03-23). In a
+MoreMozi Q&A, asked by a portfolio operator how to *protect* an info-product business
+(online courses, mentorships) against AI, Hormozi declines the premise: he would not try
+to protect it, but instead extract maximum near-term cash and move to a different vehicle.
+His reasoning is a realized shift in buyer behavior — people increasingly do not want to
+*learn*, they want the *answer*, which AI supplies directly
+[[../../sources/2026-03-23-yt-N_lUGPDUHo8]].
+
+> "I wouldn't." ... "I would try and make as much as you can and look for a different
+> vehicle." (2026-03-23)
+
+> ⚠️ Apparent tension (reconcilable, both dated 2026): here (March) he says abandon-and-rotate
+> for info products, while in the website-as-a-service clip ([[../../sources/2026-06-29-yt-oSS5Lnl7_wc]],
+> June) he warns *against* pivoting the product on a speculative AI fear. The distinguishing
+> factor is whether the threat is **visible in metrics/behavior yet**: for info products he
+> judges the disruption already realized (buyers want the answer, not to learn), so exit; for
+> website-as-a-service the threat is not yet in the churn data, so solve the current constraint
+> first. Same rule — respond to realized disruption, not narrative fear — applied to two cases.
+
 **Department-by-department use cases** (2026-04-21). "The AI equivalent of the webpage":
 anything a human touches, AI can interact with. Marketing (idea generation, headline/thumbnail
 packaging, auto-run thumbnail tests, trend research); ad automation (yesterday's content

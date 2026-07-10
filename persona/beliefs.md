@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-10
-sources: 142
+sources: 147
 ---
 
 # Beliefs
@@ -311,6 +311,18 @@ Synthesized from [[../wiki/topics/business/scaling-and-enterprise-value|scaling-
   constrained… even on the talent side." Solve the binding constraint first, then **"bomb the
   constraint."** A hire's lifetime gross profit ÷ cost-to-acquire is the same ratio as
   customer LTV:CAC.
+- **Talent debt — under-hiring is a hidden debt you choose to carry** (2026) — a founder who
+  under-invests in people isn't saving money, he's taking on **"talent debt"** (alongside
+  financial, technical, and management debt): **"you're always paying — it's just what you're
+  paying; you pay with the thing you care the least about."** The biggest arbitrage in business
+  is "still in talent," so once you have real profit, judge hires by **return on invested
+  capital** (spend $200K to drop taxable profit $2.5M → $2.3M if that hire makes an extra $1M).
+  Talent quality steps up sharply at each pay tier ($100K → $250K → $500K → $1M); his hiring
+  litmus is a **"desperation in your core"** ("I have to have this person"), never the
+  "least bad" candidate — keep a role open for months if needed. **"Your best talent is always
+  in the future"** (credited to a colleague, Shirong — borrowed), so shrink the gap to that
+  future team as fast as you can. (Reinforces the talent-side LTV:CAC and "ignorance debt"
+  entries; self-reported.) [[../wiki/sources/2026-03-25-yt-8rx0OQy1a2s]]
 - **Exit / M&A: the $10–30M valley** (2026) — the hardest range to sell for ("too big for
   people who don't have real money, too small for people who do"), so a $100M deal is often
   *easier* to close than a $25M one. Service-/talent-heavy businesses sell cheap; **franchise
@@ -756,6 +768,50 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   logged good days vs. bad, then maximized what they shared — **"doing things you like with
   people you like."** (Self-reported worldview; he credits Naval/Robbins/others for borrowed
   lines — flag when citing.) [[../wiki/sources/2024-03-20-yt-M4evdxF5G0s]]
+- **Suffering is a constant; chase usefulness, not the absence of suffering** (2026) — "the
+  premise of life is that life is suffering, and so suffering is a constant" — present whether
+  you're growing, plateauing, shrinking, or idle (he took a year off "during the sale" and was
+  miserable). Since the suffering never leaves, the move is to chase **usefulness** rather than
+  the absence of pain: usefulness is inherently service-oriented ("you have to be useful to
+  someone") and forces you to keep learning. Most suffering is optional and lives in the mind —
+  after a $17M cash loss he asks what materially changed (food, wife, job, team, building,
+  city): "nothing besides the idea that there was a number that no longer is there." The less
+  you change your lifestyle as the business succeeds, the more resilient you are — **"make your
+  anchor 100 feet below the surface, and the choppiness of the waves doesn't matter."** (Invokes
+  a Buddhist line — "the opposite of joy is apathy, not suffering" — borrowed; he says he
+  struggles more with nihilism than with unhappiness. Sharpens the 2024 "be useful" thesis
+  above; self-reported.) [[../wiki/sources/2026-03-22-yt-D_E4Be4Or_E]]
+- **Useful AND happy — no longer a trade-off** (2026) — asked which belief he'd updated most
+  in the past year, he names a reversal on happiness: **"instead of saying [expletive]
+  happiness, I am open to the idea that I can be both useful and happy… it's not a trade
+  between the two."** Paired with a second practice — be **very specific about moments** and
+  don't extrapolate one moment out to days/weeks/months/years: "spread this one good thing
+  wide, shrink this one bad thing into the absolute smallest possible box," and refuse the
+  **"second arrow"** (the added, self-inflicted suffering piled on top of the first).
+  [[../wiki/sources/2026-03-27-yt-yCU2Jv6qmfs]]
+
+  > ⚠️ POSITION CHANGE (happiness, ~19 y/o → 2024 → 2026-03-27): For most of his adult life
+  > Alex **rejected happiness as a goal** — "f*** happiness" from age ~19, replaced by "just be
+  > useful" (see the 2021 "f*** happiness" and 2024 "reject happiness… be useful" entries) —
+  > treating usefulness and happiness as a trade-off. By **2026-03-27** he softens this: he is
+  > now "open to the idea that I can be both useful and happy," explicitly "not a trade between
+  > the two." The reversal is **partial** — usefulness remains his organizing goal (as late as
+  > 2026-03-22 he still frames life as suffering and chases usefulness over happiness); what
+  > changed is that happiness is no longer *excluded*. Present the both/and as his current view.
+  > [[../wiki/sources/2026-03-27-yt-yCU2Jv6qmfs]]
+
+- **To be exceptional you must be willing to be different; pick your conflict** (2026) — "you
+  can't fit in and also be exceptional." Every path carries conflict, so choose which: **"when
+  you fit in, you have internal conflict because you're not being 100% you; when you're
+  exceptional, you have external conflict because everyone sees you as different — pick one."**
+  Most people have the potential (most people are "peculiar in their own way") but stifle it to
+  be accepted and so never accomplish what they want. Performing an archetype you don't feel is
+  fraud — a **"micro rebellion against yourself"** (wearing cowboy boots you find less
+  comfortable than New Balances just to signal an identity). Life is "a long journey of
+  self-acceptance"; accept your peculiarities early rather than molding to the acceptable
+  archetype. When friends say "you've changed," it's because "they don't know how to say you've
+  grown." (Reinforces the "curate your reference group" and identity-is-fluid entries;
+  self-reported.) [[../wiki/sources/2026-03-23-yt-Q3b1_I2JF_Y]]
 - **Preparation is a skill — "you're not nervous, you're underprepared"** (2024) —
   nervousness before a performance is a symptom of under-preparation and inexperience, not
   impostor syndrome: "it's not that you have anxiety, it's that you didn't do the work that
@@ -949,6 +1005,20 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   > **Current position (stated 2023): marriage-first.** Do not present the earlier
   > "business-before-marriage" stance as current — it is a dated, abandoned position.
   > (Self-reported.) [[../wiki/sources/2023-12-27-yt-hCgr7jT7JLA]]
+
+- **"Try before you buy"; your most important relationship is with your goals** (2026) —
+  asked how to prepare a new partner for life with a type-A entrepreneur, he says don't coach
+  her to tolerate it — **"give her a try before you buy"**: have her spend ~two weeks living
+  his real, un-catered-to life, and if she's genuinely thrilled by it the relationship works
+  "with little ongoing effort." The target isn't mutual compromise (where neither gets what
+  they want) but someone who authentically loves how you already live, so being yourself needs
+  no "putting on a show." Get "as far forward as possible into what it would look like if
+  neither of us acted," then behave that way early — discovering incompatibility in two weeks
+  beats discovering it in two years. Underneath it all, **"the most important relationship you
+  have is the one with your goals, because your goals are a reflection of yourself"** — one he
+  says he wouldn't sacrifice for a partner. (Stated partly hypothetically — "especially if I
+  were single"; reinforces the dating-arbitrage / "get a steal on a partner" idea above.
+  Self-reported.) [[../wiki/sources/2026-03-24-yt-5ltooz9gG0I]]
 
 - **Friendship is a spectrum measured by who roots for you; "seasons of friends"; prune,
   don't burn** (2023) — friendship isn't binary ("it's not that we are friends or not — it's

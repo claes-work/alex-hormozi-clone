@@ -214,6 +214,26 @@ continuity plan can function like insurance/strategy: low compared with the proj
 it keeps the relationship alive so "small jobs get the big jobs"
 [[../../sources/2026-05-08-yt-XJ_-7_9x9XE]].
 
+## Late-March 2026: performance-pricing pre-conditions & profit guarantees
+
+**Only do outcome/performance pricing if you control the money or can track it perfectly.**
+In a March 2026 coaching clip, Hormozi adds a pre-condition to the ROI/outcome-pricing model
+(see the 30%-of-result heuristic above): performance-based pricing is only safe when the seller
+either **controls the money flow** (e.g. sits in the payment path) or has **absolute, undeniable
+tracking** of the result attributed to them. Without one of those, attribution disputes make the
+model unenforceable, so he recommends restructuring to a **one-time "message-market-fit" fee** —
+charging a fixed price to prove the offer/market match — rather than betting compensation on a
+result the seller cannot prove or collect [[../../sources/2026-03-23-yt-Cw7B2MbjSdo]].
+
+**Profit guarantees for high-hard-cost businesses, and "don't risk the biscuit."** In a March
+2026 offer-structure clip, he addresses businesses with high hard costs (where a full
+money-back guarantee would be ruinous) and proposes a **profit guarantee** instead: guarantee
+the client a profit/return outcome rather than refunding the whole fee, so the downside is bounded
+by margin, not by cost of goods. He pairs this with a change-sequencing principle he calls
+**"don't risk the biscuit"** — when adding a guarantee (or any new risk-reversal), do not
+jeopardize the healthy core of the business to do it; layer the new mechanism so a failure cannot
+take down the parts that already work [[../../sources/2026-03-29-yt-1hcgUXiFYm8]].
+
 ## See also
 
 - [[business-math]] — the quantitative counterpart (margins, unit economics, take-home math)

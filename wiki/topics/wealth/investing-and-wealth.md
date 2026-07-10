@@ -1,7 +1,7 @@
 ---
 type: topic
 domain: wealth
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [investing]
 ---
 
@@ -400,6 +400,67 @@ only pays if the worker actually asks for or otherwise captures the increased va
 
 ---
 
+## Sequence: build earning capacity first, invest last (2026)
+
+Across three late-March 2026 clips, Alex sharpens a wealth-*building* rule that sits upstream
+of every holding-side principle above: **for someone still small, the highest-return
+investment is their own earning capacity, and market investing comes last, not first.** This
+is a different axis from the pass-22 "invest first, then spend" savings rule — that governs
+*order of money*; this governs *order of life stages*.
+
+- **The get-rich sequence error.** As of March 2026 he names the number-one misconception a
+  "conflate sequence" error: people believe wealth comes from investing, when **"investing is
+  the last thing you do, not the first."** Building earning capacity (high active income) comes
+  first, because it is the excess cash flow from that income that funds later risky bets
+  [[../../sources/2026-03-29-yt-6g8Z0wJEBRA]].
+
+  > "Making money comes from investing and investing is the last thing you do, not the first thing you do." [[../../sources/2026-03-29-yt-6g8Z0wJEBRA]]
+
+  > "The people who have the most money typically have tremendously high incomes and it's because of the excess of cash flow from that income are they able now to make big swings with riskier bets." [[../../sources/2026-03-29-yt-6g8Z0wJEBRA]]
+
+- **Income reframed as "money per unit of time."** In the same clip he dissolves the
+  active/passive-income binary by treating all income as **money per unit of time** — even a
+  "passive" investment required diligence (paraphrase: reviewing ~100 deals to make one), so
+  nothing is truly passive. The practical goal becomes trading your time *up* over a career
+  rather than refusing to trade it ("never sell your time" is, in his view, bad advice)
+  [[../../sources/2026-03-29-yt-6g8Z0wJEBRA]].
+
+  > "I prefer to think about instead of thinking of investments and active income, I think of it just money per unit of time." [[../../sources/2026-03-29-yt-6g8Z0wJEBRA]]
+
+- **Buy skills over markets while your base is small.** As of March 2026 he argues most
+  would-be wealth-builders have **"an income problem, not an investing problem"** — with a small
+  base, your own earning capacity beats index-fund returns by a wide margin (his shorthand:
+  "S&P 500 versus SME 500"). He frames **"ignorance debt" / "ignorance tax"** as the most
+  expensive cost a person carries, and says dollar-cost-averaging math ignores inflation
+  (**self-reported figures, unverified**: ~4%/yr, so "$4M" at retirement ≈ "$1M today"). His
+  phlebotomy example (paraphrase): a ~$500 weekend certification tripling ~$7→~$25/hr dwarfs the
+  ~$2.50/yr that same $500 earns in the market [[../../sources/2026-03-28-yt-Sq1HS6qw5mQ]].
+
+  > "You will get a significantly higher return investing in your own ability to make money than you will in any market." [[../../sources/2026-03-28-yt-Sq1HS6qw5mQ]]
+
+  > "The problem they have is they don't make enough money. They have an income problem, they don't have an investing problem." [[../../sources/2026-03-28-yt-Sq1HS6qw5mQ]]
+
+  He also self-reports a **rising-baseline** autobiography as skills compounded (paraphrase,
+  self-reported): a strip-plus-Uber fallback ~$250k/yr, then car sales ~$400k/yr, then a solo
+  turnkey ads/sales system ~$100k/month with no employees between his gym chain and Gym Launch
+  [[../../sources/2026-03-28-yt-Sq1HS6qw5mQ]].
+
+  > "My baseline has continued to rise as my skillset has improved." [[../../sources/2026-03-28-yt-Sq1HS6qw5mQ]]
+
+- **Patience = what you do in the meantime.** As of March 2026 he redefines patience not as
+  waiting but as **"figuring out activities to do in the meantime"** — work to generate more
+  capital to invest while earlier capital compounds, and invest in skills during the wait. He
+  grounds it in a **self-reported** opportunity-cost calculation: he studied for and did well on
+  the GMAT intending business school, then judged ~2 years and ~$180k (plus forgone income) for
+  an average ~$10k/yr earnings bump a bad trade, and instead spent his saved ~$50k on learning to
+  reach ~$10k/month via his own business [[../../sources/2026-03-27-yt-32IeekHdsCE]].
+
+  > "Patience is figuring out activities to do in the meantime." [[../../sources/2026-03-27-yt-32IeekHdsCE]]
+
+  > "Learn how to make money before you start trying to learn how to make money make money." [[../../sources/2026-03-27-yt-32IeekHdsCE]]
+
+---
+
 ## Cross-links
 
 - [[../wealth]] — domain hub
@@ -421,3 +482,10 @@ only pays if the worker actually asks for or otherwise captures the increased va
   self-report (2026) [[../../sources/2026-04-03-yt-I6o9cB_UGrA]]
 - $500 / ~30-min gym sale; $1,500 → ~96 hrs / ~$15-per-hour outsourcing heuristic —
   unsupported estimates (2026) [[../../sources/2026-04-03-yt-0hO89FCmAF0]]
+- Inflation ~4%/yr, "$4M ≈ $1M today"; phlebotomy ~$500→~$7-to-$25/hr example;
+  rising-baseline autobiography ($250k strip+Uber → $400k car sales → $100k/mo solo) —
+  self-reported / unverified (2026) [[../../sources/2026-03-28-yt-Sq1HS6qw5mQ]]
+- GMAT / business-school opportunity-cost math (~$180k + forgone income vs. ~$50k saved,
+  ~$10k/yr bump) — self-reported (2026) [[../../sources/2026-03-27-yt-32IeekHdsCE]]
+- Panda Express neighbor / "money per unit of time" income framing — self-reported,
+  third-party financials unverified (2026) [[../../sources/2026-03-29-yt-6g8Z0wJEBRA]]

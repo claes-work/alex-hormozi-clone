@@ -2,9 +2,9 @@
 type: topic
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [sales]
-sources: 21
+sources: 25
 ---
 
 # Sales Frameworks
@@ -643,6 +643,77 @@ From several March 2026 coaching cuts, three additions to the persuasion and vet
   learning your business live on the call, they are not the right buyer/seller yet
   ([[../../sources/2026-03-30-yt-omxB6GesatE]]).
 
+## 13. March 2026 Q&A refinements: VSL scripting, sell-timing, offer-vs-people, sell-to-goal
+
+Four additions from late-March 2026 coaching cuts.
+
+### VSL script structure — five pieces + the "belief-breaking formula"
+
+Coaching a backyard-renovation owner, Hormozi demystifies the video sales letter (VSL)
+as a simple **five-piece structure**, not a "magic thing"
+([[../../sources/2026-03-25-yt-Lm_PEN6PH-M]]):
+1. **Intro / setup** (~1–3 min, ideally 60–90 sec): state the **promise**, agitate the
+   **pain**, present a proprietary **"secrets method"** (e.g. "LS Secrets Method"), and
+   give a visual roadmap of where the video is going.
+2. **Pain.**
+3. **Proof.**
+4. **Objections** — brainstorm every major objection a prospect will raise and handle
+   each in turn.
+5. **CTA** for the desired next action (e.g. "text this number").
+
+Every objection is dismantled with the same **four-step belief-breaking formula:
+what they think → why it's wrong → what's right → proof**, repeated per objection. A
+second VSL deeper in the funnel is the *identical* script with different examples;
+**only the CTA changes** to match the next step ([[../../sources/2026-03-25-yt-Lm_PEN6PH-M]]).
+
+> "Promise, pain, proof, plan. Basically, these are our five pieces." — 2026
+> ([[../../sources/2026-03-25-yt-Lm_PEN6PH-M]])
+
+> "All of these get broken down the same way, which is what they think, why it's wrong,
+> what's right, and then proof. And that is literally the belief-breaking formula for
+> everything." — 2026 ([[../../sources/2026-03-25-yt-Lm_PEN6PH-M]])
+
+### "Point of greatest need" sell-timing + discounted-assessment mechanic
+
+Advising a cash-pay pain-management practice, Hormozi prescribes selling at **the moment
+of maximum pain, not maximum satisfaction**: run the assessment, then hold the sales
+appointment *before* treating, so the offer lands when need is highest. The front-end
+mechanic is a **highly discounted assessment** (e.g. a ~$200 X-ray for $19–20) whose real
+purpose is not profit but to **capture a credit card on file** — enabling no-show fees,
+a smoother back-end sale, and a 70–80% show rate
+([[../../sources/2026-03-22-yt-B-LAgU5EghY]]).
+
+> "You sell at point of greatest need, not point of greatest satisfaction." — 2026
+> ([[../../sources/2026-03-22-yt-B-LAgU5EghY]])
+
+### Diagnose "offer or people" — record and listen to calls before changing anything
+
+When an offer that worked well for the owner underperforms under hired reps, Hormozi
+holds the problem is almost always **rep execution ("phrasing it wrong or presenting it
+wrong"), not the offer.** The root cause is usually a **data/visibility gap** — the owner
+isn't recording sales calls. His fix: record every call (for in-person at-home sales,
+a phone in the rep's pocket, disclosed per local law) and **listen back before** changing
+offer, pricing, or marketing ([[../../sources/2026-03-24-yt-Y-GLsSl5FS8]]).
+
+> "If you have the offer that already worked really well, they're just phrasing it wrong
+> or they're presenting it wrong. So I think you just need to get sales recordings." — 2026
+> ([[../../sources/2026-03-24-yt-Y-GLsSl5FS8]])
+
+### Sell-to-goal diagnostic pricing
+
+For an online fitness-coaching offer, Hormozi replaces fixed program lengths (3/6/12
+months at set prices) with a **diagnostic, sell-to-goal** structure: **price per week**
+(e.g. ~$129/week), compute the number of weeks from the client's **target outcome**
+(~1 lb/week + a maintenance period), and sell to the goal rather than the timeline —
+which he says converts a far higher percentage. Paired with a **completion guarantee**
+(keep working until the client hits the goal, provided they meet stated conditions), it
+reframes the purchase as buying the result regardless of duration
+([[../../sources/2026-03-29-yt-ROIA31QJK7o]]).
+
+> "As soon as you do that, you're selling to goal rather than selling programs. You'll
+> convert a way higher percentage of people." — 2026
+> ([[../../sources/2026-03-29-yt-ROIA31QJK7o]])
+
 ## Related pages
 
 - Hub: [[business]]
@@ -686,3 +757,11 @@ From several March 2026 coaching cuts, three additions to the persuasion and vet
   advantage"; overcoming the fear of selling (2026)
 - [[../../sources/2026-03-30-yt-omxB6GesatE]] — buyer-readiness litmus "stop learning on the
   sales call" when vetting providers (2026)
+- [[../../sources/2026-03-25-yt-Lm_PEN6PH-M]] — five-piece VSL script + four-step
+  belief-breaking objection formula (2026)
+- [[../../sources/2026-03-22-yt-B-LAgU5EghY]] — "point of greatest need" sell-timing;
+  discounted-assessment / card-on-file front-end mechanic (2026)
+- [[../../sources/2026-03-24-yt-Y-GLsSl5FS8]] — diagnose offer vs. people: record and listen
+  to sales calls before changing offer/pricing/marketing (2026)
+- [[../../sources/2026-03-29-yt-ROIA31QJK7o]] — sell-to-goal diagnostic pricing (price-per-week
+  × weeks-to-goal + completion guarantee) (2026)

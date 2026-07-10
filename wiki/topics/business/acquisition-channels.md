@@ -440,6 +440,38 @@ all — high margin is the enabling condition. See [[business]] and
   > trying to make content your strategy… Anybody who comes in from the content I just see as like
   > bonus or gravy." [[../../sources/2026-03-30-yt-E6xW-GCv31I]]
 
+## Late-March 2026: lead-getters over leads, affiliate/partner structures
+
+- **"Stop getting leads, start getting lead getters."** As of March 2026, Alex reframes the
+  acquisition goal for a business that has product-market fit: rather than buying more leads
+  directly, recruit **self-generating sellers/affiliates** ("lead getters") who each produce
+  leads on your behalf — a leverage layer on top of the [Core Four](#the-four-ways-to-get-customers--the-core-four-2023).
+  He ties this to a **supply- vs. demand-constrained** distinction: once demand is no longer the
+  bottleneck, the constraint shifts to the number of people out there selling for you, so the
+  highest-leverage move is adding lead-getters, not lead volume (paraphrase)
+  [[../../sources/2026-03-28-yt-cjUGRcqOfds]].
+- **Three-tier affiliate integration to land whale clients.** As of March 2026, Alex describes a
+  **three-tier affiliate-integration structure** for landing large ("whale") partner-clients,
+  paired with the maxim **"never count the other guy's money"** — let the partner keep more than
+  feels comfortable, because their upside is what motivates them to move volume. He frames the
+  offer to the partner with **lead-magnet-as-CAC math**: the free/cheap thing you give away is
+  justified so long as it lowers total cost to acquire the customer (extends the
+  [lead-magnet](#lead-magnets-give-to-get) logic to a partner context) (paraphrase)
+  [[../../sources/2026-03-29-yt-EUtOqsSJok8]].
+- **Reactivate dormant affiliates before chasing B2C.** As of March 2026, Alex's sequencing advice
+  is to **re-activate existing but inactive affiliates/partners first** — cheaper and faster than
+  opening a new B2C channel from scratch. He pairs it with a **"launch and integrate" affiliate
+  model** in which a partner's **first referral is treated as a trial** — a single low-risk proof
+  case before asking for volume (echoes the COI/partner "one real customer first" pattern below)
+  (paraphrase) [[../../sources/2026-03-27-yt-bmo2zYLeuhc]].
+- **Interest-graph over followership; diversify distribution.** As of March 2026, Alex argues that
+  distribution now runs on the **interest graph, not the follower graph** — platforms serve content
+  to interested users regardless of whether they follow you, so a **declining reach is usually a
+  content problem, not a shadowban.** The implication for acquisition is to **diversify distribution**
+  and fix the content rather than blame the algorithm (paraphrase). This complements the
+  interest-media point below [[../../sources/2026-06-20-yt-gaNkOL513jo]] with an earlier, more
+  general statement of the same mechanism [[../../sources/2026-03-23-yt-YAgVN1HsVfY]].
+
 ## 2026 refinements: warm audiences, proof, and partner channels
 
 - **Interest media makes paid ads warmer than subscriber counts imply.** In the piano-studio
@@ -527,3 +559,11 @@ all — high margin is the enabling condition. See [[business]] and
   stitch a 5-second CTA onto the winning organic clip to run it as a paid ad.
 - [[../../sources/2026-03-30-yt-E6xW-GCv31I]] — "pulse of content" supports an
   outbound-led business; content-sourced leads are "gravy," not the strategy.
+- [[../../sources/2026-03-28-yt-cjUGRcqOfds]] — "stop getting leads, start getting lead
+  getters"; supply- vs. demand-constrained distinction.
+- [[../../sources/2026-03-29-yt-EUtOqsSJok8]] — three-tier affiliate integration for whale
+  clients; "never count the other guy's money"; lead-magnet-as-CAC math.
+- [[../../sources/2026-03-27-yt-bmo2zYLeuhc]] — reactivate dormant affiliates before B2C;
+  "launch and integrate" model with first-referral-as-trial.
+- [[../../sources/2026-03-23-yt-YAgVN1HsVfY]] — interest-graph over followership; declining
+  reach is a content problem, not a shadowban; diversify distribution.

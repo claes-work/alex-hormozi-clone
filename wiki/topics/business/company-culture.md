@@ -163,6 +163,44 @@ culture.
   constructive (paraphrase). This operationalizes the "sincere candor" value above.
   [[../../sources/2026-03-30-yt-nBu2WYJHeMs]]
 
+## Late-March 2026 refinement: talent, hiring, delegation, and compensation
+
+In a run of late-March 2026 MoreMozi cuts, Hormozi extends the culture framework toward
+the mechanics of acquiring and deploying talent. All items are paraphrase unless quoted.
+
+- **Talent debt — "your best talent is always in the future."** As of March 2026, Alex
+  argues that under-hiring accrues a hidden "talent debt": staying lean past the point of
+  need silently costs the business, and what looks like market saturation or over-expansion
+  is usually just a talent gap. His rule is to hire because you genuinely *want* the person,
+  not to escape the pain of an open seat — hiring out of pain produces the wrong hire.
+  [[../../sources/2026-03-25-yt-8rx0OQy1a2s]] [[../../sources/2026-03-25-yt-rbxrRh1t8b0]]
+- **Delegation: operationalize traits into observable behaviors.** As of March 2026, Alex
+  says a trait you want (e.g. "ownership") must be translated into specific, observable
+  behaviors before it can be delegated or coached. He pairs this with a **"document,
+  demonstrate, duplicate"** hand-off method (write the process, show it done, then have the
+  person reproduce it) and a **"stop / start / keep"** feedback model for correcting
+  performance. [[../../sources/2026-03-26-yt-XH68qeAK34M]]
+- **Talent acquisition as the highest-return bet.** As of March 2026, Alex frames hiring
+  well as the single highest-return activity a founder can invest in. He cites Leila's
+  hiring test — designing the interview so you try to *learn something from the candidate*
+  (a strong hire teaches you) — and a **90-day two-sided-fit** metric that checks whether
+  both the company and the new hire still want the match after three months. (The
+  learn-from-the-candidate test is **Leila-attributed context**; only Alex-attributed
+  material trains the persona.) [[../../sources/2026-03-28-yt-JqX5yCllMQQ]]
+- **Compensation: four attributes of equity + reverse-engineered OTE.** As of March 2026,
+  Alex breaks equity into four attributes to weigh when structuring an operator's package,
+  and describes reverse-engineering on-target earnings (OTE) — start from the total comp
+  that would make the role worth it to a great operator, then work backward into base,
+  bonus, and equity — as the method for hiring a senior operator.
+  [[../../sources/2026-03-23-yt-20HYrn6opWI]]
+- **Recruiting for supply-constrained businesses: treat the scarce employee as the
+  customer.** As of March 2026, Alex advises that when qualified labor (not demand) is the
+  bottleneck, the business should market to prospective *employees* the way it markets to
+  customers — the scarce worker is effectively the customer to be won. He pairs this with
+  **profit-anchored referral bounties**: sizing employee-referral rewards against the profit
+  a filled seat generates rather than against a flat fee.
+  [[../../sources/2026-03-25-yt-O1yxi-QILII]]
+
 ## Related
 
 - [[communication-and-management]]

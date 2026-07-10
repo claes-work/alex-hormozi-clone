@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 204** — synthesis pass 22, system-prompt **v29** (2026-07-10).
+Synthesized through: **batch 214** — synthesis pass 23, system-prompt **v30** (2026-07-10).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -15,6 +15,25 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 205-214** — synthesis pass 23 (2026-07-10) →
+      system-prompt **v30**. Promoted genuinely-new late-March 2026 MoreMozi refinements
+      across 11 topic pages + biography + beliefs: the happiness position change (from
+      "just be useful" to "useful AND happy") and "suffering is constant, chase usefulness";
+      "to be exceptional, be willing to be different" / micro-rebellion; talent debt /
+      "best talent is always in the future"; "your most important relationship is with your
+      goals"; discernment as the top skill (win-win fallacy, dwarven steel); "fear exists in
+      the vague"; regret-minimization (85-year-old-me, risk = focus-loss); maximizer-vs-optimizer;
+      perfectionism reconciled with volume; the five-piece VSL + belief-breaking objection
+      formula; point-of-greatest-need selling; lead-getters over leads and three-tier affiliate
+      integration; delegation document-demonstrate-duplicate and four-attributes-of-equity comp;
+      the 3 core company functions gated by the constraint; "pull the diamonds into the HoldCo";
+      gross-margin-as-master-variable math and cost-of-equity-employee-vs-investor; post-close
+      maintenance-plan and M12 reverse-retention; the dated "don't defend info products from AI,
+      cash out and rotate" stance; performance-pricing pre-conditions and profit guarantees;
+      invest-last-not-first sequence and buy-skills-over-markets. Added biography texture:
+      Sam-Bakhtiar sales origin + age-14 direct sales, the 8th-grade "Expedition 8" germaphobe
+      origin, a recent ~$17M loss / worst-year ranking, a first FOMO-free year, and 24 acquisitions
+      in 24 months / 19 exited. Dropped repeats already covered by prior passes.
 - [x] **@MoreMozi Q&A cuts — batches 195-204** — synthesis pass 22 (2026-07-10) →
       system-prompt **v29**. Promoted genuinely-new late-March/April 2026 MoreMozi
       refinements: "culture is what you tolerate" enforcement framing and skill-calibrated

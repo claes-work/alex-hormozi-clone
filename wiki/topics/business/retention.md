@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: business
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [retention, churn, ltv]
 ---
 
@@ -73,6 +73,18 @@ expectations do more than hype.
 - **Go one-to-one, and pilot it.** Move onboarding from one-to-many (a rep running batch
   calls of ~25) to 1-on-1 — tested first on just 15% of new customers to prove it before
   rolling out.
+- **Ramp 1-on-1 first, and make group access an earned prize.** Run new members through a
+  one-on-one onboarding ramp before opening the community, so group access is something earned
+  rather than dumped on them — arriving activated instead of overwhelmed. Diagnose churn
+  data-first: low consumption precedes churn, so falling usage is the leading indicator to act
+  on *before* a member cancels, not the cancel itself (2026-03-26)
+  [[../../sources/2026-03-26-yt-0C83zGDbSso]].
+- **Reverse-engineer onboarding from month-12 retention.** Rather than only fighting month-one
+  churn, run a reverse-retention analysis — look at who is still paying at month 12, work
+  backward to what their early experience had in common, then engineer onboarding to reproduce
+  it. Positioning also shapes churn: *how* the offer is sold and who it attracts determines who
+  stays, so onboarding starts upstream in the sale (2026-03-29)
+  [[../../sources/2026-03-29-yt-febOPWm95Ls]].
 - **Apply CLOSER's "Reinforce" step to onboarding.** The final R of the
   [[sales-frameworks|CLOSER]] framework — Reinforce the decision — means restating
   Clarify / Label / Overview to re-sell the customer on the goal they bought for.
@@ -301,6 +313,10 @@ his playbook for engineering reoccurring revenue:
   upsell windows.
 - **Maintenance check-ins as upsell openings** — a "let's make sure the lights still work"
   touch creates natural upgrade offers, using prior work done for a neighbor as social proof.
+- **Attach a post-close maintenance / "insurance" plan.** For high-ticket one-time sales,
+  offering a recurring maintenance or insurance plan priced at ~5–10% of the original ticket
+  right after the close converts a one-time sale into recurring LTV — without forcing the core
+  product itself onto a subscription (2026-03-29) [[../../sources/2026-03-29-yt-DV1_DbnKrkE]].
 - **Just tracking it makes the business more valuable.** Merely having the data to show that
   ~half of customers buy again each year makes the company far more viable and valuable — the
   same "revenue retention as the metric that compounds" thesis, ported to a non-subscription
@@ -334,6 +350,12 @@ his playbook for engineering reoccurring revenue:
 - [[../../sources/2026-03-30-yt-o9fYl33Xzuc]] — "Why Most Accounting Firms Stay Small":
   clients infer internal quality from the external experience; proactive/pushed communication
   cadence defends retention in sticky professional-services firms.
+- [[../../sources/2026-03-29-yt-DV1_DbnKrkE]] — post-close 5–10% maintenance / "insurance"
+  plan to convert one-time high-ticket sales into recurring LTV.
+- [[../../sources/2026-03-29-yt-febOPWm95Ls]] — month-12 reverse-retention analysis feeding
+  onboarding engineering; positioning/sale shapes who stays.
+- [[../../sources/2026-03-26-yt-0C83zGDbSso]] — 1-on-1 onboarding ramp with group access as an
+  earned prize; low-consumption-precedes-churn data-first diagnosis.
 - [[../../sources/2021-08-26-yt-oNWx_wLhXJA]] — Berardi/Precision Nutrition context on
   feeling personal at scale; Alex-attributed implication that better coach touches can
   create higher impact with the same time.

@@ -1,7 +1,7 @@
 ---
 type: topic
 domain: mindset
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [discipline, decision-making]
 ---
 
@@ -526,6 +526,96 @@ strategic framing about leverage, not a claim that high income requires little e
 
 > "Start solving for the skills required to make a million or ten million dollars."
 
+## Late-March 2026 refinements: regret, fear, perfectionism, maximizing, and exit timing
+
+**Regret minimization — the 85-year-old-me test; focus is the real risk; go all in or don't.**
+In a March 2026 coaching exchange with a founder weighing whether to relaunch a failed
+venture alongside a working business, Hormozi reframes it as "a life question, not a
+business question" and offers a regret-minimization lens: picture your 85-year-old self
+looking back and asking whether you would be okay having torpedoed the working thing for a
+shot, and decide by whether you can accept the *worst*-case scenario rather than the fantasy
+best case. He relocates the real risk away from money (own vs. other people's) and onto
+**split focus** — the true danger is losing the good business you already have. The decision
+rule is binary: commit fully or not at all, because a half-committed attempt tends to fail
+the new venture *and* drag down the existing one. He also names a class of "eternal
+questions" that are 100% personal and have no universally right answer: how much risk is
+right, how much to invest vs. consume today, and how long to push before pivoting
+[[../../sources/2026-03-27-yt-wKG7QT0rjCo]]. (The 85-year-old-self device also appears as a
+gratitude/presence frame and a confidence pressure-lowering device above
+[[../../sources/2023-10-03-yt-bkEJhzxHHnc]], [[../../sources/2023-12-30-yt--ouJJs1KaiE]].)
+
+> "So, you don't have a business question, you have a life question."
+
+> "I like the regret minimization framework of looking at 85-year-old me coming back to the
+> present and saying like, 'Would I be okay with failing at this business and torpedoing the
+> one that was working so that I could say I had a shot?'"
+
+> "We have to look at what's the worst-case scenario and am I okay with that worst-case
+> scenario? If I'm okay with the worst-case scenario, then I'm going to take the swing."
+
+**"Fear exists in the vague" — dissolve fear by writing the feared outcome in crisp detail.**
+In a March 2026 clip, Hormozi argues fear survives only while it is hazy: spelling out a
+feared failure in step-by-step, excruciating detail usually reveals it is trivial (sleeping
+on a couch, a stranger online saying you suck), so the technique is to make the vague thing
+crisp. He pairs this with committing to *effort divorced from outcome* — put 100% into what
+you control, then let the cards fall — illustrated by the public $100M goal for the *$100M
+Money Models* launch (a teammate asked "what if we miss?"; they hit $106M), and a Marcus
+Aurelius impermanence frame [[../../sources/2026-03-23-yt-FKTznrqd5mE]].
+
+> "Fear exists in the vague. And so if you're afraid to take the risk, write it down in
+> excruciating detail what you're actually afraid of having happen."
+
+> "It only exists when it's hazy, not when it's crisp."
+
+**Reconciling perfectionism with volume — pick your battles.** In a March 2026 clip, Hormozi
+pushes back on the "perfectionism is just procrastination" cliché, but reframes rather than
+rejects it: a *real* perfectionist wants to finish, works on the thing constantly, and can
+see it improving, whereas most self-described perfectionists produce nothing and use the
+label as a socially acceptable cover. The reconciliation with his high-volume doctrine is
+**"pick your battles"**: apply uncompromising standards only to the few highest-contribution
+areas (e.g. a Skool announcement, links, video quality), and treat volume itself as the
+standard everywhere else — because demanding perfection on everything kills the velocity
+needed to progress [[../../sources/2026-03-24-yt-0ACmZguiDyc]]. (This sharpens his standing
+"volume negates luck" content frame.)
+
+> "If you don't know how your thing is getting better, you're not a perfectionist. You're
+> just ignorant."
+
+> "Find the areas that are the highest contribution. And don't compromise on those."
+
+**Maximizer, not optimizer — over-optimization becomes superstition and fragility.** In a
+March 2026 clip, Hormozi self-identifies as a lifelong **maximizer**: given an input-output
+equation, his instinct is to scale the input as far as humanly possible (10n, then 1,000n)
+rather than fine-tune it. He argues over-optimization tips into *superstition and fragility*
+— competitors who depend on eight hours of sleep, morning routines, and supplements are
+"easy to break" — and that the stress of chasing perfection harms you faster than your
+imperfections do. His illustrative anecdote: a sleep-tracking ring made him chase "sleep
+PRs," which stressed him into sleeping *worse*; he ditched it and slept fine
+[[../../sources/2026-03-28-yt-kOAGu-RHzxU]]. This adds a personal self-framing and the
+optimization-as-superstition angle to the maximizer/optimizer distinction already noted
+above [[../../sources/2026-05-08-yt-N5tckVyDSs4]].
+
+> "I've always been a maximizer. ... as soon as I have an input-output equation ... if I want
+> 10x I do 10n. I'm like, great. Then can we do a thousand n?"
+
+> "You lose more life trying to optimize everything than just living it. The stress of trying
+> to be perfect is killing you more quickly than your imperfections."
+
+**Exit heuristic — "how will my daily behavior change?"** Advising an e-commerce founder with
+two offers on the table, Hormozi frames the exit as a purely personal risk decision and adds
+a concrete test: if what you do every day won't change after selling, there is no reason to
+sell (his own sale terms required that he stop working the day the check cleared). The
+underrated second question is "what will you do after?" — a lot of time plus a lot of money
+plus nothing to do is a bad combination for entrepreneurs (he started Acquisition.com the day
+after selling Gym Launch). And on timing: a business is on a knife's edge because it is "worth
+nothing the day it declines" [[../../sources/2026-03-25-yt-pkK7NoFRpas]].
+
+> "How will my daily behavior change? If what you do every day doesn't change, then why sell
+> it?"
+
+> "Businesses will always go up in value until the day they don't and then they're worth
+> nothing. ... the day the business goes down, no one touches it. So that's the knife's edge."
+
 ## Sources
 
 - [[../../sources/2026-05-17-yt-CV48Gkckbn4]] — "12 by 30" work-ethic framework;
@@ -560,3 +650,13 @@ strategic framing about leverage, not a claim that high income requires little e
   medical disclaimer.
 - [[../../sources/2026-04-03-yt-JLm2FmCs06Q]] — bigger goal changes the solution set /
   tools, not just intensity.
+- [[../../sources/2026-03-27-yt-wKG7QT0rjCo]] — regret-minimization (85-year-old-me test);
+  focus as the real risk; go all in or don't; the "eternal, 100%-personal" questions.
+- [[../../sources/2026-03-23-yt-FKTznrqd5mE]] — "fear exists in the vague"; dissolve fear by
+  writing the feared outcome in crisp detail; effort divorced from outcome.
+- [[../../sources/2026-03-24-yt-0ACmZguiDyc]] — reconciling perfectionism with volume; "pick
+  your battles" (uncompromising standards only on highest-contribution work).
+- [[../../sources/2026-03-28-yt-kOAGu-RHzxU]] — maximizer vs. optimizer self-framing;
+  over-optimization as superstition/fragility; sleep-ring anecdote.
+- [[../../sources/2026-03-25-yt-pkK7NoFRpas]] — exit heuristic "how will my daily behavior
+  change?"; a business is worth nothing the day it declines.

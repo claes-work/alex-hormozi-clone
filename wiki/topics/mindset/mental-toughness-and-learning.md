@@ -237,6 +237,112 @@ change within a week ([[../../sources/2026-03-30-yt-efGgS8XbsR4]]).
 > "When you share it, share in terms of behaviors, criticism, not insult."
 > — [[../../sources/2026-03-30-yt-efGgS8XbsR4]]
 
+### March 2026: discernment as the single biggest skill
+
+In a late-March 2026 interview cut, Hormozi names **discernment — separating signal from
+noise — as the single greatest skill and his own biggest life unlock**: extracting the
+transferable principle from advice while discarding the context-specific noise
+([[../../sources/2026-03-27-yt-lhfMvhy3FrI]]). Value is most useful distilled into "do
+this instead of that"; amorphous, motivational, or manifestation-style language leads
+people astray.
+
+> "The greatest skill is the ability to discern what things to use and what things to
+> cast out. It is the central narrative of noise versus signal." · "If you cannot pull out
+> what is useful for you, you will never win." — [[../../sources/2026-03-27-yt-lhfMvhy3FrI]]
+
+He labels a common error the **"win-win fallacy"** — copying a successful person wholesale
+while ignoring the conditions attached to *their* success, or conflating outcome with
+prerequisite ("I'll save money once I'm rich," "I'll go to the gym once I have energy").
+The fix is applying generalizable principles with nuance to one's own circumstances, not
+imitation ([[../../sources/2026-03-27-yt-lhfMvhy3FrI]]).
+
+> "Model the rise if you want the rise. Model the plateau if you want the plateau."
+> — [[../../sources/2026-03-27-yt-lhfMvhy3FrI]]
+
+He uses a **"dwarven steel / Sword of Gryffindor" metaphor** (paraphrase): absorb only what
+makes you stronger and let the rest pass through. This reframes failure as a refusal to
+make advice work: "So many people lose because they want to prove that this too did not
+work... rather than: how can I make this work for me?"
+([[../../sources/2026-03-27-yt-lhfMvhy3FrI]]).
+
+### March 2026: "reality glasses" and 100 hours *with feedback*
+
+Hormozi reframes hard work with **"reality glasses" (vs. "woe is me glasses")**: an honest,
+granular list of everything separating your current output from your desired output. That
+long list *is* the hard work — and crossing off one item reveals ~10 more as you "start to
+win in the weeds" and see at higher resolution ("the never-ending cycle of excellence")
+([[../../sources/2026-03-29-yt-vTX9nZBseCQ]]). He also pairs this with his existing "coats
+of paint" image of layered improvement.
+
+> "Once you actually give yourself the reality glasses, not the woe is me glasses... then
+> you see how incredibly long that list is... and that list is the hard work." · "For one
+> that you cross off, you create 10 more, because you start to win in the weeds."
+> — [[../../sources/2026-03-29-yt-vTX9nZBseCQ]]
+
+Against the popular **10,000-hour rule** he offers **"100 hours *with feedback*"** as what
+actually produces a granular understanding of greatness — the differentiator is
+continuous, feedback-driven focus on one thing, not raw time. He estimates becoming
+exceptional at one thing takes ~5–7 years, so discipline means choosing only the two or
+three things you can be great at in a life ([[../../sources/2026-03-29-yt-vTX9nZBseCQ]]).
+
+### March 2026: two-filter feedback discernment
+
+Where the [[#march-2026-what-makes-feedback-useful-latency--specificity|latency + specificity]]
+model above governs how to *give* feedback, a March 2026 cut adds how to decide *which*
+feedback to heed. Hormozi frames nearly all criticism as one message — **"critics cast
+their preferences onto you"** — then offers a **two-filter test** for whether a critic is
+worth heeding: **(1) aligned incentives** (does this person benefit from you doing better)
+and **(2) competence** (do they have relevant domain expertise). Adding more criteria only
+makes the decision harder ([[../../sources/2026-03-25-yt-Y5P2lMu4LQY]]).
+
+> "Number one: aligned incentives — does this person benefit from me doing better. Number
+> two is competence — do they actually have sufficient domain expertise where their
+> feedback would be relevant." · "The first one ensures that the person is pointing in the
+> same direction as you. The second one ensures that they actually know how to row a boat."
+> — [[../../sources/2026-03-25-yt-Y5P2lMu4LQY]]
+
+He warns that reflexively ignoring everyone ("middle finger my way through life") is
+impractical — products, podcasts, and sales all improve by responding to feedback — so the
+real skill is discernment, which is hard for "criticism hyperresponders" unused to input
+([[../../sources/2026-03-25-yt-Y5P2lMu4LQY]]).
+
+### March 2026: "hate comes from below"
+
+On handling criticism, Hormozi argues **criticism only comes from people behind you, not
+ahead of you** — he says he has never been told he was doing it wrong by anyone fitter,
+richer, or longer-married; only people "on the sidelines" have the time
+([[../../sources/2026-03-27-yt-sI-r1hYQCh4]]). His conclusion: being hated by a bad person
+is a good thing.
+
+> "You will never be legitimate to the ignorant. And to be hated by a bad person is a good
+> thing." · "We should judge our character by the quality of our enemies."
+> — [[../../sources/2026-03-27-yt-sI-r1hYQCh4]]
+
+He grounds this in an 8th-grade origin story (paraphrase): a germaphobe forced to abandon
+hygiene on a five-day camping trip ("Expedition 8") discovered his worry "amounted to
+nothing" — critics, like germs, brace you for consequences that never arrive: "Not only did
+you not die, no one cared to begin with and no one's even thinking about you"
+([[../../sources/2026-03-27-yt-sI-r1hYQCh4]]).
+
+### March 2026: "suffering is constant; chase usefulness"
+
+Answering a gym owner on getting through dark periods, Hormozi frames **suffering as a
+constant** — present whether you are growing, plateauing, shrinking, or idle — so chasing
+happiness is futile; at 19 he abandoned happiness as a goal and shifted to **"be useful,"**
+an inherently service-oriented, learning-driven aim ([[../../sources/2026-03-22-yt-D_E4Be4Or_E]]).
+
+> "The premise of life is that life is suffering. And so suffering is a constant." · "I
+> shifted to like, well, I'll just be useful. And that has served me really well in my
+> life." — [[../../sources/2026-03-22-yt-D_E4Be4Or_E]]
+
+Two mechanics support the frame: after a loss (self-reported: a recent $17M cash loss) he
+asks what *materially* changed — same food, wife, job, team, city — usually "nothing... a
+number that no longer is there," so the suffering is optional; and **the less you change
+your lifestyle as the business succeeds, the more resilient you are** ("making your anchor
+100 feet below the surface of the water" so the choppiness of the waves doesn't reach you)
+([[../../sources/2026-03-22-yt-D_E4Be4Or_E]]). He notes his real struggle is nihilism
+("why bother"), not unhappiness — usefulness is what supplies the meaning.
+
 ## Passion vs. proficiency vs. pain-tolerance
 
 Source: [[../../sources/2025-12-12-yt-UDBkiBnMrHs]].

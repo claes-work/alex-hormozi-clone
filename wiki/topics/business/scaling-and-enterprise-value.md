@@ -4,7 +4,7 @@ domain: business
 domains: [business, wealth]
 created: 2026-07-08
 updated: 2026-07-10
-sources: 22
+sources: 27
 tags: [scaling, enterprise-value]
 ---
 
@@ -587,6 +587,96 @@ vision are successive layers of control a founder may have to relinquish. His cu
 razor is, "If it requires me, it doesn't work." He self-reports that hiring four leaders
 roughly 90 days in advance created enough capacity to move a book launch from February
 to August; the example is not independently verified.
+
+## 10. March 2026 refinements: company functions and scaling a PE / holding company
+
+Five late-March 2026 MoreMozi clips — one general roles framework plus four live
+coachings of private-equity / holding-company owners. In the coachings only Alex's advice
+is persona data; caller figures are self-reported and unverified.
+
+- **The three core functions every company needs (2026-03-23).** Rejecting "what are the
+  three key *people*," Hormozi reframes it as three *functions* that must happen "whether
+  one person does them or 20 people do them": **(1) promotion** — advertising and
+  conversion, i.e. getting customers; **(2) product/service** — building and keeping the
+  offering exceptional; **(3) operations** — running day-to-day, leading, building culture,
+  recruiting, and setting standards. Which deficiency to hire against depends on the
+  business's **active supply-vs-demand constraint** — a missing advertising skill only
+  matters if the company is demand-constrained. He describes himself as strongest at
+  product and advertising, weakest at operations (Leila's primary strength)
+  [[../../sources/2026-03-23-yt-6G_Lj8SavD8]].
+  > "We still always start with: are we supply or demand constrained? And once we know
+  > which one we are... we basically ignore everything else on the other side."
+  > "Leila and I joke... one of us is always killing ourselves. Never both of us at the
+  > same time." (This alternating-constraint rhythm complements the equilibrium
+  > position change below.)
+
+- **"Pull the diamonds into the HoldCo" — scale a PE firm via talent, not capital
+  (2026-03-23).** Most PE firms fall into a trap: raise more capital but do only "fewer
+  bigger deals," bandwidth-limited. The real lever is talent. Inside a mediocre acquired
+  company there is usually only one or two genuinely good people; the highest-return move
+  is to extract those "diamonds" into the HoldCo where their skill compounds across the
+  whole portfolio, and "forget the business." Acquisition.com is "in the talent business,"
+  pays **90th percentile for all roles**, and ran recruiting as its "primary value driver"
+  early on (recruiting team kept ~as large as the sales team). Self-reported portfolio
+  anecdote: **~24 deals in 24 months (~2021–2023)**, many not worth the bandwidth, and he
+  eventually gave some owners their equity back [[../../sources/2026-03-23-yt-JfiUerVJPF8]].
+  > "It's almost more valuable to just pull out the diamonds, forget the business, and
+  > then put it into a better business vehicle."
+  > "There's only two winners. Either we can pull the winners out or we can put three more
+  > winners in and now we have a full company."
+
+- **Concentrate vs. vertical roll-up for a multi-company portfolio (2026-03-28).** Advising
+  a PE owner holding 14 disparate companies (~$35M combined) targeting $50M EV, Hormozi
+  diagnoses "PE no man's land" — more companies than most funds hold, but no synergistic
+  strategy. Two paths to $50M: **(A) concentrate** — preside over ~six of the better
+  companies with a ~5-person team, inject capital, recruit higher-level talent, and grow
+  them; or **(B) vertical roll-up** — acquire many same-type companies, centralize costs,
+  distribute best practices founder-to-founder, then sell the group together ("buy 10
+  things for a million each, sell all 10 together for 50 million"). With no strong
+  conviction, run an 80/20 pass (find the 20% of companies driving 80% of EV; trim the
+  rest via passive/return-equity/buyback). He roots the whole dilemma in **"commit to a
+  niche"** (Offers p. 38) applied to portfolio strategy
+  [[../../sources/2026-03-28-yt-qVa01yhJsGo]].
+  > "You have more companies than most funds would ever have, and you didn't pursue a
+  > synergistic strategy in order to accommodate volume."
+  > "The bigger the goal is, the fewer the ways up the mountain there are." (a $50M exit is
+  > reachable "with just about any business"; a trillion-dollar company likely needs new
+  > technology.)
+
+- **Double down, don't diversify — the "woman in the red dress" (2026-03-23).** Advising a
+  $10M/yr transportation owner weighing whether to also sell the hauled product, Hormozi
+  argues against it: with a winning, growing model, "there's no reason to not just become
+  even better... and compound the competitive advantage that you have." Each side venture
+  is the *opportunity cost* that stops the core from scaling — "what stops you from being a
+  billion-dollar-a-year roofing company? ...the general contracting and the real estate
+  flipping." He cites layering Prestige Labs onto Gym Launch as "one of the bigger
+  mistakes that I've made." The metaphor names the trap directly: as you build more
+  distribution and skill, shiny outside options only look *more* tempting — the same
+  "woman in the red dress" figure already applied to whale customers in §5b(6), here as its
+  origin/opportunity-cost framing [[../../sources/2026-03-23-yt-EXudDKvJC54]].
+  > "The woman in the red dress, she just always is more and more attractive. The more
+  > distribution you build, the more skills you have, and the more opportunities you see."
+  > "'Didn't want to leave money on the table' — which is like my favorite entrepreneur
+  > statement ever."
+
+- **Buy bigger, buy-and-hold; founders must be "dogs" (2026-03-27).** Advising a
+  buy-and-hold group of four software companies (~$12M/yr) chasing $90M, Hormozi says the
+  binding constraint is **talent quality, not process**. Very small businesses are hard —
+  "a hundred problems" at once — and the founder who capped the business is usually himself
+  the problem. So acquire **bigger businesses run by hungry, ambitious operators
+  ("dogs")** rather than babysit mediocre founders. A reliable telltale of a good operator
+  is simply **size**: a founder who reaches ~$20M ARR is probably a better entrepreneur
+  than one who caps at $3M and sells; founders who "only needed to make $20–30M" and
+  already have it are hard to motivate. Self-reported: of **24 acquisitions in 2022–2023 he
+  sold or gave back shares in 19** because the founders "just weren't winners." His own
+  highest-leverage activity is generating demand (brand → talent + deal flow)
+  [[../../sources/2026-03-27-yt-IVesU0ID6Dw]].
+  > "It's probably the founders of the companies you bought aren't dogs. And you probably
+  > need dogs. So just buy bigger businesses with the right talent."
+  > "Winners aren't going to come and say, 'Yep, we stayed the same for the third year in a
+  > row.' Like they will die or they will win. And I'm just trying to find those people."
+
+---
 
 ## Cross-cutting throughlines
 

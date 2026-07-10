@@ -5512,3 +5512,28 @@ Synthesis notes: break-even-CAC-downsell-the-upsell-membership/strategy-follows-
 
 Ledger 10->L2 (L2 now 1,632). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: FEAR-EXISTS-IN-THE-VAGUE-write-feared-outcome-in-detail/106M-Money-Models-launch/Marcus-Aurelius-impermanence — mindset candidate; pull-the-diamonds-into-HoldCo-talent-extraction-over-capital/24-deals-in-24-months; EXCEPTIONAL=DIFFERENT/internal-vs-external-conflict-pick-one/micro-rebellion-against-yourself — mindset+voice candidate; thought-leadership-as-deal-flow/fallacy-of-the-perfect-pick/highest-skill-overlap-path; performance-pricing-needs-money-flow-control-or-absolute-tracking/one-time-message-market-fit-fee — pricing candidate; point-of-greatest-need-sell-timing/discounted-assessment-card-on-file; BIO-darkest-days-self-report-17M-loss-worst-year-year-off/suffering-constant-chase-usefulness — biography candidate; +50pct-reprice-lifts-close-rates (corroboration); seasonal-volatility-as-artificial-constraint-out-market-to-smooth/PPC-before-Meta-local.
+
+## [2026-07-10] lint | synthesis pass 23 — @MoreMozi batches 205-214
+
+Promoted the genuinely-new late-March 2026 @MoreMozi refinements from batches 205-214
+(~94 videos) into topics + persona; recompiled the system prompt v29 -> **v30**.
+
+Topics touched:
+- `mindset/mental-toughness-and-learning.md` — discernment as the top skill (win-win fallacy, dwarven steel); "reality glasses" + 100-hours-with-feedback; two-filter feedback discernment; "hate comes from below" / judge character by your enemies; "suffering is constant, chase usefulness."
+- `mindset/discipline-and-decision-making.md` — regret-minimization (85-year-old-me, risk = focus-loss); "fear exists in the vague"; perfectionism reconciled with volume; maximizer-vs-optimizer; the "how will my daily behavior change?" exit heuristic.
+- `business/sales-frameworks.md` — five-piece VSL structure + four-step belief-breaking objection formula; point-of-greatest-need selling; record-sales-calls-before-changing-offer diagnostic; sell-to-goal diagnostic pricing.
+- `business/acquisition-channels.md` — lead-getters over leads; three-tier affiliate integration for whales; reactivate dormant affiliates before B2C; interest-graph over followership.
+- `business/company-culture.md` — talent debt / hire-from-want; delegation document-demonstrate-duplicate + stop/start/keep; talent acquisition as highest-return bet + Leila's learn-from-candidate test + 90-day fit; four-attributes-of-equity + reverse-OTE comp; treat the scarce employee as the customer.
+- `business/scaling-and-enterprise-value.md` — the 3 core functions gated by the constraint; "pull the diamonds into the HoldCo"; concentrate vs vertical roll-up; double-down-not-diversify (woman in the red dress); buy-bigger buy-and-hold / founders must be "dogs."
+- `business/business-math.md` — gross margin as the master variable (net ≤ gross, 80% services min, 30-day cash = COGS + CAC); cost-of-equity employee-vs-investor as one equation.
+- `business/retention.md` — post-close 5-10% maintenance/insurance plan; M12 reverse-retention onboarding; 1-on-1 onboarding ramp / low-consumption-precedes-churn.
+- `business/ai-in-business.md` — dated Mar-2026 stance: don't defend info products from AI, cash out and rotate vehicles (flagged vs the June narrative-vs-metric-risk position).
+- `business/pricing-psychology.md` — performance-pricing pre-conditions (money-flow control or absolute tracking; else one-time message-market-fit fee); profit guarantee + "don't risk the biscuit."
+- `wealth/investing-and-wealth.md` — invest-last-not-first sequence / money-per-unit-of-time; buy skills over markets while the base is small; "patience = what you do in the meantime."
+
+Persona touched:
+- `biography.md` — happiness position change; first FOMO-free year + deca-billion threshold; 8th-grade "Expedition 8" germaphobe origin; Sam-Bakhtiar sales origin + age-14 direct sales; recent ~$17M loss / worst-year ranking; 24 acquisitions in 24 months / 19 exited. (sources 68 -> 75)
+- `beliefs.md` — useful-AND-happy position change; "suffering is constant, chase usefulness"; be-different / micro-rebellion; talent debt; "most important relationship is with your goals" / try before you buy. (sources 142 -> 147)
+- `system-prompt.md` — recompiled to **v30** (compiled_from_sources ~1,632 videos + 2 books).
+
+High-water mark advanced to **batch 214** in `pipeline/synthesis-state.md`; no pending checkpoints remain. Dropped pure repeats already covered by prior passes.
