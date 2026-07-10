@@ -5,10 +5,10 @@ This is the single human-readable checklist of all planned work. Tick `[x]` when
 after each work block. (Machine state of truth for sources stays in `pipeline/ledger.csv`; this file is the
 plain-language overview.)
 
-**Snapshot (2026-07-10, updated after Codex run):** **1,518** videos ingested (L2) + 2 books (L3) ·
-persona system-prompt **v28** · ingest **paused** at @MoreMozi **batch 201**.
-✅ **Synthesis caught up:** high-water mark = batch **194** (synthesis pass 21). Only batches
-**195–201** (7 batches / ~56 videos) are L2-but-unpromoted — next checkpoint due at batch ~204. See section E.
+**Snapshot (2026-07-10, updated after Claude Code run):** **1,537** videos ingested (L2) + 2 books (L3) ·
+persona system-prompt **v29** · ingest at @MoreMozi **batch 204**.
+✅ **Synthesis caught up:** high-water mark = batch **204** (synthesis pass 22, v29). No pending debt.
+Next checkpoint due at batch ~214. See section E.
 
 ---
 
@@ -18,7 +18,7 @@ _Open long-form counts as of 2026-07-10 (post-Codex run), from `python tools/ing
 - [x] @ACQofficial long-form — **complete** (batch 156)
 - [x] @TheSkoolSchool long-form — **complete** (batch 157)
 - [x] @GymLaunch long-form — **complete** (batches 158–164, non-Alex Kale/staff triaged out)
-- [ ] @MoreMozi long-form — **954 rows left** (946 P2 + 8 P3; Q&A cuts — the big remaining chunk; ingest at batch 201)
+- [ ] @MoreMozi long-form — **~926 rows left** (~918 P2 + 8 P3; Q&A cuts — the big remaining chunk; ingest at batch 204)
 - [ ] Shorts dedup — **~8,701 shorts** across channels (dedupe vs long-form; new → L2, dup → skipped)
 - [ ] Retry the ~10 videos flagged `429` / `no-captions` / `unavailable`
 - [ ] Periodic synthesis passes (promote L3 material every ~10 batches) — **caught up (7 batches since last)**
@@ -59,8 +59,8 @@ _See memory `acquisition-com-course-ingest-plan`. Index public; lessons are JS-r
 ## E. Synthesis / persona / wrap-up — ONGOING
 - [ ] **⏳ SYNTHESIS DEBT — tracked in `pipeline/synthesis-state.md`.** L2 batches write ONLY
   `wiki/sources/` pages; promoting into `topics/`+`persona/` is a **separate synthesis loop** (by design).
-  **High-water mark: batch 194 (system-prompt v28).** ✅ **Caught up: only batches 195–201**
-  (7 batches / ~56 videos) L2-but-unpromoted — next checkpoint due at batch ~204.
+  **High-water mark: batch 204 (system-prompt v29).** ✅ **Caught up — no pending debt.**
+  Next checkpoint due at batch ~214.
   Run the synthesis loop — `python tools/synthesis_batch.py prepare` → do the pass → commit — at each
   channel/era boundary or every ~10 batches (see [`tools/SYNTHESIS.md`](tools/SYNTHESIS.md) + AGENTS.md
   "The two loops").
