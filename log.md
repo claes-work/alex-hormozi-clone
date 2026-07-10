@@ -4979,3 +4979,26 @@ Synthesis notes: motivation-action-likelihood/deprivation/reference-group-rubber
 Ledger 8->L2 (L2 now 1,454). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: preserve-working-integrated-sales-account-model/price-tier-churn; uncertainty-as-entrepreneurial-stress/Morgan-Housel-credit; exceptional-outcome-exceptional-behavior/no-shoulds; retention-before-scale/80-percent-B2B-cohort/LTV-acquisition-arbitrage; sadness-lack-options/anxiety-many-options-few-priorities/patience-meantime; acquisition-sunk-cost/carve-out-cleanliness; hidden-customer-work/speed-vs-sustainable-delivery; three-to-five-skill-stack/feedback-loops.
+
+## [2026-07-10] ingest | yt batch 194 - @MoreMozi P2 (2026-04-10 to 2026-04-11), 8 videos
+
+- **2026-04-11** `yt-aw14G--LXJQ` - smallest-skill-deficiency hiring, learning
+  potential, and selling the opportunity to scarce senior talent.
+- **2026-04-11** `yt-pxexClpenPo` - ignorance debt, early education purchases, and
+  complete value-in-advance favors that create reciprocal expertise.
+- **2026-04-11** `yt-vQkqAiew2Z0` - silent-six base plus one annual bet and core
+  business win before founder personal-brand work.
+- **2026-04-11** `yt-kQyI5hIF7-I` - dated AI opportunity view, function-specific
+  implementation, and technology's human-value leverage.
+- **2026-04-10** `yt-2D1HPz9mQus` - construction niche economics and convergence of
+  the scaled founder role across industries.
+- **2026-04-10** `yt-TGaVok-5pbg` - placement success fee, price as profit lever, and
+  acquisition method-before-platform hierarchy.
+- **2026-04-10** `yt-tKQvYeLedFg` - observable behavior over identity/causal stories
+  and Alex's self-reported three-stage evolution on trauma explanations.
+- **2026-04-10** `yt-lafoLRXSiUQ` - partner money/experience/time-energy contribution
+  test and self-reported failed-partnership biography.
+
+Ledger 8->L2 (L2 now 1,462). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: smallest-skill-deficiency/learning-potential/top-talent-courtship; ignorance-debt/early-education-spend/complete-favor-reciprocity; silent-six-plus-one-big-bet/core-win-before-personal-brand; AI-April-2026/function-specific-leverage/technology-human-value; niche-boredom/scaled-owner-role-convergence; success-fee/method-before-platform; three-stage-trauma-to-causal-story-irrelevance; partnership-money-experience-time-energy/nine-failed-partnerships/partner-loss.
