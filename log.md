@@ -5199,3 +5199,22 @@ Synthesis notes: preferred-day/suffering-signal/2024-best-2025-local-low/eight-l
 
 Ledger 8->L2 (L2 now 1,526). youtube-index/index/footer updated. All 8 captions OK, 0 retry.
 Synthesis notes: vendor-first-per-channel/local-creative-tires-~21-days/agency-takeover-in-6-months; scale-culture-and-training/directive-vagueness-proportional-to-skill/culture-is-what-you-tolerate; stop-learning-on-the-call-buying-litmus/agency-5-min-lead-call-standard; script-as-Bible/best-closer-not-best-manager/CEO-owns-sales-or-loses-leverage; feedback=latency+specificity/learning=same-condition-new-behavior/behaviorist-trauma-framing; switch-vehicle-not-scale-weak-product/three-burden-hard-pitch-test; pay-agency-premium-to-learn-playbook-then-consult; fitness+money-skills-solve-most-problems/bridge-of-100-microskill-bricks/longer-timeline-eases-goals.
+
+## [2026-07-10] ingest | yt batch 203 - @MoreMozi P2 (2026-03-30), 6 videos
+
+- **2026-03-30** `yt-1dOAbkPE0vg` - goal anxiety = too many options with no
+  priorities; sadness/anxiety definitions and periodized work-life balance over years.
+- **2026-03-30** `yt-8978JbPnlU4` - organic content as free ad testing; stitch a
+  5-second CTA onto organic winners to promote them into paid ads.
+- **2026-03-30** `yt-9AV0Er3NXz4` - overcoming fear of selling via truth-telling,
+  damaging admissions, every-position-has-an-advantage reframe, and volume.
+- **2026-03-30** `yt-o9fYl33Xzuc` - accounting firms stay small; fix client
+  communication to defend retention (clients infer quality from experience), then hire a tax specialist.
+- **2026-03-30** `yt-u0jo2X2r1nI` - low-ticket financial services scale via paid ads
+  or referral partners; out-convert so you can out-pay affiliates.
+- **2026-03-30** `yt-32R-eshEOdY` - coaching business vs education platform; cold-traffic
+  funnels plus AI avatars to staff a niche coaching/education platform (new March 2026 position).
+
+Ledger 6->L2 (L2 now 1,532). youtube-index/index/footer updated. 6 of 8 captions OK;
+`yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again and remain open for retry.
+Synthesis notes: anxiety=many-options-no-priorities/sadness-anxiety-definitions/periodized-work-life-balance-over-years/effort-arbitrage; organic-as-free-ad-testing/5-sec-CTA-onto-winners/lead-nurture-theyre-alive-credibility; damaging-admission-reduces-anxiety/every-position-has-an-advantage-solo-vs-incumbent/truth-telling; clients-infer-internal-quality-from-external-experience-retention; referral-partner-out-convert-to-out-pay-for-low-ticket/credit-repair-as-source/extend-partner-LTV; AI-avatars-to-staff-niche-coaching-education-platform-build-curriculum-license-likeness.
