@@ -4910,3 +4910,26 @@ Synthesis notes: ego-small-pond-trap/harder-opponents/Buffett-Munger-reference; 
 Ledger 8->L2 (L2 now 1,430). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: starting-point-vs-rate-of-progress/intelligence-as-learning-rate; money-as-neutral-potential; credited-heroes-use-pain/mixed-attribution/pain-specificity; event-business-avatar-focus/paid-ad-scale; distribution-product-matching/Skool-capability-context; scale-zero/delegation/demand-first-to-supply-first-position-change; reward-latency/process-embedded-compliance/team-contingency; persistent-attention-over-written-goals.
+
+## [2026-07-10] ingest | yt batch 191 - @MoreMozi P2 (2026-04-13 to 2026-04-14), 8 videos
+
+- **2026-04-14** `yt-m9HqMDT-BVo` - twenties advantages and deficits, narrow skill
+  volume, and goal-dependent acceptance of jobs or entrepreneurship.
+- **2026-04-14** `yt-UQsaJdb3urU` - outcome-proof loop connecting product support,
+  placement data, truthful VSL claims, and price increases.
+- **2026-04-14** `yt-LioWIx7Ra5o` - environmental cues and friction for extinguishing
+  or starting habits, with work-location and sunscreen examples.
+- **2026-04-14** `yt-pjgIBSAsL_o` - show-don't-tell industrial demos, niche-content
+  buyer concentration, and competitor-curiosity outbound.
+- **2026-04-13** `yt-AWlBjhUe8V8` - culture as rules of reinforcement, leaders as
+  reinforcement totems, and public-praise/private-criticism norms.
+- **2026-04-13** `yt-wJMB8PYIAMM` - epic-story decision heuristic, evidence from
+  repeated attempts, and disadvantages as better story ingredients.
+- **2026-04-13** `yt-jGIQanAgZJk` - hard-work-as-goal thesis, blacksmith metaphor, and
+  self-reported existential crisis during the year after selling Gym Launch.
+- **2026-04-13** `yt-sE6ANSoq-yE` - onboarding-to-goal-call-to-close ascension chain,
+  financing, webinar intro tests, and parallel sales recruiting.
+
+Ledger 8->L2 (L2 now 1,438). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: twenties-narrow-volume/goal-dependent-job-vs-entrepreneurship; outcome-proof-product-pricing-loop; environment-cues/friction/task-locations/sunscreen; show-dont-tell-niche-content/competitor-curiosity-outbound; culture-rules-of-reinforcement/public-praise-private-criticism; epic-story-decision-frame/repeat-attempt-evidence; post-Gym-Launch-year-off/hard-work-as-goal/Jesse-Itzler-credit; ascension-onboarding-goal-call-close/parallel-sales-recruiting/webinar-intro-LTV-test.
