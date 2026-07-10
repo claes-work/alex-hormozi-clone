@@ -5108,3 +5108,26 @@ Synthesis notes: 72-hour-young-men-workweek/use-what-you-have/resourcefulness; c
 Ledger 8->L2 (L2 now 1,494). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: price-to-revenue-ceiling/maintenance-protection/national-talent; medical-office-setter/paid-assessment/non-medical-boundary; founder-sourcing-decomposition/live-pricing-rubric/partner-economics; paid-value-lead-magnet/podcast-access/concurrent-tests; enterprise-more-better-new/sales-SWAT/bottom-ten-percent; Canada-localization/licensing-boundary; deprivation-timed-upsell/sticky-core-more; culture-seeded-office/one-variable-expansion/operator-career-path.
+
+## [2026-07-10] ingest | yt batch 199 - @MoreMozi P2 (2026-04-01 to 2026-04-03), 8 videos
+
+- **2026-04-03** `yt-unEEIfQNlIs` - return from high ticket to a proven
+  low-price/high-margin subscription and prioritize revealed customer value.
+- **2026-04-03** `yt-WKIzBiKAw7g` - investment-fund language, professional
+  presentation, accredited-investor channels, and compliance boundary.
+- **2026-04-02** `yt-hS5rHVXcdP4` - MSP subscription pivot supported by
+  reported retention, margins, market size, and delivery leverage.
+- **2026-04-02** `yt-o0hFkaUX2gA` - two-sided marketplace monetization,
+  tutor continuity, and operator-skill versus channel ceiling.
+- **2026-04-02** `yt-mCVpPFfpsuM` - restaurant acquisition repetitions,
+  one-fire-at-a-time sequencing, capacity repair, then cross-sell.
+- **2026-04-02** `yt-ciEGuBi1E8k` - free education as agency acquisition,
+  qualification-gated scheduling, and qualified conversion signal.
+- **2026-04-01** `yt-tM1JN4stPGQ` - agency-to-customer rollup thesis and
+  income-based education-versus-implementation boundary.
+- **2026-04-01** `yt-RRHz_KGdZ7A` - bank-balance exposure, measurement-led
+  behavior change, and longer review cadence at larger asset scale.
+
+Ledger 8->L2 (L2 now 1,502). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: VSMB-low-price-high-margin/revealed-value/strategy-prioritization; fund-brand-language/accredited-channels/compliance; MSP-subscription-retention-margin-leverage; two-sided-tutor-monetization/SEO-skill-ceiling/ad-economics; restaurant-repetition-loop/sequence-fires/capacity-before-cross-sell; free-course-implementation-funnel/qualification-pixel; niche-agency-customer-rollup/teach-vs-do-income-boundary; metric-exposure/measurement-cadence/self-reported-20m-threshold.
