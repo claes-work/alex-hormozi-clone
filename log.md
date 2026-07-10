@@ -5016,3 +5016,26 @@ Recompiled `persona/system-prompt.md` v27→v28 from ~1,462 videos + 2 books. Ad
 synthesis high-water mark through batch 194. Pure repeats—including 70/20/10 creative,
 80% B2B retention, ignorance debt, smallest-skill-deficiency hiring, competence before
 passion, and existing emotion definitions—were deliberately dropped.
+
+## [2026-07-10] ingest | yt batch 195 - @MoreMozi P2 (2026-04-08 to 2026-04-10), 8 videos
+
+- **2026-04-10** `yt-baO2Myzs5I4` - observe top performers rather than their
+  explanations, then transition to first-party feedback.
+- **2026-04-09** `yt-89VxEjv3PUM` - skill decomposition, quantification, tracking, and
+  increasingly precise diagnosis.
+- **2026-04-09** `yt-y7schYYOLnE` - output-defined work, cadence compression,
+  repetition with improvement loops, and education budgets before passive income.
+- **2026-04-09** `yt-0n24OKyNvuQ` - stack subscription cash flow, hire a canvasser,
+  and delay digital complexity until local delivery capacity exists.
+- **2026-04-09** `yt-jSTx95QOa_g` - defensive beginner spending, portable skills,
+  doubled inputs, and a 36-month output horizon.
+- **2026-04-08** `yt-xs7FJNmQQj4` - compare inputs rather than outputs and double the
+  incumbent's repetitions to close the existing gap.
+- **2026-04-08** `yt-nh_XL2deX6w` - bedtime alarms, inversion, and fitness as an early
+  investment of cheap time.
+- **2026-04-08** `yt-imjk7uoqEeg` - repeated top-decile comparison and observation
+  density accumulating like coats of paint.
+
+Ledger 8->L2 (L2 now 1,470). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: observe-top-performers-not-self-explanations/teaching-vs-doing/first-party-feedback; skill-decomposition/quantification/tracking; output-not-effort/cadence-compression/improvement-loop/education-budget; subscription-funded-capacity/local-channel-simplicity; defensive-saving/portable-skills/double-inputs/wait-36-months; too-good-to-fail/input-comparison/double-work; bedtime-inversion/early-fitness-time-investment; top-decile-first-party-learning/observation-density.
