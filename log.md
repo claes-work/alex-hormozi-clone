@@ -4956,3 +4956,26 @@ Synthesis notes: twenties-narrow-volume/goal-dependent-job-vs-entrepreneurship; 
 Ledger 8->L2 (L2 now 1,446). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: motivation-action-likelihood/deprivation/reference-group-rubber-band; writing-scholarship/newspaper-VP/creative-magazine/first-gym-underdog-reversal-age-23; search-vs-interruption/skill-deficiency-channel-choice; bootstrapped-30-day-CAC-payback/cash-forward; SOP-vs-behavior-system/dynamic-single-constraint; future-self-goal-filter/relationship-tradeoff; competence-before-passion/practical-paid-demand; channel-persistence/real-estate-affiliates/Rule-of-100-daily.
+
+## [2026-07-10] ingest | yt batch 193 - @MoreMozi P2 (2026-04-11 to 2026-04-12), 8 videos
+
+- **2026-04-12** `yt-WNSdEwkGL-0` - preserve an unconventional integrated
+  sales/account model when unusually strong retention proves it works.
+- **2026-04-12** `yt-eXvoO-Cd9w8` - uncertainty as entrepreneurial stress and
+  retrospective narratives that erase how crises felt.
+- **2026-04-12** `yt-4_4-rooXxWs` - seasonal/non-prescriptive work-life balance and
+  exceptional outcomes requiring exceptional behavior.
+- **2026-04-12** `yt-g4iI7MdEE_Y` - 80% annual B2B cohort-retention target, reselling,
+  and LTV-driven acquisition advantage.
+- **2026-04-12** `yt-n9kQit9X5BI` - operational emotion taxonomy and sticking with an
+  adequate plan long enough for reinforcement.
+- **2026-04-11** `yt-9ZyHkYEfqOY` - acquired-business sunk-cost test, construction
+  carve-out cleanliness, and service-business focus.
+- **2026-04-11** `yt-cuNT2fjRrnE` - hidden customer-work cost and a speed-versus-
+  sustainable-delivery choice.
+- **2026-04-11** `yt-PYeaj9ECJ8M` - exceptional three-to-five-skill stacks and
+  feedback-loop improvement.
+
+Ledger 8->L2 (L2 now 1,454). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: preserve-working-integrated-sales-account-model/price-tier-churn; uncertainty-as-entrepreneurial-stress/Morgan-Housel-credit; exceptional-outcome-exceptional-behavior/no-shoulds; retention-before-scale/80-percent-B2B-cohort/LTV-acquisition-arbitrage; sadness-lack-options/anxiety-many-options-few-priorities/patience-meantime; acquisition-sunk-cost/carve-out-cleanliness; hidden-customer-work/speed-vs-sustainable-delivery; three-to-five-skill-stack/feedback-loops.
