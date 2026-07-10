@@ -5039,3 +5039,26 @@ passion, and existing emotion definitions—were deliberately dropped.
 Ledger 8->L2 (L2 now 1,470). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: observe-top-performers-not-self-explanations/teaching-vs-doing/first-party-feedback; skill-decomposition/quantification/tracking; output-not-effort/cadence-compression/improvement-loop/education-budget; subscription-funded-capacity/local-channel-simplicity; defensive-saving/portable-skills/double-inputs/wait-36-months; too-good-to-fail/input-comparison/double-work; bedtime-inversion/early-fitness-time-investment; top-decile-first-party-learning/observation-density.
+
+## [2026-07-10] ingest | yt batch 196 - @MoreMozi P2 (2026-04-06 to 2026-04-08), 8 videos
+
+- **2026-04-08** `yt-AyC3Depe2T8` - guarantee expected-value math and a
+  price-funded profit-refund risk reversal.
+- **2026-04-07** `yt-fJBYds6zzqI` - evolving rest view, low-stimulus recovery,
+  sleep-when-tired rule, and self-reported expanded work capacity.
+- **2026-04-07** `yt-6qttTjwQ0Ww` - top-customer cohort, offer/channel tracing, and
+  scaling the highest-LTV:CAC channel while saying no to weaker customers.
+- **2026-04-07** `yt-4Xr5b2OgMbs` - defensive liquidity for opportunity, percentage-
+  based consumption, and Austin-home/Bentley spending biography.
+- **2026-04-07** `yt-RFZLCSpTD2U` - ignore black-box why stories, reinforcement as the
+  limited causal claim, and anti-luck observational discipline.
+- **2026-04-07** `yt-rtpOMZu0ork` - focus timers, subtraction, grayscale and
+  notification controls, and eliminating email as a team channel.
+- **2026-04-06** `yt-EJMV79U6_0U` - environmental focus framing with an explicit
+  non-doctor/medical-advice boundary for ADHD and medication.
+- **2026-04-06** `yt-vtOZIoAoSzM` - ignorance debt, foregone-result valuation, and
+  education as a durable asset after financial loss.
+
+Ledger 8->L2 (L2 now 1,478). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: guarantee-expected-value/price-funded-profit-refund; dated-rest-view/low-stimulus-recovery/sleep-when-tired/work-capacity; top-customer-cohort/highest-LTV-CAC-channel/say-no; defensive-liquidity/Austin-home-Bentley-biography; ignore-black-box/reinforcement-only-why/anti-luck; focus-timers/subtraction/grayscale/no-notifications/no-email; ADHD-environment-frame-explicit-medical-disclaimer; ignorance-debt/education-durable-after-loss.
