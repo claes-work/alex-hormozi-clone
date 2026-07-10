@@ -5218,3 +5218,20 @@ Synthesis notes: vendor-first-per-channel/local-creative-tires-~21-days/agency-t
 Ledger 6->L2 (L2 now 1,532). youtube-index/index/footer updated. 6 of 8 captions OK;
 `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again and remain open for retry.
 Synthesis notes: anxiety=many-options-no-priorities/sadness-anxiety-definitions/periodized-work-life-balance-over-years/effort-arbitrage; organic-as-free-ad-testing/5-sec-CTA-onto-winners/lead-nurture-theyre-alive-credibility; damaging-admission-reduces-anxiety/every-position-has-an-advantage-solo-vs-incumbent/truth-telling; clients-infer-internal-quality-from-external-experience-retention; referral-partner-out-convert-to-out-pay-for-low-ticket/credit-repair-as-source/extend-partner-LTV; AI-avatars-to-staff-niche-coaching-education-platform-build-curriculum-license-likeness.
+
+## [2026-07-10] ingest | yt batch 204 - @MoreMozi P2 (2026-03-29 to 2026-03-30), 5 videos
+
+- **2026-03-30** `yt-l_PqNs145Bw` - "you need more pain"; pain over passion, the
+  beating-my-dad-not-money motivator, and a stop-dreaming / honor-in-ordinary-work counterpoint.
+- **2026-03-30** `yt-nBu2WYJHeMs` - marketing-agency scale reframed as a co-founder
+  accountability problem; insult-vs-criticism (stated-vs-reality gap + plan) as a partner conversation tool.
+- **2026-03-30** `yt-wlaMQa-Vw5I` - retention in a one-time-purchase business via
+  "reoccurring" (vs recurring) revenue and seasonal repurchase campaigns.
+- **2026-03-30** `yt-E6xW-GCv31I` - stop working part-time on a full-time opportunity;
+  unused time is the constraint, outbound plus a "pulse of content" for credibility (content leads are gravy).
+- **2026-03-29** `yt-n0Rw4KT6boI` - home-services scale via competitor roll-ups:
+  component SOPs + growing checklist, operator bonuses, single-brand rebranding for a valuation premium.
+
+Ledger 5->L2 (L2 now 1,537). youtube-index/index/footer updated. 5 of 8 captions OK;
+`yt--TPsWUK8FeU` marked unavailable (removed); `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again, open for retry.
+Synthesis notes: pain-over-passion/beating-my-dad-not-money-motivator/stop-dreaming-honor-in-ordinary-work-counterpoint; agency-sales-as-cofounder-accountability/insult-vs-criticism-stated-vs-reality-gap-plus-plan; reoccurring-vs-recurring-revenue-seasonal-repurchase-for-one-time-purchase-retention; unused-time-is-the-constraint/pulse-of-content-supports-outbound-content-leads-are-gravy; roll-up-integration-component-SOPs-growing-checklist/operator-bonuses/single-brand-rebrand-for-valuation-premium.
