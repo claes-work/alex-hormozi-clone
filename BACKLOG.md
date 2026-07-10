@@ -5,23 +5,23 @@ This is the single human-readable checklist of all planned work. Tick `[x]` when
 after each work block. (Machine state of truth for sources stays in `pipeline/ledger.csv`; this file is the
 plain-language overview.)
 
-**Snapshot (2026-07-09, updated after Codex run):** **1,187** videos ingested (L2) + 2 books (L3) ·
-persona system-prompt **v23** · ingest **paused** at @MoreMozi **batch 153**.
-⚠️ **Synthesis debt:** batches **123–153** (~31 batches / ~300 videos) are L2 but **not yet promoted**
-to topics/persona (high-water mark = batch 122). See section E.
+**Snapshot (2026-07-10, updated after Codex run):** **1,518** videos ingested (L2) + 2 books (L3) ·
+persona system-prompt **v28** · ingest **paused** at @MoreMozi **batch 201**.
+✅ **Synthesis caught up:** high-water mark = batch **194** (synthesis pass 21). Only batches
+**195–201** (7 batches / ~56 videos) are L2-but-unpromoted — next checkpoint due at batch ~204. See section E.
 
 ---
 
 ## A. YouTube ingest — IN PROGRESS
-_Open long-form counts as of 2026-07-09 (post-Codex run), from `python tools/ingest_batch.py status`:_
-- [ ] @AlexHormozi long-form — **17 rows left** (10 P2 + 7 P3, late-2021 onward)
-- [ ] @ACQofficial long-form — **2 rows left** (P3)
-- [ ] @TheSkoolSchool long-form — **2 rows left** (P3)
-- [ ] @GymLaunch long-form — **66 rows left** (63 P2 + 3 P3, mostly Kale Owen — title-triage, skip non-Alex)
-- [ ] @MoreMozi long-form — **1,258 rows left** (1,250 P2 + 8 P3; Q&A cuts — the big remaining chunk)
+_Open long-form counts as of 2026-07-10 (post-Codex run), from `python tools/ingest_batch.py status`:_
+- [x] @AlexHormozi long-form — **complete** (batches 154–155 finished + synthesized)
+- [x] @ACQofficial long-form — **complete** (batch 156)
+- [x] @TheSkoolSchool long-form — **complete** (batch 157)
+- [x] @GymLaunch long-form — **complete** (batches 158–164, non-Alex Kale/staff triaged out)
+- [ ] @MoreMozi long-form — **954 rows left** (946 P2 + 8 P3; Q&A cuts — the big remaining chunk; ingest at batch 201)
 - [ ] Shorts dedup — **~8,701 shorts** across channels (dedupe vs long-form; new → L2, dup → skipped)
 - [ ] Retry the ~10 videos flagged `429` / `no-captions` / `unavailable`
-- [ ] Periodic synthesis passes (promote L3 material every ~10 batches) — **currently 31 batches behind**
+- [ ] Periodic synthesis passes (promote L3 material every ~10 batches) — **caught up (7 batches since last)**
 
 ## B. YouTube performance/analytics layer — PLANNED (decisions made)
 _See memory `youtube-analytics-layer-plan`. Cross-project with `D:\Dev\youtube-engine`._
@@ -59,11 +59,11 @@ _See memory `acquisition-com-course-ingest-plan`. Index public; lessons are JS-r
 ## E. Synthesis / persona / wrap-up — ONGOING
 - [ ] **⏳ SYNTHESIS DEBT — tracked in `pipeline/synthesis-state.md`.** L2 batches write ONLY
   `wiki/sources/` pages; promoting into `topics/`+`persona/` is a **separate synthesis loop** (by design).
-  **High-water mark: batch 122 (system-prompt v23).** ⚠️ **Pending: @MoreMozi batches 123–153**
-  (~31 batches / ~300 videos) — registered as a pending checkpoint in `pipeline/synthesis-state.md`.
+  **High-water mark: batch 194 (system-prompt v28).** ✅ **Caught up: only batches 195–201**
+  (7 batches / ~56 videos) L2-but-unpromoted — next checkpoint due at batch ~204.
   Run the synthesis loop — `python tools/synthesis_batch.py prepare` → do the pass → commit — at each
   channel/era boundary or every ~10 batches (see [`tools/SYNTHESIS.md`](tools/SYNTHESIS.md) + AGENTS.md
-  "The two loops"). This is the **immediate next big job** before resuming ingest.
+  "The two loops").
   _Note: `synthesis_batch.py status` only counts **registered** pending checkpoints, so it can print
   "caught up" while real debt exists in the log — always cross-check `ingest_batch.py status`'s
   "batches since last synthesis" counter._
