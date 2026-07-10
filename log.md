@@ -5062,3 +5062,26 @@ Synthesis notes: observe-top-performers-not-self-explanations/teaching-vs-doing/
 Ledger 8->L2 (L2 now 1,478). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: guarantee-expected-value/price-funded-profit-refund; dated-rest-view/low-stimulus-recovery/sleep-when-tired/work-capacity; top-customer-cohort/highest-LTV-CAC-channel/say-no; defensive-liquidity/Austin-home-Bentley-biography; ignore-black-box/reinforcement-only-why/anti-luck; focus-timers/subtraction/grayscale/no-notifications/no-email; ADHD-environment-frame-explicit-medical-disclaimer; ignorance-debt/education-durable-after-loss.
+
+## [2026-07-10] ingest | yt batch 197 - @MoreMozi P2 (2026-04-03 to 2026-04-06), 8 videos
+
+- **2026-04-06** `yt-huoRgSvoLss` - 72-hour youth-workweek opinion, use-what-you-have
+  resourcefulness, and trading energy for repetitions and utility.
+- **2026-04-06** `yt-FvR1QsZ9ZxM` - context over message, proof before views, and
+  certainty grounded in completed work.
+- **2026-04-03** `yt-N03zXANv5N0` - solar's sales-talent competitive advantage and
+  moving acquisition skill into a higher-control enterprise-value vehicle.
+- **2026-04-03** `yt-ppTHkazcE2Q` - title/transcript metadata contradiction; glamping
+  unit expansion versus purpose-aligned high-ticket retreat delivery.
+- **2026-04-03** `yt-ilxS7c5icF4` - asset-light helicopter brokerage and a
+  self-financed contractor handoff exchanging profit share for zero owner calls.
+- **2026-04-03** `yt-I6o9cB_UGrA` - invest-first behavior design, automated deposits,
+  fixed lifestyle spending, and manualized withdrawals.
+- **2026-04-03** `yt-0hO89FCmAF0` - buy back household time when income exceeds cost,
+  capturing both earnings and extra skill repetitions.
+- **2026-04-03** `yt-JLm2FmCs06Q` - bigger goals force different tools and leverage
+  rather than more effort inside a time-trading method.
+
+Ledger 8->L2 (L2 now 1,486). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: 72-hour-young-men-workweek/use-what-you-have/resourcefulness; content-context-over-message/proof-first-certainty; solar-sales-talent-advantage/higher-control-vehicle/divestment-self-report; glamping-metadata-mismatch/sellable-scale-vs-founder-delivery; helicopter-broker-self-financed-contractor-handoff/profit-for-no-calls; invest-first/automate-deposits/manualize-withdrawals; time-buyback/chores-income-skill-arbitrage; bigger-goals-change-tools/solution-set.
