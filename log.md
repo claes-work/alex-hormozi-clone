@@ -5357,3 +5357,29 @@ Synthesis notes: burnout-as-measurable-output-drop-vs-emotional-discouragement; 
 Ledger 10->L2 (L2 now 1,573). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 The two same-title "You Need To Focus" videos are DISTINCT content (not duplicates).
 Synthesis notes: PERSONA position-change: happiness old-f-happiness-just-be-useful -> new useful-AND-happy-both/and (Mar 2026)/moments-not-extrapolation/second-arrow — promote to beliefs+biography at next checkpoint; chop-the-unicorns-horn key-man-de-risk-via-skill-chunking/add-capacity-or-raise-price-on-beloved-offer; clean-business-wind-down-offload-playbook-6mo-notice-referral-kickbacks; rare-go-down-market-exception-justified-by-M12-retention+education-arm-liquidating-CAC; buy-bigger-buy-and-hold-founders-must-be-dogs/self-report-24-acquisitions-19-exited; value-per-second-not-seconds-of-value/overwhelm-is-#1-cancel-driver/Skool-product-philosophy; invest-in-skills-patience=what-to-do-in-the-meantime/opportunity-cost-math; predict-to-control-skip-the-why-behaviorism/therapy-skepticism/three-wall-questions; regret-minimization-85yo-me/risk-is-focus-loss/all-in-or-dont; personal-brand-80/20-split/highest-value-per-second.
+
+## [2026-07-10] ingest | yt batch 209 - @MoreMozi P2 (2026-03-26 to 2026-03-27), 10 videos
+
+- **2026-03-27** `yt-MSkIm-7_Z9I` - dentistry scale: saturate existing capacity before
+  adding locations; an Instagram-follower DM-triage lead play for local service businesses.
+- **2026-03-27** `yt-sI-r1hYQCh4` - "hate always comes from below": his 8th-grade
+  germaphobe "Expedition 8" origin story and "judge your character by the quality of your enemies."
+- **2026-03-27** `yt-lhfMvhy3FrI` - why most never win with good advice: discernment
+  as the top skill (extract the principle, discard context), the "dwarven steel" metaphor and win-win fallacy.
+- **2026-03-26** `yt-1sifjSspZb8` - hire better sales reps without overpaying: fix the
+  comp plan before scaling, give up margin for better talent, comp→cashflow→remote sequencing.
+- **2026-03-26** `yt-jzc3DWIgSUg` - stop looking for revenge: revenge reframed as
+  opposing your past self; accept your ideal self rather than your current self.
+- **2026-03-26** `yt-iEEJ3aVtaFs` - niche too small: an aspirational top-of-market
+  anchor (North Face / Range Rover analogy) scoops up the aspiring majority beneath it.
+- **2026-03-26** `yt-Txozzi8rLvg` - $46M developer hiring talent: raising HNW capital
+  is an enterprise sale; rank conferences over paid ads for speed-to-trust.
+- **2026-03-26** `yt-_GRkQ0EgBFU` - his criteria for buying companies: a dated
+  acquisition "deal box" (size, category, and quality criteria).
+- **2026-03-26** `yt-0C83zGDbSso` - fixing 50% coaching churn: a one-on-one onboarding
+  ramp that makes group access an earned prize; low-consumption-precedes-churn data-first diagnosis.
+- **2026-03-26** `yt-NfY4wazzvYM` - how he learned to market and sell: self-reported
+  origin with Sam Bakhtiar, an age-14 direct-sales start, and objection-handling frames/scripts (biography + voice).
+
+Ledger 10->L2 (L2 now 1,583). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: saturate-capacity-before-adding-locations/Instagram-follower-DM-triage-lead-play; BIO+mindset-Expedition-8-germaphobe-origin/judge-character-by-quality-of-enemies/hate-comes-from-below; discernment-as-top-skill-extract-principle-discard-context/dwarven-steel/win-win-fallacy; fix-comp-before-scaling-sales/give-up-margin-for-talent/comp-cashflow-remote-sequencing; revenge-as-self-opposition/accept-ideal-self-not-current; aspirational-top-of-market-anchor-scoops-aspiring-majority-North-Face-Range-Rover; HNW-capital-raise-as-enterprise-sale/conferences-over-paid-ads-speed-to-trust; acquisition-DEAL-BOX-size-category-quality-criteria — promote to business/wealth at next checkpoint; 1on1-onboarding-ramp-makes-group-access-earned-prize/low-consumption-precedes-churn; BIO-Sam-Bakhtiar-sales-origin/age-14-direct-sales/objection-handling-scripts.

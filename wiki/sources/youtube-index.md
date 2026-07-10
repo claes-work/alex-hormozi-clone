@@ -597,6 +597,13 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-19 | [[2026-03-19-yt-y7ToMgdDcIs]] | Construction + elevator → $100M — burn-it-down (likely dup of i-4IiGGS1wE) (light) | |
 | 2026-03-20 | [[2026-03-20-yt-UKd3hu6IRbY]] | Home services → $100M — sell membership on the back end (light) | |
 | 2026-03-26 | [[2026-03-26-yt-XWHqOYR0IHM]] | Champions see their past as origin story — victims-vs-champions reframe | |
+| 2026-03-26 | [[2026-03-26-yt-1sifjSspZb8]] | Hire sales reps without overpaying - fix comp first, give up margin for talent | |
+| 2026-03-26 | [[2026-03-26-yt-jzc3DWIgSUg]] | Stop looking for revenge - revenge as self-opposition; accept the ideal self | |
+| 2026-03-26 | [[2026-03-26-yt-iEEJ3aVtaFs]] | Niche too small? - aspirational top-of-market anchor scoops the aspiring majority | |
+| 2026-03-26 | [[2026-03-26-yt-Txozzi8rLvg]] | Developer $46M hire talent - HNW capital = enterprise sale; conferences over ads | |
+| 2026-03-26 | [[2026-03-26-yt-_GRkQ0EgBFU]] | Criteria for buying companies - his acquisition deal box (size, category, quality) | |
+| 2026-03-26 | [[2026-03-26-yt-0C83zGDbSso]] | Fix 50% coaching churn - 1:1 onboarding ramp, low-consumption-precedes-churn | |
+| 2026-03-26 | [[2026-03-26-yt-NfY4wazzvYM]] | How I learned to sell - Sam Bakhtiar origin, age-14 direct sales (biography) | |
 | 2026-03-27 | [[2026-03-27-yt-bmo2zYLeuhc]] | Why not scaling - reactivate dormant affiliates before B2C, launch-and-integrate model | |
 | 2026-03-27 | [[2026-03-27-yt-Bd6LCkwh7G8]] | Fix coaching offer - chop-the-unicorn key-man de-risk, add capacity or raise price | |
 | 2026-03-27 | [[2026-03-27-yt-pWyAMdlBqPg]] | You need to focus - clean shut-down/offload playbook (6-mo notice, referral kickbacks) | |
@@ -608,6 +615,9 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-27 | [[2026-03-27-yt-wKG7QT0rjCo]] | Regret minimization - 85-year-old-me, risk as focus-loss, go all-in or don't | |
 | 2026-03-27 | [[2026-03-27-yt-GTuhgHIzm2I]] | SEO agency scale - personal-brand 80/20 split, highest value per second | |
 | 2026-03-27 | [[2026-03-27-yt-yCU2Jv6qmfs]] | ⚠️ Happiness position change - old "f*** happiness" → new useful-AND-happy | |
+| 2026-03-27 | [[2026-03-27-yt-MSkIm-7_Z9I]] | Dentistry scale - saturate capacity before locations; Instagram DM-triage leads | |
+| 2026-03-27 | [[2026-03-27-yt-sI-r1hYQCh4]] | Hate comes from below - Expedition-8 origin; judge character by your enemies | |
+| 2026-03-27 | [[2026-03-27-yt-lhfMvhy3FrI]] | Why most never win - discernment as top skill, dwarven-steel, win-win fallacy | |
 | 2026-03-28 | [[2026-03-28-yt-kOAGu-RHzxU]] | Maximizing vs optimizing - optimization becomes superstition and fragility | |
 | 2026-03-28 | [[2026-03-28-yt-HRY5evNQ64w]] | Stop feeling behind - bootstrapped vs funded; financial vs technical/leadership debt | |
 | 2026-03-28 | [[2026-03-28-yt-SZmTAvfzyKg]] | Biggest challenge is focus - self-reported first FOMO-free year; compare to future self | |
@@ -1603,7 +1613,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,573 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~898 total, including P2 (~890 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,583 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~888 total, including P2 (~880 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
