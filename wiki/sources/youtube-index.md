@@ -598,6 +598,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-20 | [[2026-03-20-yt-UKd3hu6IRbY]] | Home services → $100M — sell membership on the back end (light) | |
 | 2026-03-26 | [[2026-03-26-yt-XWHqOYR0IHM]] | Champions see their past as origin story — victims-vs-champions reframe | |
 | 2026-03-27 | [[2026-03-27-yt-bmo2zYLeuhc]] | Why not scaling - reactivate dormant affiliates before B2C, launch-and-integrate model | |
+| 2026-03-27 | [[2026-03-27-yt-Bd6LCkwh7G8]] | Fix coaching offer - chop-the-unicorn key-man de-risk, add capacity or raise price | |
+| 2026-03-27 | [[2026-03-27-yt-pWyAMdlBqPg]] | You need to focus - clean shut-down/offload playbook (6-mo notice, referral kickbacks) | |
+| 2026-03-27 | [[2026-03-27-yt-Bu5HtseIFXs]] | You need to focus (distinct) - rare go-down-market exception via M12 retention | |
+| 2026-03-27 | [[2026-03-27-yt-IVesU0ID6Dw]] | PE $12M→$90M - buy bigger, founders must be dogs; 24 acquisitions/19 exited | |
+| 2026-03-27 | [[2026-03-27-yt-_WtyKXdE5o0]] | Build a good product - value per second, overwhelm as #1 cancel driver, Skool | |
+| 2026-03-27 | [[2026-03-27-yt-32IeekHdsCE]] | Stop chasing passive income - invest in skills; patience = what to do meanwhile | |
+| 2026-03-27 | [[2026-03-27-yt-13UIEi0Xz50]] | "Figuring out why" wastes time - predict-to-control behaviorism, therapy skepticism | |
+| 2026-03-27 | [[2026-03-27-yt-wKG7QT0rjCo]] | Regret minimization - 85-year-old-me, risk as focus-loss, go all-in or don't | |
+| 2026-03-27 | [[2026-03-27-yt-GTuhgHIzm2I]] | SEO agency scale - personal-brand 80/20 split, highest value per second | |
+| 2026-03-27 | [[2026-03-27-yt-yCU2Jv6qmfs]] | ⚠️ Happiness position change - old "f*** happiness" → new useful-AND-happy | |
 | 2026-03-28 | [[2026-03-28-yt-kOAGu-RHzxU]] | Maximizing vs optimizing - optimization becomes superstition and fragility | |
 | 2026-03-28 | [[2026-03-28-yt-HRY5evNQ64w]] | Stop feeling behind - bootstrapped vs funded; financial vs technical/leadership debt | |
 | 2026-03-28 | [[2026-03-28-yt-SZmTAvfzyKg]] | Biggest challenge is focus - self-reported first FOMO-free year; compare to future self | |
@@ -1593,7 +1603,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,563 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~908 total, including P2 (~900 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,573 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~898 total, including P2 (~890 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

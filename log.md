@@ -5330,3 +5330,30 @@ Synthesis notes: give-first-8of10-give-to-take/fallacy-of-the-third-marshmallow/
 
 Ledger 10->L2 (L2 now 1,563). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: burnout-as-measurable-output-drop-vs-emotional-discouragement; enterprise-buyers-want-ROI-math-over-narrative/contractual-data-sharing; products-vs-businesses-reframe/quadruple-launch-cadence/barbell-reinvest-active-first-forget-passive-a-year; concentrate-vs-vertical-rollup-PE/commit-to-niche-portfolio; talent-acquisition-as-highest-return-bet/Leila-learn-from-candidate-hiring-test/90-day-two-sided-fit; margin-master-variable/net-cant-exceed-gross/80pct-services-min/30-day-cash=COGS+CAC-rule-8; lead-getters-over-leads-recruit-self-generating-sellers/supply-vs-demand-constrained; email-open-rate-lead-magnet+subject-split-test/test-prioritization-by-cost-upside; reactivate-dormant-affiliates-before-B2C/launch-and-integrate-affiliate-first-referral-as-trial.
+
+## [2026-07-10] ingest | yt batch 208 - @MoreMozi P2 (2026-03-27), 10 videos
+
+- **2026-03-27** `yt-Bd6LCkwh7G8` - fix a coaching offer: "chop the unicorn's horn off"
+  key-man de-risking via skill-chunking, and add capacity or raise price on a beloved offer.
+- **2026-03-27** `yt-pWyAMdlBqPg` - "you need to focus": a clean playbook to wind
+  down / offload a secondary business (6-month notice, referral kickbacks, ~$100K passive).
+- **2026-03-27** `yt-Bu5HtseIFXs` - "you need to focus" (distinct video, same title):
+  a rare "go down-market" exception justified by ~40% M12 retention plus an education arm liquidating CAC.
+- **2026-03-27** `yt-IVesU0ID6Dw` - $12M PE firm to $90M: buy bigger businesses whose
+  founders are "dogs"; self-reported 24 acquisitions (2022-23), 19 exited.
+- **2026-03-27** `yt-_WtyKXdE5o0` - building a good product: "value per second, not
+  seconds of value"; overwhelm as the #1 cancel driver; Skool gamification/origin philosophy.
+- **2026-03-27** `yt-32IeekHdsCE` - stop chasing passive income: invest in skills;
+  "patience = what you do in the meantime"; GMAT/business-school opportunity-cost math.
+- **2026-03-27** `yt-13UIEi0Xz50` - "figuring out why is a waste of time": behaviorist
+  predict-to-control over root-cause; his three "wall" questions; therapy skepticism.
+- **2026-03-27** `yt-wKG7QT0rjCo` - regret-minimization framework: the 85-year-old-me
+  test, risk reframed as focus-loss, and go-all-in-or-don't.
+- **2026-03-27** `yt-GTuhgHIzm2I` - SEO agency scale: personal-brand content 80/20
+  split and a "highest value per second," buyer-focused framing.
+- **2026-03-27** `yt-yCU2Jv6qmfs` - ⚠️ POSITION CHANGE on happiness: from an earlier
+  "f*** happiness / just be useful" stance to a new both/and ("useful AND happy"), with moments-not-extrapolation and a "second arrow" practice.
+
+Ledger 10->L2 (L2 now 1,573). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+The two same-title "You Need To Focus" videos are DISTINCT content (not duplicates).
+Synthesis notes: PERSONA position-change: happiness old-f-happiness-just-be-useful -> new useful-AND-happy-both/and (Mar 2026)/moments-not-extrapolation/second-arrow — promote to beliefs+biography at next checkpoint; chop-the-unicorns-horn key-man-de-risk-via-skill-chunking/add-capacity-or-raise-price-on-beloved-offer; clean-business-wind-down-offload-playbook-6mo-notice-referral-kickbacks; rare-go-down-market-exception-justified-by-M12-retention+education-arm-liquidating-CAC; buy-bigger-buy-and-hold-founders-must-be-dogs/self-report-24-acquisitions-19-exited; value-per-second-not-seconds-of-value/overwhelm-is-#1-cancel-driver/Skool-product-philosophy; invest-in-skills-patience=what-to-do-in-the-meantime/opportunity-cost-math; predict-to-control-skip-the-why-behaviorism/therapy-skepticism/three-wall-questions; regret-minimization-85yo-me/risk-is-focus-loss/all-in-or-dont; personal-brand-80/20-split/highest-value-per-second.
