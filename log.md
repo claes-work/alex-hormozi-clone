@@ -4933,3 +4933,26 @@ Synthesis notes: starting-point-vs-rate-of-progress/intelligence-as-learning-rat
 Ledger 8->L2 (L2 now 1,438). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: twenties-narrow-volume/goal-dependent-job-vs-entrepreneurship; outcome-proof-product-pricing-loop; environment-cues/friction/task-locations/sunscreen; show-dont-tell-niche-content/competitor-curiosity-outbound; culture-rules-of-reinforcement/public-praise-private-criticism; epic-story-decision-frame/repeat-attempt-evidence; post-Gym-Launch-year-off/hard-work-as-goal/Jesse-Itzler-credit; ascension-onboarding-goal-call-close/parallel-sales-recruiting/webinar-intro-LTV-test.
+
+## [2026-07-10] ingest | yt batch 192 - @MoreMozi P2 (2026-04-12 to 2026-04-13), 8 videos
+
+- **2026-04-13** `yt-J4vWBVIrvqg` - motivation as action likelihood, deprivation,
+  reference-group comparison, and achievement-versus-fulfillment boundary.
+- **2026-04-13** `yt-_LVFKdwK_f0` - college writing biography, first-gym underdog
+  reversal at age 23, and hate as a success indicator.
+- **2026-04-13** `yt-Ys1tToy2PA0` - search-versus-interruption tradeoffs and selecting
+  the channel with the smallest skill deficiency.
+- **2026-04-13** `yt-WkkBosm6mmg` - 30-day CAC payback for bootstrapped growth and
+  cash-forward offer structures.
+- **2026-04-13** `yt-po7Sa5ICKFs` - SOPs versus behavior-producing systems, dynamic
+  single-constraint priority, and permission to neglect lower priorities.
+- **2026-04-12** `yt-lD3anrCMuJY` - future-self competitor, goal-based filters, and
+  explicit relationship tradeoffs.
+- **2026-04-12** `yt-n_OEQYFuPzQ` - competence before passion, mastery monotony, and
+  choosing existing paid demand.
+- **2026-04-12** `yt-6NSu1htqWa8` - persistent channel improvement, real-estate
+  affiliates, and Rule of 100 as daily rather than total outbound.
+
+Ledger 8->L2 (L2 now 1,446). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: motivation-action-likelihood/deprivation/reference-group-rubber-band; writing-scholarship/newspaper-VP/creative-magazine/first-gym-underdog-reversal-age-23; search-vs-interruption/skill-deficiency-channel-choice; bootstrapped-30-day-CAC-payback/cash-forward; SOP-vs-behavior-system/dynamic-single-constraint; future-self-goal-filter/relationship-tradeoff; competence-before-passion/practical-paid-demand; channel-persistence/real-estate-affiliates/Rule-of-100-daily.
