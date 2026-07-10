@@ -597,12 +597,21 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-19 | [[2026-03-19-yt-y7ToMgdDcIs]] | Construction + elevator → $100M — burn-it-down (likely dup of i-4IiGGS1wE) (light) | |
 | 2026-03-20 | [[2026-03-20-yt-UKd3hu6IRbY]] | Home services → $100M — sell membership on the back end (light) | |
 | 2026-03-26 | [[2026-03-26-yt-XWHqOYR0IHM]] | Champions see their past as origin story — victims-vs-champions reframe | |
+| 2026-03-24 | [[2026-03-24-yt-KG5QJ3FuwA8]] | Home services →$3M - pick one avatar by LTV:CAC; say no for now, not forever | |
 | 2026-03-25 | [[2026-03-25-yt-rbxrRh1t8b0]] | Retail over-expansion - it's a talent gap not saturation; hire for want not pain | |
 | 2026-03-25 | [[2026-03-25-yt-8rx0OQy1a2s]] | Coaching →$50M - talent debt; your best talent is always in the future | |
 | 2026-03-25 | [[2026-03-25-yt-pkK7NoFRpas]] | E-com when to exit - how-will-my-daily-behavior-change heuristic | |
 | 2026-03-25 | [[2026-03-25-yt-Ygiy3R_mL24]] | Real estate broker →$50M - the swamp, trade 40 for two, poach a stud | |
 | 2026-03-25 | [[2026-03-25-yt-IglCDM-NS8g]] | "No idea what I'm doing" - don't productize/take capital; maximize units×margin | |
 | 2026-03-25 | [[2026-03-25-yt-PMO0ilv1HBQ]] | Just post more - more posts = more distribution; become an acquirable whale | |
+| 2026-03-25 | [[2026-03-25-yt-LjtftUbrD_s]] | Dave Ramsey guest - lessons from losing millions (Ramsey's failure; mixed) | |
+| 2026-03-25 | [[2026-03-25-yt-i9B3qiW90sc]] | Indoor golf scale - sell speed/comfort; "don't call it the off-season" | |
+| 2026-03-25 | [[2026-03-25-yt-36uQ-V9OgBg]] | What is confidence - a predictive metric built by repetition | |
+| 2026-03-25 | [[2026-03-25-yt-wOdbkJpUnO0]] | Work 12 hours a day - the "12 by 30" work-intensity exercise | |
+| 2026-03-25 | [[2026-03-25-yt--CHW1SDGW_c]] | Which business to go all in on - reverse from end-state, FOMO is the worst driver | |
+| 2026-03-25 | [[2026-03-25-yt-Lm_PEN6PH-M]] | How to script a VSL - five-piece structure + four-step belief-breaking formula | |
+| 2026-03-25 | [[2026-03-25-yt-Y5P2lMu4LQY]] | Stop caring what others think - filter critics by incentives + competence | |
+| 2026-03-25 | [[2026-03-25-yt-O1yxi-QILII]] | Can't scale PT business - it's a recruiting problem; treat staff as the customer | |
 | 2026-03-26 | [[2026-03-26-yt-1sifjSspZb8]] | Hire sales reps without overpaying - fix comp first, give up margin for talent | |
 | 2026-03-26 | [[2026-03-26-yt-jzc3DWIgSUg]] | Stop looking for revenge - revenge as self-opposition; accept the ideal self | |
 | 2026-03-26 | [[2026-03-26-yt-iEEJ3aVtaFs]] | Niche too small? - aspirational top-of-market anchor scoops the aspiring majority | |
@@ -1623,7 +1632,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,593 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~878 total, including P2 (~870 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,602 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~868 total, including P2 (~860 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

@@ -5409,3 +5409,28 @@ Synthesis notes: saturate-capacity-before-adding-locations/Instagram-follower-DM
 
 Ledger 10->L2 (L2 now 1,593). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: learning=new-behavior-same-conditions-corroboration/intelligence=rate-of-learning; delegation-operationalize-traits-into-behaviors/document-demonstrate-duplicate/stop-start-keep-feedback; authenticity-as-no-punishment-behavior-friendship-diagnostic; over-expansion-is-talent-gap-not-saturation/hire-for-want-not-to-escape-vacancy-pain; TALENT-DEBT-framing/your-best-talent-is-always-in-the-future — promote to hiring/scaling+beliefs at next checkpoint; exit-heuristic-how-will-my-daily-behavior-change/business-worth-nothing-the-day-it-declines; the-swamp/trade-40-for-two/sell-yourself-before-recruiting/poach-a-stud; dont-productize-or-take-capital/maximize-units-x-gross-margin/profitable-service-firms-rarely-need-capital; more-posts=more-distribution-no-frequency-penalty/become-acquirable-whale-channel.
+
+## [2026-07-10] ingest | yt batch 211 - @MoreMozi P2 (2026-03-24 to 2026-03-25), 9 videos
+
+- **2026-03-25** `yt-LjtftUbrD_s` - Dave Ramsey guest appearance (MIXED attribution):
+  Alex interviews Ramsey on the failed Ramsey debit card; the failure story is Ramsey's, nothing genuinely new from Alex.
+- **2026-03-25** `yt-i9B3qiW90sc` - indoor-golf franchise scale: sell speed and comfort
+  and a "don't call it the off-season" naming principle (labels shape behavior).
+- **2026-03-25** `yt-36uQ-V9OgBg` - "what is confidence": corroborates confidence as
+  proof built by repetition; new nuance = confidence as a predictive metric / statistical confidence interval.
+- **2026-03-25** `yt-wOdbkJpUnO0` - "work 12 hours a day": his named "12 by 30" /
+  "16 by 30" work-intensity exercise and the relentless-gear / gym-grind framing.
+- **2026-03-25** `yt--CHW1SDGW_c` - which business to go all in on: reverse from the
+  end-state, arbitrage impermanence, and FOMO as the worst decision driver.
+- **2026-03-25** `yt-Lm_PEN6PH-M` - how to script a VSL: a five-piece VSL structure
+  and a four-step belief-breaking objection formula.
+- **2026-03-25** `yt-Y5P2lMu4LQY` - stop caring what others think: a two-filter
+  feedback-discernment model (aligned incentives + domain competence); critics cast their preferences onto you.
+- **2026-03-25** `yt-O1yxi-QILII` - "why can't I scale my PT business": it's a recruiting
+  (supply-constrained) problem, not price; treat scarce employees as the customer with profit-anchored referral bounties.
+- **2026-03-24** `yt-KG5QJ3FuwA8` - home services to $3M: pick one avatar by LTV:CAC
+  and drop the other; "say no for now, not forever."
+
+Ledger 9->L2 (L2 now 1,602). youtube-index/index/footer updated. 9 of 10 captions OK;
+`yt-98Vjqwe3rwk` marked unavailable (removed). 0 retry.
+Synthesis notes: dont-call-it-off-season-naming-principle-labels-shape-behavior; confidence-as-predictive-metric-statistical-confidence-interval-built-by-repetition-corroboration; 12-by-30/16-by-30-work-intensity-exercise/relentless-gear-grind; reverse-from-end-state/arbitrage-impermanence/FOMO-worst-driver-corroboration; VSL-FIVE-PIECE-STRUCTURE+four-step-belief-breaking-objection-formula — promote to sales/marketing (VSL) at next checkpoint; two-filter-feedback-discernment-incentives+competence/critics-cast-preferences; scale-PT=recruiting-not-price/treat-scarce-employees-as-the-customer/profit-anchored-referral-bounties/supply-vs-demand-constrained; pick-one-avatar-by-LTV:CAC/say-no-for-now-not-forever.
