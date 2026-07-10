@@ -602,6 +602,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-19 | [[2026-03-19-yt-AK6Trx0PFyU]] | My Standards for Conversion Rates - benchmark table by source; raise price above 35% close; trust-platform lift (Amazon 25%) | |
 | 2026-03-19 | [[2026-03-19-yt-X5RXQNtoX8o]] | Why I Like Decentralization - "business of businesses / team of teams"; independent P&L leaders; talent-aggregate math | |
 | 2026-03-19 | [[2026-03-19-yt-PIbBM2xJ464]] | How to get your first customer - rule of 100; "open to goal"; output = volume × leverage | |
+| 2026-03-19 | [[2026-03-19-yt-3UZ-0Er9Cns]] | Hard work is the goal - who-you-become is the only output; capacity to work is growable; empty the tank (RPE 8-10) | |
+| 2026-03-19 | [[2026-03-19-yt-j4TYzCt-cwE]] | The Overnight Success - the failing years go unseen; "this will be the story I tell"; fight like the second mouse | |
+| 2026-03-19 | [[2026-03-19-yt-AnYpgeJxeSY]] | When Should You Quit a Business? - push vs pivot; won't quit unless new info; leading indicators; work without seeing results | |
+| 2026-03-19 | [[2026-03-19-yt-6aH8xPiGGew]] | How did you learn how to sell? - 2013 first-gym origin story; 6-week challenge; front-end program liquidates CAC; 4,000 consults before any training | |
+| 2026-03-19 | [[2026-03-19-yt-5oLcGVFzQj4]] | My Thoughts on Legacy - reject individual legacy; education is the ultimate (humanitarian) legacy; raise kids through earned difficulty | |
+| 2026-03-19 | [[2026-03-19-yt-b0htMXlQz6Y]] | How I come up with content ideas - four time buckets (far/recent/present/manufactured); content is just real stuff; the production system | |
+| 2026-03-19 | [[2026-03-19-yt--1Z1F_JlMyE]] | Advice that has helped me the most - "Solomon" / 80-year-old-self self-coaching; patience; "decide it's not a problem"; the right question is 90% | |
+| 2026-03-19 | [[2026-03-19-yt-R1fQ1zJaaCg]] | The 3 Ways to Build a Business - copy what works / edge in one lever / edge overcomes a deficit; product beats distribution | |
+| 2026-03-19 | [[2026-03-19-yt-deDQtXyTMeo]] | Grow business without sacrificing family - regret is imaginary; "want less or trade more"; the who game; keep active active, passive passive | |
+| 2026-03-19 | [[2026-03-19-yt--54qGpM3q0M]] | Helping an Online Coach Get to $1M/Month - education recurring-revenue; "sell the inputs to the machine"; Gym Launch as media; messenger = 80-90% of message | |
 | 2026-03-20 | [[2026-03-20-yt-UKd3hu6IRbY]] | Home services → $100M — sell membership on the back end (light) | |
 | 2026-03-26 | [[2026-03-26-yt-XWHqOYR0IHM]] | Champions see their past as origin story — victims-vs-champions reframe | |
 | 2026-03-20 | [[2026-03-20-yt--nSr93KK7rQ]] | Most problems solved by advertising - recruiting is advertising too | |
@@ -1702,7 +1712,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,672 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,682 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
