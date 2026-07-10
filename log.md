@@ -5589,3 +5589,29 @@ Synthesis notes: hardship-is-the-price-of-character (nothing new); genetic-happi
 
 Ledger 10->L2 (L2 now 1,652). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: ignore-averages-play-to-win/physics-is-the-only-constraint/business-as-black-box-value-transformation â€” business/mindset candidate; BIO-self-report-identical-7-day-routine/model-the-climb-not-the-summit; not-scalable=working-but-hard-wants-easy/price-hard-decisions-against-enterprise-value â€” diagnostics candidate; two-question-hiring-filter-makes-money-costs-culture/keep-dating-candidate-volume; Eisenhower-matrix-sequencing-fix-present-then-reinvest-into-existential-constraint â€” diagnostics candidate; PAYMENT-PLAN-vs-MEMBERSHIP-consumable-vs-one-time/light-touch-alumni-continuity â€” offers candidate; 14-day-A-player-razor/fire-the-sixes-so-eights-become-nines â€” hiring candidate; scale-high-margin-media-arm/advertising-is-also-the-delivery-attention-flywheel; holding-company-as-one-focused-business-reframe (re-cut); BURNOUT-as-decayed-reward-theory/what-universe-would-this-be-normal/gym-headset-stage-calm-origin â€” mindset+bio candidate.
+
+## [2026-07-10] ingest | yt batch 217 - @MoreMozi P2 (2026-03-20 to 2026-03-21), 10 videos
+
+- **2026-03-21** `yt--Po601rGCNI` - "why is my business so hard to run": a car-dealership
+  owner's six problems are really one hiring problem; a "find your salary in 90 days" first finance-hire gambit.
+- **2026-03-20** `yt--nSr93KK7rQ` - "most problems can be solved with advertising":
+  recruiting is advertising too — find top talent the way you find customers (demand-constrained lens).
+- **2026-03-20** `yt-SRRzPC7me9w` - $51M e-com marketing: a quiz funnel plus a
+  100%-of-front-end-profit affiliate model, monetizing on the back-end sequences.
+- **2026-03-20** `yt-glGp8MGKf3Q` - marketing a high-ticket service: strip the jargon and
+  speak simply, favor DTC ads; the "you live your life in a way I would not prefer" criticism-handling reframe.
+- **2026-03-20** `yt-ZnO69WZ-pZk` - fixing service-business pricing: de-commoditize the
+  service; "good is the absence of hard" (quality as friction removal).
+- **2026-03-20** `yt-9rmlwfBhsNA` - does a young founder need a partner: a 5% stake isn't a
+  partnership; a partner-must-bring checklist (money / time / skill / network); learn over earn; business before friendship.
+- **2026-03-20** `yt-E4WAXGFkc30` - local fast-food chain: nail the single location before
+  a second store; a brick-and-mortar expansion litmus test and store-manager OTE benchmarks.
+- **2026-03-20** `yt-eCKCHW-zSlA` - "how do ads work": ~1-2% organic reach vs ads reaching
+  the full aware audience; a 35-ads/week content math; ManyChat DMs beating link-in-bio for conversion.
+- **2026-03-20** `yt-75EMOyB1DKg` - "the offer is the most important part": a "textable
+  offer" razor, "delete any bonus you must explain," single-issue-buyer framing, and a money-losing book-donation funnel case.
+- **2026-03-20** `yt-Q5ZGqm9zG5o` - "if you're an e-com brand, steal this": a customer-only
+  Skool community as the media centerpiece — driving repurchases, triple-duty UGC, and a product-feedback loop.
+
+Ledger 10->L2 (L2 now 1,662). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: six-problems-are-one-hiring-problem/find-your-salary-in-90-days-finance-hire; RECRUITING-IS-ADVERTISING-find-talent-like-customers â€” acquisition-channels/company-culture candidate; quiz-funnel/give-affiliates-100pct-of-front-end-profit-monetize-back-end â€” acquisition-channels candidate; strip-jargon-speak-simply-DTC-ads/you-live-your-life-in-a-way-I-wouldnt-prefer-criticism-reframe; de-commoditize/good-is-the-absence-of-hard-quality-as-friction-removal â€” offers candidate; 5pct-stake-isnt-partnership/partner-must-bring-checklist-money-time-skill-network/learn-over-earn/business-before-friendship â€” partnership candidate; nail-one-location-before-second-store/expansion-litmus/store-manager-OTE-benchmarks; 1-2pct-organic-reach/ads-reach-full-aware-audience/ManyChat-DMs-beat-link-in-bio/35-ads-per-week-math â€” paid-ads candidate; TEXTABLE-OFFER-razor/delete-any-bonus-you-must-explain/single-issue-buyer â€” offers candidate; customer-only-Skool-community-media-centerpiece/triple-duty-UGC/product-feedback-loop â€” community candidate.
