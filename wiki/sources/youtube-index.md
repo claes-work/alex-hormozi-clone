@@ -599,6 +599,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-26 | [[2026-03-26-yt-XWHqOYR0IHM]] | Champions see their past as origin story — victims-vs-champions reframe | |
 | 2026-03-21 | [[2026-03-21-yt-sw1yJanAA_U]] | More local-service leads - loss-leader lead magnet; Zillow API to rank leads | |
 | 2026-03-21 | [[2026-03-21-yt-QP-QTX7qAgs]] | College or scale? - "decidere" cut off the future; the regret-at-85 test | |
+| 2026-03-21 | [[2026-03-21-yt-0yYUQRH6zvQ]] | Industry averages are dumb - ignore averages, play to win; physics is the only constraint | |
+| 2026-03-21 | [[2026-03-21-yt-KqH_mWCPel4]] | Same day 7 days a week - self-reported routine; model the climb, not the summit | |
+| 2026-03-21 | [[2026-03-21-yt-XBaTXfafo7c]] | Unscalable or just hard? - "working but wants easy"; price hard against enterprise value | |
+| 2026-03-21 | [[2026-03-21-yt-Zm3azSPPnvU]] | B2B SaaS scale - two-question hiring filter; keep dating candidates | |
+| 2026-03-21 | [[2026-03-21-yt-xlHwqRGw_Is]] | Manufacturing scale - Eisenhower sequencing; fix present, reinvest into existential constraint | |
+| 2026-03-21 | [[2026-03-21-yt-hkHOOqHq2aM]] | Payment plan ≠ membership - consumable vs one-time; light-touch alumni continuity | |
+| 2026-03-21 | [[2026-03-21-yt-9V9VlKYIMs4]] | A players make you rich - 14-day A-player razor; fire the sixes | |
+| 2026-03-21 | [[2026-03-21-yt-rFvU8s4xSsY]] | Online service →$5M - scale the high-margin media arm; ad-is-also-the-delivery | |
+| 2026-03-21 | [[2026-03-21-yt-iErb83V-Cls]] | You need to focus - a holding company is ONE focused business | |
+| 2026-03-21 | [[2026-03-21-yt-vWzNSeyyNLw]] | Privilege of failure - burnout as decayed reward; "what universe is this normal?" | |
 | 2026-03-22 | [[2026-03-22-yt-B-LAgU5EghY]] | Why no profit? - pain clinic insurance→cash-pay; point-of-greatest-need selling | |
 | 2026-03-22 | [[2026-03-22-yt-D_E4Be4Or_E]] | Darkest days - suffering is constant, chase usefulness; self-reported $17M loss | |
 | 2026-03-22 | [[2026-03-22-yt-CwyDIz7EWT4]] | Undercharging? - just raise price; +50% reprice lifted close rates | |
@@ -1672,7 +1682,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,642 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~828 total, including P2 (~820 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,652 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~818 total, including P2 (~810 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

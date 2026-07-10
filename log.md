@@ -5563,3 +5563,29 @@ High-water mark advanced to **batch 214** in `pipeline/synthesis-state.md`; no p
 
 Ledger 10->L2 (L2 now 1,642). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: hardship-is-the-price-of-character (nothing new); genetic-happiness-set-point/core-anxiety-never-satisfied-by-achievement (reconcile-with-useful-AND-happy); RISK-ADJUSTED-20pct-change-razor/trade-novelty-for-loyalty/two-three-swings-left â€” business/mindset candidate; borrow-someone-elses-measuring-stick/hand-off-if-higher-standard/85yo-cheat-code; paid-certification-trade-school-centralized-lead-sales-control-skin-in-game; ON-TIME-ON-BUDGET-GUARANTEE-offer-20pct-bump-no-change-contingency/risk-speed-ease-vectors â€” offers candidate; STRUCTURAL-CHURN-concept/elimination-over-addition/fix-activation-point â€” retention candidate; leverage-selection-least-time-money-for-most-revenue/concentrate-and-multiply-one-channel; local-loss-leader-lead-magnet/Zillow-home-value-API-to-rank-leads; decidere-cut-off-the-future/regret-at-85-decision-test (corroboration).
+
+## [2026-07-10] ingest | yt batch 216 - @MoreMozi P2 (2026-03-21), 10 videos
+
+- **2026-03-21** `yt-0yYUQRH6zvQ` - "industry averages are dumb": benchmarking to averages
+  guarantees mediocrity; ignore averages and play to win; "physics is the only constraint"; business as a black-box value transformation.
+- **2026-03-21** `yt-KqH_mWCPel4` - "I live the same day 7 days a week": self-reported
+  identical daily routine (book-writing schedule, custom gym, condo) and "model the climb, not the summit."
+- **2026-03-21** `yt-XBaTXfafo7c` - "unscalable or just hard": "not scalable" usually means
+  "working but hard, and you want easy"; price hard decisions against the enterprise value they unlock.
+- **2026-03-21** `yt-Zm3azSPPnvU` - B2B SaaS scaling / hunter-vs-farmer sales hire: a
+  two-question hiring filter (does it make money / does it cost culture) and "keep dating" candidate volume.
+- **2026-03-21** `yt-xlHwqRGw_Is` - manufacturing scale: Eisenhower-matrix sequencing —
+  fix the present constraint first, then reinvest freed cash into the looming existential constraint.
+- **2026-03-21** `yt-hkHOOqHq2aM` - "stop calling a payment plan a membership": don't bill
+  recurringly for a one-time deliverable (consumable vs one-time distinction); build light-touch alumni continuity.
+- **2026-03-21** `yt-9V9VlKYIMs4` - "A players will make you rich": a "14-day A-player razor"
+  and "fire the sixes so the eights become nines."
+- **2026-03-21** `yt-rFvU8s4xSsY` - online service to $5M: scale the high-margin media arm,
+  not the membership; the "advertising is also the delivery" attention-flywheel framing.
+- **2026-03-21** `yt-iErb83V-Cls` - "you need to focus" (re-cut): a holding company is ONE
+  focused business, not many CEO roles (largely familiar focus material).
+- **2026-03-21** `yt-vWzNSeyyNLw` - "the privilege of failure": a burnout-as-decayed-reward
+  theory, the "what universe would this be normal in?" reframe, and the gym-headset origin of his on-stage calm.
+
+Ledger 10->L2 (L2 now 1,652). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: ignore-averages-play-to-win/physics-is-the-only-constraint/business-as-black-box-value-transformation â€” business/mindset candidate; BIO-self-report-identical-7-day-routine/model-the-climb-not-the-summit; not-scalable=working-but-hard-wants-easy/price-hard-decisions-against-enterprise-value â€” diagnostics candidate; two-question-hiring-filter-makes-money-costs-culture/keep-dating-candidate-volume; Eisenhower-matrix-sequencing-fix-present-then-reinvest-into-existential-constraint â€” diagnostics candidate; PAYMENT-PLAN-vs-MEMBERSHIP-consumable-vs-one-time/light-touch-alumni-continuity â€” offers candidate; 14-day-A-player-razor/fire-the-sixes-so-eights-become-nines â€” hiring candidate; scale-high-margin-media-arm/advertising-is-also-the-delivery-attention-flywheel; holding-company-as-one-focused-business-reframe (re-cut); BURNOUT-as-decayed-reward-theory/what-universe-would-this-be-normal/gym-headset-stage-calm-origin â€” mindset+bio candidate.
