@@ -5304,3 +5304,29 @@ Synthesis notes: push-not-pivot/add-advertising/study-the-ultimate-version-to-re
 Ledger 10->L2 (L2 now 1,553). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 The two persistent no-caption videos (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`) are now marked skipped and excluded.
 Synthesis notes: give-first-8of10-give-to-take/fallacy-of-the-third-marshmallow/content-as-scaled-generosity; M12-reverse-retention-to-onboarding-engineering/positioning-shapes-churn; post-close-5-10pct-maintenance-insurance-plan-for-recurring-LTV; profit-guarantee-for-high-hard-cost/dont-risk-the-biscuit-change-sequencing; invest-last-not-first-sequence-mistake/money-per-unit-of-time-reframe; three-tier-affiliate-integration-to-land-whales/never-count-the-other-guys-money/lead-magnet-as-CAC; maximizer-vs-optimizer/optimization-as-superstition-fragility/sleep-ring; financial-vs-technical-leadership-debt-day-one/lifestyle-is-competitors-opportunity/consumption-vs-investment-hire-timing; self-reported-first-FOMO-free-year/deca-billion-threshold/compare-to-future-self; buy-skills-over-markets/earning-capacity-over-index-funds/ignorance-debt-rising-baseline.
+
+## [2026-07-10] ingest | yt batch 207 - @MoreMozi P2 (2026-03-27 to 2026-03-28), 10 videos
+
+- **2026-03-28** `yt-ZmfrzHVMb3k` - why 99% quit: burnout reframed as a measurable
+  output-drop vs mere emotional discouragement (host framings excluded as non-Alex).
+- **2026-03-28** `yt-7kyfpkU_K4o` - what high-level buyers want: ROI math over
+  narrative, plus a contractual data-sharing tactic for enterprise deals.
+- **2026-03-28** `yt-Lr-aV4pQJvs` - coaching scale: products-vs-businesses reframe,
+  quadrupling launch cadence, and a barbell investing approach (reinvest active first).
+- **2026-03-28** `yt-qVa01yhJsGo` - $35M PE firm to $50M: concentrate vs vertical
+  roll-up and "commit to a niche" applied to portfolio strategy.
+- **2026-03-28** `yt-MvZFL2bmzV0` - which of 4 businesses to quit/scale: pick one,
+  trade short-term for long-term (corroborates existing focus material — nothing genuinely new).
+- **2026-03-28** `yt-JqX5yCllMQQ` - the best bet in business is talent acquisition;
+  A-players, Leila's learn-from-the-candidate hiring test, and a 90-day two-sided-fit metric.
+- **2026-03-28** `yt-XpqeenUIMHI` - margin as the master variable: net can't exceed
+  gross, ~80% services-margin minimum, and a 30-day cash-collected = COGS + CAC rule.
+- **2026-03-28** `yt-cjUGRcqOfds` - "stop getting leads, start getting lead getters":
+  recruit self-generating sellers/affiliates; supply- vs demand-constrained distinction.
+- **2026-03-28** `yt-2Pf_dRPAf8c` - email open rates: fix the lead magnet and
+  split-test subject lines; prioritize tests by cost/upside.
+- **2026-03-27** `yt-bmo2zYLeuhc` - "why isn't my business scaling": reactivate dormant
+  physician affiliates before chasing B2C; a launch-and-integrate affiliate model with first-referral-as-trial.
+
+Ledger 10->L2 (L2 now 1,563). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: burnout-as-measurable-output-drop-vs-emotional-discouragement; enterprise-buyers-want-ROI-math-over-narrative/contractual-data-sharing; products-vs-businesses-reframe/quadruple-launch-cadence/barbell-reinvest-active-first-forget-passive-a-year; concentrate-vs-vertical-rollup-PE/commit-to-niche-portfolio; talent-acquisition-as-highest-return-bet/Leila-learn-from-candidate-hiring-test/90-day-two-sided-fit; margin-master-variable/net-cant-exceed-gross/80pct-services-min/30-day-cash=COGS+CAC-rule-8; lead-getters-over-leads-recruit-self-generating-sellers/supply-vs-demand-constrained; email-open-rate-lead-magnet+subject-split-test/test-prioritization-by-cost-upside; reactivate-dormant-affiliates-before-B2C/launch-and-integrate-affiliate-first-referral-as-trial.
