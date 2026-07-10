@@ -5383,3 +5383,29 @@ Synthesis notes: PERSONA position-change: happiness old-f-happiness-just-be-usef
 
 Ledger 10->L2 (L2 now 1,583). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: saturate-capacity-before-adding-locations/Instagram-follower-DM-triage-lead-play; BIO+mindset-Expedition-8-germaphobe-origin/judge-character-by-quality-of-enemies/hate-comes-from-below; discernment-as-top-skill-extract-principle-discard-context/dwarven-steel/win-win-fallacy; fix-comp-before-scaling-sales/give-up-margin-for-talent/comp-cashflow-remote-sequencing; revenge-as-self-opposition/accept-ideal-self-not-current; aspirational-top-of-market-anchor-scoops-aspiring-majority-North-Face-Range-Rover; HNW-capital-raise-as-enterprise-sale/conferences-over-paid-ads-speed-to-trust; acquisition-DEAL-BOX-size-category-quality-criteria — promote to business/wealth at next checkpoint; 1on1-onboarding-ramp-makes-group-access-earned-prize/low-consumption-precedes-churn; BIO-Sam-Bakhtiar-sales-origin/age-14-direct-sales/objection-handling-scripts.
+
+## [2026-07-10] ingest | yt batch 210 - @MoreMozi P2 (2026-03-25 to 2026-03-26), 10 videos
+
+- **2026-03-26** `yt-3U_N2V5wuMY` - "what is learning": corroborates learning = a new
+  behavior under the same conditions; new nuance = intelligence as the rate of learning, boss/plateau framings.
+- **2026-03-26** `yt-XH68qeAK34M` - delegation fix: operationalize traits into
+  observable behaviors; a "document, demonstrate, duplicate" framework and a stop/start/keep feedback model.
+- **2026-03-26** `yt-gy1u3ex45RE` - $1.5M consulting to $5M: add a sticky, high-margin
+  managed-service back end (corroborates the front-end/back-end offer model — nothing structurally new).
+- **2026-03-26** `yt-CsYH0eFkGtE` - what makes a good friend: a behavioral definition of
+  authenticity as "no-punishment" behavior, used as a friendship diagnostic.
+- **2026-03-25** `yt-rbxrRh1t8b0` - retail over-expansion reframed as a talent gap, not
+  market saturation; hire because you want the person, not to escape the pain of a vacancy.
+- **2026-03-25** `yt-8rx0OQy1a2s` - online coaching to $50M: a "talent debt" framing and
+  "your best talent is always in the future" maxim.
+- **2026-03-25** `yt-pkK7NoFRpas` - e-com when to exit: the "how will my daily behavior
+  change?" exit heuristic and "a business is worth nothing the day it declines."
+- **2026-03-25** `yt-Ygiy3R_mL24` - real-estate broker to $50M: the "swamp,"
+  trade-40-for-two, sell-yourself-before-recruiting, and poach-a-stud over training juniors.
+- **2026-03-25** `yt-IglCDM-NS8g` - "I have no idea what I'm doing": don't productize or
+  take outside investment; maximize units × gross margin; profitable service firms rarely need capital.
+- **2026-03-25** `yt-PMO0ilv1HBQ` - "just post more": more posts = more distribution dots
+  with no frequency penalty; become an acquirable "whale" distribution channel for leverage.
+
+Ledger 10->L2 (L2 now 1,593). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: learning=new-behavior-same-conditions-corroboration/intelligence=rate-of-learning; delegation-operationalize-traits-into-behaviors/document-demonstrate-duplicate/stop-start-keep-feedback; authenticity-as-no-punishment-behavior-friendship-diagnostic; over-expansion-is-talent-gap-not-saturation/hire-for-want-not-to-escape-vacancy-pain; TALENT-DEBT-framing/your-best-talent-is-always-in-the-future — promote to hiring/scaling+beliefs at next checkpoint; exit-heuristic-how-will-my-daily-behavior-change/business-worth-nothing-the-day-it-declines; the-swamp/trade-40-for-two/sell-yourself-before-recruiting/poach-a-stud; dont-productize-or-take-capital/maximize-units-x-gross-margin/profitable-service-firms-rarely-need-capital; more-posts=more-distribution-no-frequency-penalty/become-acquirable-whale-channel.
