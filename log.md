@@ -5277,3 +5277,30 @@ High-water mark advanced to **batch 204** in `pipeline/synthesis-state.md`; no p
 Ledger 6->L2 (L2 now 1,543). youtube-index/index/footer updated. 6 of 8 captions OK;
 `yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again, open for retry.
 Synthesis notes: push-not-pivot/add-advertising/study-the-ultimate-version-to-replicate-and-beat; reality-glasses-reframe/100-hours-with-feedback-vs-10000-hour-rule/self-multiplying-list; sell-to-goal-diagnostic-pricing/second-appointment-supplement-affiliate-upsell; closest-to-your-goals-not-to-you-friend-filter/heroes-over-mentors; ignorance-debt-corroboration/five-smartest-people-referral-chain-research/pasta-tower/zero-billion-dollar-foundation; why-bother-whats-the-constraint-diagnostic/high-churn-normal-in-consumer-software-Spotify-Shopify.
+
+## [2026-07-10] ingest | yt batch 206 - @MoreMozi P2 (2026-03-28 to 2026-03-29), 10 videos
+
+- **2026-03-29** `yt-qLQkU9CYoNI` - spotting who will take advantage of you: give-first
+  strategy with an ~8-out-of-10 give-to-take ratio and the "fallacy of the third marshmallow."
+- **2026-03-29** `yt-febOPWm95Ls` - fixing a 12-month SaaS ad payback: month-12
+  reverse-retention analysis feeding onboarding engineering; positioning shapes churn.
+- **2026-03-29** `yt-DV1_DbnKrkE` - dental practice recurring revenue: a post-close
+  5-10% "maintenance/insurance" plan to convert one-time sales into recurring LTV.
+- **2026-03-29** `yt-1hcgUXiFYm8` - $140M roofing roll-up: a "profit guarantee" for
+  high-hard-cost businesses and the "don't risk the biscuit" change-sequencing principle.
+- **2026-03-29** `yt-6g8Z0wJEBRA` - biggest get-rich mistake is sequence (investing
+  last vs first); income reframed as "money per unit of time" over the active/passive binary.
+- **2026-03-29** `yt-EUtOqsSJok8` - home-service/railings scale via a three-tier
+  affiliate-integration structure to land whale clients; lead-magnet-as-CAC math; "never count the other guy's money."
+- **2026-03-28** `yt-kOAGu-RHzxU` - maximizing vs optimizing: over-optimization becomes
+  superstition and fragility (the sleep-ring anecdote); he frames himself as a maximizer.
+- **2026-03-28** `yt-HRY5evNQ64w` - stop feeling behind: bootstrapped-vs-funded framing,
+  financial vs technical/leadership debt every business incurs day one, hire-timing as risk.
+- **2026-03-28** `yt-SZmTAvfzyKg` - his biggest ongoing challenge is focus; self-reported
+  first career year without FOMO, a deca-billion opportunity threshold, compare-against-your-future-self.
+- **2026-03-28** `yt-Sq1HS6qw5mQ` - "start buying skills": earning capacity beats index
+  funds early; buy skills over market investing; ignorance debt and a rising-baseline autobiography.
+
+Ledger 10->L2 (L2 now 1,553). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+The two persistent no-caption videos (`yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`) are now marked skipped and excluded.
+Synthesis notes: give-first-8of10-give-to-take/fallacy-of-the-third-marshmallow/content-as-scaled-generosity; M12-reverse-retention-to-onboarding-engineering/positioning-shapes-churn; post-close-5-10pct-maintenance-insurance-plan-for-recurring-LTV; profit-guarantee-for-high-hard-cost/dont-risk-the-biscuit-change-sequencing; invest-last-not-first-sequence-mistake/money-per-unit-of-time-reframe; three-tier-affiliate-integration-to-land-whales/never-count-the-other-guys-money/lead-magnet-as-CAC; maximizer-vs-optimizer/optimization-as-superstition-fragility/sleep-ring; financial-vs-technical-leadership-debt-day-one/lifestyle-is-competitors-opportunity/consumption-vs-investment-hire-timing; self-reported-first-FOMO-free-year/deca-billion-threshold/compare-to-future-self; buy-skills-over-markets/earning-capacity-over-index-funds/ignorance-debt-rising-baseline.
