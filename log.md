@@ -5085,3 +5085,26 @@ Synthesis notes: guarantee-expected-value/price-funded-profit-refund; dated-rest
 Ledger 8->L2 (L2 now 1,486). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: 72-hour-young-men-workweek/use-what-you-have/resourcefulness; content-context-over-message/proof-first-certainty; solar-sales-talent-advantage/higher-control-vehicle/divestment-self-report; glamping-metadata-mismatch/sellable-scale-vs-founder-delivery; helicopter-broker-self-financed-contractor-handoff/profit-for-no-calls; invest-first/automate-deposits/manualize-withdrawals; time-buyback/chores-income-skill-arbitrage; bigger-goals-change-tools/solution-set.
+
+## [2026-07-10] ingest | yt batch 198 - @MoreMozi P2 (2026-04-03), 8 videos
+
+- **2026-04-03** `yt-eJV27iH3jB4` - landscaping price-to-revenue ceiling,
+  maintenance-as-protection anchor, and national talent relocation.
+- **2026-04-03** `yt-atbTdcONFnQ` - direct-primary-care paid assessment,
+  self-scheduling, and dedicated setter; explicit non-medical boundary.
+- **2026-04-03** `yt-viM1QcKAK3w` - watch sourcing decomposition, live pricing
+  rubric, and partner-speed versus owned-process durability.
+- **2026-04-03** `yt-8wnFKhmVWEA` - paid-value lead-magnet test, podcast
+  access, and concurrent outbound experiments.
+- **2026-04-03** `yt-sWYs2EQsQUg` - more-better-new at enterprise scale,
+  incumbent-sales improvement, and bottom-performer replacement.
+- **2026-04-03** `yt-hXRBeAji7zw` - English Canada localization tests with
+  licensing and financial-advice boundaries.
+- **2026-04-03** `yt-XEzNowyM_qs` - deprivation-timed upsells and scaling a
+  sticky recurring core without manufactured product complexity.
+- **2026-04-03** `yt-O9F6uMZdMcM` - culture-seeded office expansion,
+  one-variable testing, and operator ownership as a career path.
+
+Ledger 8->L2 (L2 now 1,494). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: price-to-revenue-ceiling/maintenance-protection/national-talent; medical-office-setter/paid-assessment/non-medical-boundary; founder-sourcing-decomposition/live-pricing-rubric/partner-economics; paid-value-lead-magnet/podcast-access/concurrent-tests; enterprise-more-better-new/sales-SWAT/bottom-ten-percent; Canada-localization/licensing-boundary; deprivation-timed-upsell/sticky-core-more; culture-seeded-office/one-variable-expansion/operator-career-path.
