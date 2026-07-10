@@ -5537,3 +5537,29 @@ Persona touched:
 - `system-prompt.md` — recompiled to **v30** (compiled_from_sources ~1,632 videos + 2 books).
 
 High-water mark advanced to **batch 214** in `pipeline/synthesis-state.md`; no pending checkpoints remain. Dropped pure repeats already covered by prior passes.
+
+## [2026-07-10] ingest | yt batch 215 - @MoreMozi P2 (2026-03-21 to 2026-03-22), 10 videos
+
+- **2026-03-22** `yt-cxoaZd0FS-Q` - "don't wish for strong character and an easy life":
+  hardship is the price of character; reframe problems as evidence of your path (nothing genuinely new).
+- **2026-03-22** `yt-WkdxcWOTp0c` - "why should you be happy": a largely genetic happiness
+  set-point; core anxiety drives civilization but is never satisfied by achievement (reconciles with the useful-AND-happy view).
+- **2026-03-22** `yt-pV_Sk4ipA8s` - "you can't build big if you want everything": a
+  risk-adjusted "20% change" razor, trade novelty for loyalty, "two-three swings left."
+- **2026-03-22** `yt--OOVVQvhUpU` - "focus on winning, not who's beating you": borrow a
+  better measuring stick (Elon/Bezos/Jobs); hand a task off if someone holds a higher standard; the 85-year-old-self cheat code.
+- **2026-03-22** `yt-me1dTE99QlI` - monetizing a large YouTube channel: build a paid
+  certification / trade school with centralized lead and sales control (skin in the game) rather than charging trainees for leads.
+- **2026-03-22** `yt-_9tKTLQqIcc` - his favorite home-service offer: an on-time / on-budget
+  guarantee (a ~20% price bump with a no-change contingency); risk/speed/ease value vectors.
+- **2026-03-22** `yt-QcCqu91tGh8` - fixing 33% SaaS monthly churn: the "structural churn"
+  concept, fix by elimination over addition, and focusing on the activation point.
+- **2026-03-22** `yt-co3zonXzntI` - "doing everything is keeping you stuck": a
+  leverage-selection heuristic (least time/money for most revenue); concentrate and multiply one proven channel.
+- **2026-03-21** `yt-sw1yJanAA_U` - more leads for a local service business: a loss-leader
+  lead magnet and using the Zillow home-value API to rank/qualify leads.
+- **2026-03-21** `yt-QP-QTX7qAgs` - "college or scale my business": the "decidere / cut off
+  the future" framing and the regret-at-85 decision test.
+
+Ledger 10->L2 (L2 now 1,642). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: hardship-is-the-price-of-character (nothing new); genetic-happiness-set-point/core-anxiety-never-satisfied-by-achievement (reconcile-with-useful-AND-happy); RISK-ADJUSTED-20pct-change-razor/trade-novelty-for-loyalty/two-three-swings-left â€” business/mindset candidate; borrow-someone-elses-measuring-stick/hand-off-if-higher-standard/85yo-cheat-code; paid-certification-trade-school-centralized-lead-sales-control-skin-in-game; ON-TIME-ON-BUDGET-GUARANTEE-offer-20pct-bump-no-change-contingency/risk-speed-ease-vectors â€” offers candidate; STRUCTURAL-CHURN-concept/elimination-over-addition/fix-activation-point â€” retention candidate; leverage-selection-least-time-money-for-most-revenue/concentrate-and-multiply-one-channel; local-loss-leader-lead-magnet/Zillow-home-value-API-to-rank-leads; decidere-cut-off-the-future/regret-at-85-decision-test (corroboration).

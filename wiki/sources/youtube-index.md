@@ -597,10 +597,20 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-19 | [[2026-03-19-yt-y7ToMgdDcIs]] | Construction + elevator → $100M — burn-it-down (likely dup of i-4IiGGS1wE) (light) | |
 | 2026-03-20 | [[2026-03-20-yt-UKd3hu6IRbY]] | Home services → $100M — sell membership on the back end (light) | |
 | 2026-03-26 | [[2026-03-26-yt-XWHqOYR0IHM]] | Champions see their past as origin story — victims-vs-champions reframe | |
+| 2026-03-21 | [[2026-03-21-yt-sw1yJanAA_U]] | More local-service leads - loss-leader lead magnet; Zillow API to rank leads | |
+| 2026-03-21 | [[2026-03-21-yt-QP-QTX7qAgs]] | College or scale? - "decidere" cut off the future; the regret-at-85 test | |
 | 2026-03-22 | [[2026-03-22-yt-B-LAgU5EghY]] | Why no profit? - pain clinic insurance→cash-pay; point-of-greatest-need selling | |
 | 2026-03-22 | [[2026-03-22-yt-D_E4Be4Or_E]] | Darkest days - suffering is constant, chase usefulness; self-reported $17M loss | |
 | 2026-03-22 | [[2026-03-22-yt-CwyDIz7EWT4]] | Undercharging? - just raise price; +50% reprice lifted close rates | |
 | 2026-03-22 | [[2026-03-22-yt-6tkBgXxh1qM]] | Word of mouth → marketing system - smooth seasonal volatility; PPC before Meta | |
+| 2026-03-22 | [[2026-03-22-yt-cxoaZd0FS-Q]] | Don't wish for an easy life - hardship is the price of strong character | |
+| 2026-03-22 | [[2026-03-22-yt-WkdxcWOTp0c]] | Why be happy? - genetic set-point; core anxiety is never satisfied by achievement | |
+| 2026-03-22 | [[2026-03-22-yt-pV_Sk4ipA8s]] | Can't build big wanting everything - risk-adjusted 20% change razor; trade novelty for loyalty | |
+| 2026-03-22 | [[2026-03-22-yt--OOVVQvhUpU]] | Focus on winning - borrow a better measuring stick; hand off if they're better | |
+| 2026-03-22 | [[2026-03-22-yt-me1dTE99QlI]] | Monetize a big YT channel - paid trade school + centralized lead/sales control | |
+| 2026-03-22 | [[2026-03-22-yt-_9tKTLQqIcc]] | Favorite home-service offer - on-time/on-budget guarantee (20% bump, no-change) | |
+| 2026-03-22 | [[2026-03-22-yt-QcCqu91tGh8]] | SaaS 33% churn - structural churn; elimination over addition; fix the activation point | |
+| 2026-03-22 | [[2026-03-22-yt-co3zonXzntI]] | Doing everything keeps you stuck - concentrate and multiply one proven channel | |
 | 2026-03-23 | [[2026-03-23-yt-N_lUGPDUHo8]] | Protect info products from AI? - don't; cash out and rotate vehicles (Mar 2026) | |
 | 2026-03-23 | [[2026-03-23-yt-sGiObaoef10]] | RE education →$3M - double events; break-even-CAC downsell-the-upsell membership | |
 | 2026-03-23 | [[2026-03-23-yt-jOM-BzXV39M]] | Two-sided B2B agency - weak word-of-mouth; default to cold-traffic ads | |
@@ -1662,7 +1672,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,632 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~838 total, including P2 (~830 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,642 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~828 total, including P2 (~820 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
