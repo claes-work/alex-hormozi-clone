@@ -598,6 +598,12 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-20 | [[2026-03-20-yt-UKd3hu6IRbY]] | Home services → $100M — sell membership on the back end (light) | |
 | 2026-03-26 | [[2026-03-26-yt-XWHqOYR0IHM]] | Champions see their past as origin story — victims-vs-champions reframe | |
 | 2026-03-29 | [[2026-03-29-yt-n0Rw4KT6boI]] | Home services scale - competitor roll-up integration, single-brand rebrand for premium | |
+| 2026-03-29 | [[2026-03-29-yt-rn5RExrEXwk]] | Real estate $2.5M scale - push not pivot, add advertising, study the ultimate version | |
+| 2026-03-29 | [[2026-03-29-yt-vTX9nZBseCQ]] | Working hard enough - reality-glasses reframe, 100 hours with feedback | |
+| 2026-03-29 | [[2026-03-29-yt-ROIA31QJK7o]] | Coaching ad ceiling - sell-to-goal pricing, second-appointment supplement upsell | |
+| 2026-03-29 | [[2026-03-29-yt-PbGTZ_S-CfQ]] | Which friends to cut - closest-to-your-goals heuristic, heroes over mentors | |
+| 2026-03-29 | [[2026-03-29-yt-PZQflfD4JyE]] | Ignorance debt - measure and close it via top-performer access (corroboration) | |
+| 2026-03-29 | [[2026-03-29-yt-mMibC_2oPYU]] | SaaS $5M→$20M - why-bother/constraint diagnostic, churn norms in consumer software | |
 | 2026-03-30 | [[2026-03-30-yt-FjpYz_4NIjQ]] | Marketing from scratch - vendor-first per channel, then in-house local ads | |
 | 2026-03-30 | [[2026-03-30-yt-l_PqNs145Bw]] | You need more pain - beating-my-dad-not-money; ordinary-work-honor counterpoint | |
 | 2026-03-30 | [[2026-03-30-yt-nBu2WYJHeMs]] | Marketing agency scale - stalled sales as co-founder accountability; insult vs criticism | |
@@ -1567,7 +1573,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,537 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~934 total, including P2 (~926 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,543 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~928 total, including P2 (~920 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

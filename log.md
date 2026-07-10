@@ -5258,3 +5258,22 @@ Persona touched:
 - `system-prompt.md` — recompiled to **v29** (compiled_from_sources ~1,537 videos + 2 books); body gained the culture-is-what-you-tolerate line, the AI-avatar delivery position, and the beating-my-dad motivator.
 
 High-water mark advanced to **batch 204** in `pipeline/synthesis-state.md`; no pending checkpoints remain. Dropped pure repeats already covered by prior passes.
+
+## [2026-07-10] ingest | yt batch 205 - @MoreMozi P2 (2026-03-29), 6 videos
+
+- **2026-03-29** `yt-rn5RExrEXwk` - $2.5M real-estate flipper: push don't pivot, add
+  advertising, and study the ultimate version of the business to replicate and beat it.
+- **2026-03-29** `yt-vTX9nZBseCQ` - "am I working hard enough": the "reality glasses"
+  reframe and 100 focused hours with feedback vs the 10,000-hour rule.
+- **2026-03-29** `yt-ROIA31QJK7o` - online coaching breaking an ad-creative ceiling;
+  sell-to-goal diagnostic pricing and a second-appointment supplement affiliate upsell.
+- **2026-03-29** `yt-PbGTZ_S-CfQ` - which friends to cut: a five-question / goals-based
+  filter ("closest to your goals, not closest to you") and heroes-over-mentors.
+- **2026-03-29** `yt-PZQflfD4JyE` - ignorance debt (corroborates the existing concept);
+  new nuance: the five-smartest-people referral-chain research method and the pasta-tower exercise.
+- **2026-03-29** `yt-mMibC_2oPYU` - $5M SaaS scaling to $20M; "why bother / what's the
+  constraint" diagnostic and the "high churn is normal in consumer software" heuristic.
+
+Ledger 6->L2 (L2 now 1,543). youtube-index/index/footer updated. 6 of 8 captions OK;
+`yt-JfKwIbvdKtA` and `yt-EnGrM5slXO4` errored again, open for retry.
+Synthesis notes: push-not-pivot/add-advertising/study-the-ultimate-version-to-replicate-and-beat; reality-glasses-reframe/100-hours-with-feedback-vs-10000-hour-rule/self-multiplying-list; sell-to-goal-diagnostic-pricing/second-appointment-supplement-affiliate-upsell; closest-to-your-goals-not-to-you-friend-filter/heroes-over-mentors; ignorance-debt-corroboration/five-smartest-people-referral-chain-research/pasta-tower/zero-billion-dollar-foundation; why-bother-whats-the-constraint-diagnostic/high-churn-normal-in-consumer-software-Spotify-Shopify.
