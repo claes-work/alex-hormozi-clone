@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-10 (@MoreMozi batch 194; 1,462 L2 videos ingested; system-prompt v27)_
+_Last updated: 2026-07-10 (@MoreMozi batch 194; 1,462 L2 videos ingested; system-prompt v28)_
 
 ## Sources
 
@@ -82,7 +82,7 @@ Domain hubs (full page list lives on each hub):
 - [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + 2026 Q&A operator language + a borrowed-lines (not-his-coinages) section.
 - [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**136 sources**); enriched from the topic pages + P2 synthesis (tax-free-liquidity 2021→2024 evolution, philanthropy/estate-plan belief, no-legacy, perfect-business, 4-shapes, 6-levels risk ladder, business math, moats, retention, culture, purpose/usefulness, relationships, current AI thesis) with tracked evolutions.
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Populated** (1 source): physique/build (~235 lb, signature calves), athletic background; grooming/wardrobe/setting still open (await watch-skill frame sampling).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v27** (~1,382 videos + 2 books) — full business frameworks + wealth/tax evolution + business-only active investing after liquidity + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis + April 2026 MoreMozi brand/content/focus/negotiation/operator refinements; grooming/wardrobe still pending watch-skill sampling.
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v28** (~1,462 videos + 2 books) — full business frameworks + wealth/tax evolution + business-only active investing after liquidity + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis + April 2026 MoreMozi brand/content/focus/negotiation/culture/capacity refinements; grooming/wardrobe still pending watch-skill sampling.
 
 ## Other
 

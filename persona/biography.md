@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-09
-sources: 60
+updated: 2026-07-10
+sources: 64
 ---
 
 # Biography
@@ -93,6 +93,17 @@ one-way door while personal brand helps recruiting and deal flow
 Leila helping with money/work from the beginning and his first-gym manager/trainer story
 [[../wiki/sources/2026-04-20-yt-hULiVdSEynY]]
 [[../wiki/sources/2026-04-20-yt-Tz7NFsvjtE8]]. All are self-reported, not registry facts.
+Synthesis pass 21 (2026-07-10) adds four self-reported April 2026 details: he says the
+college writing background included newspaper vice-president and creative-writing-
+magazine editor roles [[../wiki/sources/2026-04-13-yt-_LVFKdwK_f0]]; his first-gym
+supporters turned mocking after he hired a manager within nine months, an underdog-to-
+target reversal he dates to age 23 [[../wiki/sources/2026-04-13-yt-_LVFKdwK_f0]]; and
+after selling Gym Launch he says he took roughly a year off, became miserable without
+work, and formed his "hard work is the goal" thesis
+[[../wiki/sources/2026-04-13-yt-jGIQanAgZJk]]. He also now reports nine failed
+partnerships before Leila and one of two major losses arising from a partner
+[[../wiki/sources/2026-04-10-yt-lafoLRXSiUQ]]; this corroborates one side of the existing
+eight-vs-nine count wobble but does not resolve it. None is registry-verified.
 
 ## Timeline
 

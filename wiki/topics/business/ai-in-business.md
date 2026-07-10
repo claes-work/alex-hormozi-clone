@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: [business, content-strategy, marketing]
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [ai, future-of-work]
 ---
 
@@ -290,6 +290,20 @@ Hormozi's public AI stance has moved through three distinct phases in ~3.5 years
 below is **self-reported** (his own on-camera framing, not independently verified). Per
 fidelity rule 3, the 2026 thesis above is his *current* view; the earlier positions are dated
 snapshots, not his present stance.
+
+### April 2026 opportunity view: one function, one expensive problem
+
+As of April 11, 2026, Hormozi calls applied AI the clearest current path for someone
+trying to get ahead economically, but rejects an abstract "billion-dollar AI idea" as
+worthless without implementation. His tactical prescription is to choose one business
+function—marketing, sales, product, customer success, IT, recruiting, HR, finance, or
+legal—and automate one problem that currently consumes substantial headcount or training
+[[../../sources/2026-04-11-yt-kQyI5hIF7-I]].
+
+He defines the leverage asymmetry this way: technology can reduce the value of humans in
+aggregate while increasing the value of a human who can wield it. This dated opportunity
+claim complements, rather than replaces, the workflow mapping and data-first guardrails
+above.
 
 **Phase 1 — Futurist / philosophical (Dec 2022).** From
 [[../../sources/2022-12-28-yt-KYqEK_T_5M4]], published ~4 weeks after ChatGPT's public

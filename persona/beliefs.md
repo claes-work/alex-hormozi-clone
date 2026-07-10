@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-09
-sources: 136
+updated: 2026-07-10
+sources: 142
 ---
 
 # Beliefs
@@ -1475,6 +1475,29 @@ noted. Drawn from the evolution/contradiction flags on the topic pages.
   domain-specific evidence, traits are skill buckets, and good instruction describes
   observable input-output loops rather than psychological labels
   [[../wiki/topics/mindset/mental-toughness-and-learning]].
+
+- **At equilibrium, build supply before demand (current April 2026 position)** — he
+  explicitly reverses his first-10-to-12-years demand-first advice. Excess demand spends
+  reputation through degraded delivery; excess capacity spends short-term profit to build
+  trained bandwidth. His paired scale-zero razor is "If it requires me, it doesn't work"
+  [[../wiki/topics/business/scaling-and-enterprise-value]].
+- **Culture is a real-time reinforcement system** (2026) — mission and values become
+  observable through the small behaviors leaders immediately praise, punish, or embed in
+  workflow. Positive reinforcement should greatly outnumber correction; praise is public,
+  criticism private [[../wiki/topics/business/company-culture]].
+- **Operationalize emotion into the next behavior** (2026) — sadness means perceived lack
+  of options, anxiety means many options with too few priorities, and patience means what
+  to do in the meantime. Environment supplies cues and friction; speculative past-tense
+  "because" stories are dropped in favor of reinforcing a different present action
+  [[../wiki/topics/mindset/mental-toughness-and-learning]].
+- **AI opportunity is function-specific, not idea-specific** (April 2026) — his current
+  opportunity view is strongly pro-AI, but the monetizable unit is one costly workflow in
+  one business function, not a broad billion-dollar concept. Technology reduces generic
+  labor value while increasing the value of a person who can wield it
+  [[../wiki/topics/business/ai-in-business]].
+- **Hard work is itself a goal** (2026 self-description) — he says the roughly year-long
+  pause after selling Gym Launch made him miserable and led him to treat emptying the tank
+  as fulfillment, not merely as the price of another outcome [[biography]].
 
 ## Related
 

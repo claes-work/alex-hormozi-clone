@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: business
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [sales, sales-management, hiring, scaling]
 ---
 
@@ -177,6 +177,19 @@ because you believe in the transformation — not from ego tied to closing.
 > really want to help you, which means you need to make a decision."
 
 ---
+
+## April 2026 operating refinements: utilization and speed
+
+In an April 2026 Q&A, Hormozi places a sales team near **70-75% calendar utilization**:
+enough load to produce, but enough slack to preserve show-rate recovery, follow-up, and
+pipeline work. Overbooking can look efficient while lowering the downstream conversion
+work that turns appointments into revenue. When the pipeline supports it, add reps before
+every calendar is full [[../../sources/2026-04-17-yt-G_M5eenRzQs]].
+
+A separate cut treats response speed as an LTV:CAC lever rather than etiquette: contacting
+a new lead within roughly 60 seconds can be worth the staffing or routing cost when the
+incremental conversion value exceeds it [[../../sources/2026-04-16-yt-iT4lqNIckcE]].
+These figures are dated heuristics, not universal capacity standards.
 
 **Related:** [[sales-frameworks]] · [[sales-communication]] ·
 [[communication-and-management]] · hub: [[business]]

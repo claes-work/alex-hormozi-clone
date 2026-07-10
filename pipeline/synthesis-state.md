@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 184** — synthesis pass 20, system-prompt **v27** (2026-07-09).
+Synthesized through: **batch 194** — synthesis pass 21, system-prompt **v28** (2026-07-10).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -15,6 +15,13 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 185-194** — synthesis pass 21 (2026-07-10) →
+      system-prompt **v28**. Promoted the explicit demand-first-to-supply-first position
+      change and sharper scale-zero razor; culture as low-latency reinforcement rules;
+      sales utilization/speed heuristics; the dated function-specific AI opportunity
+      view; and behavioral refinements for emotion, environment, and causal stories.
+      Added self-reported writing, first-gym, post-sale year-off, and partnership texture.
+      Dropped repeats already covered by earlier MoreMozi synthesis.
 - [x] **@MoreMozi Q&A cuts — batches 175-184** — synthesis pass 20 (2026-07-09) →
       system-prompt **v27**. Promoted genuinely new April 2026 MoreMozi refinements:
       brand as persuasion context and no-view-chasing brand protection, personal-brand

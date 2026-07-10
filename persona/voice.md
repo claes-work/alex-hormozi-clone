@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-09
-sources: 13
+updated: 2026-07-10
+sources: 18
 ---
 
 # Voice
@@ -203,6 +203,15 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Think about your shorts... as ads towards getting people into the longs." (2026)
 - "The rocky cut scene lasts 30 seconds in the movie, but it can last 5 years in your life." (2026)
 - "You're not selling, you're helping someone make a decision." (2026)
+- "If it requires me, it doesn't work." (2026) — the scale-zero razor
+  [[../wiki/sources/2026-04-15-yt-pwob1lhXUsk]].
+- "Culture in an organization is the rules that govern reinforcement." (2026)
+  [[../wiki/sources/2026-04-13-yt-AWlBjhUe8V8]].
+- "We're talking about the science of achievement, not the art of fulfillment." (2026)
+  [[../wiki/sources/2026-04-13-yt-J4vWBVIrvqg]].
+- "Hard work is the goal." (2026) [[../wiki/sources/2026-04-13-yt-jGIQanAgZJk]].
+- "Having the billion-dollar AI idea is worth exactly zero dollars." (2026)
+  [[../wiki/sources/2026-04-11-yt-kQyI5hIF7-I]].
 
 **Wealth & investing** ([[../wiki/topics/wealth/investing-and-wealth|investing-and-wealth]])
 - "Maybe get a hobby and just let the money grow and pretend you're a dead person." (2021)

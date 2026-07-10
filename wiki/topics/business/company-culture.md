@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: business
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [culture, values, leadership, management]
 ---
 
@@ -122,6 +122,23 @@ mission and growth — but that host-attributed material is **context only, not 
 data**, and is excluded from every quote and claim above. Leila Hormozi does not appear
 in this transcript. See [[../../sources/2023-05-19-yt-Zyv8jhO033c]] for the full
 speaker-attribution note.
+
+## April 2026 refinement: culture as the rules of reinforcement
+
+In two MoreMozi Q&A cuts, Hormozi makes the mechanism beneath the values framework more
+explicit: culture is the set of rules that determines which small behaviors receive
+reinforcement or punishment. Leaders should notice the desired action and reinforce it
+immediately; delayed monthly bonuses have weaker behavior-shaping power than a small,
+timely consequence. He describes influential leaders as "totems of reinforcement" and
+recommends public praise, private criticism, and a much higher volume of positive than
+negative reinforcement [[../../sources/2026-04-13-yt-AWlBjhUe8V8]]
+[[../../sources/2026-04-15-yt-4Jo8bWSpLgA]].
+
+The same clips add two implementation rules. First, embed the desired behavior into the
+workflow so the employee cannot finish the process without it. Second, when a group has
+accepted a shared bonus for a shared duty, making the payout contingent on every member
+performing creates peer accountability. These are dated operating tactics, not a
+replacement for the mission/values layer above.
 
 ## Related
 

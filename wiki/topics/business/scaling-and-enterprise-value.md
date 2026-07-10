@@ -3,7 +3,7 @@ type: topic
 domain: business
 domains: [business, wealth]
 created: 2026-07-08
-updated: 2026-07-09
+updated: 2026-07-10
 sources: 21
 tags: [scaling, enterprise-value]
 ---
@@ -539,6 +539,25 @@ he describes a comp architecture built from profit-share pools plus quarterly ob
 The point is not to pay for one unstable KPI; it is to combine company-wide economics with
 individual objectives and paired push/pull metrics so leaders do not optimize one number
 while breaking the system around it [[../../sources/2026-04-27-yt-zydvAjhEKBA]].
+
+## April 2026 position change: capacity before demand at equilibrium
+
+Hormozi explicitly reverses his earlier operating advice for a business whose supply and
+demand are balanced. For roughly the first 10-12 years of his career, he says he would
+have increased demand first and forced the team to catch up. His April 2026 position is
+to increase supply first: excess demand risks reputation through degraded delivery,
+whereas excess capacity costs short-term profit but creates trained bandwidth that can
+later be filled safely [[../../sources/2026-04-15-yt-pwob1lhXUsk]].
+
+> ⚠️ CONTRADICTION: Treat demand-first as his self-described earlier position and
+> supply-first as the dated April 2026 position for an equilibrium business. This is a
+> genuine evolution, not merely two context-free tactics.
+
+The same source sharpens "scale zero": execution, management, leadership, and eventually
+vision are successive layers of control a founder may have to relinquish. His current
+razor is, "If it requires me, it doesn't work." He self-reports that hiring four leaders
+roughly 90 days in advance created enough capacity to move a book launch from February
+to August; the example is not independently verified.
 
 ## Cross-cutting throughlines
 

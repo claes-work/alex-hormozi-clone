@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: [mindset]
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [mental-toughness, learning, discipline]
 ---
 
@@ -192,6 +192,26 @@ sub-skills, the way a toddler learns by repeated visible attempts
 input-output loop instead of psychologizing: tell someone what to do with their mouth or
 body, observe the result, and make the next rep less bad
 [[../../sources/2026-04-19-yt-U32DBNVKuss]].
+
+### April 2026 refinements: options, cues, and causal stories
+
+Three April cuts extend the observable-definition system without replacing it:
+
+- **Emotion as an operating diagnosis.** Sadness is a perceived lack of options, so the
+  next action is learning; anxiety is many options with too few priorities, so list them,
+  select one, and ignore the rest; patience is deciding what to do in the meantime. Alex
+  says these definitions compressed loops that took days into minutes
+  [[../../sources/2026-04-12-yt-n9kQit9X5BI]].
+- **Environment designs cues and friction.** Remove contexts that trigger an unwanted
+  behavior; for a desired behavior, place a visible cue at an existing "watering hole"
+  and remove the small punishment that blocks compliance. His self-reported examples are
+  task-specific work locations and sunscreen dispensers that avoid oily hands
+  [[../../sources/2026-04-14-yt-LioWIx7Ra5o]].
+- **Drop the speculative "because."** He describes three stages in his own behavior
+  thinking: attribute behavior to past trauma, rewrite the story, then state the observed
+  behavior without an unknowable causal explanation and reinforce a different present
+  action [[../../sources/2026-04-10-yt-tKQvYeLedFg]]. This is a dated self-description,
+  not a clinical model.
 
 ## Passion vs. proficiency vs. pain-tolerance
 

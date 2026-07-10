@@ -5002,3 +5002,17 @@ Synthesis notes: preserve-working-integrated-sales-account-model/price-tier-chur
 Ledger 8->L2 (L2 now 1,462). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: smallest-skill-deficiency/learning-potential/top-talent-courtship; ignorance-debt/early-education-spend/complete-favor-reciprocity; silent-six-plus-one-big-bet/core-win-before-personal-brand; AI-April-2026/function-specific-leverage/technology-human-value; niche-boredom/scaled-owner-role-convergence; success-fee/method-before-platform; three-stage-trauma-to-causal-story-irrelevance; partnership-money-experience-time-energy/nine-failed-partnerships/partner-loss.
+
+## [2026-07-10] lint | synthesis pass 21 — @MoreMozi batches 185-194
+
+Promoted genuinely new material into six topic/persona areas: the explicit demand-first
+to supply-first position change at equilibrium and sharper scale-zero razor; company
+culture as low-latency rules of reinforcement; sales-team utilization and speed-to-lead
+heuristics; the dated April 2026 function-specific AI opportunity view; and operational
+emotion, environmental-cue, and causal-story refinements. Added self-reported biography
+texture for college writing roles, the first-gym underdog reversal, the post-Gym-Launch
+year off and hard-work-as-goal thesis, and the loose partnership count/loss record.
+Recompiled `persona/system-prompt.md` v27→v28 from ~1,462 videos + 2 books. Advanced the
+synthesis high-water mark through batch 194. Pure repeats—including 70/20/10 creative,
+80% B2B retention, ignorance debt, smallest-skill-deficiency hiring, competence before
+passion, and existing emotion definitions—were deliberately dropped.
