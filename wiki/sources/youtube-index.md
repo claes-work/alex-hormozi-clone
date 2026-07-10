@@ -595,6 +595,13 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-18 | [[2026-03-18-yt-06ssvoeqIo0]] | Real-estate consulting → $100M — attribution taxonomy, duplicate top reps | |
 | 2026-03-19 | [[2026-03-19-yt-hTMqnR-LFZ4]] | Online men's-health service → $100M — taboo-niche affiliate brand (light) | |
 | 2026-03-19 | [[2026-03-19-yt-y7ToMgdDcIs]] | Construction + elevator → $100M — burn-it-down (likely dup of i-4IiGGS1wE) (light) | |
+| 2026-03-19 | [[2026-03-19-yt-3I_J34wD758]] | How to use AI to grow your business - amplification not automation; the idea is the alpha; three wheels; prompt chains (ACQ AI) | |
+| 2026-03-19 | [[2026-03-19-yt-7KhFlaYv9ZU]] | Embrace uncertainty - life happens for you; decision purgatory; be conscious of what you trade | |
+| 2026-03-19 | [[2026-03-19-yt-m7UfIXtoAY4]] | If you want to win in life - trade-offs; unconscious trades are the worst; cost fixed, upside not; worst-case is a couch | |
+| 2026-03-19 | [[2026-03-19-yt-JNQTB6A_Fpc]] | How to Get More Customers - rule of 100; "volatility = insufficient volume"; 30x sales ≈ 30x advertising | |
+| 2026-03-19 | [[2026-03-19-yt-AK6Trx0PFyU]] | My Standards for Conversion Rates - benchmark table by source; raise price above 35% close; trust-platform lift (Amazon 25%) | |
+| 2026-03-19 | [[2026-03-19-yt-X5RXQNtoX8o]] | Why I Like Decentralization - "business of businesses / team of teams"; independent P&L leaders; talent-aggregate math | |
+| 2026-03-19 | [[2026-03-19-yt-PIbBM2xJ464]] | How to get your first customer - rule of 100; "open to goal"; output = volume × leverage | |
 | 2026-03-20 | [[2026-03-20-yt-UKd3hu6IRbY]] | Home services → $100M — sell membership on the back end (light) | |
 | 2026-03-26 | [[2026-03-26-yt-XWHqOYR0IHM]] | Champions see their past as origin story — victims-vs-champions reframe | |
 | 2026-03-20 | [[2026-03-20-yt--nSr93KK7rQ]] | Most problems solved by advertising - recruiting is advertising too | |
@@ -606,6 +613,9 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-20 | [[2026-03-20-yt-eCKCHW-zSlA]] | How do ads work - ~1-2% organic reach; ManyChat DMs beat link-in-bio | |
 | 2026-03-20 | [[2026-03-20-yt-75EMOyB1DKg]] | The offer is everything - "textable offer" razor; delete any bonus you must explain | |
 | 2026-03-20 | [[2026-03-20-yt-Q5ZGqm9zG5o]] | E-com steal this - a customer-only Skool community; triple-duty UGC + feedback loop | |
+| 2026-03-20 | [[2026-03-20-yt-XPxTUIALWTk]] | Helping a Life Coach Make Better Content - reframe not rebuild; frame content from the buyer's-eye view | |
+| 2026-03-20 | [[2026-03-20-yt-DOYLPw8rZDY]] | The Cost of Constant Criticism - cynicism vs optimism; "days vs decades"; one yes changes your life | |
+| 2026-03-20 | [[2026-03-20-yt-KQb-jMJjPcU]] | The Only Thing That Will Protect Your Business from AI - "brand is your moat"; give away secrets, sell implementation | |
 | 2026-03-21 | [[2026-03-21-yt-sw1yJanAA_U]] | More local-service leads - loss-leader lead magnet; Zillow API to rank leads | |
 | 2026-03-21 | [[2026-03-21-yt-QP-QTX7qAgs]] | College or scale? - "decidere" cut off the future; the regret-at-85 test | |
 | 2026-03-21 | [[2026-03-21-yt-0yYUQRH6zvQ]] | Industry averages are dumb - ignore averages, play to win; physics is the only constraint | |
@@ -1692,7 +1702,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,662 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,672 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

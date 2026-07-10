@@ -5615,3 +5615,29 @@ Synthesis notes: ignore-averages-play-to-win/physics-is-the-only-constraint/busi
 
 Ledger 10->L2 (L2 now 1,662). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: six-problems-are-one-hiring-problem/find-your-salary-in-90-days-finance-hire; RECRUITING-IS-ADVERTISING-find-talent-like-customers â€” acquisition-channels/company-culture candidate; quiz-funnel/give-affiliates-100pct-of-front-end-profit-monetize-back-end â€” acquisition-channels candidate; strip-jargon-speak-simply-DTC-ads/you-live-your-life-in-a-way-I-wouldnt-prefer-criticism-reframe; de-commoditize/good-is-the-absence-of-hard-quality-as-friction-removal â€” offers candidate; 5pct-stake-isnt-partnership/partner-must-bring-checklist-money-time-skill-network/learn-over-earn/business-before-friendship â€” partnership candidate; nail-one-location-before-second-store/expansion-litmus/store-manager-OTE-benchmarks; 1-2pct-organic-reach/ads-reach-full-aware-audience/ManyChat-DMs-beat-link-in-bio/35-ads-per-week-math â€” paid-ads candidate; TEXTABLE-OFFER-razor/delete-any-bonus-you-must-explain/single-issue-buyer â€” offers candidate; customer-only-Skool-community-media-centerpiece/triple-duty-UGC/product-feedback-loop â€” community candidate.
+
+## [2026-07-10] ingest | yt batch 218 - @MoreMozi P2 (2026-03-19 to 2026-03-20), 10 videos
+
+- **2026-03-20** `yt-XPxTUIALWTk` - "helping a life coach make better content": reframe, don't
+  rebuild — frame teaching content from the buyer's-eye view ("when you have a client like this…") to attract business owners not end-customers/victims; restates give-away-secrets and a two-tier coaching→certification funnel.
+- **2026-03-20** `yt-DOYLPw8rZDY` - "the cost of constant criticism": cynicism vs optimism —
+  "no bias" but never-investing is the fatal error; doubters are right 19/20 times but "one yes changes your life"; "days vs decades"; self-reported "first nine businesses didn't amount to anything" (⚠️ bio-check).
+- **2026-03-20** `yt-KQb-jMJjPcU` - "the only thing that will protect your business from AI":
+  "brand is your moat"; brand = curated associations; give away the secrets, sell the implementation; demonstrate a rare skill at high volume.
+- **2026-03-19** `yt-3I_J34wD758` - "how to use AI to grow your business": amplification not
+  automation; "the idea is the alpha" (AI is a remixer); the three wheels (business context / SOP repository / data sources); prompt chains (offer architect → sales page → call script → VSL); "you are rewarded for the work you've done"; long-prompt→short-output (ACQ AI training).
+- **2026-03-19** `yt-7KhFlaYv9ZU` - "embrace uncertainty": life happens for you not to you;
+  decision purgatory; be conscious of what you trade and what for.
+- **2026-03-19** `yt-m7UfIXtoAY4` - "if you want to win in life": trade-offs — you want too many
+  things at once; unconscious trades are the worst; "1% outcome needs a 1% tradeoff"; cost is fixed, upside is not; worst-case is a couch, not homelessness.
+- **2026-03-19** `yt-JNQTB6A_Fpc` - "how to get more customers": rule of 100; feast-or-famine =
+  "insufficient volume, measuring window too small"; the 10-day-advertising-compression math; "30x sales ≈ 30x advertising"; volume beats optimization ("diminishing returns are still returns").
+- **2026-03-19** `yt-AK6Trx0PFyU` - "my standards for conversion rates": benchmark table by
+  source (Meta in-person ~10%, cold webinar 2-3%/niched 5%, in-home sales ~35%, web pages 1-2%, Skool about ~4%, Amazon book page ~25%); "raise price above 35% close, fix process below"; trust-platform conversion lift + margin trade-off.
+- **2026-03-19** `yt-X5RXQNtoX8o` - "why I like decentralization": "business of businesses /
+  team of teams" as the few-hundred-million → billion unlock; independent P&L-owning leaders; self-distraction confession (pulling resources without adding infrastructure); talent-aggregate math; the "could they do it on their own?" A-player test.
+- **2026-03-19** `yt-PIbBM2xJ464` - "how to get your first customer": rule of 100; "open to
+  goal" (from $100M Leads / a 13-14-gym owner); focus on the one input that correlates with output; work definition output = volume × leverage; reps→skill virtuous cycle.
+
+Ledger 10->L2 (L2 now 1,672). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: reframe-not-rebuild/frame-content-from-buyers-eye-view-to-target-business-owners - content-strategy candidate; cynicism-vs-optimism/no-bias-but-never-invest-is-fatal/days-vs-decades/one-yes-changes-your-life - mindset candidate (+ "first nine businesses" bio-check vs biography timeline); BRAND-IS-YOUR-MOAT-in-AI-era/brand=curated-associations/give-away-secrets-sell-implementation - branding candidate; AMPLIFICATION-NOT-AUTOMATION/the-idea-is-the-alpha/THREE-WHEELS-context-SOP-data-sources/PROMPT-CHAINS-offer-architect/you-are-rewarded-for-work-youve-done/long-prompt-short-output - NEW business+content-strategy AI-leverage topic candidate (rich); embrace-uncertainty/life-happens-for-you/decision-purgatory + TRADE-OFFS-want-too-many-things/unconscious-trades-are-worst/1pct-outcome-needs-1pct-tradeoff/cost-fixed-upside-not/worst-case-is-a-couch - mindset trade-offs candidate (two videos overlap); rule-of-100 reinforced + VOLATILITY=INSUFFICIENT-VOLUME/measuring-window-too-small/30x-sales=30x-advertising/volume-beats-optimization + OPEN-TO-GOAL/output=volume-x-leverage - marketing volume topic candidate; CONVERSION-RATE-BENCHMARK-TABLE-by-source/raise-price-above-35pct-close-fix-process-below/trust-platform-lift-Amazon-25pct - sales benchmarks candidate; DECENTRALIZATION-business-of-businesses-team-of-teams/independent-P&L-leaders/talent-aggregate-math/could-they-do-it-on-their-own-A-player-test - scaling/org-design candidate.
