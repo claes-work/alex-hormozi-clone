@@ -5486,3 +5486,29 @@ Synthesis notes: cost-of-equity-to-employee-vs-to-investor-as-one-equation; brid
 
 Ledger 10->L2 (L2 now 1,622). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: break-even-CAC-downsell-the-upsell-membership/strategy-follows-owner-goal; two-sided-B2B-referral-hiding-weak-WOM-default-to-cold-ads; double-down-not-diversify/woman-in-the-red-dress-opportunity-cost-metaphor; interest-graph-over-followership-shadowban-reframe/oneof10-headline-thumbnail-research-tool; 3-CORE-ROLES-promotion-product-operations-gated-by-active-constraint — promote to business/company-culture or scaling at next checkpoint; four-attributes-of-equity-model/reverse-engineer-OTE-comp-method — comp/hiring candidate; sell-the-outcome-not-the-product (corroboration); reframe-offers-from-lead-count-to-revenue-volume (corroboration).
+
+## [2026-07-10] ingest | yt batch 214 - @MoreMozi P2 (2026-03-22 to 2026-03-23), 10 videos
+
+- **2026-03-23** `yt-FKTznrqd5mE` - "fear exists in the vague": dissolve fear by writing
+  the feared outcome in crisp detail; the $106M Money Models launch anecdote and Marcus Aurelius impermanence.
+- **2026-03-23** `yt-JfiUerVJPF8` - $25M PE firm scale: "pull the diamonds into the
+  HoldCo" talent-extraction thesis (scale via talent, not more capital); the 24-deals-in-24-months portfolio-pruning anecdote.
+- **2026-03-23** `yt-Q3b1_I2JF_Y` - "to anyone who wants to be exceptional": exceptional
+  means different; internal-vs-external conflict (pick one); "micro-rebellion against yourself" (strong voice material).
+- **2026-03-23** `yt-XfS41XCAw1Q` - RE developer $2.1M to $30M: reframe a thought-leadership
+  goal as a deal-flow problem; the "fallacy of the perfect pick" and highest-skill-overlap path heuristic.
+- **2026-03-23** `yt-Cw7B2MbjSdo` - cold-email agency $2.2M to $10M: performance pricing
+  only works if you control the money flow or have absolute tracking; a one-time message-market-fit fee restructure.
+- **2026-03-23** `yt-SWum9PUPSjE` - in-person service offer fix: market what clients
+  want and skip building a personal brand (nothing genuinely new).
+- **2026-03-22** `yt-B-LAgU5EghY` - "why am I making no profit": move a pain clinic from
+  a dying insurance model to cash-pay; point-of-greatest-need sell-timing and a discounted-assessment / card-on-file mechanic.
+- **2026-03-22** `yt-D_E4Be4Or_E` - "in your darkest days, how did you keep going":
+  suffering is constant, chase usefulness; self-reported hardship ($17M loss, a worst-year ranking, a year off).
+- **2026-03-22** `yt-CwyDIz7EWT4` - "am I undercharging": just raise the price for pure
+  profit; a +50% reprice that lifted close rates (corroborates existing pricing pages).
+- **2026-03-22** `yt-6tkBgXxh1qM` - word-of-mouth to a real marketing system: seasonal
+  "volatility" reframed as an artificial constraint; out-market to smooth demand; PPC before Meta for local high-intent.
+
+Ledger 10->L2 (L2 now 1,632). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: FEAR-EXISTS-IN-THE-VAGUE-write-feared-outcome-in-detail/106M-Money-Models-launch/Marcus-Aurelius-impermanence — mindset candidate; pull-the-diamonds-into-HoldCo-talent-extraction-over-capital/24-deals-in-24-months; EXCEPTIONAL=DIFFERENT/internal-vs-external-conflict-pick-one/micro-rebellion-against-yourself — mindset+voice candidate; thought-leadership-as-deal-flow/fallacy-of-the-perfect-pick/highest-skill-overlap-path; performance-pricing-needs-money-flow-control-or-absolute-tracking/one-time-message-market-fit-fee — pricing candidate; point-of-greatest-need-sell-timing/discounted-assessment-card-on-file; BIO-darkest-days-self-report-17M-loss-worst-year-year-off/suffering-constant-chase-usefulness — biography candidate; +50pct-reprice-lifts-close-rates (corroboration); seasonal-volatility-as-artificial-constraint-out-market-to-smooth/PPC-before-Meta-local.
