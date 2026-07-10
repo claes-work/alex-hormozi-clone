@@ -601,6 +601,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-31 | [[2026-03-31-yt-SLA-q8HdZTE]] | Offers - value equation recap and PR niche specialization example | |
 | 2026-03-31 | [[2026-03-31-yt-I3gI4nSeG7k]] | Cannabis agency - fix price or delivery leverage before hiring | |
 | 2026-03-31 | [[2026-03-31-yt-4oRS9Xebea4]] | Apparel brand - economic engine funds measurable character IP | |
+| 2026-03-31 | [[2026-03-31-yt-zqtXaC7ghLs]] | Life - preferred-day happiness, suffering signal, and self-reported 2025 strain | |
+| 2026-03-31 | [[2026-03-31-yt-gX47g_SOWDg]] | Communication - desired behavior, memorability, and reinforcement-built influence | |
+| 2026-03-31 | [[2026-03-31-yt-gz2BXVuvv-o]] | Distress - play out catastrophes and reduce imagined public stakes | |
+| 2026-03-31 | [[2026-03-31-yt-S6L_ddZ10gU]] | Marketing - add flows and prove in-house before considering cancellation | |
+| 2026-03-31 | [[2026-03-31-yt-ImmjcYPB5VQ]] | First gym - prolonged montage, self-reported rent details, uncertainty as value | |
+| 2026-03-31 | [[2026-03-31-yt-GW-r71Xz3js]] | Menswear - comparable maximum and brand before category expansion | |
+| 2026-03-31 | [[2026-03-31-yt-LyUkBgQ4NnE]] | Paid ads - in-house transition consulting and negative qualification | |
+| 2026-03-31 | [[2026-03-31-yt-gcH_31e0wZQ]] | Content agency - expertise over age, local capture with central editing | |
 | 2026-04-01 | [[2026-04-01-yt-tM1JN4stPGQ]] | Niche agency - customer rollup path and education-vs-implementation boundary | |
 | 2026-04-01 | [[2026-04-01-yt-RRHz_KGdZ7A]] | Money behavior - confront the metric and lengthen review cadence with scale | |
 | 2026-04-01 | [[2026-04-01-yt-CUDu2EE8Bwk]] | SaaS - product retention, cohort reverse engineering, and passive growth | |
@@ -1540,7 +1548,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,510 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~962 total, including P2 (~954 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,518 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~954 total, including P2 (~946 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

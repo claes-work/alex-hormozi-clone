@@ -5154,3 +5154,26 @@ Synthesis notes: VSMB-low-price-high-margin/revealed-value/strategy-prioritizati
 Ledger 8->L2 (L2 now 1,510). youtube-index/index/footer updated. Two selected rows had
 caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
 Synthesis notes: SaaS-product-retention/retained-cohort/passive-growth/say-no; leading-input-win/zero-effort-gap; status-spending/outwork-not-outspend; exact-consistency/preparation/timed-focus/start-before-mood/open-loop; evidence-backed-nonconformity/rejection-exposure; offers-value-equation/PR-specialization-corroboration; pass-through-revenue/model-before-hiring; economic-engine-funded-IP/measurable-brand-media/commerce-validation.
+
+## [2026-07-10] ingest | yt batch 201 - @MoreMozi P2 (2026-03-31), 8 videos
+
+- **2026-03-31** `yt-zqtXaC7ghLs` - reinforcement-based motivation,
+  preferred-day happiness, suffering-as-signal, and self-reported 2025 strain.
+- **2026-03-31** `yt-gX47g_SOWDg` - communication as behavior change,
+  memorable phrasing, and influence built through reinforced instructions.
+- **2026-03-31** `yt-gz2BXVuvv-o` - play-it-out catastrophizing tool,
+  reduced public stakes, and Alex/Leila temperament contrast.
+- **2026-03-31** `yt-S6L_ddZ10gU` - parallel marketing flows and proving
+  internal acquisition before considering cancellation.
+- **2026-03-31** `yt-ImmjcYPB5VQ` - self-reported first-gym rent and
+  sleeping details, prolonged montage, and uncertainty as value.
+- **2026-03-31** `yt-GW-r71Xz3js` - comparable-maximum benchmark,
+  skill-gap mapping, and brand before category proliferation.
+- **2026-03-31** `yt-LyUkBgQ4NnE` - managed-service-to-consulting
+  transition and negative qualification for lead quality.
+- **2026-03-31** `yt-gcH_31e0wZQ` - expertise over age, capital-need
+  franchise test, and local capture with centralized editing.
+
+Ledger 8->L2 (L2 now 1,518). youtube-index/index/footer updated. Two selected rows had
+caption errors and remain open for retry: `yt-JfKwIbvdKtA`, `yt-EnGrM5slXO4`.
+Synthesis notes: preferred-day/suffering-signal/2024-best-2025-local-low/eight-lawsuits-five-resolved; communication-behavior-change/memorability/reinforcement-influence; play-it-out/catastrophe/stakes-temperament; add-not-cancel/parallel-acquisition; first-gym-4972-rent-29-members/sleeping-turf/uncertainty-value; comparable-maximum/skill-gap/brand-before-category; service-to-consulting/negative-qualification; expertise-over-age/local-capture-central-edit/franchise-capital-test.
