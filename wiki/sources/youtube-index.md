@@ -610,6 +610,8 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-16 | [[2026-03-16-yt-pKEvzBiR9LI]] | Be Careful Who You Take Advice From — don't take advice from anyone whose life you don't want; own it's your fault (light) | |
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
 | 2026-03-12 | [[2026-03-12-yt-3T7k-zVKOvg]] | **How I Scaled My First Gyms** — origin (first gym ~$35k/mo, mo9 outsourced, $7M→$26M) | |
+| 2026-03-13 | [[2026-03-13-yt-9LSd0QE1w7Y]] | Advice for Hard Days — win the day; "maintaining is winning"; recalibrate your scale so small moments don't eat the season | |
+| 2026-03-14 | [[2026-03-14-yt-mz7ply2oKA4]] | How to Get Good at Sales — conviction + trust; tonality via genuine belief; testimonials; "childlike curiosity" for objections; volume of reps | |
 | 2026-03-15 | [[2026-03-15-yt-8cw62svEXt8]] | Restaurant → $100M — product is the only durable lever; product-premium = marketing | |
 | 2026-03-15 | [[2026-03-15-yt-gBJ9ijnYS7g]] | You Need to Hire Better Talent — "the best talent you have is in the future, not the past"; demonstration over assertion | |
 | 2026-03-15 | [[2026-03-15-yt-mtJd5Ub1nBE]] | Helping a Corporate Training Company Hire A-Players — the debt-choice framework; equity-for-talent; backfill yourself; the bottleneck is a missing acquisition channel | ★ |
@@ -671,6 +673,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-15 | [[2026-03-15-yt-ybQ8pK8UCCw]] | Helping a Real Estate Wholesaler Scale — revenue volatility is a sales-ops/culture problem; process above the player; training-as-IP (light) | |
 | 2026-03-15 | [[2026-03-15-yt-6Ptk3cITn30]] | Helping a Real Estate Developer Scale — subtract the low-value management line to free the constraint; multiply your best acquisition channel (4 → 40 CPA partners) (light) | |
 | 2026-03-15 | [[2026-03-15-yt-rSd0UPuj8SQ]] | Helping an E-Commerce Business Owner Make Better Content — cross-platform 21x repurposing; chunked batch production; diagnostic lead magnets (light) | |
+| 2026-03-15 | [[2026-03-15-yt-pNWl1_qEvNs]] | The Single Most Important Part of Any Media — the hook; re-record only the opening; a sub-2-second window; hook-width ordering to widen the demo | ★ |
+| 2026-03-15 | [[2026-03-15-yt-wpt-F4s13_Y]] | How True A Players Act — directive-generality is the measure of talent (senior hires need only general directives; they arrive with their own teams) | ★ |
+| 2026-03-15 | [[2026-03-15-yt-mR2olH69Zto]] | The Biggest Opportunity with the Agency Model — AI automates delivery, so the historically bad agency model becomes a ~1-2yr pricing/ops opportunity | ★ |
+| 2026-03-15 | [[2026-03-15-yt-2wNUImfcFfE]] | Helping a Dirt Bike Coach Scale — the "don't copy the moron" undercut-response doctrine ($50M lost at sale); optimize return on capital, not absolute profit | ★ |
+| 2026-03-15 | [[2026-03-15-yt-EGWIa10HP4I]] | Don't Open a New Location Until You Do This — "scale zero" (owner does zero, runs same-or-better) + a dual-surplus rule (surplus money AND time) | |
+| 2026-03-15 | [[2026-03-15-yt-ky2xQWLXKNk]] | How to Set Up Career Paths — a two-column ladder (title/perks + money); milestone-gated junior/standard/senior tiers; in-house mini-certifications | |
+| 2026-03-15 | [[2026-03-15-yt-BS422kNTSro]] | Helping a Wellness Clinic Scale — the Cunningham risk test for pivot temptation; franchising is expensive capital; fix margins before licensing | |
+| 2026-03-15 | [[2026-03-15-yt-jUWeeEvipZY]] | Never Underestimate Your Competition — assume you're always the underdog; ego/complacency lose; "only the paranoid survive" | |
 | 2026-03-17 | [[2026-03-17-yt-KT3ptxa9eeE]] | Be Too Good to Fail — make the core product too good to fail; one-big-domino + identity ("past mediocrity = the journey") | |
 | 2026-03-17 | [[2026-03-17-yt-9bXOC9nzemg]] | You've already achieved goals you said would make you happy — hedonic adaptation; joy is in the pursuit; 85-yo-self gratitude | |
 | 2026-03-17 | [[2026-03-17-yt-GNuNSi_6spM]] | Why Is It So Hard to Compound Skills? — stacked skills → outsized outcomes; luck surface area; unlimited shots over perfect aim | |
@@ -1842,7 +1852,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,812 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,822 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
