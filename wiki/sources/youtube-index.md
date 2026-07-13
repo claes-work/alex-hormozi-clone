@@ -610,6 +610,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-16 | [[2026-03-16-yt-pKEvzBiR9LI]] | Be Careful Who You Take Advice From — don't take advice from anyone whose life you don't want; own it's your fault (light) | |
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
 | 2026-03-05 | [[2026-03-05-yt-3avBSxy2kHM]] | Why I Bought the UFC Headquarters — **new HQ**: the former UFC building in Las Vegas (~36k sq ft) as an in-person HQ + media-studio complex; pivoting from remote to scale content | ★ |
+| 2026-03-05 | [[2026-03-05-yt-kJQtg5Jzr44]] | The Types of Businesses I Like to Buy — acquisition targets: high-cash-flow malleable services; the four business types he buys (rich ACQ criteria) | ★ |
+| 2026-03-05 | [[2026-03-05-yt-bsacmMTmlQY]] | How I Give Bonuses to Sales Teams — pooled team bonus: shared pot pays all only if team clears threshold; dated shift from his older cutthroat model | ★ |
+| 2026-03-05 | [[2026-03-05-yt-FzeRWhRJWqk]] | Take Responsibility — extreme ownership as the foundation; "my fault" origin from a psych essay he wrote at 19 about his mother | ★ |
+| 2026-03-05 | [[2026-03-05-yt-5brXkXO66_k]] | You Always Have Debt — debt is unavoidable (financial/management/technical); pick the kind you can repay; product wins long-term | |
+| 2026-03-05 | [[2026-03-05-yt-vNzXam6NerA]] | You Need to Understand Leverage — leverage = output/input ratio; income staircase mapped to Naval's four types (labor/media/capital/code) | |
+| 2026-03-05 | [[2026-03-05-yt-mkx1mzw1Lc8]] | Which Path Should You Take? — reframes "which path" as a false binary: be earning or learning; reverse-engineer risk from your goal | |
+| 2026-03-05 | [[2026-03-05-yt-JrvljfDXCwg]] | Think for Yourself or the World Will Think for You — high agency = reason for yourself vs pick an identity "off the shelf"; contracts with friends | |
+| 2026-03-05 | [[2026-03-05-yt-spcogiC6vwE]] | Focus on Inputs, Not Outputs — control inputs not outputs; top-1% podcaster = 21 uploads; his own 4.5yr / 200-download grind before takeoff | |
+| 2026-03-05 | [[2026-03-05-yt-gj9qhJ1GQxw]] | Balance Is a Myth — balance = mediocrity; focused imbalance wins; balance is achieved over a lifetime in seasons | |
+| 2026-03-05 | [[2026-03-05-yt-SmXzGoWLOOc]] | How to Spot Bad Friends — friend litmus test: keep future-talkers, cut past-talkers; whose opinion to weigh; environment shapes you | |
 | 2026-03-06 | [[2026-03-06-yt-2cWuvq4MoKc]] | Passive Income Is a Lie — kill the active/passive binary; measure return on time (dollars-per-hour); reinvest into your proven active engine | ★ |
 | 2026-03-06 | [[2026-03-06-yt-xaqJeQ9Uyj4]] | Why I Started Making Content — **bio**: saw social media's "monster" free impressions; started YouTube and his first book at ~the same time; PE + social media | ★ |
 | 2026-03-06 | [[2026-03-06-yt-Y2qMoxxKymE]] | The Difference Between Heroes and Villains — heroes *use* their pain, villains are used by it; the "and that's okay" reframe; document your struggle | |
@@ -1982,7 +1992,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,952 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,962 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
