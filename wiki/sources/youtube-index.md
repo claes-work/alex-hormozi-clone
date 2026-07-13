@@ -597,6 +597,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-17 | [[2026-03-17-yt-GNuNSi_6spM]] | Why Is It So Hard to Compound Skills? — stacked skills → outsized outcomes; luck surface area; unlimited shots over perfect aim | |
 | 2026-03-17 | [[2026-03-17-yt-nQW_mnwSxek]] | How to Start Your First Business — 4 steps; warm-outreach first customer; "10 by 10" free hours; learn→earn; 20%-every-5 pricing | |
 | 2026-03-17 | [[2026-03-17-yt-RIu70eMkCrA]] | What is self-love? — holding yourself to a higher standard than anyone else; rejects self-acceptance; 85-yo ideal-self discrepancy | |
+| 2026-03-17 | [[2026-03-17-yt-VbqlXAKXUpg]] | How I Deal with Stress and Missed Expectations — upset = unmet expectation; frame of the veteran; lifespan-time reframe; zoom out | |
+| 2026-03-17 | [[2026-03-17-yt-SMPm58Np22A]] | Should Business Come Before Marriage? — confirms ~3yr business-first then deliberate Dec-2019 pivot; spouse shapes future behavior (Leila) | |
+| 2026-03-17 | [[2026-03-17-yt-ppggfTlI6dE]] | "What Is the Most Valuable Social Media Channel?" — YouTube + Instagram top two; IG more traffic, YouTube converts ~3-4x; TikTok→IG routing | |
+| 2026-03-17 | [[2026-03-17-yt-38Mvk2HcJFA]] | Brutally Honest Advice for Relationships — decide by "stats" not feelings; love-as-drug window; reject the soulmate fallacy; coal-furnace over fireworks | |
+| 2026-03-17 | [[2026-03-17-yt-EhznoPDhzMs]] | The Best Offer You Can Add — pull cash forward: 10% prepay-in-full; take-rate benchmarks; financing ~35% lift; layaway as the risk-free favorite | ★ |
+| 2026-03-17 | [[2026-03-17-yt-Bc0vJRru3mk]] | Helping a Consulting Firm Get More Leads — benefit-not-mechanism content; five-free-calls magnet; calculator close; 30% pricing cap | |
+| 2026-03-17 | [[2026-03-17-yt-LbzLYThyd-4]] | my thoughts on meditation... — reconsiders after monk well-being research; happiness takes work; "useful > happy" (bio: age-20 monk fork) | |
+| 2026-03-17 | [[2026-03-17-yt-QwUUJ_v9nFE]] | Advice for Anyone with 2+ Businesses — pick one and go all-in; business-switching vs task-switching cost; avatar not model | |
+| 2026-03-17 | [[2026-03-17-yt-0-yqWeT6v4E]] | Helping a Personal Trainer Get to $1M — Gym Launch on-ramp: €600 6-week onboarding, mid-program year pitch, supplements liquidate CAC | |
+| 2026-03-17 | [[2026-03-17-yt-IhF1JG08ki8]] | Just do MORE — do more of what works; "new" is the real risk on a working business; one new thing/year; third-marshmallow reaping | |
 | 2026-03-18 | [[2026-03-18-yt-06ssvoeqIo0]] | Real-estate consulting → $100M — attribution taxonomy, duplicate top reps | |
 | 2026-03-18 | [[2026-03-18-yt-VJGLdW4Oz_I]] | Every Business Is Hard — CFO-advisory ($2.9M→$20M): fix the supply constraint before marketing; data-first then AI; hard stays hard | |
 | 2026-03-18 | [[2026-03-18-yt-8AlZQHgPlVE]] | Helping an SEO Agency Get to $14M — sales-velocity × LTV ceiling; 80% service-margin rule; nearshore vs become AI-native | |
@@ -1742,7 +1752,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,712 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,722 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
