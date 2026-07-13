@@ -2,8 +2,8 @@
 type: topic
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-09
-sources: 5
+updated: 2026-07-13
+sources: 11
 ---
 
 # Money Model
@@ -227,6 +227,96 @@ can give them what they need," but the tactical novelty is channel-specific: for
 in-person venue, the LTV expansion should happen in person while the customer is still in
 the experience, not only through email follow-up [[../../sources/2026-07-04-yt--fzHdm7LGlk]].
 
+## Pulling cash forward — the cash-acceleration playbook (2026)
+
+Where the 2020 "cash flow quadrant" seed (above) first paired a prepay discount with financing,
+a cluster of March 2026 MoreMozi clips upgrade this into a **current, detailed playbook for
+pulling cash forward** — collecting revenue sooner so it can be redeployed into acquisition. This
+is the operational expression of the book's "$100M Money Model eliminates cash as a bottleneck"
+thesis, now with benchmarks and named mechanics.
+
+### Prepayment / prepay-in-full (2026-03-17)
+
+In [[../../sources/2026-03-17-yt-EhznoPDhzMs|The Best Offer You Can Add to Your Business]]
+(2026-03-17) Hormozi lays out his prepayment toolkit. Core logic: a prepaid year cannot churn
+("No one can churn if you prepay") and hands you all the cash today to redeploy into acquiring
+more customers.
+
+- **The 10% time-value discount.** As of March 2026 he argues everyone should offer *at least* a
+  10% discount for payment in full today, because money today is worth ~10% more than the same
+  money a year out (you could park it in the stock market for a comparable return) — so ~10% is the
+  *most* he is willing to give up to pull cash forward. Verbatim: "Everybody here should at least
+  give a 10% discount for getting paid in full today… that same value of that money in a year will
+  be worth 10% more at minimum." (This sharpens the 2020 seed's "~10% off to prepay," now framed
+  explicitly as time-value-of-money and extended to "paid in full.")
+- **Prepay take-rate benchmarks.** A plain "buy 10 get 2" prepay deal (pay for 10 months, get 2
+  free) typically converts ~15–20%; pairing a moderate discount with one or more ancillary
+  sweeteners lifts that to ~30–40% — "a monster difference" in cash forward (paraphrase).
+- **Three sweetener levers:** deliver *faster* (skip the line), make it *less risky* (add or
+  double the guarantee), or make it *easier* (dedicated concierge vs. group).
+- **Financing as a ~35% sales lift.** Good third-party financing can drive roughly a 35% increase
+  in overall sales (a figure he attributes to senior contacts at a financing firm) because it
+  converts buyers who otherwise couldn't afford it, while still delivering cash now — a "double
+  whammy." Caveat: "Financing will not save your business. If your food sucks at your restaurant,
+  financing it will just get more people to find out that the food sucks faster."
+- **Split-payment compression.** Failing a full prepay: split half-now / half-in-30-days and keep
+  asking for additional payments to compress the schedule, aligning payment dates to when the
+  customer is most cash-flush (payday for wage-earners, deposit-heavy days for businesses);
+  payments need not track delivery.
+- **⭐ Layaway — his single favorite (risk-free).** A method he dates to the 1930s Depression: the
+  customer pays first and receives the product only once fully paid. Benefits: customers
+  self-incentivize to pay off fast (faster pay = faster delivery), collections get easier (they've
+  committed and received nothing yet), it builds anticipation, and — the biggest — "you risk
+  nothing. They pay before you deliver anything." This is the purest form of pulling cash forward:
+  cash precedes any delivery risk.
+
+### E-commerce working capital (2026-03-17)
+
+In [[../../sources/2026-03-17-yt-HhDkTYspuxs|Helping an E-Com Company Doing $1M/Year Solve Their
+Supply Chain]] (2026-03-17) Hormozi applies the same cash-forward logic to an inventory-constrained
+brand, where "the issue is obviously cash flow":
+
+- **Renegotiate supplier terms first.** His first move for a cash-constrained inventory business is
+  to push supplier payment terms from net-0 toward net 30 / 60 / 90 — extended terms pull cash
+  forward and fund growth. He cites a company that hard-negotiated "net zero to net 90" and then
+  grew from ~$2M/year to ~$5M/month in 18 months (flagged "not a promise or guarantee, just
+  saying").
+- **Stack demand-side cash-forward levers:** run a **sold-out / scarcity** play to build pent-up
+  demand and take **pre-orders** — both pull cash forward without adding capacity.
+- **Manufacturing as defensibility.** For a brand that wants to be big, owning the manufacturing of
+  something novel/differentiated is "probably a good idea"; a proprietary machine is the "core
+  defensibility." A smart machine builder **prices off value, not cost** — "I replace your entire
+  workforce that cost you 2 million for 400 grand, it's a steal. And if it just happens to cost me
+  20 grand to build, more for everybody" — so a buyer should inspect a supposedly proprietary
+  machine to learn the real cost delta before scaling.
+
+### On-time, on-budget guarantee (2026-03-22)
+
+In [[../../sources/2026-03-22-yt-_9tKTLQqIcc|My Favorite Offer for Home Service Businesses]]
+(2026-03-22) Hormozi gives his favorite offer for commoditized industries: **raise price ~20%, then
+guarantee delivery by a set date and under a set number — or refund the 20% margin.** Verbatim:
+"When you pay this, you know that it will be done by this time and it will be done under this number,
+period. And if it's not, I'll give you my profit — which I run 20% margins — I'll give you 20%
+back." He attaches a **"no-change contingency"**: the guarantee holds only if the customer doesn't
+change scope — "which of course they're going to change their mind" — voiding the guarantee while
+still winning the bid; downside is capped (in the rare no-change overrun you refund the 20% raise
+and keep original margin). He frames the guarantee as one of **three value vectors a commoditized
+business can win on: risk, speed, and ease** (paraphrase).
+
+### Payment plan ≠ membership (2026-03-21)
+
+In [[../../sources/2026-03-21-yt-hkHOOqHq2aM|Stop Calling a Payment Plan a Membership]] (2026-03-21)
+Hormozi draws a naming distinction that sharpens the [[continuity-offers|Continuity Offers]] pillar:
+continuity should bill for **consumable** things (used monthly) — not for a **one-time
+deliverable**, because "billing on a recurring basis for something that is a one-time deliverable…
+is fundamentally calling a payment plan a membership," which produces false churn anxiety. His fix:
+a **light-touch back-end alumni network** (community access plus two or three in-person meetups a
+year) priced at roughly a third of the core program — a "downsell the upsell" into a cheap,
+high-margin alumni tier — rather than raising front-end prices or building a 4x-priced upsell the
+team can't deliver on. He also notes you can typically charge **3–4x more for a one-time expense
+than on a recurring basis**, which is what lets a defined front-end program liquidate acquisition
+cost ([[../../sources/2026-03-19-yt-6aH8xPiGGew|sales origin story]], 2026-03-19).
+
 ## Sources
 
 - [[../../sources/2025-08-16-100m-money-models|$100M Money Models]] (2025) — the entire framework
@@ -236,3 +326,8 @@ the experience, not only through email follow-up [[../../sources/2026-07-04-yt--
 - [[../../sources/2021-05-17-yt-t9Vv7rK-4Jc|Service delivery cube]] (2021-05-17) — six-dimensional service packaging / hidden-value exercise.
 - [[../../sources/2021-10-08-yt-3P1XjUvo1b4|Starbucks recurring sales]] (2021-10-08) — retention/continuity via customer surplus (~1–2% churn)
 - [[../../sources/2026-07-04-yt--fzHdm7LGlk|In-person LTV sales motion]] (2026-07-04) — local venue front-end preserved, backend LTV expanded at check-in/check-out.
+- [[../../sources/2026-03-17-yt-EhznoPDhzMs|The Best Offer You Can Add to Your Business]] (2026-03-17) — prepayment playbook: 10% time-value discount, prepay take-rate benchmarks, three sweetener levers, ~35% financing lift, layaway.
+- [[../../sources/2026-03-17-yt-HhDkTYspuxs|E-Com Supply Chain / working capital]] (2026-03-17) — supplier-terms renegotiation (net-0→net-90), sold-out/pre-orders, machine "priced off value" / manufacturing-as-defensibility.
+- [[../../sources/2026-03-22-yt-_9tKTLQqIcc|My Favorite Offer for Home Service Businesses]] (2026-03-22) — on-time/on-budget guarantee (20% bump + no-change contingency); risk/speed/ease value vectors.
+- [[../../sources/2026-03-21-yt-hkHOOqHq2aM|Stop Calling a Payment Plan a Membership]] (2026-03-21) — payment-plan (one-time) vs membership (consumable); light-touch alumni continuity.
+- [[../../sources/2026-03-19-yt-6aH8xPiGGew|Sales origin story]] (2026-03-19) — one-time expense charges 3–4x recurring, liquidating acquisition cost.

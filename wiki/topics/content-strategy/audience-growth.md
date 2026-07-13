@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: content-strategy;marketing
-updated: 2026-07-08
+updated: 2026-07-13
 tags: [audience, content-strategy, spcl]
 ---
 
@@ -171,3 +171,76 @@ despite saying he "honestly hate[s] making YouTube videos"
 $1–2M business's ~365), roughly 1-in-10 shorts becoming a 2–3x outlier, and near-linear
 input→output ("volume negates luck"). *(Self-reported; see [[content-engine]] for the
 output-machine mechanics.)*
+
+---
+
+## Platform-evaluation rubric (March 2026)
+
+Asked which channel gives the highest ROI, Hormozi (March 2026) says he ranks platforms
+"S-tier or whatever" on **two axes: discoverability** (how much reach the platform gives)
+and **ease of generating purchase intent** (cost-to-action). On that rubric, **YouTube and
+Instagram are the two he'd bet on for monetization** for most creators
+([[../../sources/2026-03-17-yt-ppggfTlI6dE]]).
+
+- **YouTube vs. Instagram — the conversion split.** Per Skool data: **Instagram sends significantly more traffic than YouTube, but YouTube traffic converts at ~3–4x the rate**, so with attribution visible YouTube makes community owners more money despite lower volume. You don't need a large following for this to hold — "some people have like a thousand followers; you just need something."
+- **TikTok→Instagram routing hack.** TikTok is hard to monetize on-platform; route its CTA to Instagram ("DM me on IG") and it monetizes far better — "for whatever reason, people are way more likely to do commerce and transact on Instagram, especially for more expensive stuff."
+- **Podcast & email = middle-of-funnel, not discovery.** "No one's like 'I just found this new newsletter'" — these are follow-up. The realistic podcast path is to **repurpose YouTube content into podcast material** so people discover the podcast *through* the YouTube content.
+
+> "Instagram generates significantly more traffic than YouTube does, but YouTube traffic
+> converts at like three or four times the percentage."
+
+> "If I had two platforms I would bet on, it would be YouTube and Instagram, in terms of
+> monetization."
+
+*Note: this quantifies and slightly widens the earlier "YouTube best for long-form"
+positioning — YouTube still wins on conversion, but Instagram is named co-top for
+purchase-intent volume.*
+
+---
+
+## Organic-vs-ads pyramid (March 2026)
+
+For a brand that promotes itself, Hormozi (March 2026) separates the two growth levers by
+what each *does* to your audience pyramid
+([[../../sources/2026-03-18-yt-YFvoFmQnkc4]]):
+
+- **Organic grows the base.** More platforms, more consistency, higher volume, higher quality → the whole audience base gets bigger, so the *same* monetized top-slice percentage yields more dollars. This is long-term **seed-planting**.
+- **Ads skim / deepen the existing base.** Ads keep the base the same size and instead "move the line down" — reaching the full aware/warm audience and monetizing *deeper* into people you already have. Organic only ever reaches a thin ~1–2% top slice of your base at a time; ads reach the whole warm pool.
+- **Run both in parallel** on a ~10-year horizon: plant seeds with organic, skim the top with ads.
+- **~3–5x one-time lift benchmark.** Turning ads on for someone who's scaled this far purely on organic typically gives a **one-time ~3–5x lift off the organic baseline** — framed as typical, "not a promise or guarantee."
+- **"Cold traffic breaks the funnel."** A straight-to-checkout / warm-launch motion breaks when ads bring cold traffic — "you will not convert the same percentage you currently do. By a lot." Build/adjust the sales motion for cold before scaling ads (e.g. move toward book-a-call single-closer sales); ads and sales motion have to improve in tandem.
+- **Don't outsource the brand.** Attraction, conversion, and delivery are *core* to customer value creation; IT, recruiting, finance are ancillary. The brand is "arguably the most important asset you have," so keep it in-house — poach a brand manager rather than outsourcing it.
+
+> "What ads will do is that ads will keep this the same and then it'll move this line
+> down. And so you want to do both."
+
+> "The paid side is going to give you call it like a one-time three to five X off of a
+> baseline… not a promise or guarantee. Just saying like that's kind of typical if you've
+> gotten to this point off of just organic."
+
+> "As soon as you turn on ads, it's going to break… because it's totally different selling
+> to cold than it is to warm."
+
+---
+
+## Content sustainability — "reverse-engineer you" (March 2026)
+
+For creators facing burnout or an either/or channel decision, Hormozi's (March 2026) core
+content-longevity thesis is to **reverse-engineer yourself**: make content you can sustain
+because you actually like it ([[../../sources/2026-03-17-yt-_PW_QEGOw9Q]]).
+
+- **Two sustainable options:** either you genuinely *like* the content you make, or you *capture yourself doing things you already like* — "and then the rest of it is just pain tolerance."
+- **Format first, algorithm second.** Find a format you enjoy, *then* optimize the algorithm mechanics around it — "start with you and reverse backwards" — not the other way round.
+- **"We need to be reminded more than we need to be taught" — and "that goes double for your audience."** A familiar message in a slightly novel context is a service, not a disservice. Creators wrongly believe content must be as novel *for them* as it is for the audience — "it is just not true." **Dave Ramsey** has answered "I'm broke" questions for 35 years ("stop spending the money you make"); each call is the same core answer wrapped in surface novelty — and part of why he's sustained it is that he *enjoys* it.
+- **Audiences want "today's version" of a familiar thing** — Alex will rewatch reels of the same gym equipment 30–40 times; underestimating this appetite is a self-imposed burden. Visual, tangible businesses (e.g. welding) have a big content advantage over intangible ones.
+
+> "You have to reverse engineer you. So what are the things that you actually like doing?"
+
+> "We need to be reminded more than we need to be taught. And that goes double for your
+> audience."
+
+> "Find a format that you like, and then figure out all the algorithm around it to make it
+> all nice and clickable… But start with you and kind of reverse backwards."
+
+*Note: complements the existing "give yourself permission / volume" material by adding the
+enjoyment-as-sustainability and remind-vs-teach angles.*

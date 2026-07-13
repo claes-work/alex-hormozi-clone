@@ -3,8 +3,8 @@ type: topic
 domain: business
 domains: [business, wealth]
 created: 2026-07-08
-updated: 2026-07-10
-sources: 27
+updated: 2026-07-13
+sources: 35
 tags: [scaling, enterprise-value]
 ---
 
@@ -675,6 +675,142 @@ is persona data; caller figures are self-reported and unverified.
   > need dogs. So just buy bigger businesses with the right talent."
   > "Winners aren't going to come and say, 'Yep, we stayed the same for the third year in a
   > row.' Like they will die or they will win. And I'm just trying to find those people."
+
+---
+
+## 11. Mid-March 2026 refinements: change-cost discipline, capacity, margins, and model choice
+
+Eight mid-March 2026 MoreMozi cuts (live coachings plus two monologues). In the
+coachings only Alex's advice is persona data; caller figures are self-reported and
+unverified.
+
+- **The 20% cost-of-change rule (2026-03-17).** Every change to a business carries a
+  guaranteed ~20% performance dip *before* any gains accrue — a fixed cost paid
+  regardless of outcome — so Alex refuses a change for a mere ~20% potential upside; he
+  requires **50%+, ideally a doubling**, to justify the dip. He frames it as the antidote
+  to compulsive tweaking: owners who chase a fresh 20%-upside idea every week "drive
+  employees insane" and leave "persistently far below potential businesses" because
+  nothing compounds. Paired levers in the same clip: **grow share of the existing pie
+  before geographic expansion** — go from ~40-50% to 70-80% share via "monopolistic
+  levers" that "starve everyone else out" and sharply raise business value, then grow the
+  total pie, and only after truly tapping it look at new geographies — plus a
+  risk-adjusted-return frame and "**go where the fish already are**" (he dislikes growth
+  that "relies on somebody else opening their business and doing a good job"). Constraint
+  reframe: ask why the rest of the market is "allowed to breathe," then "take the oxygen
+  out of the room." [[../../sources/2026-03-17-yt-AcWxPvmyv2k]]
+  > "I get a 20% decrement... in performance whenever I change anything about the business
+  > before any kind of gains can then get accrued... my guaranteed cost of change no
+  > matter what."
+  > "For me to take a 20% dip... I need to see 50, maybe a double in the business for me to
+  > be like, okay, this is worth it."
+
+- **Capacity vs. reputation — "building capacity keeps your ethics high" (2026-03-19).** A
+  capacity-constrained business must "**either choose to sacrifice profit or
+  reputation**": reach into the bottom line to build capacity, or juice demand and let
+  metrics/reputation take the hit. For a **profitable owner who is "not in a rush" and
+  "pulling his punches,"** Alex prescribes **building capacity FIRST** (rather than "build
+  the plane as we fly") because "**building capacity will keep your ethics high**" — added
+  capacity is often cheap relative to payoff (doubling the VAs behind one site-builder
+  "will cost you 17 cents") — then scale demand bullishly once the team is tuned and
+  happy. Diagnostic in the same clip: the **"hypothetical max" = sales velocity × lifetime
+  gross profit** — multiply current sales cadence by LTV to find the ceiling the machine
+  reaches "given we changed nothing"; a business near that ceiling grows only by scaling
+  spend (here ~$30k → ~$300k/mo in ads). [[../../sources/2026-03-19-yt-A46-I4vKbkI]] (This
+  is the March articulation of what the dated **April 2026 supply-first position change**
+  above formalizes, and it shares the alternating-constraint rhythm noted in §10.)
+  > "We have to either choose to sacrifice profit or reputation."
+  > "Building capacity will keep your ethics high."
+
+- **"Hold the top line flat, triple the bottom line" (2026-03-18).** For a fast-but-chaotic
+  service business whose revenue grows while net profit stays flat, Alex rejects the
+  bigger-revenue goal and reframes it: "**do not increase top line at all and triple
+  bottom line**." His fix **sequence**: (1) **real-time gross operating margins on each
+  product line** — without that data you can't optimize; getting it lets you "drive EBITDA
+  through the roof"; (2) **improve the sales motion**; (3) **fix pricing & packaging** of
+  each service; (4) **generate sufficient cash flow**; (5) **hire the talent** you need;
+  (6) **shore up infrastructure** — in that order. He dismisses industry averages
+  ("American averages is fat, overweight, and divorced") and targets **30%+ net minimum**
+  for a service business. A tell that margin isn't being managed: leaders compensated on
+  net who still drive top line while net stays flat. [[../../sources/2026-03-18-yt-17T_5ahJOAY]]
+  > "What if you said, 'Our goal this year is to not increase top line at all and to triple
+  > bottom line?'"
+
+- **ROIC: reinvest, don't distribute — capital is rarely the real limiter (2026-03-17).**
+  For **repeatable multi-unit expansion** with proven unit economics (fixed all-in cost
+  per unit, known payback), Alex frames the build-more decision as **return on invested
+  capital**, not payroll or capital minimization. A unit costing ~$350k all-in, doing
+  ~$1.5M year-one and eventually ~$500k profit, pays back in ~12-18 months — clearly worth
+  doing — so five-to-six openings a year can be cash-flowed out of ~20-30% of reserves.
+  **Taking profit out today (distributions) "trades risk for security" and also trades
+  away upside and growth speed.** And debt is **not** actually lower-risk than using your
+  own money — it only feels that way ("they can take your [stuff]").
+  [[../../sources/2026-03-17-yt-HUsN0HMfOoA]] (Extends the talent-side ROIC / "talent debt"
+  reasoning in §6 to capital allocation.)
+  > "When you take out profit today, you trade risk for security, and you also trade
+  > upside."
+
+- **Decentralization — "business of businesses, team of teams" (2026-03-19).** The unlock
+  for scaling "**from a few hundred million to a billion a year**" is to think a **business
+  of businesses / a team of teams** (a "feather" from Buffett): one brand, many independent
+  revenue lines each with a leader **owning their own P&L** — like Amazon (AWS / logistics
+  / private label), each with its own CEO, shared culture but separate operations, because
+  "shared resources split resources." **Talent-aggregate math:** business revenue ≈ the
+  summed individual potential of the players (a $100M business ≈ ~two $25M-caliber
+  operators + ~five $10M ones + many seven-figure ones beneath). **A-player test:** "if
+  none of the people that you have could go do it on their own, then you probably don't
+  have good enough people"; leaders must be incentivized on the bottom line — "if they need
+  you to drive the revenue... you're still the driver." The founder's job is to design
+  uncapped opportunities so A-players earn more staying inside the infrastructure than
+  leaving. Software is the exception (shared services scale; imagine each feature-set as
+  its own "CEO"). [[../../sources/2026-03-19-yt-X5RXQNtoX8o]] (The org-design complement to
+  §10's "pull the diamonds into the HoldCo.")
+  > "You have to think a business of businesses. You have to think a team of teams."
+  > "If none of the people that you have could go do it on their own, then you probably
+  > don't have good enough people."
+
+- **Switch what you sell — pivot a gray model to a legitimate one (2026-03-19).** A
+  done-for-you sales-and-marketing agency selling for **biz-op** clients ("super
+  regulated," "gray," "arguably illegal, just not enforced when it's small") has acquired a
+  **real skill (marketing/sales) applied to the wrong opportunity**. Alex's reframe is to
+  **change what you sell, not how you scale**: sell **franchises** instead — legit,
+  regulated (which protects both sides), far more lucrative per sale, and carrying
+  **10-30% equity stakes in the franchisor parent** that hold real enterprise value. Ideal
+  target: a good-model franchisor who can't promote (only ~5% of franchisors reach 100
+  locations). Supporting theses: **"grow one legit thing to $100M beats growing 20 to
+  $5M"** (go "from six to six" — replace weak clients with legit ones — not six to fifty);
+  sales-rep churn should be judged **in cohorts** (hire 3, keep 1 who stays 3 years is
+  fine) and its deeper cause in a biz-op shop is **mercenaries** who "jump town as soon as
+  they get 1% more"; and a macro call that the hardcore "offers" / direct-response world
+  "is dying — CAC is going up, trust is only going down."
+  [[../../sources/2026-03-19-yt-GXj_eO381GQ]]
+  > "Dude, why don't you just sell franchises? They're legit. You'll make way more money."
+  > "It would be easier for you to grow one thing that's a really legit product or service
+  > to 100 million a year than it will be for you to try and grow 20 to five."
+
+- **An endorsement/mandate is lead gen, not revenue (2026-03-17).** A big client
+  mandate/endorsement that routes customers to you is "**lead gen, and then you have to
+  close it**" — not guaranteed revenue. For one wildfire-sprinkler firm, an insurer mandate
+  to 16,000 residential clients closes at only ~2% (its cold/paid close rate) vs. 45-60% on
+  referral — Alex's tell that they "**don't have a sales motion**." The constraint isn't
+  the opportunity; it's the **missing sales machine**: installing one could "**7x the
+  business instantly**," a strong one "10 or 20x," all without changing daily delivery. His
+  paired **avatar heuristic** for whether to chase a new customer type: ask "**what does it
+  change about my day-to-day activities?**" — if delivery barely changes, do it; if it
+  forces you to start another business, weigh it as a cost-benefit against the
+  opportunity's size. [[../../sources/2026-03-17-yt-yiNHqY8opxA]]
+  > "It's lead gen and then you have to close it."
+
+- **The three ways to build a business — product beats distribution (2026-03-19).** Three
+  ways: (1) **copy what's already working** and do it yourself — "a wildly underestimated
+  path"; (2) hold a **strong edge in one of the two levers** — acquire customers cheaper
+  *or* deliver better — in which case you don't need much edge in the other; (3) hold an
+  edge in one lever **strong enough to overcome a deficit** in the other. The asymmetry: a
+  great **product** can fix acquisition (make it so good it goes viral), but great
+  **distribution cannot fix a weak product** — **product beats distribution**.
+  [[../../sources/2026-03-19-yt-R1fQ1zJaaCg]]
+  > "By solving products so well it becomes viral... you do solve your acquisition problem
+  > vis-à-vis a better product... can you do the same thing by just having unbelievable
+  > distribution? I don't think the answer is yes."
 
 ---
 

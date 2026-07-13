@@ -526,6 +526,178 @@ strategic framing about leverage, not a claim that high income requires little e
 
 > "Start solving for the skills required to make a million or ten million dollars."
 
+## Mid-March 2026: stress-reframing toolkit, the memo system, season of no, and constraint focus
+
+**The stress / missed-expectation reframing toolkit — "playing with time and space."** In a
+March 2026 clip, Hormozi lays out his governing thesis on stress: nearly all upset is an
+**unmet expectation** — something you "demanded of the universe" that didn't happen — and the
+fastest lever is not to change reality but to change the expectation. He walks through three
+named reframes, all variations on manipulating time and space
+[[../../sources/2026-03-17-yt-VbqlXAKXUpg]]:
+
+- **The frame of the veteran** (credited to "Dr. Cashy"): imagine a bad event happening a
+  thousand times in a row, notice you'd have *habituated* by the thousandth time and treated it
+  as a mere fact of life, and choose to feel that habituated way now. His illustration: a maid
+  shrank a favorite flannel; he reasoned that if clothes *always* shrank in the wash he wouldn't
+  be upset ("that's just how dryers work"), "and then it was over." *(Distinct from the
+  "veteran vs. newbie" relentlessness frame above — same word, different mechanism: this one is
+  habituation-by-imagined-repetition, not earned experience.)*
+- **The lifespan / time reframe**: grief is an expectation that something *should* last longer.
+  When his cat Bill died at 18 months he was sad only because he'd demanded a longer life;
+  reframing to "what if cats only live six months?" converted sadness into appreciation. Extended
+  to humans: within the scope of all time no one lives long, so if you lived the way you wanted,
+  dying at 75 vs. 85 costs you "only the present."
+- **Zooming all the way out** (a favorite): visualize a loss (his example: losing $15 million)
+  from far enough out in space that Earth is invisible, conclude "this just doesn't matter," then
+  zoom back in.
+
+The shared mechanic is asking "what is the expectation I have, how is it unmet, how can I shift
+it, what if it were completely different?" The payoff is compounding: the small amount of mental
+space this creates, sustained over time, yields less reactivity and better decisions
+[[../../sources/2026-03-17-yt-VbqlXAKXUpg]].
+
+> "Something bad happens, and then you imagine that it happens a thousand times in a row after
+> that. ... if that's how I can feel about it then, then I might as well feel about it now that
+> way now."
+
+> "It's just a change in perspective. It's not a change in what it is, it's just a different
+> framework of mind."
+
+> "If you compound that ... small amount of space that you can create for yourself for an
+> extended period of time, you can make better decisions."
+
+**The memo system — his single greatest habit for growing Acquisition.com.** Every high-stakes
+decision is first written as a **memo**: "crystallized, written down documentation of a thinking
+process of how we're thinking through a higher-stakes decision." Everything at the company begins
+as a memo — content cadence, the book launch, Scale Advisory, the playbooks, ACQ.ai feature sets
+[[../../sources/2026-03-18-yt-rgHCnPWP9tc]]. The purpose is to **memorialize thinking so it can be
+disseminated org-wide**, because the hardest thing to translate as a company grows is *shared
+thinking*: when leadership sits two-to-four layers from ownership, people "go rogue" and form
+mini-cultures, and poorly rolled-out changes almost always trace to leaders failing to supply
+adequate context. Memos operationalize that context — they force everyone to slow down, weigh
+costs and benefits, and be willing to **defend the memo to other intelligent people**, which
+means anticipating naysayers and pre-solving their objections inside the document. His founder
+goal is **"one-hit-KO" memos** — every possible objection pre-answered — which he frames as a
+sales letter that also details execution and sells the team on the idea. Memos become durable
+**artifacts** new hires read first to absorb every past decision and its context; a side effect
+is that they quickly reveal which employees "aren't that smart" (if someone can't articulate why
+they'd make a decision, you shouldn't want them making decisions). He augments his own memos with
+a reusable **AI memo-prompt**: pairing a draft with the prompt, a data source, and his best-ever
+memo, he has the model reformat it and surface blind spots, weaving the ~5 good questions (of
+~20) back in. He credits **Jeff Bezos / Amazon** as the origin; the one difference is that
+Acquisition.com sends memos ahead for async comments, then handles comments live, rather than
+reading them at the start of the meeting [[../../sources/2026-03-18-yt-rgHCnPWP9tc]].
+
+> "A memo system is crystallized, written down documentation of a thinking process of how we're
+> thinking through a higher stakes decision."
+
+> "As your organization grows, one of the most difficult things to translate throughout the org
+> is shared thinking."
+
+> "I want to have one-hit-KO memos ... I have thought through every angle you could possibly
+> imagine for this not to work and I'm telling you this is why this will work."
+
+**The "season of no" — deliberate imbalance for outsized returns.** In a March 2026 clip,
+Hormozi says outsized results come from huge amounts of **imperfect action** toward *one* goal —
+"there's a time for leverage, but there's also a time for violence, which is just brute force" —
+sustained through an extended **"season of no,"** where he says no to almost everything to get an
+outsized return on the one thing. People call this "unbalanced" as an insult; he embraces it,
+because a *balanced* outcome forecloses the outsized return. More broadly, many social insults
+("you're unbalanced," "you changed") are literally *true* — they just describe the deliberate
+tradeoff you made — so you can accept the truth instead of running the "society-programmed" hurt
+response (his model: Leila hearing "skinny bitch" from a stranger and choosing to hear only
+"skinny"). He rejects the childhood-instilled frame that "balance" means being awesome at
+everything: "nothing great was ever achieved by people who try to be great at all things"
+[[../../sources/2026-03-18-yt-w78Av6yOzog]]. *(Biographical proof point, self-reported: for the
+first three years of his marriage — even after being married — he told Leila the business came
+before the marriage, reasoning most couples break up over money and the business makes money;
+they eventually flipped it to "if we're good, the business will be fine," but it took three
+years. He declines to regret the earlier priority.)* *(This clip also restates the
+optimize-vs-maximize distinction and the "you lose more life trying to optimize everything than
+living it" line already captured under the maximizer material above
+[[../../sources/2026-03-28-yt-kOAGu-RHzxU]].)*
+
+> "The season of no ... is where I have an extended [period] where I say no to almost everything.
+> And most people say that's unbalanced ... You're like, yes, that's the point. Because if I had
+> a balanced outcome, then I won't have the outsized return on this one thing."
+
+> "Nothing great was ever achieved by people who try to be great at all things."
+
+**Trying vs. moving mountains — hit the one binding constraint with disproportionate effort.**
+On the Hormozi Hotline, a Dutch practice owner asks "what AI should I implement first?" Hormozi
+reframes it as a strategy question and walks a **constraint-chain diagnostic**: keep asking
+"what's preventing you from doing more?" until you reach the real bottleneck (here: leads →
+capacity → can't hire a specialist). When one single thing constrains the business, you must hit
+it with **"an atomic bomb," not 10% effort** — "you've got to blow a hole in this wall, not just
+knock on the door." Borrowing **Leila's line "are you trying or are you moving mountains?"**, he
+treats the caller's excuse ("I tried recruiters for two years") as **low effort in disguise** —
+he doesn't believe *zero* candidates would interview at 30–40% higher pay, and prescribes
+relocation bonuses, LinkedIn/Indeed ads, and direct outreach across many attack vectors. His own
+proof: to unlock upcoming plans he ran the identical chain on himself, found the constraint was
+six missing C-suite executives, and (with Leila and Sheron) spent ~8 weeks of all their free time
+filling all six roles — and almost none of the hires knew who he was, so it wasn't a brand
+problem. He refuses to accept the excuse: competitors with bigger businesses "are not made of
+different flesh and blood — they just did different stuff," so the real variable is "how bad do
+you want it?" [[../../sources/2026-03-18-yt-XPjUSHYjUOc]]. *(This sharpens the "bigger goal
+changes the solution set" material above — that one is about choosing a bigger *goal*; this one
+is about applying disproportionate *force* to the single binding constraint
+[[../../sources/2026-04-03-yt-JLm2FmCs06Q]].)*
+
+> "If the thing that is limiting my business is this one thing, you have to hit it with an atomic
+> bomb. We can't just do like 10% effort."
+
+> "They're not made of different flesh and blood than you are. They just did different stuff. So
+> we just got to go do that stuff."
+
+**Just do MORE — and the third-marshmallow fallacy.** Adding "another layer of paint" to his
+more/better/new framework, Hormozi argues a working business is like six candies that happened to
+land sorted and stacked — statistically possible but improbable — so any *different* move is more
+likely to break it than improve it; the taller the stack (e.g. a control that won 36 straight A/B
+tests), the higher the odds a change is wrong. The **highest risk-adjusted move is more of what
+already works**; he allots himself **one new thing per year** (2026's was the book launch), and
+the bigger the company the *fewer* new things it should attempt. The real risk to a business is
+not a stupid decision (unlikely) but **putting effort into the 2nd/3rd/4th most profitable thing
+instead of the single highest-leverage constraint** — because the next "more" is a *harder*
+problem than doing something better or new, so people distract themselves with "reasonable
+problems no one will blame you for solving." Solving the true constraint often means **"giving
+time time"** — long, painful fixes (an 18-month culture rebuild feels worse at month 6) that
+shouldn't be abandoned before the first bridge is finished [[../../sources/2026-03-17-yt-IhF1JG08ki8]].
+He pairs this with the **third-marshmallow fallacy**: the marshmallow study made people assume
+delaying gratification is *always* right, but delay it indefinitely and "you work your entire life
+for nothing, and then you die" (the ant with a useless stack of crumbs). Once you've *learned* to
+delay, the harder skill is knowing **when to begin reaping** — it's okay to just make money for
+its own sake, and cash today can beat a speculative payout 5–10 years out because you gain years
+to compound it [[../../sources/2026-03-17-yt-IhF1JG08ki8]]. *(The more-beats-change core overlaps
+the May 2026 "more" material above [[../../sources/2026-05-08-yt-N5tckVyDSs4]]; the
+distinctively-new pieces here are the wrong-lever risk, "give time time," and the
+third-marshmallow / when-to-reap thesis.)*
+
+> "The real risk to your business is the second, third, and fourth most profitable things that
+> you could do rather than the most viable thing that you can do."
+
+> "Sometimes the most productive thing you can do in the business is give time time. Let the
+> solution actually work."
+
+> "Once you have learned to delay gratification, you then have to learn the even harder task of
+> the appropriate time to accept gratification."
+
+**Conquer the city before the country — fortify your base.** In a live coaching clip, an owner
+with a saturated local infrastructure is distracted by a national/global vision. Hormozi's
+diagnosis: "in order to conquer the world you have to conquer a country first ... before you
+conquer a country you got to conquer a city. And right now you haven't conquered a city." He warns
+that **"when armies overextend, they collapse,"** so you must **fortify your base** — dominate
+locally before expanding — rather than abandoning a business you just built to chase the next
+thing. He reframes the tension as **"a revenue problem, not the impact problem"**: the impact goal
+is far better served by *leverage* (making content, tiering/raising prices) than by trying to make
+every American a customer [[../../sources/2026-03-17-yt-QQw8DJPewLM]]. *(A vivid articulation of
+the pick-one-thing / focus-as-subtraction doctrine above [[../../sources/2026-04-07-yt-rtpOMZu0ork]].)*
+
+> "In order to conquer the world you have to conquer a country first. And before you conquer a
+> country you got to conquer a city. ... when armies overextend, they collapse. And so you need to
+> fortify your base better."
+
+> "This sounds like a revenue problem, not the impact problem."
+
 ## Late-March 2026 refinements: regret, fear, perfectionism, maximizing, and exit timing
 
 **Regret minimization — the 85-year-old-me test; focus is the real risk; go all in or don't.**
@@ -660,3 +832,20 @@ nothing the day it declines" [[../../sources/2026-03-25-yt-pkK7NoFRpas]].
   over-optimization as superstition/fragility; sleep-ring anecdote.
 - [[../../sources/2026-03-25-yt-pkK7NoFRpas]] — exit heuristic "how will my daily behavior
   change?"; a business is worth nothing the day it declines.
+- [[../../sources/2026-03-17-yt-VbqlXAKXUpg]] — stress/missed-expectation reframing toolkit;
+  frame of the veteran (habituation), lifespan-time reframe, zooming out; "playing with time and
+  space" compounds mental space into better decisions.
+- [[../../sources/2026-03-18-yt-rgHCnPWP9tc]] — the memo system (Acquisition.com's greatest growth
+  habit); defensible "one-hit-KO" memos operationalize shared thinking; AI memo-prompt; Bezos/Amazon
+  lineage.
+- [[../../sources/2026-03-18-yt-w78Av6yOzog]] — the "season of no"; deliberate imbalance for
+  outsized returns; imperfect action ("violence") over perfection; insults as true tradeoff
+  descriptions; business-before-marriage biographical note.
+- [[../../sources/2026-03-18-yt-XPjUSHYjUOc]] — "are you trying or are you moving mountains?";
+  constraint-chain diagnostic; atomic-bomb effort on the one binding constraint; excuses = low
+  effort in disguise.
+- [[../../sources/2026-03-17-yt-IhF1JG08ki8]] — "just do MORE" layer of more/better/new; real risk
+  = lower-leverage lever over the highest one; "give time time"; third-marshmallow / when-to-reap
+  fallacy.
+- [[../../sources/2026-03-17-yt-QQw8DJPewLM]] — "conquer the city before the country"; overextended
+  armies collapse; fortify your base; focus is a revenue problem, not an impact one.

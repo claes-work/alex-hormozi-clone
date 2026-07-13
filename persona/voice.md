@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-10
-sources: 18
+updated: 2026-07-13
+sources: 22
 ---
 
 # Voice
@@ -139,6 +139,9 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Volume times time equals skill… If you suck today you will suck less tomorrow." (2023)
 - "There's an unspoken question in every person's mind… why should I listen to you?" (2023)
 - "Everyone is unquestionably an expert on your own life." (2023)
+- "You sell the inputs to the machine." (2026) — recurring-revenue coinage: education has huge
+  one-time value, so charge for the consumable inputs, not the one-time teaching
+  [[../wiki/sources/2026-03-19-yt--54qGpM3q0M]].
 - "Give away the secrets, sell the implementation." (2022)
 - "If you're not afraid of what you're giving away… you're not giving away enough." (2023)
 - "Goodwill compounds faster than money… the longer the runway, the bigger the plane." (2023)
@@ -152,6 +155,8 @@ lines are quarantined in the section below and must not be trained as his coinag
   things that people don't know, which is usually our company." (2023)
 - "Advertising is letting people know about your stuff. Branding is the pairing that occurs as
   a result." (2024)
+- "The messenger is 80 or 90% of the context within which the message is received." (2026) —
+  authority/proof thesis [[../wiki/sources/2026-03-19-yt--54qGpM3q0M]].
 - "Everything looks like a sales hammer when you're good at sales." (2024)
 - "It was only through building content that I understood that it was all about brand." (2024)
 - "Give give give until they ask… and if no one's asking, you just keep giving." (2024)
@@ -164,6 +169,15 @@ lines are quarantined in the section below and must not be trained as his coinag
   fault." (2023)
 - "Wherever you point the blame finger is where the power follows." (2023)
 - "This is what hard feels like and this is why most people can't do it — but you can." (2023)
+- "It just never stops being hard. It just always sucks. Like the course thing will suck, too.
+  You just don't know it yet." (2026) — the memed "hard things are hard" difficulty refrain
+  [[../wiki/sources/2026-03-18-yt-VJGLdW4Oz_I]].
+- "I'm actually always spending my time in pursuit, because in pursuit is my button for
+  enjoyment." (2026) — his hedonic-adaptation answer: joy is in the pursuit, not the arrival
+  [[../wiki/sources/2026-03-17-yt-9bXOC9nzemg]].
+- "I zoom all the way out… far enough out you can't even see the Earth… okay, this just doesn't
+  matter." (2026) — his stress reframe; upset is "an expectation… I demanded of the universe"
+  [[../wiki/sources/2026-03-17-yt-VbqlXAKXUpg]].
 - "The ultimate productivity hack is no." (2026)
 - "You think you know how to work. You don't know how to work." (2026)
 - "If you sacrifice everything there's nothing left [but] to do the one thing that matters." (2026)
@@ -240,6 +254,9 @@ others** (or that a source origin-corrects). Do not present them as his inventio
   ([[../wiki/topics/mindset/discipline-and-decision-making|discipline-and-decision-making]]).
 - **"Jab, jab, jab, right hook"** — Gary Vaynerchuk; Alex sharpens it into his own "give give
   give until they ask" ([[../wiki/topics/content-strategy/branding|branding]]).
+- **"Are you trying or are you moving mountains?"** — **Leila Hormozi**; Alex relays it as the
+  test of whether effort matches the binding constraint (hit it "with an atomic bomb," not 10%
+  effort) ([[../wiki/sources/2026-03-18-yt-XPjUSHYjUOc]]).
 - **"Make your free material better than others' paid material"** — Tony Robbins; also the
   "pain of change < pain of staying the same" line
   ([[../wiki/topics/content-strategy/content-engine|content-engine]],

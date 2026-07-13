@@ -214,6 +214,60 @@ continuity plan can function like insurance/strategy: low compared with the proj
 it keeps the relationship alive so "small jobs get the big jobs"
 [[../../sources/2026-05-08-yt-XJ_-7_9x9XE]].
 
+## Mid-March 2026: thin-margin raise math, the textable-offer razor & de-commoditizing
+
+**On a thin-margin business a ~10% price raise can more than double net profit.** In a March
+2026 coaching clip with a baby-products e-commerce owner (~$3M/yr, wholesale + D2C, margin
+compressed to ~7%), Hormozi frames a squeezed margin as a **money problem**, not an
+acquisition problem, and reduces the levers to **"prices up or costs down — or a combination
+of both."** Because a price increase on a thin-margin product drops almost entirely to the
+bottom line, his core math is that raising price ~10% *"would more than double your profit."*
+The worst-case reasoning is the memorable part: even if the raise cost you half your unit
+volume, per-unit profit has more than doubled, so **you still make more money** —
+> "you'd still make more money, because it's more than twice the profitability." *(verbatim)*
+
+He also uses price as a **brand-control lever**: where the law allows only recommended retail
+(RRP/MSRP) and rogue distributors undercut the intended price, raising the wholesale price
+*forces the channel to raise its price*, and the stockists who drop you rather than stop
+undercutting self-select out — *"kill two birds with one stone."* Practical corollary: **separate
+wholesale from D2C pricing** and diagnose the majority channel first
+[[../../sources/2026-03-17-yt-tX-KPikPrdw]]. (Margin/unit-economics detail belongs on
+[[business-math]]; the psychological point here is that on thin margins price is the single
+highest-leverage — and lowest-risk — move.)
+
+**The textable-offer razor — if a bonus needs explaining, cut it.** In a March 2026 solo clip
+Hormozi sharpens offer construction with two linked heuristics that also govern *how much
+persuasion a price can bear*. First, most buyers are **single-issue buyers**: they buy on one
+decisive reason, not on the aggregate value of many stacked items, so *"each bonus should be
+worth more than the entire value of the thing you sell."* Second, the razor —
+> "If the bonus itself is complex enough that you have to explain it, delete it. Because the
+> most expensive part about you explaining different components of the offer is the real estate
+> it takes up to actually explain it." *(verbatim)*
+
+The test is whether the offer is **textable**: *"Can I text to someone and then them say,
+'Yeah, I'm in'?"* If it can't fit a short text that prompts a yes, make it better or shorter.
+His pricing implication: copy and persuasion are only *"dressing"* on top of the underlying
+offer — a genuinely good deal is self-evident, so you should be able to state the offer, stop
+talking, and point to how to pay [[../../sources/2026-03-20-yt-75EMOyB1DKg]].
+
+**De-commoditize by removing the customer's "hard" — "good is the absence of hard."** In a
+March 2026 coaching clip with an exhaust-hood-cleaning operator who felt trapped competing on
+price, Hormozi argues the operator must **believe first** that the service is not a commodity,
+then engineer the difference by listing every reason bad providers suck and removing all of
+them. His definition of quality reframes value creation as friction removal:
+> "Good is basically the absence of hard. You can't make something easy. You can only make it
+> not hard. When something's easy, all the hard vanishes and all that's left is the outcome."
+> *(verbatim)*
+
+Being an interchangeable option is *"the worst comparison … not the fight you want to fight,"*
+because identical-seeming services collapse to a cheapest-wins race. The escape is to answer
+*"why is this different?"* before touching price at all — *"I don't even think about pricing …
+until I answer that question"* — then pair the removed-friction story with a higher price
+(*"here's the five things that suck, here's how we don't have any of those … instead of paying
+this, you pay this, but this is why it's worth it"*). Mechanics he adds: **anchor high and
+down-sell** ("start at four, down-sell to two") and structure payment terms to stack cash up
+front [[../../sources/2026-03-20-yt-ZnO69WZ-pZk]].
+
 ## Late-March 2026: performance-pricing pre-conditions & profit guarantees
 
 **Only do outcome/performance pricing if you control the money or can track it perfectly.**

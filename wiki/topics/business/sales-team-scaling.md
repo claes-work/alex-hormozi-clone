@@ -178,6 +178,101 @@ because you believe in the transformation — not from ego tied to closing.
 
 ---
 
+## March 2026 hiring & recruiting refinements (MoreMozi coaching)
+
+A cluster of March 2026 live-coaching cuts extends this page from *managing* a sales team
+to *staffing an org around one* — diagnosing when the felt constraint is talent vs. process,
+and how to build the recruiting and leadership layers. All self-reported.
+
+### The talent bottleneck is really a script/process bottleneck
+
+Coaching an agency owner who believed his ceiling was a shortage of seven/eight-figure
+sales directors, Alex reframes the constraint as a **process problem, not a talent-supply
+problem**: an over-**consultative** script forces reliance on rare "unicorn" salespeople,
+whereas a tightened, repeatable **follow-the-script** process lets ordinary trained reps
+win [[../../sources/2026-03-19-yt-v0ROYlEwE2A]].
+> "I would bet that your sales process is a bit too consultative. And so as a result, it's
+> relying on people with specialized skill rather than a more refined process… you need
+> more unicorn style sales people rather than like follow the [__] script."
+
+Refining the script is an **arbitrage/TAM unlock**: once the process (not the person) does
+the selling, you stop paying a premium for scarce specialists and the hireable pool
+explodes — he points to the large pool of door-to-door sellers who already sell harder
+things, for whom moving to phone/computer selling is a cheap, teachable learning curve
+(mostly language and script, not delivery knowledge).
+> "Fix the scripting around the sales so that you don't need a $60,000 person and then all
+> of a sudden this arbitrage will get really juicy and you will massively open up the TAM
+> of potential sales prospects."
+
+**Sales-director-as-culture-and-training** (paraphrase): directors don't hop on phones and
+need *less* product/delivery knowledge than frontline reps, because "teaching sales is
+teaching sales." Reps don't need to know the delivery or the client's business better than
+the client — only how to sell "how we can help you." **Span of control:** ~15 reps under
+one director is "a little high"; Alex starts splitting around **10** (e.g. two managers with
+7–8 reps each) [[../../sources/2026-03-19-yt-v0ROYlEwE2A]].
+
+### Own your core-economic-engine roles; rent the rest
+
+Sizing a hiring cadence (six offices/year ≈ one hire every ~two weeks) justifies a dedicated
+in-house recruiter. Alex's **build-vs-outsource recruiting rule**: use **headhunters for
+specialized one-time roles** (rent their existing network rather than rebuild it), but keep
+recruiting/hiring/onboarding/training **in-house for the repeated roles that are your core
+economic engine** [[../../sources/2026-03-17-yt-HUsN0HMfOoA]].
+> "If I have a specialized one-time role, headhunters all the way… I don't want to
+> outsource that, cuz it's core to the economic engine that I have."
+
+His favorite sourcing tactic: find a recruiting firm that does it, then go **one level lower
+on LinkedIn** to the individual actually doing the work and hire them to do it exclusively
+for you ("I'll pay you better and treat you better").
+
+### The leadership-layer hiring playbook (bottom layer vs. top layer)
+
+Coaching a $4.5M/month brand that had already fixed its *frontline* sales-hiring bottleneck
+with an in-house recruiter and now wanted the same for its leadership tier, Alex diagnoses:
+**"You built the bottom layer, you're missing the top layer"** — the absent leadership tier
+is what pulls the owner into daily fires and blocks strategic work
+[[../../sources/2026-03-17-yt-J4tdCR_PjL4]].
+
+- **Network-vs-headhunter split.** Source roles you have a network and pattern for through
+  that network (sales/marketing leaders); for roles you lack the expertise to *judge*
+  (finance, tech/analytics, people/HR), pay a **blue-chip headhunter** to run the technical
+  screens, and you assess only culture/fit. For domains outside his expertise (e.g. legal)
+  he pulls in already-paid outside experts — e.g. asking his attorneys to vet a candidate on
+  human judgment.
+- **C-suite "six-week sprint."** For a big hiring constraint, he and Leila pull themselves
+  out of the business to do nothing but interviews for six weeks — **only for C-suite**, not
+  directors/managers.
+- **CEO cold-outreach.** Headhunting is "an outreach game," and response rates are
+  "significantly higher" when the CEO reaches out personally; his low-pressure intro script
+  flatters the target and asks if they "know anybody exactly like you" — letting them opt in
+  without pressure.
+- **Sequence by "most on fire."** Don't replace all reports at once; rank them and recruit
+  the role "most on fire" first, then the next.
+- **Pattern recognition = scaling speed.** "A big thing that dictates how fast you move in
+  business is your ability to recognize patterns with people and talent" — you rebuild fast
+  where you already know what a role looks like, and slow down at levels you've never hired.
+- **Hiring cost is an investment, not an expense** (risk-reward): "Would I pay 40 to make
+  400? Yes… which is why we get compensated when it works." In-house recruiting (~$10k/mo)
+  also smooths the cash hit vs. headhunter fees of 20–25% of a $100–200k package.
+
+> ⚠️ POSITION EXTENDS (does not contradict) the 2021 "recruiting as mirrored acquisition"
+> frame above: the 2021 material treats *all* talent acquisition as one customer-style
+> funnel; March 2026 keeps that ("recruiting is advertising" — find talent with the same
+> volume, funnel, and outreach you use for customers) but adds a **layered** nuance —
+> own the funnel for core-engine and pattern-recognized roles, rent a headhunter's funnel
+> for judge-outside-your-expertise roles [[../../sources/2026-03-17-yt-J4tdCR_PjL4]].
+
+### A-player razor & candidate volume (March 2026 MoreMozi)
+
+Two supporting cuts from the same March 2026 batch: run a **14-day A-player razor** — decide
+fast, and "fire the sixes so the eights can become nines" rather than let mediocrity anchor
+the bar. Filter every hire on **two questions — does it make money, and what does it cost
+culture?** And **"keep dating candidates"**: maintain candidate volume continuously (recruiting
+is advertising — never let the pipeline of talent go cold), so you're never hiring from
+desperation (March 2026, @MoreMozi).
+
+---
+
 ## April 2026 operating refinements: utilization and speed
 
 In an April 2026 Q&A, Hormozi places a sales team near **70-75% calendar utilization**:

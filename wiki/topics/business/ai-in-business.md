@@ -122,6 +122,68 @@ carries proof in its *look*, whereas a B2B AI avatar "with no proof... is just G
 
 ---
 
+## The AI-for-leverage playbook (March 2026)
+
+From [[../../sources/2026-03-18-yt-0YXjEzFfft8]] ("Get RICH in the A.I. Revolution", a live
+workshop), with the cognition guardrail from [[../../sources/2026-03-18-yt-qyikm4WPQxA]].
+This section is the **operator's how-to** layer under the strategic thesis above.
+
+**Amplification, not automation.** As of March 2026, Hormozi frames practical AI use as
+*amplification*, not automation — more leverage, not infinite leverage. You outsource the
+typing/doing, never the thinking; judgment and taste still carry the return.
+
+> "Outsource the typing, not the thinking." (2026-03-18)
+
+> "More realistically, what you will get is amplification, not automation. You will get more
+> leverage, not infinite leverage." (2026-03-18)
+
+> "The idea is still the alpha. That is still where the highest returns come, not necessarily
+> the collateral." (2026-03-18)
+
+He casts AI as a **remixer**, not an originator: "AI is not original yet. It's like a remixer" —
+it replicates format, structure, and sentence-level style, but the essence comes from you. So
+output quality is a function of the volume you already put in: "My tweets are good because I
+already wrote 6,000 tweets before I did this." A beginner remixing AI still loses for lack of a
+data bank to remix.
+
+**The three wheels of AI leverage.** He organizes an "AI assets" folder into three sub-folders —
+the "three wheels" that make AI work: (1) complete **business context**, (2) a **prompt
+repository / "SOPs 2.0"**, and (3) high-quality **data sources** — your own past work exported
+(all-time tweets, sent emails/newsletters, top sales-call transcripts, ad and website copy, FAQs,
+support transcripts, decks, and transcripts of content you admire) so AI pattern-matches your
+voice instead of sounding generic.
+
+> "AI sounds like the internet, but if you train it on the work you've done, it sounds like the
+> work you've done." (2026-03-18)
+
+**Prompt-as-SOP, chaining, and the length law.** "The prompt is the SOP" — so most people's
+prompts are far too short (like handing an employee a whole task in one sentence). Build
+standardized prompts on a **role → task → rules → output** structure for repeated work (found via
+a 15-minute-block time study), stored centrally — "one-time work, forever payoff." He uses
+**prompt chaining** ("a prompt to give a prompt"): the output of one prompt feeds the next — his
+Offer Architect chain runs offer → sales page → sales-call script → VSL — to build "entire
+marketing universes." The prompting law: "the longer the prompt, the stronger the output; the
+shorter the prompt, the longer the output" — more context narrows the answer to what you want.
+
+> ⚠️ Self-reported leverage multiples (his own on-camera figures, **not** independently verified;
+> he stresses these are amplification, not automation): Mosey Minute email ~**4x** (a month of 16
+> emails in one ~4-hr half-day); tweets ~**7x** (1.5 hrs/day → ~90 min/week); YouTube ~**8x**
+> (2 hrs → ~15 min/video); memos ~4x; VSLs from a full day to quick. (2026-03-18)
+
+**Keep the thinking to stay sharp.** In a same-day Hotline clip, asked whether AI causes
+"cognitive decline," he agrees the long-term risk is real ("I 100% think that's a problem" for
+humanity) and answers with a discipline rule: reserve AI for **repeated/boring work** and hand-do
+the **hard, novel work** to keep your brain sharp. Self-reported: he wrote his *Money Models*
+book with **zero AI** and won't outsource the core writing of the next one, because writing is his
+hardest and most-enjoyed work [[../../sources/2026-03-18-yt-qyikm4WPQxA]].
+
+> "I'd rather outsource my doing and keep the thinking to me." (2026-03-18)
+
+> "The stuff that I was bored doing anyways, I don't have to do anymore. But the stuff that I
+> found really engaging and challenging, that's the stuff that I still want to do." (2026-03-18)
+
+---
+
 ## Org design & work
 
 From [[../../sources/2026-03-31-yt-9q5ojtkqsBs]] (2026-03-31), with practical use cases from 2026-04-21.
@@ -205,6 +267,25 @@ strategy down to API-level — sees which combinations create real value.
 > "AI will make the things that you're doing right now easier and faster. It doesn't mean
 > that you still don't have to do them." (2026-04-21)
 
+**Driving team AI adoption via raised output standards** (2026-03-18). From
+[[../../sources/2026-03-18-yt-goanECo4G4s]] (Hotline). The adoption mechanic is to **raise output
+expectations, not mandate the tool**: without higher standards a team has no incentive to adopt
+AI, because they already clear the minimum bar for keeping their job. Higher standards create the
+pushback moment ("this is taking so long") where you can say "let me show you a faster way." Pitch
+it as relief, not threat — remove the terrible/repeated work, not the challenging parts — and boil
+each role into its tasks/SOPs, then turn those into **SOP prompts** (capturing even 80% or half a
+task for 2x–8x leverage is worth it). Adoption is also a **hiring/culture filter**: hire people who
+embrace change; switchers convert and refusers get replaced. On **data security**, two layers: use
+a **corporate/professional instance** (personal accounts aren't protected — "OpenAI can get
+subpoenaed"), and **put nothing non-public into the tool at all.** This extends the "train AI like
+an employee" note above into a team-rollout playbook.
+
+> "I don't want to take the most challenging parts of your job away. I want to take all the
+> terrible parts of your job away." (2026-03-18)
+
+> "If the standards don't increase then there's no incentive for them to use it because without
+> AI they're still achieving the minimum standard to maintain employment." (2026-03-18)
+
 **Don't defend a vehicle AI is already eating — cash out and rotate** (2026-03-23). In a
 MoreMozi Q&A, asked by a portfolio operator how to *protect* an info-product business
 (online courses, mentorships) against AI, Hormozi declines the premise: he would not try
@@ -235,6 +316,14 @@ speed-to-contact).
 service business usually needs structured, usable data before AI can create leverage. The
 near-term constraint is often not "we need AI"; it is "we need clean inputs, repeatable
 delivery, and enough mapped activity for AI to work on" [[../../sources/2026-05-29-yt-NadXwJQjBiY]].
+He had put this more bluntly in a March 2026 CFO-advisory teardown: to be an **AI-first** company
+you must first be a **data-first** company (using ChatGPT for emails is not being AI-first), and
+the layer order is data/architecture first, then AI on top with reinforcement training
+[[../../sources/2026-03-18-yt-VJGLdW4Oz_I]].
+
+> "The first thing that you have to do in order to have an AI first company is you have to be a
+> data first company. Because AI works with data. If you don't have data, then there's no AI."
+> (2026-03-18)
 
 **UX compresses.** He expects the next 12-24 months to reduce interface navigation as users
 ask agents for answers instead of clicking through software screens. That makes workflow

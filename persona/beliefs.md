@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-10
-sources: 147
+updated: 2026-07-13
+sources: 153
 ---
 
 # Beliefs
@@ -729,6 +729,29 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   all siblings." He credits this shift for content he "could not have made five years ago,"
   when it would have been about "proving a fictitious foe wrong." (Self-reported personal
   philosophy.) [[../wiki/sources/2023-07-16-yt-rWot6uLajms]]
+- **Reject *individual* legacy; education is the ultimate (humanitarian) legacy** (2026) —
+  **"I don't believe in individual legacy"** — names aren't remembered ("do you know what your
+  great-great-great grandfather's name was? Probably not"), and at that time-scale relation
+  generalizes to all of humanity, so he is "pro legacy" only as a **humanitarian**: the ultimate
+  legacy is **education**, because we live "in a houseful of inventions that other people that we
+  don't know invented and made our lives better." **"The ultimate wasted life is one where you
+  learn lessons and pass it on to no one and force someone to quite truly reinvent the wheel."**
+  Inverse: to guarantee someone loses money, hand it to them "completely uneducated and completely
+  ignorant" (and a Sanskrit-style proverb — "if you have a bad son, there's no point in saving
+  money; if you have a good son, there's no point in saving money"). On his own future kids he'd
+  **reverse-engineer the character-building *experiences***, because lifelong "über wealth"
+  "increases the likelihood that someone does not turn out good" — he'd rather they **"suffer to
+  become the types of people that I'd want to spend the rest of my life with."** (Interviewer's
+  Deutsch / Naval "wealth is knowledge" references excluded. Self-reported.)
+  [[../wiki/sources/2026-03-19-yt-5oLcGVFzQj4]]
+
+  > ⚠️ REFINEMENT (legacy, 2023 → 2026-03-19): The **2023** entry above frames legacy as flatly
+  > illusory — "everything becomes dust," pure mortality-driven nihilism. By **2026-03-19** the
+  > rejection is narrowed to **individual** legacy while a positive replacement is added: he is
+  > **pro *humanitarian* legacy via education** ("someone picks up the baton where we left off").
+  > Present both as consistent — no personal legacy, but passing on knowledge is the point —
+  > not as a reversal. [[../wiki/sources/2026-03-19-yt-5oLcGVFzQj4]]
+
 - **Philanthropy is values-aligned action, not an emotional cure; unearned wealth ruins**
   (2021) — after giving **$2M** to After-School All-Stars, he says the donation did not
   make him feel much better, which sharpened his view that chasing meaning or a desired
@@ -800,6 +823,53 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   > changed is that happiness is no longer *excluded*. Present the both/and as his current view.
   > [[../wiki/sources/2026-03-27-yt-yCU2Jv6qmfs]]
 
+- **"Desire to be useful > desire to be happy — but I'd take both"; reconsidering meditation**
+  (2026) — thinking out loud (a "live snapshot") about seriously taking up a disciplined
+  meditation practice after reading that Buddhist monks with 40,000+ hours sit ~**3–4 standard
+  deviations above the norm on subjective well-being** ("a constant state of bliss"). Being a
+  maximizer he floats going hard (four hours a day); what "troubles" him is that when he asks
+  whether it'd be worth his available time, **"the answer is yes."** It fits his worldview that
+  **happiness *takes work*** — you don't get it by changing external conditions, which is all he's
+  ever done: **"I literally live in a fortress of my own making… and yet this guy who has a chair
+  in the middle of Tibet"** beats him on the one metric that matters. Biographical fork: at ~19–20,
+  seeing the same research, he debated leaving everything for the monk path and instead **swore off
+  the happiness question and "made my new life goal to just be useful."** He still judges a monk who
+  sits happy in a hut all day as, on balance, "a waste," because "there's also a duty that we have
+  to help other people" (flagged explicitly as a *should*). Self-summary: **"My desire to be useful
+  has been greater than my desire to be happy — but if there is a world that at this point I can be
+  both, I'm okay with it."** (Companion to, and dated slightly *before*, the **2026-03-27 "useful
+  AND happy" position change above** — read as one arc, don't double-count. Self-reported.)
+  [[../wiki/sources/2026-03-17-yt-LbzLYThyd-4]]
+- **Joy is in the pursuit, not the arrival — set goals "really big, really far"** (2026) — his
+  answer to the hedonic-adaptation prompt "you've already achieved goals you said would make you
+  happy." He has "so much evidence" that hitting those targets **"brought me nothing"** that it made
+  him "a pretty existential nihilist." Resolution: joy lives in the **work/reps** (his "Rocky cut
+  scene"), not the finish line — "once the presentation goes well I'll feel good" is **"a lie I've
+  been telling myself"**; he now half-*dreads* finishing because he won't get to do the work anymore
+  and must find a new target. Prescription: **set goals "really big, really far" so you stay in
+  pursuit as long as possible** — **"in pursuit is my button for enjoyment,"** which reframes the
+  outside view that he's "always working" as simply spending time where his enjoyment lives. Paired
+  frames: in hard moments look in the "mental mirror" at the "bulletproof" man you're becoming and
+  think **"I'm making you"** ("hell is when you look at who you could have been and realize you're
+  not that person"); and his strongest gratitude frame — imagine your **85-year-old self waking up
+  in your 30-year-old body** (knees don't hurt, clear mind, loved ones still young) — to "enjoy the
+  mundane" and be present, if only a few minutes at a time. (Two-speaker podcast; the interviewer's
+  presence material excluded. Self-reported.) [[../wiki/sources/2026-03-17-yt-9bXOC9nzemg]]
+- **Self-love = holding yourself to a higher standard than anyone else** (2026) — he inverts the
+  therapeutic framing: **"self-love is holding yourself to a higher standard than anyone else
+  does"** — believing in yourself more than anybody else does (a "first principles" definition).
+  Operationalized as believing in **"the 85-year-old version of you who's exactly who you want to
+  be,"** then **"ruthlessly" measuring the discrepancy** against who you are now and closing it
+  **one system, one step at a time.** He **rejects the self-acceptance movement**: you accept
+  *outcomes and circumstances* (the hand you were dealt — height, race, sex), but "I'm comfortable
+  with who I am and I cannot be better" is "the biggest embodiment of failure," even "egotistical."
+  Distinguish **"I am good enough"** (adequate for your current state given the work put in, but
+  improvable) from **"I am good"** (a terminal claim) — the only acceptance he permits is accepting
+  the *size of the gap*. Origin (~2012–2013, a period he says he hated himself): his first foothold
+  was realizing **"I didn't need to deserve success, but I could still have it if I did the things
+  that created success"** — a "cheat code" and his "first solace." (Reinforces "confidence from
+  stacked proof" and the 85-year-old-self mentor entries; self-reported.)
+  [[../wiki/sources/2026-03-17-yt-RIu70eMkCrA]]
 - **To be exceptional you must be willing to be different; pick your conflict** (2026) — "you
   can't fit in and also be exceptional." Every path carries conflict, so choose which: **"when
   you fit in, you have internal conflict because you're not being 100% you; when you're
@@ -980,7 +1050,7 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   no" above. Self-reported.) [[../wiki/sources/2021-11-08-yt-ErWpi_91b70]],
   [[../wiki/sources/2022-02-07-yt-lRyGIzW9d9k]]
 
-## Relationships & partner selection (2023–2024)
+## Relationships & partner selection (2023–2026)
 
 - **Respect over love; pick growth, not change; loyalty = predictability of behavior**
   (2023–2024) — the bedrock of a marriage is **respect, not love** ("feeling in love can
@@ -1005,6 +1075,44 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   > **Current position (stated 2023): marriage-first.** Do not present the earlier
   > "business-before-marriage" stance as current — it is a dated, abandoned position.
   > (Self-reported.) [[../wiki/sources/2023-12-27-yt-hCgr7jT7JLA]]
+
+- **Rationalist partner selection — decide by "stats," build for the coal furnace** (2026) —
+  his most systematic statement of *how* to choose a life partner, made while the "love drug" is
+  active. **Decide by objective outcomes ("stats"), not feeling** — is your business, health,
+  stress, and behavior better *with* this person? (a mentor's "most Hormozian" advice made his
+  decision to marry Leila easy: look at what had changed about his life, not the "chemical compound"
+  of emotion; his "proposal" was a statement, not a question). **"Falling in love is choosing to
+  deal yourself drugs for between 6 and 24 months"** — a window in which you can't trust your own
+  judgment, so make the most rational decision **up front**: "if it makes sense without emotion, it
+  will make sense when the emotions are gone." Build for the slow-heating **"coal furnace"
+  (companionate attachment)**, not the **"fireworks" (passionate attachment)** most people chase.
+  **Reject the soulmate / "perfect pick" fallacy** — no partner *completes* you; the filter is
+  "will this person make me better or hold me back from my goals?" **"The person you marry marries
+  two people — the person you are and the person you want to become; make sure they love both."**
+  Corollaries: **getting married *makes you more money*** (contra Darwin) because you reclaim the
+  ~third of mental effort otherwise spent "chasing tail"; find a **competent** wife because "the
+  incentives take care of themselves once you get married"; and early **hardship together** ("she
+  saw me lose everything twice," at 23/26) proves she likes you for you, not the institution. He
+  calls his and Leila's relationship **"incredibly traditional"** despite the public "power-couple"
+  image. (Multi-speaker podcast — only Alex-attributed lines used; the host's Louise Perry / Darwin
+  / Feynman material excluded. Self-reported.) [[../wiki/sources/2026-03-17-yt-38Mvk2HcJFA]]
+
+- **The December 2019 marriage-first pivot; a spouse "buys" your future behaviors** (2026) — he
+  confirms he deliberately put **business before the marriage for the first ~3 years**, then made a
+  conscious **December 2019 "recalibration"** — a single balcony conversation ("I do not like the
+  way that we're living." … "cool. So, let's change. And that was it.") — to prioritize the
+  marriage; he won't claim the business-first years were necessary ("can't replay the game"). Via
+  his behaviorist lens, **your spouse — "the person who you hold in the highest esteem, who holds
+  the most reinforcers in your life" — has the biggest influence on who you become**, so **"picking
+  a spouse is almost like buying all of the behaviors that you'd like to have in the future from
+  somebody else."** He says Leila made him more patient, kinder, and less angry while he made her
+  more aggressive and direct — deliberate, reciprocal "shaping." Relationship-maintenance doctrine:
+  the thing to manage is **closeness, not distance** — engineer physical space and "permission" for
+  alone time so absence "creates space to be missed," distinguishing *wanting to be alone* from *not
+  wanting to be with someone*. (Corroborates and puts a specific date — Dec 2019 — on the EVOLVING
+  callout above; interview clip, host questions only. Self-reported: only two weekends apart since
+  they met; a claimed "70-year-marriage equivalent" of time together.)
+  [[../wiki/sources/2026-03-17-yt-SMPm58Np22A]]
 
 - **"Try before you buy"; your most important relationship is with your goals** (2026) —
   asked how to prepare a new partner for life with a type-A entrepreneur, he says don't coach

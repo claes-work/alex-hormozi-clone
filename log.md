@@ -5815,3 +5815,48 @@ Nine live business teardowns + one solo focus piece. Client statements attribute
 
 Ledger 10->L2 (L2 now 1,732). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: **20pct-COST-OF-CHANGE-RULE-assume-20pct-dip-per-change-require-50pct-or-double-to-justify-antidote-to-compulsive-tweaking + grow-share-of-pie-before-geography/go-where-fish-already-are - business/scaling candidate (RICH, promote; a decision rule not yet on a topic page)**; **THIN-MARGIN-PRICE-RAISE-MATH-10pct-raise-more-than-doubles-profit-lose-half-still-make-more + raise-price-as-brand-control + separate-wholesale-from-D2C - business/offers + pricing candidate (RICH, promote; recurs w/ many pricing cuts)**; **LEADERSHIP-LAYER-HIRING-PLAYBOOK-bottom-vs-top-layer/network-vs-headhunter/C-suite-6-week-sprint/CEO-cold-outreach-script/sequence-by-most-on-fire/own-core-economic-engine-roles/hiring-cost-is-investment - business/scaling + hiring candidate (RICH; recurs across HUsN0HMfOoA + J4tdCR + batch-220 v0ROYlEwE2A - a consolidating HIRING/RECRUITING topic is now warranted)**; ECOM-WORKING-CAPITAL-supplier-terms-net-0-to-net-90+preorders-pull-cash-forward/own-the-machine-priced-off-value - business + wealth candidate (pairs w/ batch-223 pull-cash-forward); ROIC-REINVEST-VS-DISTRIBUTE-capital-not-the-limiter-for-multi-unit - business/scaling + wealth candidate; CANCELLATION-IS-A-SALES-PROBLEM-not-fulfillment-set-honest-timeline-at-point-of-sale-frame-wait-as-benefit - business/sales candidate; MANDATE/ENDORSEMENT=LEAD-GEN-NOT-REVENUE-low-cold-close-vs-high-referral-close=missing-sales-machine - business/sales candidate; CONTENT-SUSTAINABILITY-reverse-engineer-what-you-enjoy + remind-more-than-teach - content-strategy candidate; CONQUER-CITY-BEFORE-COUNTRY-fortify-base-overextended-armies-collapse - mindset/focus candidate (recurs w/ dominate-local-market). Standard cut: 2MUxcC3FsFY (RE leads = existing lead-gen).
+
+## [2026-07-13] lint | synthesis pass 24 — @MoreMozi batches 215-224 → system-prompt v31
+
+Checkpoint synthesis (10 ingest batches accumulated since pass 23 / batch 214). Promoted the
+genuinely-new mid-March 2026 @MoreMozi refinements from L2 source pages into topics + persona;
+recompiled the clone. One agent per file (concurrency rule); dated + cited; position changes
+flagged with callouts; long-tail repeats dropped.
+
+Topic pages updated (8):
+- **business/ai-in-business.md** — AI-for-leverage playbook: amplification-not-automation, "the
+  idea is the alpha," the three wheels (context + prompt-repository/SOPs-2.0 + data sources),
+  prompt chaining, data-first-before-AI-first, team-adoption-via-raised-output-standards.
+- **business/sales-team-scaling.md** — leadership-layer hiring playbook (network-vs-headhunter,
+  C-suite six-week sprint, CEO cold-outreach, sequence-by-most-on-fire, own-core-economic-engine
+  roles, talent-bottleneck-is-a-script-problem, recruiting-is-advertising, 14-day A-player razor).
+- **business/money-model.md** — pull-cash-forward / prepayment playbook (10% time-value prepay,
+  take-rate benchmarks, financing ~35% lift, layaway, e-com supplier-terms working capital,
+  on-time/on-budget guarantee, payment-plan-vs-membership).
+- **business/pricing-psychology.md** — thin-margin price-raise math (10% raise > doubles profit),
+  textable-offer razor, de-commoditize-via-friction-removal.
+- **business/scaling-and-enterprise-value.md** — 20% cost-of-change rule, capacity-vs-reputation,
+  hold-top-line-flat-triple-bottom-line, ROIC reinvest-vs-distribute, decentralization/"team of
+  teams," switch-what-you-sell, endorsement=lead-gen-not-revenue, three-ways/product-beats-distribution.
+- **mindset/mental-toughness-and-learning.md** — four-variable model (tolerance/magnitude/
+  resiliency/adaptation), skill-compounding/luck-surface-area, hard-work-is-the-goal.
+- **mindset/discipline-and-decision-making.md** — the memo system (single greatest habit),
+  stress/expectation-reframing toolkit, season-of-no, trying-vs-moving-mountains, just-do-MORE/
+  third-marshmallow, conquer-the-city focus.
+- **content-strategy/audience-growth.md** — platform-evaluation rubric (YouTube+IG top two, IG
+  traffic vs YouTube ~3-4x conversion, TikTok→IG), organic-vs-ads pyramid, content-sustainability/
+  "remind-more-than-teach."
+
+Persona updated: beliefs.md (+6: rationalist marriage philosophy + Dec-2019 marriage-first pivot;
+self-love=higher-standard; happiness-in-the-pursuit; useful>happy/meditation; legacy=education with
+a refinement callout), biography.md (+4: 2013 self-taught sales origin; Dec-2019 pivot; age-~20
+monk-path fork + 2026 meditation reconsideration), voice.md (+6: "hard things are hard," "sell the
+inputs to the machine," "messenger is 80-90% of the message," stress-reframe, "in pursuit is my
+button for enjoyment," Leila's "trying or moving mountains"). Recompiled **persona/system-prompt.md
+→ v31** (compiled_from_sources ~1,732 videos + 2 books).
+
+High-water mark advanced to **batch 224** in pipeline/synthesis-state.md. Minor follow-up noted:
+memo-system / four-variable-toughness / AI-amplification traits currently trace via topic-page
+citations in the system prompt; a later pass can backfill persona/beliefs.md for a literal
+persona-page trace.
+Synthesis notes: none (this IS the synthesis pass; ingest debt for batches 215-224 drained).

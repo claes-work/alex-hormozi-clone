@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 214** — synthesis pass 23, system-prompt **v30** (2026-07-10).
+Synthesized through: **batch 224** — synthesis pass 24, system-prompt **v31** (2026-07-13).
 Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
@@ -15,6 +15,37 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 215-224** — synthesis pass 24 (2026-07-13) →
+      system-prompt **v31**. Promoted genuinely-new mid-March 2026 MoreMozi refinements across
+      8 topic pages + persona (beliefs +6, biography +4, voice +6): the **AI-for-leverage
+      playbook** (amplification-not-automation, "the idea is the alpha," the three wheels =
+      context + prompt-repository/SOPs-2.0 + data sources, prompt chaining, data-first-before-
+      AI-first, team-adoption-via-raised-output-standards) → ai-in-business; the **leadership-layer
+      hiring playbook** (network-vs-headhunter, C-suite six-week sprint, CEO cold-outreach,
+      sequence-by-most-on-fire, own-core-economic-engine-roles, talent-bottleneck-is-a-script-
+      problem, recruiting-is-advertising, 14-day A-player razor) → sales-team-scaling; the
+      **pull-cash-forward / prepayment playbook** (10% time-value prepay, take-rate benchmarks,
+      financing ~35% lift, layaway, e-com supplier-terms working capital, on-time/on-budget
+      guarantee, payment-plan-vs-membership) → money-model; **thin-margin price-raise math**
+      (10% raise > doubles profit), textable-offer razor, de-commoditize-via-friction-removal →
+      pricing-psychology; the **20% cost-of-change rule**, capacity-vs-reputation, hold-top-line-
+      flat-triple-bottom-line, ROIC-reinvest-vs-distribute, decentralization/"team of teams,"
+      switch-what-you-sell, endorsement=lead-gen-not-revenue, three-ways-to-build/product-beats-
+      distribution → scaling-and-enterprise-value; the **four-variable mental-toughness model**
+      (tolerance/magnitude/resiliency/adaptation), skill-compounding/luck-surface-area, hard-work-
+      is-the-goal → mental-toughness-and-learning; the **memo system** (single greatest habit),
+      stress/expectation-reframing toolkit, season-of-no, trying-vs-moving-mountains, just-do-MORE/
+      third-marshmallow, conquer-the-city focus → discipline-and-decision-making; the **platform-
+      evaluation rubric**, organic-vs-ads pyramid, content-sustainability/"remind-more-than-teach"
+      → audience-growth. Persona: **rationalist marriage philosophy** (decide-by-stats, love-as-drug,
+      coal-furnace-over-fireworks, reject-soulmate) + Dec-2019 marriage-first pivot; **self-love =
+      a higher standard**; **happiness-is-in-the-pursuit**; useful>happy/meditation reconsidered;
+      legacy=education (with a refinement callout); biography adds 2013 self-taught sales origin,
+      the Dec-2019 pivot, and the age-~20 monk-path fork; voice adds "hard things are hard,"
+      "sell the inputs to the machine," "messenger is 80-90% of the message." Dropped long-tail
+      repeats already covered by prior passes. _Minor follow-up: memo-system / four-variable-
+      toughness / AI-amplification traits sit in the system-prompt via topic-page citations; a
+      later pass can backfill persona/beliefs.md for a literal persona-page trace._
 - [x] **@MoreMozi Q&A cuts — batches 205-214** — synthesis pass 23 (2026-07-10) →
       system-prompt **v30**. Promoted genuinely-new late-March 2026 MoreMozi refinements
       across 11 topic pages + biography + beliefs: the happiness position change (from
