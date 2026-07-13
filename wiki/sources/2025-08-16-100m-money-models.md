@@ -15,7 +15,7 @@ attribution: Alex Hormozi (sole author; mentor dialogues reconstructed by him)
 and *$100M Leads*, 2023), published 2025-08-16 by Acquisition.com (copyright Bumble IP,
 LLC) with a record-breaking free virtual launch event (see
 [[2025-08-16-affiliate-black-book|Affiliate Black Book]]). 214 PDF pages. Raw file:
-[raw/2025-08-16-100m-money-models.md](../../raw/2025-08-16-100m-money-models.md)
+[raw/books/2025-08-16-100m-money-models.md](../../raw/books/2025-08-16-100m-money-models.md)
 (verbatim text extracted from the user-purchased PDF; original PDF alongside; cite by
 `PDF p. N` markers).
 
