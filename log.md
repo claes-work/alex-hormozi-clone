@@ -6569,3 +6569,31 @@ competitive-moats (copycats-cant-copy-your-proof).
 Recompiled **persona/system-prompt.md → v34**. High-water mark advanced to **batch 244**. Real MoreMozi
 L2 debt is now drained through batch 244; ingest resumes at batch 245.
 Synthesis notes: none (this IS the synthesis pass; ingest debt for batches 235-244 drained).
+
+## [2026-07-13] ingest | yt batch 245 - @MoreMozi P2 (2026-03-06 to 2026-03-07), 10 videos
+
+Solo mindset/wealth pieces + a framework-building meta piece + a content-origin bio piece. Attribution per speaker; only Alex-attributed material flows to persona. (xaqJeQ9Uyj4 is an interview - host turns excluded.)
+
+- **2026-03-06** `yt-2cWuvq4MoKc` - "passive income is a lie": kill the active/passive binary -
+  measure **return on time** (dollars-per-hour; divide income by ~2,000 hours); shift your hours toward the highest-multiple activities; reinvest into your proven *active* engine, not a passive one. (Distinct from batch-228 KAt4xQG98u4, which framed passive income as freedom/optionality - this is the return-on-time argument.)
+- **2026-03-06** `yt-xaqJeQ9Uyj4` - "why I started making content" (interview): content-origin story -
+  he began content on seeing social media's "monster amount of impressions... given away for free"; started YouTube videos and wrote his first book "basically at the same time"; the Acquisition.com thesis = "something old (private equity) + something new (social media)"; cites Buffett/Dalio/Naval as influencer-investor models. (BIO; self-framing as a non-persona creator whose draw is duplicable systems.)
+- **2026-03-07** `yt-MIVGM_N_8Jk` - "my process for building frameworks": his framework-building method -
+  **define the terms first**, strip sentiment/emotion, and reduce everything to observable behavior so you can predict reality (the behaviorist/observable-only razor as the foundation). (A promotable content/thinking meta-method; ties to the behavioral-lens OS.)
+- **2026-03-06** `yt-Y2qMoxxKymE` - "the difference between heroes and villains" (Donald Miller frame):
+  heroes *use* their pain, villains are *used* by it; the **"and that's okay"** reframe tool; "document your life when it sucks, not when it's great"; demons = skill deficiencies; the Logic-Evidence-Utility diagnostic.
+- **2026-03-06** `yt-fG_hw1cwvbc` - "why you don't have what you want": inaction, not wanting, is the
+  real problem; the **"name the voice"** decision tool (attribute your hesitation to a specific person's imagined judgment, then ask if they deserve control); the near-miss Gymshark-sale anecdote.
+- **2026-03-07** `yt-IMXdoAk_bbc` - "why most people don't win": they seek permission to quit; the
+  agree-with-the-excuse-so-they-rebel tactic; **"doing over being"** (reject "be, do, have"; decouple mood/identity from action).
+- **2026-03-07** `yt-qk-mFc0ZjF4` - "you just aren't doing enough...": the flyers origin ("one 5,000th"
+  of a mentor's effort); the **"double their volume"** rule (find a winner's volume and 2x it); skill = leverage on your input ("match vs catch up").
+- **2026-03-06** `yt--iOTVPDunmE` - "the first $100K is the hardest": five years, a dollar at a time;
+  getting out of poverty starts with "it's my fault"; "factually true, spiritually false"; "whatever you cast blame to is where you also cast power." (Standard - first-100K / ownership; harvest quotes.)
+- **2026-03-06** `yt-agXr1aGdsmM` - "seasons of learning vs. earning": most people trade to earning
+  too soon; passion is built, not found. (Standard - learn-before-earn seasons; canonical quote source.)
+- **2026-03-06** `yt-zONatpYv5LE` - "stop waiting for the perfect moment to start": starting *is* the
+  perfect condition; imperfect action. (Standard - starting-is-perfect-condition.)
+
+Ledger 10->L2 (L2 now 1,942). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: **PASSIVE-INCOME-IS-A-LIE-kill-active-passive-binary/measure-RETURN-ON-TIME-dollars-per-hour-divide-by-2000/shift-hours-to-highest-multiple/reinvest-into-active-engine - wealth + persona/beliefs candidate (distinct from optionality framing; a return-on-time reframe)**; **FRAMEWORK-BUILDING-METHOD-define-terms-first/strip-sentiment/reduce-to-observable-behavior-to-predict-reality - content-strategy/hormozi-writing-guidelines + mindset candidate (his meta-process; ties to behavioral-lens OS)**; **CONTENT-ORIGIN-saw-social-medias-monster-free-impressions/started-YouTube-and-first-book-same-time/ACQ=old-PE+new-social-media/Buffett-Dalio-Naval-influencer-investor-models - persona/biography + content-strategy candidate**; HEROES-USE-PAIN-VILLAINS-USED-BY-IT/AND-THATS-OKAY-reframe/document-your-struggle-not-your-wins - mindset + content-strategy candidate; NAME-THE-VOICE-decision-tool-attribute-hesitation-to-specific-persons-imagined-judgment-then-ask-if-they-deserve-control + Gymshark-near-miss - mindset/decision-making candidate; DOING-OVER-BEING-reject-be-do-have/decouple-mood-identity-from-action + agree-with-excuse-so-they-rebel - mindset candidate; DOUBLE-THEIR-VOLUME-find-a-winners-volume-and-2x-it/skill=leverage-on-input-match-vs-catch-up + flyers-one-5000th origin - mindset + marketing candidate. Standard/light cuts: -iOTVPDunmE (first-100K/ownership), agXr1aGdsmM (learn-before-earn seasons), zONatpYv5LE (starting-is-perfect-condition).

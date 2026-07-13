@@ -609,6 +609,13 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-16 | [[2026-03-16-yt-plV_nyqluOE]] | Helping a Coffee Company ($4M) Scale — "under-talented, not over-expanded"; fix retail margins to 40%+ before adding locations (light) | |
 | 2026-03-16 | [[2026-03-16-yt-pKEvzBiR9LI]] | Be Careful Who You Take Advice From — don't take advice from anyone whose life you don't want; own it's your fault (light) | |
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
+| 2026-03-06 | [[2026-03-06-yt-2cWuvq4MoKc]] | Passive Income Is a Lie — kill the active/passive binary; measure return on time (dollars-per-hour); reinvest into your proven active engine | ★ |
+| 2026-03-06 | [[2026-03-06-yt-xaqJeQ9Uyj4]] | Why I Started Making Content — **bio**: saw social media's "monster" free impressions; started YouTube and his first book at ~the same time; PE + social media | ★ |
+| 2026-03-06 | [[2026-03-06-yt-Y2qMoxxKymE]] | The Difference Between Heroes and Villains — heroes *use* their pain, villains are used by it; the "and that's okay" reframe; document your struggle | |
+| 2026-03-06 | [[2026-03-06-yt-fG_hw1cwvbc]] | Why You Don't Have What You Want — inaction, not wanting, is the real problem; "name the voice" whose imagined judgment holds you back | |
+| 2026-03-06 | [[2026-03-06-yt--iOTVPDunmE]] | The First $100K Is the Hardest — five years, a dollar at a time; getting out of poverty starts with "it's my fault" (light) | |
+| 2026-03-06 | [[2026-03-06-yt-agXr1aGdsmM]] | Seasons of Learning vs. Earning — most people trade to earning too soon; passion is built, not found (light) | |
+| 2026-03-06 | [[2026-03-06-yt-zONatpYv5LE]] | Stop Waiting for the Perfect Moment to Start — starting *is* the perfect condition; imperfect action (light) | |
 | 2026-03-07 | [[2026-03-07-yt-SsGrKx5rrDc]] | Sleeping on the Floor While Starting My First Gym — **bio**: the first gym was a warehouse under a parking garage; he slept in it ($5k rent left nothing for housing) | ★ |
 | 2026-03-07 | [[2026-03-07-yt-bQuFlmQt9Ic]] | Lessons from Elon Musk — "Elon's algorithm" (question requirements → delete → optimize → accelerate → automate) as a fix-anything tool; "pull the thread" | ★ |
 | 2026-03-07 | [[2026-03-07-yt-FgNNbkhIUMg]] | What Is "Value"? — brand is a lever on the *risk* component of the Value Equation, not a separate force; "all gives, then you get" | ★ |
@@ -619,6 +626,9 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-07 | [[2026-03-07-yt-z8_mWrBQHXc]] | How to Turn Your Job Into a Business — your profession is the fastest on-ramp; add promotion (Core Four) + conversion (CLOSER); moonlight your "5-to-9" | |
 | 2026-03-07 | [[2026-03-07-yt-bbh_H5k4-vg]] | What Makes a Good Entrepreneur? — four traits (influence / drive / impulse control / inputs-outputs); "every trait has a price tag, paid in the seconds of your life" | |
 | 2026-03-07 | [[2026-03-07-yt-_5Lsp_p8rkM]] | What Is a Natural Skill? — "natural" = unconscious observational learning driven by reward; there is no untrained talent (light) | |
+| 2026-03-07 | [[2026-03-07-yt-MIVGM_N_8Jk]] | My Process for Building Frameworks — define the terms first, strip sentiment, reduce everything to observable behavior to predict reality | ★ |
+| 2026-03-07 | [[2026-03-07-yt-IMXdoAk_bbc]] | Why Most People Don't Win — they seek permission to quit; "doing over being" (decouple mood/identity from action) | |
+| 2026-03-07 | [[2026-03-07-yt-qk-mFc0ZjF4]] | You Just Aren't Doing Enough... — find a winner's volume and double it; skill is leverage on your input ("match vs catch up") | |
 | 2026-03-08 | [[2026-03-08-yt-3rzBub2s_tk]] | What is LTV:CAC? — the human-in-the-loop ratio ladder (3/6/9/12:1 by automated-vs-human stages; 12:1 as the scaling minimum); Gym Launch 100:1 | ★ |
 | 2026-03-08 | [[2026-03-08-yt-_VOApav3nh0]] | "How Do I Manage a Business When I Can't Be In Person?" — a system is "a prompt that triggers behavior without relying on memory"; put a GM on the ground | ★ |
 | 2026-03-08 | [[2026-03-08-yt-7v8vRBbpyBU]] | Why Life Feels Difficult — the "overhead theory of difficulty" (non-core overhead, not the work, makes a season hard); a reframe raised his HRV ~15 pts | ★ |
@@ -1962,7 +1972,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,932 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,942 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
