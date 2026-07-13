@@ -1,12 +1,30 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-13 (@MoreMozi batch 228; 1,772 L2 videos ingested; synthesis pass 24, system-prompt v31)_
+_Last updated: 2026-07-13 (Drive ingest: $100M Offers + Lost Chapters + 9 of 12 playbooks + 2 bonus chapters + Leila SOPs context; @MoreMozi batch 228; 1,772 L2 videos; synthesis pass 24, system-prompt v31)_
 
 ## Sources
 
+### Books, Playbooks & Chapters
+
+- [wiki/sources/2021-100m-offers.md](wiki/sources/2021-100m-offers.md) — **Book (L3): $100M Offers** (2021), Volume I. The Grand Slam Offer, the Value Equation, pricing's virtuous cycle, guarantees, scarcity/urgency/bonuses, MAGIC naming. Foundational.
 - [wiki/sources/2025-08-16-100m-money-models.md](wiki/sources/2025-08-16-100m-money-models.md) — **Book (L3): $100M Money Models** (2025), the trilogy's third pillar. Full framework: money models, the four offer types, Gym Launch case study. The primary business source.
+- [wiki/sources/2025-100m-lost-chapters.md](wiki/sources/2025-100m-lost-chapters.md) — **Book (L3): $100M Lost Chapters** (2025), a "Private Volume" anthology of chapters cut from Offers/Leads/Money Models (Your First Avatar, Value Grid, CFA levels, Employees-as-customers, Maker vs Manager).
+- [wiki/sources/2022-100m-offers-lost-chapter.md](wiki/sources/2022-100m-offers-lost-chapter.md) — Chapter (L3): $100M Offers "The Lost Chapter" — Your First Avatar (top-20% customer selection). Bundled in Lost Chapters.
+- [wiki/sources/2023-100m-leads-bonus-chapters.md](wiki/sources/2023-100m-leads-bonus-chapters.md) — Chapter (L3): $100M Leads 2 Bonus Chapters — Premium/Free/Discount promotions ("Get Flow. Monetize Flow. Then Add Friction.").
+- [wiki/sources/2025-100m-pricing-playbook.md](wiki/sources/2025-100m-pricing-playbook.md) — **Playbook (L3): Pricing** — 10 pricing plays (business-genie math, 28-day billing, continuity, anchors). Money Models launch companion.
+- [wiki/sources/2025-100m-price-raise-playbook.md](wiki/sources/2025-100m-price-raise-playbook.md) — **Playbook (L3): Price Raise** — the RAISE letter, vanishing-discount reframe, stair-step raises.
+- [wiki/sources/2025-100m-lifetime-value-playbook.md](wiki/sources/2025-100m-lifetime-value-playbook.md) — **Playbook (L3): Lifetime Value** — the Crazy Eight monetization levers, LTGP math.
+- [wiki/sources/2025-100m-retention-playbook.md](wiki/sources/2025-100m-retention-playbook.md) — **Playbook (L3): Retention** — 5 Horsemen, the 9-step churn checklist, activation points. Primary source for the retention topic.
+- [wiki/sources/2025-100m-fast-cash-playbook.md](wiki/sources/2025-100m-fast-cash-playbook.md) — **Playbook (L3): Fast Cash** — quarterly premium cash plays, "10x the 10%", 7-day promo cadences.
+- [wiki/sources/2025-100m-lead-nurture-playbook.md](wiki/sources/2025-100m-lead-nurture-playbook.md) — **Playbook (L3): Lead Nurture** — 4 pillars (availability/speed/personalization/volume), speed-to-lead, BAMFAM, show-rate.
+- [wiki/sources/2025-100m-hooks-playbook.md](wiki/sources/2025-100m-hooks-playbook.md) — **Playbook (L3): Hooks** — two-part hook anatomy, 8 verbal categories, the 70-20-10 allocation rule.
+- [wiki/sources/2025-100m-branding-playbook.md](wiki/sources/2025-100m-branding-playbook.md) — **Playbook (L3): Branding** — branding = pairing, reach×influence×direction, 8 brand positions, the bouquet. Primary source for the branding topic.
+- [wiki/sources/2025-100m-marketing-machine.md](wiki/sources/2025-100m-marketing-machine.md) — **Playbook (L3): Marketing Machine** — customer-proof ad engine (7 nodes), testimonial scripts, founder-dependence removal.
+- [wiki/sources/2025-leila-5-scaling-framework-sops.md](wiki/sources/2025-leila-5-scaling-framework-sops.md) — Document (L2, **CONTEXT**): Leila Hormozi's 5 scaling SOPs (5-Star Service, Gametape, Monday Hour One, Pay Increase). Does **not** train the Alex persona.
 - [wiki/sources/2025-08-16-affiliate-black-book.md](wiki/sources/2025-08-16-affiliate-black-book.md) — Launch playbook (L3) for the Money Models book: affiliate campaign architecture + his 8 codified writing rules.
+
+### Research dossiers
 - [wiki/sources/2026-07-08-research-biography-dossier.md](wiki/sources/2026-07-08-research-biography-dossier.md) — Web-research dossier: full life timeline, family, net worth, 10 tracked contradictions, ranked primary-source list.
 - [wiki/sources/2026-07-08-research-media-inventory-dossier.md](wiki/sources/2026-07-08-research-media-inventory-dossier.md) — Complete channel/podcast/website/social inventory with verified IDs and counts; Phase-3 enumeration order.
 - [wiki/sources/2026-07-08-research-companies-dossier.md](wiki/sources/2026-07-08-research-companies-dossier.md) — Registry-grounded company profiles (WY/TX Gym Launch numbers, the APG deal, self-reported financials) + open registry items.
