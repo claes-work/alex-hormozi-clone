@@ -610,6 +610,7 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-16 | [[2026-03-16-yt-pKEvzBiR9LI]] | Be Careful Who You Take Advice From — don't take advice from anyone whose life you don't want; own it's your fault (light) | |
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
 | 2026-03-12 | [[2026-03-12-yt-3T7k-zVKOvg]] | **How I Scaled My First Gyms** — origin (first gym ~$35k/mo, mo9 outsourced, $7M→$26M) | |
+| 2026-03-12 | [[2026-03-12-yt-Iwo_93WfmPs]] | How to Build a Brand — goodwill = a history of positive reinforcement; solve the audience's biggest problems; attribution scales with specificity; podcasts-as-email-lists | ★ |
 | 2026-03-13 | [[2026-03-13-yt-9LSd0QE1w7Y]] | Advice for Hard Days — win the day; "maintaining is winning"; recalibrate your scale so small moments don't eat the season | |
 | 2026-03-13 | [[2026-03-13-yt-6JHmFC1Uups]] | Learn to Love the Pain — the stone-cutter parable (outlook, not the work, differs); "follow your passion" fails because you adapt | ★ |
 | 2026-03-13 | [[2026-03-13-yt-8CpaJ6JyhYg]] | Helping an Interior Design Company Scale (bespoke UHNW) — drop the tier ladder, price each job; a de-minimis retainer; "small jobs get the big jobs" | ★ |
@@ -621,6 +622,15 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-13 | [[2026-03-13-yt-QhgL00rAKZw]] | Helping a Medical Practice Get to $10M/Year — quality is fixed, so it's now a traffic problem; content + paid-ad levers (light) | |
 | 2026-03-13 | [[2026-03-13-yt-aNVfpSgvX4c]] | How to Use Affiliates to Grow Your Business — product-first; the four requirements; social-capital cost; ask when satisfied, not deprived (light) | |
 | 2026-03-13 | [[2026-03-13-yt-1P7sQmTvTDI]] | How to Build Connections with People Ahead of You — no trick; earn proximity by joining their team (⚠️ Alex + Leila, attribution uncertain) (light) | |
+| 2026-03-13 | [[2026-03-13-yt-3r-NEK4gFZ0]] | Ads Have Changed Forever — the shift to a volume of AI-generated creative + hyper-personalization; a self-proliferating creative machine (customer-generated-creative flywheel) | ★ |
+| 2026-03-13 | [[2026-03-13-yt-6AmEknBxfPg]] | How I Scale Companies I Invest In — the three legs of the stool (money/time/brand); an old-school + new-school HoldCo team; the creator-deal filter | ★ |
+| 2026-03-13 | [[2026-03-13-yt-92ReEZwYBQQ]] | How to Win with AI in 2026 — roles → workflows; train machines with observable behavior; the Hotline pipeline; UX disappears in 12-24 mo (dup-ish of jnzSkcHUUF8) | |
+| 2026-03-13 | [[2026-03-13-yt-75YTY8XbQbs]] | What to Do When People Ask for Equity — the four attributes of equity (risk/control/profit-share/sale-value); profits-interest as a sale-bonus alternative | |
+| 2026-03-13 | [[2026-03-13-yt-5NaZMLGdEiw]] | How to Communicate Clearly — analogy over accuracy; keep content declarative-not-procedural; train staff via pattern-matching (95/5) | |
+| 2026-03-13 | [[2026-03-13-yt-UmdfdS_1FMg]] | How to Run a Sales Team — a daily role-play cadence; a bimodal gross-output career ladder; paired antagonistic KPIs; a milestone-gated on-ramp | |
+| 2026-03-13 | [[2026-03-13-yt-_YQA9f1g5Jw]] | How I'd Scale a Restaurant — back-end-first margin levers; scripted 4-conversation service; a review engine; a Wendy's-Frosty first-500 loyalty hook | |
+| 2026-03-13 | [[2026-03-13-yt-uTKBbnBSB1s]] | How to Win in a Commoditized Business — de-commoditize via the three vectors of value (risk/speed/ease); the on-time/on-budget guarantee; career pathing | |
+| 2026-03-13 | [[2026-03-13-yt-VzGFf2bhVHY]] | How I Think About Making Content — content as practice, not the game; gamify your metrics (more ways to track = more ways to win) | |
 | 2026-03-14 | [[2026-03-14-yt-mz7ply2oKA4]] | How to Get Good at Sales — conviction + trust; tonality via genuine belief; testimonials; "childlike curiosity" for objections; volume of reps | |
 | 2026-03-15 | [[2026-03-15-yt-8cw62svEXt8]] | Restaurant → $100M — product is the only durable lever; product-premium = marketing | |
 | 2026-03-15 | [[2026-03-15-yt-gBJ9ijnYS7g]] | You Need to Hire Better Talent — "the best talent you have is in the future, not the past"; demonstration over assertion | |
@@ -1862,7 +1872,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,832 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,842 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

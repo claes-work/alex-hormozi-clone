@@ -6246,3 +6246,31 @@ voice.md (+6 verbatim lines). Recompiled **persona/system-prompt.md → v33**.
 High-water mark advanced to **batch 234** in pipeline/synthesis-state.md. Real MoreMozi L2 debt is
 now drained through batch 234; ingest resumes at batch 235.
 Synthesis notes: none (this IS the synthesis pass; ingest debt for batches 225-234 drained).
+
+## [2026-07-13] ingest | yt batch 235 - @MoreMozi P2 (2026-03-12 to 2026-03-13), 10 videos
+
+Ten solo/interview "how I / how to" lesson pieces (framework-dense). Attribution per speaker; only Alex-attributed material flows to persona. 6AmEknBxfPg is an interview (off-camera host); 92ReEZwYBQQ is a possible partial dup of the batch-225 "How to Win with AI in 2026" (jnzSkcHUUF8).
+
+- **2026-03-13** `yt-3r-NEK4gFZ0` - "ads have changed forever": paid advertising has shifted to a
+  **volume of AI-generated creative + hyper-personalization at scale**; build a **self-proliferating creative machine** (customer-generated-creative flywheel / "self-licking ice cream cone"). Extends the existing Andromeda / creative-as-targeting material.
+- **2026-03-13** `yt-6AmEknBxfPg` - "how I scale companies I invest in" (interview): the ACQ
+  investing/scaling lens - the **three legs of the stool** (money / time / brand); an old-school + new-school HoldCo team (ex-McKinsey/Bain + operators); the **creator-deal filter** (de-novo = execution risk without control; a later-stage JV is only worth it if ACQ already owns the core competencies); brand-as-pairings dilution.
+- **2026-03-12** `yt-Iwo_93WfmPs` - "how to build a brand": **goodwill = a history of positive
+  reinforcement**; a reinforcement-loop content engine (solve the audience's biggest problems); reject the zero-sum give-to-ask myth (Jobs); attribution scales with specificity; podcasts-as-email-lists. (Reinforces the $100M Branding playbook.)
+- **2026-03-13** `yt-92ReEZwYBQQ` - "how to win with AI in 2026" (Q&A): roles → workflows; train
+  machines with black-and-white observable behavior; the Hormozi Hotline pipeline; agencies become lucrative; a ~$150k AI-automation hire; UX disappears in 12-24 months; humanoid robots win. (Possible partial dup of jnzSkcHUUF8 - shared workflow-not-roles thesis, but distinct live material.)
+- **2026-03-13** `yt-75YTY8XbQbs` - "what to do when people ask for equity": the **four attributes of
+  equity** (risk / control / profit-share / sale-value) + profits-interest-as-a-sale-bonus as the alternative; tax rates; return-to-pool; tail negotiation. (Overlaps batch-231 BWZPNrCPqL0 - merge, adds profits-interest mechanics.)
+- **2026-03-13** `yt-5NaZMLGdEiw` - "how to communicate clearly": a communication/teaching triad -
+  analogy over accuracy; keep content declarative-not-procedural; train staff via pattern-matching (95/5 run-the-playbook-then-mint-new-patterns).
+- **2026-03-13** `yt-UmdfdS_1FMg` - "how to run a sales team": a sales-team operating system - a daily
+  role-play cadence; a bimodal gross-output career ladder; paired antagonistic KPIs; a milestone-gated on-ramp. (Overlaps process-above-player / utilization - reconcile.)
+- **2026-03-13** `yt-_YQA9f1g5Jw` - "how I'd scale a restaurant": a brick-and-mortar turnaround
+  playbook - back-end-first margin levers (.99 pricing / card-fee / GP-ordered menu); a scripted four-conversation service journey; a review engine; a Wendy's-Frosty-style first-500 loyalty hook; local-ambassador seeding. (Complements, doesn't duplicate, the batch-231 franchise-vs-own thread.)
+- **2026-03-13** `yt-uTKBbnBSB1s` - "how to win in a commoditized business" (turf): de-commoditize via
+  the **three vectors of value** (risk / speed / ease); the on-time/on-budget guarantee + no-change contingency; maintenance-plan-for-review; 12-progression career pathing; "scale zero." (Ties several recurring threads together.)
+- **2026-03-13** `yt-VzGFf2bhVHY` - "how I think about making content": **content as practice, not
+  the game**; gamify your metrics (more ways to track = more ways to win); project growth to sustain output through the low-signal early phase.
+
+Ledger 10->L2 (L2 now 1,842). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: **ADS-HAVE-CHANGED-volume-of-AI-generated-creative+hyper-personalization-at-scale/SELF-PROLIFERATING-CREATIVE-MACHINE-customer-generated-creative-flywheel - marketing/paid-ads candidate (RICH; extends Andromeda/creative-as-targeting into a dated 2026 thesis)**; **ACQ-INVESTING-LENS-three-legs-of-the-stool-money-time-brand/old+new-school-holdco-team/CREATOR-DEAL-FILTER-de-novo-execution-risk-vs-later-stage-JV-only-if-own-core-competencies - business/scaling + wealth candidate (RICH; how ACQ picks/scales investments)**; GOODWILL=HISTORY-OF-POSITIVE-REINFORCEMENT-brand-engine/solve-audience-biggest-problems/reject-zero-sum-give-to-ask-Jobs/attribution-scales-with-specificity/podcasts-as-email-lists - content-strategy/branding candidate (reinforces branding playbook); FOUR-ATTRIBUTES-OF-EQUITY-risk-control-profit-share-sale-value+PROFITS-INTEREST-as-sale-bonus - business/hiring + wealth candidate (consolidate w/ batch-231 leadership-equity into one equity-comp framework); COMMUNICATION-TRIAD-analogy-over-accuracy/declarative-not-procedural/pattern-matching-training-95-5 - business/communication-and-management candidate; SALES-TEAM-OS-daily-role-play-cadence/bimodal-gross-output-career-ladder/paired-antagonistic-KPIs/milestone-gated-on-ramp - business/sales-team-scaling candidate (reconcile w/ existing); RESTAURANT-TURNAROUND-back-end-first-margin-levers/scripted-4-conversation-service/review-engine/Wendys-Frosty-first-500-hook - business candidate; CONTENT-AS-PRACTICE-not-the-game/gamify-your-metrics-more-ways-to-track-more-ways-to-win - content-strategy + mindset candidate; THREE-VECTORS-OF-VALUE-risk-speed-ease-to-de-commoditize - business/pricing candidate (recurs). 92ReEZwYBQQ - possible dup of jnzSkcHUUF8 (workflow-not-roles), reconcile at synthesis.
