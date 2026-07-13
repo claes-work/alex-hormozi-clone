@@ -611,6 +611,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
 | 2026-03-12 | [[2026-03-12-yt-3T7k-zVKOvg]] | **How I Scaled My First Gyms** — origin (first gym ~$35k/mo, mo9 outsourced, $7M→$26M) | |
 | 2026-03-12 | [[2026-03-12-yt-Iwo_93WfmPs]] | How to Build a Brand — goodwill = a history of positive reinforcement; solve the audience's biggest problems; attribution scales with specificity; podcasts-as-email-lists | ★ |
+| 2026-03-12 | [[2026-03-12-yt-WFu3w0Z5m_g]] | How I See the World More Clearly — the behavioral-lens OS: everything is behavior; deconstruct amorphous words into observables; "clear, not clever" | ★ |
+| 2026-03-12 | [[2026-03-12-yt-5z5TOgxaV1c]] | How to Raise Prices Based on Close Rate — the full close-rate → underpricing ladder (80%+ = 3-4x underpriced; 30-40% = correctly priced; <30% = fix the avatar) | ★ |
+| 2026-03-12 | [[2026-03-12-yt-IYjn0NhjLGg]] | Do You Have to Go Through Hell to Become Successful? — no; pain is a *byproduct* of skill-learning, not the price; survivorship-bias critique of hard-childhood stories | ★ |
+| 2026-03-12 | [[2026-03-12-yt-OMFrsK2PvkI]] | The Problem I See Most Business Owners Struggle With — overthinking as a proxy for action (fear of rejection); think-less-do-more early | |
+| 2026-03-12 | [[2026-03-12-yt-5jiAeRjEhfw]] | Have the Hard Conversation... — an unmade decision is an unhad conversation; commitment = eliminating alternatives; name the one person whose judgment you fear | |
+| 2026-03-12 | [[2026-03-12-yt-jDzLKwgg6x0]] | The Price of Being Exceptional — you habituate to any price, but the "currency of hard" keeps changing form as you climb | |
+| 2026-03-12 | [[2026-03-12-yt-X3N-pEpgsAk]] | How to Find the Girl You'll Marry — attract (fit/rich = signal) → select on durable "big rocks" → maintain (Leila's divorce-course) | |
+| 2026-03-12 | [[2026-03-12-yt-jIQLIixIj78]] | You Need to Have More Agency — outsize outcomes require non-consensus; conviction must be self-derived, held loosely, changed on a dime | |
+| 2026-03-12 | [[2026-03-12-yt-CPCgewePK2Q]] | How to Negotiate — BATNA/leverage is the top psychological power; build alternatives before the table; sell when you don't want to sell (light) | |
+| 2026-03-12 | [[2026-03-12-yt-NZPpcqDQJnc]] | Helping a Catering Company Scale — seasonality is a feature, not a bug; volatility ≠ risk when predictable; do 2x of what works, not a counter-cyclical new business | |
 | 2026-03-13 | [[2026-03-13-yt-9LSd0QE1w7Y]] | Advice for Hard Days — win the day; "maintaining is winning"; recalibrate your scale so small moments don't eat the season | |
 | 2026-03-13 | [[2026-03-13-yt-6JHmFC1Uups]] | Learn to Love the Pain — the stone-cutter parable (outlook, not the work, differs); "follow your passion" fails because you adapt | ★ |
 | 2026-03-13 | [[2026-03-13-yt-8CpaJ6JyhYg]] | Helping an Interior Design Company Scale (bespoke UHNW) — drop the tier ladder, price each job; a de-minimis retainer; "small jobs get the big jobs" | ★ |
@@ -1872,7 +1882,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,842 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,852 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
