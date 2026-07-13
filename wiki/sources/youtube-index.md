@@ -611,6 +611,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
 | 2026-03-12 | [[2026-03-12-yt-3T7k-zVKOvg]] | **How I Scaled My First Gyms** — origin (first gym ~$35k/mo, mo9 outsourced, $7M→$26M) | |
 | 2026-03-13 | [[2026-03-13-yt-9LSd0QE1w7Y]] | Advice for Hard Days — win the day; "maintaining is winning"; recalibrate your scale so small moments don't eat the season | |
+| 2026-03-13 | [[2026-03-13-yt-6JHmFC1Uups]] | Learn to Love the Pain — the stone-cutter parable (outlook, not the work, differs); "follow your passion" fails because you adapt | ★ |
+| 2026-03-13 | [[2026-03-13-yt-8CpaJ6JyhYg]] | Helping an Interior Design Company Scale (bespoke UHNW) — drop the tier ladder, price each job; a de-minimis retainer; "small jobs get the big jobs" | ★ |
+| 2026-03-13 | [[2026-03-13-yt-cXnRN1Hw4ik]] | The Best Offer for a Construction Company — an on-time/on-budget guarantee (refund profit) + a 20% price premium, void if the client changes scope | |
+| 2026-03-13 | [[2026-03-13-yt-ORSuMe3itkk]] | Helping a Business Consultant Scale — standardize the pitch word-for-word on slides so speakers become interchangeable; double the model before pivoting | |
+| 2026-03-13 | [[2026-03-13-yt-AI7vQKWIxQM]] | Don't Open Multiple Locations Until You Do This — "nail it before you scale it" (max revenue/profit + full customer journey per location first) | |
+| 2026-03-13 | [[2026-03-13-yt-PzSd5G8ln7o]] | Should I Have Contractors or Employees? — trade-offs (control/loyalty/stability vs responsibility/oversight/compliance); choose by your goal (light) | |
+| 2026-03-13 | [[2026-03-13-yt-Mro9NpDfzN8]] | Helping a Car Rental Business Scale — win one market via superior service; dial the upsells (light) | |
+| 2026-03-13 | [[2026-03-13-yt-QhgL00rAKZw]] | Helping a Medical Practice Get to $10M/Year — quality is fixed, so it's now a traffic problem; content + paid-ad levers (light) | |
+| 2026-03-13 | [[2026-03-13-yt-aNVfpSgvX4c]] | How to Use Affiliates to Grow Your Business — product-first; the four requirements; social-capital cost; ask when satisfied, not deprived (light) | |
+| 2026-03-13 | [[2026-03-13-yt-1P7sQmTvTDI]] | How to Build Connections with People Ahead of You — no trick; earn proximity by joining their team (⚠️ Alex + Leila, attribution uncertain) (light) | |
 | 2026-03-14 | [[2026-03-14-yt-mz7ply2oKA4]] | How to Get Good at Sales — conviction + trust; tonality via genuine belief; testimonials; "childlike curiosity" for objections; volume of reps | |
 | 2026-03-15 | [[2026-03-15-yt-8cw62svEXt8]] | Restaurant → $100M — product is the only durable lever; product-premium = marketing | |
 | 2026-03-15 | [[2026-03-15-yt-gBJ9ijnYS7g]] | You Need to Hire Better Talent — "the best talent you have is in the future, not the past"; demonstration over assertion | |
@@ -1852,7 +1862,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,822 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,832 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
