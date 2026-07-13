@@ -6,8 +6,18 @@ his business frameworks (offers, leads, sales, scaling, money models) **and** th
 biography, voice, vocabulary, values, and how his opinions changed over time.
 
 The end product is `persona/system-prompt.md` — a chat system prompt faithful enough that talking to
-it feels like talking to him, with every trait traceable to a cited source. This repo is also the
-**first instance of a reusable framework** for cloning any public figure the same way.
+it feels like talking to him, with every trait traceable to a cited source.
+
+> ### 📦 This is a ready-to-go clone
+> It's a fully-built **instance** of the
+> **[persona-clone-template »](https://github.com/claes-work/persona-clone-template)** — the reusable
+> blueprint for cloning *any* public figure the same way.
+>
+> - **Want to _use Alex_?** You're in the right place — chat with him, browse his knowledge. Read on.
+> - **Want to understand the _machinery_, or clone _someone else_?** Go to the
+>   [template repo](https://github.com/claes-work/persona-clone-template). It documents the whole
+>   technique end-to-end: the name-only bootstrap, the tiered ingestion model, and the multi-clone
+>   vision. This repo just shows what a finished clone looks like once you've run it.
 
 ---
 
@@ -40,6 +50,11 @@ persona/system-prompt.md   ← the clone you chat with (the product)
   everything in English. Full rules in [`AGENTS.md`](AGENTS.md).
 
 Both loops are **harness-neutral** — identical in Claude Code, Codex, or Pi.
+
+That's the rough shape. The full technique — how a clone is bootstrapped from *just a name*, why the
+pipeline is tiered, the fidelity model, and where this is all heading (a team of clones as cooperating
+agents) — lives in the **[persona-clone-template](https://github.com/claes-work/persona-clone-template)**.
+This README stays focused on **using and maintaining the Alex clone**.
 
 ---
 
@@ -105,3 +120,11 @@ push. Then repeat for the next pending checkpoint until none remain or I say sto
 Every source is tracked in the ledger at one of: **L1** cataloged → **L2** ingested (source page) →
 **L3** synthesized (promoted into topics/persona). Most long-tail content is L2-terminal; only
 genuinely-new material earns L3.
+
+---
+
+## Related
+
+- **[persona-clone-template](https://github.com/claes-work/persona-clone-template)** — the reusable
+  blueprint this repo is built from. Start there to clone a different public figure, or to read how
+  the whole pipeline works.
