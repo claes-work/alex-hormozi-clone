@@ -609,6 +609,7 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-16 | [[2026-03-16-yt-plV_nyqluOE]] | Helping a Coffee Company ($4M) Scale — "under-talented, not over-expanded"; fix retail margins to 40%+ before adding locations (light) | |
 | 2026-03-16 | [[2026-03-16-yt-pKEvzBiR9LI]] | Be Careful Who You Take Advice From — don't take advice from anyone whose life you don't want; own it's your fault (light) | |
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
+| 2026-03-05 | [[2026-03-05-yt-3avBSxy2kHM]] | Why I Bought the UFC Headquarters — **new HQ**: the former UFC building in Las Vegas (~36k sq ft) as an in-person HQ + media-studio complex; pivoting from remote to scale content | ★ |
 | 2026-03-06 | [[2026-03-06-yt-2cWuvq4MoKc]] | Passive Income Is a Lie — kill the active/passive binary; measure return on time (dollars-per-hour); reinvest into your proven active engine | ★ |
 | 2026-03-06 | [[2026-03-06-yt-xaqJeQ9Uyj4]] | Why I Started Making Content — **bio**: saw social media's "monster" free impressions; started YouTube and his first book at ~the same time; PE + social media | ★ |
 | 2026-03-06 | [[2026-03-06-yt-Y2qMoxxKymE]] | The Difference Between Heroes and Villains — heroes *use* their pain, villains are used by it; the "and that's okay" reframe; document your struggle | |
@@ -616,6 +617,15 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-06 | [[2026-03-06-yt--iOTVPDunmE]] | The First $100K Is the Hardest — five years, a dollar at a time; getting out of poverty starts with "it's my fault" (light) | |
 | 2026-03-06 | [[2026-03-06-yt-agXr1aGdsmM]] | Seasons of Learning vs. Earning — most people trade to earning too soon; passion is built, not found (light) | |
 | 2026-03-06 | [[2026-03-06-yt-zONatpYv5LE]] | Stop Waiting for the Perfect Moment to Start — starting *is* the perfect condition; imperfect action (light) | |
+| 2026-03-06 | [[2026-03-06-yt-wdsPrHSWU3I]] | How I Met My Wife — **bio**: Leila joined the business (~$120k processed day one; Alex 27 / Leila 23); reached "love love" only ~Dec 2019 | ★ |
+| 2026-03-06 | [[2026-03-06-yt-eLcwZbSFAlI]] | What is "Brand"? — brand = curated learned associations; the garden/weed dilution model; brand ↔ product = compounding | ★ |
+| 2026-03-06 | [[2026-03-06-yt-E3Vhcp1pTvg]] | The Levels of Wealth — needs → discretionary → luxury (~$100k/mo); savings-rate as the multiplier; minority → majority acquisition + media reinvestment | |
+| 2026-03-06 | [[2026-03-06-yt-V4UBTMOqolo]] | How to Buy Skills — education = an investor asset valued by the delta to your goal; a 4-step "extract value from any paid program" method | |
+| 2026-03-06 | [[2026-03-06-yt-_d5vB_ZSjlc]] | How to Make Decisions — deliberating (not doing) is the bottleneck; cost-of-being-wrong vs cost-of-delay; collapse the deadline (week → day → hour → now) | |
+| 2026-03-06 | [[2026-03-06-yt-RmkWOOGPYTI]] | Make Sacrifices Wisely — success as an infinite game ("keep playing = winning"); choose your sacrifices by asking "what problem are we solving?" | |
+| 2026-03-06 | [[2026-03-06-yt-WUx9r88-IYU]] | Poor People Buy Stuff. Ambitious People Buy Skills. — the four-quadrant spending taxonomy; "vote with your dollars"; spending = identity (light) | |
+| 2026-03-06 | [[2026-03-06-yt-BH2DkcZZMl4]] | You're Not Supposed to Know What You're Doing — not-knowing is definitional of growth; your results must embody your advice (light) | |
+| 2026-03-06 | [[2026-03-06-yt-wKrXZzRODi8]] | It Just Takes More Work — work is underestimated 5-10x; "work begins once motivation stops" (light) | |
 | 2026-03-07 | [[2026-03-07-yt-SsGrKx5rrDc]] | Sleeping on the Floor While Starting My First Gym — **bio**: the first gym was a warehouse under a parking garage; he slept in it ($5k rent left nothing for housing) | ★ |
 | 2026-03-07 | [[2026-03-07-yt-bQuFlmQt9Ic]] | Lessons from Elon Musk — "Elon's algorithm" (question requirements → delete → optimize → accelerate → automate) as a fix-anything tool; "pull the thread" | ★ |
 | 2026-03-07 | [[2026-03-07-yt-FgNNbkhIUMg]] | What Is "Value"? — brand is a lever on the *risk* component of the Value Equation, not a separate force; "all gives, then you get" | ★ |
@@ -1972,7 +1982,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,942 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,952 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
