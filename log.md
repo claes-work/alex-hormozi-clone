@@ -5860,3 +5860,31 @@ memo-system / four-variable-toughness / AI-amplification traits currently trace 
 citations in the system prompt; a later pass can backfill persona/beliefs.md for a literal
 persona-page trace.
 Synthesis notes: none (this IS the synthesis pass; ingest debt for batches 215-224 drained).
+
+## [2026-07-13] ingest | yt batch 225 - @MoreMozi P2 (2026-03-16 to 2026-03-17), 10 videos
+
+Nine live business teardowns + one solo AI piece. Client statements attributed per speaker; only Alex-attributed material flows to persona. M&A / hiring / cash-flow heavy.
+
+- **2026-03-16** `yt-jnzSkcHUUF8` - "how to win with AI in 2026": **workflow-not-roles** AI thesis -
+  decompose functions into granular workflows and let agents eat each step (vs. thinking in org-chart roles); actions-only training shortcut; self-reported ACQ ~3x media output at flat headcount. Overlaps the AI-for-leverage material but adds the org-chart-vs-flows framing.
+- **2026-03-16** `yt-Bd2cPHyT-lk` - "medspa acquire other medspas": **roll-up / M&A playbook** for a
+  services operator - deal-structure-as-value-lever; the "cell-phone-talk" operator-incentive template; "any answer that is not 'call me' is the right answer" delegation; coaching = no exit vs an exitable roll-up asset.
+- **2026-03-16** `yt-2IGBCUHCX8c` - "e-com $2M recruiting": **you're under-pricing your talent** -
+  supply-constraint + high profit means you're paying scarce labor too little; test a relocation/training premium vs margin; "jack the price, jack the talent"; source via calling owners in a dying trade; "supply first" sequencing.
+- **2026-03-16** `yt-A5WvoUCwL6U` - "wholesale hemp $22M→$50M": **act on known information, don't hedge
+  against feared regulation** - bills carry notice + votes + phase-ins, so you have more runway than you think; capitalize while the opportunity exists and hold the product pivot in reserve; Ray Dalio gold-vs-stocks cautionary example.
+- **2026-03-16** `yt-t9INtrdXM08` - "e-com $3M build a team": **hire against your deficiency** -
+  decompose the business into functions to diagnose the missing hire (a media buyer); use equity + inventory/stock compensation to land above-market talent.
+- **2026-03-16** `yt-B91R5CVeu3U` - "increasing cash flow in a consulting firm": pull cash forward
+  (a ~$10k prepaid plan credited to year one) vs. raise equity, as the two growth levers; growth-vs-risk is reputational, not fiscal (Keith Cunningham downside test; Leila's "the door only gets bigger").
+- **2026-03-16** `yt-YAkwOWDgFfg` - "sales-coaching + lead-gen agency scale": **churn is an avatar +
+  activation problem** - segment avatars (demographics / quantifiables / behaviors), sell only the higher-converting avatars (accepting higher CAC), reverse-engineer the activation behaviors; plus the Gym Launch boiler-room five-part team sales-training rotation.
+- **2026-03-17** `yt-Aui7yNifFTg` - "coaching business scale": pin the revenue number first; the model
+  isn't broken, it's supply-constrained - change the delivery ratio, then advertise for ~10x leads. (Reinforces existing delivery/leverage material.)
+- **2026-03-16** `yt-snUpRK_0YAk` - "wellness clinic $6.7M→$25M": fix 15%→35-40% margins before
+  expanding; over-expanded = under-talented; membership sales motion + provider retention (loyalty to brand not injector). (Standard cut - reprises the local-service/med-spa playbook.)
+- **2026-03-16** `yt-BdrzJpGMDuc` - "online service fix offer" (poker coaching): fix ops → paid ads →
+  cut the overlapping offer; "price it so cheap they don't believe it"; Veblen-good pricing. (Standard cut - clean applied example, no new framework.)
+
+Ledger 10->L2 (L2 now 1,742). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: **WORKFLOW-NOT-ROLES-AI-decompose-functions-agents-eat-each-step/org-chart-vs-flows/actions-only-training/3x-media-flat-headcount - business/ai-in-business candidate (extends AI-for-leverage three-wheels w/ org-design framing)**; **SERVICES-ROLL-UP-M&A-PLAYBOOK-deal-structure-as-value-lever/cell-phone-talk-operator-incentive-template/any-answer-not-call-me-delegation/coaching-no-exit-vs-exitable-rollup-asset - business/scaling + wealth candidate (M&A/roll-up, recurs across med-spa/dental/home-services)**; UNDER-PRICING-YOUR-TALENT-supply-constraint+high-profit=pay-scarce-labor-too-little/jack-price-jack-talent/supply-first/source-via-dying-trade-calls - business/hiring candidate (pairs w/ recruiting-is-advertising + leadership-layer hiring); ACT-ON-KNOWN-INFO-dont-hedge-feared-regulation/bills-carry-notice-votes-phase-ins/expand-now-hold-pivot-in-reserve/Ray-Dalio-gold-vs-stocks - mindset/decision-making candidate; HIRE-AGAINST-YOUR-DEFICIENCY-decompose-into-functions/equity+inventory-comp-for-above-market-talent - business/hiring candidate; PULL-CASH-FORWARD-prepaid-plan-vs-equity/growth-vs-risk-is-reputational-not-fiscal/Keith-Cunningham-downside-test - business/money-model candidate (reinforces pull-cash-forward cluster); CHURN=AVATAR+ACTIVATION-sell-only-high-converting-avatars-accept-higher-CAC/reverse-engineer-activation-behaviors/Gym-Launch-boiler-room-5-part-sales-training - business/retention + sales candidate. Standard cuts (no new framework): snUpRK_0YAk (med-spa playbook reprise), BdrzJpGMDuc (offer-fix applied example), Aui7yNifFTg (supply-constraint reprise).
