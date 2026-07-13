@@ -609,6 +609,12 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-16 | [[2026-03-16-yt-plV_nyqluOE]] | Helping a Coffee Company ($4M) Scale — "under-talented, not over-expanded"; fix retail margins to 40%+ before adding locations (light) | |
 | 2026-03-16 | [[2026-03-16-yt-pKEvzBiR9LI]] | Be Careful Who You Take Advice From — don't take advice from anyone whose life you don't want; own it's your fault (light) | |
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
+| 2026-03-08 | [[2026-03-08-yt-3rzBub2s_tk]] | What is LTV:CAC? — the human-in-the-loop ratio ladder (3/6/9/12:1 by automated-vs-human stages; 12:1 as the scaling minimum); Gym Launch 100:1 | ★ |
+| 2026-03-08 | [[2026-03-08-yt-_VOApav3nh0]] | "How Do I Manage a Business When I Can't Be In Person?" — a system is "a prompt that triggers behavior without relying on memory"; put a GM on the ground | ★ |
+| 2026-03-08 | [[2026-03-08-yt-7v8vRBbpyBU]] | Why Life Feels Difficult — the "overhead theory of difficulty" (non-core overhead, not the work, makes a season hard); a reframe raised his HRV ~15 pts | ★ |
+| 2026-03-08 | [[2026-03-08-yt-dgQj5lEkzns]] | "I Make $1M/Year Teaching Arts and Crafts. How Do I Scale?" — the two-cart-close launch (annual-only + exclusive bonuses, then scoop-up to monthly) | |
+| 2026-03-08 | [[2026-03-08-yt-szjSGPDKnug]] | How to Learn Anything — observe outliers over asking; "prediction is control"; mastery = influencing the variables | |
+| 2026-03-08 | [[2026-03-08-yt-_9hWrmoHd3g]] | Helping a Landscaping Business Scale — constraint-based capital allocation; two-VSL high-ticket sale; a crew-leader hire; a recurring maintenance anchor | |
 | 2026-03-09 | [[2026-03-09-yt-sA1Xs3ORb3Q]] | How to Monetize as a Creator in 2026 — five monetization paths on an axis of control (sponsorship → affiliate → invest → white-label → build); control ↔ enterprise value | ★ |
 | 2026-03-09 | [[2026-03-09-yt-81lZi32cE-o]] | Why Creators Burn Out (and How to Fix It) — wrong audience/product; "followers ≠ influence"; the four elements of influence (likeness/credibility/power/status) | ★ |
 | 2026-03-09 | [[2026-03-09-yt-uhKggaiw3AA]] | Don't Invest in the S&P 500 — (personal opinion, not advice) early on, invest in yourself/your skills (highest ROIC) over a ~10% index return | ★ |
@@ -618,6 +624,10 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-09 | [[2026-03-09-yt-XFUwLqqInkk]] | One Solution That Solves 99% of Problems — volume + feedback; "patient with outputs, impatient with inputs"; action as a coping mechanism | |
 | 2026-03-09 | [[2026-03-09-yt-GrSoheP2P7I]] | Why I Love Business — daily micro-rewards over distant outcomes; punishment-aversion; find your thing by iterating away from what you hate | |
 | 2026-03-09 | [[2026-03-09-yt-gjpEwA5zky4]] | You Need to Work 100x Harder — effort scales non-linearly; "count in hundreds"; done = nothing left to improve (light) | |
+| 2026-03-09 | [[2026-03-09-yt-8tt2wiip4cQ]] | Starting a Gym at 23 — **bio**: first gym at 23 on a $5k/mo lease; a failed Groupon plan; saved by learning Facebook ads 2 weeks before opening | ★ |
+| 2026-03-09 | [[2026-03-09-yt-piXf3CdXOAI]] | You Need More Skills — the four-quadrant time/money taxonomy (rich buy time, poor buy stuff, ambitious buy skills, lazy buy distractions) | |
+| 2026-03-09 | [[2026-03-09-yt-EeFgui-T6Go]] | How Winning Works — winning happens alone in the unwitnessed middle; consistency is the top success trait (light) | |
+| 2026-03-09 | [[2026-03-09-yt-YyDvxuZnLkE]] | If You Want to Be Exceptional... — to be exceptional is to be the exception; the lonely out-group is a distraction-free transition (light) | |
 | 2026-03-10 | [[2026-03-10-yt-LBePQ2kDrIc]] | Morning-routine-obsessed people make less money — correlation ≠ causation; "mirror the grind, not the mountaintop"; only measurable action counts | |
 | 2026-03-10 | [[2026-03-10-yt-sJmQGb3Yc1U]] | Goals Aren't Finish Lines, They're Mile Markers — the payoff is the climb; you win by outlasting everyone (light) | |
 | 2026-03-11 | [[2026-03-11-yt-ibjqAg-NbBA]] | Who Is Alex Hormozi? — the richest first-person origin story; childhood, defense-consulting exit, Gym Launch collapse to $1k → 2021 triple exit → Acquisition.com | ★ |
@@ -1932,7 +1942,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,902 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,912 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
