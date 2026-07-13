@@ -94,3 +94,27 @@ These are the "12 secret playbooks" bundled with the Money Models launch
 7. **Leila SOPs** (context entity).
 8. **Synthesis pass** → promote new frameworks into topics/persona, recompile
    `system-prompt.md`; update ledger + index + log; commit.
+
+---
+
+## Execution status (2026-07-13)
+
+**Download constraint discovered:** the Drive MCP `download_file_content` reliably fails
+(session-expired) for files ≳5–8 MB; ≤~5 MB works. `read_file_content` returns a text
+export capped at ~95k chars (fine for short playbooks; too little for full books).
+Large binaries were pulled via a **browser direct-download** (`drive.google.com/uc?export=download&id=…`).
+
+**INGESTED (L3/L2 source pages written + raw extracted):**
+- Books: $100M **Offers** (2021), $100M **Leads** (2023, browser-downloaded, 385 pp), $100M **Lost Chapters** (2025 anthology).
+- Chapters: Offers Lost Chapter (Your First Avatar), Leads 2 Bonus Chapters.
+- All **12 playbooks**: Pricing, Price Raise, Lifetime Value, Retention, Fast Cash, Lead Nurture, Hooks, Branding, Marketing Machine (clean pypdf) + Closing, Proof Checklist, GOATed Ads (text export; Closing/Proof OCR noisy — flagged on pages).
+- **Scaling Roadmap** — consolidated L2 page from the per-stage "Personalized Guide" PDFs (10 stages).
+- **Leila 5 Scaling SOPs** — L2 context (not persona).
+
+**SKIPPED (confirmed):**
+- `$100M Journal.pdf` (74 MB) — **image-only, empty text layer**. No usable text.
+- `$100M Scaling Roadmap.pdf` master (128 MB) — **image-only, empty text**; content captured via the stage guides instead.
+- `$100M Complete.pdf` (44 MB) — playbook bundle, superseded by the individual playbooks.
+- `All lost Chapters.pdf` (164 MB) — same content as the ingested Lost Chapters.
+- Affiliate Blackbook / Master Doc — dup of existing `doc-affiliate-black-book`.
+- German folder, all audio/video, `.DS_Store`, launch-logistics xlsx — out of scope.

@@ -1,13 +1,14 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-13 (Drive ingest: $100M Offers + Lost Chapters + 9 of 12 playbooks + 2 bonus chapters + Leila SOPs context; @MoreMozi batch 228; 1,772 L2 videos; synthesis pass 24, system-prompt v31)_
+_Last updated: 2026-07-13 (Drive ingest COMPLETE: $100M Offers + Leads books + Lost Chapters + all 12 playbooks + Scaling Roadmap + 2 bonus chapters + Leila SOPs context; @MoreMozi batch 228; 1,772 L2 videos; synthesis pass 24, system-prompt v31)_
 
 ## Sources
 
 ### Books, Playbooks & Chapters
 
 - [wiki/sources/2021-100m-offers.md](wiki/sources/2021-100m-offers.md) — **Book (L3): $100M Offers** (2021), Volume I. The Grand Slam Offer, the Value Equation, pricing's virtuous cycle, guarantees, scarcity/urgency/bonuses, MAGIC naming. Foundational.
+- [wiki/sources/2023-100m-leads.md](wiki/sources/2023-100m-leads.md) — **Book (L3): $100M Leads** (2023), Volume II. The Core Four (warm/cold × 1-to-1/1-to-many), the Four Lead Getters, Rule of 100, lead-magnet taxonomy, LTGP:CAC. Canonical source for the many "$100M Leads" YouTube derivatives.
 - [wiki/sources/2025-08-16-100m-money-models.md](wiki/sources/2025-08-16-100m-money-models.md) — **Book (L3): $100M Money Models** (2025), the trilogy's third pillar. Full framework: money models, the four offer types, Gym Launch case study. The primary business source.
 - [wiki/sources/2025-100m-lost-chapters.md](wiki/sources/2025-100m-lost-chapters.md) — **Book (L3): $100M Lost Chapters** (2025), a "Private Volume" anthology of chapters cut from Offers/Leads/Money Models (Your First Avatar, Value Grid, CFA levels, Employees-as-customers, Maker vs Manager).
 - [wiki/sources/2022-100m-offers-lost-chapter.md](wiki/sources/2022-100m-offers-lost-chapter.md) — Chapter (L3): $100M Offers "The Lost Chapter" — Your First Avatar (top-20% customer selection). Bundled in Lost Chapters.
@@ -21,6 +22,10 @@ _Last updated: 2026-07-13 (Drive ingest: $100M Offers + Lost Chapters + 9 of 12 
 - [wiki/sources/2025-100m-hooks-playbook.md](wiki/sources/2025-100m-hooks-playbook.md) — **Playbook (L3): Hooks** — two-part hook anatomy, 8 verbal categories, the 70-20-10 allocation rule.
 - [wiki/sources/2025-100m-branding-playbook.md](wiki/sources/2025-100m-branding-playbook.md) — **Playbook (L3): Branding** — branding = pairing, reach×influence×direction, 8 brand positions, the bouquet. Primary source for the branding topic.
 - [wiki/sources/2025-100m-marketing-machine.md](wiki/sources/2025-100m-marketing-machine.md) — **Playbook (L3): Marketing Machine** — customer-proof ad engine (7 nodes), testimonial scripts, founder-dependence removal.
+- [wiki/sources/2025-100m-closing-playbook.md](wiki/sources/2025-100m-closing-playbook.md) — **Playbook (L3): Closing** — YES/NO/MAYBE buckets ("money is in the maybes"), onion of blame, a named library of scripted closes.
+- [wiki/sources/2025-100m-proof-checklist-playbook.md](wiki/sources/2025-100m-proof-checklist-playbook.md) — **Playbook (L3): Proof Checklist** — "your promise is not a differentiator, your proof is"; the 13 proof-compelling dimensions; belief continuum.
+- [wiki/sources/2025-100m-goated-ads-playbook.md](wiki/sources/2025-100m-goated-ads-playbook.md) — **Playbook (L3): GOATed Ads** — the ad assembly line (50 hooks × 3-5 meats × 1-3 CTAs), awareness-by-hook, 5 meat formats. Builds on $100M Leads paid ads.
+- [wiki/sources/2025-100m-scaling-roadmap.md](wiki/sources/2025-100m-scaling-roadmap.md) — **Training (L2): $100M Scaling Roadmap** — 10-stage headcount ladder (Improvise→Capitalize), role + binding constraint + graduation per stage. Operationalizes business-diagnostics.
 - [wiki/sources/2025-leila-5-scaling-framework-sops.md](wiki/sources/2025-leila-5-scaling-framework-sops.md) — Document (L2, **CONTEXT**): Leila Hormozi's 5 scaling SOPs (5-Star Service, Gametape, Monday Hour One, Pay Increase). Does **not** train the Alex persona.
 - [wiki/sources/2025-08-16-affiliate-black-book.md](wiki/sources/2025-08-16-affiliate-black-book.md) — Launch playbook (L3) for the Money Models book: affiliate campaign architecture + his 8 codified writing rules.
 
