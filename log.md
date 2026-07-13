@@ -6031,3 +6031,31 @@ All additions dated + cited to their wiki/sources page; existing material re-cit
 canonical where applicable; duplicates skipped; Leila SOPs remain entity/context (not persona).
 Synthesis notes: none new (this pass drained the $100M-library debt; MoreMozi batches 225-228 remain
 L2 for the next batch-driven pass).
+
+## [2026-07-13] ingest | yt batch 229 - @MoreMozi P2 (2026-03-15), 10 videos
+
+Nine live business teardowns + one solo/quit-your-job Q&A. Client statements attributed per speaker; only Alex-attributed material flows to persona. Hiring / sales-team / pricing / M&A heavy.
+
+- **2026-03-15** `yt-Pr-zXnkPsRU` - "firefighter + construction company, should I go all in?": the
+  quit-your-job decision framework - replace-income break-even; a double-negative productivity test; fear-as-rationalization; "a man must have a quest."
+- **2026-03-15** `yt-3GIXMxy3428` - "pest control ($50M) create career advancement": the
+  **micro-promotion career ladder** - split a short ladder into 9-18 rungs; keep everyone always 3-6 months from the next promotion; make the first promotion a "6-inch putt" to beat early churn; tie promotions to objective cumulative volume.
+- **2026-03-15** `yt-tMQlQzEgXf0` - "dentist: how do I buy and sell other dental offices?":
+  **"majority control or don't bother"** M&A principle; "go hard, not go different" (double down when a business finally gets easy); local-market domination as a cleaner exit than a minority-stake flip.
+- **2026-03-15** `yt-Jd3hPZw4e6k` - "agency owner build a sales team" ($17-18M): the founder →
+  sales-trainer identity shift; prospect-not-salesman scripting; kill the founder-close commission; train daily; cut the script to the minimum. (Reinforces sales-god → sales-training-god.)
+- **2026-03-15** `yt-FJXvgK6uMYw` - "marketing agency ($12M, whale clients): how do I hire better
+  talent?": talent LTGP:CAC applied ($125k one-time recruiting cost → $1.25M/yr, ~8x EV extension ≈ $10M tax-free); ~30% recruiting-firm fee benchmark; "50 reps in 90 days: hire 80, keep 50, 15 firms in parallel"; the repeated-role-infrastructure vs one-off-just-pay decision rule. (Overlaps the batch 224-228 hiring cluster.)
+- **2026-03-15** `yt-RqlGB5R8Yzs` - "marketing agency find their ideal customer": **acquire
+  distribution nodes, not customers** - chunk up to acquire agencies/producers as stackable, compounding distribution (cost-per-node, distributor churn) rather than one-time customers.
+- **2026-03-15** `yt-RAX8Cl5YX_g` - "marketing agency fix pricing" (white-label PR $1.5M): the **SMB
+  pricing dichotomy** - price so low they won't cancel or high enough they can't afford you; the middle doesn't stack; churn-from-non-usage → a usage-based lower tier; customer volatility passes through to the vendor. (Complements batch-228 agency pricing barbell.)
+- **2026-03-15** `yt-pcGDgMyUYmM` - "roofing: how do I get to $10M/year?" (metro Detroit $3M):
+  **separate outbound and inbound sales teams** - inbound is graduated to (funnel warm leads to one "savage closer" with a distinct commission structure); marketer in-house.
+- **2026-03-15** `yt-uJo2TDJOyzw` - "business consultant niche down": the **delivery-mechanism test**
+  for niching - narrow the avatar only when the back-end delivery changes; otherwise run multiple acquisition motions over one shared delivery; map pricing to headcount.
+- **2026-03-15** `yt-4CaWaI0ZNwQ` - "e-commerce: should I build a software product?": no - focus; a
+  distribution base is not a license to sell everything; commit to a 7-year no-money bar for software; sunk-cost discipline; the "redder dress" grass-is-greener trap. (Standard cut - reinforces one-thing/focus.)
+
+Ledger 10->L2 (L2 now 1,782). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: **MICRO-PROMOTION-CAREER-LADDER-split-into-9-18-rungs/always-3-6mo-from-next/first-promotion-6-inch-putt-to-beat-early-churn/tie-to-cumulative-volume - business/retention + company-culture candidate (RICH; the canonical low-level-churn fix)**; **QUIT-YOUR-JOB-DECISION-FRAMEWORK-replace-income-break-even/double-negative-productivity-test/fear-as-rationalization/a-man-must-have-a-quest - mindset/decision-making + persona/beliefs candidate**; MAJORITY-CONTROL-OR-DONT-BOTHER-M&A/go-hard-not-go-different/local-domination-as-clean-exit + DENTAL-DSO-roll-up - business/scaling + wealth candidate (reinforces batch-225 med-spa roll-up); OUTBOUND-INBOUND-TEAM-SEPARATION-inbound-is-graduated-to/funnel-to-one-savage-closer/distinct-commission - business/sales-team-scaling candidate; ACQUIRE-DISTRIBUTION-NODES-NOT-CUSTOMERS-chunk-up-to-acquire-intermediaries-as-compounding-distribution/cost-per-node/distributor-churn - business/acquisition-channels candidate; SMB-PRICING-DICHOTOMY-so-low-they-wont-cancel-or-high-they-cant-afford/middle-doesnt-stack/usage-based-lower-tier - business/pricing candidate (complements agency-pricing-barbell); DELIVERY-MECHANISM-TEST-for-niching-narrow-avatar-only-when-back-end-delivery-changes-else-multiple-acquisition-motions-one-delivery - business/scaling + marketing candidate; TALENT-LTGP:CAC-125k-to-1.25M-8x-EV/30pct-recruiting-fee/50-reps-in-90-days-15-firms-parallel + FOUNDER-TO-SALES-TRAINER-prospect-not-salesman-scripting-kill-founder-close-commission - business/hiring + sales-team-scaling candidate (strongly reinforces the overdue hiring/recruiting topic). Standard cut: 4CaWaI0ZNwQ (focus/one-thing reprise). NOTE: hiring/recruiting + sales-team-building now span batches 220-229 - a dedicated wiki/topics/business/hiring-and-recruiting.md is overdue for the next synthesis pass.

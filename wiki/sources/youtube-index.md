@@ -631,6 +631,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-15 | [[2026-03-15-yt-cZsVh6kQ2ds]] | Helping a Junk Removal Company Scale — reject "one channel works"; double down on your highest-skill-overlap channel; the sub-$3M "swamp" | |
 | 2026-03-15 | [[2026-03-15-yt-2yqKCVHvEwI]] | Helping a Marketing Agency Scale (UK, capacity-stuck) — "scale to zero"; reinvest in talent + brand; 30/70 performance-vs-brand budget split | |
 | 2026-03-15 | [[2026-03-15-yt-yb52-6PpXoY]] | Helping a Medical Practice Scale (HRT) — has capacity to double, but fix ~50% churn first; retention is the number (light) | |
+| 2026-03-15 | [[2026-03-15-yt-Pr-zXnkPsRU]] | "I Have a Construction Company and I'm a Firefighter. Should I Go All In?" — the quit-your-job framework: replace income first; fear-as-rationalization | ★ |
+| 2026-03-15 | [[2026-03-15-yt-3GIXMxy3428]] | Helping a Pest Control Company Create Career Advancement — the micro-promotion ladder (9-18 rungs, always 3-6 mo from the next; first is a "6-inch putt") | ★ |
+| 2026-03-15 | [[2026-03-15-yt-tMQlQzEgXf0]] | "I'm a Dentist. How Do I Buy and Sell Other Dental Offices?" — buy majority control or don't bother; better, dominate the local market for a clean exit | |
+| 2026-03-15 | [[2026-03-15-yt-Jd3hPZw4e6k]] | Helping an Agency Owner Build a Sales Team — founder → trainer identity shift; prospect-not-salesman scripting; kill founder-close commissions | |
+| 2026-03-15 | [[2026-03-15-yt-FJXvgK6uMYw]] | "I Run a Marketing Agency. How Do I Hire Better Talent?" — talent LTGP:CAC ($125k → $1.25M/yr, ~8x EV); 50 reps in 90 days across 15 firms | |
+| 2026-03-15 | [[2026-03-15-yt-RqlGB5R8Yzs]] | Helping a Marketing Agency Find Their Ideal Customer — acquire distribution nodes, not customers; treat intermediaries as compounding distribution | |
+| 2026-03-15 | [[2026-03-15-yt-RAX8Cl5YX_g]] | Helping a Marketing Agency Fix Their Pricing — the SMB pricing dichotomy (price so low they won't cancel or high they can't afford; the middle doesn't stack) | |
+| 2026-03-15 | [[2026-03-15-yt-pcGDgMyUYmM]] | "I Sell Roofing. How Do I Get to $10M per Year?" — separate outbound and inbound teams; inbound is graduated to; funnel to one savage closer | |
+| 2026-03-15 | [[2026-03-15-yt-uJo2TDJOyzw]] | Helping a Business Consultant Niche Down — the delivery-mechanism test: narrow the avatar only when the back-end delivery changes | |
+| 2026-03-15 | [[2026-03-15-yt-4CaWaI0ZNwQ]] | "I'm in E-Commerce. Should I Build a Software Product?" — no; focus; a distribution base isn't a license to sell everything (light) | |
 | 2026-03-17 | [[2026-03-17-yt-KT3ptxa9eeE]] | Be Too Good to Fail — make the core product too good to fail; one-big-domino + identity ("past mediocrity = the journey") | |
 | 2026-03-17 | [[2026-03-17-yt-9bXOC9nzemg]] | You've already achieved goals you said would make you happy — hedonic adaptation; joy is in the pursuit; 85-yo-self gratitude | |
 | 2026-03-17 | [[2026-03-17-yt-GNuNSi_6spM]] | Why Is It So Hard to Compound Skills? — stacked skills → outsized outcomes; luck surface area; unlimited shots over perfect aim | |
@@ -1802,7 +1812,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,772 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,782 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
