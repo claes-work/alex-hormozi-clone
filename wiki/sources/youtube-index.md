@@ -615,6 +615,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-08 | [[2026-03-08-yt-dgQj5lEkzns]] | "I Make $1M/Year Teaching Arts and Crafts. How Do I Scale?" — the two-cart-close launch (annual-only + exclusive bonuses, then scoop-up to monthly) | |
 | 2026-03-08 | [[2026-03-08-yt-szjSGPDKnug]] | How to Learn Anything — observe outliers over asking; "prediction is control"; mastery = influencing the variables | |
 | 2026-03-08 | [[2026-03-08-yt-_9hWrmoHd3g]] | Helping a Landscaping Business Scale — constraint-based capital allocation; two-VSL high-ticket sale; a crew-leader hire; a recurring maintenance anchor | |
+| 2026-03-08 | [[2026-03-08-yt-DZosfCLNiyc]] | My Biggest Mistake in Business — building ALAN as lead-nurture software instead of a gym CRM; it capped the exit (~$46M vs a possible ~$500M) | ★ |
+| 2026-03-08 | [[2026-03-08-yt-U3bf_x04swY]] | What Makes a Product Exceptional — the good-to-great effort curve (~10x cost per half-point of quality); the 1,000-hour rule; front-load the product to kill marketing | ★ |
+| 2026-03-08 | [[2026-03-08-yt-jYY4FDzf4p0]] | What Is My Fitness Routine? — progressive-overload resistance training + a ~2 lb-meat / ~200 g-protein diet; thermodynamics-first; a biohacking skeptic | ★ |
+| 2026-03-08 | [[2026-03-08-yt-xhTXq26dwoA]] | Act with Urgency — shrink the gap between thought and action (decide = cut off alternatives); the end-of-week → end-of-day ~7x hack | |
+| 2026-03-08 | [[2026-03-08-yt-GAo-swIY-7g]] | The Million-Dollar Contract — the 10-year "contract": overestimate the year, underestimate the decade; invest in yourself over fast money | |
+| 2026-03-08 | [[2026-03-08-yt-kp_O07Uzic0]] | The Most Expensive Debt You Pay — "ignorance debt" (the cost of what you don't know but should); its price is opportunity cost; pay it down by failing | |
+| 2026-03-08 | [[2026-03-08-yt-FNi9VjkQRr4]] | 13 Rules to Win at Anything — Rule of 100, consistency, anti-complaining, "you are the product," reframe "it doesn't work" (light) | |
+| 2026-03-08 | [[2026-03-08-yt-UgbZT6dm7bg]] | "What Should I Sell?" — the beginner three-bucket sourcing (parents' jobs / your past jobs / your interests); service-business-first; learn-not-earn (light) | |
+| 2026-03-08 | [[2026-03-08-yt-0D9HsJfoBV8]] | It Just Takes Work... — no secret play when all you have is time; brute-force work; anger as fuel; "eat the glass"; no plan B (light) | |
+| 2026-03-08 | [[2026-03-08-yt-oujxqT40pCU]] | Never Quit... — remove quitting from your menu; ignore others' opinions; status-drop and death as motivators (light) | |
 | 2026-03-09 | [[2026-03-09-yt-sA1Xs3ORb3Q]] | How to Monetize as a Creator in 2026 — five monetization paths on an axis of control (sponsorship → affiliate → invest → white-label → build); control ↔ enterprise value | ★ |
 | 2026-03-09 | [[2026-03-09-yt-81lZi32cE-o]] | Why Creators Burn Out (and How to Fix It) — wrong audience/product; "followers ≠ influence"; the four elements of influence (likeness/credibility/power/status) | ★ |
 | 2026-03-09 | [[2026-03-09-yt-uhKggaiw3AA]] | Don't Invest in the S&P 500 — (personal opinion, not advice) early on, invest in yourself/your skills (highest ROIC) over a ~10% index return | ★ |
@@ -1942,7 +1952,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,912 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,922 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
