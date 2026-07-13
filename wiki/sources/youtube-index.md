@@ -490,6 +490,16 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-03-04 | [[2026-03-04-yt-ZyS5BwU1Pok]] | Why I Work Even Though It Doesn't Make Me Happy — reject happiness as the goal; aim at usefulness / squeezing out your potential | |
 | 2026-03-04 | [[2026-03-04-yt-pbsFCdOM9eI]] | What If You Lifted 6x a Day for 10 Minutes? — Greg Nuckols' distributed-volume experiment; all-carb bulk; keep the split, cut the volume | |
 | 2026-03-04 | [[2026-03-04-yt-Zz2c72DF5DY]] | You Need to Do 100x More Work — 100x not 2x effort (a CEO's 66 events/quarter); outcomes are trades; time worked ≠ output | |
+| 2026-03-04 | [[2026-03-04-yt-WuYqW-Ju53s]] | I Lost Everything Twice (Within 12 Months) — **bio**: two wipeouts at 26-27 in his first year dating Leila; the ALAN "one sin" | ★ |
+| 2026-03-04 | [[2026-03-04-yt-WEHKlZUQkSg]] | How to Get in Shape — two variables: six-pack = calorie deficit (body-fat %), jacked = progressive overload + protein; the accountability gap | ★ |
+| 2026-03-04 | [[2026-03-04-yt-aiXZhs3D1Dw]] | "I'm broke. How do I make money?" — starting-from-zero playbook: give value first, affiliate-sell to isolate one skill, build a proof-ladder | ★ |
+| 2026-03-04 | [[2026-03-04-yt-djDqESv_yIY]] | How an 18-Year-Old Got a Job at Acquisition.com — get-in-the-door playbook (email everyone, personalized); first 3-5 hires set culture | ★ |
+| 2026-03-04 | [[2026-03-04-yt-2_SQTj98_Vs]] | Advice for Anyone with Employees — care about their home life (a supportive spouse gates the ceiling); give the mission; police rest before hard workers crack | |
+| 2026-03-04 | [[2026-03-04-yt-BjTENiMkJiU]] | Why I Like to Work Out — training as his deliberately un-optimized joy; home gym cost more than all six former commercial gyms combined | |
+| 2026-03-04 | [[2026-03-04-yt-uHBQaNRqLqA]] | It Only Takes 20 Hours to Get Good at Something — start sooner, quit later; measure by input; work ethic = the currency of respect | |
+| 2026-03-04 | [[2026-03-04-yt-HVHeZN2p07o]] | Do More Than What Is Required — treat law/compliance as the rules of the game ("ignorance is not a defense"); reread your contracts | |
+| 2026-03-04 | [[2026-03-04-yt-7PN7VviCtdQ]] | Go Out and Fail... — build your "failure resume"; you only need to win once | |
+| 2026-03-04 | [[2026-03-04-yt-KVsTQjyJdGU]] | If I Died Tomorrow... — "good with it"; grief = expectations vs reality (the lifespan-math reframe) | |
 | 2026-03-09 | [[2026-03-09-yt-rMJIOK_FgJk]] | The 6 levels of making money — risk ladder (W-2 → sell risk → paid-no-matter-what) | ★ |
 | 2026-03-14 | [[2026-03-14-yt-Jmkq5RLjm0U]] | Grow an audience 2026 — SPCL framework, 4 ways to monetize, 6 content shifts (framework-dense) | ★ |
 | 2026-03-20 | [[2026-03-20-yt-jqo0lVveh98]] | Service business — "drop low or go high" agency model, win on character | ★ |
@@ -2012,7 +2022,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,982 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,992 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
