@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=4bX7JKeiPOk
 channel: "@MoreMozi"
 ingested: 2026-07-13
 tier: L2
-domains: [business, marketing, sales]
+domains: [business, marketing]
 tags: [youtube, sales, offers, agency, cold-vs-warm, continuity]
 speaker: "Alex Hormozi"
 attribution: clear

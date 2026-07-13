@@ -5,7 +5,7 @@ url: https://www.youtube.com/watch?v=iW_kL2DfrVY
 channel: "@MoreMozi"
 ingested: 2026-07-13
 tier: L2
-domains: [business, marketing, sales]
+domains: [business, marketing]
 tags: [youtube, nonprofit, affiliates, sales, acquisition]
 speaker: "Alex Hormozi"
 attribution: clear

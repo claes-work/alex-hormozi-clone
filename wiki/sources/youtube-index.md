@@ -593,6 +593,10 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-12 | [[2026-03-12-yt-3T7k-zVKOvg]] | **How I Scaled My First Gyms** — origin (first gym ~$35k/mo, mo9 outsourced, $7M→$26M) | |
 | 2026-03-15 | [[2026-03-15-yt-8cw62svEXt8]] | Restaurant → $100M — product is the only durable lever; product-premium = marketing | |
 | 2026-03-18 | [[2026-03-18-yt-06ssvoeqIo0]] | Real-estate consulting → $100M — attribution taxonomy, duplicate top reps | |
+| 2026-03-18 | [[2026-03-18-yt-VJGLdW4Oz_I]] | Every Business Is Hard — CFO-advisory ($2.9M→$20M): fix the supply constraint before marketing; data-first then AI; hard stays hard | |
+| 2026-03-18 | [[2026-03-18-yt-8AlZQHgPlVE]] | Helping an SEO Agency Get to $14M — sales-velocity × LTV ceiling; 80% service-margin rule; nearshore vs become AI-native | |
+| 2026-03-18 | [[2026-03-18-yt-il8Ti50fBLQ]] | Helping a Nail Salon Build a Franchise Model — franchisable only at 30%+ margin & founder-independent demand; franchising = capital play | |
+| 2026-03-18 | [[2026-03-18-yt-4bX7JKeiPOk]] | Helping a Marketing Agency Get to $20M — build for cold traffic; "big head, long tail" offer bifurcation | |
 | 2026-03-19 | [[2026-03-19-yt-hTMqnR-LFZ4]] | Online men's-health service → $100M — taboo-niche affiliate brand (light) | |
 | 2026-03-19 | [[2026-03-19-yt-y7ToMgdDcIs]] | Construction + elevator → $100M — burn-it-down (likely dup of i-4IiGGS1wE) (light) | |
 | 2026-03-19 | [[2026-03-19-yt-3I_J34wD758]] | How to use AI to grow your business - amplification not automation; the idea is the alpha; three wheels; prompt chains (ACQ AI) | |
@@ -612,6 +616,12 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-19 | [[2026-03-19-yt-R1fQ1zJaaCg]] | The 3 Ways to Build a Business - copy what works / edge in one lever / edge overcomes a deficit; product beats distribution | |
 | 2026-03-19 | [[2026-03-19-yt-deDQtXyTMeo]] | Grow business without sacrificing family - regret is imaginary; "want less or trade more"; the who game; keep active active, passive passive | |
 | 2026-03-19 | [[2026-03-19-yt--54qGpM3q0M]] | Helping an Online Coach Get to $1M/Month - education recurring-revenue; "sell the inputs to the machine"; Gym Launch as media; messenger = 80-90% of message | |
+| 2026-03-19 | [[2026-03-19-yt-A46-I4vKbkI]] | Helping a B2B SaaS Scale — gym-SaaS $4M→$10M: hypothetical max = velocity × LTV; build capacity vs cash reputation; exit when resentment not boredom | |
+| 2026-03-19 | [[2026-03-19-yt-zdYDzuVj8RA]] | Helping an Online Coaching Business Scale — piano course ($1.4M→$3.6M): "big circle, little dot" ads-vs-organic; conversion low-risk but capped | |
+| 2026-03-19 | [[2026-03-19-yt-raqfsvgSW0o]] | Helping an E-Commerce Brand ($5M) Scale — paid-ads margin compression; word-of-mouth + brand offset CAC; big-name affiliates/whitelisting | |
+| 2026-03-19 | [[2026-03-19-yt-iW_kL2DfrVY]] | Helping a Nonprofit Scale — reframe referral partners as the real customers; launch-vs-integration affiliates; fix sales first | |
+| 2026-03-19 | [[2026-03-19-yt-GXj_eO381GQ]] | Helping a Marketing Agency Scale — switch what you sell (biz-op → legit franchises); mercenary-vs-mission churn; direct-response world dying | |
+| 2026-03-19 | [[2026-03-19-yt-v0ROYlEwE2A]] | Helping an Agency Owner Hire Better Talent — talent bottleneck is really a script/process bottleneck; ~10-rep span-of-control split | |
 | 2026-03-20 | [[2026-03-20-yt-UKd3hu6IRbY]] | Home services → $100M — sell membership on the back end (light) | |
 | 2026-03-26 | [[2026-03-26-yt-XWHqOYR0IHM]] | Champions see their past as origin story — victims-vs-champions reframe | |
 | 2026-03-20 | [[2026-03-20-yt--nSr93KK7rQ]] | Most problems solved by advertising - recruiting is advertising too | |
@@ -1712,7 +1722,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,682 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,692 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
