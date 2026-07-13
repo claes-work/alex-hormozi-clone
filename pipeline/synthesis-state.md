@@ -6,10 +6,9 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 224** — synthesis pass 24, plus the **inline-L3 $100M library synthesis**,
-system-prompt **v32** (2026-07-13). Everything ingested after this is L2 (source pages exist) but
-**NOT yet promoted** to topics/persona. (The MoreMozi ingest batches 225–228 remain L2 debt for the
-next batch-driven pass; the $100M library was promoted inline as landmark L3.)
+Synthesized through: **batch 234** — synthesis pass 25, system-prompt **v33** (2026-07-13). (Prior:
+pass 24 through batch 224 + the inline-L3 $100M library synthesis at v32.) Everything ingested after
+this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
@@ -17,6 +16,35 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 225-234** — synthesis pass 25 (2026-07-13) →
+      system-prompt **v33**. Promoted genuinely-new mid-March 2026 (2026-03-13 to 2026-03-17)
+      MoreMozi refinements across **9 topic pages + a NEW `business/hiring-and-recruiting.md` + 2
+      persona files**. **NEW topic page** consolidating the ~10-batch hiring/recruiting cluster:
+      talent-side LTGP:CAC, hiring-bottleneck-is-a-volume-problem, supply-gen-mirrors-demand-gen,
+      the debt-choice framework, under-pricing-your-talent, pay-for-A-players / delegation-ROI,
+      the world-class EA, directive-generality-as-talent-measure, sales-god→sales-training-god,
+      Management-Diamond/time-study, career-path/promotion ladders, own-core-economic-engine-roles.
+      Topics: scaling-and-enterprise-value (services roll-up/M&A + cell-phone-talk operator
+      incentives, sell-the-eggs-keep-the-goose, majority-control-or-don't-bother, franchise-vs-own-
+      units valuation, vertical-integration-to-de-constrain-supply, scale-zero + dual-surplus +
+      nail-it-before-scale multi-location test, hidden-core-economic-engine, software-doesn't-make-
+      you-sellable); pricing-psychology (SMB/agency pricing barbell, close-rate→price heuristic,
+      bespoke-UHNW pricing, "don't copy the moron" undercut doctrine); attraction-offers (the
+      on-time/on-budget guarantee offer family + per-vertical variants); branding (brand-vs-arbitrage
+      / "PE buys brands not products", agency-as-media-company, creators-as-new-distribution, borrow-
+      3rd-party-media-as-compliance-safe-VSL); ai-in-business (workflow-not-roles, AI-disruption
+      reframe for service, AI-agency-opportunity / sell-outcomes-not-AI); copywriting-hacks (hook-
+      width-ordering + re-record-only-the-opening); sales-frameworks (concrete-behavior training,
+      scripted-slide pitch standardization, outbound/inbound team separation, cancellation-is-a-
+      sales-problem); discipline-and-decision-making (stone-cutter/anti-"follow-your-passion",
+      assume-you're-always-the-underdog, quit-your-job framework); investing-and-wealth (compare-
+      risks-don't-eliminate, fundraising-as-a-sale, act-on-known-info regulation rule, debt-fear-
+      cured-by-math). Persona: beliefs +5 (passive-income→optionality, friendship-audit, compare-
+      risks investing, "follow-your-passion-is-wrong"/stone-cutter, assume-underdog), voice +6
+      ("PE buys brands not products", "small jobs get the big jobs", "jack the price jack the
+      talent", "any answer that is not call me is the right answer", stone-cutter line, don't-copy-
+      the-moron). Dropped long-tail repeats. Cross-links + refinement callouts added where books/
+      prior passes were sharpened.
 - [x] **Drive "$100M" library — inline-L3 synthesis** (2026-07-13) → system-prompt **v32**.
       Landmark promotion of the newly-ingested Acquisition.com library (2 previously-uningested core
       books — *$100M Offers*, *$100M Leads* — plus all 12 launch playbooks, the *Lost Chapters*

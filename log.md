@@ -6199,3 +6199,50 @@ Five solo lesson pieces + five live teardowns. Attribution per speaker; only Ale
 
 Ledger 10->L2 (L2 now 1,832). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: **STONE-CUTTER-PARABLE-outlook-not-work-differs + ADAPTATION-TAKEDOWN-OF-FOLLOW-YOUR-PASSION-you-adapt-so-passion-isnt-durable - mindset + persona/beliefs candidate (RICH; sharpens the pain-as-price / passion-through-competence material)**; **BESPOKE-SERVICE-PRICING-PLAYBOOK-drop-tier-ladder-price-each-job/de-minimis-retainer-as-insurance-access/small-jobs-get-big-jobs/price-by-asset-type/min-project-value-anchor/decommoditize - business/pricing candidate (RICH; UHNW/custom pricing)**; ON-TIME-ON-BUDGET-GUARANTEE-construction-refund-profit+20pct-premium-void-if-scope-changes + HOME-SERVICE-version-rWLLkEqMGak - business/offers candidate (a recurring guarantee-offer family: on-time/on-budget across home-service + construction - promote as one canonical offer with per-vertical variants); FULLY-SCRIPTED-SLIDE-PITCH-STANDARDIZATION-word-for-word-on-slides-AI-merged-master-script-speakers-interchangeable-coach-only-delivery/double-the-model-before-pivoting - business/sales + scaling candidate; NAIL-IT-BEFORE-YOU-SCALE-IT-max-rev-profit+full-customer-journey-per-location-first/rowboat-vs-Titanic - business/scaling candidate (consolidate w/ batch-233 scale-zero into one multi-location expansion test). Standard/light cuts: PzSd5G8ln7o (contractors-vs-employees short clip), Mro9NpDfzN8 (service-diff reprise), QhgL00rAKZw (traffic-problem reprise), aNVfpSgvX4c (affiliate reprise), 1P7sQmTvTDI (networking reprise, attribution uncertain). NOTE: real MoreMozi debt now spans batches 225-234 (10 batches) -> STOPPING to run a proactive synthesis pass (pass 25) covering 225-234 before resuming ingest.
+
+## [2026-07-13] lint | synthesis pass 25 — @MoreMozi batches 225-234 → system-prompt v33
+
+Proactive checkpoint synthesis (~10 batches / ~100 videos of real MoreMozi debt accumulated since
+pass 24 / batch 224; the driver's counter had been reset by the concurrent inline-L3 $100M library
+synthesis, so this pass was triggered on real debt). Promoted the genuinely-new mid-March 2026
+(2026-03-13 to 2026-03-17) refinements from L2 source pages into topics + persona; recompiled the
+clone. One agent per file (concurrency rule); dated + cited; position changes flagged; long-tail
+repeats dropped.
+
+NEW topic page (the headline of this pass):
+- **wiki/topics/business/hiring-and-recruiting.md** (15 sources) — consolidates the hiring/recruiting
+  cluster that compounded across ~10 batches and had no home: talent-side LTGP:CAC, hiring-bottleneck-
+  is-a-volume-problem, supply-gen-mirrors-demand-gen, the debt-choice framework, under-pricing-your-
+  talent, pay-for-A-players, the delegation-ROI test, the world-class EA, directive-generality-as-
+  talent-measure, sales-god→sales-training-god, Management-Diamond/time-study, career-path ladders,
+  own-core-economic-engine-roles. Cross-links [[sales-team-scaling]] (leadership-layer, from pass 24).
+  Added to index.md + the business.md hub.
+
+Topic pages updated (9):
+- **scaling-and-enterprise-value** — services roll-up/M&A (cell-phone-talk operator incentives,
+  sell-the-eggs-keep-the-goose, majority-control-or-don't-bother), franchise-vs-own-units valuation,
+  vertical-integration-to-de-constrain-supply, the scale-zero + dual-surplus + nail-it-before-scale
+  multi-location test, hidden-core-economic-engine, software-doesn't-make-you-sellable.
+- **pricing-psychology** — SMB/agency pricing barbell, close-rate→price heuristic, bespoke-UHNW
+  pricing, the "don't copy the moron" undercut doctrine ($50M-lost Gym Launch relaunch).
+- **attraction-offers** — the on-time/on-budget guarantee offer family (home-service + construction
+  variants; review-for-maintenance-plan tactic).
+- **branding** — brand-vs-arbitrage / "PE buys brands not products", agency-as-media-company (price
+  on earned-media CPM), creators-as-new-distribution, borrow-3rd-party-media-as-compliance-safe-VSL.
+- **ai-in-business** — workflow-not-roles org design, the AI-disruption reframe for service, the
+  AI-agency-opportunity thesis + sell-outcomes-not-AI.
+- **marketing/copywriting-hacks** — hook-width-ordering + re-record-only-the-opening (extends Hooks).
+- **sales-frameworks** — concrete-behavior training, scripted-slide pitch standardization,
+  outbound/inbound team separation, cancellation-is-a-sales-problem.
+- **mindset/discipline-and-decision-making** — stone-cutter/anti-"follow-your-passion",
+  assume-you're-always-the-underdog, the quit-your-job framework.
+- **wealth/investing-and-wealth** — compare-risks-don't-eliminate, fundraising-as-a-sale,
+  act-on-known-info regulation rule, debt-fear-cured-by-math.
+
+Persona updated: beliefs.md (+5: passive-income→optionality, the friendship audit, compare-risks
+investing, "follow your passion is wrong"/stone-cutter, assume-you're-always-the-underdog),
+voice.md (+6 verbatim lines). Recompiled **persona/system-prompt.md → v33**.
+
+High-water mark advanced to **batch 234** in pipeline/synthesis-state.md. Real MoreMozi L2 debt is
+now drained through batch 234; ingest resumes at batch 235.
+Synthesis notes: none (this IS the synthesis pass; ingest debt for batches 225-234 drained).

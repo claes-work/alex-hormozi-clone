@@ -109,6 +109,28 @@ buys" (source: [[../../sources/2025-100m-hooks-playbook]]).
   first and you never run out of content ideas: *"Let the data do the teaching."* Testing
   cadence by format — ~10 hooks per ad, 3–4 per long video, every winning tweet reused as a
   short, split-tests on every email (2025).
+- **Fix the opening in isolation — re-record only the hook** (2026). As of March 2026 Alex
+  restates the "hook is the single most important part of any media" thesis with a flagship
+  proof: a skilled infomercial marketer's Larry King book ad tanked, so he studied his own
+  all-time best ads as **"game footage,"** concluded *"I messed up the hook,"* flew Larry King
+  back out, rebuilt the whole fake *Larry King Live* set, and **re-recorded only the first 30
+  seconds** — same body — producing $100M over the following 12 months. Takeaway: when a piece
+  underperforms, diagnose against your best performers and rebuild the opening alone, not the
+  whole asset (source: [[../../sources/2026-03-15-yt-pNWl1_qEvNs]]).
+  > "He was like, 'I messed up the hook.' … he flew Larry King back out, reset up the entire
+  > fake setup of Larry King Live, and re-recorded the first 30 seconds. … $100 million in the
+  > next 12 months."
+  The survival window is tiny — nominally 5 seconds but functionally closer to two ("or like 2
+  milliseconds" on a short); the first three-to-five words decide it (2026, sharpening the
+  "model the first 3 seconds" note in hack 1).
+- **Order/choose hooks by hook width** (2026, genuinely new nuance). When the same content can
+  be led by different examples, open with the one that pulls in the **widest demographic**, then
+  narrow, then state the general principle. Alex's illustration: a tweet outperformed once he
+  led with the *marriage* example (widest hook) ahead of the *business* example. His team now
+  defaults hook design to the "wide business principle" framing to reach a broader audience
+  (source: [[../../sources/2026-03-15-yt-pNWl1_qEvNs]]).
+  > "I should put the marriage one first because it's the way wider hook. … we'll probably go
+  > wide business principle … so that we can get a wider demo."
 
 ## 5 levels of awareness
 
@@ -254,6 +276,8 @@ Two copy levers from *$100M Offers* (2021) (source: [[../../sources/2021-100m-of
   admission / "but"-amplifier in depth)
 - [[../../sources/2025-100m-hooks-playbook]] — *$100M Hooks Playbook* (hook anatomy, cocktail-
   party effect, 8 verbal categories, 70-20-10, "hook dictates content")
+- [[../../sources/2026-03-15-yt-pNWl1_qEvNs]] — "The Single Most Important Part of Any Media"
+  (re-record only the opening / Larry King $100M, "game footage" diagnostic, hook-width ordering)
 - [[../../sources/2025-100m-proof-checklist-playbook]] — *$100M Proof Checklist Playbook*
   ("promise is not a differentiator, proof is"; Belief Continuum; Personal>Generic;
   Metaphors>Jargon; Proof With Numbers)

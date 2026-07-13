@@ -38,6 +38,9 @@ Offers, leads, sales, scaling, money models, pricing, retention.
 - [[sales-team-scaling|Sales Team Scaling]] — building a sales team from 0: interview screens
   (speed/intelligence/listening/coachability), the 14-day onboarding ramp, the team CLOSER script +
   per-rep coaching loop, culture triad & PIP performance management.
+- [[hiring-and-recruiting|Hiring & Recruiting]] — the canonical talent body: talent-side LTGP:CAC,
+  the hiring-bottleneck-is-a-volume-problem, supply-gen mirrors demand-gen, the debt-choice framework,
+  pay-for-A-players, the delegation-ROI test, the world-class EA, and career-path/promotion ladders.
 - [[scaling-and-enterprise-value|Scaling & Enterprise Value]] — $0→$10M growth ladder, 5 ways
   to scale, scale-zero, EV = customers × LTGP ÷ risk, exit/M&A philosophy, talent-side LTV:CAC.
 - [[acquisition-channels|Acquisition Channels]] — Big 4 vs 6 sources vs Core Four reconciled;

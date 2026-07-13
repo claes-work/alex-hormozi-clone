@@ -3,7 +3,7 @@ type: topic
 domains: [business]
 created: 2026-07-08
 updated: 2026-07-13
-sources: 4
+sources: 6
 ---
 
 # Attraction Offers
@@ -230,6 +230,27 @@ Cut offer chapters from the `$100M Series`, added to the five above. A split-tes
 - **Free Pick-Your-Price** — let the buyer name their price (including $0); captures demand and data while surfacing willingness-to-pay ([[../../sources/2025-100m-lost-chapters|$100M Lost Chapters]], PDF pp. 97–101).
 - **Free With Alternate Revenue Stream — "the no-sale sale":** give a rejecting prospect something free (a take-home program, then a free orientation) and monetize a *different* product (e.g. supplements). These no-buyers spent **~50% MORE** on the alternate product than regular clients, and whether the first upsell is taken is "the greatest predictor of back-end conversion" ([[../../sources/2025-100m-lost-chapters|$100M Lost Chapters]], PDF pp. 103–107).
 
+## The On-Time / On-Budget Guarantee (project-based services, 2026)
+
+A recurring "perfect offer" Hormozi hands project-based service businesses in live coaching clips (March 2026). It is a **refund-of-profit performance guarantee paired with a price premium**, engineered so it closes bids at a higher price yet is almost never actually paid out. Presented here as one canonical structure with per-vertical variants.
+
+**Core structure (paraphrase):** raise your price ~**20%**, then guarantee the project finishes **on time and on budget** — done by a stated date and under a stated number — or you refund your profit on the deal (he models ~20% margins → give the **20% back**). It sells against the industry's cost-overrun/delay baseline: competitors quote lower but *never* guarantee time and budget, so the guarantee wins the bid even at a premium ([[../../sources/2026-03-15-yt-rWLLkEqMGak|The Perfect Offer for a Home Service Business]]; [[../../sources/2026-03-13-yt-cXnRN1Hw4ik|The Best Offer for a Construction Company]]).
+
+> "Oh yeah, um, did they guarantee time and budget? No one will. And so I'm like, oh yeah, well then I can do it for a dollar. As long as I don't have to guarantee time and budget." ([[../../sources/2026-03-15-yt-rWLLkEqMGak|Home Service Business]])
+
+> "I will build your home on time, on budget, or I'll give you my profit on the deal. Now, that will be translated to 20%. … Now, with this, we're going to pair that with a 20% price increase." ([[../../sources/2026-03-13-yt-cXnRN1Hw4ik|Construction Company]])
+
+**The "no-change contingency" (why it rarely pays out).** The guarantee is void the moment the client changes scope — and clients "almost always change their mind." So the seller wins the bid at a premium but is "almost never on the hook." Even on an unchanged job that runs over, you only return the 20% price raise and keep your originally planned profit — "this covers you on both sides" ([[../../sources/2026-03-15-yt-rWLLkEqMGak|Home Service Business]]). Illustrative scope-change line: "If you want gold toilets, then obviously I can't do on time on budget cuz I got to source these, and gold toilets aren't cheap." ([[../../sources/2026-03-13-yt-cXnRN1Hw4ik|Construction Company]])
+
+> "So, this closes the deal, but you're almost never on the hook cuz they're going to change their mind. … We can use this to close the deal and the premium, but then we're never going to be held to it." ([[../../sources/2026-03-13-yt-cXnRN1Hw4ik|Construction Company]])
+
+**Per-vertical variants:**
+
+- **Home services** (turf/landscaping example): +20% price, margin-refund guarantee, no-change contingency. Layered with a **maintenance plan monetized via reviews** — a cheap annual maintenance/repair plan (e.g. $200–$500/year covering up to ~2x that in repairs) pitched low so the customer effectively re-buys a "sales consult" next year and to double the product's lifespan / protect home value; he applies it to "every service business I can." His favorite twist: **comp the plan in exchange for a five-star review** ("ownership is running a special… if you leave us a review, it'll be free"). It converts best delivered by the salesperson (not the owner) and framed around the crew getting "a little spiff" — Hormozi says this "crushes" and "everybody does it" ([[../../sources/2026-03-15-yt-rWLLkEqMGak|Home Service Business]]).
+- **Construction / custom home builder:** same guarantee + mandatory 20% price pairing, anchored against industry norms — most custom jobs run **10–20% over budget** (a 15% overage on a $2M home ≈ $300k) and finish **3–9 months late**, and the delay compounds the cost via lost home appreciation. Framing: an on-time/on-budget builder is "already saving you $300,000," so a higher fee (~$250k example) is "nothing." Reinforced by his **risk/speed/ease "vectors of value"** framework, plus an appraisal/value-engineering angle (build the right features for a better appraisal-to-cost ratio). Builder risk math: margin on the other ~95% of deals more than covers the rare payout ([[../../sources/2026-03-13-yt-cXnRN1Hw4ik|Construction Company]]).
+
+This is a **conditional/performance guarantee** in the taxonomy of the [[../../sources/2021-100m-offers|$100M Offers]] enhancers above, but distinctive in that the *conditionality itself* (no scope change) is the mechanism that lets the seller charge a premium while rarely paying — risk reversal for the buyer, risk-free for the seller.
+
 ## Doctrine
 
 Section-level principles that run through all the Attraction Offer chapters:
@@ -251,3 +272,5 @@ Section-level principles that run through all the Attraction Offer chapters:
 - [[../../sources/2025-08-16-100m-money-models|$100M Money Models]] (2025) — Section II, "Attraction Offers," PDF pp. 36–92.
 - [[../../sources/2025-100m-fast-cash-playbook|$100M Fast Cash Playbook]] (2025) — quarterly premium cash plays: "10x the 10%," "add a zero" pricing, push-to-consult vs. push-to-automated-checkout (PDF pp. 7–19).
 - [[../../sources/2025-100m-lost-chapters|$100M Lost Chapters]] (2025) — additional offer types: Freemium, Free Pick-Your-Price, Free With Alternate Revenue ("no-sale sale") (PDF pp. 93–108).
+- [[../../sources/2026-03-15-yt-rWLLkEqMGak|The Perfect Offer for a Home Service Business]] (2026-03-15, @MoreMozi) — on-time/on-budget guarantee + maintenance-plan-for-review, home-services variant.
+- [[../../sources/2026-03-13-yt-cXnRN1Hw4ik|The Best Offer for a Construction Company]] (2026-03-13, @MoreMozi) — on-time/on-budget guarantee, construction variant (anchor math, no-change carve-out, risk/speed/ease).

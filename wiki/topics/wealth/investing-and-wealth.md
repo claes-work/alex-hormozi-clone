@@ -1,7 +1,7 @@
 ---
 type: topic
 domain: wealth
-updated: 2026-07-10
+updated: 2026-07-13
 tags: [investing]
 ---
 
@@ -461,6 +461,152 @@ is a different axis from the pass-22 "invest first, then spend" savings rule —
 
 ---
 
+## Compare risks, don't eliminate them; entrepreneurship as betting (2026)
+
+The 2023 deal-disqualifier rules above hunt for *all the ways to lose money* and disqualify
+fast. A mid-March 2026 clip supplies the positive counterpart that keeps that defensiveness
+from becoming paralysis: **because nothing is risk-free, the goal is to compare risks, not
+eliminate them.** As of March 2026 Alex argues you can always construct a reason to say no —
+even US treasuries carry risk (worthless if the US economy collapsed) — and influencers profit
+by manufacturing exactly those scare-arguments. The productive move is to normalize
+opportunities against each other, which is what **risk-adjusted return** is for
+[[../../sources/2026-03-15-yt-g_1SoPY4lKg]].
+
+> "There are always reasons to say no to a deal… because there's nothing that's risk-free." [[../../sources/2026-03-15-yt-g_1SoPY4lKg]]
+
+> "You start comparing risks rather than trying to eliminate risks." [[../../sources/2026-03-15-yt-g_1SoPY4lKg]]
+
+He frames entrepreneurship itself as **betting** — allocating limited time and money against
+unlimited opportunities — and calls the skill of making those bets well "if not *the* most
+important skill set as an entrepreneur." Evaluating any opportunity means scoring two things
+separately: how good the opportunity is *and* how risky it is (the diligence process assesses
+the risk side) [[../../sources/2026-03-15-yt-g_1SoPY4lKg]].
+
+> "Fundamentally it's betting… Every day we bet with our time, we bet with our money… with the limited resources we have against unlimited opportunities." [[../../sources/2026-03-15-yt-g_1SoPY4lKg]]
+
+**The opportunity-prioritization ladder** (which he says he wrote as a chapter in a forthcoming
+book): rank by highest likelihood of success and pursue (1) opportunities needing **no new
+skills and no/least new effort** first — these "cost basically nothing" and have the lowest
+likelihood of *not* happening; (2) then those needing more effort but still no new skills; (3)
+only then learn a new skill, choosing the one with the **highest leverage** (most output per
+least input) [[../../sources/2026-03-15-yt-g_1SoPY4lKg]].
+
+Finally, the **"investor frame"** is trustworthy precisely because investors are among the few
+advice-givers whose decision-making has been objectively **scored and quantified** — a real
+scoreboard — so world-class investors "with a stack of undeniable proof" generalize well even
+to personal decisions (he cites Ray Dalio's *Principles* selling to non-investors). This
+underwrites why Acquisition.com's deal criteria (see the disqualifier checks above) borrow
+directly from investor decision-making [[../../sources/2026-03-15-yt-g_1SoPY4lKg]].
+
+> "The investor frame is simply people who have been scored and quantified on their ability to make decisions." [[../../sources/2026-03-15-yt-g_1SoPY4lKg]]
+
+---
+
+## Fundraising is a sale: the VC valuation framework (2026)
+
+The wiki's investing side has been all-cash and buy-side (see "Business-only investing after
+liquidity" above, where he notes Acquisition.com did **all-cash deals**). A mid-March 2026 live
+coaching clip adds his **capital-raising / sell-side** framework for the first time. As of March
+2026 Alex reframes a large raise as **a sale, not a science pitch** — "a sale on you and a sale
+on the story." Facts can make good stories, but the story is what sells; "don't be a scientist
+for the pitch" because investors don't understand the science and just want to know they'll make
+money [[../../sources/2026-03-15-yt-BOlh8bnyNYw]].
+
+> "This is just a sale. That's all it is… think less about the facts and more about the story." [[../../sources/2026-03-15-yt-BOlh8bnyNYw]]
+
+> "They don't know the science. They just want to know that they're going to make a lot of money." [[../../sources/2026-03-15-yt-BOlh8bnyNYw]]
+
+The method mirrors his customer-development loop applied to investors: talk to ~10x more
+investors than you need now, ask each **"what would you need to see in order to believe?"**,
+collect the full list of "need-to-believes," then narrow to the realistic ones — sometimes
+running a tiny raise just to prove one belief and laddering into the bigger round. All
+investors are ultimately just **"paying down risk"** [[../../sources/2026-03-15-yt-BOlh8bnyNYw]].
+
+> "What would you need to see in order to believe?" [[../../sources/2026-03-15-yt-BOlh8bnyNYw]]
+
+**VC valuation logic** (his explicit teaching): a good VC only makes money on multi-billion-dollar
+outcomes, so a valuation is a **discount on the ~$10–20B end-state business**, sized by how many
+assumptions still have to be proven true — the fewer unproven assumptions remaining, the higher
+the valuation. To justify a step-up (his example: a 10x jump from a $50M to a $500M round) the
+pitch must name **what fundamentally changed** — turning the business from an **"assumption
+constraint"** into merely a **"capital constraint."** And a founder can keep control as a minority
+shareholder via **super-voting / dual-class shares** (he cites Zuckerberg's 100-to-1 voting rights)
+so long as investors trust the founder and understand the business genuinely needs the capital
+[[../../sources/2026-03-15-yt-BOlh8bnyNYw]].
+
+> "The fewer assumptions that need to be true, the higher the valuation, cuz the higher likelihood." [[../../sources/2026-03-15-yt-BOlh8bnyNYw]]
+
+> "Now it's just a capital constraint, not an assumption constraint." [[../../sources/2026-03-15-yt-BOlh8bnyNYw]]
+
+> "You can absolutely maintain control and still be a minority shareholder. Like Zuck has 100 to one voting rights." [[../../sources/2026-03-15-yt-BOlh8bnyNYw]]
+
+---
+
+## Act on known information; don't hedge against feared regulation (2026)
+
+This extends the compare-risks stance above into decisions under **external/regulatory
+uncertainty**. As of mid-March 2026 Alex's rule is to **act on the information you have now and
+change behavior only when that information changes** — not to freeze or pre-hedge against a
+feared future. Regulation is the #1 concern in heavily-regulated spaces (he names healthcare),
+which makes it a paralysis trap; but the fear that a rule "ends tomorrow" is usually wrong,
+because bills carry **advance notice + a vote + an effective date + a phase-in** (regulators
+avoid abruptly disrupting business), so you have far more runway than you think
+[[../../sources/2026-03-16-yt-A5WvoUCwL6U]].
+
+> "You usually have way more time than you think you do." [[../../sources/2026-03-16-yt-A5WvoUCwL6U]]
+
+> "I would rather just deal with the information we have now. And once that information changes, we'll change our behavior." [[../../sources/2026-03-16-yt-A5WvoUCwL6U]]
+
+The prescription: **capitalize on the opportunity while it exists** (keep expanding as
+business-as-usual) and hold any product pivot **in reserve as a response** to a real heads-up,
+not a pre-emptive hedge. His cautionary example is Ray Dalio predicting collapse for ~14 years
+and being "almost right" the whole time — anyone who fled to gold missed one of the best
+stock-appreciation runs in US history. (Note the tension with the "investor frame" clip above,
+which cites Dalio's *Principles* admiringly: he admires Dalio's decision-making method while
+rejecting his macro doom-prediction.) [[../../sources/2026-03-16-yt-A5WvoUCwL6U]]
+
+> "Capitalize on the opportunity while it's there." [[../../sources/2026-03-16-yt-A5WvoUCwL6U]]
+
+---
+
+## Fear of debt is cured by math (2026)
+
+The 2023 "always under-borrow" rule above is defensive by default. A mid-March 2026 coaching
+clip refines — rather than reverses — it by supplying the *appraisal method*: for a
+capital-intensive business, **the fear of debt is cured by math.** As of March 2026 Alex frames
+the growth-vs-debt dilemma as a forced trade — you want to grow but not the debt growth
+requires, so **"one of them will have to give"**: either the growth rate slows, or you re-appraise
+how you analyze risk. Debt raises risk because it raises the odds of missing a lender payment
+(after which the lender can take control), so you **quantify** the exposure — model seasonal
+volatility, cash flow relative to debt covenants, and the coverage you can comfortably commit
+to — rather than feel it. Good business lenders already do most of that underwriting before
+extending "good debt" [[../../sources/2026-03-15-yt-Oznnu_uAvtk]].
+
+> "One of them will have to give… your rate of growth will slow down. Or you have to re-adjust how you analyze risk." [[../../sources/2026-03-15-yt-Oznnu_uAvtk]]
+
+> "This is just a how much risk are you willing to take question, which comes down to literally just doing the math around the volatility." [[../../sources/2026-03-15-yt-Oznnu_uAvtk]]
+
+He distinguishes **consumer debt from business debt**: financing a $100k productive asset (truck)
+over 5 years at ~$20k/year when it generates ~$400k/year in gross profit is clearly *not* risky,
+because the asset far out-earns its payment (**figures self-reported/illustrative**). Risk
+tolerance is individual — Dave Ramsey runs 0% debt and finds even 1% too risky, which Alex calls
+a legitimate personal choice, not a math error [[../../sources/2026-03-15-yt-Oznnu_uAvtk]].
+
+Crucially, he **validates the owner's caution** rather than pushing leverage — consistent with
+the under-borrowing rule. His **longevity thesis**: for a business you intend to hold 20–30+
+years, being appropriately risk-averse is correct — grow a little slower but survive every bad
+year and you end up gigantic, whereas one debt-covenant breach in a bad year sends you back to
+zero (a sharper restatement of the 2023 "any number times zero is still zero"). His analogy:
+slow-and-steady **Chick-fil-A** kept compounding while **Boston Market** blew up, IPO'd, and
+imploded; and if over-leveraged competitors go under, the cautious operator can buy their assets
+cheaply [[../../sources/2026-03-15-yt-Oznnu_uAvtk]].
+
+> "If you grow a little slower, but you make it 30 years, you'll be gigantic. But if you go out of business on any bad year because of the debt covenants you took out, you go back to zero." [[../../sources/2026-03-15-yt-Oznnu_uAvtk]]
+
+> "We all make bets. So, it's just part of the game." [[../../sources/2026-03-15-yt-Oznnu_uAvtk]]
+
+---
+
 ## Cross-links
 
 - [[../wealth]] — domain hub
@@ -489,3 +635,8 @@ is a different axis from the pass-22 "invest first, then spend" savings rule —
   ~$10k/yr bump) — self-reported (2026) [[../../sources/2026-03-27-yt-32IeekHdsCE]]
 - Panda Express neighbor / "money per unit of time" income framing — self-reported,
   third-party financials unverified (2026) [[../../sources/2026-03-29-yt-6g8Z0wJEBRA]]
+- $100k truck → ~$20k/yr payment → ~$400k/yr gross-profit example; Chick-fil-A vs.
+  Boston Market longevity anecdote — self-reported/illustrative (2026) [[../../sources/2026-03-15-yt-Oznnu_uAvtk]]
+- Opportunity-prioritization ladder attributed to a forthcoming book chapter (2026) [[../../sources/2026-03-15-yt-g_1SoPY4lKg]]
+- BioXcelerator raise economics (~$100M at $500M, 10x from a $50M round; $10–20B end-state)
+  — client-context figures, unverified (2026) [[../../sources/2026-03-15-yt-BOlh8bnyNYw]]

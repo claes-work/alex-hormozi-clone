@@ -288,6 +288,97 @@ by margin, not by cost of goods. He pairs this with a change-sequencing principl
 jeopardize the healthy core of the business to do it; layer the new mechanism so a failure cannot
 take down the parts that already work [[../../sources/2026-03-29-yt-1hcgUXiFYm8]].
 
+## Mid-March 2026 (pass 25): the agency pricing barbell, the close-rate heuristic & the undercut doctrine
+
+**The SMB/agency pricing barbell — the mid-price high-touch retainer is a death zone.** In two
+March 2026 coaching clips with marketing-agency owners, Hormozi diagnoses the same structural trap:
+an agency selling a mid-priced (~$1.5–3k/mo), high-touch retainer to service-based SMBs sits in a
+churn/margin dead zone. The root cause is **volatility pass-through** — an SMB's own revenue swings
+flow straight into the vendor, so clients churn regardless of delivery quality:
+> "Their volatility will translate over to your volatility. And independent of how well you do, they
+> will start churning… because SMBs suck." *(verbatim)*
+
+At that price point average client "stick" is only **4–6 months** — "right in the sweet spot of
+churn" — while CAC only rises ("CAC will never be cheaper than it is today"), so revenue can climb
+while margin compresses toward "running a nonprofit." Back-of-napkin, ~10 sales/mo × $2k × ~5-month
+LTV caps the business near $100k/mo and stalls. The escape is a **barbell** — leave the middle in
+either direction:
+> "You just either have to price so low that they will not cancel or you have to go high enough that
+> they can't afford you because you're selling a different customer, fundamentally." *(verbatim)*
+
+- **Down-market:** a sub-**$400/mo** "nuisance" service with **near-zero delivery cost** (Google Maps
+  top-3 ranking, review management, SEO) that the customer can *see* and therefore keeps — yielding
+  **30–40-month** stick, comparable LTV, and low CAC from high sales velocity. Structure it as a
+  **"big head, long tail"**: a one-time setup fee feeding a small, high-gross-margin recurring fee.
+- **Churn-from-non-usage → a usage-based lower tier.** When agencies (or SMB resellers) cancel
+  because they *don't use* the deliverable rather than because it's bad, replace the flat retainer
+  with a low floor plus per-unit usage (e.g. **~$199/mo + ~$100/article**) so buyers "don't churn on
+  their bad months."
+- **Up-market:** keep the high-touch service but sell **only** to clients who already know their
+  metrics, have a proven model, and a working sales process — so you're not paid to figure out what
+  they never figured out themselves.
+
+The middle "is just a dead zone where everyone dies," which is why the SMMA space can grind to
+$1–3M **revenue, not profit**, but never *stack*
+[[../../sources/2026-03-15-yt-Zpr4J4EaMYg]] · [[../../sources/2026-03-15-yt-RAX8Cl5YX_g]].
+
+> ⚠️ REFINEMENT (reconciles with the page's dominant "raise price / go premium" thrust). The
+> down-market escape is **not** a contradiction of "charge what it's worth" / the luxury inversion:
+> going cheap is only viable when **delivery cost collapses to near zero** and the model is rebuilt
+> as setup-fee-plus-tiny-recurring. Serving low-budget mass buyers profitably requires capital,
+> automation, and a volume cost structure (see also "Giant jumps," above) — absent those, up-market
+> remains the default move.
+
+**The close-rate → price heuristic — a ~35% close rate means you're priced right.** In a March 2026
+agency call, Hormozi turns the sales close rate into a pricing diagnostic: a close rate meaningfully
+**above ~35%** is a *latent price increase* not yet taken.
+> "For me, the right price is 35% close rate… If you're between 50 and 60, it's closer to like a one
+> and a half to 1.75. If you're at like 60 to 70, you've got at least a double." *(verbatim)*
+
+His breakpoints (paraphrase): 40–50% ≈ a 25–50% raise available; 50–60% ≈ ~1.5–1.75x; 60–70% ≈ at
+least a double; 70–80% ≈ a double-to-triple. A too-cheap price can also *lose* good buyers at the top
+of a market by signaling you're "not legit enough." The named limiting belief behind chronic
+underpricing is **"selling out of your own wallet"** — pricing off what *you* (given your background)
+would pay, not off the value to a buyer who can't do the work (the mechanic who won't pay for his own
+oil change). He also specifies that usage/ad-spend scaling should stack **non-retroactively** (each
+incremental rate applies only within its band) on a flat floor, priced as the **"greater of"**
+[[../../sources/2026-03-15-yt-KyKUym0Ezhw]]. (The "selling out of your own wallet" belief is primarily
+a mindset item; kept here only for its pricing consequence.)
+
+**Bespoke pricing (March lineage) — don't ladder a custom business; price each job.** A March 2026
+call with a bespoke interior-design/wellness firm serving ultra-high-net-worth families anticipates
+the fuller May statement already recorded above ("2026 Q&A refinements"). The genuinely-new angles
+here: because the work is custom, **price each job to the asset and the buyer** rather than forcing a
+tier ladder — *"sell whatever you can get away with"* — and **price by asset type** (house pricing,
+yacht pricing, jet pricing) since cost already scales with the thing. Fractal/tiered pricing only
+works when each rung is roughly **5x** the last (a ~20% step-up is "too undifferentiated"), and a
+per-square-foot number "means nothing" to a family-office buyer — anchor instead with a minimum
+project value ("$20M-plus estates minimum"). The de-minimis annual retainer as *insurance/access* and
+"small jobs get the big jobs" are already covered above
+[[../../sources/2026-03-13-yt-8CpaJ6JyhYg]].
+
+**The "don't copy the moron" undercut-response doctrine — never cut price to match a competitor.**
+Hormozi's canonical costliest mistake (self-reported; the Gym Launch episode dates to roughly
+**2019–2021**). When a competitor undercut Gym Launch with cheaper one-on-one coaching and poached
+~10 of his top testimonial customers, he panicked ("war time") and **relaunched to his own base at a
+lower price** with a bigger value stack — cutting the top line ~20% (~$6M/yr), raising costs, and
+losing ~$6–7M/yr in profit, which multiplied at sale to roughly **$50M**. The damning detail:
+**churn didn't move at all**, because the cut ($3,000→$2,500/mo) was still past the "this is a lot of
+money" threshold — so the discount destroyed margin and bought nothing.
+> "I just cut my top line by 20%. Churn remained the same… It was past the threshold that this is a
+> lot of money. And so it changed nothing. I just made less money." *(verbatim)*
+
+The doctrine (paraphrase): **let the competitor copy the model that makes no money** ("Love this for
+us"), and **optimize for return on capital — human and financial — not absolute profit**, deciding by
+unit economics (he cites a "micro model" with ~5x the return on capital of a big-facility model
+despite lower absolute profit).
+> "I was the market leader and someone came in to undercut me. And then I said, 'Oh, I'll copy the
+> moron.'… Don't lose 50 million dollars. Let him figure that out for himself. You just focus on the
+> customer and you'll win." *(verbatim)*
+
+This is fully consistent with the page's raise-price bias — the mistake was *cutting* an already
+well-past-threshold price to chase a discounter [[../../sources/2026-03-15-yt-2wNUImfcFfE]].
+
 ## The Pricing Playbook: ten "instant profit" plays (2025)
 
 Source: [[../../sources/2025-100m-pricing-playbook]] (Alex-authored). Dollar figures are

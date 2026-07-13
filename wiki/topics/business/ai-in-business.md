@@ -211,7 +211,14 @@ org charts and more about flows" and says Acquisition.com recently tripled media
 without adding headcount because prompts absorbed roughly 30-50% of the workload. For
 training, he recommends reducing explanation into action-only steps: tell people exactly
 what to do, then let agents/prompts handle the administrative and instructional pieces
-[[../../sources/2026-07-04-yt-1Zevc7wdRZQ]].
+[[../../sources/2026-07-04-yt-1Zevc7wdRZQ]]. He gave the same articulation earlier, in a
+March 2026 workshop ("The future of organizations is going to be less about org charts and
+more about flows"), with the worked example that an "editor" is not one job but a hidden
+action chain (idea → trend research → ranking → brand/expertise cross-listing → scripting →
+outline → intro → hook → roadmap → stories/proof → packaging → finished video) the owner
+must decompose, plus the same tripled-media-output-at-flat-headcount ("one person does the
+work of three, then five, then ten") and actions-only training shortcut
+[[../../sources/2026-03-16-yt-jnzSkcHUUF8]].
 
 **AI avatars as a staffing/scaling model** (2026-03-30). In a coaching-call clip
 ([[../../sources/2026-03-30-yt-32R-eshEOdY]]), advising a caller who wants to build a
@@ -262,7 +269,20 @@ strategy down to API-level — sees which combinations create real value.
   behavior have not yet proved it. If the threat is not visible in metrics, solve the current
   constraint first: use AI internally to reduce workflow cost/headcount, improve EBITDA, and
   fund acquisition before rebuilding the offer around an external AI fear
-  [[../../sources/2026-06-29-yt-oSS5Lnl7_wc]].
+  [[../../sources/2026-06-29-yt-oSS5Lnl7_wc]]. He worked the same scenario earlier, in a
+  March 2026 clip advising another website-as-a-service agency (~$450/mo per customer, ~$20M
+  revenue, ~29-month customer lifetime) that feared AI letting customers self-serve. Two new
+  heuristics there: (a) **"you have customers and your job just got way easier" — no metric
+  moving means no problem** ("solving problems that don't exist"; churn only "slightly ticking
+  up"); and (b) **the AI-savvy self-server was never your customer** — "the person who is super
+  into AI right now wasn't hiring [you] anyways… they built their own website before AI made it
+  easy," so the laggard market remains. His prescription: don't innovate the product, **double
+  down on acquisition** to de-risk the single channel, and use AI *internally* to cut headcount
+  ~50% and roughly double EBITDA (~$3.6M → ~$7M) at the same front-end price, then deploy the
+  freed cash into acquisition — willing to go cash-negative for a quarter against the long
+  (~29-month) back-end LTV. Note the recurring irony he flags: the owner feared AI disrupting
+  customers while not using AI internally themselves ("you're worried about them doing it,
+  you're not even doing it") [[../../sources/2026-03-15-yt-SZYZHJsMalg]].
 
 > "AI will make the things that you're doing right now easier and faster. It doesn't mean
 > that you still don't have to do them." (2026-04-21)
@@ -304,6 +324,56 @@ His reasoning is a realized shift in buyer behavior — people increasingly do n
 > judges the disruption already realized (buyers want the answer, not to learn), so exit; for
 > website-as-a-service the threat is not yet in the churn data, so solve the current constraint
 > first. Same rule — respond to realized disruption, not narrative fear — applied to two cases.
+
+**The AI-agency opportunity + "sell the outcome, not the AI"** (March 2026). In two MoreMozi
+clips, Hormozi argues AI turns the historically-bad **agency model** into a genuinely good, but
+time-limited, opportunity. His thesis [[../../sources/2026-03-15-yt-mR2olH69Zto]]: agencies are
+perennially in demand (every business wants customers, so there is no PMF question) but have
+"perennially sucked" as businesses because they are **not sticky** — unlike payment processors
+or banks (few in number *because* sticky), agencies are legion. The two causes of non-stickiness
+are **hard delivery ops** and **mispricing**, and AI now attacks both — most at the **bottom of
+the market** (~$400–$700/mo price points), where agents can automate much of delivery. Demand is
+pre-proven, so "it's literally just a pricing consistency question… it's all about ops," and AI
+can now automate much of the ops. He cites Y Combinator hunting **vertically integrated marketing
+agencies** as corroboration, and a friend's Fortune-100 agency that **cut half its payroll** with
+AI automations. He puts the window at roughly **the next 1–2 years**.
+
+> "The agency model has perennially sucked. It's been a undefeated heavyweight champ of suckage
+> for a very long time. But, as of recently, it's becoming a significantly better opportunity
+> because of AI." (2026-03-15)
+
+**"Friction is the moat."** When a participant objects that off-the-shelf AI isn't good enough to
+match a human, he concedes it's "not good out of the box" — and calls that the whole point: his
+own operation runs "20 sales a day with AI, no human, and that'll scale," and the difficulty is
+what keeps the opportunity open.
+
+> "The fact that there is more friction for you means there's more friction for everyone, which
+> is where the opportunity lies. As soon as it's easy for everyone, the opportunity will be
+> gone." (2026-03-15)
+
+> "It's like saying Facebook ads don't work. They don't work if you're not doing them well. AI
+> doesn't work if you're not doing it well." (2026-03-15)
+
+**Sell the outcome, hide the AI.** In a parallel clip coaching a three-person AI-commercial
+agency [[../../sources/2026-03-15-yt-sgdLKYkCscw]], he applies the vehicle-vs-outcome rule (see
+the May Q&A refinement above) to production: "there's nothing special about AI" — customers only
+want customers, and the delivery mechanism is irrelevant ("a flaming stick… smoke signals… wacky
+wavy inflatable arm guy, no one cares"). So he'd almost make the AI a **cost secret**: sell an ad
+at the prevailing premium rate (~$400k–$500k) while it costs ~$18k, and pocket the margin, rather
+than leading with the AI angle. His stronger recommendation is a **pivot from few expensive hero
+spots to high-volume creative-at-scale** — because paid-social performance is a volume game (you
+need 50–100+ pieces since neither you nor the buyer knows which will win), and demand for creative
+is "going through the roof." He notes Acquisition.com would itself pay ~$100k/month for ~200 good
+ads a month, positions the offer as "we take over your entire creative team," drives cost-per-ad
+toward ~$50, and qualifies buyers hard ($100k+/mo or $1M+/yr in ad spend, a proven funnel/offer) —
+"the next iteration of what advertising agencies will become."
+
+> "If anything… I almost want the fact that you have AI to be a secret. I'd just sell it for 500
+> grand. And then have it cost 18." (2026-03-15)
+
+> "I would be more inclined to figuring out how to do more volume of creative than fewer, nicer
+> ones… the demand for creative is just going through the roof… if you can just solve that
+> problem, how you solve it, no one cares." (2026-03-15)
 
 **Department-by-department use cases** (2026-04-21). "The AI equivalent of the webpage":
 anything a human touches, AI can interact with. Marketing (idea generation, headline/thumbnail

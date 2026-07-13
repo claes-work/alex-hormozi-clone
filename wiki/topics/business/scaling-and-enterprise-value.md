@@ -4,7 +4,7 @@ domain: business
 domains: [business, wealth]
 created: 2026-07-08
 updated: 2026-07-13
-sources: 35
+sources: 44
 tags: [scaling, enterprise-value]
 ---
 
@@ -811,6 +811,162 @@ unverified.
   > "By solving products so well it becomes viral... you do solve your acquisition problem
   > vis-à-vis a better product... can you do the same thing by just having unbelievable
   > distribution? I don't think the answer is yes."
+
+---
+
+## 12. M&A, roll-ups & multi-location expansion (March 2026)
+
+Nine mid-March 2026 MoreMozi cuts (mostly live coachings of roll-up / multi-location
+operators). In coachings only Alex's advice is persona data; caller figures are
+self-reported and unverified. These extend the M&A material in §8 / §8b and the
+expansion tests in §9d.
+
+### Roll-up & M&A deal-structure playbook
+
+- **Deal structure is the value lever (2026-03-16).** Coaching a med-spa owner whose
+  $6k/yr consulting pipeline feeds a spa roll-up, Alex treats **deal structure — not
+  operations — as where value is captured**: a couple of restructuring moves can make an
+  acquisition more tax-efficient for the buyer *and* let the buyer capture more upside
+  while the seller feels they got the better deal. The founder must exit day-to-day to
+  "go and hunt" deals, because operating the units "is not the opportunity at all."
+  Delegation is installed via his **"cell phone talk"** operator template: eat margin to
+  put a high-"IQ per square foot" operator in, comp them **~$100k/yr + 5-10% of unit
+  profit vested ~4 yrs + ~10% of that unit's EBITDA contribution at sale**, in exchange
+  for one rule — the founder's phone "doesn't ring." His delegation test: for any crisis
+  (upset patient, leaking ceiling), **"any answer that is not call me is the right
+  answer,"** reinforced with ownership psychology ("your facility, not mine; put your
+  picture on the wall"). He also flags the asset logic: **coaching has no exit** (a
+  services/coaching business isn't an asset sale), whereas the roll-up is the exitable
+  asset — "if you can do the roll-up, basically nothing else matters."
+  [[../../sources/2026-03-16-yt-Bd2cPHyT-lk]]
+  > "Any answer that is not call me is the right answer."
+  > "You realize there will be no exit there." (on the coaching business)
+
+- **"Sell the eggs, keep the goose" — coaching-plus-roll-up (2026-03-15).** Coaching a
+  wellness-dentistry owner ($4M practice + ~$1M coaching) planning a DSO roll-up, Alex
+  names the arbitrage: a practice sold *alone* fetches ~4x, but the same practices sold
+  *together* reach **~10-12x**. Her coaching business is the **"goose — sell the eggs
+  (the practices), keep the goose (the coaching/IP)."** Because coaching already imposes
+  shared systems, pricing, and training on clients, **~75% of a roll-up's integration is
+  already done**. Mechanics warning: lock in **an option for 100% + drag-along rights and
+  agree all rights up front**, or at close "the person who's most greedy will hold out
+  the longest" — "I only know this out of pure experience." Keep IP out of the practice
+  sale via an unlimited license for a restricted period/territory.
+  [[../../sources/2026-03-15-yt-TNS8E02GR0U]] (This is the earlier, differently-scoped
+  articulation of the goose/eggs figure that §9b later restates as "don't buy the eggs
+  while killing the goose"; here the *practices* are the eggs and the *coaching engine* is
+  the goose.)
+  > "You don't want to get rid of the coaching business long-term because it's the goose.
+  > You want to sell the eggs. Keep the goose."
+
+- **"Majority control or don't bother" (2026-03-15).** Coaching a dentist (~$20M / three
+  offices) who wanted a **minority-stake invest-and-flip** roll-up ("the Gym Launch of
+  dentistry"), Alex argues *against* it: with a minority stake "you'll want control but
+  won't have it," operators "are not you," and you'll end up paying to make them go away —
+  "which is why everyone who gets into it buys **majority control**." The unrealistic
+  exit: operators won't buy their practice back for more than you put in "cuz they'll hate
+  you." His alternative is **local-market domination as a cleaner, higher-value exit**
+  ("I own this whole market... that's a great exit"), including buying out retiring local
+  dentists "for nothing." A licensing objection is weak: hire a licensed dentist, and a
+  lone dentist can stage a "mutiny" but "it's easy to have a mutiny when there's one, hard
+  when there's four." He pairs this with **"go hard, not go different"** — when a business
+  finally gets easy (team in place, above water), double down rather than start something
+  new. [[../../sources/2026-03-15-yt-tMQlQzEgXf0]] (The "go hard, not go different"
+  heuristic and local-domination-vs-flip thesis complement §10's "double down, don't
+  diversify.")
+  > "There's a reason that everyone who gets into it buys majority control, and it's
+  > because they suck... they're not going to magically become you."
+
+- **Vertical integration to de-constrain supply (2026-03-15).** Coaching a $200M home
+  builder blocked by **land supply**, Alex reframes: the real bottleneck isn't sourcing
+  raw land but the 2-10 year development into build-ready lots, which the builder
+  outsources to too-few developers. Prescription: **vertically integrate the outsourced
+  upstream step** via **buy-vs-build, leaning buy** — pull the names of every developer
+  they bought from over 10 years, approach the older owners who want out. Prefer **buying
+  the talent over the whole company** when relationships/inroads can travel with them
+  (analogized to AI firms paying four key people $100M each rather than $4B for the
+  company — "a pure allocation of capital play"); buy the whole company only when inroads
+  are too entrenched. Older sellers often accept **long earnouts and ~15-year seller
+  financing collateralized against the business** (an annuity for them). Constraint theory:
+  a constraint is "the allocation of resources that yields the highest return," and
+  de-constraining delivers order-of-magnitude, not 10-30%, gains — "you can go to a billion
+  because you opened up five times the land." [[../../sources/2026-03-15-yt-CuCNfFHt7b0]]
+  (His "every business at a large enough scale becomes a business of businesses" here is the
+  same figure §11's X5RXQNtoX8o clip develops as "business of businesses, team of teams.")
+  > "It actually is more efficient to give the four key people a hundred million dollars
+  > than buy the business for four billion... a pure allocation of capital play."
+
+### Multi-location expansion tests
+
+- **Franchise-vs-own-more-units is a valuation choice (2026-03-15).** Coaching a ~$9M BBQ
+  restaurant group chasing a $100M franchise system, Alex walks the exit math to show a
+  $100M system is a *small* franchisor: 7% royalty on $100M = $7M top line, ~40% margin =
+  $2.8M EBITDA, ~12x = ~$36M, minus a forced ~30% rollover = **~$22M to the owner** after
+  opening 100 locations. By contrast, going from 4 to **~20 high-margin owned units**
+  (~$500k profit each = ~$10M bottom line, ~8x) is worth **~$80M** and is more achievable.
+  Governing rule (already in §8): **fix unit economics first** — "every problem in
+  franchising is solved by unit economics"; a compelling unit ("$100k to open, $500k
+  profit year one") sells itself. Benchmark: Panda Express runs ~27% net across ~3,000
+  stores, so this owner should be able to. [[../../sources/2026-03-15-yt-RvTW1c2mfcY]]
+  > "You're having trouble selling the franchise cuz the franchise offer is not
+  > compelling. Like that's the core issue."
+
+- **The multi-location expansion test — "scale zero" + dual-surplus (2026-03-15,
+  2026-03-13).** Before opening a second location, two gates. (1) **"Scale zero"**: the
+  owner must do *zero* while the business runs "at the same or better" than when they ran
+  it — only then is the model duplicable. (2) **The dual-surplus rule**: expand **only
+  when you have more money AND more time than you know what to do with** — never expand
+  *because* the current unit underperforms. Premature-expansion economics: an immature
+  second site drops revenue ~20% and margin ~25% (profit craters) while overhead doubles
+  and it grows slower (no accumulated word-of-mouth) — "working twice as much and making
+  less money" (a mistake he says he made himself). The companion "nail it before you scale
+  it" clip adds: **map and optimize the full customer journey** (1st/2nd/3rd product,
+  max revenue/profit per customer) per unit *before* scaling, because retrofitting a
+  trained team onto an optimized model is far harder than getting it right in location one.
+  Complexity metaphor: one location is a **rowboat** (pivots fast), many locations are the
+  **Titanic** (you can see the iceberg, turn, and still hit it).
+  [[../../sources/2026-03-15-yt-EGWIa10HP4I]], [[../../sources/2026-03-13-yt-AI7vQKWIxQM]]
+  (Sharpens §9d's six-month founder-absence second-location test with the dual-surplus
+  gate and the premature-expansion economics.)
+  > "Expansion should happen when you're making more money than you know what to do with
+  > and you have more time on your hands than you know what to do with."
+  > "You've got to nail the model before you actually scale the model."
+
+- **The hidden core economic engine (2026-03-16).** Coaching a 45,000 sq ft racquet-sports
+  facility (~$3M, ~22% margins), Alex's diagnostic: **revenue per square foot AND
+  CAC-to-LTV by service category** — a facility's headline revenue looks low because
+  low-yield categories (dead court time, low-margin pickleball) drag it down. A big
+  facility usually hides a superior **micro-model**; find the single highest-yield /
+  lowest-CAC-to-LTV category, extract it as the "core economic engine," nail that small
+  footprint, then scale it — rather than chasing rare oversized real estate. Sequencing:
+  capture the **immediate pricing/offer/sales-process double first** (~$600k → $1M+
+  profit), *then* do the deeper unit-economics dive to pull out and replicate the engine.
+  [[../../sources/2026-03-16-yt-vHwiSEudeCQ]] (Uses the same **Rick Mayo / Alloy
+  semi-private** example already in §8; the genuinely-new additions are the
+  **CAC-to-LTV-by-category** diagnostic, the "hidden engine inside a big facility"
+  framing, and the smaller-footprint (8-20k sq ft) sourcing logic.)
+  > "You might have hidden within your model the real core economic engine."
+
+### Enterprise value
+
+- **"Software doesn't make you sellable" (2026-03-15).** Coaching a Brazilian accounting
+  college (~$12M, ~1M+ accountant distribution) weighing whether to build accounting
+  software to become sellable, Alex warns that **software does not inherently make a
+  business valuable — the *economics* software can have do**: viral growth, high gross
+  margins, and strong revenue retention (**net negative churn** — even keeping 80 of 100
+  customers you can retain >100% of revenue as they upgrade and grow). Bolting software
+  onto an education business earns no "software multiple"; only building genuinely
+  *exceptional* software does — "I have not seen anyone do it well... likelihood is low."
+  His lower-risk prescription: **partner with the best existing software rather than build
+  it** ("without having to build another company"), or add a sticky **continued-education
+  / annual recertification** product; leverage the built-in distribution.
+  [[../../sources/2026-03-15-yt-onWtR-rbXAk]] (This March clip prefigures §9d's April 2026
+  "EV is a bundle of characteristics, not a SaaS label" (Asy7IqieUho); net-negative-churn
+  is also established in §5b(5). The sharp reusable additions here are **partner,
+  don't build** and distribution-as-leverage.)
+  > "If you just add software in, you will not become a software company. You will not get
+  > a software multiple... It is only if you accomplish building a software that is
+  > exceptional that you will have an exceptional business that becomes sellable."
 
 ---
 

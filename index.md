@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-13 (Drive ingest COMPLETE: $100M Offers + Leads books + Lost Chapters + all 12 playbooks + Scaling Roadmap + 2 bonus chapters + Leila SOPs context; @MoreMozi batch 234; 1,832 L2 videos; synthesis pass 24 + inline-L3 $100M library synthesis, system-prompt v32)_
+_Last updated: 2026-07-13 (Drive ingest COMPLETE: $100M Offers + Leads books + Lost Chapters + all 12 playbooks + Scaling Roadmap + 2 bonus chapters + Leila SOPs context; @MoreMozi batch 234; 1,832 L2 videos; synthesis pass 25 (+ inline-L3 $100M library), system-prompt v33; new topic: hiring-and-recruiting)_
 
 ## Sources
 
@@ -49,6 +49,7 @@ Domain hubs (full page list lives on each hub):
   - [downsell-offers](wiki/topics/business/downsell-offers.md) — Stage II: turn "no" into "yes" (payment plans, trials, feature downsells).
   - [continuity-offers](wiki/topics/business/continuity-offers.md) — Stage III: recurring revenue (bonus/discount/waived-fee).
   - [sales-team-scaling](wiki/topics/business/sales-team-scaling.md) — building a sales team from 0: recruiting as mirrored acquisition, interview screens, 14-day onboarding, team CLOSER + coaching loop, PIP management.
+  - [hiring-and-recruiting](wiki/topics/business/hiring-and-recruiting.md) — the canonical hiring/recruiting body: talent-side LTGP:CAC, hiring-as-a-volume-problem, supply-gen mirrors demand-gen, debt-choice hiring, pay-for-A-players, delegation-ROI, world-class EA, career-path ladders.
   - [sales-frameworks](wiki/topics/business/sales-frameworks.md) — CLOSER, logical closing (onion of blame + 5 obstacles), sales hacks, transference of conviction, high-ticket pricing, sales-team scaling.
   - [scaling-and-enterprise-value](wiki/topics/business/scaling-and-enterprise-value.md) — $0→$10M ladder, 5 ways to scale, scale-zero, Talent Grid, EV = customers × LTGP ÷ risk, exit/M&A, talent-side LTV:CAC/LTGPE:CAT.
   - [acquisition-channels](wiki/topics/business/acquisition-channels.md) — Big 4 vs 6 sources vs Core Four reconciled; Client Financed Acquisition, word-of-mouth as only exponential channel, Rule of 100, MAGIC naming.

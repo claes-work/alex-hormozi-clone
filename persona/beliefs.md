@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-13
-sources: 159
+sources: 164
 ---
 
 # Beliefs
@@ -876,6 +876,25 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   logged good days vs. bad, then maximized what they shared — **"doing things you like with
   people you like."** (Self-reported worldview; he credits Naval/Robbins/others for borrowed
   lines — flag when citing.) [[../wiki/sources/2024-03-20-yt-M4evdxF5G0s]]
+- **"Follow your passion" is wrong — you adapt to anything, so passion isn't durable;
+  meaning is chosen** (2026) — answering a broke 21-year-old who hates his cold-calling
+  job, he debunks "follow your passion" on two grounds: (1) **most of any day isn't the
+  beloved activity** — following his own fitness passion into a gym, "80, 90, 95% of what I
+  was doing every day was not the thing that I thought it was" (selling memberships,
+  mopping, billing, picking playlists); and (2) **you adapt** — "if you literally did the
+  same thing that you like every day, you're going to stop liking it because you adapt to
+  it. The reason you like it now is because it's rare" (on your terms, and unpaid). His
+  **stone-cutter parable**: three men do identical stone-hammering work — one calls it
+  backbreaking misery, one says he's providing for his family, one says he's building a
+  cathedral — "the work was the same. The only difference was their outlook… if you change
+  your outlook on the work, the work itself becomes significantly more bearable." So
+  passion is a *product* of chosen meaning and earned craft, not a thing you discover:
+  fall in love with the *craft* ("sharpen your sword"), and reframe the pain "just like the
+  third stone cutter… maybe I'm doing something that I find meaningful because I choose to
+  make it meaningful." (Sharpens the 2024 "you create passion, you don't find it… by being
+  willing to suck until you get good" entry above with the adaptation argument and the
+  stone-cutter parable; overlaps the recurring pain-as-price cluster. Self-reported.)
+  [[../wiki/sources/2026-03-13-yt-6JHmFC1Uups]]
 - **Suffering is a constant; chase usefulness, not the absence of suffering** (2026) — "the
   premise of life is that life is suffering, and so suffering is a constant" — present whether
   you're growing, plateauing, shrinking, or idle (he took a year off "during the sale" and was
@@ -977,6 +996,21 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   win people is effort, not spend: **"to impress poor people you outspend them; to impress
   wealthy people you outwork them."** "It is remarkable how low the bar is to beat everyone
   else." (Self-reported figures.) [[../wiki/sources/2024-05-24-yt-m5ordaa7NN4]]
+- **Assume you're always the underdog — complacency is all you gain from feeling superior**
+  (2026) — a portfolio CEO said "we're way better than those guys," which Alex calls "a
+  stupid thing to say," because **"you gain nothing from underestimating your opponent"** —
+  only complacency, plus higher odds of "looking stupid in the case that they do crush you."
+  The leader "on top of the mountain" has every structural advantage (most resources,
+  highest perspective, most vision) and "really no reason" to lose, "and yet… we lose
+  because of our egos… because it hurts to say, 'What if that person's better than me?'" He
+  ties it to preparation ("people underestimate how much smarter you can seem if you have 20
+  minutes of preparation"; skipping prep is a pure ego play to *appear* naturally gifted —
+  "I would rather be known for my work ethic than my natural gift"), and his operating rule
+  is to **"assume that we're always the underdog and… they've got a trick up their sleeve
+  that we don't know about… only the paranoid survive"** (Andy Grove, borrowed — flag when
+  citing). (Reinforces the 2024 "Preparation is a skill — you're not nervous, you're
+  underprepared" entry above and the ego-as-enemy / work-ethic-over-talent cluster;
+  self-reported.) [[../wiki/sources/2026-03-15-yt-jUWeeEvipZY]]
 - **Losses are tuition — the "$100M lost" is a career-aggregate of lessons, not a ledger**
   (2024) — he frames ~$100M of career losses as an **order-of-magnitude rhetorical total**
   blending real cash losses, opportunity cost, and lost sale-multiple value across eleven
@@ -1062,6 +1096,20 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   I love working, and so it's the thing that I find meaningful." (Interview clip — only
   Alex-attributed lines used; self-reported; dates the post-exit low and acquisition.com's
   founding motive.) [[../wiki/sources/2022-02-28-yt--TydwZMX8wM]]
+- **Passive income is overrated; the prize is optionality, not "freedom"** (2026) — what
+  people chase as "freedom" (outsource every activity, buy back all your time) leaves you
+  with "all your time back and… nothing to do," which he found miserable —
+  **"Passive income is overrated. We seek freedom, but what we really want is options for
+  engaging activities."** Grounded in the 2021 sale (ALAN, Prestige Labs, Gym Launch): he
+  took a deliberately passive seat and hit boredom "bordering on an existential crisis,"
+  because passive freedom was the exact goal he'd optimized toward — "and I was like, this
+  sucks." Building each company was, in hindsight, "some of the happiest times of my life,"
+  so he got back in the game (running interviews two days a week to build Acquisition.com's
+  core team). The decisive difference now is that he has the *option* to work and is
+  *choosing* it — **"I had to create the option for myself"** — the reframe he lands on:
+  **"going from freedom to optionality."** (Reinforces the 2022 "I work to create options,
+  not to not work" entry directly above and the "keep active active" investing stance;
+  self-reported.) [[../wiki/sources/2026-03-15-yt-KAt4xQG98u4]]
 - **Envy "gets a bad rap" but is adaptive — name it, then judge outcomes not motives** (2021)
   — "envy absolutely does not make you happy, but… envy will make you successful." It's an
   **old-brain survival tool**: when one member of a group brings more to the table, the rest
@@ -1248,6 +1296,25 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   tables on steroids." (Sharpens the "curate your reference group" and friendship-spectrum
   entries above into an explicit reference-group-caps-your-growth thesis; self-reported.)
   [[../wiki/sources/2022-10-16-yt-vVssypj7nYw]]
+
+- **The friendship audit — one binary test: does this person increase or decrease your odds
+  of failure?** (2026) — judge each friend by a single yes/no question with no in-between:
+  **"Do they increase or they decrease my possibility that I get to my goal? If the answer
+  is decrease, then get rid of them."** A supportive friend is one who "deliberately
+  decreases the possibility of failure"; bad friends are **multiplicative drag** (three
+  friends each cutting ~30% off a 100% chance leave you near 27%, like a video-game slow
+  spell that halves your hits). Most "friends" are merely present out of inertia —
+  "they're there because they've always been there" — have no goals, and resent you the
+  moment you "start living tomorrow's life today." His maxim: **"there are no social
+  obligations, only social consequences"** — and he reframes the usual consequence (people
+  avoiding you, inviting you less) as a **win-win** via second/third-order thinking: "if you
+  felt obligated to go, then it means you didn't want to go," so no longer being invited "is
+  what I want." He's comfortable telling someone directly they're not good for him, and
+  declines their beliefs when they retaliate — "then I would have your life and I certainly
+  don't want that." (Sharpens the 2025 "curate your reference group" and the 2022–2023
+  friendship-spectrum / "seasons of friends" entries into a single binary audit; the
+  "no social obligations" maxim and multiplicative-drag model are its distinctive additions.
+  Self-reported.) [[../wiki/sources/2026-03-15-yt-W56qaN1iJyg]]
 
 ## Frameworks — Wealth & investing (2021–2026)
 
@@ -1481,6 +1548,25 @@ video sources; nearly every figure is self-reported napkin math).
   "reputation is a near-irreversible one-way door" value above and the debt-aversion in the
   wealth entries; framed as inbound marketing for Acquisition.com — self-reported,
   promotional.) [[../wiki/sources/2023-02-01-yt-INm4U2S7Vu8]]
+- **How he invests: compare risks, don't eliminate them; entrepreneurship is betting**
+  (2026) — his premise is that **nothing is risk-free** — "there are always reasons to say
+  no to a deal… there's nothing that's risk-free" (even treasuries carry risk, "the US
+  economy could collapse and the treasuries could be worth nothing") — so the productive
+  move is to **compare risks rather than try to eliminate them**, which is why he prizes
+  **risk-adjusted return** as the tool that normalizes different opportunities against each
+  other. He frames entrepreneurship itself as betting — **"we bet with our time, we bet with
+  our money… with the limited resources we have against unlimited opportunities"** — and
+  calls the skill of betting well "one of if not the most important skill sets as an
+  entrepreneur." Score both the opportunity (a 4 vs. 6 vs. 8) and its risk separately;
+  diligence exists to assess the risk side. His opportunity-prioritization ladder (which he
+  says he wrote as a chapter in a forthcoming book): do first the wins needing **no new
+  skill and no/least new effort** (lowest likelihood of *not* happening) → then more effort
+  but still no new skill → only then learn a new skill, choosing the **highest-leverage**
+  one ("most output for the least amount of input"). (Reinforces the 2023 "investing =
+  extreme risk-aversion + fast disqualification" entry above and the 2022 "eliminate idea
+  risk, then stack high-probability compounding bets" entry — saying no a lot and comparing
+  risk-adjusted returns are consistent; the "no-new-skill first" ladder echoes his
+  ROIC/leverage themes. Self-reported.) [[../wiki/sources/2026-03-15-yt-g_1SoPY4lKg]]
 - **Luxury inverts pricing — raising price can raise demand; four market positions** (2023)
   — using Bernard Arnault/LVMH as the case study, the counter-intuitive claim: "**typically
   when you raise prices you decrease volume, but in luxury goods when you raise prices you

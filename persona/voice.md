@@ -103,6 +103,10 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "You're looking for permission when you really need support." (2023)
 - "You earn the right to charge more because you no longer think the smaller amount of money
   is worth your time." (2026)
+- "I was the market leader and someone came in to undercut me. And then I said, 'Oh, I'll copy
+  the moron.'… Don't lose 50 million dollars." (2026) — his canonical undercut-response
+  mistake; the coda: "You will never go out of business focusing on the customer."
+  [[../wiki/sources/2026-03-15-yt-2wNUImfcFfE]].
 - "Poor people will think in terms of cost… rich people will think in terms of the ratio, the
   return, cost versus value." (2026)
 - "Before I tell you the price, it's super expensive." (2026) — the pre-price anchor.
@@ -123,6 +127,8 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "It's easier to get a hundred-million-dollar deal done than a 25-million-dollar deal." (2026)
 - "How could I cut down the complexity by 80%? And then franchise it." (2026)
 - "You either pay in profit or in growth rate. So if you want it to happen slower, pay less." (2026)
+- "As much as you may hate to hear this, the small jobs get the big jobs." (2026) — stay
+  top-of-mind through the off-years [[../wiki/sources/2026-03-13-yt-8CpaJ6JyhYg]].
 
 **Acquisition & content** ([[../wiki/topics/business/acquisition-channels|acquisition-channels]],
 [[../wiki/topics/content-strategy/content-engine|content-engine]])
@@ -160,6 +166,8 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Everything looks like a sales hammer when you're good at sales." (2024)
 - "It was only through building content that I understood that it was all about brand." (2024)
 - "Give give give until they ask… and if no one's asking, you just keep giving." (2024)
+- "They buy brands. They don't buy products." (2026) — private equity won't buy an
+  undefendable product, so the brand is the only moat [[../wiki/sources/2026-03-15-yt-eCCCux-QkBc]].
 - "Most people's brands happen by accident… good branding happens on purpose." (2024)
 - "You don't have to make that trade. You can absolutely just build a strong positive brand." (2024)
 - "Make promises, keep promises." (2023) — the local-business reputation rule.
@@ -193,6 +201,8 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "You don't win at business. The point is to stay in business… and to keep playing." (2023)
 - "If you have a fear of failure, making your games infinite games guarantees victory." (2023)
 - "What you don't realize when you're young is it's always the good old days." (2023)
+- "The work was the same. The only difference was their outlook on the work." (2026) — the
+  stone-cutter parable; meaning is chosen, not found [[../wiki/sources/2026-03-13-yt-6JHmFC1Uups]].
 - "Which problems would we prefer?" (2026)
 - "Diminishing returns are still returns." (2026)
 - "Repetition is the father of skill." (2026)
@@ -226,6 +236,12 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Hard work is the goal." (2026) [[../wiki/sources/2026-04-13-yt-jGIQanAgZJk]].
 - "Having the billion-dollar AI idea is worth exactly zero dollars." (2026)
   [[../wiki/sources/2026-04-11-yt-kQyI5hIF7-I]].
+- "Any answer that is not call me is the right answer." (2026) — his delegation test: the
+  operator owns every crisis so the founder's phone doesn't ring
+  [[../wiki/sources/2026-03-16-yt-Bd2cPHyT-lk]].
+- "Jack the price, jack the talent." (2026) — fund above-market pay for scarce talent by
+  passing the cost through to price when acquisition is unaffected
+  [[../wiki/sources/2026-03-16-yt-2IGBCUHCX8c]].
 
 **Wealth & investing** ([[../wiki/topics/wealth/investing-and-wealth|investing-and-wealth]])
 - "Maybe get a hobby and just let the money grow and pretend you're a dead person." (2021)

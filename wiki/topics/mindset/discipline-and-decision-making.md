@@ -1,7 +1,7 @@
 ---
 type: topic
 domain: mindset
-updated: 2026-07-10
+updated: 2026-07-13
 tags: [discipline, decision-making]
 ---
 
@@ -698,6 +698,85 @@ the pick-one-thing / focus-as-subtraction doctrine above [[../../sources/2026-04
 
 > "This sounds like a revenue problem, not the impact problem."
 
+## Mid-March 2026: the stone-cutter parable, competitive humility, and the quit-your-job framework
+
+**Meaning is chosen — the stone-cutter parable, and why "follow your passion" fails.** In a
+March 2026 clip answering a broke 21-year-old who hates his cold-calling job, Hormozi tells the
+**parable of the stone cutter**: three men do identical stone-hammering work — one calls it
+backbreaking misery, one says he's providing for his family, one says he's building a cathedral
+that will last generations. The work is the same; only their *outlook* differs, and changing
+your outlook makes the work "significantly more bearable." He then takes down **"follow your
+passion"** on two grounds: (1) most of any workday isn't the beloved activity anyway (following
+his own fitness passion into a gym still meant 80–95% selling memberships, mopping, cleaning,
+billing, picking playlists), and (2) doing the loved thing all day *every* day kills the liking,
+because **you adapt** — you enjoy it now only because it's rare, on your terms, and unpaid. The
+durable conclusion: passion isn't a stable input you should chase; meaning is a choice you make
+about whatever work you're doing [[../../sources/2026-03-13-yt-6JHmFC1Uups]]. *(Overlaps the
+recurring pain-as-price / "use what you have" cluster above — the distinctively-new pieces are
+the stone-cutter framing and the adaptation-based argument that passion isn't durable because
+you habituate. Note the tension with his "use pain until you find real passion" line
+[[../../sources/2023-10-13-yt-tr5OSrODjpw]]: there passion is a later reward; here passion
+itself is unreliable because repetition erodes it — reconciled by his own move, competence and
+chosen meaning, not the activity, is what lasts.)*
+
+> "The work was the same. The only difference was their outlook on the work. And I think that if
+> you change your outlook on the work, the work itself becomes significantly more bearable."
+
+> "If you literally did the same thing that you like every day, you're going to stop liking it
+> because you adapt to it. The reason you like it now is because it's rare."
+
+> "Maybe I'm doing something that I find meaningful because I choose to make it meaningful."
+
+**"Assume you're always the underdog" — competitive humility as an ego guard.** In a March 2026
+clip, Hormozi calls declaring "we're way better than those guys" a "stupid thing to say" — not
+because it's false but because you *gain nothing* from it and buy real downside: **complacency**
+plus higher odds of looking stupid if the competitor crushes you. The market leader ("guy on top
+of the mountain") has every structural advantage and rationally should never lose, yet leaders
+lose anyway — the cause is **ego/hubris**, because "it hurts to say, 'what if that person's
+better than me?'" He ties it to **preparation** ("you can seem much smarter with 20 minutes of
+prep") and the fighter who skips training purely to *appear* naturally gifted while still winning
+by less than if he'd prepped — Hormozi would "rather be known for my work ethic than my natural
+gift." His operating rule: **assume you are always the underdog** and that competitors have "a
+trick up their sleeve you don't know about," invoking Andy Grove's **"only the paranoid
+survive"** [[../../sources/2026-03-15-yt-jUWeeEvipZY]]. *(Sharpens the standing ego-as-the-enemy
+and work-ethic-over-talent themes with a clean, quotable rule.)*
+
+> "You gain nothing from underestimating your opponent. You gain complacency ... you increase the
+> likelihood of looking stupid in the case that they do crush you."
+
+> "The only win you get from not prepping ... is that you appear to be more naturally gifted, and
+> I would rather be known for my work ethic than my natural gift."
+
+> "We just have to assume that we're always the underdog and ... they've got a trick up their
+> sleeve that we don't know about ... only the paranoid survive."
+
+**The quit-your-job decision framework — replace the income, then check for a double negative.**
+Advising an 18-year firefighter (~$168k/yr) who also runs a ~$5M design-build company, Hormozi
+reframes "when should I quit?" as **"what do I do with my life?"** — not a numbers question, once
+the person admits money isn't the real constraint. His mechanical tools: (1) a **replace-income
+break-even test** — the other venture must reliably cover the salary given up (here ~$168k,
+doubled to ~$340k of profit because it's split with his dad, back-solved through ~25% margins to
+~$1.2–1.5M of additional top-line), then simply "can you do that?"; and (2) a **double-negative
+productivity test** — if leaving the job makes you *less* productive, quitting is a double
+negative, but if the job is low-output "study hall" and cutting the parachute would force focus,
+that objection dissolves. He diagnoses the stated objections as **fear dressed up as
+rationalization** ("you'd like to quit, you're comfortable, you think you can grow this, and
+you're afraid to do it"), and grounds the whole thing in a meaning claim: **"a man must have a
+quest"** — work is inextricable from a good life, so leaving one job just means you'll build or
+seek another [[../../sources/2026-03-15-yt-Pr-zXnkPsRU]]. *(The exit lens complements the
+May 2026 "keep stable income until the new vehicle matches it" advice
+[[../../sources/2026-04-27-yt-Wx6-8KY_wfs]] and the "how will my daily behavior change?" sale
+heuristic above [[../../sources/2026-03-25-yt-pkK7NoFRpas]] — same family of
+personal-risk-and-meaning decisions.)*
+
+> "I'm a big believer that a man must have a quest."
+
+> "If you become less productive as a result of leaving the job, I see that as a double negative."
+
+> "You'd like to quit. You're comfortable. You think you can grow this thing more. And you're
+> afraid to do it. ... you rationalize why cuz of the other reasons, but you know that's not
+> really true."
+
 ## Late-March 2026 refinements: regret, fear, perfectionism, maximizing, and exit timing
 
 **Regret minimization — the 85-year-old-me test; focus is the real risk; go all in or don't.**
@@ -849,3 +928,10 @@ nothing the day it declines" [[../../sources/2026-03-25-yt-pkK7NoFRpas]].
   fallacy.
 - [[../../sources/2026-03-17-yt-QQw8DJPewLM]] — "conquer the city before the country"; overextended
   armies collapse; fortify your base; focus is a revenue problem, not an impact one.
+- [[../../sources/2026-03-13-yt-6JHmFC1Uups]] — stone-cutter parable (outlook, not the work, differs);
+  meaning is chosen; adaptation-based takedown of "follow your passion" (you habituate, so passion
+  isn't durable).
+- [[../../sources/2026-03-15-yt-jUWeeEvipZY]] — "assume you're always the underdog"; competitive
+  humility as an ego/complacency guard; "20 minutes of prep"; "only the paranoid survive."
+- [[../../sources/2026-03-15-yt-Pr-zXnkPsRU]] — quit-your-job framework: replace-income break-even
+  test; double-negative productivity test; fear-as-rationalization; "a man must have a quest."

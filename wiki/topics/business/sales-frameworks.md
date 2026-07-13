@@ -4,7 +4,7 @@ domains: [business]
 created: 2026-07-08
 updated: 2026-07-13
 tags: [sales]
-sources: 27
+sources: 31
 ---
 
 # Sales Frameworks
@@ -783,6 +783,103 @@ show, they cannot buy."
 
 > "Yellows are the new gold." — 2025 ([[../../sources/2025-100m-lead-nurture-playbook]])
 
+## 16. March 2026 Q&A refinements: training as behavior, scripted pitch, team separation, cancellation-as-sale
+
+Four additions from mid-March 2026 coaching cuts, all sharpening the **standardize-and-scale**
+side of sales rather than the persuasion side.
+
+### Train by concrete behavior, never amorphous labels
+
+Coaching a live-selling (Whatnot / TikTok Shop) business, Hormozi gives his sharpest
+statement of how to train presenters and sellers: instruct only in **visible, copyable
+behaviors** ("raise your voice," "talk faster," "shoulders back"), never **amorphous words**
+like "energy," "charisma," or "confidence." Those labels are what *observers apply after the
+fact* once they see the behavior — so telling a rep to "have more energy" transmits nothing.
+Vague instruction is why most companies can't teach selling: it becomes a **"telephone game
+where no one agreed on what the behaviors are."** Concrete behavior compresses training time
+and lets a founder build a "stable" of trained sellers ([[../../sources/2026-03-15-yt-vtF21Y6u3Ts]]).
+(This is the training-side mechanism behind §4's conviction and §6's five-C's — it turns the
+whole preceding methodology into something coachable.)
+
+> "Think of everything purely in terms of behavior and do not use any amorphous words...
+> Instead of 'I need you to have higher energy' — that means nothing. I need you to raise
+> your voice. I need you to talk faster. I need you to have your shoulders back." — 2026
+> ([[../../sources/2026-03-15-yt-vtF21Y6u3Ts]])
+
+> "This is why most companies cannot teach people... we're just playing this telephone game
+> where no one agreed on what are the behaviors I want you to do." — 2026
+> ([[../../sources/2026-03-15-yt-vtF21Y6u3Ts]])
+
+### Fully-scripted-slide pitch standardization — make the speaker interchangeable
+
+Coaching a UK business-training consultant whose bottleneck was training speakers, Hormozi
+reframes the problem: speakers take forever to train because **the pitch isn't standardized.**
+His fix is to put the pitch **word-for-word on the slides** — one phrase/sentence max per
+slide, roughly **one slide per 6–10 seconds**, each visual paired to the line for
+comprehension and attention. Once words and visuals are fixed, the **only thing left to
+coach is delivery mechanics** (pace, volume, when to raise/lower the voice, what to do with
+the hands). Build the master script by taking the **best past pitches, transcribing them,
+and AI-merging** the most compelling pieces into one "master transcript," then laying it out
+one sentence per slide (words first, visuals second). Training loop: a speaker runs the deck
+**25–50 times at home**, records, and sends a best take for async feedback (watched at 2x),
+presenting in person only once good enough — which slashes the biggest cost of the role, a
+botched pitch. Canonical stat: his own **Money Models book-launch pitch was 1,700 slides for
+a 90-minute presentation.** The payoff is an **interchangeable speaker** — "if the pitch
+works, the pitch works" ([[../../sources/2026-03-13-yt-ORSuMe3itkk]]).
+
+> "The pitch should be word for word scripted on the slides... my pitch at Money Models, the
+> book launch, was 1,700 slides just for the 90-minute presentation." — 2026
+> ([[../../sources/2026-03-13-yt-ORSuMe3itkk]])
+
+> "If the words and the visuals are already taken care of, the only thing that you need to
+> train them on is how fast to say the words, how loudly to say it, when to raise their
+> voice, and when to lower it, and what to do with their hands." — 2026
+> ([[../../sources/2026-03-13-yt-ORSuMe3itkk]])
+
+> "I've swapped out speakers more times than I can count. If the pitch works, the pitch
+> works." — 2026 ([[../../sources/2026-03-13-yt-ORSuMe3itkk]])
+
+### Outbound and inbound are separate teams — inbound is graduated to
+
+Coaching a roofing owner who tanked his door-knocking engine by feeding purchased leads to
+the same reps (they got "lazy, fat" and stopped prospecting because inbound was easier),
+Hormozi lays down a sales-team scaling law: **outbound and inbound must be separate teams.**
+**Inbound is a role reps graduate into** — only the "absolute savages" who close everything
+earn access, because bought leads are **the most expensive and hardest-won leads a business
+has** and cannot be wasted. Inbound needs a **distinct commission structure** (you're paying
+for the leads): more volume at a lower per-deal rate, but more reliable income (a bad day is
+two closes, not zero), which suits reps with families. When new to inbound, **funnel
+everything to one savage closer** rather than spreading across many new reps — fewer "news"
+means fewer things break, isolating the variables so the owner can iterate faster
+([[../../sources/2026-03-15-yt-pcGDgMyUYmM]]). (Complements the §6 outbound org chart, which
+builds the outbound engine; this governs how to add inbound without cannibalizing it.)
+
+> "Outbound and inbound are separate teams." — 2026 ([[../../sources/2026-03-15-yt-pcGDgMyUYmM]])
+
+> "Inbound is what you graduate to... then and only then do you get the opportunity for me to
+> feed you leads, because these are the most expensive leads that we have to work very, very
+> hard for." — 2026 ([[../../sources/2026-03-15-yt-pcGDgMyUYmM]])
+
+### Cancellation is a sales problem, not a fulfillment problem
+
+Coaching a shared-generator / electricity-plan agency losing ~40% of signed customers to
+cancellation during a ~120-day install wait, Hormozi reframes: a high pre-fulfillment
+cancellation rate means **"something's wrong with the sale,"** not just fulfillment capacity.
+The root cause is usually reps **mismanaging expectations** — promising "it'll be live next
+month" and then pushing the date out repeatedly. The fix is to **set the true timeline at the
+point of sale and frame the wait as a benefit**: get a yes on the outcome, state the real
+duration plainly, tell the customer they need do nothing but sign, and position signing now
+as making them **"the first ones to get the lower rate."** A comparable company avoids the
+problem entirely by taking commitment + banking info up front and baking the wait into the
+model ([[../../sources/2026-03-17-yt-wOjKcCodC8w]]). (Extends §9's "the sale starts at first
+interest" — the point-of-sale frame owns post-sale retention, not just the close.)
+
+> "So, something's wrong with the sale." — 2026 ([[../../sources/2026-03-17-yt-wOjKcCodC8w]])
+
+> "It's going to take 4 months. You don't have to do anything, just sign here, and then
+> you'll be the first ones to get the lower rate." — 2026
+> ([[../../sources/2026-03-17-yt-wOjKcCodC8w]])
+
 ## Related pages
 
 - Hub: [[business]]
@@ -838,3 +935,11 @@ show, they cannot buy."
   STAR qualification, never-change-price, named-close library (2025)
 - [[../../sources/2025-100m-lead-nurture-playbook]] — four pillars of show rate, availability
   as biggest lever, BAMFAM, rep ranking by show/close/lead-to-close (2025)
+- [[../../sources/2026-03-15-yt-vtF21Y6u3Ts]] — train by concrete behavior, never amorphous
+  labels ("energy"/"charisma"); "telephone game" (2026)
+- [[../../sources/2026-03-13-yt-ORSuMe3itkk]] — fully-scripted-slide pitch standardization;
+  interchangeable speaker; 1,700-slide Money Models launch (2026)
+- [[../../sources/2026-03-15-yt-pcGDgMyUYmM]] — outbound/inbound as separate teams; inbound
+  graduated to; distinct commission; funnel to one savage closer (2026)
+- [[../../sources/2026-03-17-yt-wOjKcCodC8w]] — cancellation is a sales problem; set the true
+  timeline at point of sale and frame the wait as a benefit (2026)
