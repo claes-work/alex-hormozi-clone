@@ -621,6 +621,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-12 | [[2026-03-12-yt-jIQLIixIj78]] | You Need to Have More Agency — outsize outcomes require non-consensus; conviction must be self-derived, held loosely, changed on a dime | |
 | 2026-03-12 | [[2026-03-12-yt-CPCgewePK2Q]] | How to Negotiate — BATNA/leverage is the top psychological power; build alternatives before the table; sell when you don't want to sell (light) | |
 | 2026-03-12 | [[2026-03-12-yt-NZPpcqDQJnc]] | Helping a Catering Company Scale — seasonality is a feature, not a bug; volatility ≠ risk when predictable; do 2x of what works, not a counter-cyclical new business | |
+| 2026-03-12 | [[2026-03-12-yt-m4nt60bCHN8]] | 5 Steps to Live the Life You Want — the "master life plan"; permission to change what you want; "everything is a trade" (anti-regret) | ★ |
+| 2026-03-12 | [[2026-03-12-yt-TbI5aI6nXN0]] | Raise Your Bar for Excellence — "the more you do, the more you realize you can do"; obsession → long-horizon feedback; delayed gratification as a trainable muscle | |
+| 2026-03-12 | [[2026-03-12-yt-pzKRhmt5jU8]] | How to Build a Brand (2) — brand as constant reinforcement; relevance is manufactured; success = defending a title; reach ≠ awareness | |
+| 2026-03-12 | [[2026-03-12-yt-0QSKp1kDzYY]] | My Writing Process — short-form tweets hand-written (no AI); "quote them quoting me" sourcing; rhetoric devices (contrast, threes, alliteration) | |
+| 2026-03-12 | [[2026-03-12-yt-WIyY3SusttI]] | Clear Messaging Always Beats Clever — repeat relentlessly; compress to one big idea with 10 reasons; a book launch = 5,000 near-identical ads | |
+| 2026-03-12 | [[2026-03-12-yt-gKzy9QGyKn8]] | How Local Businesses Can Make More Money — three levers (expand the location, add channels, open new locations); one channel until $1M | |
+| 2026-03-12 | [[2026-03-12-yt-luMVwQA3p3E]] | Have a Conversation With Your Older Self — the Solomon-paradox self-coaching (a Monday dialogue with his 85-year-old self); accountability over knowledge (light) | |
+| 2026-03-12 | [[2026-03-12-yt-wBqS4j5i6p8]] | "Is It Wrong to Work Hard?" — work by choice; "destroy the word should"; measure only your own fulfillment (light) | |
+| 2026-03-12 | [[2026-03-12-yt-c1MA4HMubNo]] | "Are You Wasting Your Life by Working So Much?" — work is doing what he wants; criticism is projection; novelty hedonically adapts away (light) | |
+| 2026-03-12 | [[2026-03-12-yt-XCt90FhgnVE]] | The Lonely Chapter... — the loneliness of the ambitious path; wanting to be exceptional but afraid of being an exception (light) | |
 | 2026-03-13 | [[2026-03-13-yt-9LSd0QE1w7Y]] | Advice for Hard Days — win the day; "maintaining is winning"; recalibrate your scale so small moments don't eat the season | |
 | 2026-03-13 | [[2026-03-13-yt-6JHmFC1Uups]] | Learn to Love the Pain — the stone-cutter parable (outlook, not the work, differs); "follow your passion" fails because you adapt | ★ |
 | 2026-03-13 | [[2026-03-13-yt-8CpaJ6JyhYg]] | Helping an Interior Design Company Scale (bespoke UHNW) — drop the tier ladder, price each job; a de-minimis retainer; "small jobs get the big jobs" | ★ |
@@ -1882,7 +1892,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,852 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,862 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

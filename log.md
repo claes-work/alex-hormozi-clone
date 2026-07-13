@@ -6302,3 +6302,31 @@ Nine solo/interview mindset & life pieces + one teardown. Attribution per speake
 
 Ledger 10->L2 (L2 now 1,852). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: **BEHAVIORAL-LENS-OPERATING-SYSTEM-everything-is-behavior/amorphous-words-are-bundles-of-behaviors/deconstruct-via-what-would-occur-to-know-it-happened/5-senses-empiricism/clear-not-clever/names-manifestation-directly - mindset + business/communication candidate (RICH; the canonical statement of the observable-reality thesis)**; **PAIN-IS-A-BYPRODUCT-OF-SKILL-ACQUISITION-not-the-price + SURVIVORSHIP-BIAS-CRITIQUE-of-hard-childhood-origin-stories + CURRENCY-OF-HARD-CHANGES-FORM-habituation-to-suck - mindset + persona/beliefs candidate (RICH; sharpens/refines the pain-as-price cluster - potential position nuance vs "hardship is the price of character")**; CLOSE-RATE-UNDERPRICING-LADDER-full-bands-80pct=3-4x-underpriced-to-30-40pct=correct-below-30-fix-avatar - business/pricing candidate (extends pass-25 close-rate→price with the full ladder); OVERTHINKING-AS-PROXY-FOR-ACTION-fear-of-rejection/think-less-do-more-early-vs-think-more-do-less-advanced/motivation=perceived-deprivation - mindset/discipline + business candidate; UNMADE-DECISION-IS-AN-UNHAD-CONVERSATION/commitment=eliminating-alternatives/name-the-one-person-you-fear/end-of-day-decisions-7x-throughput - mindset/decision-making + communication candidate; PARTNER-SELECTION-attract-select-big-rocks-maintain-divorce-course - persona/beliefs (consolidate w/ rationalist-marriage philosophy); AGENCY-non-consensus-required-for-outsize-outcomes/conviction-self-derived-held-loosely-changed-on-a-dime/life-beta - mindset + persona/beliefs candidate; SEASONALITY-IS-A-FEATURE-NOT-A-BUG-volatility-not-risk-when-predictable/do-2x-of-what-works-not-counter-cyclical-new-business - business/scaling candidate (recurs). Standard cut: CPCgewePK2Q (negotiation reprise).
+
+## [2026-07-13] ingest | yt batch 237 - @MoreMozi P2 (2026-03-12), 10 videos
+
+Solo mindset/life pieces + a couple business/content. Attribution per speaker; only Alex-attributed material flows to persona. Mostly reinforcement of existing clusters (life-design, standards, work-ethic, clarity, branding, writing).
+
+- **2026-03-12** `yt-m4nt60bCHN8` - "5 steps to live the life you want": the **"master life plan"**
+  life-design framework (5 steps); the "permission to change what you want / weight of forever" thesis; the anti-regret "everything is a trade" mindset (want it all → get nothing).
+- **2026-03-12** `yt-TbI5aI6nXN0` - "raise your bar for excellence": **"the more you do, the more you
+  realize you can do"**; an obsession → long-horizon positive-feedback loop; delayed gratification as a trainable muscle; the "how long can the kid wait" marshmallow reframe. (Overlaps the standards/excellence cluster.)
+- **2026-03-12** `yt-pzKRhmt5jU8` - "how to build a brand" (2nd of two same-titled cuts; distinct from
+  Iwo_93WfmPs): **brand as constant reinforcement** - relevance is manufactured ("only a big deal if you make it one"); success = defending a title, not summiting ("holding the top is harder than climbing it"); reach ≠ awareness.
+- **2026-03-12** `yt-0QSKp1kDzYY` - "my writing process": short-form tweets hand-written (no AI); the
+  **"quote them quoting me"** audience-validated sourcing loop; rhetoric devices (contrast, threes, alliteration). (Rhetoric rules overlap the codified writing guidelines; the sourcing loop is the fresh bit.)
+- **2026-03-12** `yt-WIyY3SusttI` - "clear messaging always beats clever": repeat relentlessly;
+  compress to **one big idea with 10 reasons**; a book launch = ~5,000 near-identical ads. (Reinforces clarity-over-cleverness.)
+- **2026-03-12** `yt-gKzy9QGyKn8` - "how local businesses can make more money": three levers (expand
+  the location / add channels / open new locations); one channel until $1M (local exception); saturate your market. (Standard - local-business framework restatement.)
+- **2026-03-12** `yt-m4nt60bCHN8` covered above; **`yt-luMVwQA3p3E`** - "have a conversation with your
+  older self": the Solomon-paradox self-coaching practice (a Monday Google-Doc dialogue with his 85-year-old self); context + aligned incentives; accountability over knowledge. (Richer detail on already-synthesized material.)
+- **2026-03-12** `yt-wBqS4j5i6p8` - "is it wrong to work hard?": defends work-by-choice; "destroy the
+  word should"; rejects prescribed balance; measures only his own fulfillment. (Standard - well-covered.)
+- **2026-03-12** `yt-c1MA4HMubNo` - "are you wasting your life by working so much?": work is doing what
+  he wants; criticism is projection; novelty just hedonically adapts away. (Standard - work-as-presence restatement.)
+- **2026-03-12** `yt-XCt90FhgnVE` - "the lonely chapter...": the loneliness of the ambitious path -
+  wanting to be exceptional but afraid of being an exception; the "recorders" metaphor; a "zero-loss game by choosing to begin." (Standard - voice reinforcement.)
+
+Ledger 10->L2 (L2 now 1,862). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
+Synthesis notes: **FIVE-STEP-MASTER-LIFE-PLAN-life-design-framework + PERMISSION-TO-CHANGE-WHAT-YOU-WANT-weight-of-forever + EVERYTHING-IS-A-TRADE-anti-regret - mindset + persona/beliefs candidate (life-design; consolidates want-less-or-trade-more + regret-is-imaginary)**; THE-MORE-YOU-DO-THE-MORE-YOU-REALIZE-YOU-CAN-DO/obsession-long-horizon-feedback-loop/delayed-gratification-as-trainable-muscle/marshmallow-reframe - mindset/discipline candidate (standards cluster); BRAND-AS-CONSTANT-REINFORCEMENT-relevance-is-manufactured/success=defending-a-title-not-summiting/reach!=awareness - content-strategy/branding candidate (complements branding=pairing + goodwill-engine); QUOTE-THEM-QUOTING-ME-audience-validated-sourcing-loop/tweets-hand-written-no-AI - content-strategy/hormozi-writing-guidelines candidate; CLEAR-BEATS-CLEVER-one-big-idea-with-10-reasons/repeat-relentlessly/book-launch=5000-near-identical-ads - marketing/copywriting candidate (reinforces clarity-over-cleverness). Standard/light cuts (reinforce existing, no new framework): gKzy9QGyKn8 (local 3-lever), luMVwQA3p3E (Solomon/older-self already synthesized), wBqS4j5i6p8 + c1MA4HMubNo (work-by-choice/work-as-presence), XCt90FhgnVE (lonely-chapter, voice only).
