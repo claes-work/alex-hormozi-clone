@@ -609,6 +609,7 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-16 | [[2026-03-16-yt-plV_nyqluOE]] | Helping a Coffee Company ($4M) Scale — "under-talented, not over-expanded"; fix retail margins to 40%+ before adding locations (light) | |
 | 2026-03-16 | [[2026-03-16-yt-pKEvzBiR9LI]] | Be Careful Who You Take Advice From — don't take advice from anyone whose life you don't want; own it's your fault (light) | |
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
+| 2026-03-10 | [[2026-03-10-yt-sJmQGb3Yc1U]] | Goals Aren't Finish Lines, They're Mile Markers — the payoff is the climb; you win by outlasting everyone (light) | |
 | 2026-03-11 | [[2026-03-11-yt-ibjqAg-NbBA]] | Who Is Alex Hormozi? — the richest first-person origin story; childhood, defense-consulting exit, Gym Launch collapse to $1k → 2021 triple exit → Acquisition.com | ★ |
 | 2026-03-11 | [[2026-03-11-yt-IWpIR7fVtvA]] | What I Did When I Was Broke — make monthly income (not bank balance) the goal; three ordered foundations; failures as experience points | ★ |
 | 2026-03-11 | [[2026-03-11-yt-7AK4ezrHE6s]] | A Lifetime of Personal Development in 18 Minutes — the five self-work maxims (thoughts / feelings / good-bad / ignorance / surroundings) | ★ |
@@ -618,6 +619,15 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-11 | [[2026-03-11-yt-qe5Cs62Dqts]] | In-Person vs. Remote Work (with Dave Ramsey) — Alex backs in-person early-career (~18-35) for osmotic learning + more promotions (Dave Ramsey = context) | |
 | 2026-03-11 | [[2026-03-11-yt-bjEOnMtf5_E]] | How to Build a Good Product — the free-sample feedback loop (give it free → market test → iterate on honest feedback → convert/review/refer) | |
 | 2026-03-11 | [[2026-03-11-yt-1ZLaJ-ism04]] | Your Self-Limiting Beliefs Are Sabotaging Your Goals — "identity is a lie, doing is being"; run every choice through the goals-razor (light) | |
+| 2026-03-11 | [[2026-03-11-yt-162VCwYKG7g]] | Why I Started ACQ Ventures — **NEW company**: an early-stage tech VC arm of Acquisition.com (self-funded, no LPs; ex-YC GP; ~6-8 deals; smaller "money-only" stakes) | ★ |
+| 2026-03-11 | [[2026-03-11-yt-e-4qLacdTM0]] | What I'm Focused on Right Now (Mar 2026) — standardizing "the rules that govern reinforcement" across a scaling org + the highest level of recruiting/talent | ★ |
+| 2026-03-11 | [[2026-03-11-yt-W8U5PkuPHnc]] | Did My Childhood Make Me the Way I Am? — rejects the childhood-trauma-to-success narrative; drive via reinforcement + a rising minimum standard | ★ |
+| 2026-03-11 | [[2026-03-11-yt-ReKhHsdjkw0]] | How I Let Go of Needing Validation — he was beating his father at his father's money game; stop playing his game, define your own | |
+| 2026-03-11 | [[2026-03-11-yt-nzNTKY_3I_E]] | How to Think About Competitors Who Copy You — they can copy your promises/services/logo/name, but not your proof; trust is the scarce moat | |
+| 2026-03-11 | [[2026-03-11-yt-oYdvuoUfP8g]] | If You Can't Buy It Twice, Don't Buy It Once — price purchases in post-tax hours of labor (the Smoothie King "blender tender" origin) | |
+| 2026-03-11 | [[2026-03-11-yt-gMmxA5T_jAk]] | How to Stay Focused — focus as a daily addiction-fight; measured by what you say no to; "nothing hard lasts forever" | |
+| 2026-03-11 | [[2026-03-11-yt-_7EMQ9KjVI0]] | Go 100% All In on Your Goals — go all-in when you have nothing to lose; failure compounds as experience; stay in the infinite game | |
+| 2026-03-11 | [[2026-03-11-yt-znG7v7pHgXo]] | Advice for Employees Who Want to Start a Business — revenue isn't income; you "buy yourself a job"; advertise → offer → sell → delegate in chunks (light) | |
 | 2026-03-12 | [[2026-03-12-yt-3T7k-zVKOvg]] | **How I Scaled My First Gyms** — origin (first gym ~$35k/mo, mo9 outsourced, $7M→$26M) | |
 | 2026-03-12 | [[2026-03-12-yt-Iwo_93WfmPs]] | How to Build a Brand — goodwill = a history of positive reinforcement; solve the audience's biggest problems; attribution scales with specificity; podcasts-as-email-lists | ★ |
 | 2026-03-12 | [[2026-03-12-yt-WFu3w0Z5m_g]] | How I See the World More Clearly — the behavioral-lens OS: everything is behavior; deconstruct amorphous words into observables; "clear, not clever" | ★ |
@@ -1912,7 +1922,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,882 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,892 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
