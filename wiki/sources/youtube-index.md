@@ -620,6 +620,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-05 | [[2026-03-05-yt-spcogiC6vwE]] | Focus on Inputs, Not Outputs — control inputs not outputs; top-1% podcaster = 21 uploads; his own 4.5yr / 200-download grind before takeoff | |
 | 2026-03-05 | [[2026-03-05-yt-gj9qhJ1GQxw]] | Balance Is a Myth — balance = mediocrity; focused imbalance wins; balance is achieved over a lifetime in seasons | |
 | 2026-03-05 | [[2026-03-05-yt-SmXzGoWLOOc]] | How to Spot Bad Friends — friend litmus test: keep future-talkers, cut past-talkers; whose opinion to weigh; environment shapes you | |
+| 2026-03-05 | [[2026-03-05-yt-v6zDEMQs2iI]] | How I Learned Sales — **bio**: ~4,000 in-person gym sales before any training; FB ads 2013; 33 gym turnarounds; the CLOSER framework | ★ |
+| 2026-03-05 | [[2026-03-05-yt-f70dguHlNdw]] | Lessons from My First Business — **bio**: pre-gym Free Training Project → $4k/mo online coaching → his first gym at **23** in 2013 | ★ |
+| 2026-03-05 | [[2026-03-05-yt-gPeuoFtKJHU]] | What Makes Goals Worth Pursuing? (Dave Ramsey interview) — Alex on the "goose vs eggs" forever-business; bulk is Ramsey's org/equity content (context) | ★ |
+| 2026-03-05 | [[2026-03-05-yt-MdOSsbjP9rM]] | Solve Rich People's Problems — big & small goals cost the same effort, competition is thinner at the top; solve higher-value problems | |
+| 2026-03-05 | [[2026-03-05-yt-FFZ1E_RxAW0]] | Why I Have High Standards — "control freak" = low-standards people's label; 100 golden BBs; make art for yourself, not committee Frankenstein | |
+| 2026-03-05 | [[2026-03-05-yt-1Gk9S9EgwxE]] | You Need to Learn How to Manage Your Time — money = encapsulated time; run a constant calendar appraisal and trade up | |
+| 2026-03-05 | [[2026-03-05-yt-Gpc5k3DeN6Q]] | How I Think About Goals — a goal = clear action steps, all else is distraction; solve survival first ("5-to-9 not 9-to-5") | |
+| 2026-03-05 | [[2026-03-05-yt-gsdqYaydqBc]] | Eliminate "Shoulds" from Your Life — every ideal has a price; four trade-off levels (should → too much → bidding → source); standards-as-source | |
+| 2026-03-05 | [[2026-03-05-yt-y0MXoctKJBQ]] | Stop Networking — choose work over networking; go broad then deep; raise your reference group; work ethic is the universal currency | |
+| 2026-03-05 | [[2026-03-05-yt-qsJg8ZID3Ys]] | Be Resilient — bet on yourself, buy skills with time/money, pay down the "ignorance tax," relocate to win | |
 | 2026-03-06 | [[2026-03-06-yt-2cWuvq4MoKc]] | Passive Income Is a Lie — kill the active/passive binary; measure return on time (dollars-per-hour); reinvest into your proven active engine | ★ |
 | 2026-03-06 | [[2026-03-06-yt-xaqJeQ9Uyj4]] | Why I Started Making Content — **bio**: saw social media's "monster" free impressions; started YouTube and his first book at ~the same time; PE + social media | ★ |
 | 2026-03-06 | [[2026-03-06-yt-Y2qMoxxKymE]] | The Difference Between Heroes and Villains — heroes *use* their pain, villains are used by it; the "and that's okay" reframe; document your struggle | |
@@ -1992,7 +2002,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,962 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,972 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
