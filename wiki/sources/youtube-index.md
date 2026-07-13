@@ -484,6 +484,12 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-02-23 | [[2026-02-23-yt-ZuJryiwxjDw]] | Why you're not making money — sell to the rich, tiered pricing 5–10x, close-rate as pricing signal | ★ |
 | 2026-02-28 | [[2026-02-28-yt-MH-IMJxbUY4]] | Building $12M for a stranger (travel-hedging) — CAC + conversion fixes (dup format) | |
 | 2026-03-04 | [[2026-03-04-yt-jfW6gL6hKhk]] | First $100K in 2026 — 4-4-4, maker/manager, 10k iterations (dedup fat-pitch) | ★ |
+| 2026-03-04 | [[2026-03-04-yt-B4-LIIfsGtM]] | The Biggest Influence on My Life — the "Solomon" method: a weekly dialogue with his imagined 85-year-old future self (+ a ~$15M vendor loss) | ★ |
+| 2026-03-04 | [[2026-03-04-yt-u76EL4JY4ro]] | What People Get Wrong About Content — concept/"words" beat production polish; an iPhone-shot video hit ~2M views | ★ |
+| 2026-03-04 | [[2026-03-04-yt-7K7c_dZlmys]] | You Only Need 3 Things to Win — the balls to start, the brains to learn, the heart to never give up; ~20 hrs to get decent | |
+| 2026-03-04 | [[2026-03-04-yt-ZyS5BwU1Pok]] | Why I Work Even Though It Doesn't Make Me Happy — reject happiness as the goal; aim at usefulness / squeezing out your potential | |
+| 2026-03-04 | [[2026-03-04-yt-pbsFCdOM9eI]] | What If You Lifted 6x a Day for 10 Minutes? — Greg Nuckols' distributed-volume experiment; all-carb bulk; keep the split, cut the volume | |
+| 2026-03-04 | [[2026-03-04-yt-Zz2c72DF5DY]] | You Need to Do 100x More Work — 100x not 2x effort (a CEO's 66 events/quarter); outcomes are trades; time worked ≠ output | |
 | 2026-03-09 | [[2026-03-09-yt-rMJIOK_FgJk]] | The 6 levels of making money — risk ladder (W-2 → sell risk → paid-no-matter-what) | ★ |
 | 2026-03-14 | [[2026-03-14-yt-Jmkq5RLjm0U]] | Grow an audience 2026 — SPCL framework, 4 ways to monetize, 6 content shifts (framework-dense) | ★ |
 | 2026-03-20 | [[2026-03-20-yt-jqo0lVveh98]] | Service business — "drop low or go high" agency model, win on character | ★ |
@@ -630,6 +636,10 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-05 | [[2026-03-05-yt-gsdqYaydqBc]] | Eliminate "Shoulds" from Your Life — every ideal has a price; four trade-off levels (should → too much → bidding → source); standards-as-source | |
 | 2026-03-05 | [[2026-03-05-yt-y0MXoctKJBQ]] | Stop Networking — choose work over networking; go broad then deep; raise your reference group; work ethic is the universal currency | |
 | 2026-03-05 | [[2026-03-05-yt-qsJg8ZID3Ys]] | Be Resilient — bet on yourself, buy skills with time/money, pay down the "ignorance tax," relocate to win | |
+| 2026-03-05 | [[2026-03-05-yt-VL-8XvvkwrQ]] | How to Not Lose Money in a New Opportunity — if you can't name how you'd lose, you will; list downsides, then triple the odds for optimism | |
+| 2026-03-05 | [[2026-03-05-yt-mkFU-XCv8KE]] | Don't Slow Down When It Gets Easy — press the advantage: when it's easy do more, when it's hard do different; double down when it works | |
+| 2026-03-05 | [[2026-03-05-yt-fXRojaMAn2I]] | You're right... — the "99% right, 100% wrong" victim frame: being short-term right guarantees the long-term loss | |
+| 2026-03-05 | [[2026-03-05-yt-3A1f2nuHZiY]] | You're Running Out of Time... — "30 isn't the new 20" is an excuse; pay down ignorance debt fast, start now | |
 | 2026-03-06 | [[2026-03-06-yt-2cWuvq4MoKc]] | Passive Income Is a Lie — kill the active/passive binary; measure return on time (dollars-per-hour); reinvest into your proven active engine | ★ |
 | 2026-03-06 | [[2026-03-06-yt-xaqJeQ9Uyj4]] | Why I Started Making Content — **bio**: saw social media's "monster" free impressions; started YouTube and his first book at ~the same time; PE + social media | ★ |
 | 2026-03-06 | [[2026-03-06-yt-Y2qMoxxKymE]] | The Difference Between Heroes and Villains — heroes *use* their pain, villains are used by it; the "and that's okay" reframe; document your struggle | |
@@ -2002,7 +2012,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,972 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,982 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
