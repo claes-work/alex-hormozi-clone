@@ -113,6 +113,25 @@ From a filmed full-body workout with guest Chris Williamson (context only), Nov 
   work/podcasts. (Diet covered in `persona/appearance.md` — not duplicated here.)
   (self-reported, [[../../sources/2023-11-15-yt-ABOd589OyTM]])
 
+## Distilled method & volume commentary (2026)
+
+From two @MoreMozi clips, Mar 2026. All **self-reported**.
+
+- **"How to get in shape" reduces to two variables (2026-03-04).** A **six-pack is a
+  body-fat-percentage problem**, achieved by holding a **calorie deficit**; **being
+  jacked is a training problem**, achieved via **progressive overload plus adequate
+  protein**. He argues the information is trivial and freely available — the real
+  missing variable is **accountability/adherence**, not knowledge. (self-reported,
+  [[../../sources/2026-03-04-yt-WEHKlZUQkSg]])
+- **Greg Nuckols' distributed-volume experiment (2026-03-04).** Alex recounts hearing
+  of an experiment (attributed to **Greg Nuckols**) built on spreading training volume
+  across the day: **one set on ~3 exercises every ~45 minutes, ~6 times per day**,
+  paired with an **all-carbohydrate, zero-fat bulk**. Alex's own takeaway/correction is
+  to **"keep the split, cut the volume"** — i.e. the distributed frequency is
+  interesting but the total volume was excessive. He caveats that such a protocol
+  assumes **elite genetics** and is **unsustainable** for ordinary trainees.
+  (self-reported, [[../../sources/2026-03-04-yt-pbsFCdOM9eI]])
+
 ## Strength & PRs
 
 All natural, from his heaviest lifting years (self-reported,

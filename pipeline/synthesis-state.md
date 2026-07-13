@@ -6,9 +6,10 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 244** — synthesis pass 26, system-prompt **v34** (2026-07-13). (Prior:
-pass 25 through batch 234 at v33; pass 24 through batch 224 + the inline-L3 $100M library synthesis at
-v32.) Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
+Synthesized through: **batch 254** — synthesis pass 27, system-prompt **v35** (2026-07-13). (Prior:
+pass 26 through batch 244 at v34; pass 25 through batch 234 at v33; pass 24 through batch 224 + the
+inline-L3 $100M library synthesis at v32.) Everything ingested after this is L2 (source pages exist)
+but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
@@ -16,6 +17,42 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 245-254** — synthesis pass 27 (2026-07-13) →
+      system-prompt **v35**. Promoted genuinely-new late-Feb-to-early-March 2026 (2026-02-27 to
+      2026-03-06) MoreMozi material across **12 topic pages + 4 persona files**. This window was
+      biography- and framework-rich. **persona/biography.md**: "lost everything twice within ~12 months
+      at 26-27" (first year dating Leila, with a `> ⚠️` reconciliation vs the rock-bottom timeline + the
+      $1,036/$1,000/$1,100 bank-balance discrepancy); sales-origin texture (declined a wealth-manager job
+      "I'm not a salesman, I'm an academic", ~4,000 in-person sales before any training, 33 turnarounds);
+      the pre-gym Free Training Project → $4k/mo coaching → first gym at 23 in 2013 (**reinforces the ~23
+      side** of the first-gym-age contradiction); the age-19 mother's-perspective psych essay as the
+      "it's my fault" origin; a ~$15M vendor-broken-promise loss. **beliefs +5**: the "Solomon" method
+      (weekly written dialogue with his imagined 85-year-old future self + Solomon Paradox); love-is-
+      conditional / explicit-agreements (refinement of the rationalist-marriage philosophy); meaning-of-
+      life = "the reason you don't kill yourself" + the behavior-change razor; authenticity = "aftermarket
+      modification" (personality vs identity); mission = "document the best practices, the books outlast
+      the wealth" (refinement of legacy=education). **appearance**: media diet (comedy + ancient
+      philosophy = "the only two truth tellers", X-primary), training-as-un-optimized-joy, home-gym-cost-
+      more-than-all-6-former-gyms. **voice +9** verbatim lines. Topics: mental-toughness-and-learning (a
+      consolidated **learning cluster** — game-tape + drill-to-automaticity, buy-your-way-up + proximity +
+      taste=pattern-recognition, 100-reps→top-10%→Chris-Rock-checklist, consistency>complexity + ~20h-to-
+      competence); scaling-and-enterprise-value (the $1-3M "swamp" A-player≈100%-of-profit, EV-as-most-
+      tax-efficient-net-worth-vehicle, owner-out/manufacture-social-proof); business-diagnostics (the
+      3-strategic-buckets = EV levers + 70/20/10, first-vs-third-time-founders, startup-debt taxonomy
+      financial/management/technical); content-strategy/community-building (course-first-is-wrong: launch
+      an empty classroom, build live, community>content, ask-don't-guess PMF — HIGH-value Skool material);
+      pricing-psychology (high-ticket-first-then-descend / "Tesla Roadmap", avoid the bottom); attraction-
+      offers (offers-don't-decay-bad-products-do, avatar-selection biggest-value-vs-cost-gap);
+      communication-and-management (ask-every-employee-how-they-make-money→metric, care-about-home-life /
+      spouse-gates-the-ceiling / police-rest); sales-team-scaling (**pooled team bonus** — shared-pot
+      collective-threshold, a dated reversal from the cutthroat individual model, `> ⚠️` flagged);
+      hiring-and-recruiting (get-in-the-door playbook + first-3-5-hires-set-culture; the internal-
+      entrepreneur employee-income flip); wealth/investing-and-wealth (ACQ acquisition criteria = high-
+      cash-flow malleable service businesses; "the best ROI is talent"); discipline-and-decision-making
+      (the two-razor frame + "do nothing" option; don't-ask-questions-solvable-by-math-or-testing);
+      fitness/training-and-physique (get-in-shape = body-fat%/deficit + progressive-overload+protein;
+      Greg Nuckols distributed-volume experiment). Dropped long-tail repeats (leverage-canon, balance-is-
+      a-myth, resilience, 20-hour-rule reprises) — they stay L2.
 - [x] **@MoreMozi Q&A cuts — batches 235-244** — synthesis pass 26 (2026-07-13) →
       system-prompt **v34**. Promoted genuinely-new early-to-mid March 2026 (2026-03-07 to 2026-03-13)
       MoreMozi refinements across **12 topic pages + 4 persona files**. This window was biography-rich:

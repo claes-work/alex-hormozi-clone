@@ -491,6 +491,91 @@ acting rather than doing the reps yourself.
 > you kind of like mapped the neural network of expertise."
 > — [[../../sources/2026-03-12-yt-2mlQd6KTY1E]]
 
+### Feb–Mar 2026: the consolidated "how to learn anything" method
+
+A four-video @MoreMozi cluster (late Feb–early Mar 2026) restates Alex's skill-acquisition
+method in operator language. It reuses primitives already above — *deconstruct into subskills*,
+*model what the best DO*, *iterate a checklist from your own top decile* — and adds four distinct
+levers: **game tape + self-discovery**, **buying/proximity to shorten the curve**, the **Chris
+Rock volume-then-extraction loop**, and **consistency/habituation over complexity**.
+
+**Anything can be trained; decompose, then drill game tape to automaticity**
+([[../../sources/2026-03-03-yt-aWIb9h74E8g]]). Alex's foundational premise is that "anything can
+be trained" — even hard cases, given enough institutional investment — because "every skill has
+subskills underneath of it": break any skill down far enough and anyone can learn it. A corollary
+governs instruction: **"the more skilled the individual, the vaguer the instruction"** — a master
+acts on a one-line directive because they already own every subskill, a beginner must be walked
+step by step. Learning *speed* varies by person and starting "building blocks," but the time it
+takes "doesn't matter" if you believe you're worth the long-term investment ("If it takes you a
+year longer to become a top rep, who cares?"). His actual training mechanism (run on a ~40-person
+sales team) is **"game tape"**: reps watch 60–100 hours of recordings of top performers "so
+they're thinking about the script in their subconscious," trained on **positives** (what to do)
+over negatives; then a manager **drills one unit at a time until they can "breathe it"** and say
+the same words every time. Correction is **self-discovery, not telling**: "Let's watch it, pause.
+What do you think you could have done better? I'm not going to tell you" — because being told or
+yelled at makes people conclude they suck and kills their headspace.
+
+> "Every skill has subskills underneath of it." · "The more skilled the individual, the vaguer the
+> instruction." · "I want them to watch 60, 100 hours of footage, game tape of other guys doing a
+> great job selling so that they're thinking about the script in their subconscious."
+> — [[../../sources/2026-03-03-yt-aWIb9h74E8g]]
+
+**Buy your way up the curve; proximity; taste = pattern recognition**
+([[../../sources/2026-02-28-yt-l2pJnism6jM]]). A second, complementary lever is to *pay* for
+speed. Alex calls himself "a product of the alternative education scene" who "bought everything —
+courses, masterminds, coaching," and says it "shortcut a lot" — with the caveat that the space has
+"a lot of sewage" alongside genuinely good material, so filtering (discernment) is required. The
+most durable version of the lever is **proximity**: "there's a lot of value in getting around
+other entrepreneurs who are at your level or above and just learning from them." He reframes
+**taste as pattern recognition** — a stored library of "this is good / this is bad" patterns, so a
+mismatch surfaces as a *feeling* even though it's really pattern-matching against the past. He
+frames ambition as a stair-step: his first goal was simply $100k/year, then "leveling up from
+there," and meeting people operating orders of magnitude higher taught him **"there's levels."**
+
+> "I bought everything. Courses, masterminds, coaching." · "There's a lot of value in getting
+> around other entrepreneurs who are at your level or above and just learning from them." · "You
+> have great taste, which I would just define as pattern recognition." — [[../../sources/2026-02-28-yt-l2pJnism6jM]]
+
+**Volume, then pattern-extraction — the Chris Rock loop** ([[../../sources/2026-02-28-yt-Vbl3zaBTmW4]]).
+His fastest method outside courses is "tremendous volume of activity" followed by structured
+extraction: do ~100 reps, isolate the **top 10%**, ask what those winners shared that the other
+90% lacked, then deliberately apply those differentiators across the *next* 100 reps — each round
+surfacing new variables, so the **checklist of what-works grows batch by batch**. He anchors it in
+**Chris Rock's set-refinement method** (via a David Perell clip): Rock's polished 60-minute set
+exists because, unseen, he runs new hour-long sets in small clubs where most material bombs, keeps
+the ~5 minutes that land, moves them to the front, and tries all-new material for the rest —
+repeating until the whole hour is winners. "That fundamentally is the process of learning
+anything… it's usually not one thing. It's many small things that when added together in aggregate
+create the outsized returns." *(This is the same "coats of paint" / iterate-your-top-decile loop
+from the [[#the-learning-method-same-condition-new-behavior|learning method]] above; what's new is
+the explicit 100-reps → top-10% → growing-checklist framing and the Chris Rock anchor.)*
+
+> "The fastest way that I do it… is tremendous volume of activity." · "What did these top 10% have
+> different than the other 90?" · "It's many small things that when added together in aggregate
+> create the outsized returns." — [[../../sources/2026-02-28-yt-Vbl3zaBTmW4]]
+
+**Consistency beats complexity; ~20 hours to competence; habituation over affirmations**
+([[../../sources/2026-02-28-yt-iOnr_HKVIZo]]). The gating variable on getting good is not
+difficulty but **consistency** — "what makes things hard isn't complexity, it's consistency." You
+can beat most people at almost anything by sticking with it a year, and reach basic competence at
+most skills in **~20 hours** — "it's just that people will wait 10 years to get the first 20 hours
+logged" (the **delay-before-starting tax**). The mechanism for self-doubt is **exposure, not
+belief**: you "outwork your self-doubt through repetition, not affirmations… you do it through
+stimuli habituation" — exposing yourself to the scary thing until the nervous system adjusts and
+it's no longer scary (his self-reported case: years of running fitness sessions on a box with a
+mic left him with zero nerves his first time on stage; his analogy: curing a spider phobia by
+staying in the room through panic after panic until you walk out unafraid). The point of practice
+is to **habituate as fast as possible** — "microwave that period" — and the same rep count can take
+a year or a month depending on dedication.
+
+> "What makes things hard isn't complexity, it's consistency." · "You can become competent at just
+> about any skill in 20 hours… people will wait 10 years to get the first 20 hours logged." ·
+> "Outwork your self-doubt through repetition, not affirmations… stimuli habituation."
+> — [[../../sources/2026-02-28-yt-iOnr_HKVIZo]]
+
+> Canonical self-quote (voice): "The world belongs to those who can keep doing without seeing the
+> result of their doing." — [[../../sources/2026-02-28-yt-iOnr_HKVIZo]]
+
 ## Skill compounding & luck surface area
 
 Source: [[../../sources/2026-03-17-yt-GNuNSi_6spM]] (March 2026 interview clip).

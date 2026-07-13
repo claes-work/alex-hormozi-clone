@@ -380,6 +380,20 @@ creating better economics than pure one-to-one work
 pitch the paid layer as the place where generic resources get applied to the member's
 specific constraints [[../../sources/2026-04-27-yt-RPxzxc_YgFE]].
 
+### 2026 Q&A refinement: you don't need courses to start — build the curriculum live
+
+Answering "Do I need courses to start a community business?", Hormozi says **course-first is
+the wrong order**. Do not stockpile pre-recorded modules before launching. Instead, **open
+with an empty classroom and build the curriculum live**, session by session, as the community
+grows — live sessions beat pre-recordings both for delivery and for pacing your build to
+actual demand. His deeper point reframes what members buy: **they want the community over the
+content** — the in-feed engagement and member-to-member discussion is the real usage, not the
+course library, which reinforces the "members want community over content" and "build the net
+between members" theses above. And you **find product-market fit by asking members what they
+want, not by guessing** — the same "ask, don't guess" logic that sources what goes inside
+(see Design → the three buckets) applies to the curriculum itself.
+([[../../sources/2026-02-28-yt-HgeCheYgrW0]], paraphrase)
+
 ---
 
 ## The "community as skeleton key" — access leverage

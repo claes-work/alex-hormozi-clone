@@ -4,7 +4,7 @@ domain: business
 domains: [business]
 created: 2026-07-08
 updated: 2026-07-13
-sources: 24
+sources: 27
 tags: [diagnostics, constraints, scaling]
 ---
 
@@ -499,6 +499,77 @@ CEOs); Stage 9 is terminal (beyond ~500 employees each path turns industry-speci
 
 ---
 
+## The 3 strategic buckets (get customers / raise LTGP / decrease risk)
+
+Source: [[../../sources/2026-02-27-yt-A5I1CyfdAVU]] (2026).
+
+Above the individual constraints sits a **named triad** that bounds *every* growth move: a
+business only ever has **three ways to grow** — **(1) get more customers, (2) raise
+lifetime gross profit per customer (LTGP), (3) decrease risk**. Everything a founder could
+do maps into one of these three buckets, and Hormozi assigns a rough **70/20/10 attention
+split** across them — spend the most on getting customers, then on raising LTGP, then on
+de-risking. The point of the split is prioritization: "strategy = prioritization"
+(paraphrase) — knowing which bucket the next hour belongs in.
+
+These three buckets are exactly the three levers in his enterprise-value identity
+**EV = customers × LTGP ÷ risk** (developed in [[scaling-and-enterprise-value]]): pull any
+one lever the right direction and enterprise value rises. So the triad is not a separate
+model — it's the EV equation re-read as a to-do list, which is why it doubles as a
+diagnostic: whatever you're working on either adds customers, raises LTGP, or lowers risk,
+or it isn't strategy. Ties back to the supply/demand triage (customers = demand side) and
+to [[money-model]] (the machinery that raises LTGP).
+
+---
+
+## First-time vs third-time founders (the experience curve)
+
+Source: [[../../sources/2026-02-27-yt-c9tDMmuZcHs]] (2026).
+
+A diagnostic for *the founder*, not the business — how the operator's judgment matures with
+reps, and why more-experienced founders diagnose constraints better. Hormozi contrasts how a
+**first-time** founder behaves versus a **third-time** founder along four axes:
+
+1. **Secrecy → openness.** First-timers hoard their idea (afraid it'll be stolen);
+   experienced founders share openly, knowing execution — not the idea — is the moat.
+2. **Certainty → calibrated humility.** First-timers are certain they're right; veterans
+   hold views with calibrated humility, having been wrong enough times to price their own
+   confidence.
+3. **Binary → nuanced constraint diagnosis.** First-timers see problems as all-or-nothing
+   (it works or it doesn't); veterans read the business as a system of shifting constraints
+   and diagnose *which one* binds now — the core move of this whole page.
+4. **High failure tolerance.** Experienced founders expect and absorb failure as the cost of
+   iteration rather than treating a setback as a verdict (links to the intermittent-
+   reinforcement / frustration-tolerance idea in the big-hairy-problem lens).
+
+The through-line: experience mostly upgrades *how you diagnose*, moving the founder from a
+binary "is it broken?" to the calibrated "which constraint binds now, and how sure am I?"
+that the rest of this page assumes.
+
+---
+
+## Startup-debt taxonomy (financial / management / technical)
+
+Source: [[../../sources/2026-03-05-yt-5brXkXO66_k]] (2026).
+
+A diagnostic for *which corner you're cutting*. Hormozi's claim: to grow you **always incur
+debt** of one of three kinds — you never escape it, you only choose which:
+
+1. **Financial debt** — actual borrowed money / capital raised.
+2. **Management debt** — hiring ahead of process, tolerating org mess and people problems
+   you'll have to clean up later.
+3. **Technical debt** — shortcuts in product/systems/infrastructure that must be repaid in
+   rework.
+
+The rule is to **deliberately pick the kind of debt that is easiest for you to repay** given
+your situation, rather than pretending you can grow debt-free. He adds a size-indexed
+heuristic: **sub-$1M businesses run on marketing/sales debt** (you win by acquiring
+customers now and fixing the rest later), whereas **product wins long-term** — as the
+business scales, paying down the product/technical side is what compounds. Connects to the
+cost-of-change and swamp diagnostics above (every growth move has a hidden repayment) and to
+the 4 shapes (which debt dominates tracks your shape — e.g. software's technical debt).
+
+---
+
 ## Growth-plateau diagnosis (is the market really capped?)
 
 Source: [[../../sources/2023-06-14-yt-9gVdCR7W8o8|The REAL Reason Your Business Isn't Growing]] (2023).
@@ -636,3 +707,6 @@ machinery ([[money-model]]) at that one thing.
 - [[../../sources/2025-02-25-yt-QwEb78e5a8Y|Answering Your Top Business Questions for 1 Hour]] (2025) — exhaust the working path before changing avatars.
 - [[../../sources/2026-06-26-yt-zzleYxkf39k|Scale or Fail Episode 1]] (2026) — back-to-front live business diagnosis.
 - [[../../sources/2025-100m-scaling-roadmap|$100M Scaling Roadmap]] (2025) — the 10-stage headcount ladder (Researcher → Chairman), one binding constraint per stage.
+- [[../../sources/2026-02-27-yt-A5I1CyfdAVU]] (2026) — the 3 strategic buckets (customers / LTGP / risk) at 70/20/10; strategy = prioritization; the EV levers.
+- [[../../sources/2026-02-27-yt-c9tDMmuZcHs]] (2026) — first-time vs third-time founders: secrecy→openness, certainty→humility, binary→nuanced constraint diagnosis.
+- [[../../sources/2026-03-05-yt-5brXkXO66_k]] (2026) — startup-debt taxonomy: financial / management / technical; pick the easiest to repay; sub-$1M runs on sales debt, product wins long-term.

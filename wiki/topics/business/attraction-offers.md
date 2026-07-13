@@ -3,7 +3,7 @@ type: topic
 domains: [business]
 created: 2026-07-08
 updated: 2026-07-13
-sources: 6
+sources: 8
 ---
 
 # Attraction Offers
@@ -263,6 +263,8 @@ Section-level principles that run through all the Attraction Offer chapters:
 - **Make sales to get customers:** the thesis inversion — "we don't get customers to make a sale, we make sales to get customers." The real money comes from people who succeed with the offer and then buy something else; always have an upsell ready ([[../../sources/2025-08-16-100m-money-models|$100M Money Models]], PDF pp. 47–48).
 - **Keep customers paying:** spread credit and discounts over time — "You never want people to stop paying you." ([[../../sources/2025-08-16-100m-money-models|$100M Money Models]], PDF p. 49)
 - **Protect your reputation:** unlike credit card debt, "you can't file bankruptcy to erase a bad reputation. Once you have a bad one, it sticks for life." Deliver on your promises ([[../../sources/2025-08-16-100m-money-models|$100M Money Models]], PDF pp. 36, 75).
+- **Offers don't decay from market fatigue — bad products do (2026-02-28):** contrarian reframe on why an offer "stops working." Hormozi rejects saturation / ad-fatigue as the cause — an offer's apparent "death" is a **product-quality failure**, not a market that got tired of it. The fix is two-part: (1) create genuine *want* for the thing, and (2) faithfully deliver what was promised once bought. Get those right and the offer keeps converting; blame the product, not the market ([[../../sources/2026-02-28-yt-LUjY8GW5Tj4|Why Your Offer Stopped Working]]).
+- **Avatar-selection / niche-down heuristic (2026-02-27):** when a business is trying to serve **two avatars at once**, pick **one** — don't split the offer. Favor the avatar with the **largest gap between value provided and cost to deliver** (the widest value-to-cost spread), then back that single avatar with a **guaranteed-outcome offer**. Choosing by margin-of-value rather than by preference or volume is what makes the resulting offer both compelling and profitable ([[../../sources/2026-02-27-yt-ocWSh3g--8s|Picking the Right Avatar]]).
 - **The payoff claim:** Attraction Offers "turned $1,000 into $10,000,000 in ten months because when I got returns I kept doubling down. A Grand Slam Attraction Offer changes your business (and life) forever." He applies them "at one time or another to every business I own." (Self-reported; [[../../sources/2025-08-16-100m-money-models|$100M Money Models]], PDF p. 88)
 - **What comes next:** Attraction Offers hand off to Upsell Offers ("whatever we offer next"), which often make the majority of the profit — the McDonald's burger math takes per-customer profit from $0.25 to $3.00, an 11.6x increase ([[../../sources/2025-08-16-100m-money-models|$100M Money Models]], PDF pp. 89–91).
 
@@ -274,3 +276,5 @@ Section-level principles that run through all the Attraction Offer chapters:
 - [[../../sources/2025-100m-lost-chapters|$100M Lost Chapters]] (2025) — additional offer types: Freemium, Free Pick-Your-Price, Free With Alternate Revenue ("no-sale sale") (PDF pp. 93–108).
 - [[../../sources/2026-03-15-yt-rWLLkEqMGak|The Perfect Offer for a Home Service Business]] (2026-03-15, @MoreMozi) — on-time/on-budget guarantee + maintenance-plan-for-review, home-services variant.
 - [[../../sources/2026-03-13-yt-cXnRN1Hw4ik|The Best Offer for a Construction Company]] (2026-03-13, @MoreMozi) — on-time/on-budget guarantee, construction variant (anchor math, no-change carve-out, risk/speed/ease).
+- [[../../sources/2026-02-28-yt-LUjY8GW5Tj4|Why Your Offer Stopped Working]] (2026-02-28, @MoreMozi) — offers don't decay from market fatigue; a dead offer is a product-quality failure (create want + deliver the promise).
+- [[../../sources/2026-02-27-yt-ocWSh3g--8s|Picking the Right Avatar]] (2026-02-27, @MoreMozi) — avatar-selection heuristic: pick one avatar (the largest value-vs-cost gap) and back it with a guaranteed-outcome offer.

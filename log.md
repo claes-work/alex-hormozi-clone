@@ -6849,3 +6849,29 @@ Founder-experience-levels, a high-ticket→mass-market pricing sequence, the Val
 
 Ledger 10->L2 (L2 now 2,032). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: **HIGH-TICKET-FIRST-THEN-DESCEND-sell-up-market-first-10x-price-build-retention-then-descend-to-mass-market-Tesla-Roadmap/avoid-the-bottom-of-the-market - business/pricing candidate (overlaps pricing-psychology/money-model)**; **VALUE=ASK-THEM-TO-BUY-TEST-if-they-pay-they-found-value+Value-Equation-restated-dream-outcome×perceived-likelihood÷time-delay×effort/PT-vs-GLP-1-example - business/value candidate (overlaps value-equation)**; **OWNER-OUT-self-eliminate-to-make-an-important-business-become-less-important/face-driven-acquisition=key-man-risk/install-systems-to-manufacture-social-proof-not-founder-ads-delegation-not-abdication - business candidate (overlaps scaling-and-enterprise-value + communication-and-management)**; QUALIFIED-LEADS-STEM-CELL-65pct-close=conversion-not-bottleneck-fix-content-not-funnel/better-not-more-5-CTAs-outlier-packaging-proof-promise-plan/protect-core-additive-experiments/organic-first-for-trust - business/lead-gen candidate; FIRST-vs-THIRD-TIME-FOUNDERS-secrecy->openness/certainty->calibrated-humility/binary->nuanced-constraint-diagnosis/failure-tolerance - business/mindset candidate; AVATAR-SELECTION-pick-one-favor-largest-value-vs-cost-gap-back-with-guaranteed-outcome-offer - business/marketing candidate. Standard cuts: U7BjTCP3wZc (long-horizons; vision-needs-financial-breathing-room nuance), dXJ9vRFUj7Q (rejection-vs-regret), 42ER6aQHy60 (be-exceptional), GJ6TSJHwO4E (work-ethic; optimizers-vs-maximizers).
+
+## [2026-07-13] lint | synthesis pass 27 — @MoreMozi batches 245-254 → system-prompt v35
+
+Checkpoint synthesis (10 batches since pass 26). Promoted genuinely-new late-Feb-to-early-March 2026 (2026-02-27 to 2026-03-06) @MoreMozi material across **12 topic pages + 4 persona files**; recompiled persona/system-prompt.md **v34 → v35**. One agent per file (concurrency rule); every promotion dated + cited to its wiki/sources page; contradictions/position-changes flagged with `>` callouts; long-tail repeats dropped (stay L2).
+
+Persona:
+- **biography.md**: "lost everything twice within ~12 months at 26-27" (first year dating Leila; `> ⚠️` reconciliation vs the rock-bottom timeline + the $1,036/$1,000/$1,100 discrepancy); sales-origin texture (declined a wealth-manager job "I'm not a salesman, I'm an academic", ~4,000 in-person sales before training, 33 turnarounds); the pre-gym Free Training Project → $4k/mo coaching → first gym at 23 in 2013 (**reinforces the ~23 side** of the first-gym-age contradiction); the age-19 mother's-perspective psych essay as the "it's my fault" origin; a ~$15M vendor-broken-promise loss. (sources 91→96)
+- **beliefs.md** (+5): the "Solomon" method (weekly written dialogue with his 85-year-old future self + Solomon Paradox); love-is-conditional / explicit-agreements (refinement); meaning-of-life = "the reason you don't kill yourself" + behavior-change razor; authenticity = "aftermarket modification" (personality vs identity); mission = "the books outlast the wealth" (refinement of legacy=education). (sources 170→176)
+- **appearance.md**: media diet (comedy + ancient philosophy = "the only two truth tellers", X-primary); training-as-un-optimized-joy; home gym cost more than all six former commercial gyms combined. (sources 6→8)
+- **voice.md** (+9): "work ethic is the currency of respect", "you are the asset, not the downloads", "if they pay, they found value", "agree and one-up", "die with no secrets", "losers fear rejection, winners fear regret", "to make an important business, become less important", "balance is a myth", "the only two truth tellers".
+
+Topics:
+- **mental-toughness-and-learning**: a consolidated **learning cluster** (game-tape + drill-to-automaticity; buy-your-way-up + proximity + taste=pattern-recognition; 100-reps→top-10%→Chris-Rock-checklist; consistency>complexity + ~20h-to-competence).
+- **scaling-and-enterprise-value**: the $1-3M "swamp" (A-player ≈ 100% of profit); EV-as-most-tax-efficient-net-worth-vehicle; owner-out / manufacture-social-proof / face-driven-acquisition=key-man-risk.
+- **business-diagnostics**: the 3-strategic-buckets (more customers / more LTGP per customer / less risk; 70/20/10 = EV levers); first-vs-third-time founders; startup-debt taxonomy (financial/management/technical).
+- **content-strategy/community-building** (HIGH-value Skool): course-first-is-wrong — launch an empty classroom, build live, community>content, ask-don't-guess PMF.
+- **pricing-psychology**: high-ticket-first-then-descend ("Tesla Roadmap"); avoid the bottom.
+- **attraction-offers**: "offers don't decay, bad products do"; avatar-selection (biggest value-vs-cost gap).
+- **communication-and-management**: ask-every-employee-how-they-make-money → metric; care-about-home-life / spouse-gates-the-ceiling / police-rest.
+- **sales-team-scaling**: **pooled team bonus** (shared-pot collective-threshold) — a dated reversal from the cutthroat individual model (`> ⚠️` flagged).
+- **hiring-and-recruiting**: get-in-the-door playbook + first-3-5-hires-set-culture; the internal-entrepreneur employee-income flip.
+- **wealth/investing-and-wealth**: ACQ acquisition criteria (high-cash-flow malleable service businesses); "the best ROI is talent."
+- **discipline-and-decision-making**: the two-razor frame + "do nothing" option; don't-ask-questions-solvable-by-math-or-testing.
+- **fitness/training-and-physique**: get-in-shape = body-fat%/deficit + progressive-overload+protein; Greg Nuckols distributed-volume experiment.
+
+High-water mark advanced to batch 254. No new topic pages created (learning cluster folded into mental-toughness-and-learning). Ingest and synthesis now balanced through batch 254.

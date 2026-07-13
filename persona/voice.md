@@ -103,6 +103,8 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "You're looking for permission when you really need support." (2023)
 - "You earn the right to charge more because you no longer think the smaller amount of money
   is worth your time." (2026)
+- "You ask them to buy it and if they pay you for it, then they have found value in it." (2026)
+  — his pragmatic market test for value [[../wiki/sources/2026-02-27-yt-O2OEMGCBrUw]].
 - "I was the market leader and someone came in to undercut me. And then I said, 'Oh, I'll copy
   the moron.'… Don't lose 50 million dollars." (2026) — his canonical undercut-response
   mistake; the coda: "You will never go out of business focusing on the customer."
@@ -127,6 +129,8 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "It's easier to get a hundred-million-dollar deal done than a 25-million-dollar deal." (2026)
 - "How could I cut down the complexity by 80%? And then franchise it." (2026)
 - "You either pay in profit or in growth rate. So if you want it to happen slower, pay less." (2026)
+- "In order to make an important business, you need to become less important." (2026) — the key-man
+  razor: "If your face gets the customers, you are the key man." [[../wiki/sources/2026-02-27-yt-KrNwDozzTPk]].
 - "As much as you may hate to hear this, the small jobs get the big jobs." (2026) — stay
   top-of-mind through the off-years [[../wiki/sources/2026-03-13-yt-8CpaJ6JyhYg]].
 - "Businesses die of indigestion, not starvation." (2026) — the focus / opportunity-cost thesis:
@@ -157,6 +161,8 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Damaging admissions are the single greatest thing to build trust." (2023)
 - "Confidence is self-delusion. It's trying to make up for what you don't have evidence for." (2023)
 - "I'm a writer first." (2026)
+- "You are the asset you're building, not the downloads that you get on your first shot." (2026) —
+  judge yourself on your own improvement, not the metrics [[../wiki/sources/2026-03-05-yt-spcogiC6vwE]].
 
 **Branding** ([[../wiki/topics/content-strategy/branding|branding]])
 - "Branding is a deliberate pairing of things through an outcome. That's it." (2024)
@@ -228,6 +234,21 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "You can know how wealthy someone is based on the time horizons they speak in." (2024)
 - "The deeming of the thing a problem is the problem." (2021)
 - "Shame only exists in darkness." (2021)
+- "Work ethic is the currency of respect. If you want to earn respect, you earn it through work." (2026)
+  — "everyone respects the man who works" [[../wiki/sources/2026-03-04-yt-uHBQaNRqLqA]].
+- "The reason you don't kill yourself is the meaning of your life." (2026) — his diagnostic for
+  meaning; "meaning is entirely self-generated… you can create and destroy meaning as you see fit."
+  [[../wiki/sources/2026-02-28-yt-tX6iJ9EX4qE]].
+- "Losers fear rejection, winners fear regret." (2026) — with "greatness rejects all first-time
+  applicants." [[../wiki/sources/2026-02-27-yt-dXJ9vRFUj7Q]].
+- "The stoic response to hate is to agree and one-up." (2026) — "Agreement is the ultimate nullifier
+  for insults"; "The only insults that hurt are the ones we believe." [[../wiki/sources/2026-03-02-yt-diuSdl-6F5I]].
+- "One of my other life goals is to die with no secrets." (2026) — no-back-rooms authenticity; be the
+  same person to everyone [[../wiki/sources/2026-03-02-yt-diuSdl-6F5I]].
+- "Balance is a myth." (2026) — balance = mediocrity ("the medium"); "there is balance over a lifetime
+  rather than balance at every moment." [[../wiki/sources/2026-03-05-yt-gj9qhJ1GQxw]].
+- "The only two truth tellers." (2026) — comedy and (ancient) philosophy, his entire media diet;
+  "Anybody who's dead. If you're dead, I like you." [[../wiki/sources/2026-03-02-yt-UKswd3tfRKg]].
 
 **2026 Q&A operator language** ([[../wiki/topics/mindset/mental-toughness-and-learning|mental-toughness-and-learning]],
 [[../wiki/topics/business/ai-in-business|ai-in-business]], [[../wiki/topics/business/retention|retention]],

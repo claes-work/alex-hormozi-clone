@@ -690,6 +690,50 @@ cheaply [[../../sources/2026-03-15-yt-Oznnu_uAvtk]].
 
 ---
 
+## ACQ acquisition criteria: the businesses he likes to buy (2026)
+
+The "Business-only investing after liquidity" section above establishes *that* Acquisition.com
+buys and grows businesses; a March 2026 clip fills in *which* businesses. As of March 2026 Alex's
+deal thesis (**self-reported**) is to target **high-cash-flow, malleable service businesses** —
+service businesses because he can actually change the offer and operations (media, marketing,
+pricing, delivery are levers he knows how to pull), and high-cash-flow so the business funds its
+own improvement [[../../sources/2026-03-05-yt-kJQtg5Jzr44]].
+
+> "We like service businesses because they're malleable — you can change the offer, you can change the operations." [[../../sources/2026-03-05-yt-kJQtg5Jzr44]]
+
+He sorts targets into **four business-type buckets** and picks by how much room there is to
+improve the offer and operations, since that malleability is where his edge compounds. As a
+worked case he describes building out a **photography-chain** business fully — taking a
+fragmented, high-cash-flow service and systematizing offer, operations, and acquisition across
+locations — as the kind of malleable service asset the thesis is built for
+[[../../sources/2026-03-05-yt-kJQtg5Jzr44]]. This is the same "concentration in the *known* /
+invest where your edge is real" logic as the disqualifier rules above, applied to sourcing.
+
+## The best ROI is talent (2026)
+
+The proximity-to-wealth and "who game" material above says *get around* better people; a March
+2026 clip sharpens it into a capital-allocation claim: **the best ROI is talent.** As of March
+2026 Alex frames a hire not as a cost but as **buying a profit-producing, cash-flowing asset** —
+the same lens he applies to acquiring a business — and argues the **return on talent is higher
+than ever in the AI age**, because a great operator paired with modern tools produces far more
+than before [[../../sources/2026-03-03-yt-hJMzMn-1Qn8]].
+
+> "The best ROI is talent." [[../../sources/2026-03-03-yt-hJMzMn-1Qn8]]
+
+The corollaries: **assemble talent rather than build it** — buy the capability by hiring people
+who already have it instead of growing it slowly in-house; **the owner is the limiter** — the
+business can only grow as fast as the person at the top, so upgrading who's around you raises the
+ceiling; and **"excellence attracts excellence"** — high-caliber people want to work with other
+high-caliber people, so the first great hires make the next ones easier
+[[../../sources/2026-03-03-yt-hJMzMn-1Qn8]]. See [[../business/hiring-and-recruiting]] for the
+hiring-mechanics side of this.
+
+> "You are the limiter. The business can only grow as fast as you do." [[../../sources/2026-03-03-yt-hJMzMn-1Qn8]]
+
+> "Excellence attracts excellence." [[../../sources/2026-03-03-yt-hJMzMn-1Qn8]]
+
+---
+
 ## Cross-links
 
 - [[../wealth]] — domain hub

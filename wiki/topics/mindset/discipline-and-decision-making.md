@@ -1000,6 +1000,36 @@ claim.)*
 > "My HRV average was about 32... and since May 1st, I'm up like 15 points on my HRV and I
 > have changed nothing... The only thing that has changed was the decision."
 
+## Late Feb–early March 2026: the two-razor decision frame and questions you shouldn't ask
+
+**The two-razor frame for hard decisions — and "do nothing" as an underrated option.** In a
+March 2026 clip, Hormozi reduces hard decisions to two sequential questions: first **"what
+do I want to happen?"**, then **"what increases the odds of that?"** — everything else is a
+distraction. He warns against the **gut-reaction/countermeasure trap**: the first response to
+a problem is usually an emotional counter-move against whatever just happened, which optimizes
+for reacting rather than for the outcome you actually want. He also flags that **"do nothing"
+is an underrated option** — often the physically most efficient move, even though it is the
+emotionally hardest, because doing nothing while under pressure feels like weakness. His image
+for it is the **"heavyweight champion of the world"**: absorbing without swinging back can be
+the strongest, most disciplined play [[../../sources/2026-03-03-yt-mL4NZTjGUGc]]. *(Distinct
+from the four-step irreversible-decision environment above [[../../sources/2021-12-10-yt-7YMjZgr7sHM]]:
+that one engineers the physiological state before deciding; this one is the two-question logic
+applied inside the decision itself, plus inaction as a live option.)*
+
+> "What do I want to happen? And then, what increases the odds of that?"
+
+**Two kinds of questions you should never ask other people — math and testing.** In a late
+February 2026 clip, Hormozi says two categories of questions are a waste of other people's
+input because they have objective answers you can get yourself. (1) **Anything solvable by
+math**: don't ask whether a channel or offer is worth it — run the numbers yourself (his
+example: compute the LTV:CAC). (2) **Anything solvable by testing**: don't debate which
+headline, price, or creative is better — **run a cheap test and let the market decide** rather
+than crowdsourcing opinions. Asking humans to adjudicate what math or a test would settle
+cleanly imports noise and bias into a question that has a real answer
+[[../../sources/2026-02-28-yt-OIXUHuFG2nY]]. *(Sharpens the believability-weighted-advice filter
+above [[../../sources/2021-08-17-yt-LC7x7P_hhEQ]]: seek others' judgment only on genuinely
+open questions, not on ones math or a market test can resolve.)*
+
 ## Sources
 
 - [[../../sources/2026-05-17-yt-CV48Gkckbn4]] — "12 by 30" work-ethic framework;
@@ -1082,3 +1112,8 @@ claim.)*
 - [[../../sources/2026-03-08-yt-7v8vRBbpyBU]] — the overhead theory of difficulty (non-core overhead,
   not the core work, makes a season hard); adversity stack + narrative reframe that raised HRV ~15
   points with nothing else changed.
+- [[../../sources/2026-03-03-yt-mL4NZTjGUGc]] — two-razor decision frame ("what do I want to happen?"
+  → "what increases the odds of that?"); gut-reaction/countermeasure trap; "do nothing" as an
+  underrated ("heavyweight champion") option.
+- [[../../sources/2026-02-28-yt-OIXUHuFG2nY]] — don't ask others questions solvable by math (do the
+  LTV:CAC yourself) or by testing (run a cheap test, let the market decide).

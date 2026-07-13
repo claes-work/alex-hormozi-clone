@@ -3,7 +3,7 @@ type: topic
 domains: [business]
 tags: [hiring, recruiting, talent, compensation, retention, delegation, a-players]
 updated: 2026-07-13
-sources: 15
+sources: 17
 ---
 
 # Hiring & Recruiting
@@ -301,6 +301,38 @@ higher-value work and keeps people feeling they're "always learning" — one nai
 lifted average tenure from an industry-standard ~6 months to ~4 years this way
 ([[2026-03-15-yt-ky2xQWLXKNk]]). The principle: "Just give them more ways to win."
 
+## Get in the door — the stand-out candidate playbook
+
+The flip side of the recruiting funnel is what a candidate can do to break through it. Alex's
+canonical example (March 2026, [[2026-03-04-yt-djDqESv_yIY]]) is the 18-year-old who landed a
+job at Acquisition.com by **reaching every decision-maker directly with a personalized pitch**
+— he emailed everyone in the company individually, and applied on his birthday to stand out —
+rather than dropping one application into the queue.
+
+The doctrine underneath it: **remove the hirer's blocker fast, then out-work the room once
+you're in.** Get past the gatekeeping by going straight to the people who decide, make it
+trivially easy to say yes, and once inside let output do the talking. He pairs this with a
+warning to founders about who they let in early: **the first 3–5 hires set the culture**, so
+those seats matter far more than headcount alone ([[2026-03-04-yt-djDqESv_yIY]]).
+
+## How to make more money as an employee — become an internal entrepreneur
+
+For someone who wants to maximize earnings *without* starting their own company, Alex's advice
+(March 2026, [[2026-03-03-yt-Z_hOgtlFmss]]) is to engineer the job like a business owner would.
+
+First, **pick a big-enough vessel** — join a company large enough (he cites the $10–20M+ range)
+that there is real value to capture; a great operator inside a tiny business is capped by the
+size of the pond. Then become an **"internal entrepreneur"**: tie your own pay to the revenue
+or output you generate rather than to a fixed salary, and **think of yourself as a vendor, not
+an employee** — a vendor prices on the value delivered, not on hours.
+
+The concrete mechanism is to make **performance-based, percentage-of-value asks**: propose comp
+structured as a share of the results you produce, so your upside scales with what you create.
+The governing trade-off mirrors his equity/debt thinking on the owner side — **the more risk
+you're willing to own, the more upside you can claim** ([[2026-03-03-yt-Z_hOgtlFmss]]). This is
+the employee-side complement to the "you're under-pricing your talent" section above: the same
+value-based logic the owner should apply to compensation, the employee should apply to the ask.
+
 ## Own your core-economic-engine roles
 
 His build-vs-outsource rule (March 2026, [[2026-03-17-yt-HUsN0HMfOoA]]): headhunt peripheral
@@ -337,6 +369,8 @@ better."
 - [[2026-03-15-yt-3GIXMxy3428]] — Helping a Pest Control Company Create Career Advancement (micro-promotion ladder; 9–18 rungs; "6-inch putt" first promotion)
 - [[2026-03-15-yt-ky2xQWLXKNk]] — How to Set Up Career Paths (two-column title/perks + money; ~6 tiers → ~12 progressions; in-house mini-certifications)
 - [[2026-03-17-yt-HUsN0HMfOoA]] — Helping a Dentist Get to $50M/Year (own core-economic-engine roles; headhunt one-time roles; one-hire-every-two-weeks; LinkedIn one-level-lower sourcing)
+- [[2026-03-04-yt-djDqESv_yIY]] — the 18-year-old who got hired at Acquisition.com (stand-out candidate playbook: reach every decision-maker with a personalized pitch, applied on his birthday, remove the blocker + out-work the room; first 3–5 hires set the culture)
+- [[2026-03-03-yt-Z_hOgtlFmss]] — How to make more money as an employee (pick a $10–20M+ vessel; become an "internal entrepreneur"; think vendor not employee; performance-based %-of-value asks; more owned risk = more upside)
 
 ## Related
 

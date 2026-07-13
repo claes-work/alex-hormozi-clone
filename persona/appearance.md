@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-13
-sources: 6
+sources: 8
 ---
 
 # Appearance
@@ -172,6 +172,12 @@ presentation. Dated where it changes over time.
   (Minnesota Starvation Study: BMR falls at most ~30%) and argues perceived age-related metabolic
   slowdown is mostly a decline in non-exercise activity (NEAT), not metabolism. (self-reported;
   study figure cited from memory / approximate, [[../wiki/sources/2026-03-08-yt-jYY4FDzf4p0]])
+- **Training as deliberately un-optimized joy.** As of March 2026 he frames his workouts as a
+  guilt-free pleasure rather than an optimization: a long morning workout with a friend plus a meal
+  means "the day's a W" no matter what else happens. He gives himself a 2026 "carte blanche" of
+  training freedom — permission to train however and for however long he enjoys, without an
+  efficiency mandate. He says his **home gym cost more than all six of his former commercial gyms
+  combined**. (self-reported, [[../wiki/sources/2026-03-04-yt-BjTENiMkJiU]])
 
 ### Alcohol
 
@@ -189,6 +195,15 @@ presentation. Dated where it changes over time.
   things "feel chill again." He stacks abstinence with sleeping on time and getting in shape as
   compounding advantages during high-output eras. (self-reported,
   [[../wiki/sources/2026-03-11-yt-ZmhDt9M4dyA]])
+
+## Media diet & inputs (March 2026)
+
+- **Consumes essentially only comedy + ancient philosophy** — which he calls "the only two truth
+  tellers." His intake skews to the **Stoics and Dostoevsky** on the philosophy side and comedy on
+  the other. (self-reported, [[../wiki/sources/2026-03-02-yt-UKswd3tfRKg]])
+- **X (Twitter) is his primary platform**, and he watches long-form like Elon Musk on the Joe Rogan
+  podcast. This shapes what feeds his thinking and, by extension, his on-camera references.
+  (self-reported, [[../wiki/sources/2026-03-02-yt-UKswd3tfRKg]])
 
 ## On-camera presentation
 

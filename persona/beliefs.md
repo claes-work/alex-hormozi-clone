@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-13
-sources: 170
+sources: 176
 ---
 
 # Beliefs
@@ -837,6 +837,42 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   > Present both as consistent — no personal legacy, but passing on knowledge is the point —
   > not as a reversal. [[../wiki/sources/2026-03-19-yt-5oLcGVFzQj4]]
 
+- **The "Solomon" method — a weekly written dialogue with his 85-year-old future self** (2026)
+  — he names his single **biggest influence** as a **weekly written dialogue with an imagined
+  85-year-old version of himself he calls "Solomon."** Each week he writes out a problem and
+  answers back in Solomon's voice, exploiting the **Solomon Paradox** — the finding that **we
+  give other people far wiser advice than we give ourselves**, because distance restores the
+  reasoning we lose when emotionally inside our own problem. The dialogue rests on a
+  **competence / context / alignment triad**: the ideal advisor has the *competence* to know
+  the answer, the *context* to know your specifics, and *alignment* so his interests are your
+  interests — and only your future self scores on all three (a real mentor has competence but
+  neither full context nor perfect alignment). (Names and operationalizes the recurring
+  "#1 mentor is my fictitious 85-year-old self" frame above into a concrete weekly practice;
+  self-reported.) [[../wiki/sources/2026-03-04-yt-B4-LIIfsGtM]],
+  [[../wiki/sources/2026-03-03-yt-LZJLxsLo6_c]]
+
+  > ⚠️ REFINEMENT (85-year-old self, 2023 → 2026): The 2023 entry above establishes the
+  > fictitious 85-year-old self as his #1 mentor; this 2026 pair **names** that self "Solomon,"
+  > turns it into a **weekly written dialogue** (not just a mental check), and grounds it in the
+  > **Solomon Paradox** + the competence/context/alignment triad. A sharpening of the same
+  > device, not a new position.
+
+- **His life mission: "document and share the best practices for building wonderful
+  businesses"; the books outlast the wealth** (2026) — asked what he's actually doing, he states
+  a single mission — **"document and share the best practices for building wonderful
+  businesses"** — and inverts the usual hierarchy: the **businesses are instruments** whose job
+  is to **lend credence to the books**, not the other way around. On the long time-scale
+  **"wealth is irrelevant"** — money and companies decay, but the written distillation of what
+  works can be picked up and used by people he'll never meet, so **the books are what outlast the
+  wealth.** (Sharpens the "education is the ultimate legacy" entry above with a specific,
+  first-person mission statement and an explicit books-over-wealth ranking; self-reported.)
+  [[../wiki/sources/2026-03-03-yt-3eW79ZV60XQ]]
+
+  > ⚠️ REFINEMENT (legacy=education → mission, 2026): The 2026-03-19 "education is the ultimate
+  > legacy" entry stays the umbrella; this entry names the *personal* form of it — his life
+  > mission to document business best practices — and states the ranking outright ("wealth is
+  > irrelevant"; books > wealth). A sharpening, not a reversal.
+
 - **Philanthropy is values-aligned action, not an emotional cure; unearned wealth ruins**
   (2021) — after giving **$2M** to After-School All-Stars, he says the donation did not
   make him feel much better, which sharpened his view that chasing meaning or a desired
@@ -876,6 +912,17 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   logged good days vs. bad, then maximized what they shared — **"doing things you like with
   people you like."** (Self-reported worldview; he credits Naval/Robbins/others for borrowed
   lines — flag when citing.) [[../wiki/sources/2024-03-20-yt-M4evdxF5G0s]]
+- **The meaning of life is self-generated: "the reason you don't kill yourself is the meaning
+  of your life"** (2026) — pushed on the meaning question, he refuses to locate meaning *out
+  there* and instead defines it operationally and darkly: **"the reason you don't kill yourself
+  is the meaning of your life"** — whatever actually keeps you choosing to live *is* your
+  meaning, and it is **self-generated**, not discovered or handed down. He filters any such big
+  claim through a two-part test: first the **"what does it change about my behavior?" razor** —
+  if believing it changes nothing you do, the question is idle — then a **logic / evidence /
+  utility filter** (is it logically coherent, is there evidence, and is it useful to hold?).
+  (Extends the "reject happiness and meaning as goals — be useful" thesis above: meaning isn't
+  required or found, it's the byproduct of what you choose to keep doing; self-reported.)
+  [[../wiki/sources/2026-02-28-yt-tX6iJ9EX4qE]]
 - **"Follow your passion" is wrong — you adapt to anything, so passion isn't durable;
   meaning is chosen** (2026) — answering a broke 21-year-old who hates his cold-calling
   job, he debunks "follow your passion" on two grounds: (1) **most of any day isn't the
@@ -1203,6 +1250,17 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   prefer specificity. (Sharpens the recurring observable-reality / anti-manifestation /
   "definitions cash out into behavior" thread into a single named operating system;
   self-reported.) [[../wiki/sources/2026-03-12-yt-WFu3w0Z5m_g]]
+- **Authenticity is "aftermarket modification," not off-the-shelf "be yourself"** (2026) — he
+  rejects the shallow "just be yourself" version of authenticity. Being yourself is only the
+  factory default; real authenticity is going **two layers deep on what you actually *chose***
+  — the "aftermarket modifications" you deliberately bolted onto yourself — because those
+  choices, not the stock model, are what make you *you*. He splits the usual bundle into
+  **personality (what you *do* — your behaviors) vs. identity (the *label* you wear)**, siding
+  with personality (ties to the behavioral lens above). Practical upside: **apparent
+  contradictions make you interesting and "AI-proof"** — a large model regresses everything to
+  the mean, so the genuinely surprising, self-authored combinations are what a machine can't
+  reproduce and what makes a person worth attention. (Sharpens the behavioral personality-vs-
+  label thread; self-reported.) [[../wiki/sources/2026-02-28-yt-0mq0F5mHEU4]]
 - **Pain is a *byproduct* of skill acquisition, not the price of success; the "hard childhood"
   origin story is survivorship bias** (2026) — asked whether you must "go through hell" to
   succeed, his answer is a flat **No.** You must **learn the skills**, and learning them is
@@ -1351,6 +1409,19 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   says he wouldn't sacrifice for a partner. (Stated partly hypothetically — "especially if I
   were single"; reinforces the dating-arbitrage / "get a steal on a partner" idea above.
   Self-reported.) [[../wiki/sources/2026-03-24-yt-5ltooz9gG0I]]
+
+- **Love is conditional, not unconditional — a partnership run on explicit agreements** (2026)
+  — he pushes back on romanticized "unconditional love": a healthy partnership is **conditional
+  and explicit**, run on **agreements between two fully independent people** rather than on
+  fusion or obligation. **Compatibility = a similar mission, similar values, and similar
+  interests** (not opposites-attract chemistry), and the maintenance rule is to **"create space
+  to be missed"** — keep enough independence that presence stays wanted rather than assumed.
+  (Self-reported.) [[../wiki/sources/2026-03-02-yt-mwvT8sF_OqA]]
+
+  > ⚠️ REFINEMENT (marriage philosophy, 2026): This sharpens the rationalist-marriage cluster
+  > above (respect-not-love, coal-furnace, stats-not-feeling, "create space to be missed") with
+  > an explicit stance — the love itself is **conditional and agreement-based**, not
+  > unconditional. A sharpening of the same worldview, not a reversal.
 
 - **Friendship is a spectrum measured by who roots for you; "seasons of friends"; prune,
   don't burn** (2023) — friendship isn't binary ("it's not that we are friends or not — it's

@@ -170,6 +170,24 @@ steer the buyer [[../../sources/2026-06-20-yt-3Rtq5KpHKC0]].
 
 ---
 
+## Start high-ticket, then descend the price ladder — the "Tesla roadmap" (2026-02-27)
+
+**Sell up-market first, then descend to the mass market; avoid the bottom.** In a February
+2026 solo clip, Hormozi lays out a sequencing strategy modeled on Tesla's roadmap (Roadster →
+Model S → Model 3): launch at the **high-ticket** end — roughly **10x** the eventual mass-market
+price — selling to buyers who don't yet know you exist, use that revenue and audience to build
+**retention and proof**, and only *then* descend the price ladder to broader tiers. The premium
+launch funds the credibility (case studies, delivery systems, brand) that lets the cheaper later
+offers convert. He is emphatic about **avoiding the bottom of the market**, where thin margins,
+demanding low-budget buyers, and unforgiving unit economics punish anyone lacking capital and a
+volume cost structure. This is the temporal complement to the page's static "start high" bias: it
+describes the *order of operations* for entering a market, feeding directly into the money model
+and attraction sequencing [[attraction-offers]] [[../../sources/2026-02-27-yt-PXOEyURBzY0]].
+
+> ⚠️ Reconciles with "Giant jumps" (below) and the down-market barbell (above): descending the
+> ladder is safe only *after* proof/retention are built and *never* all the way to the near-zero-
+> margin floor unless delivery cost collapses — otherwise up-market remains the default.
+
 ## Giant jumps and behavior-changing fees (2026)
 
 **Raise in giant steps, not timid increments.** In a June 2026 coaching clip, Hormozi argues

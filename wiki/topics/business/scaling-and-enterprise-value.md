@@ -4,7 +4,7 @@ domain: business
 domains: [business, wealth]
 created: 2026-07-08
 updated: 2026-07-13
-sources: 48
+sources: 51
 tags: [scaling, enterprise-value]
 ---
 
@@ -1067,6 +1067,49 @@ unverified.
   much; this was building the *wrong product category*.)
   > "If I had not done that and simply made a CRM for gyms rather than a lead nurture
   > software for gyms, that company would have sold for half a billion dollars."
+
+---
+
+## 14. February 2026 refinements: the "swamp" plateau, EV as tax-efficient net worth, and self-elimination
+
+Three late-February 2026 MoreMozi clips. Where the clip is a monologue only Alex's
+framing is persona data; any caller/self-reported figures are unverified.
+
+- **The $1-3M "swamp" plateau — an A-player costs ~100% of current profit (2026-02-28).**
+  Founders stall between roughly $1M and $3M not for lack of ideas but because escaping
+  requires hiring an A-player whose comp is ~**100% of the business's current profit** —
+  so the owner must effectively zero out this year's take-home to buy the person who gets
+  them out of the bottleneck. Alex frames the plateau as a change in the *kind* of
+  difficulty, not its absence: "**the currency of hardness changes**" — early on it's
+  hustle and ignorance (§1), later it's the psychological cost of paying away your profit
+  and delegating control. His characterization of who fails here: **entrepreneurs fizzle,
+  they don't quit** — the plateau ends businesses by slow attrition of will, not a dramatic
+  blow-up. [[../../sources/2026-02-28-yt-Z-8mbADGJ0g]] (This is the founder-as-bottleneck
+  *math* underneath §1's "getting the owner out of delivery" $1M→$3M step: the reason the
+  step is hard is that the A-player who replaces the founder initially costs everything the
+  business currently makes.)
+
+- **Enterprise value is the most tax-efficient net-worth vehicle (2026-02-28).** Whether to
+  optimize for **cash flow or enterprise value is a *level* question**, not a preference:
+  once a founder's living needs are met, additional **cash flow is taxed inefficiently**
+  (ordinary income, taken and taxed every year), whereas value compounding *inside* an owned
+  asset is not taxed until realized — so above the needs-met line, **enterprise value is the
+  most tax-efficient way to build net worth**. Alex treats **net worth as the objective
+  scoreboard** for the game, cutting through vanity metrics like revenue. [[../../sources/2026-02-28-yt---QEu6vZzOc]]
+  (Sharpens the §5 "you get returns on what you own, you get paid for what you do" split
+  with an explicit *tax* rationale for preferring ownership once cash needs are covered.)
+
+- **Owner-out / self-eliminate — "to make an important business, become less important"
+  (2026-02-27).** Alex restates the "scale zero" throughline (§3) as a razor: **to build an
+  important business you must make yourself less important to it**. He flags **face-driven
+  acquisition as key-man risk** — a business whose leads depend on the founder's face in the
+  ads/content is fragile and discounted at exit (compare §5b(2)). The fix is to **install
+  systems that manufacture social proof** — testimonials, case studies, results, and other
+  operators as the public face — rather than lean on founder-face ads. He frames this as
+  **delegation, not abdication**: the founder still designs the machine and standards, but
+  removes themselves as the single point of failure. [[../../sources/2026-02-27-yt-KrNwDozzTPk]]
+  (The February articulation of §5b(1-3)'s "get the owner out" — marketing/delivery without
+  the founder's face — stated as a personal-brand-vs-key-man-risk principle.)
 
 ---
 

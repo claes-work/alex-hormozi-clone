@@ -271,6 +271,22 @@ culture?** And **"keep dating candidates"**: maintain candidate volume continuou
 is advertising — never let the pipeline of talent go cold), so you're never hiring from
 desperation (March 2026, @MoreMozi).
 
+### Pooled team sales bonus (2026-03-05) — reversal from the cutthroat model
+
+Alex now favors a **pooled/shared bonus pot** that pays **every rep only if the whole team
+clears a collective threshold**, rather than paying each rep purely on their individual
+number. The mechanism engineers **peer-coaching** (a rep's payout depends on teammates
+hitting the bar, so the strong help the weak) and points competitive energy at an **external
+enemy "outside the ranks"** instead of at each other (paraphrase)
+[[../../sources/2026-03-05-yt-bsacmMTmlQY]].
+
+> ⚠️ CONTRADICTION / POSITION CHANGE: This **reverses** Alex's older cutthroat,
+> **individual-commission** framing — where reps compete head-to-head on a personal
+> leaderboard (see the "Culture triad" above, 2022-09-27). The 2026-03-05 position keeps
+> the leaderboard/competition energy but redirects it outward and makes the bonus
+> **collective**, so teammates are incentivized to lift each other rather than beat each
+> other [[../../sources/2026-03-05-yt-bsacmMTmlQY]].
+
 ---
 
 ## April 2026 operating refinements: utilization and speed

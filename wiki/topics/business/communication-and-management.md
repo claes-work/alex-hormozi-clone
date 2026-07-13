@@ -309,6 +309,43 @@ task; the leader razor diagnoses *why a whole function* is failing.
 
 ---
 
+## Every role must trace to money; invert bad outcomes into ownable metrics (Feb 2026)
+
+A February 2026 clip gives Hormozi's method for making each person's contribution
+legible: **ask every employee, "How do you and your role make the company money?"** If
+they can't answer, they can't self-direct. From there, take the bad outcomes the role
+should prevent, **invert each one into a cost**, and **reverse that cost into a metric the
+person can own** — so a fuzzy responsibility becomes a number that person is accountable
+for (paraphrase, [[../../sources/2026-02-28-yt-zgAsBqZiyW4]]). This is the money-facing
+complement to debundling (above): debundling turns a vague *label* into observable
+behaviors, while this turns a vague *role* into an owned metric. It also feeds the
+Management Diamond — a person who knows the metric they own knows *what* the company wants
+(reason #1) and has a natural reinforcement loop (reason #4).
+
+---
+
+## Manage the whole person: home life, mission, and policing rest (March 2026)
+
+A March 2026 clip extends management beyond the workday into the employee's life, on the
+argument that performance at work is gated by conditions outside it (paraphrase,
+[[../../sources/2026-03-04-yt-2_SQTj98_Vs]]):
+
+- **Care about employees' home life.** A **supportive spouse gates an employee's ceiling** —
+  someone whose partner is unsupportive of the work can only rise so far, so a leader who
+  ignores home life is blind to a real constraint on performance.
+- **Give people a "make history" mission.** Frame the work as a chance to do something that
+  matters and be part of something historic, not just a job — the mission is itself a
+  reinforcer (connects to the deprivation/reinforcement logic in the Management Diamond).
+- **Police rest for hard workers before they crack.** The most driven people won't stop on
+  their own; the manager's job is to actively enforce recovery on top performers *before*
+  they burn out, not after.
+
+This is the human-conditions layer beneath the Management Diamond: reason #5 (something is
+blocking them) can live at home, and a top performer's motivation (#4) is worthless if
+you let them break.
+
+---
+
 ## See also
 
 - [[sales-communication]] — the *external* delivery side (prospects, framing, objections);
@@ -316,6 +353,8 @@ task; the leader razor diagnoses *why a whole function* is failing.
 - [[../mindset/mental-toughness-and-learning]] — observable-behavior and
   consequences-drive-behavior lens on how skills are actually acquired.
 - Source: [[../../sources/2024-09-11-yt-s6tkRztZwYc]]
+- Source: [[../../sources/2026-02-28-yt-zgAsBqZiyW4]] — ask every role how it makes money; invert bad outcomes into owned metrics.
+- Source: [[../../sources/2026-03-04-yt-2_SQTj98_Vs]] — manage the whole person: home life, "make history" mission, police rest.
 - Source: [[../../sources/2026-03-07-yt-V6X1WndkDzg]] — operationalizing a top performer; experts have more ways to win.
 - Source: [[../../sources/2026-03-08-yt-_VOApav3nh0]] — system = memory-independent prompt; presence before systems (absentee management).
 - Source: [[../../sources/2026-03-11-yt-zJVo-CVm6ew]] — the leader is always the problem (diagnostic razor).
