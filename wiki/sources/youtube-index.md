@@ -592,6 +592,11 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
 | 2026-03-12 | [[2026-03-12-yt-3T7k-zVKOvg]] | **How I Scaled My First Gyms** — origin (first gym ~$35k/mo, mo9 outsourced, $7M→$26M) | |
 | 2026-03-15 | [[2026-03-15-yt-8cw62svEXt8]] | Restaurant → $100M — product is the only durable lever; product-premium = marketing | |
+| 2026-03-17 | [[2026-03-17-yt-KT3ptxa9eeE]] | Be Too Good to Fail — make the core product too good to fail; one-big-domino + identity ("past mediocrity = the journey") | |
+| 2026-03-17 | [[2026-03-17-yt-9bXOC9nzemg]] | You've already achieved goals you said would make you happy — hedonic adaptation; joy is in the pursuit; 85-yo-self gratitude | |
+| 2026-03-17 | [[2026-03-17-yt-GNuNSi_6spM]] | Why Is It So Hard to Compound Skills? — stacked skills → outsized outcomes; luck surface area; unlimited shots over perfect aim | |
+| 2026-03-17 | [[2026-03-17-yt-nQW_mnwSxek]] | How to Start Your First Business — 4 steps; warm-outreach first customer; "10 by 10" free hours; learn→earn; 20%-every-5 pricing | |
+| 2026-03-17 | [[2026-03-17-yt-RIu70eMkCrA]] | What is self-love? — holding yourself to a higher standard than anyone else; rejects self-acceptance; 85-yo ideal-self discrepancy | |
 | 2026-03-18 | [[2026-03-18-yt-06ssvoeqIo0]] | Real-estate consulting → $100M — attribution taxonomy, duplicate top reps | |
 | 2026-03-18 | [[2026-03-18-yt-VJGLdW4Oz_I]] | Every Business Is Hard — CFO-advisory ($2.9M→$20M): fix the supply constraint before marketing; data-first then AI; hard stays hard | |
 | 2026-03-18 | [[2026-03-18-yt-8AlZQHgPlVE]] | Helping an SEO Agency Get to $14M — sales-velocity × LTV ceiling; 80% service-margin rule; nearshore vs become AI-native | |
@@ -607,6 +612,11 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-18 | [[2026-03-18-yt-Rch-2uEI860]] | How to Build Mental Toughness — four-variable model (tolerance/magnitude/resiliency/adaptation); "power follows blame"; record-breaking work | ★ |
 | 2026-03-18 | [[2026-03-18-yt-rgHCnPWP9tc]] | The Single Greatest Habit (grew Acquisition.com) — the memo system: written, defensible decision artifacts; "one-hit-KO" memos; Bezos lineage | ★ |
 | 2026-03-18 | [[2026-03-18-yt-goanECo4G4s]] | "How Do I Get My Team to Use AI?" (Hormozi Hotline) — raise output standards not mandates; SOP prompts; hire embracers; corporate instance only | |
+| 2026-03-18 | [[2026-03-18-yt-du5W0wf6FCU]] | "How Can I Use AI to Get More Customers?" (Hotline) — use ACQ AI to sharpen messaging/offers + mid-funnel trust (VSLs), not blast volume | |
+| 2026-03-18 | [[2026-03-18-yt-1J13jZvF6so]] | Helping a VA Agency Scale (Hotline) — niche by service-type not industry (Goldilocks value-vs-training); market to affiliates as customers | |
+| 2026-03-18 | [[2026-03-18-yt-XPjUSHYjUOc]] | Are You Trying or Are You Moving Mountains? (Hotline) — constraint-chain diagnosis; disproportionate effort on the one binding constraint | |
+| 2026-03-18 | [[2026-03-18-yt-qyikm4WPQxA]] | Is AI Making People Dumber? (Hotline) — outsource the doing not the thinking; AI for repeated work, hand-do the hard/novel | |
+| 2026-03-18 | [[2026-03-18-yt-0YXjEzFfft8]] | Get RICH in the A.I. Revolution (2026) — amplification not automation; "the idea is the alpha"; three wheels; prompt chains | ★ |
 | 2026-03-19 | [[2026-03-19-yt-hTMqnR-LFZ4]] | Online men's-health service → $100M — taboo-niche affiliate brand (light) | |
 | 2026-03-19 | [[2026-03-19-yt-y7ToMgdDcIs]] | Construction + elevator → $100M — burn-it-down (likely dup of i-4IiGGS1wE) (light) | |
 | 2026-03-19 | [[2026-03-19-yt-3I_J34wD758]] | How to use AI to grow your business - amplification not automation; the idea is the alpha; three wheels; prompt chains (ACQ AI) | |
@@ -1732,7 +1742,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,702 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,712 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
