@@ -631,6 +631,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-12 | [[2026-03-12-yt-wBqS4j5i6p8]] | "Is It Wrong to Work Hard?" — work by choice; "destroy the word should"; measure only your own fulfillment (light) | |
 | 2026-03-12 | [[2026-03-12-yt-c1MA4HMubNo]] | "Are You Wasting Your Life by Working So Much?" — work is doing what he wants; criticism is projection; novelty hedonically adapts away (light) | |
 | 2026-03-12 | [[2026-03-12-yt-XCt90FhgnVE]] | The Lonely Chapter... — the loneliness of the ambitious path; wanting to be exceptional but afraid of being an exception (light) | |
+| 2026-03-12 | [[2026-03-12-yt-8Vn5ZyBoOWA]] | Pain Fades... — pain compresses in memory after you succeed; resourcefulness > resources; **NEW bio**: his father's Iran→Belgium→US immigrant-doctor saga (arrived with ~$1,000) | ★ |
+| 2026-03-12 | [[2026-03-12-yt-vec7SBXeLEg]] | How I Deal With Anxiety — "action alleviates anxiety" (anxiety = an unfilled gap); close it via learning, mentorship, data review, skill-stacking | ★ |
+| 2026-03-12 | [[2026-03-12-yt--ScQMd1PX3U]] | There Are 2 Ways to Learn Something — declarative (knowing that) vs procedural (knowing how); "document, demonstrate, duplicate" | |
+| 2026-03-12 | [[2026-03-12-yt-NXmprOofERg]] | There Are Only 2 Types of Games in Life — finite vs infinite; an infinite game can't be won, only continued, so "don't give up = win by default" | |
+| 2026-03-12 | [[2026-03-12-yt-2mlQd6KTY1E]] | How I Learn New Skills — the expert-snowball / referral-saturation method (map the "neural network of expertise," bucket → re-code → distill) | |
+| 2026-03-12 | [[2026-03-12-yt-M2Pue2vuaCA]] | The First Lesson to Get Out of Poverty — "it's my fault"; power follows where you point the blame finger; use pain/anger as fuel | |
+| 2026-03-12 | [[2026-03-12-yt-LGGeMYCIswo]] | Work = Volume × Leverage — focus as endurance; "you get better at working the more you do it"; whip yourself back in through the output dip | |
+| 2026-03-12 | [[2026-03-12-yt-xvxXfLAsGoE]] | Go Into the Fire — do the hard thing others avoid; your reference group = the people closest to your goals; expertise = the number of ways you can measure progress | |
+| 2026-03-12 | [[2026-03-12-yt-FqzMTJOxQ3s]] | How I Think About Growing on Social Media — compounding as a consequence, not a goal; a "too good to fail" quality bar | |
+| 2026-03-12 | [[2026-03-12-yt-TEqhCJLcTlc]] | But Are You Obsessed? — obsession is just trying when no one else tries; hate = jealousy; work smart AND hard (light) | |
 | 2026-03-13 | [[2026-03-13-yt-9LSd0QE1w7Y]] | Advice for Hard Days — win the day; "maintaining is winning"; recalibrate your scale so small moments don't eat the season | |
 | 2026-03-13 | [[2026-03-13-yt-6JHmFC1Uups]] | Learn to Love the Pain — the stone-cutter parable (outlook, not the work, differs); "follow your passion" fails because you adapt | ★ |
 | 2026-03-13 | [[2026-03-13-yt-8CpaJ6JyhYg]] | Helping an Interior Design Company Scale (bespoke UHNW) — drop the tier ladder, price each job; a de-minimis retainer; "small jobs get the big jobs" | ★ |
@@ -1892,7 +1902,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,862 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,872 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
