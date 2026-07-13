@@ -483,6 +483,15 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-02-17 | [[2026-02-17-yt-_KlZoPxbStk]] | "36 years to realize…" — passion=suffering; NEW bio: age 36, exit at 31, grandfather story, "men provide" | ★ |
 | 2026-02-23 | [[2026-02-23-yt-ZuJryiwxjDw]] | Why you're not making money — sell to the rich, tiered pricing 5–10x, close-rate as pricing signal | ★ |
 | 2026-02-28 | [[2026-02-28-yt-MH-IMJxbUY4]] | Building $12M for a stranger (travel-hedging) — CAC + conversion fixes (dup format) | |
+| 2026-02-28 | [[2026-02-28-yt-LUjY8GW5Tj4]] | Why Offers Eventually Stop Working — contrarian: offers don't decay from fatigue, bad products do; the fix is genuine want + faithful delivery | ★ |
+| 2026-02-28 | [[2026-02-28-yt-zgAsBqZiyW4]] | You Need to Ask Every Employee This Question — "How do you and your role make the company money?"; invert bad outcomes into a metric | ★ |
+| 2026-02-28 | [[2026-02-28-yt-l2pJnism6jM]] | How to Learn Anything Faster Than 99% — buy your way up (courses/masterminds) + proximity to people above you; taste = pattern recognition | |
+| 2026-02-28 | [[2026-02-28-yt-Vbl3zaBTmW4]] | The Fastest Way to Learn a New Skill — 100 reps → mine the top 10% → iterate a checklist (Chris Rock's set-refinement method) | |
+| 2026-02-28 | [[2026-02-28-yt-N4DoJF2ue8M]] | What Do You Have to Lose... — the asymmetric upside of trying; shame vs guilt; the ~$46M Gym Launch sale as a case for ignoring judgment | |
+| 2026-03-01 | [[2026-03-01-yt-kbokSCb7z-s]] | It Won't Get Harder... — the start is the hardest part; early skills become arrows in the quiver | |
+| 2026-03-02 | [[2026-03-02-yt-mwvT8sF_OqA]] | What is Love? — love as conditional, not unconditional: a partnership of explicit agreements; mission/values/interests fit; Leila as CEO | ★ |
+| 2026-03-02 | [[2026-03-02-yt-UKswd3tfRKg]] | The Type of Content I Watch — media diet: comedy + ancient philosophy ("the only two truth tellers"); X-primary; Elon on Rogan | |
+| 2026-03-02 | [[2026-03-02-yt-diuSdl-6F5I]] | The Stoic Response to Hate — "agree and one-up"; insults only hurt if you believe them; the mortality frame; die with no secrets | |
 | 2026-03-03 | [[2026-03-03-yt-cixnFmFGz_M]] | Building a $46M Company — the Gym Launch origin as a diagnostics case: six gyms → license the acquisition machine; own the sale, not fulfillment | ★ |
 | 2026-03-03 | [[2026-03-03-yt-hJMzMn-1Qn8]] | The Best ROI for Your Business — the best ROI is talent: hire like buying a cash-flowing asset; the owner is the limiter | ★ |
 | 2026-03-03 | [[2026-03-03-yt-3eW79ZV60XQ]] | The Mission for My Life — document and share the best practices for building wonderful businesses; the books outlast the wealth | ★ |
@@ -493,6 +502,7 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-03-03 | [[2026-03-03-yt-aWIb9h74E8g]] | How to Learn Anything — decompose a skill into subskills; model the best via "game tape"; drill reps until automatic | |
 | 2026-03-03 | [[2026-03-03-yt-1-AHtX-aPBw]] | The 6 Stages of Scaling (Dave Ramsey interview) — Ramsey's stages/drivers framework (context); Alex plays interviewer + roadmap promo | |
 | 2026-03-03 | [[2026-03-03-yt-zodi78cvoj0]] | Stop Making Excuses — the reason-close; "the doing just needs doing"; learning = new behavior, intelligence = rate of learning | |
+| 2026-03-03 | [[2026-03-03-yt-LZJLxsLo6_c]] | How to Give Yourself Good Advice — the "Solomon" 85-year-old future-self self-coaching method and the Solomon Paradox | |
 | 2026-03-04 | [[2026-03-04-yt-jfW6gL6hKhk]] | First $100K in 2026 — 4-4-4, maker/manager, 10k iterations (dedup fat-pitch) | ★ |
 | 2026-03-04 | [[2026-03-04-yt-B4-LIIfsGtM]] | The Biggest Influence on My Life — the "Solomon" method: a weekly dialogue with his imagined 85-year-old future self (+ a ~$15M vendor loss) | ★ |
 | 2026-03-04 | [[2026-03-04-yt-u76EL4JY4ro]] | What People Get Wrong About Content — concept/"words" beat production polish; an iPhone-shot video hit ~2M views | ★ |
@@ -2032,7 +2042,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_2,002 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_2,012 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
