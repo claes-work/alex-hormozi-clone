@@ -598,6 +598,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-16 | [[2026-03-16-yt-YAkwOWDgFfg]] | Helping a Sales Coaching & Lead-Gen Agency Scale — churn is an avatar + activation problem; sell only high-converting avatars; reverse-engineer activation | |
 | 2026-03-16 | [[2026-03-16-yt-snUpRK_0YAk]] | Helping a Wellness Clinic ($6.7M) Get to $25M — fix 15%→35-40% margins before expanding; over-expanded = under-talented (light) | |
 | 2026-03-16 | [[2026-03-16-yt-BdrzJpGMDuc]] | Helping an Online Service Business Fix Their Offer — fix ops → paid ads → cut overlap; Veblen-good pricing (light) | |
+| 2026-03-16 | [[2026-03-16-yt-oiUNB6q8_GI]] | "When Should the Founder Step Out of Day-to-Day Operations?" — delegation break-even test; A+ talent at a 20-30% premium is worth 3-4x B talent | ★ |
+| 2026-03-16 | [[2026-03-16-yt-ToWsyHoH6S8]] | A World-Class EA Is a Superpower — hire for speed (60s) + intelligence + intensity; EA as open-loop tracker; founder decides time allocation | ★ |
+| 2026-03-16 | [[2026-03-16-yt-idmIkZ04gdo]] | Helping a Law Firm Hire More Talent — the hiring bottleneck is a pure volume/resource problem; 3-10x recruiters, go up-market, multiply outbound | |
+| 2026-03-16 | [[2026-03-16-yt-6Tru99awhhM]] | Helping a Home Services Company Build a Sales Team — "supply-gen mirrors demand-gen" (internal academy + parallel recruiting funnel); win on character | |
+| 2026-03-16 | [[2026-03-16-yt-m9TaWVdkJjs]] | Helping an Orthopedic Surgeon ($2.1M) Scale — borrow a credible third party's media as a compliance-safe local VSL; add a sales function | |
+| 2026-03-16 | [[2026-03-16-yt-as9sN7bVXTA]] | Helping a Consulting Firm ($15M) Scale — enterprise acquisition: conferences + affiliates as a second customer base + outbound as the front end | |
+| 2026-03-16 | [[2026-03-16-yt-vHwiSEudeCQ]] | Helping a Brick-and-Mortar Service Business Scale — find the hidden core economic engine (rev/sq-ft, CAC:LTV by category); nail the micro-model, then scale | |
+| 2026-03-16 | [[2026-03-16-yt-DZbEt6BBZYQ]] | Helping a Consulting Business Get More Leads — "more leads" is really underpricing; discount-association continuity (bulk savings ≥ fee) + roll-up endgame | |
+| 2026-03-16 | [[2026-03-16-yt-plV_nyqluOE]] | Helping a Coffee Company ($4M) Scale — "under-talented, not over-expanded"; fix retail margins to 40%+ before adding locations (light) | |
+| 2026-03-16 | [[2026-03-16-yt-pKEvzBiR9LI]] | Be Careful Who You Take Advice From — don't take advice from anyone whose life you don't want; own it's your fault (light) | |
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
 | 2026-03-12 | [[2026-03-12-yt-3T7k-zVKOvg]] | **How I Scaled My First Gyms** — origin (first gym ~$35k/mo, mo9 outsourced, $7M→$26M) | |
 | 2026-03-15 | [[2026-03-15-yt-8cw62svEXt8]] | Restaurant → $100M — product is the only durable lever; product-premium = marketing | |
@@ -1772,7 +1782,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,742 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,752 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
