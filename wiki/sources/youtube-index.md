@@ -609,6 +609,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-16 | [[2026-03-16-yt-plV_nyqluOE]] | Helping a Coffee Company ($4M) Scale — "under-talented, not over-expanded"; fix retail margins to 40%+ before adding locations (light) | |
 | 2026-03-16 | [[2026-03-16-yt-pKEvzBiR9LI]] | Be Careful Who You Take Advice From — don't take advice from anyone whose life you don't want; own it's your fault (light) | |
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
+| 2026-03-09 | [[2026-03-09-yt-sA1Xs3ORb3Q]] | How to Monetize as a Creator in 2026 — five monetization paths on an axis of control (sponsorship → affiliate → invest → white-label → build); control ↔ enterprise value | ★ |
+| 2026-03-09 | [[2026-03-09-yt-81lZi32cE-o]] | Why Creators Burn Out (and How to Fix It) — wrong audience/product; "followers ≠ influence"; the four elements of influence (likeness/credibility/power/status) | ★ |
+| 2026-03-09 | [[2026-03-09-yt-uhKggaiw3AA]] | Don't Invest in the S&P 500 — (personal opinion, not advice) early on, invest in yourself/your skills (highest ROIC) over a ~10% index return | ★ |
+| 2026-03-09 | [[2026-03-09-yt-c1Xy-64oy04]] | Why I Give Away Free Products — "99 cents beats free" (surrender ~2/3 revenue so Amazon's algorithm promotes the book); customer-vs-voyeur psychology | |
+| 2026-03-09 | [[2026-03-09-yt-Pbxe5av1RP8]] | Just Get the First Dollar and You'll Win — the first dollar is the proof-of-concept milestone; "the second dollar comes faster than the first" | |
+| 2026-03-09 | [[2026-03-09-yt-C0jCxYG_bAI]] | You Only Need 3 Things to Win — balls to start, brains to learn, heart to never quit; "many right answers, one wrong answer (doing nothing)" | |
+| 2026-03-09 | [[2026-03-09-yt-XFUwLqqInkk]] | One Solution That Solves 99% of Problems — volume + feedback; "patient with outputs, impatient with inputs"; action as a coping mechanism | |
+| 2026-03-09 | [[2026-03-09-yt-GrSoheP2P7I]] | Why I Love Business — daily micro-rewards over distant outcomes; punishment-aversion; find your thing by iterating away from what you hate | |
+| 2026-03-09 | [[2026-03-09-yt-gjpEwA5zky4]] | You Need to Work 100x Harder — effort scales non-linearly; "count in hundreds"; done = nothing left to improve (light) | |
+| 2026-03-10 | [[2026-03-10-yt-LBePQ2kDrIc]] | Morning-routine-obsessed people make less money — correlation ≠ causation; "mirror the grind, not the mountaintop"; only measurable action counts | |
 | 2026-03-10 | [[2026-03-10-yt-sJmQGb3Yc1U]] | Goals Aren't Finish Lines, They're Mile Markers — the payoff is the climb; you win by outlasting everyone (light) | |
 | 2026-03-11 | [[2026-03-11-yt-ibjqAg-NbBA]] | Who Is Alex Hormozi? — the richest first-person origin story; childhood, defense-consulting exit, Gym Launch collapse to $1k → 2021 triple exit → Acquisition.com | ★ |
 | 2026-03-11 | [[2026-03-11-yt-IWpIR7fVtvA]] | What I Did When I Was Broke — make monthly income (not bank balance) the goal; three ordered foundations; failures as experience points | ★ |
@@ -1922,7 +1932,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,892 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,902 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
