@@ -651,6 +651,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-15 | [[2026-03-15-yt-KXBOgKvqPQ4]] | Helping an Electrical Contractor Scale — raise price to fund team redundancy; an all-profit-back guarantee; diversify partner-whale concentration | |
 | 2026-03-15 | [[2026-03-15-yt-zND0i03oLio]] | Helping a Holistic Health Practice Scale — offload fulfillment; run a warm process on cold leads; the founder-attachment "feature not bug" reframe (light) | |
 | 2026-03-15 | [[2026-03-15-yt-0mBXZfaRiu0]] | "I Run Soccer Tournaments. How Do I Scale?" — the constraint is sales-conversion capacity; the founder builds the recruiting channel for the bottleneck role (light) | |
+| 2026-03-15 | [[2026-03-15-yt-RvTW1c2mfcY]] | Helping a Restaurant Owner Build a Franchise Model — fix unit economics first; owning ~20 units (~$80M) can beat a $100M franchise system (~$22M) on exit | ★ |
+| 2026-03-15 | [[2026-03-15-yt-SZYZHJsMalg]] | "I Build Websites. Is AI Going to Put Me Out of Business?" — no metric is moving; use AI internally to double margin and fund acquisition, don't fear disruption | ★ |
+| 2026-03-15 | [[2026-03-15-yt-DIUP4-VAPT8]] | Helping an E-Commerce Owner Build a Brand — no brand = click arbitrage (margins compress); brand = cheaper clicks × higher conversion × premium × repeat | |
+| 2026-03-15 | [[2026-03-15-yt-eCCCux-QkBc]] | Helping a Dropshipping Company Build a Brand — DR e-com caps ~$10M (the doom loop); "PE buys brands, not products"; believer-affiliates over mercenaries | |
+| 2026-03-15 | [[2026-03-15-yt-gyI1-mUG7GE]] | Helping a B2B Manufacturer Scale — the "three wheels" LTV (machine at cost; margin in consumables + service; 90-95% retention annuity); acquire the existing base first | |
+| 2026-03-15 | [[2026-03-15-yt-BWZPNrCPqL0]] | Helping a Paid Ads Agency Build a Leadership Team — a capped 10-20% leader profit-share pool; the four things equity provides; reserve 2/3 for future talent | |
+| 2026-03-15 | [[2026-03-15-yt-BOlh8bnyNYw]] | Helping a Stem Cell Clinic Scale — a $100M raise is "a sale on you and the story," not the science; need-to-believe; super-voting control | |
+| 2026-03-15 | [[2026-03-15-yt-h4CKMIbcNh0]] | "I Sell Custom Luxury Home Products. How Do I Get More Leads?" — profit as an experimentation budget; keyword-portfolio scaling; awareness ladder + bridge pages | |
+| 2026-03-15 | [[2026-03-15-yt-BiaG-lHU0BQ]] | "I Make YouTube Videos. How Do I Get More Sponsors?" — sponsors are a weak lever; the owner is the bottleneck; buy premium talent (light) | |
+| 2026-03-15 | [[2026-03-15-yt-e4xdEQIQIZw]] | Helping a MedSpa Business Owner Scale — the real constraint is her time, not sales; hire a $200k physician out of ~$1M SDE to buy it back (light) | |
 | 2026-03-17 | [[2026-03-17-yt-KT3ptxa9eeE]] | Be Too Good to Fail — make the core product too good to fail; one-big-domino + identity ("past mediocrity = the journey") | |
 | 2026-03-17 | [[2026-03-17-yt-9bXOC9nzemg]] | You've already achieved goals you said would make you happy — hedonic adaptation; joy is in the pursuit; 85-yo-self gratitude | |
 | 2026-03-17 | [[2026-03-17-yt-GNuNSi_6spM]] | Why Is It So Hard to Compound Skills? — stacked skills → outsized outcomes; luck surface area; unlimited shots over perfect aim | |
@@ -1822,7 +1832,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,792 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,802 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
