@@ -609,6 +609,15 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-16 | [[2026-03-16-yt-plV_nyqluOE]] | Helping a Coffee Company ($4M) Scale — "under-talented, not over-expanded"; fix retail margins to 40%+ before adding locations (light) | |
 | 2026-03-16 | [[2026-03-16-yt-pKEvzBiR9LI]] | Be Careful Who You Take Advice From — don't take advice from anyone whose life you don't want; own it's your fault (light) | |
 | 2026-02-22 | [[2026-02-22-yt-krcUBz7kiUI]] | Cash flow vs net worth — sellable-business 6x multiple; delegation/exit framework | ★ |
+| 2026-03-11 | [[2026-03-11-yt-ibjqAg-NbBA]] | Who Is Alex Hormozi? — the richest first-person origin story; childhood, defense-consulting exit, Gym Launch collapse to $1k → 2021 triple exit → Acquisition.com | ★ |
+| 2026-03-11 | [[2026-03-11-yt-IWpIR7fVtvA]] | What I Did When I Was Broke — make monthly income (not bank balance) the goal; three ordered foundations; failures as experience points | ★ |
+| 2026-03-11 | [[2026-03-11-yt-7AK4ezrHE6s]] | A Lifetime of Personal Development in 18 Minutes — the five self-work maxims (thoughts / feelings / good-bad / ignorance / surroundings) | ★ |
+| 2026-03-11 | [[2026-03-11-yt-ZmhDt9M4dyA]] | The Hidden Cost of Drinking — alcohol "costs you two days"; **bio**: a 2-year abstinence scaling Gym Launch; a current no-drinking pact with Leila | |
+| 2026-03-11 | [[2026-03-11-yt-zJVo-CVm6ew]] | The Leader Is Always the Problem — look at the leader first; mediocre leaders spoil great teams; a ~50/50 team-diagnosis after removal | |
+| 2026-03-11 | [[2026-03-11-yt-sobMAG-5yFs]] | How to Increase Show-Up Rates — availability is the #1 lever; finer slot increments + odd start times; same-day proximity (drag appointments forward) | |
+| 2026-03-11 | [[2026-03-11-yt-qe5Cs62Dqts]] | In-Person vs. Remote Work (with Dave Ramsey) — Alex backs in-person early-career (~18-35) for osmotic learning + more promotions (Dave Ramsey = context) | |
+| 2026-03-11 | [[2026-03-11-yt-bjEOnMtf5_E]] | How to Build a Good Product — the free-sample feedback loop (give it free → market test → iterate on honest feedback → convert/review/refer) | |
+| 2026-03-11 | [[2026-03-11-yt-1ZLaJ-ism04]] | Your Self-Limiting Beliefs Are Sabotaging Your Goals — "identity is a lie, doing is being"; run every choice through the goals-razor (light) | |
 | 2026-03-12 | [[2026-03-12-yt-3T7k-zVKOvg]] | **How I Scaled My First Gyms** — origin (first gym ~$35k/mo, mo9 outsourced, $7M→$26M) | |
 | 2026-03-12 | [[2026-03-12-yt-Iwo_93WfmPs]] | How to Build a Brand — goodwill = a history of positive reinforcement; solve the audience's biggest problems; attribution scales with specificity; podcasts-as-email-lists | ★ |
 | 2026-03-12 | [[2026-03-12-yt-WFu3w0Z5m_g]] | How I See the World More Clearly — the behavioral-lens OS: everything is behavior; deconstruct amorphous words into observables; "clear, not clever" | ★ |
@@ -641,6 +650,7 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-12 | [[2026-03-12-yt-xvxXfLAsGoE]] | Go Into the Fire — do the hard thing others avoid; your reference group = the people closest to your goals; expertise = the number of ways you can measure progress | |
 | 2026-03-12 | [[2026-03-12-yt-FqzMTJOxQ3s]] | How I Think About Growing on Social Media — compounding as a consequence, not a goal; a "too good to fail" quality bar | |
 | 2026-03-12 | [[2026-03-12-yt-TEqhCJLcTlc]] | But Are You Obsessed? — obsession is just trying when no one else tries; hate = jealousy; work smart AND hard (light) | |
+| 2026-03-12 | [[2026-03-12-yt-oLhBV46CElI]] | Why Do Businesses Die? — of "indigestion, not starvation" (overextension); saying no scales with success; focus / opportunity cost | ★ |
 | 2026-03-13 | [[2026-03-13-yt-9LSd0QE1w7Y]] | Advice for Hard Days — win the day; "maintaining is winning"; recalibrate your scale so small moments don't eat the season | |
 | 2026-03-13 | [[2026-03-13-yt-6JHmFC1Uups]] | Learn to Love the Pain — the stone-cutter parable (outlook, not the work, differs); "follow your passion" fails because you adapt | ★ |
 | 2026-03-13 | [[2026-03-13-yt-8CpaJ6JyhYg]] | Helping an Interior Design Company Scale (bespoke UHNW) — drop the tier ladder, price each job; a de-minimis retainer; "small jobs get the big jobs" | ★ |
@@ -1902,7 +1912,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,872 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,882 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
