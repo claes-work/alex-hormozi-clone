@@ -597,6 +597,16 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-03-18 | [[2026-03-18-yt-8AlZQHgPlVE]] | Helping an SEO Agency Get to $14M — sales-velocity × LTV ceiling; 80% service-margin rule; nearshore vs become AI-native | |
 | 2026-03-18 | [[2026-03-18-yt-il8Ti50fBLQ]] | Helping a Nail Salon Build a Franchise Model — franchisable only at 30%+ margin & founder-independent demand; franchising = capital play | |
 | 2026-03-18 | [[2026-03-18-yt-4bX7JKeiPOk]] | Helping a Marketing Agency Get to $20M — build for cold traffic; "big head, long tail" offer bifurcation | |
+| 2026-03-18 | [[2026-03-18-yt---AnswCE1Cg]] | Helping a Digital Product Business Scale — profit funds talent + brand; hire for taste; double down, don't diversify | |
+| 2026-03-18 | [[2026-03-18-yt-hIhwpjZUd1k]] | Helping a Tattoo Artist Get to $35M — exit-vs-income fork; info path vs corporate brand; focus = kill side businesses | |
+| 2026-03-18 | [[2026-03-18-yt-17T_5ahJOAY]] | Helping a Home Service Business Scale — hold top line flat, triple the bottom line; per-line margins → pricing → cash; target 30% net | |
+| 2026-03-18 | [[2026-03-18-yt-YFvoFmQnkc4]] | Helping an Online Coach Advertise Better — organic-vs-ads pyramid (run both); don't outsource the brand; cold traffic breaks the funnel | |
+| 2026-03-18 | [[2026-03-18-yt-UIRwnubrQvQ]] | Helping a Chiropractor ($2.4M) Scale — pricing → cash flow → ads with attribution → content; dominate the local market | |
+| 2026-03-18 | [[2026-03-18-yt-UWn6_X3vFFc]] | Helping a Coaching Business ($1M) Scale — "two triples": high-ticket back end then fund ads; digital won't sell | |
+| 2026-03-18 | [[2026-03-18-yt-w78Av6yOzog]] | You Don't Need a Morning Routine — "season of no" / optimize-vs-maximize imbalance; imperfect action over perfection | |
+| 2026-03-18 | [[2026-03-18-yt-Rch-2uEI860]] | How to Build Mental Toughness — four-variable model (tolerance/magnitude/resiliency/adaptation); "power follows blame"; record-breaking work | ★ |
+| 2026-03-18 | [[2026-03-18-yt-rgHCnPWP9tc]] | The Single Greatest Habit (grew Acquisition.com) — the memo system: written, defensible decision artifacts; "one-hit-KO" memos; Bezos lineage | ★ |
+| 2026-03-18 | [[2026-03-18-yt-goanECo4G4s]] | "How Do I Get My Team to Use AI?" (Hormozi Hotline) — raise output standards not mandates; SOP prompts; hire embracers; corporate instance only | |
 | 2026-03-19 | [[2026-03-19-yt-hTMqnR-LFZ4]] | Online men's-health service → $100M — taboo-niche affiliate brand (light) | |
 | 2026-03-19 | [[2026-03-19-yt-y7ToMgdDcIs]] | Construction + elevator → $100M — burn-it-down (likely dup of i-4IiGGS1wE) (light) | |
 | 2026-03-19 | [[2026-03-19-yt-3I_J34wD758]] | How to use AI to grow your business - amplification not automation; the idea is the alpha; three wheels; prompt chains (ACQ AI) | |
@@ -1722,7 +1732,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_1,692 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_1,702 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
