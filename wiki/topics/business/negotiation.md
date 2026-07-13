@@ -50,6 +50,19 @@ most, and then counter a presented menu by building an "option D" from the best 
 ### 4. Reciprocity / horse-trading
 The engine of persuasion — but it only works inside cultures where reciprocity is the norm; in mixed-culture situations, people from non-reciprocity cultures may exploit it. His key insight: people register *that* a concession was traded far more than they weigh its *relative value*. So **break the deal into many small pieces** to trade more times — cash vs. financed, 30- vs. 90-day close, furniture, and so on — using the value-equation levers of speed, price, risk, and ease. This lets you make concessions without moving on price. He keeps a **deal sheet** of terms he can change: *"For me, I have this big deal sheet that has 80 different things that I can change about a deal."*
 
+**March 2026 corroboration — the variable-multiplication method.** A MoreMozi cut restates
+this as an explicit method: deliberately break a deal into as many discrete variables as
+possible so you can *trade more times*, then run each variable through the value-equation
+lenses (speed, price, risk, ease) asking how it could be made faster/slower, riskier/safer,
+easier/harder — generating extra tradeable variables so you can concede small ones (ease,
+then risk, then speed) while the other side drops price and you keep your own number. The
+tell that it stays "in reciprocity" is the counterparty registering the *fact* of an
+exchange over its relative value: *"It poses, it looks like, it smells like reciprocity, but
+the value of those two concessions are wildly different."* His own phrasing for the tactic:
+*"I try and break each of my things into as many different pieces as possible so I can trade
+more times"* and *"it's like I'm still keeping the reciprocity, but I just have more arrows
+in my quiver"* [[../../sources/2026-03-07-yt-pCUML2bND70]].
+
 ### 5. Framing
 Most important for employees and vendors. Frame yourself or your offer as an **investment with a return**, not a cost or overhead; if you're on the receiving side, reframe the other party's ask as a cost. People often accept whatever frame is presented first. Example: *"$5,000 investment → $15,000 in maintenance cost savings"* lands better than "this costs five grand." Bring **data** to support the frame — e.g. resale-value data: *"If someone knows they spent $100,000 on a pool and adds $100,000 to their house, I'm like, then the pool's free. Except you get to enjoy the pool the whole time."*
 

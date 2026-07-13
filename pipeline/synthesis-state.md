@@ -6,9 +6,9 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 234** — synthesis pass 25, system-prompt **v33** (2026-07-13). (Prior:
-pass 24 through batch 224 + the inline-L3 $100M library synthesis at v32.) Everything ingested after
-this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
+Synthesized through: **batch 244** — synthesis pass 26, system-prompt **v34** (2026-07-13). (Prior:
+pass 25 through batch 234 at v33; pass 24 through batch 224 + the inline-L3 $100M library synthesis at
+v32.) Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
@@ -16,6 +16,35 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 235-244** — synthesis pass 26 (2026-07-13) →
+      system-prompt **v34**. Promoted genuinely-new early-to-mid March 2026 (2026-03-07 to 2026-03-13)
+      MoreMozi refinements across **12 topic pages + 4 persona files**. This window was biography-rich:
+      **persona/biography.md** gained the fullest origin story (parents met in med school in Europe;
+      defense-contracting consulting; suicidal-ideation pre-gym; first gym on a $5k/mo lease with a
+      failed Groupon plan, rescued by learning FB ads ~2 weeks pre-open; sleeping in a warehouse-gym
+      under a parking garage; drove-to-Ohio-before-calling-his-father), the **ALAN "biggest mistake"**
+      (lead-nurture software vs a gym CRM capped the ~$46M exit vs a believed ~$500M), **ACQ Ventures**
+      (a self-funded early-stage VC arm), a March-2026 current-focus snapshot, the father's
+      immigrant-doctor saga, a forthcoming leadership book, and a rejection of the childhood-trauma
+      narrative — **with a `> ⚠️ CONTRADICTION` callout on the first-gym age (23 vs 20, both
+      self-reported, reconciled to ~23-24)**. persona/appearance (fitness routine + no-drinking pact),
+      beliefs +6 (behavioral-lens OS, pain-is-a-byproduct-not-the-price / everything-is-a-trade,
+      why-I-love-business, invest-in-yourself-first), voice +6. Topics: business-math (the
+      human-in-the-loop LTV:CAC ratio ladder 3/6/9/12:1); scaling-and-enterprise-value (Elon's
+      algorithm, the ACQ three-legs-of-the-stool investing lens, indigestion-not-starvation,
+      product-category-caps-the-exit); communication-and-management (system=prompt-not-memory,
+      operationalize-nebulous-traits, the teaching triad, leader-is-always-the-problem); branding
+      (brand = a lever on the Value-Equation *risk* term, goodwill-reinforcement engine, brand-as-
+      constant-reinforcement, four-elements-of-influence reconciled); content-strategy/audience-
+      monetization (five-creator-paths-on-an-axis-of-control, followers≠influence); marketing/paid-ads
+      (ads-have-changed / self-proliferating creative machine); mindset/discipline-and-decision-making
+      (overhead-theory-of-difficulty, action-alleviates-anxiety, act-with-urgency, overthinking-as-
+      proxy-for-action, unmade-decision-is-an-unhad-conversation); mindset/mental-toughness-and-learning
+      (expertise=ways-to-measure-progress / prediction-is-control, finite-vs-infinite games, good-to-
+      great effort curve, declarative-vs-procedural + expert-snowball); wealth/investing-and-wealth
+      (invest-in-yourself-not-S&P, four-quadrant time/money, buy-it-twice spending rule, 10-year
+      million-dollar-contract); negotiation (variable-multiplication method); money-model (two-cart-
+      close launch); competitive-moats (copycats-cant-copy-your-proof). Dropped long-tail repeats.
 - [x] **@MoreMozi Q&A cuts — batches 225-234** — synthesis pass 25 (2026-07-13) →
       system-prompt **v33**. Promoted genuinely-new mid-March 2026 (2026-03-13 to 2026-03-17)
       MoreMozi refinements across **9 topic pages + a NEW `business/hiring-and-recruiting.md` + 2

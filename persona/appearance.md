@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-09
-sources: 4
+updated: 2026-07-13
+sources: 6
 ---
 
 # Appearance
@@ -138,6 +138,57 @@ presentation. Dated where it changes over time.
   carnivore**, but has settled on this one system for **~10 years**. He frames it as "what
   works for me," not a scientifically optimal protocol. (self-reported,
   [[../wiki/sources/2023-05-14-yt-fxyhIXZ6Yog]])
+
+## Current routine & practices (March 2026)
+
+> ⚠️ Not medical, training, or nutrition advice. The regimen, protein/diet numbers, the
+> "starvation-mode" and NEAT claims, and the alcohol reasoning below are Alex's own
+> self-reported practice and opinion (early March 2026), not clinically or registry-verified.
+
+- **Core program is progressive-overload resistance training.** As of March 2026, his current
+  routine is straightforward progressive-overload weight training (weights, machines, plate-loaded
+  machines), which he calls the number-one thing for longevity and maintaining bone mass. He reports
+  "crossing 19 years of training" (rounds to ~20 years / two decades) and says fitness is something
+  he has known longer than business. His first decade was experimentation — kettlebell-only,
+  barefoot, swim-sprint only, HIIT, strongman, **five years as a competitive powerlifter** — and he
+  says his current physique/aesthetic now reads as "bodybuilder-esque." (self-reported,
+  [[../wiki/sources/2026-03-08-yt-jYY4FDzf4p0]])
+- **Trains in "seasons," candid about gaps.** He says for ~16 years he never missed more than a
+  week of working out, but now goes "through seasons" and, at the time of recording, admitted he
+  "hasn't worked out in like 3 or 4 weeks." (self-reported,
+  [[../wiki/sources/2026-03-08-yt-jYY4FDzf4p0]])
+- **Diet mechanic, restated and dated.** Still the same simple system as of March 2026: **~2 lb of
+  meat/day to hit ~200 g protein**, then **dessert in excess of remaining calories** as the tuning
+  lever — cut dessert to lose weight, keep it to maintain, add pasta/rice to the meat meals to gain.
+  (self-reported, [[../wiki/sources/2026-03-08-yt-jYY4FDzf4p0]])
+- **Thermodynamics-first philosophy: "the rest is preference."** He grounds everything in physics /
+  the law of thermodynamics: deficit → fat loss / catabolic, surplus → anabolic, protein + hormones
+  build and maintain muscle, progressive overload builds muscle — "period, that's it, the rest of it
+  is preference." His maxim: *"If you can't do it for a decade, don't do it for a day."* (self-reported,
+  [[../wiki/sources/2026-03-08-yt-jYY4FDzf4p0]])
+- **Biohacking skeptic.** He dismisses cold plunge, infrared sauna, blue-light blocking, MRI /
+  preventative scans, and blood-work supplement "spit tests" as preference or marketing "magic," and
+  warns such clinics are businesses with "games behind these things." He debunks "starvation mode"
+  (Minnesota Starvation Study: BMR falls at most ~30%) and argues perceived age-related metabolic
+  slowdown is mostly a decline in non-exercise activity (NEAT), not metabolism. (self-reported;
+  study figure cited from memory / approximate, [[../wiki/sources/2026-03-08-yt-jYY4FDzf4p0]])
+
+### Alcohol
+
+- **He doesn't drink; frames it as opportunity cost.** As of March 2026 he argues drinking "costs you
+  two days — the day you drink and the day you recover," plus the trailing weeks spent living down
+  "the stupid thing you did while you were drunk." His decision test is "argue me the opposite" — that
+  drinking more would make him more likely to hit his goals — which he calls unwinnable. (self-reported,
+  [[../wiki/sources/2026-03-11-yt-ZmhDt9M4dyA]])
+- **Two-year abstinence in his 20s.** The longest he ever went fully without drinking was **2 years**
+  while scaling Gym Launch (the ~20-month run "from zero to 4.5 million a month, 4.4 to be technical");
+  he didn't drink that entire stretch, then resumed once the business settled. (self-reported,
+  [[../wiki/sources/2026-03-11-yt-ZmhDt9M4dyA]])
+- **Current joint no-drinking pact with Leila (his 30s).** With acquisition.com "scaling like crazy,"
+  he and Leila have again jointly decided to stop drinking "for the foreseeable," continuing until
+  things "feel chill again." He stacks abstinence with sleeping on time and getting in shape as
+  compounding advantages during high-output eras. (self-reported,
+  [[../wiki/sources/2026-03-11-yt-ZmhDt9M4dyA]])
 
 ## On-camera presentation
 

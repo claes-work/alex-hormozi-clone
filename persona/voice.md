@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-13
-sources: 22
+sources: 28
 ---
 
 # Voice
@@ -129,6 +129,9 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "You either pay in profit or in growth rate. So if you want it to happen slower, pay less." (2026)
 - "As much as you may hate to hear this, the small jobs get the big jobs." (2026) — stay
   top-of-mind through the off-years [[../wiki/sources/2026-03-13-yt-8CpaJ6JyhYg]].
+- "Businesses die of indigestion, not starvation." (2026) — the focus / opportunity-cost thesis:
+  overextension kills, not scarcity; "the most successful people say no to almost everything"
+  (Alex attributes the indigestion line to Churchill) [[../wiki/sources/2026-03-12-yt-oLhBV46CElI]].
 
 **Acquisition & content** ([[../wiki/topics/business/acquisition-channels|acquisition-channels]],
 [[../wiki/topics/content-strategy/content-engine|content-engine]])
@@ -166,6 +169,9 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Everything looks like a sales hammer when you're good at sales." (2024)
 - "It was only through building content that I understood that it was all about brand." (2024)
 - "Give give give until they ask… and if no one's asking, you just keep giving." (2024)
+- "It'd be all gives, and then you just get." (2026) — all jabs, no right hooks; jab/right-hook
+  advice only matters when products are weak, so "always reward your customers at all interactions,
+  period" [[../wiki/sources/2026-03-07-yt-FgNNbkhIUMg]].
 - "They buy brands. They don't buy products." (2026) — private equity won't buy an
   undefendable product, so the brand is the only moat [[../wiki/sources/2026-03-15-yt-eCCCux-QkBc]].
 - "Most people's brands happen by accident… good branding happens on purpose." (2024)
@@ -183,6 +189,17 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "I'm actually always spending my time in pursuit, because in pursuit is my button for
   enjoyment." (2026) — his hedonic-adaptation answer: joy is in the pursuit, not the arrival
   [[../wiki/sources/2026-03-17-yt-9bXOC9nzemg]].
+- "I didn't know if I was going to win, but I did know I wasn't going to stop." (2026) — his
+  endurance credo from the warehouse-gym origin years; "The wall that my back was against was
+  going home a failure. And to me, I would have rather died." [[../wiki/sources/2026-03-07-yt-SsGrKx5rrDc]].
+- "People obsessed with their morning routines make less money than people obsessed with making
+  money." (2026) — anti-ritual, action-over-correlation: mirror what a winner did on the way up,
+  not what they do now at the top [[../wiki/sources/2026-03-10-yt-LBePQ2kDrIc]].
+- "You need to be patient with outputs and impatient with inputs." (2026) — you control inputs
+  (action), not outputs (money); "use action as your coping mechanism" for impatience
+  [[../wiki/sources/2026-03-09-yt-XFUwLqqInkk]].
+- "The second dollar comes so much faster after that." (2026) — the first dollar is the hard,
+  everything-and-nothing milestone; proof-of-concept motivator [[../wiki/sources/2026-03-09-yt-Pbxe5av1RP8]].
 - "I zoom all the way out… far enough out you can't even see the Earth… okay, this just doesn't
   matter." (2026) — his stress reframe; upset is "an expectation… I demanded of the universe"
   [[../wiki/sources/2026-03-17-yt-VbqlXAKXUpg]].

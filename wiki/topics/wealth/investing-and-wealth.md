@@ -376,6 +376,33 @@ ability to perform it. He self-reports (dated) owning no Lamborghinis, Rolexes, 
 being able to buy several a month. **His Switzerland millionaire-rate aside is unverified in the
 source — treat as illustration, not data** [[../../sources/2026-04-03-yt-I6o9cB_UGrA]].
 
+### Price purchases in post-tax hours of labor (2026)
+
+The savings-side rule above has an affordability test Alex traces to his teens. As of March
+2026 his rule of thumb is **"If you can't buy it twice, don't buy it once"** — ideally you
+should be able to buy a thing three-to-five times over first. Note this is the *same phrase*
+he uses as a 2023 investing/deal disqualifier below ("only risk what you can lose several
+times over"); here it applies to everyday personal spending rather than deal sizing — one
+principle across two domains, not a contradiction [[../../sources/2026-03-11-yt-oYdvuoUfP8g]].
+
+> "If you can't buy it twice, don't buy it once. Or even buy it three times or four times or five times over, don't buy it once." [[../../sources/2026-03-11-yt-oYdvuoUfP8g]]
+
+The habit underneath it: **price every purchase in post-tax hours of your own labor.** The
+origin story (self-reported) is his teenage Smoothie King job as a "blender tender" at
+$6.75/hour (~$6 after tax) — a ~$13 lunch next door cost two hours of a six-hour shift, a
+third of the day's earnings, a trade he'd never make consciously yet made daily until he did
+the math. Feeling the *pain* of the labor a purchase costs **before** buying it changed his
+behavior; the adult version asks whether you'd work two full days at $100/hour for a
+$500–$1,000 purchase [[../../sources/2026-03-11-yt-oYdvuoUfP8g]].
+
+> "I gave up two hours of my six-hour shift every shift to go buy lunch... I don't think I'd ever make that trade. And yet I was making it every day." [[../../sources/2026-03-11-yt-oYdvuoUfP8g]]
+
+He's explicit that saving isn't itself wealth creation — it funds **optionality**: having
+money lets you look further out and take the bigger risks that actually make money
+[[../../sources/2026-03-11-yt-oYdvuoUfP8g]].
+
+> "Saving money won't make you money, but saving money allows you to have money. And having money allows you to look further out." [[../../sources/2026-03-11-yt-oYdvuoUfP8g]]
+
 ## Time-buyback arbitrage (buy time, not stuff)
 
 On the wealth-*building* side, Alex frames outsourcing low-value time as a concrete arbitrage.
@@ -458,6 +485,62 @@ is a different axis from the pass-22 "invest first, then spend" savings rule —
   > "Patience is figuring out activities to do in the meantime." [[../../sources/2026-03-27-yt-32IeekHdsCE]]
 
   > "Learn how to make money before you start trying to learn how to make money make money." [[../../sources/2026-03-27-yt-32IeekHdsCE]]
+
+- **"Buy the future at a discount."** As of March 2026 he reframes self-investment as the
+  closest thing to buying time — spending on skills pulls years of earning power forward, so
+  "you can buy the future at a discount." His toy math (self-reported/illustrative): $10k in
+  the S&P 500 becomes ~$10,900 in a year, whereas the same $10k spent on skills that lift
+  earning capacity (e.g. $50k → $100k/yr) returns far more even though the cash is "spent."
+  He stresses this is a personal opinion for early-stage operators, **not** a blanket claim
+  that index funds are bad — same "invest in the SME 500, invest in you" riff as the clips
+  above, with the distinctive time-arbitrage phrasing [[../../sources/2026-03-09-yt-uhKggaiw3AA]].
+
+  > "When you buy skills, it's the closest approximation to buying time... You can't buy time. False. You can buy the future at a discount." [[../../sources/2026-03-09-yt-uhKggaiw3AA]]
+
+- **The 10-year "million-dollar contract."** As of March 2026 he runs a decade-scale thought
+  experiment with every acquisition.com hire: sign a contract paying nothing for 10 years but
+  adding a zero (or two) to your net worth in year 10 — almost everyone says yes, and his
+  reply is "Now act like it." The lesson: people **overestimate the year and underestimate
+  the decade**, so once you believe the decade-scale outcome is available you stop chasing
+  fast money and instead ask "what would make it *unreasonable* that I don't 10x in 10
+  years?" — turning winning into something inevitable rather than chance. Its wealth corollary
+  is **potential vs. actualized earning**: cashing potential in too early (taking the $100k
+  job over the $35k internship that 10x's your future earning) is "ripping up your
+  million-dollar contract" for fast money today [[../../sources/2026-03-08-yt-GAo-swIY-7g]].
+
+  > "Most people overestimate what they can accomplish in a year and they underestimate what they can accomplish in a decade." [[../../sources/2026-03-08-yt-GAo-swIY-7g]]
+
+  > "What would I have to do that would make it unreasonable that I don't 10x in 10 years? … And then winning became inevitable rather than a game of chance." [[../../sources/2026-03-08-yt-GAo-swIY-7g]]
+
+---
+
+## The two-currency spending taxonomy (2026)
+
+Underneath the "build earning capacity first" sequence sits a compact frame for how people
+deploy their two currencies — time and money. As of March 2026 Alex splits it four ways: the
+rich spend money to buy time; the poor spend money on stuff; the ambitious spend time to buy
+skills; and the lazy spend on distractions — with skill acquisition treated as the real
+engine of wealth. It's a sharper, four-quadrant version of the 2026-04-03 "buy time like a
+rich person, buy stuff like a poor person" line above [[../../sources/2026-03-09-yt-piXf3CdXOAI]].
+
+> "The rich buy time, the poor buy stuff, ambitious people buy skills, and lazy people buy distractions." [[../../sources/2026-03-09-yt-piXf3CdXOAI]]
+
+Two operational riders:
+
+- **Focus is a countable quantity — the number of things you say no to.** The most focused
+  person says yes to one thing and no to everything else; that discipline is what lets time
+  compound into skills and skills into cash [[../../sources/2026-03-09-yt-piXf3CdXOAI]].
+
+  > "Focus is measured by the amount of things you say no to." [[../../sources/2026-03-09-yt-piXf3CdXOAI]]
+
+- **Seven-income-streams debunk.** He rejects the "seven income streams make you wealthy"
+  maxim from his own peak-of-nine-businesses era (self-reported) — running many businesses
+  you still work inside just "spreads you seven ways." Genuine multiple income streams come
+  from **owning cash-flowing assets**, and buying those assets first requires accumulating
+  cash through time and focus — looping back to the earning-capacity-first sequence above
+  [[../../sources/2026-03-09-yt-piXf3CdXOAI]].
+
+  > "Seven income streams just spread you seven ways." [[../../sources/2026-03-09-yt-piXf3CdXOAI]]
 
 ---
 
@@ -638,5 +721,11 @@ cheaply [[../../sources/2026-03-15-yt-Oznnu_uAvtk]].
 - $100k truck → ~$20k/yr payment → ~$400k/yr gross-profit example; Chick-fil-A vs.
   Boston Market longevity anecdote — self-reported/illustrative (2026) [[../../sources/2026-03-15-yt-Oznnu_uAvtk]]
 - Opportunity-prioritization ladder attributed to a forthcoming book chapter (2026) [[../../sources/2026-03-15-yt-g_1SoPY4lKg]]
+- "Buy the future at a discount"; $10k S&P → ~$10,900 vs. skills toy math — self-reported/illustrative (2026) [[../../sources/2026-03-09-yt-uhKggaiw3AA]]
+- 10-year million-dollar contract; $100k job vs. $35k internship; "lost it twice" — self-reported (2026) [[../../sources/2026-03-08-yt-GAo-swIY-7g]]
+- Four-quadrant time/money taxonomy; nine-businesses / seven-income-streams autobiography;
+  focus = things you say no to — self-reported (2026) [[../../sources/2026-03-09-yt-piXf3CdXOAI]]
+- Smoothie King $6.75/hr "blender tender" / $13 lunch / two-hours-per-shift origin; $100/hr
+  adult affordability test — self-reported (2026) [[../../sources/2026-03-11-yt-oYdvuoUfP8g]]
 - BioXcelerator raise economics (~$100M at $500M, 10x from a $50M round; $10–20B end-state)
   — client-context figures, unverified (2026) [[../../sources/2026-03-15-yt-BOlh8bnyNYw]]

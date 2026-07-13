@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: business
-updated: 2026-07-09
+updated: 2026-07-13
 tags: [communication, management, articulation]
 ---
 
@@ -189,6 +189,126 @@ the person's current major focus when that focus matters more than a broad agend
 
 ---
 
+## Systems as memory-independent prompts; presence before systems (March 2026)
+
+In a March 2026 Q&A on running a business remotely, Hormozi gives a crisp operational
+definition of a **system**: "a prompt that triggers a behavior or an action and does not
+rely on memory." He concedes it is not the most technically correct definition, "but
+people get it." What is *not* a system: people doing something because they *remembered*
+to, and "checklists that exist in your head" (paraphrase + verbatim,
+[[../../sources/2026-03-08-yt-_VOApav3nh0]]).
+
+> "A system is when you have a prompt that... the prompt triggers a behavior or an action
+> and it does not rely on memory. Like that's the easiest way I'll put it." — verbatim
+
+There are two routes to designing a system: **automation that prompts people, or a person
+who prompts people.** For a location the owner cannot be at (his example: an absentee
+owner ~100 miles from the site), someone must be on the ground to observe what needs to
+occur and watch the system get built — so his first hire there is a **general manager** to
+watch staff and build systems, even though he is not generally in favor of hiring a GM
+from day one (paraphrase, [[../../sources/2026-03-08-yt-_VOApav3nh0]]).
+
+The deeper principle — **presence sets the standard before systems can hold it**:
+
+> "The presence of a leader matters because you have to demonstrate what good looks like.
+> So if you're not there to demonstrate what good looks like, you need someone there to
+> demonstrate what good looks like." — verbatim
+
+Systems (automation, reminders, checklists) only keep prompting "what good looks like"
+*after* a present person has understood and set that standard. Bottom line: "if you're not
+going to be there, somebody needs to be there" (verbatim,
+[[../../sources/2026-03-08-yt-_VOApav3nh0]]). In the same clip he noted he is writing a
+book on leadership.
+
+---
+
+## Operationalizing a top performer for team training (March 2026)
+
+A March 2026 interview clip extends the debundling method (above) from *fixing* vague
+directives to *reproducing* excellence: **dissect exactly what a star performer does,
+write it into a checklist, and train it into others.** Hormozi's worked example is
+"operationalizing Caleb," his favorite videographer — the team put "a microscope" on what
+Caleb did (nodded, gave a thumbs-up on a great line, followed up with real thoughts after
+the take), wrote it into a team checklist, and reproduced the same recording sessions
+without him (paraphrase, [[../../sources/2026-03-07-yt-V6X1WndkDzg]]).
+
+> "We operationalized Calebism… I could say, 'I just need you to be more like Caleb.' But
+> that's not helpful to somebody. But if I said, 'I need you to do all these things,' then
+> I can operationalize that." — verbatim
+
+The training rule: "be more like [star]" is a useless directive; the behavior list
+extracted from the star is the transferable asset. He frames the wider expertise principle
+as **"experts have more ways to win"** — a master of a skill can find self-reinforcing
+feedback in far more interactions than a beginner, "so the more you master any skill, the
+more ways you can win" (verbatim). This is the same edge that lets the more-skilled take
+vaguer instruction (see the Management Diamond section above); for the tracking/gamify side
+of "more ways to win," see the gamify-your-metrics material.
+
+> Note: this March 2026 source is an earlier articulation of the operational-definitions
+> method already documented on this page (intelligence = rate of learning, motivation =
+> deprivation, learning = same condition/new behavior). Those definitions are not re-listed
+> here; only the *operationalize-the-top-performer training method* and the *experts-have-
+> more-ways-to-win* framing are new to this page.
+
+---
+
+## The teaching triad: analogy, declarative-not-procedural, pattern-matching (March 2026)
+
+A March 2026 solo clip gives three moves for explaining things so people understand and
+retain them — spanning both content and internal training
+([[../../sources/2026-03-13-yt-5NaZMLGdEiw]]):
+
+1. **Analogy over accuracy.** "If you're ever going to explain anything, only explain via
+   analogy, which is absolutely imprecise, but way more effective for getting people to
+   understand" (verbatim). Drop the technical/scientific detail — the audience doesn't care.
+2. **Declarative, not procedural.** "Good content is declarative not procedural. Meaning
+   you want to talk about stuff not how to do stuff" (verbatim). Talk about what's possible
+   and what the problems are, stay conceptual — "as soon as you get granular, you lose
+   everyone" (verbatim). (The content-marketing side of this belongs on content-strategy;
+   the *training* side is captured below.)
+3. **Train via pattern matching, not mechanism.** "A lot of times we think we need to
+   explain how something works to someone rather than just teach pattern matching. And
+   pattern matching is significantly faster to train and just as effective" (verbatim).
+
+His **95/5 training model**: in ~95% of cases a pattern always matches and the trainee "can
+just run the playbook"; for the ~5% that don't, they escalate to you, you mint a new
+pattern, and train them on it — "they present with this, this is the protocol" (paraphrase +
+verbatim, [[../../sources/2026-03-13-yt-5NaZMLGdEiw]]). This is the training-cadence
+complement to delegation: run the playbook by default, escalate exceptions, and grow the
+playbook from them.
+
+---
+
+## The leader is always the problem (diagnostic razor, March 2026)
+
+A March 2026 solo clip states Hormozi's razor for organizational problems: whenever a
+department, function, or line of revenue underperforms, **look at its leader first.**
+
+> "The leader is always the problem. Not sometimes. The leader is always the problem."
+> — verbatim
+
+> "So, if a function's mediocre, it's because the leader is mediocre, period. Full stop. No
+> questions." — verbatim
+
+The mechanic is an **asymmetric leader↔team transfer**: the failure is either the leader
+plus the team, or just the leader — never just the team, because a mediocre leader drags a
+great team down to mediocre, while a great leader lifts a mediocre team up to great (the
+"good coach turns around a bad team" trope). No tactical advice (pricing, sales) matters
+until the leader problem is fixed, because people won't respect or follow a leader who
+can't meet a basic standard — his illustration was a friend-operator who showed up to work
+inebriated across two of four locations (paraphrase, [[../../sources/2026-03-11-yt-zJVo-CVm6ew]]).
+
+Once you remove the bad leader, it is roughly a **50/50 shot the team is also broken** — a
+low-bar leader tends to have hired low-bar people, whereas a strong leader put over a bad
+team can turn it around (verbatim: "The question is after you pull the leader out, is the
+team also screwed? Got a 50/50 shot there."). He frames the razor as a time-saver: going
+straight to the leader beats hunting for pinpoint problems, a mistake he made too much
+early in his career (paraphrase, [[../../sources/2026-03-11-yt-zJVo-CVm6ew]]). This
+sharpens the Management Diamond: the diamond diagnoses *why an individual* didn't do a
+task; the leader razor diagnoses *why a whole function* is failing.
+
+---
+
 ## See also
 
 - [[sales-communication]] — the *external* delivery side (prospects, framing, objections);
@@ -196,6 +316,10 @@ the person's current major focus when that focus matters more than a broad agend
 - [[../mindset/mental-toughness-and-learning]] — observable-behavior and
   consequences-drive-behavior lens on how skills are actually acquired.
 - Source: [[../../sources/2024-09-11-yt-s6tkRztZwYc]]
+- Source: [[../../sources/2026-03-07-yt-V6X1WndkDzg]] — operationalizing a top performer; experts have more ways to win.
+- Source: [[../../sources/2026-03-08-yt-_VOApav3nh0]] — system = memory-independent prompt; presence before systems (absentee management).
+- Source: [[../../sources/2026-03-11-yt-zJVo-CVm6ew]] — the leader is always the problem (diagnostic razor).
+- Source: [[../../sources/2026-03-13-yt-5NaZMLGdEiw]] — teaching triad: analogy, declarative-not-procedural, pattern-matching training.
 - Context source: [[../../sources/2025-07-26-yt-GmJQyCFCz1k]]
 
 > Note: Hormozi self-reports that much of the behavioral material derives "from the ground

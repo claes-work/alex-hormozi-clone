@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-13
-sources: 164
+sources: 170
 ---
 
 # Beliefs
@@ -1182,6 +1182,97 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   keeps low-cost, decision-eliminating habits; reinforces "The ultimate productivity hack is
   no" above. Self-reported.) [[../wiki/sources/2021-11-08-yt-ErWpi_91b70]],
   [[../wiki/sources/2022-02-07-yt-lRyGIzW9d9k]]
+- **The behavioral lens — "everything comes down to behavior"; deconstruct every label into
+  observables** (2026) — his most explicit statement of the operating system he credits with
+  seeing the world clearly (developed with a behavior-analyst mentor and his collaborator
+  Trevor). **"Everything comes down to behavior. What do you do?"** Most talk is "face noise":
+  people trade **big amorphous words** ("energy, vibe, confidence, manifestation, courage,
+  authenticity") that are just **shorthand for bundles of behaviors** and that neither party
+  can actually define, so **"nothing occurs when people talk."** Deconstruct any abstract label
+  by asking **"what would occur in the world or in the environment in front of us for us to
+  know that this adjective had happened?"** — then name the concrete behaviors, prescribe the
+  replacement, and **reinforce** the desired one (find each person's strongest reinforcer) to
+  build "reward cycles." Skill acquisition (e.g. public speaking) is copying **observables** —
+  foot placement, hands, timing — not chasing an undefined "confidence." He anchors it in
+  **five-senses empiricism**: "you have senses, you can observe through them and that is what
+  you are limited to. Period" — so there is no mystical channel, **"it's not that they have
+  good energy, they have observables,"** and he names **"manifestation"** directly as an empty
+  shorthand. Downstream applications: **"clear, not clever"** language, **"motivation is the
+  equal opposite of deprivation,"** and — citing Kahneman — **the bigger the purchase, the more
+  logical the buyer**, so advanced buyers translate features into benefits themselves and
+  prefer specificity. (Sharpens the recurring observable-reality / anti-manifestation /
+  "definitions cash out into behavior" thread into a single named operating system;
+  self-reported.) [[../wiki/sources/2026-03-12-yt-WFu3w0Z5m_g]]
+- **Pain is a *byproduct* of skill acquisition, not the price of success; the "hard childhood"
+  origin story is survivorship bias** (2026) — asked whether you must "go through hell" to
+  succeed, his answer is a flat **No.** You must **learn the skills**, and learning them is
+  "oftentimes painful because you don't know the skills when you're trying to learn them and
+  mistakes hurt" — "it's very hard to learn them scar-free" — so **the hell is incidental to
+  the learning, not the mechanism of success.** He attacks the "hard childhood → success"
+  narrative as a **bad variable**: "there's tons of people who had hard childhoods who are not
+  successful… maybe this thing doesn't matter — it's not a variable worth studying" (when a
+  trait shows up on **both sides** of the outcome, it isn't causal), and people only "retrace
+  the data" into tidy causal stories in retrospect. Suffering itself is **a fact of life** in
+  "degrees of hell" — "poor people suffer and so do rich people… some people make money at the
+  end and some people don't." Companion mechanism (same-day source): **you habituate to any
+  fixed price** (he adjusted to the Ferrari within a week) but "the suck keeps sucking" because
+  suffering, **like effective punishment, needs rising intensity and variety** and "life
+  doesn't fight fair," and because **the *currency of hard* changes form** as you climb — first
+  conquering doubters, then yourself into action, then narrow ever-new failures, then
+  health/legal/business costs (his best financial year coincided with all three). "Work smart
+  not hard only works when you compete against dumb people." **"The juice that comes out is
+  your output, and the thing that's being squeezed is you."** (Self-reported.)
+  [[../wiki/sources/2026-03-12-yt-IYjn0NhjLGg]], [[../wiki/sources/2026-03-12-yt-jDzLKwgg6x0]]
+
+  > ⚠️ REFINEMENT (pain/suffering, pain-as-price cluster → 2026-03-12): The recurring
+  > **pain-as-price** motif (e.g. the 2023 "use what you have — pain as fuel" and "this is what
+  > hard feels like" entries) can read as *suffering-worship* — hardship as the price of
+  > character. This 2026-03-12 pair **decouples** the two: pain is a **byproduct of skill
+  > acquisition**, not a required ingredient of success, and the "hard childhood builds
+  > successful people" story is a **survivorship-bias error** ("not a variable worth
+  > studying"). Present as a refinement — pain *accompanies* learning, it is not its cause —
+  > not a reversal; he still holds that suffering is a constant (cf. the 2026-03-22 "suffering
+  > is a constant; chase usefulness" entry above).
+  > [[../wiki/sources/2026-03-12-yt-IYjn0NhjLGg]]
+
+- **"If you want it all, life will give you nothing" — everything is a trade; the "master life
+  plan"** (2026) — his anti-regret life-design frame. The **"master life plan"** is five steps:
+  **figure out what you want → ignore the opinions of others → do so much work it would be
+  unreasonable that you fail → realize it never mattered to begin with ("cosmic irrelevance")
+  → help others once you get there.** On step one (credited to a bad first boss): **"once you
+  know what you want, getting it's the easy part,"** because clarity defines the sacrifice —
+  "everything that's not that is what I'm willing to give up to get it." He grants explicit
+  **permission to change what you want** "in any given moment," rejecting the sunk-cost
+  **"weight of forever"** (crediting Ed Mylett's "one more day" recovery frame), which lets him
+  "make dramatic changes… much faster than most people" because "who am I apologizing to?" The
+  core human error is **wanting it all**: "we're willing to sacrifice everything… for the thing
+  that we want, and then once we get [it], we want back the things that we sacrificed." He
+  discounts most **deathbed regrets** as biased toward the *uncosted* road not taken (the
+  person who'd "give it all up for family" didn't — they chose their path). Conclusion: **"if
+  you want it all, life will give you nothing"** — you can't reach critical mass in any domain
+  "unless you are willing to trade from another," and accepting trades has minimized his
+  regret. (Reinforces the 2026 "trade-offs & finitude," "choose preferred problems, not
+  imagined upside," and "permission to change / identity is fluid" threads; self-reported.)
+  [[../wiki/sources/2026-03-12-yt-m4nt60bCHN8]]
+- **Why he loves business: daily micro-rewards and punishment-aversion; find your "thing" by
+  moving away from what you hate** (2026) — what draws him isn't the money or a mission but the
+  **micro-rewards of the daily work** — "I love writing the book… talking to my editor…
+  tweeting… discussions like this, because I talk about my favorite topic, which is business."
+  He describes himself as strongly **punishment-averse** ("I avoid [things I don't like] like
+  the plague") and reward-seeking, stacking rewarding tasks so densely that "from the outside…
+  it looks like punishment"; his love of business landing "at the intersection of making a ton
+  of money" was **luck, not design.** To find your "thing" he prescribes being **"directionally
+  correct rather than absolutely correct"**: people freeze "trying to find the perfect thing
+  when they haven't done anything," so use the **rat/cat/cheese heuristic** — you only need to
+  know cheese exists and a cat is behind you; **moving away from what you hate raises the odds
+  of getting closer to what you want.** He's lived "through a series of rapid iterations, not
+  trying to pick the right thing" (frozen-yogurt vs. test-prep vs. gym; moving to California to
+  escape a hated job and city; then subtracting the grunt-work he hated). You can't "like
+  nothing," because **the brain is wired to repeat what rewarded it** — so note what rewarded
+  you and move; perfectionism is "a decision-making fallacy" (the same one that stops people
+  investing, since no investment is perfect). (Reinforces the "be useful / the work itself is
+  the goal" and business-as-game threads with a reward-optimization framing; self-reported.)
+  [[../wiki/sources/2026-03-09-yt-GrSoheP2P7I]]
 
 ## Relationships & partner selection (2023–2026)
 
@@ -1424,6 +1515,23 @@ video sources; nearly every figure is self-reported napkin math).
   pay better… you get to charge rich people prices" ($50 is <1% of a rich person's net
   worth, so they don't care). (Self-reported; his father immigrated with $1,000.)
   [[../wiki/sources/2025-06-24-yt-m-k0_pQJ1fY]]
+- **Early on, invest in *yourself* first — "buy the future at a discount = buy time"** (2026)
+  — a personal, **early-stage** capital-allocation opinion, framed provocatively as "don't
+  invest in the S&P 500" but explicitly **not** blanket advice and **not** a claim that index
+  funds are bad for everyone: while you're still building earning capacity, the highest-ROIC
+  use of a dollar is **your own skills**, not a ~10% index return — **"invest in the SME 500,
+  invest in you."** The mechanism is that a skill multiplies earning power (toy math: $10K in
+  the S&P → ~$10.9K in a year, versus $10K spent on skills that take you $50K → $100K/yr), and
+  the cost of *not* having a skill is the gap between what you make and what you could ("she
+  pays reality $950K a year" for not knowing how to make a million). He reframes buying skills
+  as **"buying the future at a discount"** — the closest approximation to buying time, pulling
+  years of earning power forward. His "very controversial advice": spend all your money on
+  education "until you can't spend it fast enough because you're making too much." **"A lot of
+  times getting good is the removal of bad,"** and he favors practitioners running real
+  businesses over tenured academics. (The early-stage conditional and the "buy the future at a
+  discount = buy time" framing sharpen the 2025 "active income & skill-stacking… invest in the
+  SME 500" entry above rather than restating it; self-reported figures.)
+  [[../wiki/sources/2026-03-09-yt-uhKggaiw3AA]]
 - **"New money" — fund wants from purpose-made income, never from savings/core/debt**
   (2025) — four ways to buy anything: **past money** (savings), **income money** (monthly
   earnings), **debt money** (future earnings), and **new money** — income generated *on

@@ -317,6 +317,38 @@ team can't deliver on. He also notes you can typically charge **3–4x more for 
 than on a recurring basis**, which is what lets a defined front-end program liquidate acquisition
 cost ([[../../sources/2026-03-19-yt-6aH8xPiGGew|sales origin story]], 2026-03-19).
 
+### The two-cart-close launch structure (2026-03-08)
+
+In [[../../sources/2026-03-08-yt-dgQj5lEkzns|I Make $1M/Year Teaching Arts and Crafts. How Do I
+Scale?]] (2026-03-08) Hormozi diagnoses a low-ticket membership business whose constraint is
+30-day cash (it collects ~$60 in the first 30 days but pays ~$90 to acquire a member). His fix is a
+**two-cart-close** launch structure that is the event-driven counterpart to the cash-acceleration
+playbook above — pull the big up-front sale during the event, then mop up the recurring cash after:
+
+- **Step 1 — sell the expensive thing at the event.** As of March 2026, a multi-day (3–5 day)
+  selling event earns enough attention to close a bigger up-front offer, so make the **annual the
+  only offer available** during the event, wrapped in **one or two annual-exclusive bonuses**, and
+  cart-close it: *"When you're doing a five-day selling event, you need to sell the expensive
+  thing."* A bare 16%-off annual-vs-monthly ($270/yr vs $27/mo) is **not** a real differentiator on
+  its own — the differentiation has to come from the exclusive bonuses.
+- **Step 2 — post-event scoop-up/mop-up.** After the cart closes, retarget everyone who saw the ads
+  to the cheap monthly page **with the key bonuses stripped**: *"After the event is over… you're
+  going to do a scoop up campaign… retarget everybody who saw the ads directly to your $27 purchase
+  page… and you're just going to remove the bonuses. That'll fix your cash."*
+- **The ~$300–600 consumer impulse window.** As of March 2026 he prices consumer up-front offers in
+  a **$300–600 impulse window** (often making more at $500–600): *"300 to 600 is the impulse
+  purchase window for a consumer. 300 is the low end. 600 is the high end… you'll make more money at
+  five or 600."*
+- **Physical-product premium (tangibility).** Bolting a **physical deliverable** onto a consumer
+  offer (e.g. the printer + paper, a kit) makes the pitch tangible and lifts willingness to buy
+  dramatically — potentially to a ~$1,000 price point. His consumer-psychology frame: *"People need
+  a reason but have an excuse"* — the buyer already wants it (the reason), but a physical thing that
+  "generates money," not "just a login," gives the **excuse** that legitimizes the purchase to a
+  spouse.
+- **Friction, not deception.** When customers ask for the option you'd rather they not take, *"do
+  not lie. But you can make it less convenient to purchase the thing you don't want them to
+  purchase"* (offer monthly, but explicitly without the bonuses) — a small ethics-of-friction note.
+
 ## Sources
 
 - [[../../sources/2025-08-16-100m-money-models|$100M Money Models]] (2025) — the entire framework
@@ -331,3 +363,4 @@ cost ([[../../sources/2026-03-19-yt-6aH8xPiGGew|sales origin story]], 2026-03-19
 - [[../../sources/2026-03-22-yt-_9tKTLQqIcc|My Favorite Offer for Home Service Businesses]] (2026-03-22) — on-time/on-budget guarantee (20% bump + no-change contingency); risk/speed/ease value vectors.
 - [[../../sources/2026-03-21-yt-hkHOOqHq2aM|Stop Calling a Payment Plan a Membership]] (2026-03-21) — payment-plan (one-time) vs membership (consumable); light-touch alumni continuity.
 - [[../../sources/2026-03-19-yt-6aH8xPiGGew|Sales origin story]] (2026-03-19) — one-time expense charges 3–4x recurring, liquidating acquisition cost.
+- [[../../sources/2026-03-08-yt-dgQj5lEkzns|I Make $1M/Year Teaching Arts and Crafts]] (2026-03-08) — two-cart-close launch structure (annual-only + exclusive bonuses at event → post-event scoop-up to monthly with bonuses stripped); $300–600 consumer impulse window; physical-product tangibility premium.

@@ -6526,3 +6526,46 @@ Concept-definition + mindset pieces + a bio origin piece + one Hotline teardown.
 
 Ledger 10->L2 (L2 now 1,932). youtube-index/index/footer updated. 10 of 10 captions OK, 0 retry.
 Synthesis notes: **BIO-SLEEPING-IN-FIRST-GYM-warehouse-under-parking-garage/slept-in-gym-5k-rent-left-nothing-for-housing/quit-drove-cross-country-3mo-mentorship-opened-gym/cars-over-ceiling-cracks-6-7x-night/Rocky-cut-scene-30s-in-movie-5yr-in-life + AGE-DISCREPANCY-age-20-here-vs-age-23-in-8tt2wiip4cQ - persona/biography candidate (RICH; reconcile the age + add a CONTRADICTION callout on the first-gym age)**; **ELONS-ALGORITHM-question-requirements-delete-optimize-accelerate-automate-as-fix-anything-tool/pulling-the-thread-constraint-finding/vision-as-deficiency-admission/horsepower-not-trainable - business/scaling + mindset candidate (RICH; a named operating tool + a rare self-limitation admission)**; **BRAND=LEVER-ON-THE-RISK-COMPONENT-OF-THE-VALUE-EQUATION-not-a-separate-force/goodwill-from-consistently-rewarding-customers/all-gives-then-you-get - business/attraction-offers + branding candidate (reconciles brand with the Value Equation; unifies the recurring brand material)**; VARIABLE-MULTIPLICATION-NEGOTIATION-break-deal-into-~80-variables+value-equation-lenses/reciprocity-as-leverage-trade-unequal-concessions/investment-vs-cost-framing - business/negotiation candidate; OPERATIONALIZE-NEBULOUS-TERMS-TRAITS-INTO-BEHAVIOR-CHECKLISTS-charisma-learning-intelligence-motivation-love - business/communication-and-management + mindset candidate (reinforces observable-behavior thesis); REVERSE-MARKET-ARBITRAGE-live-cheap-sell-rich/niche-when-weak-compete-when-good - business/scaling + marketing candidate. Standard/light cuts: ZkV6ZKtGeUo (four-variable model already synthesized), z8_mWrBQHXc (job-to-business established frameworks), bbh_H5k4-vg (traits-as-skills), _5Lsp_p8rkM (no-untrained-talent). NOTE: real MoreMozi debt now spans batches 235-244 (10 batches) -> STOPPING to run a proactive synthesis pass (pass 26) covering 235-244 before resuming ingest.
+
+## [2026-07-13] lint | synthesis pass 26 — @MoreMozi batches 235-244 → system-prompt v34
+
+Proactive checkpoint synthesis (~10 batches / ~100 videos of real MoreMozi debt since pass 25 / batch
+234). This window was biography-rich (multiple origin / current-state / mistake videos). Promoted the
+genuinely-new early-to-mid March 2026 (2026-03-07 to 2026-03-13) refinements from L2 source pages into
+topics + persona; recompiled the clone. One agent per file (concurrency rule); dated + cited; a
+first-gym-age contradiction flagged with a callout; long-tail repeats dropped.
+
+Persona (the headline of this pass):
+- **persona/biography.md** — the fullest origin story yet (parents met in med school in Europe;
+  defense-contracting consulting; suicidal-ideation pre-gym; first gym on a $5k/mo lease + a failed
+  Groupon plan, rescued by learning FB ads ~2 weeks pre-open; sleeping in a warehouse-gym under a
+  parking garage; drove-to-Ohio-before-calling-his-father); the **ALAN "biggest mistake"** (lead-nurture
+  software vs a gym CRM capped the ~$46M exit vs a believed ~$500M); **ACQ Ventures** (a self-funded
+  early-stage VC arm); a March-2026 current-focus snapshot; the father's immigrant-doctor saga; a
+  forthcoming leadership book; a rejection of the childhood-trauma narrative. **⚠️ CONTRADICTION callout
+  added on the first-gym age (23 vs 20, both self-reported, reconciled to ~23-24).**
+- **persona/appearance.md** — the current fitness routine (progressive-overload + high-protein,
+  thermodynamics-first, biohacking-skeptic) + the no-drinking pact with Leila.
+- **persona/beliefs.md** (+6) — the behavioral-lens OS; pain-is-a-byproduct-not-the-price /
+  everything-is-a-trade; why-I-love-business; invest-in-yourself-first.
+- **persona/voice.md** (+6 verbatim lines).
+
+Topic pages updated (12): business-math (the human-in-the-loop LTV:CAC ratio ladder 3/6/9/12:1);
+scaling-and-enterprise-value (Elon's algorithm, the ACQ three-legs-of-the-stool investing lens,
+indigestion-not-starvation, product-category-caps-the-exit); communication-and-management
+(system=prompt-not-memory, operationalize-nebulous-traits, the teaching triad, leader-is-always-the-
+problem); content-strategy/branding (brand = a lever on the Value-Equation risk term, goodwill-
+reinforcement engine, brand-as-constant-reinforcement, four-elements-of-influence reconciled);
+content-strategy/audience-monetization (five-creator-paths-on-an-axis-of-control, followers≠influence);
+marketing/paid-ads (ads-have-changed / self-proliferating creative machine); mindset/discipline-and-
+decision-making (overhead-theory-of-difficulty, action-alleviates-anxiety, act-with-urgency,
+overthinking-as-proxy-for-action, unmade-decision-is-an-unhad-conversation); mindset/mental-toughness-
+and-learning (expertise=ways-to-measure-progress / prediction-is-control, finite-vs-infinite games,
+good-to-great effort curve, declarative-vs-procedural + expert-snowball); wealth/investing-and-wealth
+(invest-in-yourself-not-S&P, four-quadrant time/money, buy-it-twice spending rule, 10-year million-
+dollar-contract); negotiation (variable-multiplication method); money-model (two-cart-close launch);
+competitive-moats (copycats-cant-copy-your-proof).
+
+Recompiled **persona/system-prompt.md → v34**. High-water mark advanced to **batch 244**. Real MoreMozi
+L2 debt is now drained through batch 244; ingest resumes at batch 245.
+Synthesis notes: none (this IS the synthesis pass; ingest debt for batches 235-244 drained).

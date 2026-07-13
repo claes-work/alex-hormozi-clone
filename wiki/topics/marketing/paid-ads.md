@@ -140,6 +140,51 @@ Scale by **repetition** — new prospects enter the market daily, so re-running 
 still their first exposure. The next level up, teased but not taught in this playbook, is
 **Kaleidoscope Ads** ("how I take ads to the moon").
 
+## "Ads have changed forever" — AI creative volume & the self-proliferating machine (March 2026)
+
+By early 2026 Hormozi frames the assembly-line doctrine above as having crossed into a new
+regime, and dates the call explicitly (speaking at the end of 2025, calling it for 2026). The
+thesis extends the "win on creative, not media buying" through-line to its AI-era conclusion:
+winning now is about the **sheer volume of different creative**, not manual audience
+targeting — the platform's AI picks the audience, so you flood it with variations. He reports
+running creative **"in the thousands"** for a single launch: ~1,000–2,000 ads produced before
+the launch even started, ~3,000 by the time it happened (self-reported).
+
+> "Right now, it's about volume of different creative. We did, you know, 1,000 or 2,000 ads,
+> I think, before even started. I think it was 3,000 by the time of the launch happened."
+> — [[../../sources/2026-03-13-yt-3r-NEK4gFZ0]]
+
+**Where it's headed — hyper-personalization at scale (2026 prediction).** He predicts AI-generated
+creative pushes advertising toward **per-viewer personalization**: AI lets you generate far more
+permutations far faster, so ads move from a handful of variants toward a distinct creative for
+each viewer. He calls this "the future," does not expect the shift to reverse, and reports already
+seeing "crazy returns" across the portfolio companies (self-reported, dated late-2025-for-2026).
+
+> "With AI, you can create way more permutations much faster. And so I think we're going to
+> have personalization at scale." — [[../../sources/2026-03-13-yt-3r-NEK4gFZ0]]
+
+**The strategic upgrade — build a machine that self-proliferates creative.** The more important
+capability, he argues, is not producing lots of creative but building a **loop where customers
+generate the creative that wins more customers who generate more creative** — a
+customer-generated-creative flywheel, which he nicknames the **"self-licking ice cream cone."**
+The point is to install this *process* into the business rather than solve creative volume by
+endlessly hiring a bigger team. He names it his key lesson of the year, carried into the next.
+
+> "You need to be able to create lots of creative. And what's more important is you need to be
+> able to create the machine that consistently self-proliferates the creative."
+> — [[../../sources/2026-03-13-yt-3r-NEK4gFZ0]]
+
+> "How do I get the customers to make creative that gets us more customers that make more
+> creative? That's the process you want to install in the business rather than think, oh, I have
+> to just keep building the team… We have to build the self-licking ice cream cone."
+> — [[../../sources/2026-03-13-yt-3r-NEK4gFZ0]]
+
+This is continuous with, not a reversal of, the 2025 assembly line: hook/meat/CTA modularity and
+"more and better ads" remain the mechanism; the 2026 shift is (a) the volume ceiling jumping from
+hundreds/week to thousands/launch, (b) AI as the permutation engine driving toward
+hyper-personalization, and (c) the flywheel goal of *customers* — not a bigger internal team —
+supplying the raw creative.
+
 ## Budget split (70/20/10)
 
 Allocate creative time and budget in a **70/20/10** split:
@@ -242,6 +287,10 @@ collateral and often have a Google back-channel to push compliant accounts throu
 - [[../../sources/2025-100m-proof-checklist-playbook|`Proof Checklist Playbook`]] (2025-08-16) —
   canonical source for proof-led creative beating offer/education creative (the July-2024 Gym
   Launch ad-cost diagnosis).
+- [[../../sources/2026-03-13-yt-3r-NEK4gFZ0|"Ads Have Changed Forever"]] (2026-03-13) — the
+  2026 AI-era thesis: creative volume "in the thousands" per launch, hyper-personalization at
+  scale via AI, and the self-proliferating / customer-generated-creative flywheel ("self-licking
+  ice cream cone").
 
 > Note: Percentages and dollar figures on this page (80% reskin allocation, 70/20/10 split,
 > 5–10% top-ad cut, ~$5–6K audit cost, ROAS multiples, 5→500 ads and "doubled in two

@@ -193,6 +193,90 @@ company ran that generated **$2.4M** and added **$100M+** in enterprise value.
 > unnamed acquisition.com portfolio company — Alex's self-reported claims, not
 > independently verifiable.
 
+## Five creator paths on an axis of control (March 2026)
+
+From [[../../sources/2026-03-09-yt-sA1Xs3ORb3Q]] (prompted by his Skool deal). By March
+2026 Hormozi restates the monetization model as **five paths on a single axis of
+control** — control correlates with **enterprise value**, rising left→right:
+
+1. **Sponsorships** — least control; the creator is "effectively an advertiser reading
+   an ad." Rational if you *know* your attention doesn't convert (you're selling brand
+   impression, not performance).
+2. **Affiliate / performance deals** — "one degree next to" sponsorships: you take a
+   larger share of the upside by **shifting risk from the brand onto yourself.** > "Winners
+   always work on performance… You are the seller of attention. So you should always know
+   the value of your attention better than someone else." (an information-advantage argument).
+3. **Promote + invest** — the middle "sweet spot" and the path he took with Skool. You put
+   **three buckets** into an existing company: > "There's work, there's brand, and then
+   there's capital." It only works when the company has *already proven* itself (retention,
+   churn, acquisition, engagement, activation all check out).
+4. **White-label / drop-ship** — put your logo on an existing manufacturer's product; the
+   simplest higher-control path.
+5. **Build from scratch** — the "final boss": create a product/service and market and sell
+   it. > "There is a right path for everyone and you just have to have some level of
+   awareness to know which path is yours."
+
+- **The invest path = "pulling the compounding curve forward."** The nirvana scenario: a
+  product already compounding on word of mouth for 12–24 months, in a market resembling
+  your audience, that you know can 10x in a year. The deal collapses years of compounding
+  for both parties. > "Fundamentally, all you're doing is pulling the future forward by
+  like four years… we're just going to pull year four forward." (Skool fit all criteria;
+  Prime is "identical to a Skool deal" — Logan Paul promoted, Congo Brands built.)
+- **Media-business framing.** Sponsorship/affiliate revenue *can* build enterprise value,
+  but only if you treat yourself as a **media business** — > "taking an old business model
+  and just doing it in a new medium" (Barstool/Portnoy, YMH, MKBHD as media). Upside is
+  capped and the failure rate high (BuzzFeed); it's often easier to sell ad space across a
+  demographic (Barstool's network model) than to be the sole breadwinning creator carrying
+  it. This sharpens the "true media company" caveat under *Sponsorships* above.
+- **Own less, build bigger.** > "Almost none of [the wealthiest people] own 100% of the
+  companies that they have made their wealth on" (Jensen Huang ~4% of Nvidia, Bezos ~9% of
+  Amazon, Buffett <40% of Berkshire). Building something huge takes "multiple lifetimes," so
+  you divvy up the pie to build bigger and faster — a rationale for the equity/partnership
+  paths over sole ownership. > "The longer I've been doing business, the more I value time
+  and speed."
+
+> ℹ️ This five-path model is the March-2026 evolution of the earlier **four ways to
+> monetize** (Feb 2025, above). Not a contradiction — it splits the old continuum by adding
+> the explicit **promote-and-invest** middle path and reframes the ordering axis as
+> *control* (→ enterprise value) rather than *difficulty/risk*.
+
+## Followers ≠ influence; short-form vs long-form (March 2026)
+
+From [[../../sources/2026-03-09-yt-81lZi32cE-o]] (framed as a "creator burnout" question
+about Graham Stephan). Hormozi reframes burnout away from grind-fatigue toward **wrong
+audience, wrong product, and confusing followers with influence.**
+
+- **Burnout is usually a product/audience mismatch.** An audience assembled around *not
+  spending money* (Graham's frugal base) is structurally hard to monetize with discretionary
+  commodities like coffee; on-brand plays would be discount/savings tools or financial
+  services. Creators are "horrendously bad at picking products," chasing a *Zero to One*
+  brand-new category when > "Your monopoly is the attention. You can sell a commodity" — as
+  long as it's **on-brand.**
+- **Don't solve churn — borrow a sticky commodity.** > "I only really solve for revenue
+  retention… on a long enough time horizon, anything that retains customers becomes huge."
+  The rule: > "Do not try and solve churn. Try and find products that people already don't
+  churn out of. And then make it your own." — find categories people inherently don't leave
+  (internet, cell phone, insurance) and shift your audience onto a laser-targeted version.
+  (A creator-facing restatement of his revenue-retention thesis; see
+  [[../business/scaling-and-enterprise-value]].)
+- **Four elements of influence:** **likeness** (they look like me → I trust them),
+  **credibility** (say-do correspondence / proof), **power** (you gave a directive that
+  produced a positive result — e.g. Huberman's hiccup short), and **status** (relative
+  control over scarce reinforcers). An endorsement transfers real influence only when the
+  endorser has demonstrated credibility on the topic (Rogan on politics); otherwise it
+  "just functions as an ad."
+- **Short-form = awareness, long-form = influence.** > "Short form content does not build
+  tremendous influence. I think it brings awareness." Long form compounds all four
+  elements; his math puts ~10 hours of long-form ≈ 1,800 twenty-second shorts, so > "people
+  have wildly over-leveraged followership and views for influence." The 2021 creator-economy
+  boom-and-bust happened because capital allocators "confused influence with followers."
+- **Short-form's correct job** is to drive the tiniest next action — ideally into a
+  community (Skool) where faster feedback loops build the harder-won influence elements.
+  Follower counts badly mispredict influence: two 100k-follower creators paid the same drove
+  10,000 customers vs. zero. TikTok Shop + lives is currently the strongest organic
+  monetization. This deepens the **relevancy > reach** thesis above with a mechanism —
+  *why* vanity metrics diverge from business metrics.
+
 ## See also
 
 - [[audience-growth]] — building the audience you then monetize

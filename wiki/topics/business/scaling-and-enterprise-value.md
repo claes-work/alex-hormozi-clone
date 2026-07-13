@@ -4,7 +4,7 @@ domain: business
 domains: [business, wealth]
 created: 2026-07-08
 updated: 2026-07-13
-sources: 44
+sources: 48
 tags: [scaling, enterprise-value]
 ---
 
@@ -967,6 +967,106 @@ expansion tests in §9d.
   > "If you just add software in, you will not become a software company. You will not get
   > a software multiple... It is only if you accomplish building a software that is
   > exceptional that you will have an exceptional business that becomes sellable."
+
+---
+
+## 13. March 2026 refinements (part 2): Elon's algorithm, the ACQ investing lens, and product-as-exit-value
+
+Four early/mid-March 2026 MoreMozi clips (three interviews, one monologue). In interview
+clips only Alex-attributed material is persona data; caller/self-reported figures are
+unverified.
+
+- **"Elon's algorithm" as a fix-anything tool (2026-03-07).** Alex names the five-step
+  SpaceX process the single most useful thing he's taken from Elon Musk and applies it to
+  *any* business problem: **(1) question the requirements → (2) delete the unnecessary/dumb
+  rules → (3) optimize → (4) accelerate/pull up timelines → (5) automate**. He stresses the
+  **order**: "question the requirements" is the hardest and most valuable step because it
+  forces unconstrained thinking — most owners can't say why they do what they do beyond "how
+  we've always done it," and humans "add things so easily and are so afraid to remove
+  things," building a "mythology around process." He couples this to his core diagnostic,
+  **"pulling the thread"** — repeatedly asking "what stops us from 10x-ing this?" and "why?"
+  until you reach the true constraint (e.g. HR simply hasn't posted the role yet). Concrete
+  proof of over-built process: a **$500k studio that still took two hours to light** because
+  the team never bought ~$2k of dedicated lights, negating the studio's whole point; he shot
+  a replacement video on an **iPhone that got ~2M views**, since in education "the only thing
+  that really matters is the quality of the information." He also admits a personal weakness:
+  **vision-painting is Elon's standout skill and Alex's own deficiency** ("linked every one
+  of his companies to we're saving the world"), and argues people "work 100 times harder"
+  and endure ~5x more pain for a save-the-world mission than for themselves — framing vision/
+  culture/values as "large bundled direction sets" (hundreds of behavior-orienting sub-rules)
+  and thus a leader's highest-leverage lever. Controversial talent claim: raw **"mental
+  horsepower is not trainable"** (holding many variables at once), though skills are — "skill
+  is almost a reallocation of horsepower." [[../../sources/2026-03-07-yt-bQuFlmQt9Ic]]
+  (This is the named-tool articulation of the constraint-finding that runs throughout §6,
+  §10, and §11; the iPhone proof reinforces content-strategy's information-over-production
+  stance.)
+  > "It's the five-step process that they apply at SpaceX... question the requirements,
+  > delete all the unnecessary or dumb rules or requirements, optimize, then pull up
+  > timelines, then automate." / "The most useful thing that I've gotten from Elon."
+  > "We add things so easily and we're so afraid to remove things... we almost develop this
+  > mythology around process."
+  > "I don't think horsepower is trainable. I do think that skills are trainable... skill is
+  > almost a reallocation of horsepower."
+
+- **The ACQ investing/scaling lens — three legs of the stool (2026-03-13).** Alex frames
+  what Acquisition.com / ACQ Ventures can contribute to a company as **three "legs of the
+  stool": money, time/work, and brand/reputation/distribution** — and prefers the first two
+  because they are *more scalable*. **Brand is limited "in how many," not in power:** a brand
+  is built on **associations and pairings**, so pairing with too many disparate things erodes
+  its potency; many pairings within *similar* buckets instead give "more shots on goal." On
+  the operating side he describes the **HoldCo team as marrying "old school and new school"**
+  — bright, hard-working **ex-McKinsey/Bain consultants (5–10 years in)** who hate being "a
+  cog in a machine" (many drawn from his own content) — pairing **big-business strategy with
+  small-business tactics**; big-consulting analysis isn't useful to a small business, but the
+  problem-solving mind transfers ("consultants are a lot like engineers"). His
+  **creator-deal filter:** he'd **not** fund a creator's *de-novo* idea (creators are big-idea
+  people whose constraint is **execution and business acumen**, and the deal wouldn't give him
+  majority control → high risk); he'd prefer the inverse (**creator ~20% / ACQ ~80%**, ACQ
+  fronts capital and builds everything), but even then it must beat his existing deal-flow's
+  **alpha**. A later-stage creator ("Logan/Jake Paul" type) "**isn't really investing — it's
+  a joint venture**," i.e. starting another business, worth doing only if ACQ already owns a
+  huge share of the required **core competencies (knowledge *and* manpower)**. Honest net: for
+  a creator with distribution but no operations, "would you build a company for them?" —
+  "probably not." [[../../sources/2026-03-13-yt-6AmEknBxfPg]] (The brand-as-pairings-dilution
+  point complements §10's "double down, don't diversify"; the HoldCo-staffing detail extends
+  §10's "pull the diamonds into the HoldCo.")
+  > "I still use those three kind of legs of the stool. So I got money. We've got time or
+  > work. And then we've got brand, reputation, distribution."
+  > "Brand is built on associations and pairings. And if you pair yourself with too many
+  > things, the brand starts to lose its potency."
+  > "Investing in someone like that isn't really investing. It's a joint venture. And then
+  > it's really like I'm starting another business."
+
+- **Businesses die of "indigestion, not starvation" (2026-03-12).** Alex sharpens the
+  focus/opportunity-cost thesis with a line he attributes (loosely, unverified) to Churchill:
+  companies fail from **overextension, not lack of opportunity** — "they overeat, they're not
+  starving." The behavioral trap: entrepreneurs get *reinforced for changing direction* (a
+  pivot finally clicks), so they learn the wrong lesson that switching pays. His resolution as
+  you scale: **"specialized in projects, generalized in skills"** — because the downstream
+  damage of a distracted leader is magnified the higher up you sit. **Saying no scales with
+  success** ("the most successful people say no to almost everything" — Buffett paraphrase;
+  *Essentialism* a top-five book). [[../../sources/2026-03-12-yt-oLhBV46CElI]] (The "woman in
+  the red dress"/double-down core is already in §5b(6) and §10 EXudDKvJC54; the genuinely-new
+  additions here are the **"indigestion, not starvation"** frame and the
+  **"specialized in projects, generalized in skills"** razor.)
+  > "Businesses die of indigestion, not starvation. And so they overeat, they're not
+  > starving."
+  > "Specialized in projects, generalized in skills."
+
+- **Product/positioning caps the exit — the ALAN mistake (2026-03-08).** Alex names his
+  **single biggest financial mistake**: alongside Gym Launch he built **ALAN as a
+  *lead-nurture* tool (pre-AI decision trees) instead of a simple *CRM for gyms***. He
+  self-reports the product choice **capped the exit at ~$46M** ("46 to be exact") when a gym
+  CRM "would have sold for **half a billion dollars**" — i.e. *what* you build, not just how
+  well you run it, sets the ceiling on enterprise value, because a sticky, recurring CRM
+  carries far better retention/margin economics than a nurture bolt-on.
+  [[../../sources/2026-03-08-yt-DZosfCLNiyc]] (Reinforces §12's "software doesn't make you
+  sellable — the *economics* software can have do" (onWtR-rbXAk) and §9d's "EV is a bundle of
+  characteristics, not a SaaS label"; here the same principle told as a dated, self-reported
+  mistake. Distinct from the Prestige-Labs diversification mistake in §10 — that was doing too
+  much; this was building the *wrong product category*.)
+  > "If I had not done that and simply made a CRM for gyms rather than a lead nurture
+  > software for gyms, that company would have sold for half a billion dollars."
 
 ---
 

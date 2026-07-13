@@ -867,6 +867,139 @@ nothing the day it declines" [[../../sources/2026-03-25-yt-pkK7NoFRpas]].
 > "Businesses will always go up in value until the day they don't and then they're worth
 > nothing. ... the day the business goes down, no one touches it. So that's the knife's edge."
 
+## Early–mid March 2026: urgency, decisiveness, action-as-anxiety-cure, and the overhead theory
+
+**Act with urgency — shrink the gap between thought and action.** In a March 2026
+monologue, Hormozi argues a defining habit of richer, more successful people is that they
+**act with urgency**, and that you can gauge how successful someone will be by "the gap
+between thoughts and action." Personal **potency** = minimizing the time between thinking,
+deciding, and doing (the theoretical maximum is a god figure for whom thought and reality
+are identical; humans only approximate it). Once no more information can be collected, you
+should decide — and **decision *is* elimination**: "decide" comes from Latin *decidere*,
+"to cut off," so ask what you are cutting off by choosing. His tactical hack is
+**deadline compression**: swap "end of week" for "end of day" (~7x faster pace) and "end
+of month" for "end of week" (4x); some people work 100x faster than you. He cites Leila's
+rule (from a mentor): "if it's a 5-minute task and you have 5 minutes, do it now"
+[[../../sources/2026-03-08-yt-xhTXq26dwoA]].
+
+> "You can improve your potency as a person, how powerful you are, by decreasing the gap
+> between thoughts and action."
+
+> "The word decide comes from decidere, which is Latin for to cut off. And so the question
+> is what thing are you eliminating by making the decision that you're going to make?"
+
+He grounds the urgency in a **mortality + subjective-time argument**: tomorrow isn't
+guaranteed (a healthy peer his age just died of stomach cancer); only 3 in 10,000 live to
+100; US male median lifespan is ~74, so the literal midpoint is ~37 — but because
+subjective time accelerates with age (one year is 20% of a 5-year-old's life vs. 2.5% at
+40, ~9x faster), the *felt* midpoint is closer to 21. His closing charges: nothing will be
+easy (treat FOMO as a signal to slow down — you're missing something), and "naturals"
+merely forgot the prior transferable work, so "the sooner you start, the sooner you get"
+[[../../sources/2026-03-08-yt-xhTXq26dwoA]]. *(Concentrates the recurring bias-to-action
+theme; the deadline-compression hack and mortality/time-perception argument are the fresh,
+quotable hooks.)*
+
+> "As we get older, we don't become more patient. Time just moves faster."
+
+**An unmade decision is an unhad conversation; commitment = eliminating alternatives.** In
+a March 2026 interview, Hormozi frames most stuck decisions as **unhad conversations**:
+"a lot of the decisions we make are predicated on the conversations we need to have." He
+defines **commitment as eliminating alternatives** — you can *claim* commitment, but you
+aren't committed until you remove the other options ("get out of jail free" cards) and are
+forced to act. On why unmade decisions feel so heavy: underneath the mental "hamster wheel"
+is almost always **fear of one specific person's judgment, not "society"** — so *name the
+person* ("Tom"), which makes the fear concrete and usually absurd. He grounds it in a
+personal story: at 19 he blamed his parents for everything, then realized blaming them
+*handed them control* over his life, and the disgust at his most-hated people holding that
+power flipped him into taking control [[../../sources/2026-03-12-yt-5jiAeRjEhfw]]. This
+clip independently restates the **end-of-day ≈ 7x** decision-speed hack ("what takes you a
+month to make a decision, we make in an hour") and the *decidere* framing, corroborating
+the urgency monologue above [[../../sources/2026-03-08-yt-xhTXq26dwoA]]. *(Note: the
+companion "anxiety cost" concept in this clip is introduced by the host, not Alex, and is
+not persona voice data. This name-the-blamer story also connects to his standing "power
+follows the blame finger" ownership frame above
+[[../../sources/2023-07-11-yt-mNcDKnq6-q8]].)*
+
+> "You can define commitment by eliminating alternatives. So if you are committed you've
+> eliminated alternative actions... but until you eliminate other options, you're not
+> committed."
+
+> "It's usually not even a thing that I'm afraid of. It's one person's judgment I'm afraid
+> of. And then when I name the person, then it becomes real."
+
+**Overthinking is a proxy for action — and the fear underneath is rejection.** In a March
+2026 interview, asked for the single biggest problem business owners have, Hormozi's
+diagnosis is that people "think that they're being productive by thinking more about the
+business they want to start rather than just starting it," and underneath it is **fear of
+rejection**: "people are okay with failing. They're just not okay with other people seeing
+them fail." His think-vs-act rule is **stage-dependent**: beginners should "think a lot
+less and do a lot more," and it flips as you advance (Buffett makes ~one move a year and
+spends the rest getting it right) [[../../sources/2026-03-12-yt-OMFrsK2PvkI]]. *(The
+stage-flip sharpens, and slightly qualifies, the standing bias-to-action doctrine: raw
+volume is the *early* prescription, not a universal one — the more advanced you are, the
+more the ratio inverts toward deliberation.)*
+
+> "People overthink a lot. And they use overthinking as a proxy for action, and it just
+> isn't."
+
+> "In the beginning you need to think a lot less and do a lot more. And the more advanced
+> you are, the more you need to think and less you need to do. It just flips over time."
+
+**"Action alleviates anxiety" — anxiety is an unfilled gap; close it with deliberate
+learning.** In a March 2026 monologue, Hormozi's core answer to future-anxiety is a single
+principle: **action alleviates anxiety**. He traces his early gym-era anxiety ("why haven't
+I made it yet? what if I'm on the wrong path?") to an **unfilled gap** between where he was
+and where he wanted to be, and says the only controllable move was to work — specifically
+to *work with the intention to improve*, not for work's sake. He defines learning as **"same
+condition, new behavior"** (if an identical customer walks in and your script hasn't
+changed, you didn't learn) and describes closing the gap by buying others' mistakes
+(masterminds), a data-driven top-50-vs-bottom-50 review loop, and a status trick for the
+under-28 crowd (humble yourself and ask people ahead of you to mentor you). He closes on his
+father's belief that **"you are the asset"** — the permanent hold you can't sell — and that
+**skills stack disproportionately** (two skills can be worth far more than 10x one)
+[[../../sources/2026-03-12-yt-vec7SBXeLEg]]. *(A distinct mechanism within his anxiety
+cluster: where "anxiety = too many options, no priorities" prescribes prioritizing
+[[../../sources/2026-03-30-yt-1dOAbkPE0vg]] and "anxiety → excitement, then reps"
+prescribes habituation [[../../sources/2026-04-27-yt-1judnbflO6w]], this one prescribes
+*acting on the controllable to close the gap*.)*
+
+> "Action alleviates anxiety."
+
+> "Same condition, new behavior. And so if you keep doing the exact same thing every single
+> day, then you may not be learning."
+
+> "One of the biggest gifts my father gave me is believing that I am the asset I am
+> investing in. And the cool thing is that you are the permanent hold. You can't sell you."
+
+**The overhead theory of difficulty — and a reframe that moved his physiology.** In a March
+2026 panel clip, Hormozi says what actually made a recent season hard was **not** work ethic
+or time constraints (which are baseline and which he enjoys — "me writing a book is my
+favorite thing in the entire world") but **overhead**: the non-core obligations that pile up
+around the work he loves. At every level of entrepreneurship, he says, overhead grows
+"bigger and bigger and bigger until I fix it," and life *feels* difficult only when overhead
+becomes a disproportionate share of his time [[../../sources/2026-03-08-yt-7v8vRBbpyBU]]. He
+narrates the early-2026 adversity stack (eight or nine lawsuits in ~30 days; a health scare
+where a garbled message briefly made him think Leila had cancer — she did not; a printing
+mishap that forced him to destroy ~1.5 acres of trees' worth of his forthcoming book rather
+than ship it flawed), and honestly admits he can't tell whether he "got better at gratitude
+or just solved the problem" (building a legal team). The central move is a **narrative
+reframe**: a friend told him to stop calling 2025 "a bad year" — it was "a handful of moments
+over five months," with the back seven still to win. After adopting the reframe ~May 1st, his
+**HRV rose ~15 points off a poor ~32 average with nothing else changed** (same diet, training,
+routine) — "the only thing that has changed was the decision"
+[[../../sources/2026-03-08-yt-7v8vRBbpyBU]]. *(The overhead framing is a genuinely fresh
+angle; it complements, without contradicting, "this is what hard feels like"
+[[../../sources/2023-07-11-yt-mNcDKnq6-q8]] — there difficulty is a mislabeled
+missed-expectation, here difficulty is a real but *locatable* structural problem in the work
+mix. The HRV anecdote is his cleanest single data point for the reframe-changes-physiology
+claim.)*
+
+> "The thing that's made the season hard is not actually like work ethic or even time
+> constraints... The thing is that the nature of what fills that time."
+
+> "My HRV average was about 32... and since May 1st, I'm up like 15 points on my HRV and I
+> have changed nothing... The only thing that has changed was the decision."
+
 ## Sources
 
 - [[../../sources/2026-05-17-yt-CV48Gkckbn4]] — "12 by 30" work-ethic framework;
@@ -935,3 +1068,17 @@ nothing the day it declines" [[../../sources/2026-03-25-yt-pkK7NoFRpas]].
   humility as an ego/complacency guard; "20 minutes of prep"; "only the paranoid survive."
 - [[../../sources/2026-03-15-yt-Pr-zXnkPsRU]] — quit-your-job framework: replace-income break-even
   test; double-negative productivity test; fear-as-rationalization; "a man must have a quest."
+- [[../../sources/2026-03-08-yt-xhTXq26dwoA]] — act with urgency; potency = shrinking the
+  think→decide→do gap; "decide" = *decidere* / cutting off alternatives; deadline compression
+  (end-of-week→end-of-day ≈ 7x); mortality + subjective-time-acceleration argument.
+- [[../../sources/2026-03-12-yt-5jiAeRjEhfw]] — an unmade decision is an unhad conversation;
+  commitment = eliminating alternatives; name the one person whose judgment you fear; blame hands
+  them control; end-of-day ≈ 7x decision speed.
+- [[../../sources/2026-03-12-yt-OMFrsK2PvkI]] — overthinking as a proxy for action; fear of
+  rejection underneath; think-less-do-more early, think-more-do-less advanced (stage-flip).
+- [[../../sources/2026-03-12-yt-vec7SBXeLEg]] — "action alleviates anxiety"; anxiety = an unfilled
+  gap; close it via deliberate learning ("same condition, new behavior") / mentorship / data review;
+  "you are the asset"; skills stack disproportionately.
+- [[../../sources/2026-03-08-yt-7v8vRBbpyBU]] — the overhead theory of difficulty (non-core overhead,
+  not the core work, makes a season hard); adversity stack + narrative reframe that raised HRV ~15
+  points with nothing else changed.

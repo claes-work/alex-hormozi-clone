@@ -72,6 +72,53 @@ competitors ([[../../sources/2023-12-20-yt-QGcjweehrvU]],
   advantage of the biggest businesses is how much LTV they've *stacked*, not
   cheaper acquisition ([[../../sources/2024-06-30-yt-jzKpAtzKQ54]]).
 
+### The human-in-the-loop ratio ladder — 3:1 is not one-size-fits-all (2026-03)
+
+By March 2026 Alex sharpens the flat "always want >3:1" rule of thumb into a
+**scaling ladder**: the *right* target LTV:CAC depends on **how many humans are
+in the loop** across a business's three stages — **attraction** (getting people
+in the door), **conversion** (getting them to pay), and **delivery** (fulfilling)
+([[../../sources/2026-03-08-yt-3rzBub2s_tk]]). He argues the famous SaaS 3:1 is
+"true under specific conditions which only apply to like 5% of businesses,"
+despite big-tech CEOs treating it "as though it's a rule of law."
+
+- **Score each stage 0 or 1** — 0 = automated / unlimited scale (ads or content
+  for attraction, a checkout page for conversion, software/media/physical product
+  for delivery); 1 = a human (manual outreach, a phone/in-person sales team, a
+  service). The target ratio steps up with the count of human stages:
+  - **0 humans** (pure SaaS: ads → checkout → software) → **3:1**.
+  - **1 human** → **6:1**.
+  - **2 humans** (e.g. a manual sales call plus service delivery — "many of you
+    guys") → **9:1**.
+  - **3 humans** (all stages manual) → **12:1**.
+- **Why the padding.** "As soon as you add a human to the system, you're going to
+  have lumpiness or inconsistency," and scaling means hiring people **worse than
+  your best** (a capped salesperson's next hire "won't be as good"), so you need
+  slack in the economics to absorb that cost while you scale — *"a little cushion
+  for the cushioning."* This is the money-math behind his "nail it then scale it"
+  mantra: owners overexpand "because their ego is tied to the number rather than
+  looking at the fundamental economics."
+- **12:1 is the scaling *minimum*, not a ceiling.** *"You see 12-to-1, people
+  [think] that's crazy. I'm like, this is the minimum."* A 6:1 business comfortably
+  makes "a million bucks, a couple million a year," but the biggest companies run
+  "absurd" LTV:CAC.
+- **Two long-term winning strategies** to reach extraordinary ratios — one side
+  must approach an extreme: **drive CAC → 0** (massive brand or a viral product;
+  Facebook gets billions of users for ≈$0 and makes a couple hundred each) or
+  **drive LTV → ∞** (Salesforce enterprise accounts at $1M–$5M/yr, costly to
+  acquire). *"One of these has to approach zero or infinity. That's the game."*
+- **Datapoint (self-reported).** First-year Gym Launch ran **100:1** — "spent a
+  hundred grand and made 10 million" — and most of the money he's made came in
+  four "windows of opportunity," each above 30:1, which is why he keeps tweaking
+  the money model ([[../../sources/2026-03-08-yt-3rzBub2s_tk]]). Consistent with
+  the 100× Gym Launch figure already noted under
+  [[#client-financed-acquisition--the-three-levels--30-day-cash-2025]].
+
+> **Refinement, not contradiction.** The earlier ">3:1, 5:1 is great" rule of
+> thumb still holds for the automated end of the ladder; the 2026-03 novelty is
+> keying the target to human-stage count (3/6/9/12:1) and reframing 12:1 as a
+> scaling floor.
+
 ### The two levers
 
 Only two ways to move the ratio: **raise LTGP** or **lower CAC**

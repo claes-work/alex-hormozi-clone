@@ -222,6 +222,41 @@ field" by out-serving customers. The durable moat is not legal enforcement alone
 being the operator customers choose even after seeing cheaper/copycat alternatives
 [[../../sources/2021-10-29-yt-cGup9yYrOoc]].
 
+## 2026 proof-as-moat — "copycats can copy everything but your proof"
+
+In [[../../sources/2026-03-11-yt-nzNTKY_3I_E|How to Think About Competitors Who Copy You]]
+(2026-03-11) Hormozi sharpens the 2021 anti-copycat thesis into an explicit **copyable-vs-uncopyable
+enumeration**, tightening the brand moat (#6) into a proof/track-record moat. As of March 2026 his
+argument is that a competitor can duplicate every *surface artifact* but not what you have actually
+done:
+
+> "They cannot copy your proof… people can copy your promises. They can copy your services. They can
+> copy your logo. They can copy your name, but they can't copy what you've done." — Alex Hormozi
+> ([[../../sources/2026-03-11-yt-nzNTKY_3I_E]])
+
+- **Trust is the scarce, uncopyable moat.** As of March 2026 he argues that when anyone can say
+  anything and get instant reach, **trust is the rare commodity**, so a durable brand must index hard
+  on trust — earned only by having done what you say: *"In a world where anyone can say anything and
+  get instant reach, trust is the thing that is the scarcity. That is the rare commodity."* This
+  reframes moat #6 (brand/loyalty) as fundamentally a *proof* moat: the promises/logo/name are the
+  copyable trappings, the track record is the defensible core. He orders it as **credibility before
+  likeability** — the business titans (Elon, Bezos, Altman, Jensen Huang, Jobs, Gates, Buffett)
+  "built their credibility before they built their likeability"; the common error is putting the cart
+  before the horse and wanting "to eat the pudding before they have the proof," when "the proof comes
+  before the pudding." (MrBeast is his content example: the videos worked *as proof* — doing what
+  no one else would — not as claims of expertise.)
+- **"Model the rise, not the plateau."** As of March 2026 he attaches an imitation-failure model:
+  people copy what successful operators do *after* they get rich (the plateau) instead of what they
+  did to get there (the rise), because they "model what they see, not what occurred" — *"you don't
+  get rich by flying on private jets. You get rich, then you can fly on private jets."* The moat
+  implication: proof is accumulated on the rise, so imitators who copy the plateau never build the
+  track record that constitutes the moat.
+
+This is the current (2026) articulation of the [[../../sources/2021-10-29-yt-cGup9yYrOoc|2021]]
+"beat them in the field / out-serve customers" precursor above — same conclusion (the moat is being
+the operator customers choose after seeing copies), now expressed as *proof/trust is the one thing a
+copycat cannot replicate*.
+
 ## See also
 
 - [[business]] — business domain hub
@@ -229,4 +264,4 @@ being the operator customers choose even after seeing cheaper/copycat alternativ
   value; acquisitions/roll-ups (#11)
 - [[../marketing/marketing]] — branding (#6) and distribution (#8, #13) as marketing
   disciplines
-- Sources: [[../../sources/2021-10-29-yt-cGup9yYrOoc]], [[../../sources/2024-07-12-yt-Lc8DNduiwKA]]
+- Sources: [[../../sources/2021-10-29-yt-cGup9yYrOoc]], [[../../sources/2024-07-12-yt-Lc8DNduiwKA]], [[../../sources/2026-03-11-yt-nzNTKY_3I_E]]

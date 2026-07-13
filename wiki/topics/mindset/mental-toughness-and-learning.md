@@ -392,6 +392,105 @@ your lifestyle as the business succeeds, the more resilient you are** ("making y
 ([[../../sources/2026-03-22-yt-D_E4Be4Or_E]]). He notes his real struggle is nihilism
 ("why bother"), not unhappiness — usefulness is what supplies the meaning.
 
+### March 2026: expertise = the number of ways you can mark progress ("prediction is control")
+
+Two March 2026 cuts sharpen what mastery *is* as a measurement problem, extending the
+"if you don't track, you don't care" rule above. Alex claims **"masters have more ways to
+win"**: expertise equals the number of ways you can measure or mark progress, so a master
+banks many small wins across a long project while a beginner "only sees the output" and
+feels nothing is happening ([[../../sources/2026-03-12-yt-xvxXfLAsGoE]]). The training
+lever follows directly — *increase the number of ways you can measure progress* on the
+thing you're learning.
+
+> "The thing that separates masters from beginners is that masters have more ways to win...
+> When you're a beginner, you only see the output and all you see is I'm doing stuff and
+> nothing is happening." — [[../../sources/2026-03-12-yt-xvxXfLAsGoE]]
+
+He pairs this with **"prediction is control"**: if you understand all the variables driving
+a behavior or outcome you can predict it, and predicting it is effectively controlling it —
+so mastery over time is "understanding how to influence each of the variables that increase
+the likelihood that the desired outcome happens." Apparent fortune-telling is just having
+identified more predictive variables than others ([[../../sources/2026-03-08-yt-szjSGPDKnug]]).
+The method for finding those variables is **observation of the recorded outlier**: any skill
+reaches you through two lossy filters (the expert's ability to communicate it, your ability
+to comprehend it), and since top performers often "aren't even conscious of what they do,"
+watching an above-average outcome and asking "what was different, and how do I repeat it?"
+teaches more than interrogating them. *(Observe-what-they-DO already appears in the learning
+method above; what is new here is the expertise = ways-to-measure-progress model and the
+prediction-is-control / influence-the-variables definition of mastery.)*
+
+> "Mastery over time is just understanding how to influence each of the variables that
+> increase the likelihood that the desired outcome happens." · "Observing what they do
+> oftentimes has taught me significantly more than asking."
+> — [[../../sources/2026-03-08-yt-szjSGPDKnug]]
+
+### March 2026: the good-to-great effort curve
+
+A March 2026 product-quality cut supplies a craft-mastery corollary: **the gap from good to
+great is far wider than people think and it compounds ~10x per half-point of quality** — an
+8→9 costs 10x the work, 9→9.5 another 10x, 9.5→9.75 another 10x
+([[../../sources/2026-03-08-yt-U3bf_x04swY]]). That "work" is measured specifically in
+**unbroken, focused time on one task** (his younger self lacked the "no muscle" to protect
+it). His heuristic: **~1,000 hours makes something pretty good**, whereas most people spend
+~100 hours or less. Product depth comes from **exposure count** — looking at the same thing
+across many emotional/physical states (cold, hot, angry, sad, inspired, bored) reveals the
+"crispy details" that separate mediocre from excellent.
+
+> "The difference between an eight and a nine is 10 times the work... nine and nine and a
+> half is 10 times the work... nine and a half and 9.75 is another 10 times the work." · "If
+> you put a thousand hours into something it'll probably be pretty good."
+> — [[../../sources/2026-03-08-yt-U3bf_x04swY]]
+
+> ⚠️ Apparent tension (same domain, different metric): the
+> [[#march-2026-reality-glasses-and-100-hours-with-feedback|"100 hours *with feedback*"]] cut
+> argues raw hours are the wrong differentiator (feedback is), while this cut cites ~1,000
+> unbroken focused hours as the price of "pretty good." They are not strictly contradictory —
+> 100-with-feedback targets a *granular understanding of greatness* and 1,000-hours targets a
+> *finished great product*, and both reject undifferentiated raw time — but the two hour
+> figures should be quoted with their context, not conflated.
+
+### March 2026: the two ways to learn — declarative vs. procedural
+
+Two March 2026 cuts add a **taxonomy of learning** underneath the "same condition, new
+behavior" definition. Alex splits learning into **declarative knowledge** ("knowledge of
+existence" — learning *that* a thing exists) and **procedural knowledge** ("knowing *how* to
+do it"), and declarative is a prerequisite for procedural: you can't learn to do something
+you don't know exists ([[../../sources/2026-03-12-yt--ScQMd1PX3U]]). He calls learning
+"paying down ignorance" and says high-level rooms mostly sell *declarative* knowledge — the
+"unknown unknowns" you get from people making 10–100x more — which is why those rooms produce
+the biggest breakthroughs.
+
+> "One is called declarative knowledge, knowledge of existence. The other is called
+> procedural knowledge, which is knowing how to do it." · "It's the unknown unknowns... when
+> you get into those rooms with someone making 10 or 100 times more than you."
+> — [[../../sources/2026-03-12-yt--ScQMd1PX3U]]
+
+For *procedural* mastery he names the **document → demonstrate → duplicate** protocol: have
+the expert document their process as if they were you, demonstrate it click-by-click while
+explaining each step, then you duplicate it in front of them until you do it right repeatedly
+with no correction — "that's when I had mastered the skill" (self-reported: eight ~1-hour
+sessions at $7.50/hr to learn national-scale Facebook ads for Gym Launch)
+([[../../sources/2026-03-12-yt--ScQMd1PX3U]]).
+
+> "Document, demonstrate, duplicate... once I did it right multiple times in a row and I
+> didn't need him to correct me while I was doing it, that's when I had mastered the skill."
+> — [[../../sources/2026-03-12-yt--ScQMd1PX3U]]
+
+Where document-demonstrate-duplicate harvests *one* expert, a companion interview cut gives
+his **expert-snowball / referral-saturation** method for mapping a whole field fast — the
+"consultant's perspective" he learned doing classified defense work at 22: get the sponsor to
+name the ~5 smartest people on a problem, interview them, ask each for *their* 5 smartest
+people, and snowball until the same names keep recurring — at which point you've "mapped the
+neural network of expertise." Then consolidate the notes into buckets, re-code, distill, and
+produce a deck ([[../../sources/2026-03-12-yt-2mlQd6KTY1E]]). This is a distinct lever from
+his usual reps-based acquisition (volume × feedback): it *harvests existing expertise* before
+acting rather than doing the reps yourself.
+
+> "You interview all of them and then you say who do you know — five people who are the
+> smartest... you do that over and over... till eventually the same names keep popping up...
+> you kind of like mapped the neural network of expertise."
+> — [[../../sources/2026-03-12-yt-2mlQd6KTY1E]]
+
 ## Skill compounding & luck surface area
 
 Source: [[../../sources/2026-03-17-yt-GNuNSi_6spM]] (March 2026 interview clip).
@@ -506,6 +605,40 @@ He reconciles this with his **"direction over speed"** rule by splitting on the 
 "make sure that my inputs are tied as closely as humanly possible to the outcome," then "put your
 blinders on and start digging" ([[../../sources/2026-03-19-yt-3UZ-0Er9Cns]]). Self-reported: "I
 work harder now than I did when I was poor… because I've learned to enjoy it."
+
+### March 2026: finite vs. infinite games — "don't give up = win by default"
+
+A March 2026 solo cut frames every pursuit as a **finite game** (known players, agreed rules,
+a defined win/loss, then it ends) or an **infinite game** (known *and* unknown players, no
+agreed rules, the point being to keep the game going) ([[../../sources/2026-03-12-yt-NXmprOofERg]]).
+The greatest games — marriage, health, business — are all infinite: you don't win at marriage,
+you *stay* married; you don't win at business, you *stay* in business. The consequence is a
+redefinition of winning that dovetails with the "hard work is the goal" and self-respect frames
+above: **"by default, if you don't give up, you win."** Define winning as leaving everything on
+the field and the external win happens on its own — and if you fully commit to that perspective,
+the external win won't even mean much (he attributes post-championship depression among gold
+medalists to "playing the wrong game," measuring self-worth on the outcome instead of the play).
+
+> "In an infinite frame, you have known and unknown players, no agreed upon rules, and the point
+> of the game is to keep the game going." · "By default, if you don't give up, you win."
+> — [[../../sources/2026-03-12-yt-NXmprOofERg]]
+
+The practical levers: declare yourself **game master, not player** (make your own rules for
+winning rather than accept the world's), and **generalize what you commit to as broadly as
+possible** so it's easy to stick with — don't commit to "making calls" while hating CRM entry;
+chunk up to "I prefer to do hard work because of what it does to me," so every hard task feeds
+the person you want to become. Since **character is the only asset you keep**, make character the
+daily W — "did I or did I not contribute to the character of the person I want to become?" — and
+you can never lose.
+
+> "I'm game master, not a player... as long as I am playing, I win by default." · "The only asset
+> that you really get to keep with you is your character... if you make the character the W, you
+> can never lose." — [[../../sources/2026-03-12-yt-NXmprOofERg]]
+
+> ⚠️ Attribution note: the Kobe Bryant sentiment ("just loves playing to the best of his ability")
+> is Alex's explicit paraphrase, and "what looks like work to other people should feel like play
+> for you" is Naval Ravikant's — attribute to them, not Alex. See
+> [[../../sources/2026-03-12-yt-NXmprOofERg]].
 
 ## Through-line
 
