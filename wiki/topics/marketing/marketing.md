@@ -21,6 +21,9 @@ Content marketing, ads, branding, audience building.
   Minute").
 - [[paid-ads|Paid Ads]] — his paid-ads playbook: creative scaling (80% reskin proven winners, 3-second
   hook splicing), the 70/20/10 budget split, Meta lookalikes, ROAS-gated scaling.
+- [[proof|Proof]] — proof as the real differentiator ("your promise is not a differentiator, your
+  proof is"): the Belief Continuum and the 13 proof-compelling dimensions (from the
+  [[../../sources/2025-100m-proof-checklist-playbook|$100M Proof Checklist Playbook]], 2025).
 
 ## Notes
 

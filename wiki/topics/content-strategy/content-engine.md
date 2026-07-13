@@ -3,9 +3,9 @@ type: topic
 domain: content-strategy
 domains: [content-strategy, marketing]
 created: 2026-07-08
-updated: 2026-07-09
-sources: 20
-tags: [content, media-playbook, volume, hooks, repurposing, personal-brand, give-first]
+updated: 2026-07-13
+sources: 23
+tags: [content, media-playbook, volume, hooks, repurposing, personal-brand, give-first, marketing-machine]
 ---
 
 # The Hormozi Content Engine
@@ -560,6 +560,84 @@ document and co-create in parallel, then downgrade to consulting as insurance an
 agency once in-house output matches or beats the agency. The enterprise-value logic: the
 in-house team has more brand context; the missing asset is expertise, so buy it, absorb it,
 and own it [[../../sources/2026-06-28-yt-GvKI8Vs4TK0]].
+
+---
+
+## Hook-first production: build the hook dataset first (2025)
+
+The 2021 "three wheels" method (Section 7) manufactures hooks *out of* data; the 2025
+*$100M Hooks Playbook* inverts the whole production order *around* them
+([[../../sources/2025-100m-hooks-playbook]]). Thesis: the hook — whatever a person sees or
+hears first — is the single highest-leverage element, because "if nobody notices your ad,
+then nobody buys your stuff." Of ten hours to advertise, spend the first eight on hooks.
+
+- **The hook dictates the content, not the other way around.** Build a large hook dataset
+  first and you never run out of content ideas: "since the hook dictates the content, and
+  not the other way around, you no longer need to worry about what content to make."
+- **70-20-10 hook allocation** (Google's innovation rule applied to hooks): 70% proven/core
+  hooks, 20% "winner-adjacent" concepts modeled from other niches, 10% brand-new risky
+  experiments.
+- **Record-count by format:** ~10 hooks per 1 ad; reuse every winning tweet as a short then
+  expand the hook; record 3–4 hooks per long-form for the team to pick in post; split-test
+  every email campaign and document winners.
+- **"Let the data do the teaching."** "No matter how bad your content is, some of it will be
+  in the top 10%... Make more like that. Look at the bottom 10%. Make less like that. Repeat
+  until the end of time." *(The top-10%/bottom-10% iteration is the same data-teaches loop
+  underneath the write-first engine in Section 4 — here formalized as a checklist protocol.)*
+- Hooks have two parts — a **call out** ("this is for me") and a **condition for value** (the
+  promise) — and should be "specific enough to get the right people and broad enough to get
+  as many of them as you can."
+
+---
+
+## The Marketing Machine: harvest customer proof into endless ads (2025)
+
+His system for taking his own face *out* of the ads. The 2025 *$100M Marketing Machine*
+teaches a checklist of "nodes," each a reliable stream of customer-generated videos, images,
+and words usable across paid ads, content, outreach, webinars, and VSLs
+([[../../sources/2025-100m-marketing-machine]]). Origin: 2019 bankers called Gym Launch
+"unsellable" because acquisition depended on Alex's face; building the machine removed that
+dependence and the business sold (~$46.2M). Self-reported proof of the thesis: **40 of the
+top 50 Gym Launch ads had no Alex face in them — they were customers**, and member-made ads
+outperformed his best direct-to-camera ones.
+
+- **~Seven nodes:** Lifecycle (before/during/after clipped from recorded sales, support, and
+  ascension calls); Social Media scrape; In-Person Events; Communication, Communities &
+  Review-site scrape; Bonuses, Milestones & Awards; Competition; Delivery.
+- **"The bottom of the list feeds the top of the list."** The proof-capture nodes at the
+  bottom continuously refill the ad supply at the top — a self-refreshing creative pipeline
+  built from work the business already does.
+- **6-point testimonial script** (professional event testimonials): internal struggle,
+  external struggle, skepticism, overcame, external victory, internal victory.
+- **Testimonial competition judged by ad performance:** a raw "iPhone-style" testimonial
+  contest where the entry driving the most conversions over 30 days wins; run only once or
+  twice a year. Incentives are baked in ($50 per off-list testimonial captured; a weekly
+  $100 gift card to any rep whose screenshot becomes a winning ad).
+- **"Put the customer in the spotlight, not you."** A face-dependent business is a riskier,
+  less valuable business; "we've never made less by giving more."
+
+*(This is the customer-side counterpart to his own owned-content volume engine: instead of
+manufacturing his own content, he manufactures an endless ad supply out of customer proof.)*
+
+---
+
+## Hook–Retain–Reward and the give:ask ratio ($100M Leads, 2023)
+
+*$100M Leads* codifies "Post Free Content" — one of his Core Four advertising methods — into
+a reusable content-unit grammar ([[../../sources/2023-100m-leads]]).
+
+- **Hook–Retain–Reward.** The smallest unit of audience-growing content **hooks** attention,
+  **retains** it, and **rewards** it; longer content just links these units together ("there
+  is no such thing as too long, only too boring"). The audience — not the content — is the
+  compounding asset.
+- **Seven news-headline components** for the hook: Recency, Relevancy, Celebrity, Proximity,
+  Conflict, Unusual, Ongoing — paired with five topic buckets (Far Past, Recent Past,
+  Present, Trending, Manufactured).
+- **The give:ask ratio (quantified).** TV runs ~3.5:1 give-to-ask, Facebook ~4:1; growing
+  platforms over-give massively, so to grow you should too. His refinement — **"give until
+  they ask"** — over-give in public, let leads self-select and ask to buy in private. *(This
+  puts numbers on the delay-the-ask / give-give-give mechanic already in Section 5 and
+  [[branding]].)*
 
 ---
 

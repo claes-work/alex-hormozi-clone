@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-13
-sources: 153
+sources: 159
 ---
 
 # Beliefs
@@ -283,6 +283,36 @@ sources, 2020–2026).
   chain's target line went ~$20K → $250K/mo, average revenue per customer $200 → $800.)
   [[../wiki/sources/2024-05-18-yt-1UhvBSQFy6A]]
 
+- **"Fast Cash": 10x the 10%; "revenue is vanity, profit is sanity, cash is reality"**
+  (2025) — every owner should keep a few ways to "rip cash out of a business" fast in
+  their back pocket, because **"revenue is vanity, profit is sanity, cash is reality — as
+  long as you've got cash, you're still in business."** The mechanic is a limited-time,
+  ultra-premium, deliberately *unscalable* offer sold to the warmest audiences (existing
+  and past customers, engaged leads) over a ~seven-day, scarcity-driven promotion. Pricing
+  rule: **"take your average cart value and add a zero"** (10x, up to 50x), because the
+  price itself selects for buyers with purchasing power. **"10x the 10%"** — if 10% of your
+  customers pay 10x the price you double revenue, and since acquisition is already paid for
+  it "drops straight to the bottom line" (in his early days cash plays were only ~15% of
+  revenue but "nearly half my profit"). Run one every ~90 days. "Any fool can do less and
+  charge less; we're trying to do more so we can charge more."
+  [[../wiki/sources/2025-100m-fast-cash-playbook|Fast Cash playbook]] (A warm-base
+  cash-extraction tactic; complements — but is not the same as — the permanent tiered price
+  ladder above.)
+- **"The money is in the maybes"; closing returns the power to decide** (2025) —
+  advertising splits an audience into three buckets: qualified **YESes**, unqualified
+  **NOs**, and on-the-fence **MAYBEs** — and **"the money is in the maybes,"** because most
+  interested people land there. People on the fence lack the *power* to decide, so they
+  avoid deciding and disguise avoidance as objections; **the closer's job is to hand the
+  prospect enough power to make a real decision either way, not to extract a yes** ("you win
+  either way" — a genuine no spares you a costly unqualified customer). All objections reduce
+  to the **onion of blame** (circumstances → other people → self). Two guardrails: **"the
+  difference between help and manipulation is intention,"** and **be "kind, not nice"** —
+  "nice guys don't want to offend; kind people want to genuinely help the person improve
+  their lives." **"Volume negates luck."**
+  [[../wiki/sources/2025-100m-closing-playbook|Closing playbook]] (Develops the 2023
+  "onion of blame" logical-closing model above into a full named-close system; restates
+  "selling is a transference of belief over a bridge of trust.")
+
 ## Frameworks — Scaling & enterprise value (2021–2026)
 
 Synthesized from [[../wiki/topics/business/scaling-and-enterprise-value|scaling-and-enterprise-value]]
@@ -510,6 +540,15 @@ video sources).
   number of reviews... and our growth skyrocketed"). (Self-reported case-study figures and
   averages.) [[../wiki/sources/2023-03-15-yt-vZfatNSouDQ]], [[../wiki/sources/2023-01-11-yt-xZ8d9g6BcKM]]
 
+- **"Open To Goal" beats the Rule of 100** (2023) — the elite refinement of the Rule of
+  100: instead of committing to a fixed *number of actions*, commit to an *outcome* and
+  work until you hit it — **"sign 5 members no matter what,"** not "make 100 calls."
+  Volume is almost always the missing ingredient (he once ran 300 flyers when the real
+  test size was 5,000/day — "1/1500th the level of effort required"). "Advertising is the
+  only casino where, with enough skill, you become the house."
+  [[../wiki/sources/2023-100m-leads|$100M Leads]] (Sharpens the "Core Four + Rule of 100"
+  entry above; from the *$100M Leads* "Get Started" section.)
+
 ## Frameworks — Content & branding (2021–2026)
 
 Synthesized from [[../wiki/topics/content-strategy/content-engine|content-engine]] and
@@ -580,6 +619,52 @@ Synthesized from [[../wiki/topics/content-strategy/content-engine|content-engine
   wealth entries below; the belief-shift catalyst — younger creators like Kylie Jenner
   out-earning him — also anchors the anti-brand → brand flip in Opinions over time.
   Self-reported figures.) [[../wiki/sources/2022-10-09-yt-6DCDGSnRDtM]]
+
+- **Proof beats promise — "claim your proof," don't prove your claim** (2025) — **"your
+  promise is not a differentiator; your proof is."** Everyone can make the same claim, but
+  "anyone can copy an advertising claim — no one can produce the exact same results to
+  prove it," so in a crowded market proof (not the offer or "unique mechanism") is what
+  cuts through, and it is the up-and-comer's biggest weapon. Belief runs on a **continuum**
+  from 100% doubt to 100% certainty, and each unit of proof moves a prospect toward
+  certainty. So **"instead of trying to prove your claim, claim your proof"** — collect the
+  data first, make only claims it already supports, and "if your proof isn't compelling,
+  **fix reality**" (do free work, improve the product) rather than escalate the claim war.
+  Proof compounds across the whole funnel (click → close → retain) and is one asset "you
+  can never have too much of"; "no one cares what you think about your product — you are
+  the most biased person in existence."
+  [[../wiki/sources/2025-100m-proof-checklist-playbook|Proof Checklist playbook]]
+  (Reinforces the sales "belief is a matter of degree, not a binary" and the 2026 "capture,
+  don't create — proof is the moat" entries.)
+- **Hook-first: "the hook dictates the content, not the other way around"** (2025) — the
+  hook (whatever a person sees or hears first) is the single highest-leverage element of any
+  ad or post, "because if nobody notices your ad, then nobody buys your stuff — nothing else
+  matters." So spend the majority of prep on it: **"if you have ten hours to advertise,
+  focus your first eight hours on the hooks"** (an ~**80% hooks / 20% "meat" / ~0% CTA**
+  prep split — "ads are made in research, not in recording"). Because **"the hook dictates
+  the content, not the other way around,"** building a big hook dataset first means you never
+  run out of things to make. Generate hooks on **Google's 70-20-10 rule** (70% proven, 20%
+  winner-adjacent from other niches, 10% brand-new bets), then **"let the data do the
+  teaching"** — "no matter how bad your content, some will be top 10%; make more like that,
+  less like the bottom 10%, repeat until the end of time." Scale ads by *assembling* rather
+  than creating them (50 hooks × 3–5 formats = hundreds/week); a stalled ad account is an
+  **ad-quality wall, not a saturated market** ("you haven't saturated Facebook — you've hit
+  a wall with your ad quality"). [[../wiki/sources/2025-100m-hooks-playbook|Hooks playbook]],
+  [[../wiki/sources/2025-100m-goated-ads-playbook|GOATed Ads playbook]] (Extends the 2022
+  "attention is the new oil" thesis into ad mechanics; the ad-quality-wall claim reinforces
+  the 2025 "my market is saturated is almost always an excuse" entry above.)
+- **Put the customer in the spotlight, not the founder; "we've never made less by giving
+  more"** (2025) — a business whose acquisition depends on the founder's face is riskier and
+  harder to sell (bankers called Gym Launch "unsellable" for exactly this), so build a
+  **"Marketing Machine"**: a checklist of "nodes" that systematically *captures* customer
+  proof from work you already do and turns it into a self-refreshing supply of ads —
+  **"the bottom of the list feeds the top of the list."** Reviewing thousands of Gym Launch
+  ads years later, **40 of the top 50 didn't have his face in them** — they were customers
+  ("they are the star of the story, so put them in the spotlight, not you"), and removing
+  founder-dependence is credited with the $46.2M exit. Governing line (from Leila): **"we've
+  never made less by giving more"** — "you won't make less money by capturing more proof
+  that you're good." [[../wiki/sources/2025-100m-marketing-machine|Marketing Machine playbook]]
+  (Operationalizes the "capture, don't create" proof thesis; reinforces the enterprise-value
+  rule that founder-dependence is a valuation discount.)
 
 ## Frameworks — Mindset & discipline (2021–2026)
 

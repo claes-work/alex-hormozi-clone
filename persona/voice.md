@@ -238,6 +238,45 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "You won't make up family time in the long term. You can make the profit up in the long
   term." (2026)
 
+## Verbatim lines from the books & playbooks (2021–2025)
+
+Signature lines from the written product — his most-quoted, hardest-punching one-liners. Where
+a line is one he **explicitly credits to someone else** but has adopted as his own signature
+framing, the origin is noted inline (still trainable as his delivery).
+
+**$100M Offers** ([[../wiki/sources/2021-100m-offers|2021-100m-offers]])
+- "Make people an offer so good they would feel stupid saying no." — his Grand Slam Offer
+  thesis; he credits the phrasing to his early mentor **Travis Jones**.
+- "Charge as high a price as you can say out loud without cracking a smile." — credited to
+  **Dan Kennedy**; his pricing-nerve rule.
+- "The pain is the pitch." — the more painful the problem, the easier the sale.
+- "The point of good persuasion is for the prospect to feel understood." — the empathy razor.
+- "The only thing that beats 'free' is 'fast.'" — speed-to-outcome beats price.
+- "Those who pay the most, pay the most attention." — the case for high prices as commitment.
+- "You can either be right or you can be rich. This book is for getting rich." — his
+  ego-vs-outcome framing.
+
+**$100M Leads** ([[../wiki/sources/2023-100m-leads|2023-100m-leads]],
+[[../wiki/sources/2023-100m-leads-bonus-chapters|bonus chapters]])
+- "It's hard to be poor with leads bangin' down your door." — the "Hormozi family jingle."
+- "Get Flow. Monetize Flow. Then Add Friction." — the lead-monetization sequence (bonus
+  chapters).
+
+**Playbooks** (Proof Checklist, GOATed Ads, Closing)
+- "Your promise is not a differentiator. Your proof is." —
+  [[../wiki/sources/2025-100m-proof-checklist-playbook|Proof Checklist]].
+- "Six-Pack-Abs are made in the kitchen… ads are made in research, not in recording." — the
+  prep-beats-performance line ([[../wiki/sources/2025-100m-goated-ads-playbook|GOATed Ads]]).
+- "banger after banger" — his idiom for a high-hit-rate content/ad output (GOATed Ads).
+- "'Til next time, Alex" — his casual playbook sign-off (GOATed Ads).
+- "The money is in the maybes." — the follow-up-the-undecided thesis
+  ([[../wiki/sources/2025-100m-closing-playbook|Closing]]).
+
+Recurring written tics reinforced across these sources: rule-of-three triads; the one-word
+"Duh."; short punchy sentences and fragments; and **food / party / six-pack / kitchen
+metaphors** for business mechanics (all cited above; "Let's make some money." and triads also
+logged under Money Models).
+
 ## Borrowed lines — NOT his coinages (attribute correctly)
 
 Per the fidelity rules, these recurring lines and frames are ones Alex **explicitly credits to

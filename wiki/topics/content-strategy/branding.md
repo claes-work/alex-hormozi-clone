@@ -3,8 +3,8 @@ type: topic
 domain: content-strategy
 domains: [content-strategy, marketing, business]
 created: 2026-07-08
-updated: 2026-07-09
-sources: 10
+updated: 2026-07-13
+sources: 11
 tags: [branding, associations, positioning, direct-response, give-give-give, pricing-power, flywheel]
 ---
 
@@ -12,11 +12,13 @@ tags: [branding, associations, positioning, direct-response, give-give-give, pri
 
 Alex Hormozi's working definition of branding and the case for prioritizing it. His
 central, repeated claim: **a brand is not a thing — it is a set of deliberately
-cultivated associations.** This page synthesizes his three main branding sources: the
-full 2024 solo presentation ([[../../sources/2024-04-20-yt-VQM3DrnVTcs]], most complete),
-the 2024 podcast making the brand-over-direct-response case
-([[../../sources/2024-02-12-yt-z8WPl1v39P8]]), and the 5-minute definition inside a 2023
-gym-owner keynote ([[../../sources/2023-06-07-yt-LGq0uVspNms]]).
+cultivated associations.** This page synthesizes his main branding sources: the **2025
+`$100M Branding Playbook`** ([[../../sources/2025-100m-branding-playbook]], the canonical
+written treatment), the full 2024 solo presentation
+([[../../sources/2024-04-20-yt-VQM3DrnVTcs]], most complete video), the 2024 podcast making
+the brand-over-direct-response case ([[../../sources/2024-02-12-yt-z8WPl1v39P8]]), and the
+5-minute definition inside a 2023 gym-owner keynote
+([[../../sources/2023-06-07-yt-LGq0uVspNms]]).
 
 > All audience/revenue metrics on this page are **self-reported** by Alex and not
 > independently verified.
@@ -42,6 +44,18 @@ The 2023 keynote gives the plainer version ([[../../sources/2023-06-07-yt-LGq0uV
 > "A brand isn't actually a thing. It's an association we make between things that we know
 > and things that people don't know, which is usually our company."
 
+**2025 playbook refinement — the good/bad/no-branding trichotomy.** The written definition
+strips out even the "outcome" and reduces branding to "pairing two or more things together"
+([[../../sources/2025-100m-branding-playbook]], `PDF p. 9`). Quality is decided purely by
+whether the *majority of your ideal audience* likes the pairing:
+
+- **Good branding** — pair your business with something the majority of the ideal audience
+  *likes*.
+- **Bad branding** — pair it with something they *dislike*.
+- **No branding** — no deliberate pairing at all, leaving you "practically invisible."
+
+> "Branding means pairing two or more things together." — [[../../sources/2025-100m-branding-playbook]]
+
 **Historical origin:** literal cattle branding — a seared symbol that "had a magical
 effect," changing human behavior toward the animal. He ties this to his definition of
 learning: "Learning means same condition, new behavior."
@@ -50,6 +64,12 @@ learning: "Learning means same condition, new behavior."
 
 > "Advertising is letting people know about your stuff. Branding is the pairing that
 > occurs as a result." — [[../../sources/2024-04-20-yt-VQM3DrnVTcs]]
+
+The 2025 playbook sharpens the split into a memorable couplet — advertising is the *act* of
+telling (measured by reach), branding is the *content* of what you tell:
+
+> "Advertising is letting people know about your stuff. Branding is what you let them know
+> in the advertisement." — [[../../sources/2025-100m-branding-playbook]] (`PDF p. 10`)
 
 Illustrated by **Bud Light / Dylan Mulvaney**: "good advertising but bad branding" for its
 conservative-male base — lots of reach, but a pairing many core customers disliked, which
@@ -61,7 +81,10 @@ is good or bad is **objectively measurable** for a business: does it net more mo
 ## 2. The bouquet model
 
 His central analogy for *how* a brand is assembled
-([[../../sources/2024-04-20-yt-VQM3DrnVTcs]], [[../../sources/2023-06-07-yt-LGq0uVspNms]]):
+([[../../sources/2025-100m-branding-playbook]], `PDF p. 28`;
+[[../../sources/2024-04-20-yt-VQM3DrnVTcs]], [[../../sources/2023-06-07-yt-LGq0uVspNms]]):
+
+> "I think about branding like assembling a bouquet of flowers." — [[../../sources/2025-100m-branding-playbook]]
 
 Individual products, values, experiences, and people are like **scattered flowers**; the
 brand is the deliberate bouquet you assemble by associating them. You cultivate a brand
@@ -74,6 +97,10 @@ the way you tend a bouquet — **add the good flowers and pull the weeds**:
 - **Scope control:** narrow the brand by talking about one topic; broaden it by moving to
   tangential topics. (This is the positioning lever that connects branding to the content
   engine — see [[content-engine]] §3, "niche down then broaden.")
+- **Five expansion directions** ([[../../sources/2025-100m-branding-playbook]], `PDF p. 28`):
+  a brand pivots in exactly five ways — **up market, down market, adjacent, broader, or
+  narrower** — and each one only works if you re-associate the brand with what the *new*
+  avatar likes (you cannot carry the old bouquet into a new room unchanged).
 - **Distant/random pairings hurt** because the associations are hard for the audience to
   make. "Most people's brands happen by accident... good branding happens on purpose."
 - **One "off" flower ruins the bouquet.** A single wilted flower — a bad experience or bad
@@ -101,6 +128,21 @@ Every brand can be measured on three axes ([[../../sources/2024-04-20-yt-VQM3Drn
 > someone's behavior... second is direction, are they changing the way we wanted or are
 > they running away, and third, how many people it changes for."
 
+**2025 playbook — the eight brand positions.** The playbook formalizes the same triad
+(`reach × influence × direction`) into a position map: brand proper is two variables —
+**influence** (chance it changes behavior) and **direction** (toward or away) — with
+**reach** supplied by advertising. Treated as high/low on each axis, they yield **eight
+distinct brand positions one person can occupy**, and the position *changes per audience*:
+the same person can be a strong-positive brand to one crowd and a strong-negative brand to
+another ([[../../sources/2025-100m-branding-playbook]], `PDF p. 12`–`p. 13`).
+
+**"Any publicity" reframed.** The playbook rejects "there's no such thing as bad publicity"
+and replaces it with a ladder: **"Good beats bad. Bad beats none. Lots of good beats
+everything."** Any publicity beats invisibility, but good pairings still dominate bad ones,
+and *volume* of good pairings dominates all ([[../../sources/2025-100m-branding-playbook]],
+`PDF p. 15`; illustrated by the **Kendall Jenner × Pepsi** ad — good advertising, bad
+branding, `PDF p. 14`–`p. 16`).
+
 **You don't have to be polar to be strong.** Trump is a polar brand (strong toward + strong
 away); Taylor Swift, Mother Teresa, and Apple are large-*positive* brands. You do not have
 to court controversy: "You don't have to make that trade. You can absolutely just build a
@@ -116,7 +158,14 @@ four association targets: **status, power, credibility, and likeness**. The prac
 which association the market should attach to the company, and then which other people, products,
 symbols, or experiences can transfer that association. He also ranks influence sources: what the
 brand says is weakest, what respected third parties say is stronger, and the customer's own product
-experience is strongest [[../../sources/2026-06-19-yt-ZckLXKaCekQ]].
+experience is strongest [[../../sources/2026-06-19-yt-ZckLXKaCekQ]]. This ranking is the
+**"Levels of Authority"** cycle he had already named in the 2025 playbook — **what we say**
+(content/ads/outreach) → **what other people say** (affiliates/customers) → **what they
+experience** themselves, the last carrying the most authority
+([[../../sources/2025-100m-branding-playbook]], `PDF p. 26`). The playbook adds the time-horizon
+corollary: **advertising drives brand more in the short term; the product drives it more in the
+long term**, because customers have more impactful experiences with the product than with an ad
+(`PDF p. 27`) — the same "product does the branding after purchase" claim below, dated to 2025.
 
 **Product as brand reinforcement.** In 2026 he restates the bouquet model in product terms: brand is
 the associations deliberately arranged around the company, but the product experience has to keep
@@ -134,6 +183,12 @@ A strong brand stacks financial benefits ([[../../sources/2024-04-20-yt-VQM3DrnV
   winner' to exchanging money and saying 'now I am a winner.'"
 - **Better advertising response.** Claims a Nike swoosh could get ~6x the click/buy rate vs.
   a generic tee (~0.5%).
+- **The branded-vs-unbranded profit table** ([[../../sources/2025-100m-branding-playbook]],
+  `PDF p. 20`). A worked illustration on the *same* $2,000 ad spend and *same* $500 cost of
+  goods: an unbranded thing sells at **$2,000** (~4-to-1 return); the branded version of it
+  sells at **$5,500** (~45-to-1) — roughly **4.5x the sales and ~11x the return** on identical
+  spend and COGS. Brand is the only variable changed. (The premium-pricing point restated as
+  return-on-ad-spend rather than sticker price.)
 - **Customer loyalty / repeat purchase**, plus protection from competitors.
 - **The product does most of the branding after purchase.** A premium price demands the
   product be "dialed," or you get the first purchase but not the repeats: "If I'm going to
@@ -357,6 +412,39 @@ audience compounds into product, product compounds into more audience.
 
 ---
 
+## 10. The four-step method: start, grow, then pivot (2025 playbook)
+
+The playbook's operational spine — how you actually build a brand on purpose
+([[../../sources/2025-100m-branding-playbook]], `PDF p. 22`):
+
+1. **Figure out who your ideal customer is.**
+2. **Figure out what they like.**
+3. **Associate your stuff with those things.** (Content is the primary Step-3 mechanism —
+   see [[content-engine]].)
+4. **Optimize the associations for maximum profit.** (Keep the good pairings, prune the
+   weak/negative ones — the bouquet-tending of §2, run as an optimization loop.)
+
+**Ideal-audience filter (Step 1).** Pick the crowd to build the brand around on four
+criteria ([[../../sources/2025-100m-branding-playbook]], `PDF p. 23`): they are **growing**,
+they **have enough money**, they are **easy to target**, and they are **in pain**. A brand
+aimed at an audience failing these compounds slowly or not at all.
+
+**Final step — patience.** The playbook closes on the same long-horizon theme as §9's "time"
+lever: brand out-returns direct response *only over years*, which is why few people do it.
+
+> "There is no magic here. It's teaching people what you are about. And repeating it every
+> day until the end of time." — [[../../sources/2025-100m-branding-playbook]] (`PDF p. 34`)
+
+> "Wait five years and don't give up." — [[../../sources/2025-100m-branding-playbook]] (`PDF p. 36`)
+
+**Self-reported proof of method.** Alex cites his own results as the branded outcome: a
+**10.1-million-person audience across platforms in ~4 years**, 1M+ copies of his last two
+books, and hundreds of millions in Acquisition.com deal flow
+([[../../sources/2025-100m-branding-playbook]], `PDF p. 7`). Per the page-top note, these are
+self-reported and not independently verified.
+
+---
+
 ## Borrowed / credited ideas
 
 - **"Jab, jab, jab, right hook"** — Gary Vaynerchuk ([[../../sources/2024-02-12-yt-z8WPl1v39P8]]).
@@ -377,6 +465,12 @@ audience compounds into product, product compounds into more audience.
 - "Most people's brands happen by accident... good branding happens on purpose."
 - "You don't have to make that trade. You can absolutely just build a strong positive brand."
 - "Make promises, keep promises."
+- "Branding means pairing two or more things together." (§1, 2025 playbook)
+- "Advertising is letting people know about your stuff. Branding is what you let them know in the advertisement." (§1, 2025 playbook)
+- "Good beats bad. Bad beats none. Lots of good beats everything." (§3, 2025 playbook)
+- "Those who can't brand, do direct response. Those who can't do direct response, sell. Those who can't sell, stay poor." (2025 playbook)
+- "You only get one name. Invest accordingly." (2025 playbook)
+- "There is no magic here. It's teaching people what you are about. And repeating it every day until the end of time." (§10, 2025 playbook)
 - "When you have a media company your product is your marketing." (§9)
 - "You can measure the strength of a brand based on how much of a premium you can charge on a commoditized product." (§9)
 - "One of the biggest pieces of leverage that everyone underplays... is time." (§9)

@@ -60,7 +60,14 @@ competitors ([[../../sources/2023-12-20-yt-QGcjweehrvU]],
   buys a legal/ethical "monopoly" — since ad markets are attention auctions,
   whoever can afford the highest CAC outbids every competitor for their customers
   ([[../../sources/2023-12-20-yt-QGcjweehrvU]],
-  [[../../sources/2024-06-30-yt-jzKpAtzKQ54]]).
+  [[../../sources/2024-06-30-yt-jzKpAtzKQ54]]). Canonical book source:
+  **$100M Leads** (2023, PDF p. 219–221) — every struggling company Alex invests
+  in has an LTGP:CAC below 3:1, and fixing it (usually by raising LTGP, not
+  cutting ads) is what makes it take off. He names the self-financing version of
+  this loop **Client Financed Acquisition** (CFA): when a customer pays back the
+  cost to acquire *and* fulfill them within 30 days — fundable on a credit card —
+  cash stops constraining scale, "the key to limitless scale"
+  ([[../../sources/2023-100m-leads]], PDF p. 222–225).
 - **CAC is roughly constant across a market; LTV is the variable.** The durable
   advantage of the biggest businesses is how much LTV they've *stacked*, not
   cheaper acquisition ([[../../sources/2024-06-30-yt-jzKpAtzKQ54]]).
@@ -79,6 +86,24 @@ mechanics behind each.
   Lead with the cheap high-ratio offer, ascend ~20% of buyers into the $15K back
   end (back-end CAC ≈ zero): 20% × $15K = $3,000 added → $5,000 LTV, moving the
   ratio from ~30:1 to ~75:1.
+  - **"The Crazy Eight" (LTV Playbook, 2025).** Alex later brands these eight
+    monetization levers "The Crazy Eight," subtitled *Eight Ways to Get Customers
+    to Buy More Stuff*: (1) raise price, (2) lower delivery cost, (3) upsell
+    frequency (buy again later), (4) upsell quantity (buy more now), (5) upsell
+    quality (premium version), (6) downsell quantity, (7) downsell quality,
+    (8) cross-sell a different thing. He forbids his sales team from offering a
+    *downsell* to a qualified buyer — downsells go only to prospects who don't
+    qualify for the main offer, to capture extra cash without cannibalizing it
+    ([[../../sources/2025-100m-lifetime-value-playbook]], PDF p. 10, 21–22, 2025).
+  - **The LTGP 3-step method (LTV Playbook, 2025).** ① gross profit = revenue −
+    cost to deliver (a $100 widget costing $20 = $80 GP / 80%); ② find average
+    transactions per customer, or churn for recurring; ③ multiply (transactional)
+    or divide by churn (recurring). Worked: **$80 × 4 transactions = $360 LTGP**
+    (transactional); **$2,400 ÷ 5% churn = $48,000 LTGP** (recurring)
+    ([[../../sources/2025-100m-lifetime-value-playbook]], PDF p. 7–9, 2025). This
+    is the same math as [[#gross-profit-not-revenue-churn--lifespan]] below; the
+    transactional multiply-by-purchases branch and the named 3-step framing are
+    the net-new pieces.
 - **Lower CAC:** improve efficiency down the funnel; the closest thing to a
   "silver bullet" is nailing the **offer**.
 - **Directionality trick:** build **LTV back-to-front** (start from the most
@@ -90,6 +115,15 @@ mechanics behind each.
 
 Choose the offer with the **best LTV:CAC to lead with**, then stack everything
 behind it — unless the TAM is tiny (most owners are nowhere near saturation).
+
+### Guarantee math — a stronger guarantee usually nets more (2021)
+
+From **$100M Offers** (2021): a bolder guarantee lifts conversions more than it
+lifts refunds, so it nets more sales even when refunds rise. Worked example:
+**130 sales at 10% refunds = 117 net** beats **100 sales at 5% refunds = 95 net**
+— a **1.23× lift** in retained customers ([[../../sources/2021-100m-offers]], PDF
+p. 170). The four guarantee families (Unconditional, Conditional, Anti-Guarantee,
+Implied) are offer mechanics — see [[money-model]] and [[pricing-psychology]].
 
 ---
 
@@ -191,6 +225,56 @@ everything downstream ([[../../sources/2026-03-28-yt-XpqeenUIMHI]]).
   cost" and funds the next acquisition — a self-financing growth loop and a
   tighter, front-loaded cousin of the [[#payback-period--roic]] idea
   ([[../../sources/2026-03-28-yt-XpqeenUIMHI]]).
+
+---
+
+## Client-Financed Acquisition — the three levels & 30-Day Cash (2025)
+
+The "$100M Lost Chapters" (2025) publishes the conceptual math Alex cut from
+*$100M Money Models* for being "too math-heavy": the three levers of CFA — **CAC,
+LTGP, and PPD (payback period)** — and the level model that turns them into a
+self-financing growth engine ([[../../sources/2025-100m-lost-chapters]], PDF
+p. 39–41, 63–65).
+
+- **30-Day Cash = his "most prized metric."** The gross profit extractable from a
+  new customer within their first 30 days, deliberately keyed to a credit card's
+  interest-free window. Get 30-Day Cash > CAC and you acquire "free customers
+  using other people's money." Self-reported: this metric took him "from $1,036 in
+  my bank account to $100M+ in sales" ([[../../sources/2025-100m-lost-chapters]],
+  PDF p. 56). Sharpens the earlier
+  30-day-cash rule into a named,
+  credit-financed system.
+- **The three levels of CFA** (each roughly doubles the prior threshold):
+  - **L1** — 30-day GP **< CAC**: business still needs outside cash to grow.
+  - **L2** — 30-day GP **= CAC**: the credit limit becomes the ad budget; growth
+    is self-funded but not compounding.
+  - **L3** — 30-day GP **> 2× CAC**: the business fully self-finances and can
+    roughly **double monthly**.
+- **The 1 → 4,095 compounding table.** At L3, reinvesting each customer's 30-day
+  cash into the next cohort, a single paid-for customer compounds to **4,095
+  customers in 12 months** while you pay to acquire only the first one
+  ([[../../sources/2025-100m-lost-chapters]], PDF p. 63–64). First-year Gym Launch
+  ran "$100 back in profit for every $1 spent" (100× ROAS); growth was then capped
+  by operations, not acquisition (self-reported).
+
+> ⚠️ **Refinement, not contradiction.** This is the fuller, credit-card-financed
+> version of the [[#payback-period--roic]] and 30-day-cash ideas already on this
+> page. The novelty is the **L1/L2/L3 threshold ladder** (each ≈2× CAC) and the
+> explicit compounding table; the underlying "get paid back inside 30 days" loop
+> is consistent across *$100M Leads* (2023), the March-2026 talk, and this 2025
+> compilation.
+
+### The Value Grid — non-linear replacement for the value ladder (2025)
+
+Also from the Lost Chapters: because customers buy **non-linearly** (they skip
+offers rather than ascend a tidy ladder), Alex models LTV as a **grid of
+take-rates** across every offer rather than a single value ladder. A stacked
+worked example lifts **30-Day Cash from $75 to $1,763** (~14–15×) for the same
+business by capturing more of the grid ([[../../sources/2025-100m-lost-chapters]],
+PDF p. 69–73). See [[money-model]].
+
+> **LTGP is "the arms race of business."** Verbatim: *"The higher you can make
+> that number, the more untouchable you become"* ([[../../sources/2025-100m-lost-chapters]], PDF p. 69).
 
 ---
 

@@ -3,8 +3,8 @@ type: topic
 domain: business
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-09
-sources: 23
+updated: 2026-07-13
+sources: 24
 tags: [diagnostics, constraints, scaling]
 ---
 
@@ -461,6 +461,44 @@ margin, and stress/capacity all change the real constraint [[../../sources/2026-
 
 ---
 
+## The $100M Scaling Roadmap — the 10-stage headcount ladder (2025)
+
+Source: [[../../sources/2025-100m-scaling-roadmap|$100M Scaling Roadmap]] (2025).
+
+Where the supply/demand triage and the growth-stage traps above give the *theory* of the
+one binding constraint, the Acquisition.com Scaling Roadmap **operationalizes it as a
+concrete, sequential stage model indexed by headcount** (not revenue). Every business sits
+in one of ten stages (0–9); each stage names a founder **role**, a **headcount band**, the
+**one binding constraint** that dominates there, and a **graduation goal**. The method is
+strict: at each band exactly one problem is the bottleneck, you solve *that one* and only
+then graduate — "solving downstream problems early is wasted motion."
+
+| # | Stage | Role | Headcount | Binding constraint | Graduate by |
+|---|-------|------|-----------|--------------------|-------------|
+| 0 | Improvise | Researcher | N/A | Nothing is happening | Get free trials of your stuff |
+| 1 | Monetize | Starter | 1 | Makes no money | First sale (charge for a "good enough" V1) |
+| 2 | Advertise | Doer | 1 | Inconsistent new customers | Rule of 100; double down, don't diversify |
+| 3 | Stabilize | Trainer | 1–4 | Too much for one person | Get help |
+| 4 | Prioritize | Manager | 5–9 | Trying to please everyone | Niche down to your best-customer avatar; raise price; learn "no" |
+| 5 | Productize | Director | 10–19 | Low LTV:CAC, one product | Add a 2nd premium product to extend LTV |
+| 6 | Optimize | Leader | 20–49 | Everything inefficient | "Better beats more" (train/improve, don't just add) |
+| 7 | Categorize | Executive | 50–99 | Systems overwhelmed | Triage; add a 2nd channel (referral) |
+| 8 | Specialize | President | 100–249 | No one can know everything | Dedicated teams; **brand before selling at scale** |
+| 9 | Capitalize | Chairman | 250–500 | Unsure where next growth comes from | A big bet — M&A / R&D |
+
+Management depth scales with the ladder (Stage 4 = one layer; Stage 9 = five, including
+CEOs); Stage 9 is terminal (beyond ~500 employees each path turns industry-specific).
+**US survivorship funnel** (self-reported): ~30M businesses reach Stage 1, narrowing to
+~300K at Stage 9 — each stage framed as rarer air.
+
+> ⚠️ REFINEMENT: This ladder makes the growth-stage-trap lens above **concrete and
+> per-stage**. The "swamp" ($1–3M) maps onto Stages 3–4 (get help → niche down), and the
+> earlier note that *scaling stage tracks headcount, not revenue* is here promoted from an
+> aside into the model's primary axis. The roadmap is a funnel asset (it routes to a paid
+> Scaling Workshop), so treat the headcount bands as a heuristic ladder, not audited data.
+
+---
+
 ## Growth-plateau diagnosis (is the market really capped?)
 
 Source: [[../../sources/2023-06-14-yt-9gVdCR7W8o8|The REAL Reason Your Business Isn't Growing]] (2023).
@@ -570,7 +608,9 @@ saturation: "this is a $60 billion industry, I don't even have 1% of it."
 - **The 4 vectors** diagnose *how you'll win* the demand side once you're competing.
 - **The 4 shapes** predict which constraint you'll *keep* hitting, so you stop treating a
   feature as a bug.
-- **Growth-stage traps** locate you on the curve and price the cost of acting.
+- **Growth-stage traps** locate you on the curve and price the cost of acting; the
+  **$100M Scaling Roadmap** operationalizes them into a 10-stage headcount ladder with one
+  binding constraint per stage.
 - **Growth-plateau / market-cap diagnosis** guards the demand side against a false "market
   is saturated" verdict — max the marketing hierarchy first, and only expand via the
   Pyramid of Markets once the niche is genuinely tapped.
@@ -595,3 +635,4 @@ machinery ([[money-model]]) at that one thing.
 - [[../../sources/2023-06-14-yt-9gVdCR7W8o8|The REAL Reason Your Business Isn't Growing]] (2023) — market isn't capped, marketing hierarchy, 4-question market test, Pyramid of Markets.
 - [[../../sources/2025-02-25-yt-QwEb78e5a8Y|Answering Your Top Business Questions for 1 Hour]] (2025) — exhaust the working path before changing avatars.
 - [[../../sources/2026-06-26-yt-zzleYxkf39k|Scale or Fail Episode 1]] (2026) — back-to-front live business diagnosis.
+- [[../../sources/2025-100m-scaling-roadmap|$100M Scaling Roadmap]] (2025) — the 10-stage headcount ladder (Researcher → Chairman), one binding constraint per stage.

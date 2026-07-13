@@ -1,7 +1,7 @@
 ---
 type: topic
 domain: business
-updated: 2026-07-09
+updated: 2026-07-13
 tags: [acquisition, traffic]
 ---
 
@@ -57,10 +57,29 @@ customers**, defined by the *activity* rather than the media type:
 > "There's only four things that you can do: warm outreach, cold outreach, paid ads,
 > content." [[../../sources/2023-06-07-yt-LGq0uVspNms]]
 
-On top of the four activities he layers **leverage through other people** — customers
-(referrals), affiliates, employees, and agencies. Each of these "does the four
-activities on your behalf," but *acquiring* them still starts with you personally
-doing warm/cold outreach, ads, or content [[../../sources/2023-06-07-yt-LGq0uVspNms]].
+**Canonical source: *$100M Leads* (2023).** The book is the definitive statement of the
+Core Four and derives the four from a **2×2** — audience (**warm** = people who know you
+vs. **cold** = strangers) × delivery (**one-to-one** vs. **one-to-many**). That grid
+yields exactly four cells [[../../sources/2023-100m-leads]] (Leads p.76):
+
+| | One-to-one (private) | One-to-many (public) |
+|---|---|---|
+| **Warm** (know you) | Warm outreach | Post free content |
+| **Cold** (strangers) | Cold outreach | Paid ads |
+
+The 2×2 is *why* the list is exactly four and not arbitrary: you either know the person
+or not, and you address them privately or publicly — there is no fifth cell.
+
+### The Four Lead Getters (leverage through other people)
+
+On top of the four activities he layers **leverage through other people** — in the book,
+the **Four Lead Getters**, i.e. people who run the Core Four *for* you: **(1) customers**
+(referrals / word-of-mouth), **(2) employees**, **(3) agencies**, and **(4) affiliates &
+partners** [[../../sources/2023-100m-leads]] (Leads pp.252–253). Each "does the four
+activities on your behalf," but *acquiring* them still starts with you personally doing
+warm/cold outreach, ads, or content [[../../sources/2023-06-07-yt-LGq0uVspNms]]. This is
+the canonical form of the later 2026 "**stop getting leads, start getting lead getters**"
+reframe (below).
 
 ### Reconciling the counts (Big 4 vs. 6 vs. 4)
 
@@ -216,15 +235,45 @@ of action* — pick one of the four activities and hit 100 units of it every day
 - **100** warm outreaches, **or**
 - **100 minutes** of content.
 
-Do it every day [[../../sources/2023-06-07-yt-LGq0uVspNms]].
+Do it every day [[../../sources/2023-06-07-yt-LGq0uVspNms]]. **Canonical source: *$100M
+Leads*** formalizes it as **100 primary actions per day for 100 days straight** — a fixed
+92–100-day sprint, not an open-ended habit [[../../sources/2023-100m-leads]] (Leads p.234).
 
 > "You either spend 100 bucks a day on ads, you do 100 cold outreaches, you do 100 warm
 > outreaches, or you do 100 minutes of content. You do it every day."
 > [[../../sources/2023-06-07-yt-LGq0uVspNms]]
 
+**Open To Goal** is the book's *superseding* work rule that the Rule of 100 graduates
+into: rather than stopping at a fixed number of reps, you stay "open" (keep doing the
+activity) **until you hit the day's outcome goal** — e.g. a set number of booked calls or
+sales — however many reps that takes. The Rule of 100 fixes *input* volume for a beginner;
+Open To Goal fixes *output* and lets input float, which is how the disciplined operator
+scales past the plateau [[../../sources/2023-100m-leads]] (Leads pp.362–363).
+
 This pairs with his broader beginner advice — **one product, one avatar, one channel**
 until ~$3M revenue, because "the issue is not even time, the issue is attention"
 [[../../sources/2021-10-25-yt-neTSqOAMgao]].
+
+---
+
+## More / Better / New — the *$100M Leads* growth engine
+
+*$100M Leads* frames scaling any acquisition effort as exactly three moves, done **in that
+order**: do **More**, do it **Better**, then do something **New** — and only escalate to the
+next when the current one is genuinely maxed [[../../sources/2023-100m-leads]] (Leads
+pp.232–243):
+
+1. **More** — increase the *volume* of what already works (the [Rule of 100](#the-rule-of-100-daily-volume-for-beginners) is "More" applied).
+2. **Better** — improve the *conversion/quality* of what you already do before adding anything.
+3. **New** — only after the above, expand along a ladder: new **placements** (more slots on the
+   same platform) → new **platforms** (same Core Four activity, different channel) → a new
+   **Core Four activity** entirely.
+
+This is armed against the **"Size of the Pie" fallacy** — the beginner belief that growth
+requires chasing new *audiences/channels* ("a bigger pie") when almost always there is far
+more room left in **More** and **Better** on the channel already running. Most operators jump
+to "New" prematurely and starve a channel they never actually maxed
+[[../../sources/2023-100m-leads]] (Leads pp.232–243).
 
 ---
 
@@ -288,7 +337,12 @@ conversation mechanics [[../../sources/2023-08-02-yt-w7g08dVTwaE]].
 A **lead** is anyone on the combined list; an **engaged lead** is a contact who has *shown
 interest in what you sell* — e.g. replies "I'd like to find out more." The whole playbook is
 a machine for converting the former into the latter, one personalized message at a time
-[[../../sources/2023-08-02-yt-w7g08dVTwaE]].
+[[../../sources/2023-08-02-yt-w7g08dVTwaE]]. **Canonical source: *$100M Leads*** pins the
+definitions precisely: a **lead** is simply "a person you can contact," while an **engaged
+lead** is "a lead who shows interest" — and the engaged lead, *not* the raw lead, is **the
+true output of advertising** (advertising = "the process of making known"). Optimizing for
+engaged leads, not lead count, is the point of the whole system
+[[../../sources/2023-100m-leads]] (Leads pp.41–42).
 
 ### The free → retail price ladder (ratchet up as scarcity builds)
 
@@ -347,6 +401,24 @@ buy on a **prediction of future value**, and the easiest way to make someone pre
 
 > "Your free stuff should be better than their paid stuff. Everyone makes that quote, but they
 > don't actually do that." [[../../sources/2023-07-19-yt-7NMH1oAkgLY]]
+
+### Lead-magnet taxonomy (canonical, *$100M Leads*)
+
+The book systematizes what the video keeps loose. Every lead magnet is one of **three
+types** crossed with one of **four delivery methods** [[../../sources/2023-100m-leads]]
+(Leads pp.48–65):
+
+- **Three types** — (1) **Reveal a problem** (a diagnosis/assessment that surfaces a pain
+  they didn't know they had), (2) **Sample or trial** of your actual offering, and (3)
+  **one step of a multi-step process** (solve the first step completely; the next step is
+  the paid offer).
+- **Four delivery methods** — a **software/tool**, **information** (course, guide,
+  checklist), a **service** done for them, or a **physical product**.
+
+The governing maxim: **"give away the secrets, sell the implementation."** Telling people
+exactly *what* to do (the secrets) builds trust and costs you nothing to reveal; they still
+pay you to *do it for them* or *with them*. Withholding the "what" is what makes a
+partial-solution lead magnet erode trust [[../../sources/2023-100m-leads]] (Leads pp.48–65).
 
 ### The 7-step lead-magnet checklist
 
@@ -519,6 +591,10 @@ all — high margin is the enabling condition. See [[business]] and
 
 ## Sources
 
+- [[../../sources/2023-100m-leads]] — **CANONICAL BOOK.** Core Four as a warm/cold ×
+  one-to-one/one-to-many 2×2; the Four Lead Getters; More/Better/New engine + "Size of the
+  Pie" fallacy; Rule of 100 → Open To Goal; lead vs. engaged lead; lead-magnet taxonomy
+  (3 types × 4 delivery methods; "give away the secrets, sell the implementation").
 - [[../../sources/2022-05-17-yt-XwZH-lOKG9c]] — KEYNOTE: the "Big 4" frameworks; six
   traffic sources; Client Financed Acquisition; MAGIC naming.
 - [[../../sources/2021-10-25-yt-neTSqOAMgao]] — six acquisition channels; five linear,

@@ -2,9 +2,9 @@
 type: topic
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-10
+updated: 2026-07-13
 tags: [sales]
-sources: 25
+sources: 27
 ---
 
 # Sales Frameworks
@@ -551,6 +551,8 @@ his own coinages:
   ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
 - Hormozi **claims the "rocking chair close" as his own** invention
   ([[../../sources/2023-06-06-yt-iqAtBbGr3VY]]).
+- **Sharran Srivatsaa** — **BAMFAM** ("Book-A-Meeting-From-A-Meeting"), which Hormozi
+  credits to him ([[../../sources/2025-100m-lead-nurture-playbook]]).
 
 ---
 
@@ -714,6 +716,73 @@ reframes the purchase as buying the result regardless of duration
 > convert a way higher percentage of people." — 2026
 > ([[../../sources/2026-03-29-yt-ROIA31QJK7o]])
 
+## 14. $100M Closing Playbook (2025): YES/NO/MAYBE, power, and the named-close library
+
+From the 2025 Acquisition.com *$100M Closing Playbook*
+([[../../sources/2025-100m-closing-playbook]]). The source is flagged noisy-OCR, so
+additions here are conservative and paraphrased; the onion of blame, five obstacles,
+best-case/worst-case, resourcefulness-not-resources, and help-vs-manipulation are
+**already covered in §2/§8** and are not restated.
+
+- **Three-bucket audience — YES / NO / MAYBE.** Advertising splits interest into
+  qualified YESes, unqualified NOs, and on-the-fence MAYBEs; most interested prospects
+  are MAYBEs, and closing is what captures that bucket. **"The money is in the maybes."**
+  Maybes lack the **power** to decide, so they avoid deciding and disguise the avoidance
+  as objections ([[../../sources/2025-100m-closing-playbook]]).
+- **Closing returns decision-making power.** The goal of closing is not to force a yes
+  but to hand the prospect enough power to genuinely decide either way — **"you win
+  either way,"** because a real no avoids the cost of an unqualified purchase and only the
+  "avoidance treadmill" is true failure. (This reframes §2's "goal is to get someone to
+  *decide*, not to buy" around the word *power*) ([[../../sources/2025-100m-closing-playbook]]).
+- **STAR qualification.** Qualify prospects on **Situation** (a real problem),
+  **Timing** (time to solve it), **Authority** (power to decide), and **Resources**
+  (money to spend); unqualified prospects "are not a sales problem — they're an
+  advertising problem" ([[../../sources/2025-100m-closing-playbook]]).
+- **Two hard rules.** **Never change the price on the spot** to win a sale ("price too
+  high" almost always means "value too low"); and be **kind, not nice** — nice avoids
+  offending, kind genuinely wants the person better off
+  ([[../../sources/2025-100m-closing-playbook]]).
+- **Named-close library, organized by blame source.** The playbook systematizes the
+  scattered closes of §2/§7 into a scripted library indexed by where the objection comes
+  from: all-purpose closes (*What's Your Main Concern*, *Zoom Out*, *1-to-10*,
+  *Hypothetical*), **circumstances** (Time and Money closes), **other people**
+  (support-not-permission sequence, *Don't Let It Burn You Twice*), **self**
+  (*Isolate-and-Solve*, *The Gameplan*, *Another Year of Almost*), and **guarantee**
+  closes (*Both Options Are Risk-Free*, *Closer-or-Further*)
+  ([[../../sources/2025-100m-closing-playbook]]).
+
+> "The money is in the maybes." — 2025 ([[../../sources/2025-100m-closing-playbook]])
+
+> "Closing gives the prospect enough power to overcome decision avoidance. To make a
+> decision one way or the other." — 2025 ([[../../sources/2025-100m-closing-playbook]])
+
+## 15. $100M Lead Nurture Playbook (2025): the four pillars, BAMFAM, and rep ranking
+
+From the 2025 *$100M Lead Nurture Playbook*
+([[../../sources/2025-100m-lead-nurture-playbook]]), which sits *between* advertising and
+the sales frameworks above: it maximizes 30-day **show rates**, "because if they do not
+show, they cannot buy."
+
+- **Four pillars of show-rate — Availability, Speed, Personalization, Volume** — unified
+  by **Execution**; derived from ~1M rows of appointment data mined from Hormozi's ALAN
+  software during COVID-2020 ([[../../sources/2025-100m-lead-nurture-playbook]]).
+- **Availability is the biggest lever** — bigger than speed. The aggregate of days open,
+  hours per day, and slots per hour is the strongest predictor of show-ups
+  ([[../../sources/2025-100m-lead-nurture-playbook]]).
+- **BAMFAM — "Book-A-Meeting-From-A-Meeting"** (credited to **Sharran Srivatsaa**, so
+  borrowed — see §8): never end a call with "we'll circle back"; schedule the next
+  appointment live, inside the current one ([[../../sources/2025-100m-lead-nurture-playbook]]).
+- **Rank reps by show / close / lead-to-close, not close rate alone.** A rep with a lower
+  close rate but far higher show rate can out-produce a "star" closer — **"yellows are the
+  new gold"** (mid-tier scored leads worked well beat top leads worked poorly) — paired
+  with a small show-rate commission bump ([[../../sources/2025-100m-lead-nurture-playbook]]).
+
+> "NEVER get off the call with 'We'll circle back later.' ... You're both there right now.
+> Pull up your darn calendar. Pick a darn time." — 2025
+> ([[../../sources/2025-100m-lead-nurture-playbook]])
+
+> "Yellows are the new gold." — 2025 ([[../../sources/2025-100m-lead-nurture-playbook]])
+
 ## Related pages
 
 - Hub: [[business]]
@@ -765,3 +834,7 @@ reframes the purchase as buying the result regardless of duration
   to sales calls before changing offer/pricing/marketing (2026)
 - [[../../sources/2026-03-29-yt-ROIA31QJK7o]] — sell-to-goal diagnostic pricing (price-per-week
   × weeks-to-goal + completion guarantee) (2026)
+- [[../../sources/2025-100m-closing-playbook]] — YES/NO/MAYBE buckets, closing-as-power,
+  STAR qualification, never-change-price, named-close library (2025)
+- [[../../sources/2025-100m-lead-nurture-playbook]] — four pillars of show rate, availability
+  as biggest lever, BAMFAM, rep ranking by show/close/lead-to-close (2025)

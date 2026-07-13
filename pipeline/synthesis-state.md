@@ -6,8 +6,10 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 224** — synthesis pass 24, system-prompt **v31** (2026-07-13).
-Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
+Synthesized through: **batch 224** — synthesis pass 24, plus the **inline-L3 $100M library synthesis**,
+system-prompt **v32** (2026-07-13). Everything ingested after this is L2 (source pages exist) but
+**NOT yet promoted** to topics/persona. (The MoreMozi ingest batches 225–228 remain L2 debt for the
+next batch-driven pass; the $100M library was promoted inline as landmark L3.)
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
@@ -15,6 +17,27 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **Drive "$100M" library — inline-L3 synthesis** (2026-07-13) → system-prompt **v32**.
+      Landmark promotion of the newly-ingested Acquisition.com library (2 previously-uningested core
+      books — *$100M Offers*, *$100M Leads* — plus all 12 launch playbooks, the *Lost Chapters*
+      anthology, and the *Scaling Roadmap*) across **11 topic pages + a new `marketing/proof.md` +
+      3 persona files**. Topics: acquisition-channels (Core Four 2×2, Four Lead Getters, More/Better/
+      New, Open To Goal, lead-magnet taxonomy); pricing-psychology (10 pricing plays, RAISE letter,
+      vanishing discount, virtuous cycle of price); business-math (Crazy Eight, LTGP 3-step, 3 Levels
+      of CFA + 30-Day Cash + Value Grid, guarantee math); retention (5 Horsemen, 9-step churn
+      checklist, activation points — new canonical source); attraction-offers (Grand Slam Offer,
+      Value Equation, offer enhancers, Fast Cash, Lost-Chapters offer types); sales-frameworks
+      (YES/NO/MAYBE buckets, named-close library, BAMFAM, rep ranking); branding (pairing, 8 brand
+      positions, bouquet, four-step method — new canonical source); copywriting-hacks (hook anatomy,
+      8 categories, 70-20-10, MAGIC naming); paid-ads (ad assembly line, awareness-by-hook, 5 meat
+      formats); content-engine (hook-first, Marketing Machine 7 nodes, Hook-Retain-Reward);
+      business-diagnostics (10-stage Scaling Roadmap operationalizing the constraint model); NEW
+      marketing/proof (proof>promise, the 13 proof dimensions, belief continuum). Persona: beliefs
+      +6 dated (proof>promise, hook-first, 10x-the-10%, money-in-the-maybes, Open To Goal, Marketing
+      Machine), biography (Christmas-2016 $1,036 + $45,700 drain, Boise pivot, GL year1/2 revenue,
+      Prestige Labs Dec-2018, 2019 $13M income — with contradiction refinements), voice (12+ new
+      verbatim lines). Leila SOPs kept as entity/context only (not persona). Contradiction/refinement
+      callouts added where books refined dated claims.
 - [x] **@MoreMozi Q&A cuts — batches 215-224** — synthesis pass 24 (2026-07-13) →
       system-prompt **v31**. Promoted genuinely-new mid-March 2026 MoreMozi refinements across
       8 topic pages + persona (beliefs +6, biography +4, voice +6): the **AI-for-leverage

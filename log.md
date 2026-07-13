@@ -6003,3 +6003,31 @@ Completed the Drive haul. Wave 1 covered Offers + 9 playbooks + Lost Chapters + 
 Ledger +5 rows (book-100m-leads, playbook-100m-closing/proof-checklist/goated-ads, training-100m-scaling-roadmap). index.md + inventory (`pipeline/drive-hormozi-inventory.md`) updated with the full status and the download-size constraint.
 
 Synthesis notes: this closes a LARGE landmark debt (2 core books never previously ingested + all 12 playbooks + Lost Chapters + Roadmap). Next: a full inline-L3 synthesis pass promoting the new frameworks into topics + persona and recompiling system-prompt.md. Key promotion targets — acquisition-channels (Core Four/Lead Getters/Rule of 100), pricing-psychology (10 pricing plays + RAISE letter), business-math (Crazy Eight/LTGP/CFA levels/30-Day Cash), retention (5 Horsemen/9-step churn checklist — new primary source), branding (pairing/8-positions — new primary source), copywriting-hacks + a new proof + content-engine (hooks 70-20-10, proof 13 dimensions, GOATed assembly line), sales-frameworks (named closes, BAMFAM), attraction-offers/money-model (Value Equation, Value Grid, Fast Cash), scaling-and-enterprise-value/business-diagnostics (10-stage roadmap); persona biography (Boise pivot, GL year1/2 revenue $6.82M/$25.9M, $46.2M APG sale, Christmas-2016 $1,036 low, 2019 $13M income), beliefs (proof>promise, 10x-the-10%, better-beats-more, Open To Goal, volume-negates-luck), voice (new catchphrases). Leila SOPs feed entity pages only.
+
+## [2026-07-13] synthesis | inline-L3 promotion of the $100M library → system-prompt v32
+
+Promoted the genuinely-new material from the just-ingested Acquisition.com library (books $100M
+Offers + $100M Leads, all 12 launch playbooks, the Lost Chapters anthology, the Scaling Roadmap)
+inward into topics + persona (landmark sources → inline L3, per AGENTS.md). One agent per file.
+
+Topic pages updated (11 + 1 new): business/acquisition-channels (Core Four 2×2, Four Lead Getters,
+More/Better/New, Open To Goal, lead-magnet taxonomy), business/pricing-psychology (10 pricing plays,
+RAISE letter, vanishing discount, virtuous cycle), business/business-math (Crazy Eight, LTGP 3-step,
+3 Levels of CFA + 30-Day Cash + Value Grid, guarantee math), business/retention (5 Horsemen, 9-step
+churn checklist, activation points — now canonical), business/attraction-offers (Grand Slam Offer,
+Value Equation, offer enhancers, Fast Cash, Lost-Chapters offer types), business/sales-frameworks
+(YES/NO/MAYBE, named-close library, BAMFAM), business/business-diagnostics (10-stage Scaling Roadmap),
+content-strategy/branding (pairing, 8 positions, bouquet — now canonical), content-strategy/content-engine
+(hook-first, Marketing Machine 7 nodes, Hook-Retain-Reward), marketing/copywriting-hacks (hook anatomy,
+8 categories, 70-20-10, MAGIC), marketing/paid-ads (ad assembly line, awareness-by-hook, 5 meat formats),
+and NEW marketing/proof (proof>promise, 13 proof dimensions, belief continuum) + marketing hub line.
+
+Persona: beliefs +6 dated beliefs, biography (new/refined bio facts with contradiction callouts),
+voice (12+ new verbatim lines). Recompiled persona/system-prompt.md → **v32** (Grand Slam Offer +
+Value Equation + Core Four + proof>promise + "money is in the maybes" folded into the body; changelog
++ sources updated). synthesis-state.md high-water mark advanced to v32.
+
+All additions dated + cited to their wiki/sources page; existing material re-cited to the books as
+canonical where applicable; duplicates skipped; Leila SOPs remain entity/context (not persona).
+Synthesis notes: none new (this pass drained the $100M-library debt; MoreMozi batches 225-228 remain
+L2 for the next batch-driven pass).

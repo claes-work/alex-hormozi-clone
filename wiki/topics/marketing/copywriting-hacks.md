@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: marketing
-updated: 2026-07-08
+updated: 2026-07-13
 tags: [copywriting, marketing, ads]
 ---
 
@@ -82,6 +82,33 @@ His copywriting checklist — 12 core hacks plus a bonus 13th
 changes behavior → the click). The Old Spice ad is his highest-converting example. Humor
 is the one he'd cut first (the other 12 convert without it) but it's the extra sizzle. Test
 humor like comedians build specials — front-load the bits that land, iterate over many rooms.
+
+## Hook anatomy (the first few seconds)
+
+The masterclass's hack 1 ("headlines come first") gets a full mechanics treatment in the
+*$100M Hooks Playbook* (2025), where the **hook** = whatever a person sees or hears first —
+the single highest-leverage element of any ad or post, "because if nobody notices, nobody
+buys" (source: [[../../sources/2025-100m-hooks-playbook]]).
+
+> "If you have ten hours to advertise, focus your first eight hours on the hooks."
+
+- **Two parts.** Every hook is a **call out** (makes the prospect think *"this is for me"* —
+  verbal or nonverbal) plus a **condition for value** (the promise — explicit or implicit).
+  The **cocktail-party effect**: at a noisy party you tune out everything until someone says
+  your name — a good call out is that name (2025).
+- **Specific *and* broad.** *"Specific enough to get the right people and broad enough to get
+  as many of them as I can."* People consume only when expected benefit exceeds the cost of
+  consuming; the hook sets those conditions (2025).
+- **8 verbal hook categories:** Labels · Questions (yes / open) · Conditionals · Commands ·
+  Statements · Lists or Steps · Narratives · Exclamations / Provocative Statements — plus
+  nonverbal visual and sound hooks (2025).
+- **70-20-10 allocation** (Google's innovation rule, applied to hooks): 70% proven/core
+  hooks, 20% "winner-adjacent" concepts modeled from other niches, 10% brand-new risky
+  experiments — refreshed each batch from your top-10% performers (2025).
+- **The hook dictates the content, not the other way around.** Build a large hook dataset
+  first and you never run out of content ideas: *"Let the data do the teaching."* Testing
+  cadence by format — ~10 hooks per ad, 3–4 per long video, every winning tweet reused as a
+  short, split-tests on every email (2025).
 
 ## 5 levels of awareness
 
@@ -177,6 +204,40 @@ The through-line behind hacks 2 and 9: anyone can *promise*, but proof must be *
 
 > "If you want to stand out in a crowded marketplace, tell the truth."
 
+The *$100M Proof Checklist Playbook* (2025) sharpens this into a differentiation argument and
+adds copy-level tests (source: [[../../sources/2025-100m-proof-checklist-playbook]]):
+
+> "Your promise is not a differentiator. Your proof is."
+
+- **Why proof, not the offer, is the moat:** *"Anyone can copy an advertising claim, but no
+  one can produce the exact same results to prove it."* Belief is a **continuum** (100% doubt →
+  100% certainty); proof's only job is to move the reader toward certainty. Pro tip: *"Instead
+  of trying to prove your claim — claim your proof. And if your proof isn't compelling — fix
+  reality"* (give free work, improve the product) rather than escalate claim wars (2025).
+- **Personal > Generic:** specific, vivid pain that makes the reader think *"this is me"* beats
+  generic language — probe testimonials for concrete before/after detail (2025). Extends hack
+  3's "name the moment they feel the pain."
+- **Metaphors > technical jargon:** connect the unknown mechanism to something the reader
+  already knows via 2–3 metaphors — used in both copy and the sales script (2025).
+- **Proof With Numbers > without:** plainly stated numbers, with *how/when* collected, are hard
+  to argue and can be visualized as charts (2025).
+
+## MAGIC naming & "the pain is the pitch"
+
+Two copy levers from *$100M Offers* (2021) (source: [[../../sources/2021-100m-offers]]):
+
+- **M-A-G-I-C naming formula** for offers/lead magnets: **M**agnetic reason-why · **A**nnounce
+  the avatar · **G**ive a goal · **I**ndicate a time interval · **C**omplete with a container
+  word (Challenge, Blueprint, Bootcamp…). Renaming the "wrapper" re-stimulates demand, so cycle
+  through variations to keep an offer from **fatiguing** — Hormozi's order of enhancements to
+  refresh a stale offer: scarcity → urgency → bonuses → guarantees → naming (*$100M Offers*,
+  p.140, pp.187–191).
+- **"The pain is the pitch."** Lead with the prospect's problem, stated so precisely they feel
+  understood, then reverse it into the solution — *"The point of good writing is for the reader
+  to understand. The point of good persuasion is for the prospect to feel understood"*
+  (*$100M Offers*, p.51). This is the source of the problem→solution reversal behind hacks 3
+  and 6.
+
 ---
 
 ## Related
@@ -191,3 +252,10 @@ The through-line behind hacks 2 and 9: anyone can *promise*, but proof must be *
   (the 12+1 hacks, awareness ladder, scarcity/urgency, proof-beats-promise)
 - [[../../sources/2025-03-15-yt-Ihfq36wuxQY]] — "Sell Anything To Anyone" (the damaging-
   admission / "but"-amplifier in depth)
+- [[../../sources/2025-100m-hooks-playbook]] — *$100M Hooks Playbook* (hook anatomy, cocktail-
+  party effect, 8 verbal categories, 70-20-10, "hook dictates content")
+- [[../../sources/2025-100m-proof-checklist-playbook]] — *$100M Proof Checklist Playbook*
+  ("promise is not a differentiator, proof is"; Belief Continuum; Personal>Generic;
+  Metaphors>Jargon; Proof With Numbers)
+- [[../../sources/2021-100m-offers]] — *$100M Offers* (M-A-G-I-C naming, offer-fatigue
+  variation order, "the pain is the pitch")

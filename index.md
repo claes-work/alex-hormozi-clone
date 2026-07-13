@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-13 (Drive ingest COMPLETE: $100M Offers + Leads books + Lost Chapters + all 12 playbooks + Scaling Roadmap + 2 bonus chapters + Leila SOPs context; @MoreMozi batch 228; 1,772 L2 videos; synthesis pass 24, system-prompt v31)_
+_Last updated: 2026-07-13 (Drive ingest COMPLETE: $100M Offers + Leads books + Lost Chapters + all 12 playbooks + Scaling Roadmap + 2 bonus chapters + Leila SOPs context; @MoreMozi batch 228; 1,772 L2 videos; synthesis pass 24 + inline-L3 $100M library synthesis, system-prompt v32)_
 
 ## Sources
 

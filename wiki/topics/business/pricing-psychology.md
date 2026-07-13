@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: business;marketing
-updated: 2026-07-09
+updated: 2026-07-13
 tags: [pricing, psychology, behavioral-econ]
 ---
 
@@ -287,6 +287,104 @@ by margin, not by cost of goods. He pairs this with a change-sequencing principl
 **"don't risk the biscuit"** — when adding a guarantee (or any new risk-reversal), do not
 jeopardize the healthy core of the business to do it; layer the new mechanism so a failure cannot
 take down the parts that already work [[../../sources/2026-03-29-yt-1hcgUXiFYm8]].
+
+## The Pricing Playbook: ten "instant profit" plays (2025)
+
+Source: [[../../sources/2025-100m-pricing-playbook]] (Alex-authored). Dollar figures are
+*self-reported / illustrative*; the margin arithmetic behind each play lives on [[business-math]].
+
+**Price is the highest-leverage profit lever — and doubling it beats doubling volume.** The
+"business genie" parable weighs three wishes: 2x the customers, 2x the purchase frequency, or 2x
+the price. Doubling customers or frequency ~3.5x's profit; doubling **price** ~6x's it, because a
+price increase adds pure revenue while acquisition and delivery costs stay flat.
+
+> "I used to say the highest price I could get people to buy at. But now I want the price that
+> people will keep paying at." *(verbatim)*
+
+**Display and billing are separate decisions.** The governing rule for the tactical plays below:
+
+> "Display price in the smallest increment, bill on the longest increment. How you display price
+> and how you bill don't need to be the same thing." *(verbatim)*
+
+Selected plays (each is a small, near-conversion-neutral change that drops to the bottom line):
+
+- **28-day billing.** Bill every 28 days instead of monthly → 13 cycles/year instead of 12, a
+  permanent ~**8.3%** revenue lift at the same conversion. Rationale: *"the more often you bill the
+  more often people cancel; the longer between billing cycles, the longer you have to provide value."*
+- **Processing fee + second form of payment.** Add a ~4% card fee after price agreement; if the
+  buyer balks, waive it in exchange for a second (backup) payment method. The real prize is
+  recovering **involuntary card-decline churn** (~1.2–1.7%/mo), which can lift LTV meaningfully.
+- **Annual renewal fee on top of monthly.** Advertise a low monthly rate but layer an annual
+  "rate-protection" renewal fee (roughly 1–3x the monthly), raising the effective rate ~20% while
+  the headline price still reads cheap.
+- **Automatic continuity.** Disclosed up front, roll customers at the end of a fixed term into a
+  stripped-down, high-margin version at **5–20%** of the main price. Hormozi reports ~*"$150k/month
+  of pure profit"* from this in one business.
+- **Ultra-high-ticket anchor.** Add an item priced ~10x the core offer; even a small take rate
+  roughly doubles blended LTV and makes the core offer look cheap, lifting its close rate. (This is
+  an *anchoring* mechanic distinct from the "anchor high and down-sell" move noted above.)
+- **Guarantee / warranty upsell.** After purchase, sell a warranty for 5–30% of price (modeled on
+  AppleCare), priced near **cost-of-goods** so you structurally cannot lose money on it.
+
+## Raising an existing price without losing customers (2025)
+
+Source: [[../../sources/2025-100m-price-raise-playbook]] (Alex-authored).
+
+**Don't grandfather; don't sell lifetime.**
+
+> "Don't grandfather existing customers. Don't do lifetime deals. Value depends on price. If your
+> value goes up, so should your price." *(verbatim)*
+
+**The RAISE letter** — a five-part script for announcing an increase to an existing base:
+**R**emind them of value delivered → **A**ddress the change directly in one bandaid-ripping
+sentence → **I**nvest-frame the extra money as improvements already planned → **S**often with an
+expiring loyalty discount → **E**xplain-away concerns in a PS line ("if this materially affects
+your ability to buy groceries, let me know").
+
+**The vanishing-discount reframe.** Raise the price now, then immediately grant a discount (ideally
+shown as an account credit) that disappears in 3–6 months.
+
+> "People are more 'okay' with a vanishing discount than they are a raise in price." *(verbatim)*
+
+**Operational rules:** for big raises, **stair-step** the discount off in stages (e.g. $200/mo off
+→ $100 → $50) to ease the base in; **test raises on new customers first** for data and proof before
+touching the base; and **meet 1-on-1 if the raise exceeds ~50%** (usually the sign of an early
+undercharging mistake). Case: Warren Buffett raised See's Candies prices 50+ times over ~51 years,
+averaging ~10%/yr and up to 17% in a year — the one decision he reserved for himself. Hormozi's own
+gym anecdote: tripling price ($99→$299) cost ~30% of customers but **more than doubled** revenue.
+
+> "Get addicted to price increases." *(verbatim)*
+
+> ⚠️ REFINEMENT (reconciles with "Giant jumps," above). The 5–10x jumps in the 2026 tiering clips
+> and the modest, annual 5–15% raises here are **not** in tension: the big multiples describe
+> *creating a new higher tier* for a subset of buyers, whereas the RAISE-letter increments describe
+> *lifting the price of an existing offer on an existing base*. Match the tool to which one you mean.
+
+## The Virtuous Cycle of Price & niche pricing (2021)
+
+Source: [[../../sources/2021-100m-offers]] (the canonical, earliest statement).
+
+The five customer-side benefits of a higher price catalogued under *Luxury inversion* above are the
+2021 book's **Virtuous Cycle of Price**, named here for lineage: raising price lifts the client's
+emotional investment → perceived value → results → client quality → your margin (enabling a better
+product); cutting price runs the cycle in reverse.
+
+**"Charge what it's worth."** Price to value, not to cost or competitors:
+
+> "Charge as high a price as you can say out loud without cracking a smile." *(verbatim, quoting Dan Kennedy)*
+
+**Niche pricing — the same product for ~100x more.** Narrowing the avatar, not changing the product,
+is itself a pricing lever: a generic ~$19 time-management course re-packaged for a specific niche
+sells for $1,000–$2,000. (The 2026 avatar-selection clips above are downstream of this.)
+
+## Four ways to display a discount (2025)
+
+Source: [[../../sources/2025-100m-lost-chapters]] (cut chapter, Alex-authored).
+
+The *same* discount can be displayed four ways, and which one lands best is a resonance test worth
+running: **percentage off** ("40% off"), **absolute amount off** ("$200 off"), **relative
+equivalent** ("that's like getting X free"), or **simply the discounted price** (state the new
+number, no reference to the old one).
 
 ## See also
 

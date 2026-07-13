@@ -9,8 +9,10 @@ tags: [retention, churn, ltv]
 
 Hormozi's doctrine on keeping customers: retention is the true growth ceiling, churn
 behaves like a leaky bucket, and the highest-leverage fixes are usually onboarding, honest
-expectations, structural realignment, and subtraction — not new features. Two solo videos
-anchor this page: an operational SaaS case study
+expectations, structural realignment, and subtraction — not new features. The canonical
+anchor is the [[../../sources/2025-100m-retention-playbook|$100M Retention Playbook]] (2025),
+Hormozi's single most authoritative statement of the doctrine (5 Horsemen, the 9-step Churn
+Checklist, activation points). Two solo videos add operational depth: a SaaS case study
 ([[../../sources/2024-08-28-yt-afbP6sB_Atc]], 2024-08-28) and a ~13-point community/Skool
 playbook ([[../../sources/2026-03-24-yt--j8_YCWZ05Q]], 2026-03-24). Related:
 [[../content-strategy/community-building]], [[money-model]], [[scaling-and-enterprise-value]].
@@ -57,6 +59,62 @@ can't keep them just advertises its own weakness.
 > 80 to 90%, you didn't just get a 10 or 12% boost, you got a double in the LTV per customer."
 > — [[../../sources/2026-03-24-yt--j8_YCWZ05Q]]
 
+- **Referrals must exceed churn — the only path to compounding growth.** Churn is "the
+  invisible hand that suppresses your growth"; because acquiring a new customer costs 5x-25x
+  more than retaining one (and an HBR study found a 5% retention lift raises profits 25-95%),
+  cutting churn is the highest-leverage growth lever. Reducing churn from **10% to 3%
+  multiplies each customer's LTV 3.3x** — turning a 10-month customer into a 33-month one
+  ([[../../sources/2025-100m-retention-playbook]], `PDF pp. 13-14`). The
+  [[../../sources/2025-100m-lifetime-value-playbook|LTV Playbook]] states the mechanism as
+  arithmetic: LTV = Price ÷ Churn, so going 10%→5% monthly churn *doubles* LTV (`PDF p. 15`).
+
+> "Instead of asking 'How should I retain all my customers?', I ask 'What would make my
+> customers leave?' Then, I do the exact opposite." — [[../../sources/2025-100m-retention-playbook]] (`PDF p. 10`)
+
+## The 5 Horsemen of Retention
+
+The doctrine's origin (2025 playbook, `PDF pp. 4-8`). In June 2019, ~1,000 Gym Launch owners
+were acquiring members but losing them just as fast; at **15% monthly churn a gym loses 83%
+of its members in a year**, and a 250-member gym would need 208 new clients over the year just
+to stay flat. Hormozi ran a "find the common factors" study — six months interviewing gym
+owners with **<3% monthly churn** — and extracted five shared behaviors, the **5 Horsemen**:
+
+1. **Track attendance** — the leading indicator: 3+ sessions/week and members stick; ≤2/week
+   and they churn, so intercept at the drop to two sessions to rescue them.
+2. **Reach out 2×/week.**
+3. **Handwritten cards.**
+4. **Member events.**
+5. **Exit interviews** — save ~half of cancellations, cutting churn ~25% for a ~33% LTV lift.
+
+> ⚠️ Counter-intuitive rollout — **"shaking the three."** Implementing all five *raised* churn
+> ~50% in month 1, then halved it in month 2 and again in month 3 (10%→15%→7%→3%). Proactive
+> reach-out flushes out "ghost" / usage-churned billers — members still paying but no longer
+> consuming — who cancel once reminded, so first-month churn spikes *before* it falls
+> (`PDF p. 8`). A 9%→3% drop is a 3.3x LTV increase.
+
+## The Churn Checklist (9 steps)
+
+The playbook's core deliverable is a **nine-step Churn Checklist** Acquisition.com runs on new
+portfolio companies (`PDF pp. 16-30`): (1) activation points, (2) onboarding, (3) incentivize
+activation, (4) community linking, (5) correct/fire bad customers, (6) annual pricing,
+(7) cancellation call/video, (8) biannual surveys, (9) the four-milestone customer journey.
+Steps 2-8 systematize the thematic fixes below; the net-new pieces:
+
+- **Activation points are the *leading indicators* of retention** — the early actions that
+  predict who stays (e.g. a Skool host with 3+ group members retains far longer). Find them by
+  studying the **top 20% of longest-staying customers — including ones who eventually
+  churned** — and reverse-engineering what their early experience shared (`PDF pp. 17-19`).
+  Honing Gym Launch onboarding into a "Fast Cash Play" (recoup the investment in the first 30
+  days) took churn from **8% to 3% within six months**. By targeting only likely-long-stayers,
+  Gym Launch customers were worth **$42,000 in year one vs. a competitor's $5,000 at the same
+  CAC** (70x more profit; *self-reported*, `PDF p. 18`).
+- **The four-milestone customer journey: activate → testimonial → refer → ascend** (`PDF p. 30`),
+  driven by a light recurring **ACA reach-out** every 2-3 weeks — **A**cknowledge, **C**ompliment,
+  **A**sk (`PDF p. 29`).
+
+> "It's easy to quit a membership, it's hard to leave a relationship." / "They come for the
+> bikini. They stay for the community." — [[../../sources/2025-100m-retention-playbook]] (`PDF p. 24`)
+
 ## Onboarding & expectations
 
 The first hours after purchase are the highest-leverage retention fix, and honest
@@ -72,7 +130,9 @@ expectations do more than hype.
 
 - **Go one-to-one, and pilot it.** Move onboarding from one-to-many (a rep running batch
   calls of ~25) to 1-on-1 — tested first on just 15% of new customers to prove it before
-  rolling out.
+  rolling out. In the 2025 playbook, a portfolio company making the same group→1-on-1 shift
+  got a **25% boost in ascensions** — "one of the largest contributing factors to going from
+  $2M per month to $2M per week" (*self-reported*, [[../../sources/2025-100m-retention-playbook]], `PDF p. 22`).
 - **Ramp 1-on-1 first, and make group access an earned prize.** Run new members through a
   one-on-one onboarding ramp before opening the community, so group access is something earned
   rather than dumped on them — arriving activated instead of overwhelmed. Diagnose churn
@@ -178,7 +238,10 @@ fulfilling the original promise, not by piling on features.
 > like they're getting 100% of the value." — [[../../sources/2026-03-24-yt--j8_YCWZ05Q]]
 
 - Think **value per second, not seconds of value** — one great call, one recording, one weekly
-  action can be enough. Find the vital 1–2 features by survey: "if I deleted everything, what
+  action can be enough. This is a verbatim playbook maxim: "Think value per second, not seconds
+  of value. Less but better is better than more and decent. Overwhelm is the #1 reason for
+  churn" ([[../../sources/2025-100m-retention-playbook]], `PDF p. 12`). Gym Launch is now on its
+  "10th version," each shorter and simpler than the last. Find the vital 1–2 features by survey: "if I deleted everything, what
   one thing would you fight for?" and "if I kept everything but removed one feature, which
   would you not mind losing?" One Skool community *deleted* content and cut churn from 30% to
   5% month-over-month — a 6x LTV effect (*self-reported*). Planet Fitness is his analog:
@@ -218,6 +281,13 @@ more qualified because they paid more up front. Implement immediately; it stabil
 
 > "Annual always has lower churn than monthly and it's because you only need to decide one
 > time rather than 12." — [[../../sources/2026-03-24-yt--j8_YCWZ05Q]]
+
+- **"Big head, long tail" pricing.** The 2025 playbook is canonical here: ~10-20% of buyers
+  take an annual plan priced "buy 10 months, get 2 free," and a "big head, long tail" structure
+  — a large upfront charge plus a smaller recurring one (e.g. $6,800 setup + $199/mo) — can lift
+  LTV from $6,800 to $12,800 ([[../../sources/2025-100m-retention-playbook]], `PDF pp. 26-27`).
+  Higher price also raises churn on Skool (not proportionally), so "test, test, test." (See
+  [[money-model]].)
 
 ## Member success
 
@@ -329,6 +399,13 @@ his playbook for engineering reoccurring revenue:
 
 ## Sources
 
+- [[../../sources/2025-100m-retention-playbook]] — **$100M Retention Playbook (2025), canonical
+  anchor**: the 5 Horsemen of Retention, "shaking the three," the 9-step Churn Checklist,
+  activation points (top-20% method), ACA reach-out, four-milestone journey, "big head, long
+  tail" pricing; Gym Launch 8%→3% and 70x-profit targeting.
+- [[../../sources/2025-100m-lifetime-value-playbook]] — $100M LTV Playbook (2025): secondary for
+  churn as an LTV lever (LTV = Price ÷ Churn; 10%→5% doubles LTV), the "Crazy Eight" monetization
+  levers.
 - [[../../sources/2024-08-28-yt-afbP6sB_Atc]] — "Watch this to keep more customers": SaaS
   retention case study ($2M saved, 61% fewer cancellations — *self-reported*); onboarding,
   expectations, misaligned incentives, CLOSER "Reinforce," bamfam, escalations team, bow-tie

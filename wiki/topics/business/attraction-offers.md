@@ -2,13 +2,30 @@
 type: topic
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-08
-sources: 1
+updated: 2026-07-13
+sources: 4
 ---
 
 # Attraction Offers
 
 Attraction Offers are the first stage of Hormozi's Money Model: offers of something free or discounted that "generate leads and convert them into customers" and thereby "turn advertising into money" ([[../../sources/2025-08-16-100m-money-models|$100M Money Models]], PDF p. 37). Their purpose, restated in the section's conclusion, is "to turn strangers into customers. And, to do it in a way that gets more cash up front" — ideally enough cash to cover both the cost of acquiring the customer and the cost of delivering the product "multiple times over," so the business can pay itself back and fund the next customer ([[../../sources/2025-08-16-100m-money-models|$100M Money Models]], PDF p. 88). The underlying logic: most businesses are cash-constrained because they "spend too much to get customers and make too little from them," so acquisition gets solved first; and since strangers cannot verify value but absolutely understand price, discounts make anything a great deal — "the greatest discount of all being free" ([[../../sources/2025-08-16-100m-money-models|$100M Money Models]], PDF pp. 36–37). Hormozi presents five favorite Attraction Offers: Win Your Money Back, Giveaways, Decoy Offer, Buy X Get Y Free, and Pay Less Now or Pay More Later ([[../../sources/2025-08-16-100m-money-models|$100M Money Models]], PDF pp. 38–39). A sixth chapter in the section, the Free Goodwill Offer, is a meta-demonstration: a review-request chapter that itself is a goodwill offer ([[../../sources/2025-08-16-100m-money-models|$100M Money Models]], PDF pp. 84–87).
+
+## The Grand Slam Offer (foundational, 2021)
+
+The attraction offers above are all vehicles for one earlier, canonical idea. In [[../../sources/2021-100m-offers|$100M Offers]] (2021) — the foundational "what you sell" volume the later books build on — Hormozi defines the **Grand Slam Offer**: an offer that "cannot be compared to any other product or service available," combining an **attractive promotion**, an **unmatchable value proposition**, a **premium price**, and an **unbeatable guarantee** ([[../../sources/2021-100m-offers|$100M Offers]], PDF p. 42). It lets you sell in a **"category of one"** — a value-driven rather than price-driven purchase — which raises response rate, conversion, and price at the same time, escaping the commodity "race to the bottom" ([[../../sources/2021-100m-offers|$100M Offers]], PDF pp. 41–42). Verbatim thesis: "Make people an offer so good they would feel stupid saying no." ([[../../sources/2021-100m-offers|$100M Offers]], PDF p. 25, quoting Travis Jones). The Win Your Money Back offer, above, was "the first Grand Slam Offer that Gym Launch taught."
+
+## The Value Equation (2021)
+
+The engine inside every Grand Slam Offer. **Value = (Dream Outcome × Perceived Likelihood of Achievement) ÷ (Time Delay × Effort & Sacrifice)** — raise the top two, drive the bottom two toward zero, and perceived value approaches infinity ([[../../sources/2021-100m-offers|$100M Offers]], PDF pp. 80–81). The best companies compete on the denominator, making the outcome immediate and effortless (Apple, Amazon, Netflix) ([[../../sources/2021-100m-offers|$100M Offers]], PDF p. 81). "Perception is reality" — the prospect must *perceive* the change ([[../../sources/2021-100m-offers|$100M Offers]], PDF p. 82). Corollary on the Time-Delay driver: "The only thing that beats 'free' is 'fast.' People will pay for speed." ([[../../sources/2021-100m-offers|$100M Offers]], PDF p. 88). (A ~2020 proto-version — believability + high ROI/value + a monetization model — is noted in [[money-model|money-model]].)
+
+## Offer enhancers (2021)
+
+Four levers that "enhance an offer without changing it" ([[../../sources/2021-100m-offers|$100M Offers]], PDF p. 140):
+
+- **Scarcity** (cut supply) — three types: limited total supply, limited supply of a specific bonus/class, and never-available-again ([[../../sources/2021-100m-offers|$100M Offers]], PDF pp. 142–150).
+- **Urgency** (limit time) — four methods: rolling cohorts, rolling seasonal urgency, promotional/pricing deadlines, and exploding opportunity ([[../../sources/2021-100m-offers|$100M Offers]], PDF pp. 152–157).
+- **Bonuses** — widen the price-to-value gap by stacking many named bonuses, each with its own value, rather than discounting; ideally at least **one bonus is worth more than the entire price** ([[../../sources/2021-100m-offers|$100M Offers]], PDF pp. 159–167).
+- **Guarantees** — reverse risk. Four families: **Unconditional** (no-questions refund), **Conditional** (refund only if the buyer did the work), **Anti-Guarantee** (all-sales-final, framed as a feature), **Implied** (performance/revenue-share). A stronger guarantee usually nets more even when refunds rise (worked math: 117 net vs. 95 net = 1.23x) ([[../../sources/2021-100m-offers|$100M Offers]], PDF pp. 169–184). This is the taxonomy behind the conditional guarantees used in the Decoy and Pay-Less-Now plays above.
 
 ## Win Your Money Back
 
@@ -195,6 +212,24 @@ Not a business framework per se — a meta-demonstration: a chapter that itself 
 
 **Testimonials cited (with numbers):** Danny W. (quadriplegic in 2018, on welfare, made $50,000 in the following 12 months freelancing); Bill (opened a pizzeria in early 2022 after $100M Offers; ran the foodbank-donation-for-free-pizza-for-a-year play from $100M Leads); Thomas (laid off after ten years, built a Colorado tour guide business with 5 employees two years later); Miguel (gave the book to six employees and contractor trainers); Simon (Germany; used the Rule of 100 from the $100M Leads Cold Outreach chapter; booked 8 meetings in 7 days, closed 4, earned his first 500€); Alex (was making under $1,000/month; applied $100M Leads; signed a $2,000+/month client in 3 weeks, then three more); Mohan (Indian immigrant, quit his job 11 days after reading $100M Offers, sometimes earns €1,500 with bonuses, moved to Germany, debt almost paid). ([[../../sources/2025-08-16-100m-money-models|$100M Money Models]], PDF pp. 84–86)
 
+## Premium cash plays: Fast Cash (2025)
+
+The mirror image of a free/discount attraction offer: instead of the cheapest way in, a *premium* limited-time offer run to a business's **warmest** audiences (existing, past, and engaged leads) to "rip cash out of a business" fast ([[../../sources/2025-100m-fast-cash-playbook|$100M Fast Cash Playbook]], PDF pp. 7–8). Because those leads are already acquired and the price carries ~90% margin, the revenue drops almost entirely to profit.
+
+- **"10x the 10%":** "If you get 10% of your customers to pay 10x the price…you double your revenue" — and it's nearly all profit ([[../../sources/2025-100m-fast-cash-playbook|$100M Fast Cash Playbook]], PDF p. 8). In his early days, cash plays were ~15% of revenue but "nearly half my profit."
+- **"Add a zero" pricing:** take average cart/transaction value and add a zero (10x); "get frisky" and multiply by five (up to 50x). The price self-selects buyers with purchasing power ([[../../sources/2025-100m-fast-cash-playbook|$100M Fast Cash Playbook]], PDF p. 11).
+- **Construction:** one-to-three core components plus three bonuses drawn from *unscalable* value (attention, personalization, convenience, status, speed, access, network, secrets), layered in one at a time; cap sales at ~5–10% of customers so it sells out (by day 3–4) ([[../../sources/2025-100m-fast-cash-playbook|$100M Fast Cash Playbook]], PDF pp. 10–11).
+- **Two seven-day cadences:** **Push-to-Consult** (staged texts/emails at 7, 6, 5, 3, 2, 1 days + 12 hours out, each adding a bonus and a countdown, ending "sold out") vs. **Push-to-Automated-Checkout** (build launch-style tension, then open the cart to everyone at once, first-come-first-serve) ([[../../sources/2025-100m-fast-cash-playbook|$100M Fast Cash Playbook]], PDF pp. 12–14).
+- **Cadence:** run **every 90 days** (once a quarter); a worked gym example turns four plays into +$229k cash and +22 customers (net income ~4x) ([[../../sources/2025-100m-fast-cash-playbook|$100M Fast Cash Playbook]], PDF pp. 18–19). Governing maxim: "Revenue is vanity. Profit is sanity. Cash is reality." (PDF p. 4)
+
+## More attraction-offer types (Lost Chapters, 2025)
+
+Cut offer chapters from the `$100M Series`, added to the five above. A split-test note frames all of them: across four independent tests (10 markets each), free vs. premium front ends had identical close rate and average ticket — only lead volume differed, with free front ends cutting lead cost 5x+ ([[../../sources/2025-100m-lost-chapters|$100M Lost Chapters]], PDF pp. 25–26).
+
+- **Freemium** — give the core away free, monetize a paid upgrade tier ([[../../sources/2025-100m-lost-chapters|$100M Lost Chapters]], PDF pp. 93–96).
+- **Free Pick-Your-Price** — let the buyer name their price (including $0); captures demand and data while surfacing willingness-to-pay ([[../../sources/2025-100m-lost-chapters|$100M Lost Chapters]], PDF pp. 97–101).
+- **Free With Alternate Revenue Stream — "the no-sale sale":** give a rejecting prospect something free (a take-home program, then a free orientation) and monetize a *different* product (e.g. supplements). These no-buyers spent **~50% MORE** on the alternate product than regular clients, and whether the first upsell is taken is "the greatest predictor of back-end conversion" ([[../../sources/2025-100m-lost-chapters|$100M Lost Chapters]], PDF pp. 103–107).
+
 ## Doctrine
 
 Section-level principles that run through all the Attraction Offer chapters:
@@ -212,4 +247,7 @@ Section-level principles that run through all the Attraction Offer chapters:
 
 ## Sources
 
+- [[../../sources/2021-100m-offers|$100M Offers]] (2021) — foundational volume: Grand Slam Offer (PDF p. 42), the Value Equation (PDF pp. 78–93), and the four offer enhancers — scarcity, urgency, bonuses, guarantees (PDF pp. 142–184).
 - [[../../sources/2025-08-16-100m-money-models|$100M Money Models]] (2025) — Section II, "Attraction Offers," PDF pp. 36–92.
+- [[../../sources/2025-100m-fast-cash-playbook|$100M Fast Cash Playbook]] (2025) — quarterly premium cash plays: "10x the 10%," "add a zero" pricing, push-to-consult vs. push-to-automated-checkout (PDF pp. 7–19).
+- [[../../sources/2025-100m-lost-chapters|$100M Lost Chapters]] (2025) — additional offer types: Freemium, Free Pick-Your-Price, Free With Alternate Revenue ("no-sale sale") (PDF pp. 93–108).
