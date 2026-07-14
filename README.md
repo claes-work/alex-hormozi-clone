@@ -58,7 +58,7 @@ This README stays focused on **using and maintaining the Alex clone**.
 
 ---
 
-## Start / resume (copy-paste)
+## Start / resume
 
 > Run **one loop at a time per repo** (two agents editing the same working tree corrupts it).
 > A single session may alternate ingest ↔ synthesis safely; two separate sessions may not.
@@ -69,7 +69,26 @@ was ist offen?
 ```
 (reads [`BACKLOG.md`](BACKLOG.md) — the full checklist across all workstreams)
 
-### Ingest loop — ingests, and auto-runs synthesis at each checkpoint
+### Build the corpus — one command (Claude Code)
+```
+/loop /ingest-loop
+```
+That's the whole thing. This single loop ingests batch after batch **and** runs a full synthesis
+pass at every checkpoint (a channel completes, or ~10 batches accumulate) — promoting the
+genuinely-new material into the topic and persona pages and recompiling `system-prompt.md` —
+then keeps going until the corpus is drained or you stop it. You do **not** start synthesis
+separately; the loop switches to it on its own. It commits and pushes after every batch, so
+stopping and resuming is exact.
+
+### Chat with the clone
+```
+/hormozi        (or: "act as Alex")     — exit with "exit persona"
+```
+
+### Running it outside Claude Code (Codex / Pi — no slash commands)
+`/loop` and `/ingest-loop` are Claude Code features (self-scheduling + `.claude/` skills). In
+Codex/Pi you drive the same two loops with a plain instruction. Paste this to ingest (it
+auto-switches to synthesis at each checkpoint):
 ```
 Read AGENTS.md, tools/INGEST.md and tools/SYNTHESIS.md. Then run one ingest batch:
 run  python tools/ingest_batch.py prepare --channel @MoreMozi --n 10
@@ -83,7 +102,7 @@ Repeat this rhythm until I say stop.
 ```
 (change `--channel` as needed: `@AlexHormozi`, `@MoreMozi`, `@GymLaunch`, `@ACQofficial`, `@TheSkoolSchool`)
 
-### Synthesis loop — close the gap / catch up on pending checkpoints
+To run **only** synthesis (catch up on pending checkpoints without ingesting):
 ```
 Read AGENTS.md and tools/SYNTHESIS.md. Then run one synthesis pass:
 run  python tools/synthesis_batch.py prepare
@@ -92,11 +111,6 @@ fidelity rules (one file at a time; date + cite; flag contradictions; drop pure 
 recompile persona/system-prompt.md (bump the version), move the checkpoint to Done + advance the
 high-water mark in pipeline/synthesis-state.md, append a log.md 'synthesis pass' entry, and commit +
 push. Then repeat for the next pending checkpoint until none remain or I say stop.
-```
-
-### Chat with the clone
-```
-/hormozi        (or: "act as Alex")     — exit with "exit persona"
 ```
 
 ---
@@ -120,6 +134,18 @@ push. Then repeat for the next pending checkpoint until none remain or I say sto
 Every source is tracked in the ledger at one of: **L1** cataloged → **L2** ingested (source page) →
 **L3** synthesized (promoted into topics/persona). Most long-tail content is L2-terminal; only
 genuinely-new material earns L3.
+
+## Browsing the wiki with Obsidian (optional)
+
+The wiki is plain markdown with `[[wikilinks]]` throughout, so it doubles as an
+[**Obsidian**](https://obsidian.md) vault — Obsidian is a free knowledge-base app that renders
+those links as a navigable graph. It's not required (any editor or GitHub reads the files fine),
+but it's the nicest way to explore how the clone's knowledge connects.
+
+1. Download Obsidian (free): **https://obsidian.md/download**
+2. *Open folder as vault* → select this repo folder.
+3. `index.md` is the human entry point; the graph view shows the knowledge web — click any
+   `[[link]]` to jump between sources, topics, and persona pages.
 
 ---
 
