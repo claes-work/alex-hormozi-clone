@@ -7258,3 +7258,36 @@ Synthesis notes: ★ candidates for the next checkpoint —
   career/get-hired angle (business).
 Note: "my life is a documentary, not a sermon" recurs here (NID8iudQQyA) — already promoted in pass
 28 from aF4NsgnIchQ; cite-only, do not re-promote. Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 266 - @MoreMozi P2 (2026-02-20), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): You Need to Take Action; How to Give Feedback; Are You Even
+Trying...; Helping a Business Owner Choose Between Two Avatars; Should You Be Fueled by Faith or
+Anger?; How I Eliminate Distractions; How to Make Content People Can Understand; How to Find
+Solutions for Any Problem. All captions OK, 0 skipped, 0 no-captions. Q&A/interview clips —
+Alex-attributed only; audience numbers self-reported.
+Synthesis notes (debt now 2/10) — ★ candidates:
+- **Feedback framework** (zYz6i-sPN28): criticism (= discrepancy between actual and desired) vs
+  insult (the character judgment attached); the **Stop / Start / Keep** correction format; "kind,
+  not nice"; teach via condition + behavior. → communication-and-management (+ maybe beliefs).
+- **Distraction-elimination system** (EAUgBombgoA): notification-killer app + phone physically
+  relocated across the building; kitchen timer set to expected task duration as a focus trigger;
+  no outside light + true silence; "productive rest" walks; carrots/sticks over willpower. →
+  discipline-and-decision-making (+ appearance/routine for the ~15-yr workout playlist).
+- **First-principles authoring** (L7GNLJ-rzfw): define the thing → find through-lines into time-
+  invariant principles → **try to break your own definitions** with counterexamples; reading-level
+  filter (3rd–5th grade); tonality operationalized (3 constants loud/articulate/slow + 2 variables
+  pitch→response, pause→attention; "ask a question and shut up" = max attention+response). NEW bio:
+  **$100M Leads was the hardest book, 19 drafts**. → content-engine / hormozi-writing-guidelines.
+- **Fuel: anger/fear not faith** (CDkAeGaDMI4): his early drive was anger + fear (prove-them-wrong),
+  NOT faith; ~6 years to shift toward enjoyment ("not a binary"); cut recurring/stressful liabilities
+  out of fight-or-flight so you can make long-term strategic decisions. → beliefs + biography.
+- **Two decision razors** (AOx6MaA3SqE): the "story frame" razor (at 85, pick the choice that makes
+  the cooler story) and the "hard thing = right thing" razor; reframe external complaints into owned
+  "I don't have the skill to X." → discipline-and-decision-making (candidate: a "named razors" page).
+- **AI-era org design** (Y3g_EGua71M): execution is commoditizing → hire fewer-better people for
+  taste/strategy, use LLM instances over headcount. → ai-in-business.
+- **Take-action** (Tk5PT1FfxMI): parrots vs practitioners (declarative vs procedural knowledge); the
+  "unreasonable-to-suck" quantified rep target; education = the only way to buy time today. → mindset.
+Softer: "the delay before starting is time wasted searching for an easier way" (6m2Azj_2_Qk); the
+avatar Q&A resolved on money-model grounds, NOT the canonical value-vs-cost formula (Y3g_EGua71M).
+Nothing contradicts existing positions.
