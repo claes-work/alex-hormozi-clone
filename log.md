@@ -6901,3 +6901,30 @@ slip for mediocrity", "I will do what is required" (> "do your best"), "niche sl
 vs-year-0 opportunity-cost framing, "too good to fail" long-form. Note: "do the obvious thing
 for an extraordinary period" credited to Shane Parrish, "features not bugs" not his own — not
 Alex-original.
+
+## [2026-07-19] ingest | yt batch 256 - @MoreMozi P2 (2026-02-25 to 2026-02-26), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): Success Has No Shortcuts; How I'd Sell Physical Products
+Using TikTok Shop; What Does Culture Mean?; How I Deal With Criticism; Helping a SaaS Owner
+Find His Ideal Customer; The Only Way to Win in Business; You Must Endure...; The Truth About
+Free Trials. All captions OK, 0 skipped, 0 no-captions.
+Attribution note: "How I Deal With Criticism" (Op_-Wja49JQ) prepped as solo but is actually a
+MULTI-SPEAKER conversation with an unidentified guest — the hater/criticism frameworks are
+marked attribution: uncertain and excluded from persona until disambiguated; only 3 items are
+confidently Alex. Q&A videos (SaaS ideal customer; free trials) have audience business numbers
+= self-reported, only Alex's answers = persona data.
+Synthesis notes: Two ★ L3-candidates for the next checkpoint — (1) **Culture framework**
+(Y6IGtYTrioE): culture = "the rules, spoken and unspoken, that govern reinforcement in an
+organization"; rules as if-then reinforcement conditionals; values = "chunked-up rules"; two
+codification methods (thorough codify-all vs. fast three-values); surface rules via conditions
+of behavior; champion-transposition heuristic (move the biggest culture champion only if the
+origin can still self-reinforce without them) → new business/mindset leadership-culture topic.
+(2) Confidently-Alex items from the criticism convo (Op_-Wja49JQ): his stated mission to convert
+"paper money" into **verified/liquid billionaire status**, and his "proof guy" credibility
+philosophy anchored on the monetization book that "made $100M in a weekend" → mindset/biography.
+Softer, non-★ carry-forwards worth folding into existing topics: **free-trial EPC math** with
+cancel-rate breakevens (½=2x, ⅔=+50%, ¾=even) + "free CTA raises CTR not just conversion"
+(2-ldIepwdt8) → business/pricing; **flavors-of-hard** taxonomy (dFUXZ1pcu1w) → mindset;
+one-goal-per-year strategy cadence + "strategy = fewest things, highest returns" (LLj3MLeu1u4)
+→ biography timeline; TikTok-Shop + affiliate-repost physical-product tactic (6LNtJsaB2Bs) →
+marketing; "your life equals one — take the safer bet" risk-framing (n_-pFwKsXvs) → mindset/
+wealth. Nothing contradicts existing positions.

@@ -482,6 +482,11 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-02-12 | [[2026-02-12-yt-6BQ3whjWG3M]] | How the top 1% think about money — buy income-earning skills, future-vs-today dollars | ★ |
 | 2026-02-17 | [[2026-02-17-yt-_KlZoPxbStk]] | "36 years to realize…" — passion=suffering; NEW bio: age 36, exit at 31, grandfather story, "men provide" | ★ |
 | 2026-02-23 | [[2026-02-23-yt-ZuJryiwxjDw]] | Why you're not making money — sell to the rich, tiered pricing 5–10x, close-rate as pricing signal | ★ |
+| 2026-02-25 | [[2026-02-25-yt-Op_-Wja49JQ]] | How I Deal With Criticism — quality-of-hater signal, trust a "council" over the crowd, "no successful haters"; ⚠️ multi-speaker (guest present) — hater frameworks attribution: uncertain; confidently-Alex: verified-billionaire mission, "proof guy" philosophy | |
+| 2026-02-25 | [[2026-02-25-yt-n_-pFwKsXvs]] | Helping a SaaS Owner Find His Ideal Customer — pick product over platform (platforms earn higher multiples only because brutally hard); ideal customer surfaces post-launch; "your life equals one — take the safer bet" | |
+| 2026-02-25 | [[2026-02-25-yt-LLj3MLeu1u4]] | The Only Way to Win in Business — strategy = prioritization of resources / fewest things, highest returns; one-goal-per-year cadence (book+$100M; advisory launch) | |
+| 2026-02-25 | [[2026-02-25-yt-cJOEhxeV25Y]] | You Must Endure... — endurance-through-no-choice; the $5,000 gym-lease story; constraints drive innovation ("necessity is the mother of invention") | |
+| 2026-02-25 | [[2026-02-25-yt-2-ldIepwdt8]] | The Truth About Free Trials — treat as earnings-per-click math; trials add a 2nd conversion point + lower first-month churn; cancel-rate breakevens (½=2x, ⅔=+50%, ¾=even); free CTA also raises CTR | |
 | 2026-02-26 | [[2026-02-26-yt-9lI8kq51TrE]] | Stop Making Excuses — excuses are "a permission slip for mediocrity"; "not your fault but still your problem"; mantra "I will do what is required" | |
 | 2026-02-26 | [[2026-02-26-yt-dKK6a2K2VXg]] | How I Balance Working With My Wife — no "balance"; split decisions by domain ownership; NEW bio: their one big fight (Alex overrode Leila on the software co. — she was right) | ★ |
 | 2026-02-26 | [[2026-02-26-yt-bZhs6HytAbM]] | You Know What to Do. Do It. — "niche slapping"; opportunity cost as year-4-vs-year-0; 5+5-year wealth arc; unlearn the "quit your job" rush | |
@@ -490,6 +495,9 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-02-26 | [[2026-02-26-yt-KCXmVaN4AJg]] | "$6M/Year Selling Branded T-Shirts, How Do I Scale?" — build predictive IP data, drop the exit thesis (not defensible), creator-ambassador distribution | |
 | 2026-02-26 | [[2026-02-26-yt-4vExrtzieOM]] | You Can Get to $10M/Year With Any Business — cost-of-switching/head-start; 4 business-model scaling shapes; supply- vs demand-constrained diagnosis | ★ |
 | 2026-02-26 | [[2026-02-26-yt-xbGuYFAXFrQ]] | Why People Actually Buy — reframes logical-vs-emotional as high- vs low-information buyer; all advertising moves buyers along that axis; brand does "conversations 1–3" at scale | ★ |
+| 2026-02-26 | [[2026-02-26-yt-dFUXZ1pcu1w]] | Success Has No Shortcuts — the "flavors of hard" taxonomy (sacrifice/effort/risk/uncertainty); Paul Graham "a million dollars = a million dollars of pain" | |
+| 2026-02-26 | [[2026-02-26-yt-6LNtJsaB2Bs]] | How I'd Sell Physical Products Using TikTok Shop — TikTok Shop + aggressive affiliate commissions → repost to IG collabs; pair commodity products with narrative; "variety comes from examples" | |
+| 2026-02-26 | [[2026-02-26-yt-Y6IGtYTrioE]] | What Does Culture Mean? — culture = spoken/unspoken rules governing reinforcement; rules as if-then conditionals; values = "chunked-up rules"; codify-all vs fast-three-values; champion-transposition heuristic | ★ |
 | 2026-02-27 | [[2026-02-27-yt-A5I1CyfdAVU]] | There Are Only 3 Things You Need to Focus On — the 3 strategic buckets: more customers / more LTGP per customer / less risk; 70/20/10 | ★ |
 | 2026-02-27 | [[2026-02-27-yt-PXOEyURBzY0]] | Start High Ticket, Then Go Mass Market — sell up-market first (10x price), build retention, then descend the price ladder; avoid the bottom | ★ |
 | 2026-02-27 | [[2026-02-27-yt-O2OEMGCBrUw]] | What Makes Something Valuable? — the ask-them-to-buy test + the Value Equation restated; personal-training vs GLP-1 as the worked example | ★ |
@@ -2070,7 +2078,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_2,040 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_2,048 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
