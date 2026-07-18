@@ -7225,3 +7225,36 @@ Agents correctly deduped: social→interest-media already present (corroborated 
 mental-toughness model already present (pointer only), consumable-deliverable already had a May
 telling (led with the earlier Feb one). Dropped long-tail repeats (competition-is-good, pain-is-
 progress, hard-work-is-the-goal, start-for-free, do-more-volume). Synthesis debt reset to 0.
+
+## [2026-07-19] ingest | yt batch 265 - @MoreMozi P2 (2026-02-20 to 2026-02-21), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): Should You Do More or Better?; How to Get Hired Anywhere in
+the World; If You Post on Instagram, Do This; How to Reduce Churn; Why Most People Never Get What
+They Want; If They Don't Have What You Want, Don't Take Their Advice; How to Speak So People
+Actually Understand You; How to Make Offers for Equity. All captions OK, 0 skipped, 0 no-captions.
+Several interview/mastermind clips — Alex-attributed only (the Instagram PDF-upgrade tactic and
+the "I'll take any role" line are audience/interviewer, flagged). First ingest batch after
+synthesis pass 28 (debt resets to 1).
+Synthesis notes: ★ candidates for the next checkpoint —
+- **Churn as unit-of-analysis** (vgqlDIu5-I0): "chunk up a level" from the one-off unit (project/
+  logo) to a durable revenue NODE (referral partner/agency) whose sub-units churn while the node
+  persists — run acquisition + LTV around the node (ALAN agency-pivot worked example). → retention.
+- **Offers-for-equity / roll-up arbitrage** (jqLimsg6WCY): no more consulting-for-equity (write a
+  check; bounded advisory only); the roll-up arbitrage offer (sell at 4x alone vs 9x with me, seller
+  keeps 7 / I take 2) needing decision authority + tag-along rights up front. → wealth/deal-making +
+  pairs with the four-elements-of-equity page.
+- **Anchor communication to observable reality** (2fc8mpumLFg): reduce amorphous words ("value,"
+  "brand," "feelings") to observables; intuition = imprinted pattern recognition — a concrete
+  extension of "clear, not clever." → communication-and-management.
+- **Instagram ManyChat comment-to-DM** (gdQ2rueggNU): DM automation as the most efficient eyeball-
+  to-CTA; deliver a resource-PDF lead magnet (embedded sale link + community CTA) not a bare link
+  (PDF-upgrade result is an audience member's, not Alex). → content-strategy.
+- **More↔better accordion** (SdyO4ZMe5yU): volume reveals what "better" is; mastering quality pulls
+  you back to volume; "if unsure, start with more — more will always make you better." → mindset.
+- **"Specificity of a request is inversely correlated with the skill of the recipient"** (OujxJhdJ-qw)
+  + "want to want to"; and the goals-mismatch reframe of backlash + Naval's "reach requires polarity,
+  polarity requires removing context" (NID8iudQQyA). → mindset / content-strategy.
+- **Supply/demand arbitrage for getting hired** (d042xz8i6q4): apply for the posted role then network
+  in and level up; target low-visibility firms (HVAC/electrical) over social-heavy companies. → a new
+  career/get-hired angle (business).
+Note: "my life is a documentary, not a sermon" recurs here (NID8iudQQyA) — already promoted in pass
+28 from aF4NsgnIchQ; cite-only, do not re-promote. Nothing contradicts existing positions.
