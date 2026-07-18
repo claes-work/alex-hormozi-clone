@@ -7400,3 +7400,39 @@ Synthesis notes (debt now 5/10) — ★ candidates:
 - **Resilience-as-evidence** (W5H_a1IBvSM): your own survival record up to now is the proof you can
   withstand anything ("if you're alive, you have proof you can stand it"). → mindset.
 Nothing contradicts existing positions except the flagged brand-vs-sales-team stage tension.
+
+## [2026-07-19] ingest | yt batch 270 - @MoreMozi P2 (2026-02-17 to 2026-02-18), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): Newsletter costs too much Q&A; What Is Discipline?; You Need
+to Hire A Players; Why Should People Believe You?; My Experience With Loneliness...; YOU Are the
+Biggest Constraint in Your Business; You Need to Hire Better Talent; How to Hire A-Players. All
+captions OK, 0 skipped, 0 no-captions. THREE hiring videos this batch (9hGIokrCnOQ / I3r6aupilBk
+/ 2bfyiXLcqAw) overlap heavily on the framework layer (already synthesized) — at synthesis, MERGE
+into ONE hiring enrichment and promote only the distinct mechanics once. Interview clips: hiring
+stories + a Steve Jobs quote belong to the interviewers (flagged, excluded from persona).
+Synthesis notes (debt now 6/10) — ★ candidates:
+- **Discipline defined** (ya6Q_Q3eAiA): discipline = consistency with things you DON'T like (liking
+  the task disqualifies it) / **frustration tolerance** (do what you don't want, no immediate reward,
+  extended period); a skill not a trait. → beliefs (extends the operational-definition pattern:
+  focus/commitment = elimination of alternatives, mental toughness = probability).
+- **Hiring trio — merge** (9hGIokrCnOQ + I3r6aupilBk + 2bfyiXLcqAw): distinct NEW mechanics to
+  promote ONCE into hiring-and-recruiting.md — (a) **square-root law** (√headcount ≈ 50% of value);
+  (b) **ownership-% litmus** (Jensen ~4% / Bezos ~7–9% / Elon ~20% → add horsepower, dilute
+  yourself); (c) **future A-player projection** (who'd be an A-player at your target scale? hire them
+  now); (d) the **five-clone opportunity-cost exercise** (~10x rev, >10x EV, faster); (e) **first-
+  two-weeks A-player recognition** + the **onboarding litmus** (life worse=bad / unchanged=bad /
+  dramatically-reallocated=A-player); (f) "high activity, high alignment" signature; (g) firing-pain
+  reframe analogies. Framework layer (barrels-vs-ammo, 3Ds, aggregate horsepower) already covered —
+  don't re-add.
+- **WISBY + extreme-proof-degraded-down** (nypmbn0mmGQ): the "Why Should I Believe You?" mnemonic
+  (design for a maximally skeptical viewer) + lead with your most extreme demo, prospect self-scales
+  it down. → proof.md.
+- **Loneliness self-narrative** (g0ZYCcQRDUA): he likes being alone / rarely lonely; isolation is a
+  form of shame that "only exists in the dark" (dissolves when spoken); mother's maxim "the news is
+  always the same, only the names change." → beliefs + biography/voice.
+- **Newsletter monetization stack** (xCWTDbdmJlo): SLO (~2% cold upgrade + $97) to self-liquidate
+  CAC; quiz funnel (drop-off 50/50 then flat past Q3) → offers; welcome-sequence "12 comms over 4
+  days" blast; GPT customer-call-mining for VSL copy in the avatar's language. → audience-monetization.
+- **Time-study → GPT → role set** (-Jo4ffVktEo): feed a full time study into GPT to output the
+  minimal set of roles + JDs that replace 100% of the founder (rest reinforces keyman-risk). →
+  ai-in-business / hiring-and-recruiting.
+Nothing contradicts existing positions.
