@@ -6956,3 +6956,31 @@ content-strategy/community-building.md. Softer carry-forwards: **source-vs-acoly
 principles** distinction + "influencer's influencer" positioning (iauYY6MNfRg) → marketing/
 credibility; bill-to-value one-time-vs-consumable pricing w/ sandwich analogy (NT8BjyRgu_I).
 Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 258 - @MoreMozi P2 (2026-02-24 to 2026-02-25), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): How to Get Anything You Want; Stop Getting in Your Own Way;
+Why Live Streaming Is the Future; The Reason Why You Haven't Hit Your Goals...; You Need to Start
+Doing Outbound; This Mistake Cost Me $50 Million; Live Streaming Is the Future of Content; You
+Need to Start for Free. All captions OK, 0 skipped, 0 no-captions.
+Dedup / sibling note: the two live-streaming videos (7EjwXPmHSq4 2026-02-25 solo; dvZPQjGDaIc
+2026-02-24 multi-speaker) are almost certainly two cuts of ONE conversation. Kept both as L2
+(each surfaces distinct examples) but cross-linked as siblings in the index + ledger — the
+shared live-streaming thesis must be promoted ONCE in synthesis, not double-counted. dvZPQjGDaIc
+is multi-speaker: the vivid house-party / streaming-backpack / Truman-Show anecdote belongs to a
+GUEST and must NOT train the persona; only the "last human domain"/source-of-truth thesis + clip-
+repurposing tip are confidently Alex.
+Synthesis notes: Two ★ bio/framework L3-candidates for the next checkpoint — (1) **"$50M mistake"
+bio** (YK3icGhvxYk): during the Gym Launch era a cheaper 1-on-1 competitor poached ~10 of his top
+testimonial clients; he panic-relaunched by cutting his base's price (~$3,000→$2,500/mo, −$500K/mo
+topline, −$6–7M/yr profit); churn didn't move; the multiplied loss at eventual sale ≈ $50M. Yields
+a datable biography episode + a strong **threshold-pricing belief** (cutting price below a "this is
+a lot of money" threshold changes nothing on churn — you just earn less) + "don't copy a low-price
+competitor" market-leader principle → biography.md + business/pricing + beliefs. (2) **Live-
+streaming thesis** (7EjwXPmHSq4 + dvZPQjGDaIc): rawness→influence spectrum (A-listers < shorts <
+long-form < live), SPCL used as a content *filter* (target future-compliant prospects, not views),
+and the AI-era rationale "live streaming = the last human domain (AI can't live stream)" + stream→
+clip repurposing → content-strategy + beliefs (promote once). Softer carry-forwards: **pain/gain
+quadrant** vocabulary (Comfort=short gain / Regret=long pain / Fear=short pain / Fulfillment=long
+gain, Zv0YQGX-cMw) → mindset; **Gym Launch outbound origin story** (interviewed a lead rep at a
+~$10M/mo gym-software co doing it all via outbound — "broke his belief"; SZ9yqgnz7mw) → biography/
+outbound; external-labeling→self-belief loop (FIjhpXZImLo). Nothing contradicts existing positions.
