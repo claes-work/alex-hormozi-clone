@@ -7022,3 +7022,33 @@ checkpoint (debt now 5/10):
   (de-catastrophize via next 2-3 concrete steps); job-quit math test but "the math is never the
   real reason"; delay-discounting cuts both ways. → mindset/decision-making (merge the shared bits).
 Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 260 - @MoreMozi P2 (2026-02-23 to 2026-02-24), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): What Makes Someone Truly Exceptional; How to Get Better at
+YouTube; How to Get High-Level Talent to Join Your Startup; How to Scale a Photography Business;
+The Secret to Staying Focused; AI Will Only Make Your Services Easier to Deliver; Pain Is the
+Price of Progress; Helping a Custom Apparel Business Get More Qualified Leads (2026-02-23). All
+captions OK, 0 skipped, 0 no-captions. Two hiring/talent videos this day (0U6nqErQcRM overlaps
+the prior batch's wN0Sq8Y3HcQ — distinct angle: senior-talent-to-startup + equity mechanics).
+Synthesis notes (debt now 6/10) — ★ candidates:
+- **Five Ps opening framework** (lC0_WzMMRdQ): promise / pain / proof / picture / plan — a named
+  content-strategy opening structure; + "edit for retention with open loops" and "messenger =
+  message" (consumed in the same context). → content-strategy/content-engine.
+- **AI belief, dated 2026-02-24** (XZCQCrGUQys): don't fear AI, harness for leverage (~100x
+  service scale); gradual adoption curve (non-adopters still profit); load-bearing distinction —
+  humans-with-tools beat humans, but AI-vs-human directly AI wins. → beliefs.md (date it; his AI
+  view may evolve).
+- **"X factor"** (oym1WF7t7Yo): demonstrable depth across non-adjacent domains as a proxy for
+  high agency / independent thinking; vs buying personality "off the shelf." → mindset.
+- **Custom-apparel Q&A** (ks88Hl-K8JQ): Alex explicitly BREAKS his own "more/better before
+  different" heuristic when a ~100x leverage gap exists at the same operational effort (clean,
+  quotable exception to a core rule); "absolute profit per order" as north-star for a middleman;
+  + authorial statement — he now thinks **$100M Offers should have opened with the "your first
+  customer" chapter** ("start with the customer, then reverse-engineer the offer"). → business +
+  beliefs/biography.
+- **Four elements of equity** (0U6nqErQcRM): control / risk / profits / sale-upside, each
+  contractible synthetically instead of granting shares; "recruiting a co-founder = an investor
+  pitch"; "what would it take?" assume-the-yes opener. → hiring-and-recruiting (fold in; pairs
+  with prior batch's 3-part interview rubric).
+Reinforcement-only (no promotion): staying-focused (t5_q2DMz1XY), pain-is-progress (6Y4waDS93es),
+photography Core Four application (ViABsKH_7Ug). Nothing contradicts existing positions.
