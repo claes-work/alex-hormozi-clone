@@ -7052,3 +7052,37 @@ Synthesis notes (debt now 6/10) — ★ candidates:
   with prior batch's 3-part interview rubric).
 Reinforcement-only (no promotion): staying-focused (t5_q2DMz1XY), pain-is-progress (6Y4waDS93es),
 photography Core Four application (ViABsKH_7Ug). Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 261 - @MoreMozi P2 (2026-02-23), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): Why Does Life Need to Be Meaningful?; How to Make Offers
+People Never Churn From; If You're at Zero, Here's What You Need; Is It Possible to Sell High
+Ticket Without 1-on-1 Calls?; I Sell on Amazon. How Do I Scale?; How I Make Content Without
+Getting Burned Out; Should You Make Lifestyle Content?; What Is Mental Toughness? All captions
+OK, 0 skipped, 0 no-captions. Several are interview/roundtable clips (Chris Williamson on the
+meaning video; Sam co-advisor on the high-ticket Q&A; multi-speaker content roundtable) — only
+Alex-attributed material fed to persona; audience/co-advisor lines flagged.
+Synthesis notes (debt now 7/10) — ★ candidates:
+- **Anti-churn offer mechanics** (0c21D8j5aqI): promise-strength = conversion↔churn trade-off;
+  "stay for peers vs stay for you" retention lens; **consumable-deliverable / "education + news"**
+  continuity model (razor-and-blades for communities: teach the system once, then sell a
+  perishable weekly input) — the 3D-printing community cited at 2–3% monthly churn. → business
+  retention/offers + community-building. VERIFY the consumable-deliverable model isn't already
+  captured before creating a page.
+- **Mental toughness = learnable skill** (Ui6pE7qfmUI): 4 components (reactivity/short-fuse, the
+  "negative snowball," fortitude, adaptability/return-to-baseline) each with a behavioral fix;
+  "break the direct link between how you feel and how you act." → mindset + beliefs.
+- **Meaning as a choice, not a demand** (2TR1i1t4n2A): anti-framing distinct from the earlier
+  "meaning = learning" video — drop the "shoulds"; pursuit creates an uncloseable gap; Orson
+  Scott Card tombstone quote. → beliefs (complements, doesn't contradict, the learning video).
+- **Fear vs cowardice + bio** (XtNIfFEccWY): courage over tactics ("I'd rather be a failure than
+  a coward"; cowardice = letting fear steer you); NEW bio detail — drove halfway across the
+  country before calling his dad he'd left. → beliefs + biography. ATTRIBUTION: "fear is a mile
+  wide, an inch deep" is a **Leila** quote — attribute to her, not Alex, if promoted to voice.md.
+  Contains sensitive self-reported content (passive suicidal ideation as a ~22-yo consultant).
+- **His content-production pipeline** (No7PMFPQSS0): clearest first-person description of the
+  machinery — low-friction idea capture → dedicated "beef it out" block → batched "hero session"
+  → bullets-not-scripts → ads = hook + 3 points. → content-strategy/content-engine.
+Softer: anti-flex lifestyle-content argument (mMU_ZfG_Nok) → content-strategy/branding (borderline);
+"keep the price, change the format" semi-private 1-on-6/7 ~6x delivery (Rgd2hM9ivfk) → business/
+delivery-models. Reinforcing-only: Amazon = just a channel (fBF8_wSAs_A). Nothing contradicts
+existing positions.
