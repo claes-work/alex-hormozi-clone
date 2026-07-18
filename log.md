@@ -6875,3 +6875,29 @@ Topics:
 - **fitness/training-and-physique**: get-in-shape = body-fat%/deficit + progressive-overload+protein; Greg Nuckols distributed-volume experiment.
 
 High-water mark advanced to batch 254. No new topic pages created (learning cluster folded into mental-toughness-and-learning). Ingest and synthesis now balanced through batch 254.
+
+## [2026-07-18] ingest | yt batch 255 - @MoreMozi P2 (2026-02-26), 8 videos
+Ingested 8 @MoreMozi solo/Q&A cuts from 2026-02-26 (all L2). Videos: Stop Making Excuses;
+How I Balance Working With My Wife; You Know What to Do. Do It.; What's Working Right Now for
+Long-Form Content; You Need to Do a Time Study; "$6M/Year Selling Branded T-Shirts, How Do I
+Scale?"; You Can Get to $10M/Year With Any Business; Why People Actually Buy. All captions OK,
+0 skipped, 0 no-captions. Q&A/t-shirt video: audience business numbers self-reported, only
+Alex's answers = persona data.
+Synthesis notes: Several ★ L3-candidates for the next checkpoint — (1) **high- vs low-information
+buyer** axis as an explicit rejection of the logical/emotional-buyer cliché, all advertising =
+moving buyers along that axis, and brand "does conversations 1–3 at scale" so outbound needs
+only 1–2 calls (xbGuYFAXFrQ) → sales/marketing topics + possibly beliefs. (2) **Time-study
+mechanic**: log every 15 min for a week (5am–midnight, kitchen timer, 1–2-word logs) then
+delegate the biggest blocks (mriLyt2N_bw) → business productivity/delegation topic; plus
+"many-hatted fractionalist" + unicorn hire analogy for voice. (3) **Any business to $10M**:
+cost-of-switching/head-start model + 4 business-model scaling shapes (info fast-then-flat, SaaS
+slow-then-exponential, e-com fast-but-cash-constrained, service slow-but-steady) tied to a
+supply- vs demand-constrained diagnosis (4vExrtzieOM) → scaling topic. (4) **NEW bio/decision-
+making**: Alex & Leila's one big business fight — he overrode her to build a software company
+while Gym Launch + Prestige Labs were thriving; now admits she was right (good idea, wrong
+timing, no infrastructure); frames the loss as opportunity cost of taking his eye off the ball
+(dKK6a2K2VXg) → biography + discipline/decision-making. Voice-only carry-forwards: "permission
+slip for mediocrity", "I will do what is required" (> "do your best"), "niche slapping", year-4-
+vs-year-0 opportunity-cost framing, "too good to fail" long-form. Note: "do the obvious thing
+for an extraordinary period" credited to Shane Parrish, "features not bugs" not his own — not
+Alex-original.

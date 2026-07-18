@@ -482,6 +482,14 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-02-12 | [[2026-02-12-yt-6BQ3whjWG3M]] | How the top 1% think about money — buy income-earning skills, future-vs-today dollars | ★ |
 | 2026-02-17 | [[2026-02-17-yt-_KlZoPxbStk]] | "36 years to realize…" — passion=suffering; NEW bio: age 36, exit at 31, grandfather story, "men provide" | ★ |
 | 2026-02-23 | [[2026-02-23-yt-ZuJryiwxjDw]] | Why you're not making money — sell to the rich, tiered pricing 5–10x, close-rate as pricing signal | ★ |
+| 2026-02-26 | [[2026-02-26-yt-9lI8kq51TrE]] | Stop Making Excuses — excuses are "a permission slip for mediocrity"; "not your fault but still your problem"; mantra "I will do what is required" | |
+| 2026-02-26 | [[2026-02-26-yt-dKK6a2K2VXg]] | How I Balance Working With My Wife — no "balance"; split decisions by domain ownership; NEW bio: their one big fight (Alex overrode Leila on the software co. — she was right) | ★ |
+| 2026-02-26 | [[2026-02-26-yt-bZhs6HytAbM]] | You Know What to Do. Do It. — "niche slapping"; opportunity cost as year-4-vs-year-0; 5+5-year wealth arc; unlearn the "quit your job" rush | |
+| 2026-02-26 | [[2026-02-26-yt-JJNjq073MbE]] | What's Working Right Now for Long-Form Content — unique insight is the arbitrage ("too good to fail"); needs excess capacity + 4–5 meeting-free days; make the 20% you care about | |
+| 2026-02-26 | [[2026-02-26-yt-mriLyt2N_bw]] | You Need to Do a Time Study — log activity every 15 min for a week (5am–midnight), then delegate the biggest blocks; "many-hatted fractionalist"; unicorn hire analogy | ★ |
+| 2026-02-26 | [[2026-02-26-yt-KCXmVaN4AJg]] | "$6M/Year Selling Branded T-Shirts, How Do I Scale?" — build predictive IP data, drop the exit thesis (not defensible), creator-ambassador distribution | |
+| 2026-02-26 | [[2026-02-26-yt-4vExrtzieOM]] | You Can Get to $10M/Year With Any Business — cost-of-switching/head-start; 4 business-model scaling shapes; supply- vs demand-constrained diagnosis | ★ |
+| 2026-02-26 | [[2026-02-26-yt-xbGuYFAXFrQ]] | Why People Actually Buy — reframes logical-vs-emotional as high- vs low-information buyer; all advertising moves buyers along that axis; brand does "conversations 1–3" at scale | ★ |
 | 2026-02-27 | [[2026-02-27-yt-A5I1CyfdAVU]] | There Are Only 3 Things You Need to Focus On — the 3 strategic buckets: more customers / more LTGP per customer / less risk; 70/20/10 | ★ |
 | 2026-02-27 | [[2026-02-27-yt-PXOEyURBzY0]] | Start High Ticket, Then Go Mass Market — sell up-market first (10x price), build retention, then descend the price ladder; avoid the bottom | ★ |
 | 2026-02-27 | [[2026-02-27-yt-O2OEMGCBrUw]] | What Makes Something Valuable? — the ask-them-to-buy test + the Value Equation restated; personal-training vs GLP-1 as the worked example | ★ |
@@ -2062,7 +2070,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_2,032 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_2,040 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
