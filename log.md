@@ -7291,3 +7291,42 @@ Synthesis notes (debt now 2/10) — ★ candidates:
 Softer: "the delay before starting is time wasted searching for an easier way" (6m2Azj_2_Qk); the
 avatar Q&A resolved on money-model grounds, NOT the canonical value-vs-cost formula (Y3g_EGua71M).
 Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 267 - @MoreMozi P2 (2026-02-19 to 2026-02-20), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): How Important Is Intelligence in Entrepreneurship?; What Is
+Mental Toughness?; My Approach to Dealing With Life's Problems; How I Decide What Content to
+Consume; Stop Trying to Build a Cult-Like Following; How to Create "Good" Content; You Just Need
+Skills; How to Create Influence in 4 Steps. All captions OK, 0 skipped, 0 no-captions.
+Dup check: "What Is Mental Toughness?" (TyByzXCy89s, 2026-02-19) shares a title with the already-
+ingested Ui6pE7qfmUI (2026-02-23) but is NOT a dup — it's the upstream conceptual half (mental
+toughness as a PROBABILITY + a 6-stage response curve) vs the 4-components video; cross-linked as
+companions, both kept L2.
+Synthesis notes (debt now 3/10) — ★ candidates:
+- **SPCL influence framework** (gpNw_tlM6Sk): the named 4-part model — **Status** (reinforcers you
+  control) / **Power** (say-do correspondence) / **Credibility** (third-party proof) / **Likeness**
+  (similarity to audience); brand = "a history of positive reinforcement"; reach/influence/direction.
+  IMPORTANT: this DEFINES the "SPCL" acronym that earlier notes referenced (e.g. SPCL-as-content-
+  filter in the live-streaming videos) but never spelled out. MERGE with the "four-step reinforcer"
+  in fvjyOngt5ic (same framework, different words) into ONE SPCL entry. → marketing/branding + proof.
+- **Contrarian anti-cult stance** (fvjyOngt5ic): don't chase a cult-following; be product-obsessed
+  (a devoted following is a byproduct); make the enemy a CONCEPT not a person/company; "no such
+  thing as too long, only too boring." → content-strategy/branding. FLAG for synthesizer: check
+  tension with existing movement/attractive-character/us-vs-them audience advice.
+- **Mental toughness as a probability + 6-stage curve** (TyByzXCy89s): the % chance a bad event
+  changes your behavior vs your goals; response curve baseline→dip→depth→recovery→better/worse
+  fork→magnitude. → mental-toughness-and-learning (companion to the 4-components entry).
+- **Unsolvable-problem / "life overhead" class** (tjaXQahMJHA): some problems have no solution to
+  engineer — endure and "suffer well"; criticism as a fixed cost of living; the "ignorance tax"
+  (pay it down fast by paying into any room). NEW bio: **Leila's serious, ongoing health issues**
+  through the past year. → discipline-and-decision-making + biography.
+- **Good content = subtraction** (zOVioii6mCg): quality is deletion toward the content's implicit
+  promise (remove everything that sucks), ideal = frictionless "hit a button, get the outcome." →
+  content-engine.
+- **Skill-pricing delta method** (M7c8TF9eGE0): value of a skill = target income − current income
+  ("costs you $950k every year you can't make a million"); appraise education by *potential*
+  money/time not current wallet/time. → wealth/building-wealth or investing-and-wealth.
+- **Intelligence is overrated** (Ajn1i8-_C7U): courage / high agency / perseverance beat IQ; IQ's
+  real value is in **recruiting talent**, not doing the work. → beliefs + mindset.
+- **Information filter** (sBW2akk_2eU): opportunity-cost consumption ("what will I do with this?");
+  epistemic humility — "only talk about it once I've walked it." → beliefs/mindset.
+Nothing contradicts existing positions (the anti-cult stance is a reframe, flagged for review).
