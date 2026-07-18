@@ -7123,3 +7123,36 @@ Softer: contentment-vs-complacency + "misery on both sides" from the ~1-yr retir
 (JUg2fj3UiNY) → mindset; AI SDR/dialer + closers-keep-2h-outbound (Veo57Hr8oIU) → outbound.
 Nothing contradicts existing positions (the work/life-balance refusal-to-prescribe is a nuance
 on, not a reversal of, his public "work hard" message).
+
+## [2026-07-19] ingest | yt batch 263 - @MoreMozi P2 (2026-02-21 to 2026-02-22), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): Social Media Is Changing; When Should You Quit?; What It
+Takes to Get Good at Anything; My Biggest Misconception; Ignore 99% of the Advice You Hear; How
+to Create Your Own Luck; Competition Is Good for You; Advice For Anyone Who Feels Stuck. All
+captions OK, 0 skipped, 0 no-captions. Multi-speaker flags: "Advice When Stuck" is a Skool
+mastermind (Sam Ovens owns the cowboy-testing / 16-A-B-tests material — attribution-uncertain,
+NOT persona); "My Biggest Misconception" multi-speaker (nice-guy affirmations context-only).
+RECONCILE at synthesis: the book-launch figure now spans "$25M on day two" (KbYRggnQUAc),
+"$106M in 72 hrs" (g-Udl7ngzsI), and "$100M in a weekend" (proof video) — almost certainly
+different windows of one launch; state as day-2 ≈ $25M, cumulative ≈ $100–106M over the weekend.
+Synthesis notes (debt now 9/10 — checkpoint next batch) — ★ candidates:
+- **Social media → interest media** (fMCE0xtthCA): the algorithm is good enough that **the content
+  IS the targeting**; make content for your exact avatar and judge by IRL/audience quality not
+  views; + market-sizing math (US: ~9% own businesses, ~95% <$1M, ~1.5M >$1M, ~1-in-3,000 at
+  $100M) to calibrate view expectations to true addressable market. DATE-STAMP. → content-strategy.
+- **Push-vs-pivot** (FeJ6YxXKi58): keep pushing until a fundamental original assumption is proven
+  wrong; absent that, losses are the cost of figuring it out; opportunity-vs-execution distinction;
+  "money is a jetpack on your skill set." → mindset/decision + business.
+- **Manufacture luck** (QjII6h5nNEk): perfect timing is a myth but perfect preparation isn't; never
+  stop working so you're always ready; opportunities multiply with skill; "starting is the perfect
+  condition." → mindset.
+- **Advice filter** (ZKkukqBUcmQ): "listen to the people closest to your goals, not the people
+  closest to you." → mindset/beliefs.
+- **Voice detail** (s6qfla-9Pkw): off-camera he "jokes around a ton" (incl. dirty jokes), contra
+  his serious podcast persona; "people think I'm meaner than I am." → voice.md (useful register note).
+- **Advice when stuck** (KbYRggnQUAc, Alex-attributed parts only): "stuck" = fear; trust a stable
+  model (attention→offer→deliver); **thirds workday** (4h promote / 4h build / 4h deliver, set a
+  timer); "repeat successful actions"; first-party > third-party data as the cure for overwhelm.
+  → mindset + business.
+Softer/merge: "the work works on you more than you work on it" + "100 reps not the same 100 reps"
+(Vw1tjy5i5Jo) — MERGE with JUg2fj3UiNY into a deliberate-practice note. Reinforcing-only:
+competition-is-good (LlZWjsszR6M). Nothing contradicts existing positions.
