@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: business
-updated: 2026-07-10
+updated: 2026-07-19
 tags: [retention, churn, ltv]
 ---
 
@@ -338,9 +338,68 @@ leaving and the people staying, then engineer more of what makes them stay.
 > really just looks like a flat retention curve, and then what happens is it just keeps
 > growing." — [[../../sources/2026-03-24-yt--j8_YCWZ05Q]]
 
+## Promise strength & the churn trade-off
+
+Retention starts at the offer, not after purchase. In a Feb 2026 MoreMozi Q&A (a
+community operator asking what keeps people past a time-boxed "90 days to lose 10 kg"
+promise), Hormozi frames **promise strength as a conversion↔churn trade-off** and gives two
+durable retention levers plus a continuity mechanic (2026-02-23)
+[[../../sources/2026-02-23-yt-0c21D8j5aqI]].
+
+- **Bigger promise converts better but churns harder.** The stronger the promise, the lower
+  the bar to say yes (better front-end conversion) — but the higher the expectation, so the
+  more reason members have to leave later, especially at the promise boundary (day 91 of a
+  90-day promise). The theoretical zero-churn extreme is promising *nothing* and selling only
+  to a rare, self-qualifying buyer, because expectations are set so low there's nothing to
+  fall short of. Lowering the promised expectation is the trade you make to lower churn — the
+  mirror image of the "don't overpromise" onboarding point above.
+
+> "The more you promise, the lower the bar for saying yes, but also they have... less reason
+> to say yes, and so they have more reason to say no, which means they'll leave. It's a trade."
+> — [[../../sources/2026-02-23-yt-0c21D8j5aqI]]
+
+- **Retention lever 1 — qualification: do they stay for peers or for you?** If members stay
+  *for you*, you must perpetually generate value to hold the whole group; if they stay *for
+  each other* (a peer community, not a broadcast community), the members do the value-
+  generation themselves, which is sustainable. Engineering peer-to-peer stick offloads the
+  retention burden off the founder (connects to
+  [[../content-strategy/community-building]]).
+
+> "Are they staying for other people? Are they staying for you? If they have to stay for you
+> then you always have to be generating stuff... everyone else already does the generation on
+> their own." — [[../../sources/2026-02-23-yt-0c21D8j5aqI]]
+
+- **Retention lever 2 — continuity via "the next problem."** Every solved problem creates a
+  new problem ("all problems lead to more problems"). Naming that next problem clearly is what
+  turns a one-time win into an ongoing subscription — clarity about the new problem *is* the
+  continuity. (Connects to [[continuity-offers]].)
+
+> "When that first problem is solved, you create another problem... as long as you're clear
+> about what that new problem is, that becomes continuity."
+> — [[../../sources/2026-02-23-yt-0c21D8j5aqI]]
+
 ## Consumable recurring inputs
 
-In a May 2026 MoreMozi clip, Hormozi adds a sharper retention distinction for education,
+The **"education + news" consumable model** is Hormozi's strongest observed anti-churn
+mechanic for high-delivery (rather than high-qualification) communities. Its earliest
+articulation here is the same Feb 2026 Q&A above (2026-02-23)
+[[../../sources/2026-02-23-yt-0c21D8j5aqI]]: sell the front-end system once as a self-
+contained "black box" (*this is the system to lose weight / make money*), then keep members
+subscribed by supplying a **perishable input they still need to run it** — razor-and-blades
+applied to a community ("you got the printer, but you still have to buy ink from me"). His
+cited example is a 3D-printing community at **~2–3% monthly churn**: the operator had already
+taught everyone *how* to print (education, done once), then had his team scrape the
+currently top-selling 3D-printed products each week; members already knew the how, so they
+stayed for the weekly news. The formula he names is to blend **education (done once) + news
+(fresh weekly)** into a recurring consumable — e.g. a weekly "hot list" of new
+wholesaling/real-estate addresses, or the current top-selling products in a niche.
+
+> "I give you this thing one time, you learned it, but in order to run that machine, you still
+> need to buy ink from me... you still need to get the hot list of wholesaling... real estate
+> addresses that are new this week and next week they're going to be different."
+> — [[../../sources/2026-02-23-yt-0c21D8j5aqI]]
+
+In a May 2026 MoreMozi clip, Hormozi restates the same distinction for education,
 coaching, and membership businesses: **curriculum is consumed once, but recurring inputs
 are consumed again and again**. Once a student learns the lesson, that lesson's value falls;
 the business needs something the customer still uses monthly [[../../sources/2026-05-28-yt-Pa1XNVGhzOI]].
@@ -395,6 +454,42 @@ his playbook for engineering reoccurring revenue:
 > "If we can just show that half the people continue to buy something from us every year that
 > still makes it a very viable business." — [[../../sources/2026-03-30-yt-wlaMQa-Vw5I]]
 
+## Free trials as earnings-per-click math
+
+Coaching a Skool operator who feared a new free trial was dragging down MRR and attracting
+instant cancellers, Hormozi reframes the free-trial decision as pure earnings-per-click math,
+not an emotional one — and notes that a free trial *changes churn behavior*, not just
+conversion (2026-02-25) [[../../sources/2026-02-25-yt-2-ldIepwdt8]].
+
+- **A free trial adds a second conversion point.** You get higher conversion on the landing
+  page (more people start) but then lose some at a second conversion — trial→paid — that the
+  paid-upfront funnel doesn't have.
+- **Post-trial first-month churn is lower.** Customers who came through a free trial churn
+  less because they already tried the product; paying upfront produces higher first-month
+  churn (*self-reported* — "pretty sure we have the data on this").
+- **Decide it with an earnings-per-click spreadsheet.** Model each funnel per 100 clicks:
+  trial funnel (100 clicks → % start trial → % convert to paid → LTV given the lower churn)
+  vs. paid-upfront funnel (100 clicks → % convert → churn → LTV). Whichever top-line number is
+  higher wins. "It's just math."
+- **Cancel-rate breakevens (given a ~4x lift in front-end conversion from going free):** if
+  **½ of trial-takers cancel you've still doubled sales; ⅔ cancel = still +50%; ¾ cancel =
+  net even.** So a free trial can survive very high trial-cancel rates and still beat
+  paid-upfront.
+- **A "free" CTA also raises click-through, not just conversion.** "Start my group for free"
+  vs. "go buy my group" gets more people to click over in the first place — so the free offer
+  lowers cost-per-click (or raises clicks-per-piece-of-content organically) as a *second*
+  lever beyond back-end conversion.
+- **Run the test its full window before judging** (he suggests waiting the remaining
+  ~7 days / first month); it's reversible, so get clean data, decide once, and don't revisit.
+  Ignore the emotional reaction to instant cancellers — "just do the math."
+
+> "If half of them cancel, you're still doubled. If two-thirds of them cancel, you're still up
+> by 50%. If three-quarters of them cancel, you're net even."
+> — [[../../sources/2026-02-25-yt-2-ldIepwdt8]]
+
+> "When you say, 'Hey, you can start my group for free' versus 'Hey, go buy my group,' you
+> will get more people to click over." — [[../../sources/2026-02-25-yt-2-ldIepwdt8]]
+
 ---
 
 ## Sources
@@ -416,6 +511,13 @@ his playbook for engineering reoccurring revenue:
 - [[../../sources/2026-03-24-yt--j8_YCWZ05Q]] — "How to Get Your Customers to Stay FOREVER":
   ~13-point Skool retention playbook; leaky bucket, day-90 / month-6 thresholds, subtraction,
   daily owner presence, member success, tiering, annual plans.
+- [[../../sources/2026-02-23-yt-0c21D8j5aqI]] — "How to Make Offers People Never Churn From":
+  promise strength as a conversion↔churn trade-off; stay-for-peers vs. stay-for-you
+  qualification; continuity via "the next problem"; the education+news consumable-deliverable
+  model (3D-printing community at ~2–3% churn).
+- [[../../sources/2026-02-25-yt-2-ldIepwdt8]] — "The Truth About Free Trials": free trials as
+  earnings-per-click math; second conversion point, lower post-trial churn, cancel-rate
+  breakevens (½/⅔/¾), and the "free" CTA click-through lift.
 - [[../../sources/2026-05-28-yt-Pa1XNVGhzOI]] — consumable media / recurring inputs:
   curriculum loses value after learning; monthly consumables, tested ads, research,
   accountability, and community lower churn.

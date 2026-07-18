@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: content-strategy;business
-updated: 2026-07-09
+updated: 2026-07-19
 tags: [community-building, skool]
 ---
 
@@ -244,6 +244,138 @@ A distinct but complementary monetization philosophy from
 
 ---
 
+## Paid-traffic economics & the free→paid conversion system (2026 MoreMozi Q&A)
+
+From [[../../sources/2026-02-25-yt-OO1ACTnUh9U]] (all Alex-attributed, **paraphrase**
+unless quoted; dated **2026-02-25**). This is the operational, benchmarked version of the
+dual free+paid model above — the numbers and the conversion machinery are new here.
+
+### Diagnose "my ads stopped working" as audience fatigue, not the offer
+
+- **Ads cycling on and off is normal, not a failure signal.** "Ads start working then they
+  stop working and they start working and they stop working" — it happens to lots of
+  advertisers and is not by itself evidence something is broken. (verbatim)
+- **Don't blame a price change you can't isolate.** Without knowing the sample size (how
+  many people actually saw the offer), there's no evidence a price change caused the drop.
+  Here the operator moved the price *back down* and ads still didn't recover — which
+  suggests price was **not** the deciding factor. (paraphrase)
+- **The real culprit is warm-pool exhaustion.** "Facebook probably starts by focusing on
+  people who know who you are. And if you have a tiny little pool of people, then it'll
+  quickly go through those people. You'll make your sales and then it'll go to one degree
+  removed. And when it goes to one degree removed, those people don't know you at all, and
+  they're less likely to convert." (verbatim) Perceived "ads stopped working" is usually
+  this: the platform burned through the warm audience, then pushed to colder people who
+  convert worse.
+
+### The two-community model as the consistent outperformer
+
+- "The people that I'm seeing consistently outperform are the people who have two
+  communities. They have the free community because it's very easy to convert people into
+  free communities." (verbatim) A **free** community is cheap to fill and becomes the engine
+  that feeds a **paid** one. (This is the same dual-model structure as above, but here he
+  frames it as the answer to *ad economics*, not just product design.)
+
+### Benchmarks (new, concrete)
+
+- **Free opt-in target: 20%+ of clicks (1 in 5).** "If you can get 20% or more to opt into
+  the community, I think that's a good normal benchmark to shoot for, meaning one in five.
+  And so, whatever your cost per click is, multiply by five, that's what your cost per new
+  member is." (verbatim) → **cost per free member ≈ CPC × 5.**
+- **Manual lead-work conversion: ~10% free→paid.** If you **manually work the leads** (which
+  he recommends, especially for newer operators), you can get about **10% of free members to
+  buy the next (paid) thing.** (paraphrase)
+- **Viability formula: cost-per-free-member × 10.** Multiply your cost per free member by 10
+  (the inverse of the ~10% conversion rate). If your paid price still makes money at that
+  acquisition cost, the model is viable. (paraphrase)
+- **Recurring-revenue test — "the first nut."** Because the paid community is recurring, "if
+  I can cover the entirety of that first nut from the first payment, then every payment after
+  that is profit." (verbatim) That's his core test for whether the paid membership is worth
+  running against paid traffic.
+
+### The four free-to-paid conversion mechanisms (inside the free Skool)
+
+He likes **three** distinct mechanisms running simultaneously inside the free community, plus
+an optional fourth (all paraphrase unless quoted):
+
+1. **Onboarding / sales call.** Offer every new free member an onboarding call — functionally
+   a sales call where you walk them through the material and show them what's going on.
+2. **Five-video VSL / webinar sequence** posted as a "module" inside the free community:
+   (1) an **origin story** that frames the opportunity / big idea behind what you do; (2)–(4)
+   **three case studies** of representative people who each overcame a *different* obstacle,
+   which he buckets as **"myself, other people, and circumstances"**; and (5) a **call to
+   action** explaining what the paid community (or next step) is. Members who complete the
+   sequence **self-book** calls.
+3. **One live value call per week** into the free community: add value and answer questions,
+   then **soft-toss the CTA** — because you just solved people's problems, you can mention
+   that more advanced help exists in the paid community, and a handful convert each week.
+4. **(Optional) DM nurture.** DM people who join the free Skool to open an authentic dialogue.
+   Build rapport before soliciting — "take them out to dinner before you try and take them
+   home." (verbatim)
+
+---
+
+## Membership unit economics & scaling a stuck community (2026 MoreMozi coaching)
+
+From [[../../sources/2026-02-24-yt-6dED84QH8Yc]] — a live coaching clip where Alex diagnoses a
+content-membership business end to end (~$20K/mo, ~300 members at $49/mo, ~12% monthly churn,
+40–50 sales/mo). All Alex-attributed, dated **2026-02-24**, paraphrase unless quoted. The
+questioner's own numbers are self-reported.
+
+### Push, don't pivot
+
+- **Fix the business you have before chasing a "blue ocean" avatar.** He's mildly more open
+  than usual to a niche switch *because the business is barely a year old* — but still says
+  **stay longer.** Pivoting means rebuilding an entire audience from scratch (new Instagram
+  page, new game), and "you have a lot more to learn from this business before doing the next
+  thing." (paraphrase)
+- **Don't blame the avatar / market-size reframe.** Blaming the niche is "the obvious thing
+  that everyone says." The "market leader" has only ~5,000 members out of ~1M realtors, so
+  **nobody owns the market** — the real problem is **sales velocity** (~50/mo in a
+  million-person market is very low; you could be doing ~1,000/mo), not the avatar.
+  (paraphrase)
+
+### Churn → average lifetime → LTV → CAC (applied to a membership)
+
+- **Convert churn into a customer lifetime.** ~12% monthly churn ≈ **8-month average
+  lifetime**. At $49/mo that's **~$400 LTV.** "We just know that we're going to get 8 months
+  on average times 50 bucks, so we're going to make $400 per customer as long as CAC is, you
+  know, $100 or less. … We have high margins, we're good to go." (verbatim) Rule of thumb:
+  with high margins, the model works as long as **CAC ≤ ~$100.**
+- 12% monthly churn is genuinely tough — "that's like you lose all the customers by the end
+  of the year, almost." (verbatim)
+
+### Annual prepay as a cash-flow and churn lever
+
+- **When LTV ≈ 8 months, give ~4 months free on the annual.** "Right now, LTV is 8 months for
+  you. So, you might as well give four and pull the cash flow forward since it's equivalent,
+  and churn on those customers will be lower." (verbatim) It's economically equivalent to what
+  you'd have earned, but it **pulls cash forward** and **lowers churn** on those cohorts. (The
+  questioner was only offering 2 months.)
+
+### Segment toward the sticky / serious members
+
+- **Learn who churns vs. who sticks.** "There's probably two or three characteristics that
+  separate the people who do versus ones that don't" — find them, then target and build the
+  value prop around the stickers. (verbatim) Part-timers who are "barely business owners"
+  churn; the serious full-timers stay.
+- **Target recent buyers.** Aim at members **who closed a sale in the last 30 days** — not
+  necessarily top-1%, but "on the way," reinvesting, and with cash to spend now. (paraphrase)
+
+### Layer monetization on top of a low-ticket membership
+
+- **Run ads to learn true CAC.** The competitor reportedly isn't spending much on ads, so
+  it's untapped; measuring CAC tells you whether the ~$400 LTV math holds. (paraphrase)
+- **Self-liquidating offer on the thank-you page, priced above the annual**, to help cover
+  CAC. Concrete example: a **$197–$397 "high-ticket" digital product** (e.g. "the 100
+  best-performing pieces of real-estate content over the last year"). (paraphrase)
+- **A higher-tier ~$500–$1,000/month done-for-you upsell** built on heavy **AI and
+  automation** so it keeps high gross margins. (paraphrase)
+- Prescribed sequence: (1) learn which customers churn vs. stick, (2) build the annual-prepay
+  incentive, (3) run ads and measure CAC, (4) add the SLO + high-ticket upsell — master the
+  game and "you might just become the market leader." (paraphrase)
+
+---
+
 ## Growth & traffic (funnel, six sources, influencer arbitrage, referrals)
 
 From [[../../sources/2025-03-29-yt-hdawvvYqmYo]] unless noted. The funnel:
@@ -459,6 +591,13 @@ Three analogies recur across the whole corpus and are useful persona/voice marke
   proof; radical simplification; policing member "midwit" advice.
 - [[../../sources/2025-04-18-yt-dY1Mp1LVO0o]] — Give-best-value-free / monetize-next-
   problem; do-epic-shit-and-talk-about-it; problem-chunking.
+- [[../../sources/2026-02-25-yt-OO1ACTnUh9U]] — Ad-fatigue (warm-pool exhaustion) diagnosis;
+  two-community model as consistent outperformer; opt-in / conversion benchmarks (20%+ opt-in,
+  CPC×5 cost/member, ~10% free→paid, ×10 viability formula, first-nut recurring test); four
+  free-to-paid conversion mechanisms.
+- [[../../sources/2026-02-24-yt-6dED84QH8Yc]] — Coaching a stuck ~$20K/mo membership: push not
+  pivot; churn→8-month-lifetime→~$400 LTV→CAC≤$100; give-4-months-free annual prepay; segment
+  toward sticky/recent buyers; thank-you-page SLO + AI-managed upsell; don't-blame-the-avatar.
 - [[../../sources/2024-12-18-yt-V5hkdejbybQ]] — Skool VSL: party/doorman + Wikipedia
   analogies, "easiest business" positioning, success-story stacking.
 - [[../../sources/2025-02-22-yt-_Nz_0qxIyok]] — Skool VSL: party/Wikipedia analogies,

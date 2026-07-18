@@ -641,6 +641,99 @@ a reusable content-unit grammar ([[../../sources/2023-100m-leads]]).
 
 ---
 
+## Retention openings, a personal production OS, and the saves metric (Feb 2026)
+
+Three Feb 2026 @MoreMozi cuts sharpen the machinery underneath the engine: how he
+*opens* a video, how he *makes* content without burning out, and which short-form
+*metric* he now optimizes toward.
+
+### The five Ps opening framework
+
+His rule-of-thumb structure for the open of a video, taught while coaching a creator
+stuck at 2–3K views ([[../../sources/2026-02-24-yt-lC0_WzMMRdQ]]). This is the fuller,
+named sibling of the 2024 "proof, promise, plan" intro (Section 9): open with the
+**five Ps — promise, pain, proof, picture, plan.**
+
+> "My kind of rule of thumb on these is the five Ps... which is promise, pain, proof,
+> picture, plan." (verbatim)
+
+- **Promise** — what the viewer gets from the video. **Pain** — what they'll avoid
+  ("more good stuff, less bad stuff"). **Proof** — why they can believe you'll deliver
+  the promise. **Picture** — a visual road map of the rest of the video. **Plan** — the
+  steps. (Alex notes picture and plan are essentially the same thing — the picture is
+  just the visual version of the plan.) (paraphrase)
+- **Edit for retention with open loops.** He diagnoses a plateau not as a reach problem
+  but a creative-quality one: ask whether the content has actually been edited for
+  retention, whether it uses **open loops**, and whether it gives a clear road map.
+  "The content still isn't good enough for people to want to share." (verbatim)
+- **Messenger = message (proof is load-bearing, especially B2B/education).** "One of the
+  big misconceptions, especially around education, is that the message exists separate
+  from the messenger." In reality "the messenger and message are consumed within the
+  same context. And so that's why proof is so important." (verbatim) He sharpens this
+  past Section 5's "Frame beats content": make proof **relevant to the viewer's topic**,
+  not just impressive ("I have 200+ salespeople and I've sold across SaaS, e-commerce"
+  beats "our portfolio companies make a lot of money"), and **engineer third-party
+  proof** — he put Guinness World Records judges at an event so an outside party "whose
+  entirety is based on the credibility of their claims" could verify his sales figures.
+  (paraphrase + verbatim)
+
+### His personal production OS (an anti-burnout system)
+
+His clearest first-person description of the machinery behind his own content — framed
+explicitly as *why he doesn't burn out* ([[../../sources/2026-02-23-yt-No7PMFPQSS0]]).
+This is the low-friction/batched counterpart to the high-volume advice in Section 2:
+volume is the lever, but this is the operating system that makes sustained personal
+output possible. He reframes the problem — "I'm not a huge consumer, to be honest with
+you" — implying low input insulates him from the overwhelm others feel.
+
+1. **Low-friction idea capture.** The instant he has an interesting thought he **texts
+   his creative director** so the idea "doesn't just flutter away." (verbatim)
+2. **A dedicated "beef it out" block** later turns the captured seed into a full idea.
+3. **Batched "hero session" recording.** He records everything at once to ride the flow,
+   and gives himself "complete permission that that day I will accomplish nothing besides
+   recording this content." (verbatim) Cadence: ~one content day/week, realistically
+   closer to monthly around travel; he picks ~two things he actually wanted to think
+   about that week and those become the videos. (Batching is a personal-fit choice, not
+   a universal rule — he contrasts himself with Leila, who prefers spreading it out;
+   Leila = context.)
+4. **Bullets, not scripts.** The team hands him ~three headline options and two-to-three
+   intro options; he picks one of each, and the rest is bullets on a teleprompter, never
+   scripted prose. "If I had to script things, I would have quit a long time ago."
+   (verbatim)
+5. **Ads are the formulaic exception.** A short ad (~15s) is essentially **hook + three
+   points**, so there's little room and it's easier to lean on the teleprompter — versus
+   his looser, bullet-driven organic content. (paraphrase)
+
+### Saves = purchase intent (the short-form metric)
+
+His current answer to "the one metric that matters" for short-form
+([[../../sources/2026-02-25-yt-826y4pdB86c]]). Where Section 9 shifts the metric from
+**views → revenue (RPM)** for his owned long-form, this narrows the short-form signal
+further to **saves**.
+
+> "The number one metric was saves, not shares, not likes in terms of purchase intent."
+> (verbatim, citing a reported TikTok Shop meta-analysis)
+
+- **Why saves and not shares/likes.** Shares and likes serve the platform's objective
+  (views, time-on-platform) but don't indicate buying intent — a funny meme you send to
+  10 people racks up views yet doesn't make you buy from its maker. You **only save what
+  you don't already know** and expect to need later ("11 steps to fix X"), so save-worthy
+  content **cannot be obvious.** "You only save it if you don't know the 11 steps. So it
+  can't be obvious." (verbatim)
+- **Saves compound into trust → purchase.** Among the many creators you consume, the one
+  whose material you repeatedly felt compelled to "hoard" is the one you trust most and
+  buy from when you eventually act. (This is the same goodwill-compounds mechanic as
+  Sections 5–6, now with an on-platform proxy metric.)
+- **The content formula that earns saves.** "Give the normal advice and then respond to
+  your own advice with why people struggle with that. That's the content." (verbatim) The
+  lens: think of **content as removing friction** from people's lives — the value lives
+  in the layers *underneath* the obvious answer (what ChatGPT's first layer would say
+  isn't save-worthy; showing you've worked the problem across many clients is).
+- Caveat he raises himself: many people save content and never look back at it, so the
+  save action reveals intent even though the saved library often goes unused. (paraphrase)
+
+---
+
 ## Borrowed / credited ideas
 
 Alex is scrupulous about crediting others; these are not his coinages:
@@ -673,6 +766,9 @@ Alex is scrupulous about crediting others; these are not his coinages:
 - "What's inside the content matters more than the [wrapper]."
 - "I'm a writer first."
 - "We need to be reminded more than we need to be taught."
+- "The messenger and message are consumed within the same context. And so that's why proof is so important."
+- "You only save it if you don't know the 11 steps. So it can't be obvious."
+- "If I had to script things, I would have quit a long time ago."
 
 ## Related
 

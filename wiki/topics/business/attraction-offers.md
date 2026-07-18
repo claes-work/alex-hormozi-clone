@@ -2,8 +2,8 @@
 type: topic
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-13
-sources: 8
+updated: 2026-07-19
+sources: 10
 ---
 
 # Attraction Offers
@@ -251,6 +251,34 @@ A recurring "perfect offer" Hormozi hands project-based service businesses in li
 
 This is a **conditional/performance guarantee** in the taxonomy of the [[../../sources/2021-100m-offers|$100M Offers]] enhancers above, but distinctive in that the *conditionality itself* (no scope change) is the mechanism that lets the seller charge a premium while rarely paying — risk reversal for the buyer, risk-free for the seller.
 
+## Lead-magnet typology + the actual-insurance risk-reversal (2026-02-22)
+
+A live-coaching clip sharpening two mechanics that sit *under* the Grand Slam / Value-Equation canon above ([[../../sources/2026-02-22-yt-7qY7gBMWOB4|Better Offers and Lead Magnets]]).
+
+**Win on one of three value vectors, then raise price (paraphrase).** To build a better offer, out-compete on exactly one of **faster / less-risky / easier** — deliver the same dream outcome on a superior vector and you've earned the right to charge *more*, not less. (This is the same risk/speed/ease "vectors of value" triad applied to the On-Time/On-Budget guarantee below; here it's framed as the offer-design starting question.)
+
+**Three lead-magnet types (paraphrase).** A lead magnet is a small, complete solution that reveals the *next* problem your core offer solves. Three constructions:
+
+1. **Reveal-a-problem** — diagnose something the prospect didn't know was broken (an audit, a scan, a "grade your X"), so the paid offer becomes the fix.
+2. **Trial-of-solution** — give a working slice of the actual solution (a sample, a first session, a limited-time full-access trial) so they feel the mechanism work.
+3. **Splinter offer** — break one step off the core offer and sell/give it standalone; solving that one step naturally sets up the rest.
+
+**Buy an ACTUAL insurance policy on the customer's biggest fear (sharp NEW mechanic, paraphrase).** Rather than *self-insuring* a guarantee (the [[../../sources/2021-100m-offers|$100M Offers]] conditional/unconditional families above, where you refund out of your own margin), literally **purchase a third-party insurance policy** covering the prospect's single biggest fear about buying, then **fold the premium into your price** and present it as the risk-reversal. The fear becomes a line-item you've already neutralized with a real policy, so the guarantee is credible and off your own balance sheet — you charge for the coverage instead of eating it. A distinct, stronger form of risk reversal than a self-funded refund promise ([[../../sources/2026-02-22-yt-7qY7gBMWOB4|Better Offers and Lead Magnets]]).
+
+(Also in this clip: the giveaway non-winner "second-place / participation-trophy" discount call and the buy-X-get-Y-free "give away more free than paid, mark the unit price up" rule — both already documented under **Giveaways** step 5 and **Buy X Get Y Free** above, so not re-added here.)
+
+## High ticket without 1-on-1 calls: scale the delivery format, keep the price (2026-02-23)
+
+How to grow a high-ticket offer without either dropping the price or drowning in sales calls: **hold the price constant and change only the delivery format** ([[../../sources/2026-02-23-yt-Rgd2hM9ivfk|High Ticket Without 1-on-1 Calls]]).
+
+**The format ladder (paraphrase):** move delivery along three rungs while the price stays the same —
+
+1. **1-on-1** — maximum personalization, minimum leverage; the starting point.
+2. **Semi-private (~1-on-6/7)** — roughly **6x capacity** at the same price per client; the highest-leverage step because it keeps most of the intimacy while multiplying throughput.
+3. **Group** — one-to-many delivery; maximum leverage.
+
+**"A year of 1-on-1s earns you the right to scale" (paraphrase).** You can't productize what you haven't yet seen. Delivering **a full year of 1-on-1** work first is what *reveals the finite, repeating set of client problems* — once you've watched the same handful of problems recur across many clients, that set is **productizable**, and only then can you safely collapse the delivery into semi-private or group without losing outcomes. The 1-on-1 phase is R&D that buys the right to scale, not a permanent delivery model ([[../../sources/2026-02-23-yt-Rgd2hM9ivfk|High Ticket Without 1-on-1 Calls]]).
+
 ## Doctrine
 
 Section-level principles that run through all the Attraction Offer chapters:
@@ -278,3 +306,5 @@ Section-level principles that run through all the Attraction Offer chapters:
 - [[../../sources/2026-03-13-yt-cXnRN1Hw4ik|The Best Offer for a Construction Company]] (2026-03-13, @MoreMozi) — on-time/on-budget guarantee, construction variant (anchor math, no-change carve-out, risk/speed/ease).
 - [[../../sources/2026-02-28-yt-LUjY8GW5Tj4|Why Your Offer Stopped Working]] (2026-02-28, @MoreMozi) — offers don't decay from market fatigue; a dead offer is a product-quality failure (create want + deliver the promise).
 - [[../../sources/2026-02-27-yt-ocWSh3g--8s|Picking the Right Avatar]] (2026-02-27, @MoreMozi) — avatar-selection heuristic: pick one avatar (the largest value-vs-cost gap) and back it with a guaranteed-outcome offer.
+- [[../../sources/2026-02-22-yt-7qY7gBMWOB4|Better Offers and Lead Magnets]] (2026-02-22, @MoreMozi) — win on one of three value vectors (faster/less-risky/easier); three lead-magnet types (reveal-a-problem / trial-of-solution / splinter); buy an actual insurance policy on the customer's biggest fear and fold it into price as risk-reversal.
+- [[../../sources/2026-02-23-yt-Rgd2hM9ivfk|High Ticket Without 1-on-1 Calls]] (2026-02-23, @MoreMozi) — keep the price, scale the delivery format (1-on-1 → semi-private ~1-on-6/7 at ~6x capacity → group); a year of 1-on-1s reveals the finite, productizable problem set.

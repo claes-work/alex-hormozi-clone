@@ -74,6 +74,33 @@ price anchor because it makes the mechanism feel cheap. His blunt phrasing: "No 
 cares," "Just do the job," and "AI is just a vehicle for getting there"
 [[../../sources/2026-05-07-yt-cov0I0fXUO8]].
 
+### Feb 2026 stance: harness it, don't fear it — and the adoption curve is gradual
+
+In a late-February 2026 talk, Hormozi restates the pro-adoption posture as an explicit
+"don't fear AI, harness it for leverage" call (paraphrase): a service provider who wields it
+can roughly **100x** their scale [[../../sources/2026-02-24-yt-XZCQCrGUQys]]. Two dated
+refinements sit under it:
+
+- **AI disruption follows a gradual adoption curve, not a cliff.** Non-adopters still make
+  money for a long time — his analogy is that fax-machine and paper-based businesses remained
+  profitable well past the point the better technology existed. So the disruption is real but
+  the timeline is forgiving to laggards for a while (paraphrase, 2026-02-24).
+- **The load-bearing distinction: humans-WITH-tools beat humans, but AI-vs-human directly, AI
+  wins.** The competitive frame is never you-against-the-machine (you lose that); it is you
+  wielding AI against others wielding AI (paraphrase, 2026-02-24). This is the earlier,
+  Feb-2026 articulation of the "humans plus tools beat humans with inferior tools" moat
+  developed at length below (see [[#the-moat-risk-proof-and-judgment-as-the-last-human-edge]]).
+
+**AI-native agency + AI SDR (cross-links).** Two adjacent early-2026 applications whose home
+topics live elsewhere:
+- **Become an AI-native agency.** Roughly **80%** of agency work is AI-automatable today, so
+  going AI-native is the current-era margin fix [[../../sources/2026-02-21-yt-ebzHLIkxocE]].
+  Home topic: [[scaling-and-enterprise-value]]; see also the AI-agency opportunity section
+  below.
+- **AI SDR / AI dialer.** An AI SDR (or AI dialer) is an interchangeable alternative to a
+  human SDR team [[../../sources/2026-02-22-yt-Veo57Hr8oIU]]. Home topic: outbound/sales (this
+  is the same substitution logic as the "AI setter" guardrail below).
+
 ## Content in the age of AI
 
 From [[../../sources/2026-05-26-yt-XsWSvz-aewA]] (2026-05-26). See also [[../content-strategy/content-engine]].

@@ -3,8 +3,8 @@ type: topic
 domain: business
 domains: [business, wealth]
 created: 2026-07-08
-updated: 2026-07-13
-sources: 51
+updated: 2026-07-19
+sources: 55
 tags: [scaling, enterprise-value]
 ---
 
@@ -1110,6 +1110,101 @@ framing is persona data; any caller/self-reported figures are unverified.
   removes themselves as the single point of failure. [[../../sources/2026-02-27-yt-KrNwDozzTPk]]
   (The February articulation of §5b(1-3)'s "get the owner out" — marketing/delivery without
   the founder's face — stated as a personal-brand-vs-key-man-risk principle.)
+
+---
+
+## 15. February 2026 refinements (part 2): the life cycle, model shapes, margin-not-growth, and retention-as-cap
+
+Four late-February 2026 MoreMozi clips (two monologues, two live coachings). In coachings
+only Alex-attributed material is persona data; caller figures are self-reported and
+unverified. These sit *underneath* the focus / double-down throughline (§10, §5b(6)) —
+they supply its emotional engine, its business-model physics, and two sharper valuation
+mechanics.
+
+- **The entrepreneur life cycle — a named 6-stage emotional loop (2026-02-21).** Hormozi
+  names the emotional arc every founder rides: **(1) uninformed optimism** (an opportunity
+  looks easy and lucrative) → **(2) informed pessimism** (it's far harder than expected) →
+  **(3) crisis of meaning / valley of despair** (you keep working and it keeps not
+  working — the "point of truth" where paths split). From the valley the majority **jump to
+  a new shiny opportunity → back to uninformed optimism → around and around**, "living the
+  same six months for 20 straight years" (the **doom loop**); the minority stick and reach
+  **(4) informed optimist** (they know the bad *and* the good, and how to avoid/maximize
+  each) → **(5) achievement** — the thing they originally thought would be easy and fast.
+  Escape is **focus / "burn the boats."** He gives two crisp definitions: **focus = the
+  quantity and quality of the things you say no to**; **commitment = the elimination of
+  alternatives** (marriage is the ultimate commitment because it eliminates every
+  alternative). "Many entrepreneurs would 5-10x their business if they simply gave
+  themselves no way out." He self-reports 2024 was his first year without FOMO.
+  [[../../sources/2026-02-21-yt-e_WNbl_NU9k]] (This is the *staged emotional model* behind
+  the "woman in the red dress" / double-don't-diversify material already in §5b(6) and §10;
+  the same red-dress figure and "grass is greener — it's fertilized with shit" CFO line
+  recur here. The genuinely-new additions are the **named six stages / doom loop** and the
+  explicit **focus** and **commitment** definitions.)
+  > "This is the entrepreneur life cycle until you learn how to break free from it. And so
+  > there are six stages." / "They live the same six months for 20 straight years."
+  > "I measure focus by the quantity and quality of things that you say no to... I define
+  > commitment as the elimination of alternatives."
+
+- **Any business reaches $10M/year — cost-of-switching + four model shapes (2026-02-26).**
+  Almost any vehicle can hit $10M/year (even a tiny local market — "you just open up in new
+  markets"), so most goals are achievable *within the current vehicle*; people quit too
+  early. The **cost-of-switching / head-start model:** starting a new thing in year 3
+  resets you to "year 1" that is really **year 4 for you** — you forfeit both your head
+  start and the fact that **growth is easier once you're bigger**. His test: "If I only did
+  one thing for 40 years, would I be successful?" The four business-model **scaling shapes**
+  (a genuinely-new taxonomy): **info/education — fast-then-flat** (almost no revenue
+  retention; "like graduating school"); **SaaS — slow-then-exponential** (hard product,
+  scarce engineers, long unprofitable low-ticket phase, then "to the moon"); **e-commerce —
+  fast-but-cash-constrained** (inventory, supply chain, 3PL); **service — slow-but-steady.**
+  Owners "just hit the crappy part of their model" and misread it as the business being
+  broken — a **"feature, not a bug"** (difficulty is why you're paid). Diagnostic sharpening
+  of the supply-vs-demand lens (§6, §10): apply it at **both business and industry level** —
+  "**if you're the inverse of your industry, you're usually doing something either really
+  wrong or really right**"; most operators match their industry's normal constraint and
+  wrongly panic. [[../../sources/2026-02-26-yt-4vExrtzieOM]]
+  > "Most people's goals are achievable within their current vehicle. They're just too
+  > impatient and believe that there's another shiny object that somehow will get there
+  > faster."
+
+- **Selling an agency is a margin problem, not a growth problem (2026-02-21).** Coaching a
+  $7M/yr SEO/PPC home-services agency owner who wanted to double to $14M to sell for $20M,
+  Alex reframes the exit around margin. **Forward run-rate ("hypothetical max") = sales
+  velocity × LTV**, with **LTV = price ÷ churn** — worked live: $5K/mo ÷ 5% monthly churn =
+  $100K LTV; 10 units/mo × $100K = ~$1M/mo → **~$12M/yr already pacing** with no changes, so
+  the growth is **effectively banked** ("you can change nothing and get to 12"). The job is
+  therefore to make existing *and* incremental revenue **drop to the bottom line**: a niched
+  service agency should run **~80% gross margin** (his service rule of thumb), not the 50%
+  that traps EBITDA at ~13%; ~$12M revenue at ~$6M operating margin supports the $20M sale
+  (~3.3x). Two eras of *how* to recover the margin: the **"12-months-ago answer" —
+  nearshore the team**; the **"today answer" — become an AI-native agency**, since **~80% of
+  what the agency does is AI-automatable today** (everything but account management). Reframe
+  AI from threat to weapon: "be the big bad wolf, not the sheep."
+  [[../../sources/2026-02-21-yt-ebzHLIkxocE]] (Sharpens §11's "hypothetical max = sales
+  velocity × LTGP" (A46-I4vKbkI) with the explicit **LTV = price ÷ churn** decomposition
+  and the **already-sold-revenue-is-banked → sell margin, not growth** exit framing; the
+  nearshore-vs-AI-native two-era answer is new.)
+  > "You want to get to 14, you can change nothing and get to 12... make sure that the
+  > additional 5 million that's going to come is going to drop to the bottom line."
+
+- **Revenue retention — not niche or promotion skill — is the true cap (2026-02-21).**
+  Coaching a real-estate-agent coach at ~$12M/yr (elite at marketing/selling/events) who
+  wanted to jump to a broader "motivation" brand, Alex diagnoses that her cap is **revenue
+  retention, not her niche**: "you just don't have a thing that keeps people." A concrete
+  heuristic — **real business size ≈ (half your past buyers) × recurring price:** if half of
+  five years' buyers still paid ~$2K/yr she'd already be $40-50M/yr; selling without
+  retention leaves that value on the table. He ranks it his single biggest do-over: "**if I
+  could go back in time and redo Gym Launch, I would have focused 100% on revenue retention
+  and just disregarded everything else until I solved that.**" Promotion skill is never the
+  bottleneck (it returns with skills, network, money); the rare missing skill is **a
+  service/product people don't cancel from** — "that's the thing that will get you to 50,
+  100 plus." Starting a new brand only rebuilds the same wall faster with a split team; the
+  gate is the **run-without-you test** (six months hands-off). [[../../sources/2026-02-21-yt-Q3IaK-c1VWU]]
+  (Sharpens §5b(5)'s "reliable recurring revenue / net negative churn" into a first-person,
+  dated **retention-is-THE-cap** claim plus a sizing heuristic and a specific Gym Launch
+  retrospective; the six-month run-without-you test restates §5b(1)/§9d.)
+  > "The one deficiency for skills that you have right now is around finding a service and
+  > or product that people don't cancel from. And if you can just do that, that's the thing
+  > that will get you to 50, 100 plus."
 
 ---
 

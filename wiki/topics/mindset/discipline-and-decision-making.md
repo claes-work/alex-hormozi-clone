@@ -1,7 +1,7 @@
 ---
 type: topic
 domain: mindset
-updated: 2026-07-13
+updated: 2026-07-19
 tags: [discipline, decision-making]
 ---
 
@@ -1030,6 +1030,120 @@ cleanly imports noise and bias into a question that has a real answer
 above [[../../sources/2021-08-17-yt-LC7x7P_hhEQ]]: seek others' judgment only on genuinely
 open questions, not on ones math or a market test can resolve.)*
 
+## Late Feb 2026: the Solomon paradox, push-vs-pivot, the thirds workday, and the X factor
+
+**The Solomon paradox — coach yourself as your older, wiser self, then drill your excuses.**
+In a Feb 2026 clip, Hormozi names his personal decision method the **Solomon paradox**: hold a
+running internal conversation with an older, wiser version of yourself and reason about your own
+life from that vantage. He personifies it as **"old man Mosie" / "older me"** (most exchanges, he
+jokes, are "me getting mocked by older me"). The mechanic is an **excuse-drill self-interrogation**:
+adopt the older-self perspective, state the situation, then repeatedly ask **"why don't you do more?"
+→ "I can't because of X" → "why is that limiting you?"**, drilling each excuse until it either
+collapses as "not a real issue" or is confirmed a genuine constraint. He pairs this with a
+**single-constraint calendar discipline**: he keeps the most malleable calendar of anyone in his
+companies — near-empty, almost no recurring meetings (Mondays only, with marketing/sales/media
+compressed into one hour) — and pours all freed time into whatever the current binding constraint is
+(here: recruiting four more C-suite executives before the company can take on his next idea)
+[[../../sources/2026-02-22-yt-9JOm_ibGcf8]]. *(Distinct from the 85-year-old "grandfather" frame
+above [[../../sources/2023-10-03-yt-bkEJhzxHHnc]], [[../../sources/2023-12-30-yt--ouJJs1KaiE]]: that
+is a gratitude/regret device; this is an active self-coaching method for working a decision. The
+calendar-around-one-constraint move operationalizes the atomic-bomb / single-binding-constraint
+doctrine above [[../../sources/2026-03-18-yt-XPjUSHYjUOc]].)*
+
+> "The Solomon paradox, the running conversation with the older version of yourself."
+
+> "Well, why don't you do more? Well, I can't do more because of this. Well, why is that limiting
+> you? ... and it's like fine, all right, that's not a real issue. And so you keep going."
+
+**Push vs. pivot — persist until a fundamental *original assumption* is falsified.** Answering a
+couple deciding whether to quit an underwater wholesaling business, Hormozi gives his
+**push-vs-pivot heuristic**: keep pushing until a *fundamental assumption you originally held about
+the opportunity is proven wrong* — ask "what information did I originally assume was correct about
+this opportunity that is no longer true?" If no original assumption has been falsified, your losses
+so far are simply **"the cost of figuring it out,"** and while that cost still exists you push
+through it. He separates a **broken opportunity** from **broken execution**: here the market is fine
+("tons of people make money wholesaling"), so it is not a no-one-succeeds market — it is a specific,
+fixable **lead-generation** constraint. He adds a **skills-before-money** point: money is "a jetpack
+on your existing skill set" — without the skill, the jetpack just makes you crash faster
+[[../../sources/2026-02-22-yt-FeJ6YxXKi58]]. *(Sharpens the "how long to push before pivoting"
+eternal question above [[../../sources/2026-03-27-yt-wKG7QT0rjCo]] into a concrete falsification
+test, and complements the quit-your-job frameworks
+[[../../sources/2026-03-15-yt-Pr-zXnkPsRU]].)*
+
+> "I will continue to push until I have a fundamental assumption that's been proven wrong. So what
+> information did I originally assume was correct about this opportunity that is no longer true? And
+> if no original assumption is proven wrong, then this is just the cost of figuring it out."
+
+**"Guarantee bad, chance at good" — and fear of regret over fear of rejection.** In two Feb 24
+2026 clips on quitting a job for entrepreneurship, Hormozi frames the leap as **fear of regret
+outweighing fear of rejection** — the successful version of you still feels fear; it just fears
+regret more. His decision frame is **"guarantee bad, chance at good"**: honestly compare your two
+paths *including the default you'd drift into* — a *guaranteed* outcome you don't want (merely
+delayed) versus a risky path with a *chance* at the outcome you do want — and take the chance. He
+pairs it with a de-catastrophizing move (play the worst case all the way out; in the developed West
+the real downside is usually couch-surfing plus the opinions of people you don't care about) and
+notes **delay discounting cuts both ways** — people over-weight the immediate pain of quitting while
+massively under-weighting a whole lifetime of guaranteed misery
+[[../../sources/2026-02-24-yt-u4QLbGZVVZY]], [[../../sources/2026-02-24-yt-R_O5WczanGs]]. *(Both
+clips independently restate "fear exists in the vague, not the specific — break it into the next two
+or three concrete steps," already promoted above from a March source
+[[../../sources/2026-03-23-yt-FKTznrqd5mE]], and the decision-speed = power idea already captured as
+"potency" above [[../../sources/2026-02-24-yt-u4QLbGZVVZY]] echoes
+[[../../sources/2026-03-08-yt-xhTXq26dwoA]]; the genuinely-new pieces here are "guarantee bad, chance
+at good," the regret>rejection framing, and the delay-discounting-cuts-both-ways point.)*
+
+> "guarantee bad chance at good. And I was like, well, I might as well take a chance."
+
+> "The more successful version of yourself also has fear. It's just that your fear of regret is
+> greater than your fear of rejection."
+
+**The thirds workday — promote / build / deliver on a timer.** In a Feb 2026 Skool mastermind,
+Hormozi prescribes splitting the day into **thirds** — e.g. of a 12-hour day, 4 hours promoting,
+4 hours building the product, 4 hours delivering — **set a timer** and hold the block. He couples
+it with **"repeat successful actions"**: once something starts working, do not stop doing it, and
+especially do not stop out of fear it will stop working (his proof: giving the *exact same*
+book-launch presentation on day two, against advice, and doing ~$25M in sales — "we watch reruns of
+shows that we already know happened"). His cure for the "scattered braininess" of chasing every new
+tool is to trust **first-party data** (from actually doing the thing) over **third-party data**
+(others cheering what they think worked): the more first-party data you have, the stronger the
+signal and the smaller the noise, so you can tune almost everything else out
+[[../../sources/2026-02-21-yt-KbYRggnQUAc]]. *(Reinforces focus-as-subtraction
+[[../../sources/2026-04-07-yt-rtpOMZu0ork]] and "repetition is the father of skill" / more-beats-new
+[[../../sources/2026-05-08-yt-N5tckVyDSs4]]. Alex-attributed material only — the co-speaker's
+"cowboy testing" / A-B-testing specifics (likely Sam Ovens) are out of scope for persona voice.)*
+
+> "You will do something and as soon as it begins to work, do not stop doing that thing until it
+> stops working. Do not stop doing that thing because you fear it will stop working."
+
+> "The more first-party data you have from doing it — that's obviously so much more accurate and
+> relevant to you than third-party data, which is other people cheering what they think worked for
+> them."
+
+**The "X factor" = depth across non-adjacent domains as a proxy for high agency.** In a Feb 24
+2026 clip, Hormozi tries to quantify what makes people magnetic: **genuine depth across multiple
+domains that don't typically go together** (his archetype: Joe Rogan — MMA, comedy, biohacking,
+space, politics). People who buy their personality "off the shelf" — a bundled, tribe-issued
+identity — are instantly pattern-matchable and therefore uninteresting; interest is generated by
+**violating the expected pattern**, which forces the observer's brain to pay attention and update
+its schema. He reads the *count* of non-adjacent domains a person has real depth in as an indicator
+of **high agency** — the ability to think independently and make up your own mind, rather than
+inheriting a pre-set list of beliefs from a category [[../../sources/2026-02-24-yt-oym1WF7t7Yo]].
+
+> "It's the number of skills that you can demonstrate depth within that don't typically go together.
+> And I think that that tends to be an indication of somebody who's high agency."
+
+**Advice filter — "closest to your goals, not closest to you."** In a Feb 2026 clip on whose
+opinions to weight, Hormozi's discrimination rule is **"listen to the people who are closest to
+your goals, not the people closest to you"** — proximity and relationship are not credibility;
+weight advice by whether the person has actually reached where you want to go
+[[../../sources/2026-02-22-yt-ZKkukqBUcmQ]]. *(A relationship-based sharpening of the
+believability-weighted-advice filter above [[../../sources/2021-08-17-yt-LC7x7P_hhEQ]], and a
+companion to "don't ask others what math or a test can answer"
+[[../../sources/2026-02-28-yt-OIXUHuFG2nY]].)*
+
+> "We always have to think about listening to the people who are closest to our goals, not closest
+> to us."
+
 ## Sources
 
 - [[../../sources/2026-05-17-yt-CV48Gkckbn4]] — "12 by 30" work-ethic framework;
@@ -1117,3 +1231,18 @@ open questions, not on ones math or a market test can resolve.)*
   underrated ("heavyweight champion") option.
 - [[../../sources/2026-02-28-yt-OIXUHuFG2nY]] — don't ask others questions solvable by math (do the
   LTV:CAC yourself) or by testing (run a cheap test, let the market decide).
+- [[../../sources/2026-02-22-yt-9JOm_ibGcf8]] — the Solomon paradox ("old man Mosie"); excuse-drill
+  self-interrogation; single-constraint calendar discipline.
+- [[../../sources/2026-02-22-yt-FeJ6YxXKi58]] — push-vs-pivot: persist until a fundamental original
+  assumption is falsified; losses = "cost of figuring it out"; broken opportunity vs. execution;
+  money = a jetpack on skill.
+- [[../../sources/2026-02-24-yt-u4QLbGZVVZY]] — fear of regret > fear of rejection; decision-speed =
+  power; fear exists in the vague (break into next 2–3 steps).
+- [[../../sources/2026-02-24-yt-R_O5WczanGs]] — "guarantee bad, chance at good"; vague→specific
+  worst-case; delay discounting cuts both ways.
+- [[../../sources/2026-02-21-yt-KbYRggnQUAc]] — the thirds workday (promote / build / deliver on a
+  timer); "repeat successful actions"; first-party > third-party data (Alex-attributed parts only).
+- [[../../sources/2026-02-24-yt-oym1WF7t7Yo]] — the "X factor": depth across non-adjacent domains as
+  a proxy for high agency / independent thinking.
+- [[../../sources/2026-02-22-yt-ZKkukqBUcmQ]] — advice filter: listen to the people closest to your
+  goals, not the people closest to you.

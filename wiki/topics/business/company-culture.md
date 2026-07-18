@@ -123,6 +123,48 @@ data**, and is excluded from every quote and claim above. Leila Hormozi does not
 in this transcript. See [[../../sources/2023-05-19-yt-Zyv8jhO033c]] for the full
 speaker-attribution note.
 
+## February 2026 model: culture as rules, and how to codify them
+
+In two MoreMozi cuts (Feb 21 and Feb 26, 2026), Hormozi lays out the architecture
+underneath the values — the layer that the later April "rules of reinforcement"
+refinement makes explicit. All items are paraphrase unless quoted.
+
+- **Culture = the rules, spoken and unspoken, that govern reinforcement in an
+  organization.** As of Feb 2026, Alex defines each rule as an if-then reinforcement
+  conditional (*if* a given behavior occurs under given conditions, *then* it is
+  rewarded or punished), and defines **values as "chunked-up rules"** — a value is a
+  compression of many specific behavioral rules into one memorable label.
+  [[../../sources/2026-02-26-yt-Y6IGtYTrioE]]
+- **Surface the rules through the conditions of behavior.** As of Feb 2026, to make an
+  implicit culture explicit, walk the situations where behavior actually happens (his
+  example: the rules of a meeting — who speaks, when, how) and write down the reinforced
+  and punished behaviors you find there. That inventory *is* the culture, made legible.
+  [[../../sources/2026-02-26-yt-Y6IGtYTrioE]] [[../../sources/2026-02-21-yt-LlTJEc5NQ0I]]
+- **Two ways to codify.** As of Feb 2026, Alex offers a choice of method: the thorough
+  route ("codify everything" — write out all the behavioral rules across all
+  conditions), or the fast route (skip to ~three values and let them stand in for the
+  underlying rules). Same destination, different resolution. [[../../sources/2026-02-21-yt-LlTJEc5NQ0I]]
+- **Champion-transposition heuristic.** As of Feb 2026, when spreading culture to a new
+  unit or location, move your single biggest culture *champion* into it — but **only if
+  the origin unit can keep self-reinforcing its culture without them.** If the home
+  culture would collapse in that person's absence, it was carried by them, not codified,
+  and moving them just breaks two units instead of seeding one.
+  [[../../sources/2026-02-21-yt-LlTJEc5NQ0I]] [[../../sources/2026-02-26-yt-Y6IGtYTrioE]]
+- **"Nail it, then scale it" / scale to zero.** As of Feb 2026, Alex ties culture
+  replication to owner-time: get a business to *zero owner-time* (it grows without you)
+  before you replicate it. Don't open location two until location one runs without you —
+  otherwise you clone a dependency, not a system. [[../../sources/2026-02-21-yt-LlTJEc5NQ0I]]
+- **"Hire people worthy of admiration / hire your mentors" leadership razor.** As of Feb
+  2026, Alex's hiring test for leaders is to hire people you'd be willing to be mentored
+  by — people whose character and competence you admire — extending the "nobody works
+  for you with better values than you" point above into a concrete selection filter.
+  [[../../sources/2026-02-21-yt-LlTJEc5NQ0I]]
+- **Roleplay leadership conversations, not just sales ones.** As of Feb 2026, Alex
+  extends deliberate roleplay practice from sales into *leadership*: rehearse the hard
+  management conversations (feedback, accountability, conflict) the same way a sales team
+  drills its pitch, so managers build the reps before the real conversation.
+  [[../../sources/2026-02-21-yt-LlTJEc5NQ0I]]
+
 ## April 2026 refinement: culture as the rules of reinforcement
 
 In two MoreMozi Q&A cuts, Hormozi makes the mechanism beneath the values framework more

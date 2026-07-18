@@ -185,6 +185,41 @@ hundreds/week to thousands/launch, (b) AI as the permutation engine driving towa
 hyper-personalization, and (c) the flywheel goal of *customers* — not a bigger internal team —
 supplying the raw creative.
 
+## "Paid and content reached the singularity" — organic-as-ads (dated 2026-02-23)
+
+> This section is **trend-sensitive** and dated to **2026-02-23**
+> [[../../sources/2026-02-23-yt-zCqcPGNsOFc]]. Platform mechanics named here (Meta
+> "Andromeda", select-by-saves) are current-as-of that date and expected to move.
+
+A distinct late-February 2026 talk (separate from the March "Ads Have Changed Forever" video
+above) makes a structural call: **paid and organic content have "reached the singularity."**
+The dated evidence is organizational — his **paid team and media team are now one team**
+(paraphrase); the two disciplines have merged rather than sitting in separate silos.
+
+Practical doctrine that falls out of the merge:
+
+- **Run your best ORGANIC content as ads**, with only a **click-to-grab banner overlay** on
+  top — nothing more. This is a **dated evolution**: they **dropped the end-of-video CTAs**
+  they had been baking into content roughly a year prior (paraphrase, 2026-02-23), because the
+  banner-overlaid organic piece now carries the ad job.
+- **SELECT which content to run as ads by saves (and follows), not views.** Saves/follows are
+  the signal that a piece is worth promoting; view count is not the selection metric
+  (paraphrase, 2026-02-23).
+- **Meta "Andromeda" makes bad ads cheap → so run all your content as ads.** When the
+  platform's system drives the cost of weak creative down, the rational move is to push
+  everything you make through as paid rather than hand-curating a few (paraphrase,
+  2026-02-23).
+- **Directionality is one-way: organic → ad works, ad → organic does not.** Content built to
+  perform organically can be promoted into a working ad; creative built as an ad does not
+  back-convert into good organic (paraphrase, 2026-02-23).
+
+This is continuous with the "win on creative, not media buying" through-line and the
+March-2026 volume/self-proliferation thesis above: here the mechanism is the **team merge**
+and treating the organic library itself as the ad inventory. Cross-links: the banner-overlay,
+run-yesterday's-content-as-an-ad move mirrors the "self-licking ice cream cone" note in
+[[../business/ai-in-business]]; organic performance selection ties to
+[[../content-strategy/content-engine]].
+
 ## Budget split (70/20/10)
 
 Allocate creative time and budget in a **70/20/10** split:
@@ -287,6 +322,10 @@ collateral and often have a Google back-channel to push compliant accounts throu
 - [[../../sources/2025-100m-proof-checklist-playbook|`Proof Checklist Playbook`]] (2025-08-16) —
   canonical source for proof-led creative beating offer/education creative (the July-2024 Gym
   Launch ad-cost diagnosis).
+- [[../../sources/2026-02-23-yt-zCqcPGNsOFc|"Ads Have Changed Forever"]] (2026-02-23) — the
+  paid/organic "singularity": paid + media teams merged into one, run best organic as ads with
+  a click-to-grab banner overlay (dropped end-of-video CTAs), select by saves/follows not
+  views, Meta "Andromeda" makes bad ads cheap, and organic→ad works but ad→organic does not.
 - [[../../sources/2026-03-13-yt-3r-NEK4gFZ0|"Ads Have Changed Forever"]] (2026-03-13) — the
   2026 AI-era thesis: creative volume "in the thousands" per launch, hyper-personalization at
   scale via AI, and the self-proliferating / customer-generated-creative flywheel ("self-licking

@@ -7195,3 +7195,33 @@ Synthesis notes (debt now 10/10 — DUE) — ★ candidates:
   nature; quit white-collar job at 22–23, ~$50k saved, 6 months, "most afraid I've ever been." →
   biography + beliefs (reconcile w/ consulting thread).
 Softer: channel = the platform you use most / niche-community trust (21DcCeICYFU) → marketing.
+
+## [2026-07-19] lint | synthesis pass 28 — @MoreMozi batches 255-264 → system-prompt v36
+Drained the 10-batch synthesis debt (2026-02-21 to 2026-02-26 @MoreMozi window, 80 videos) into
+topics + persona. One agent per file (concurrency rule); 15 files touched, then system-prompt
+recompiled v35→v36. High-water mark advanced to batch 264 in pipeline/synthesis-state.md.
+Persona: **biography** — 2026 inflection (money no longer the goal / "win at life"; Skool ~$6-8B,
+ACQ ~$2-3B targets), plus THREE `> ⚠️` reconciliations ($50M mistake ≈ the existing "$5M lesson"
+at exit-scale; the $25M-day-2 / $106M-72hr / "$100M weekend" book-launch figures as one launch;
+"no job taught me skills" vs the consulting thread), the Leila software-co fight, Gym Launch
+outbound belief-break, early low-skill jobs, 2024 first-FOMO-free-year. **beliefs +12** (meaning=
+learning + meaning-is-a-choice/"should is the root of all pain"; work/love/happiness unified /
+"documentary not sermon" / refuses-to-prescribe; mental-toughness-learnable; fear-vs-cowardice;
+advice filter; manufacture-luck; push-vs-pivot; born-entrepreneur rejection; high-vs-low-
+information buyer; dated AI stance; verified-billionaire/proof-guy mission). **voice +9** lines +
+a public-vs-private register note. Topics (13): scaling-and-enterprise-value (entrepreneur life
+cycle 6-stage; any-biz-to-$10M 4-shapes; agency-exit margin-not-growth run-rate=velocity×LTV;
+retention-is-the-cap), hiring-and-recruiting (3-part rubric; four-elements-of-equity; barbell
+hiring; recruiting-supply-as-process), company-culture (culture=rules how-to; scale-to-zero),
+competitive-moats (patent only-a-moat-if-defended), retention (promise↔churn; consumable-
+deliverable; free-trial EPC), attraction-offers (insurance-policy risk-reversal; delivery-format
+scaling), content-engine (five Ps; hero-session OS; saves=purchase-intent), audience-growth
+(awareness-doesn't-self-propagate; live=last-human-domain), community-building (two-community
+model + benchmarks + 4 conversion mechanisms; membership unit-economics — HIGH-value Skool),
+discipline-and-decision-making (Solomon paradox; thirds workday; X-factor; guarantee-bad-chance-
+at-good), mental-toughness-and-learning (portable-skill reps), ai-in-business (dated AI stance +
+AI-native-agency/AI-SDR), paid-ads (paid+content singularity; select-by-saves; Meta Andromeda).
+Agents correctly deduped: social→interest-media already present (corroborated only), the 4-part
+mental-toughness model already present (pointer only), consumable-deliverable already had a May
+telling (led with the earlier Feb one). Dropped long-tail repeats (competition-is-good, pain-is-
+progress, hard-work-is-the-goal, start-for-free, do-more-volume). Synthesis debt reset to 0.

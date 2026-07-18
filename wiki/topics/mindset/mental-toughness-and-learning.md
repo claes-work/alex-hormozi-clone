@@ -138,6 +138,18 @@ tank" ([[../../sources/2026-03-18-yt-Rch-2uEI860]]).
 > you when no one else is watching." · "You're the only person whose respect you need to earn."
 > — [[../../sources/2026-03-18-yt-Rch-2uEI860]]
 
+### Feb 2026: same four-part model, compact restatement
+
+A Feb 2026 solo cut restates the same four-component model in shorthand — **reactivity / short
+fuse** (= *tolerance* above), the **"negative snowball"** (the compounding once fortitude fails),
+**fortitude**, and **adaptability / return-to-baseline** — each paired with a behavioral fix, all
+governed by the recurring rule to **break the direct link between how you feel and how you act and
+return to baseline as fast as possible** ([[../../sources/2026-02-23-yt-Ui6pE7qfmUI]]). This is not
+a new framework versus the 2025/March-2026 sections above; it is a compact operator restatement
+useful for persona voice, reinforcing that the fix for a short fuse is refusing to compound one bad
+event into worse behavior. *(Paraphrase; the "feelings ≠ behavior" rule is already quoted verbatim
+from [[../../sources/2025-11-21-yt-SE9_1PYsaP0]] above.)*
+
 ## The learning method (same condition, new behavior)
 
 Source: [[../../sources/2025-12-18-yt-q9qBqnhdWKw]].
@@ -576,6 +588,22 @@ a year or a month depending on dedication.
 > Canonical self-quote (voice): "The world belongs to those who can keep doing without seeing the
 > result of their doing." — [[../../sources/2026-02-28-yt-iOnr_HKVIZo]]
 
+### Feb 2026: the reps build a portable skill, not the output
+
+A Feb 2026 cut sharpens *why* the volume-plus-feedback loop above works, adding a framing the earlier
+cluster doesn't state: **the real output of practice is a portable SKILL lodged in the person; the
+visible output is only a lagging byproduct** — "the work works on you more than you work on it"
+([[../../sources/2026-02-22-yt-Vw1tjy5i5Jo]]). This reframes reps as changing *you*, not producing a
+tally, which is why raw volume without expert feedback is inert. Hence **"100 reps, not the same 100
+reps"**: mindlessly repeating one identical rep is not practice — "you got better 10,000 times, you
+didn't make 10,000 calls." He names two feedback mechanisms that convert volume into skill: an
+**end-of-day self-review** and **outside expert eyes** on the work. *(Distinct from the "coats of
+paint" / top-decile loop above, which is about extracting patterns from output; this is about what
+the reps deposit in the operator.)*
+
+> "The work works on you more than you work on it." · "100 reps, not the same 100 reps." · "You got
+> better 10,000 times, you didn't make 10,000 calls." — [[../../sources/2026-02-22-yt-Vw1tjy5i5Jo]]
+
 ## Skill compounding & luck surface area
 
 Source: [[../../sources/2026-03-17-yt-GNuNSi_6spM]] (March 2026 interview clip).
@@ -617,6 +645,15 @@ none" ([[../../sources/2026-03-17-yt-GNuNSi_6spM]]).
 
 > ⚠️ Attribution note: the Steve Jobs "connect the dots in reverse" line and the Ogilvy "half my
 > advertising is wasted" line are cited by Alex, not original to him.
+
+### Feb 2026: manufacture your own luck (preparation, not timing)
+
+A Feb 2026 cut supplies the *input* side of the luck-surface-area idea: **perfect timing is a myth,
+but perfect preparation isn't** — you can't manufacture the moment, but you can manufacture your
+readiness for it, and **opportunities multiply with skill** (the better you get, the more openings
+you can actually convert) ([[../../sources/2026-02-21-yt-QjII6h5nNEk]]). The one-word instruction is
+**"get good."** *(Paraphrase except "get good"; this pairs with the "remove luck from your lexicon"
+rule in the learning method above — luck is downstream of preparation and proficiency, not chance.)*
 
 ## Passion vs. proficiency vs. pain-tolerance
 

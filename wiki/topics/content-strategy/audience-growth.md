@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: content-strategy;marketing
-updated: 2026-07-13
+updated: 2026-07-19
 tags: [audience, content-strategy, spcl]
 ---
 
@@ -70,6 +70,33 @@ you make content *for your avatar*, not for views
 
 > "You absolutely can make plenty of money with a very small following as long as you
 > make content that's directly valuable for that following."
+
+**Corroboration (2026-02-22):** He restated this whole thesis in a dedicated solo clip —
+"social media is now turning into **interest media**," the algorithm "judges what you're
+wearing… who you are," the same census market-sizing math (~9% own businesses → ~32–33M;
+95% under $1M; ~1 in 250 over $10M; ~1 in 3,000 at $100M), and the two-businesses-under-
+5,000-followers proof point ([[../../sources/2026-02-22-yt-fMCE0xtthCA]]; self-reported /
+census-derived). *Independent second source — still trend-sensitive to the "algorithm is
+so good now" moment.*
+
+---
+
+## Awareness doesn't self-propagate (2026-02-23)
+
+A distribution counterweight to the "I've saturated my market" excuse. Hormozi
+(2026-02-23) argues the top reason a business is short on leads is simply that **not enough
+people know it exists** — the market is far larger, and personal awareness far smaller,
+than founders assume ([[../../sources/2026-02-23-yt-GUuVRyJn-1Y]]).
+
+- **Low leads ≈ low awareness.** Being known is small and *ephemeral* relative to the size of the market; "everyone's obsessed with their own lives."
+- **Saturation is (almost always) a myth.** Even after ~**$4–5M** of ad spend, at his last book launch only about **1 in 4** of his *own followers* knew a book was coming — **3 of 4 didn't** (up from ~19 of 20 unaware at the prior launch, ~two years earlier). If his own warm audience isn't saturated, yours isn't either. *(Self-reported.)*
+- **A product is inert until someone actively promotes it.** When the *Leads* book accidentally went live on Amazon for ~24 hours (~72 copies sold in ~60 min), the "leak" did no damage and built no momentum — because awareness doesn't propagate on its own. For a leaked or shared product to spread, *someone has to actively take it and promote/advertise it*. Quiet exposure ≠ distribution.
+
+> "You have to really internalize how unbelievably large the market is and how small and
+> ephemeral our attempts at being known are."
+
+> "No one knows you exist. No one knows your business exists… Everyone's obsessed with
+> their own lives."
 
 ---
 
@@ -166,6 +193,21 @@ despite saying he "honestly hate[s] making YouTube videos"
 > hours? It's like not even close."
 
 > "I think that the internet will always move towards truth."
+
+**AI-era rationale — "the last human domain" (2026-02-24→25):** Two sibling cuts of the
+same talk sharpen the truth thesis with an AI-saturation angle: humans optimize toward the
+**"source of greatest truth,"** and because (as of early 2026) **AI cannot live stream**,
+live is "the last human domain" — the format hardest to fake — so he'd "100% bet" its
+consumption keeps climbing. He also uses **SPCL as a content filter** here: judge a piece
+by whether it stacks status/power/credibility/likeness (i.e. yields future-compliant
+prospects), not by views. Practical tactic: **structure a stream so you can clip it into
+your long- and short-form content** — the live doubles as the production engine
+([[../../sources/2026-02-25-yt-7EjwXPmHSq4]]; [[../../sources/2026-02-24-yt-dvZPQjGDaIc]]).
+*(The vivid IRL house-party / streaming-backpack stories in the 02-24 cut are a **guest's**,
+not Alex — excluded from persona material.)*
+
+> "No AI can live stream, to my knowledge… in some ways live streaming is like the last
+> human domain. And so it makes sense that that's going to continue."
 
 **Volume underpins it all:** ~35,000 pieces of content in a year (vs. a typical
 $1–2M business's ~365), roughly 1-in-10 shorts becoming a 2–3x outlier, and near-linear

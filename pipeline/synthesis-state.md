@@ -6,10 +6,10 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 254** — synthesis pass 27, system-prompt **v35** (2026-07-13). (Prior:
-pass 26 through batch 244 at v34; pass 25 through batch 234 at v33; pass 24 through batch 224 + the
-inline-L3 $100M library synthesis at v32.) Everything ingested after this is L2 (source pages exist)
-but **NOT yet promoted** to topics/persona.
+Synthesized through: **batch 264** — synthesis pass 28, system-prompt **v36** (2026-07-19). (Prior:
+pass 27 through batch 254 at v35; pass 26 through batch 244 at v34; pass 25 through batch 234 at v33;
+pass 24 through batch 224 + the inline-L3 $100M library synthesis at v32.) Everything ingested after
+this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
@@ -17,6 +17,42 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 255-264** — synthesis pass 28 (2026-07-19) →
+      system-prompt **v36**. Promoted genuinely-new late-Feb 2026 (2026-02-21 to 2026-02-26) MoreMozi
+      material across **15 topic/persona files** (one agent per file, concurrency rule). Framework- and
+      biography-rich window. **persona/biography.md** (+ reconciliations): the **2026 inflection** (first
+      year since ~18 where more money isn't the goal, "win at life"; Skool ~$6–8B / ACQ ~$2–3B targets);
+      the **"$50M mistake"** panic price-cut flagged as almost certainly the SAME decision as the existing
+      "$5M lesson" told at exit-multiplied scale (`> ⚠️`); the **give-back book campaign** (17 books
+      "Blue→Green", 200/donor) with a `> ⚠️` reconciling the $25M-day-2 / ~$87M-day-1 / $106M-72hr /
+      "$100M weekend" figures as one launch's different windows; the **Leila software-company fight**
+      (~2019 ALAN); the **Gym Launch outbound belief-break**; **early low-skill jobs** (Smoothie King /
+      Orthodox-Jewish caterer / fur-coat brusher) with a `> ⚠️` reconciling "no job taught me skills" vs
+      the consulting thread; 2024 = first FOMO-free year. **beliefs +12**: meaning=learning + meaning-is-
+      a-choice/drop-the-"should" ("should is the root of all pain"); work/love/happiness unified + "my life
+      is not a sermon, it's a documentary" + refusal-to-prescribe; mental-toughness-as-learnable-skill (4
+      components); fear-vs-cowardice; the advice filter ("closest to your goals, not closest to you");
+      manufacture-luck; push-vs-pivot; born-entrepreneur rejection; high- vs low-information buyer; the
+      dated 2026 AI-leverage stance; verified-billionaire / "proof guy" mission. **voice +9** verbatim
+      lines + a public-vs-private **register note** (off-camera he jokes a ton). Topics: **scaling-and-
+      enterprise-value** (the **entrepreneur life cycle** 6-stage model; any-business-to-$10M 4-shapes +
+      cost-of-switching; agency-exit margin-not-growth / run-rate = velocity × LTV; retention-is-the-true-
+      cap); **hiring-and-recruiting** (3-part interview rubric; four-elements-of-equity; **barbell hiring**;
+      recruiting-supply-as-a-process-function); **company-culture** (culture=if-then-rules + the codify→
+      chunk-to-3-values→transpose-a-champion how-to; "scale to zero"); **competitive-moats** (patent/IP is
+      only a moat if actively defended); **retention** (promise-strength conversion↔churn trade-off;
+      consumable-deliverable "education+news" razor-and-blades; free-trial EPC math); **attraction-offers**
+      (buy-a-real-insurance-policy risk-reversal; high-ticket-without-calls delivery-format scaling);
+      **content-engine** (the **five Ps** opening; his personal "hero session" production OS; saves=
+      purchase-intent); **audience-growth** (awareness-doesn't-self-propagate; live-streaming "last human
+      domain"; corroborated the existing social→interest-media section); **community-building** (HIGH-value
+      Skool: two-community model + free→paid benchmarks & 4 conversion mechanisms; membership unit-economics
+      + annual-prepay); **discipline-and-decision-making** (Solomon paradox / "old man Mosie"; thirds
+      workday; "X factor"=high agency; guarantee-bad-chance-at-good); **mental-toughness-and-learning**
+      (reps build portable skill, "100 reps not the same 100 reps"); **ai-in-business** (dated AI stance +
+      AI-native-agency / AI-SDR cross-links); **marketing/paid-ads** (paid+content "singularity", select
+      ads by saves, Meta Andromeda). Dropped long-tail repeats (competition-is-good, pain-is-progress,
+      hard-work-is-the-goal, start-for-free, do-more-volume reprises) — they stay L2.
 - [x] **@MoreMozi Q&A cuts — batches 245-254** — synthesis pass 27 (2026-07-13) →
       system-prompt **v35**. Promoted genuinely-new late-Feb-to-early-March 2026 (2026-02-27 to
       2026-03-06) MoreMozi material across **12 topic pages + 4 persona files**. This window was

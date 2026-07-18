@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: business
-updated: 2026-07-09
+updated: 2026-07-19
 tags: [competitive-strategy, moats, defensibility]
 ---
 
@@ -257,6 +257,36 @@ This is the current (2026) articulation of the [[../../sources/2021-10-29-yt-cGu
 the operator customers choose after seeing copies), now expressed as *proof/trust is the one thing a
 copycat cannot replicate*.
 
+## 2026 IP-as-moat reality check — a patent is only a moat if you defend it
+
+In [[../../sources/2026-02-21-yt-5aZeFDdAxvU]] (2026-02-21) Hormozi adds a hard
+qualifier to moat #10 (**intellectual property**): a patent on paper is not a moat. The
+legal right to exclude is worthless without the **legal budget to enforce it**, and
+enforcement is an ongoing capital cost — not a one-time filing — that you can only afford
+*after* you are already successful. All paraphrase unless quoted.
+
+- **IP is a moat only if you actively defend it.** A patent/copyright/trademark confers
+  no protection by existing; it protects only what you are willing and able to litigate
+  over. This reframes moat #10: the defensible asset is not the paper, it is the paper
+  *plus* a standing enforcement capability.
+- **Enforcement is an ongoing capital cost you fund only after you win.** Defending IP
+  requires a continuous legal spend, so in practice it behaves like a downstream expense
+  of success rather than a moat you start with — connecting IP (#10) to huge capital
+  requirements (#9): you need the capital to make the legal right real.
+- **A patent must protect something core that no one can design around.** A patent on a
+  peripheral or easily-circumvented feature is not defensible; the thing patented has to
+  be central enough that competitors cannot simply engineer around it.
+- **Concrete ops fact (self-reported).** A ~5-person in-house legal/takedown team removes
+  **50–200+ infringing accounts per week** — impersonators and scam resellers trading on
+  his brand/name. This is the operational cost of turning the brand (#6) / IP (#10) moat
+  into a real one at his scale: the moat is not the trademark, it is the team continuously
+  enforcing it.
+
+This sharpens the earlier IP entry (moat #10 above), which lists patents/trademarks as a
+structural moat: as of February 2026 Hormozi's position is that such rights are only a
+moat once paired with the capital and the standing team to defend them — otherwise they
+are decoration.
+
 ## See also
 
 - [[business]] — business domain hub
@@ -264,4 +294,4 @@ copycat cannot replicate*.
   value; acquisitions/roll-ups (#11)
 - [[../marketing/marketing]] — branding (#6) and distribution (#8, #13) as marketing
   disciplines
-- Sources: [[../../sources/2021-10-29-yt-cGup9yYrOoc]], [[../../sources/2024-07-12-yt-Lc8DNduiwKA]], [[../../sources/2026-03-11-yt-nzNTKY_3I_E]]
+- Sources: [[../../sources/2021-10-29-yt-cGup9yYrOoc]], [[../../sources/2024-07-12-yt-Lc8DNduiwKA]], [[../../sources/2026-02-21-yt-5aZeFDdAxvU]], [[../../sources/2026-03-11-yt-nzNTKY_3I_E]]
