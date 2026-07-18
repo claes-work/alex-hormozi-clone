@@ -7086,3 +7086,40 @@ Softer: anti-flex lifestyle-content argument (mMU_ZfG_Nok) → content-strategy/
 "keep the price, change the format" semi-private 1-on-6/7 ~6x delivery (Rgd2hM9ivfk) → business/
 delivery-models. Reinforcing-only: Amazon = just a channel (fBF8_wSAs_A). Nothing contradicts
 existing positions.
+
+## [2026-07-19] ingest | yt batch 262 - @MoreMozi P2 (2026-02-22 to 2026-02-23), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): Ads Have Changed Forever; Why You Aren't Getting as Many
+Leads as You Want; Hard Work Is the Goal...; My Views on Work/Life Balance; Helping a Cotton
+Candy Manufacturer Scale (Hormozi Hotline); How to Make Better Offers and Lead Magnets; A Simple
+Way to Make Better Personal Decisions; The 2 Types of Employees. All captions OK, 0 skipped, 0
+no-captions. Several interview/roundtable/hotline clips — Alex-attributed only; caller/2nd-speaker
+lines + self-reported numbers flagged.
+Synthesis notes (debt now 8/10 — checkpoint approaching) — ★ candidates:
+- **Ads Have Changed Forever** (zCqcPGNsOFc) — DATE-STAMP: paid + content have "reached the
+  singularity" (one team); run best *organic* content as ads with just a click-to-grab overlay
+  (they dropped end-of-video CTAs used ~a year prior); select ads by **saves**/follows not views
+  (ties to the earlier saves=purchase-intent finding, 826y4pdB86c); Meta **Andromeda** makes bad
+  ads cheap → run all content as ads; directionality organic→ad works, ad→organic doesn't. →
+  marketing/acquisition-channels + content-engine (trend-sensitive; date it).
+- **Work/Life Balance life thesis** (aF4NsgnIchQ) — beliefs+voice+bio: rejects the frame (work/
+  love/happiness unified); "should is the root of all pain"; "my life is not a sermon, it's a
+  documentary"; explicitly REFUSES to prescribe hard work ("probably doesn't work for most");
+  NEW bio: ~$40M Gym Launch pre-sale distributions; acquisition.com born from the idle sale-year.
+  → beliefs.md + voice.md + biography.md.
+- **Solomon paradox / "old man Mosie"** (9JOm_ibGcf8) — decision heuristic: reason as your older/
+  wiser future self; excuse-drill self-interrogation ("why don't you do more?" → drill each until
+  it dissolves or is a real constraint); single-constraint calendar discipline. → mindset/decision.
+- **Barbell hiring + four Rs** (xOARq03-5eE) — staff young/hungry + late-career/love-the-work, keep
+  the careerist middle thin (perspective not age); + four Rs customer success (retain→review→refer
+  →resell). → hiring-and-recruiting + retention (cross-check four Rs vs existing referral pages).
+- **Offer/lead-magnet mechanics** (7qY7gBMWOB4) — sharpen the book baselines: buy a real insurance
+  policy on the customer's biggest fear and fold into price (risk-reversal); "second-place /
+  participation-trophy" discount to convert giveaway non-winners; buy-X-get-Y-free pricing rule
+  (give away more free than paid, mark unit price up). → business/offers.
+- **Awareness doesn't self-propagate** (GUuVRyJn-1Y) — low leads = low awareness; saturation is a
+  myth (after $4–5M spend, ~3/4 of his warm followers didn't know his book was coming); a leaked/
+  shared product is inert until someone actively promotes it. → marketing/lead-gen.
+Softer: contentment-vs-complacency + "misery on both sides" from the ~1-yr retirement experiment
+(JUg2fj3UiNY) → mindset; AI SDR/dialer + closers-keep-2h-outbound (Veo57Hr8oIU) → outbound.
+Nothing contradicts existing positions (the work/life-balance refusal-to-prescribe is a nuance
+on, not a reversal of, his public "work hard" message).
