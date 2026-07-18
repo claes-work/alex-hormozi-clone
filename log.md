@@ -7330,3 +7330,38 @@ Synthesis notes (debt now 3/10) — ★ candidates:
 - **Information filter** (sBW2akk_2eU): opportunity-cost consumption ("what will I do with this?");
   epistemic humility — "only talk about it once I've walked it." → beliefs/mindset.
 Nothing contradicts existing positions (the anti-cult stance is a reframe, flagged for review).
+
+## [2026-07-19] ingest | yt batch 268 - @MoreMozi P2 (2026-02-18 to 2026-02-19), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): The Single Greatest Skill Entrepreneurs Need to Learn; If You
+Want Power Over Your Own Life, Do This; How to Know If Someone Is Lying to You; Why "Follow Your
+Passion" Is Bad Advice; Helping a Service Business Owner Build Systems; Why 99% of People Never
+Accomplish Their Dreams; Ways Creators Can Monetize in 2026; You Need to Find Your Constraint.
+All captions OK, 0 skipped, 0 no-captions. Interview/Q&A clips — Alex-attributed only.
+Synthesis notes (debt now 4/10) — ★ candidates:
+- **"Mosy 6" de-constraining decision tree** (NucUq-K-YdU): one question ("Why can't we do more?")
+  + five M-buckets — More / Market / Metrics / Model / Money / Manpower — run cyclically (Model →
+  features-vs-bugs; Money → leads/sales/LTV+churn). Plus the **"management diamond"** 5-rung
+  diagnostic for why a person isn't doing a task (the entrepreneur's instinct is reversed: "didn't
+  want to" is LAST, not first). → business-diagnostics + communication-and-management.
+- **Focus = the single greatest skill** (C3XLT_x_g-w): elimination / saying no; "attraction =
+  ignorance" (a new opportunity looks fast/easy only because you don't yet know its pains); progress
+  via stricter criteria. → mindset/discipline (2024-FOMO-free recurs — cite-only).
+- **Retention-first scaling diagnostic** (_82BE6LZsAw): the "what breaks when you double?" constraint
+  test (nothing breaks = a self-imposed spending ceiling); churn set upstream by marketing/sales
+  expectations + activation; quantified leverage (50%→20% churn ≈ 2x in 2.5 yrs; "Whiten" 2.4x rev /
+  7.5x profit); hire customer-success from software. → scaling-and-enterprise-value / retention.
+- **Creator monetization 2026** (MIdUng-Xq_o, DATED): a risk/capital/effort spectrum (sponsorship →
+  affiliate → drop-ship/white-label → equity+royalties → write-a-check → build-your-own); "do deals
+  that change nothing about what you already do"; preferred Skool-deal (cash in + big stake +
+  promote); "partner must succeed without you." → audience-monetization.
+- **Declarative vs procedural knowledge** (ex5cfFy7LHw): the accomplishment gap = believing-it's-
+  possible (declarative) vs the how (procedural, learned only by doing). MERGE with the parrots-vs-
+  practitioners telling (Tk5PT1FfxMI). → mindset.
+- **Passion is created, not found** (W62Xi4ESePQ): suck → action → progress → skill → passion;
+  "follow your passion" sets the bar too high for beginners; "everything has overhead" (no perfect
+  career/partner). → beliefs (sharpens the passion=suffering thread).
+- **Lie-detection / judgment** (oUs_GpW8NpY): domain-relative judgment (detection scales with your
+  own skill; ~10 probing follow-ups); the "assume you're being deceived → proceed only within
+  acceptable guardrails" operating stance. → mindset + negotiation.
+Reinforcing-only: "power over your life" = potency/decision-speed already captured (Po8cZAma4ME).
+Nothing contradicts existing positions.
