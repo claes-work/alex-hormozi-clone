@@ -7436,3 +7436,36 @@ Synthesis notes (debt now 6/10) — ★ candidates:
   minimal set of roles + JDs that replace 100% of the founder (rest reinforces keyman-risk). →
   ai-in-business / hiring-and-recruiting.
 Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 271 - @MoreMozi P2 (2026-02-17), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): It's Never Been Easier to Be Successful; How to Bootstrap Any
+Business; The One Thing You Need to Win in Content; What a Privilege It Is to Suffer...; "Cheat
+Code for Making Money in 2026?"; Scaling an In-Person Personal Training Business; How to Fix
+Creator Burnout; Do You Need A Mentor? All captions OK, 0 skipped, 0 no-captions. Interview/Q&A
+clips — Alex-attributed only; audience numbers self-reported.
+Synthesis notes (debt now 7/10) — ★ candidates:
+- **70/20/10 as anti-burnout / content-longevity** (a6SJktlwfgY): reframes the (already-in-content-
+  engine) 70/20/10 hook mix as a portfolio for SUSTAINABILITY — 70% proven core / 20% adjacent /
+  10% moonshots; the 20/10 buckets raise 5-year total volume "because you didn't want to stop";
+  "bottle lightning, then don't hit refresh." → content-engine (add the longevity angle).
+- **Cheat code = differentiation-through-self** (aUuB_DYRCv0): products/services commoditized → a
+  personal brand people have affinity with ("courage to be yourself") is the durable edge;
+  **branding-as-mosaic** (~1,000 tiles; proportions/placement ARE the brand); the contradictory-
+  ideals **"thumbprint"** (your audience predicts which side you'd pick). NEW bio: first podcast
+  Jul 2017 (episode 8 "Stop Branding", ~90 days from zero). → branding + biography.
+- **Suffering-as-privilege** (91Ftut84zIc): suffering is a privilege of being human and inseparable
+  ("you can't skip weather"); complaint = "wishing for the outcome but not willing to pay the
+  price"; "these will be the stories you tell." → beliefs (sharpens the passion=suffering thread;
+  the "85-year-old self" tool already promoted).
+- **"Models, not mentors"** (9eUgEFHBIWc): you don't NEED a mentor but must learn from those ahead;
+  all learning (and "manifestation") reduces to behavior change. → mindset/learning.
+- **"Comfort-maxing" + conditional-vs-absolute shoulds** (BLDL_hE67Qw): tools/AI dropped the action
+  bar to ~0, but comfort dropped the do-nothing bar even lower → willingness-to-act is the scarcity;
+  conditional vs absolute shoulds (ties to "should is the root of all pain"). → mindset/beliefs.
+- **PT-scaling mechanics** (qzOZOzbc3Ww): "no one knows you exist" = an advertising problem (Rule of
+  100 + outreach); goal-based **$3K/3-mo + $1K-back-on-adherence** "architect not technician"
+  package; **GLP-1 as the only viral wellness product**; the "three fours" 12-hour day. → business/
+  fitness (origin-domain worked example).
+Reinforcing-only: bootstrap = client-financed acquisition (payback on customers not leads,
+XKTgFBWHR_c); content = raise real-world accomplishment / "influencer's influencer" (JfbYMmQ00v4).
+Nothing contradicts existing positions.
