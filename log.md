@@ -7365,3 +7365,38 @@ Synthesis notes (debt now 4/10) — ★ candidates:
   acceptable guardrails" operating stance. → mindset + negotiation.
 Reinforcing-only: "power over your life" = potency/decision-speed already captured (Po8cZAma4ME).
 Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 269 - @MoreMozi P2 (2026-02-18), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): Online Coach Doing $1M/Year — Scale?; What Has Value in the
+Age of AI?; Just do more...; You Don't Need a Sales Team; You Need to Call Your Leads Faster;
+Advice for Hard Days...; No B.S. Advice on How to Start Any Business; Agency That Serves
+Wholesalers — Scale? All captions OK, 0 skipped, 0 no-captions. Interview/Q&A/roundtable clips —
+Alex-attributed only; audience numbers self-reported.
+Synthesis notes (debt now 5/10) — ★ candidates:
+- **AI-era value thesis** (GiVLL6F6tx0, DATED): as information goes free, value migrates to
+  **curation/selection + time-compression/friction-removal + authentic human community/realness**;
+  "AI isn't new — info's been free since the internet." + one-time vs **consumable "input of the
+  system"** value for pricing/retention. → ai-in-business + beliefs (extends the AI thread).
+- **Speed-to-lead, quantified** (R1G1ntNY32Y): calling opted-in leads within **60 seconds** can
+  4–5x conversion; worked ROI for a dedicated $60k/yr caller (55% conversion); fund the hire from
+  future not current dollars. → sales-frameworks / a speed-to-lead note.
+- **Brand can replace the sales team (conditional)** (AMW6Ma08yZI): a strong enough brand sells via
+  an 11-min video + button ("no-promises" offer on accrued trust); the **brand loop** (what you say
+  → what others say → post-delivery verdict). ⚠️ FLAG a stage/brand-dependent TENSION with the
+  sales-team-scaling material for the synthesizer to reconcile. → branding + sales-team-scaling.
+- **"Association" buyer-power model + "two triples"** (X03kc381UEM): aggregate a buyer base's
+  purchasing power to negotiate ~10x-value discounts → a network-effect asset (gets stronger with
+  scale); the two-triples sequence (call buyers→high-ticket backend, then reinvest into ads). →
+  scaling-and-enterprise-value / money-model.
+- **Proof as the top content lever + design-to-be-clippable** (RcYnTNUxhSM): leverage = tech +
+  people + **proof** (proof ranked biggest); engineer the long-form so clips fall out of it (Family
+  Feud / Power Slap). → content-engine (domain is content-strategy, not mindset).
+- **Ordered "start any business" recipe + BANT gate** (W-NDwE6ufcs): suck → work free → get fully
+  booked → charge → swap free for paid; getting fully booked unlocks a beginner's permission to
+  charge; BANT (Budget/Authority/Need/Timing) gate for who deserves free work. → business/starting.
+- **Front-end qualification** (GBSE4v415sY): fix a low close rate with lead qualification + a real
+  avatar; use the lead magnet ITSELF as the qualifier; the metric shift (CPL up, CAC down, LTV up).
+  → attraction-offers / sales-frameworks.
+- **Resilience-as-evidence** (W5H_a1IBvSM): your own survival record up to now is the proof you can
+  withstand anything ("if you're alive, you have proof you can stand it"). → mindset.
+Nothing contradicts existing positions except the flagged brand-vs-sales-team stage tension.
