@@ -6928,3 +6928,31 @@ one-goal-per-year strategy cadence + "strategy = fewest things, highest returns"
 → biography timeline; TikTok-Shop + affiliate-repost physical-product tactic (6LNtJsaB2Bs) →
 marketing; "your life equals one — take the safer bet" risk-framing (n_-pFwKsXvs) → mindset/
 wealth. Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 257 - @MoreMozi P2 (2026-02-25), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): In-Person Service Business → Online Only?; You Need More
+Proof...; Video Game Coach — How Do I Scale?; The Only Metric That Matters for Short-Form
+Content; How Do I Sell Training Programs to Athletes?; You Need to Do More; How to Win in
+Saturated Markets; My Ads Stopped Working for My Community Business. All captions OK, 0 skipped,
+0 no-captions. Q&A videos have audience business numbers = self-reported; "Video Game Coach",
+"Athletes", "In-Person→Online", and "Community Business" are coaching Q&As. Short-form-metric
+video is a MULTI-SPEAKER Skool Q&A (Sam Ovens present) — only Alex-attributed material captured.
+Athletes video contains a likely caption-garbled 3rd-party claim ("Jacob Hillier / $67 ebook →
+$4M/yr") flagged as Alex's unverified claim.
+Synthesis notes: Three ★ L3-candidates for the next checkpoint — (1) **Short-form: saves =
+purchase-intent** metric, per a cited TikTok Shop meta-analysis ("you only save what you don't
+already know"), plus the "give normal advice, then rebut your own advice with why people
+struggle" content formula (826y4pdB86c) → content-strategy. (2) **Saturated markets** framework
+(RY7U7XxPmMk): reconciles red-ocean vs niching via a puddle→pond→lake→ocean size-progression +
+the five directions to move a market (up/down/adjacent/broader/narrower) → business/market-
+selection. (3) **Community-building playbook** (OO1ACTnUh9U, Skool high-value): diagnose "ads
+stopped working" as warm-audience fatigue not price; the **two-community model** (free feeds
+paid) as his consistent outperformer; concrete benchmarks (20%+ ad→free-member opt-in so
+cost/member ≈ CPC×5; ~10% free→paid when manually worked); viability = cost-per-free-member ×10;
+recurring-revenue test (first payment covers CAC, rest is profit); and the **four free-to-paid
+conversion mechanisms** inside a free Skool (onboarding/sales call; 5-video VSL sequence = origin
+story + 3 case studies + CTA; weekly value call w/ soft CTA; optional DM nurture) → build/enrich
+content-strategy/community-building.md. Softer carry-forwards: **source-vs-acolyte / first-
+principles** distinction + "influencer's influencer" positioning (iauYY6MNfRg) → marketing/
+credibility; bill-to-value one-time-vs-consumable pricing w/ sandwich analogy (NT8BjyRgu_I).
+Nothing contradicts existing positions.
