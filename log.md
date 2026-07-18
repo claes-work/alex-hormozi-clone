@@ -6984,3 +6984,41 @@ quadrant** vocabulary (Comfort=short gain / Regret=long pain / Fear=short pain /
 gain, Zv0YQGX-cMw) → mindset; **Gym Launch outbound origin story** (interviewed a lead rep at a
 ~$10M/mo gym-software co doing it all via outbound — "broke his belief"; SZ9yqgnz7mw) → biography/
 outbound; external-labeling→self-belief loop (FIjhpXZImLo). Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 259 - @MoreMozi P2 (2026-02-24), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): How to Let Hard Times Strengthen You; How to Actually Hire
+Good Talent; What I Think the Meaning of Life Is; Why I Feel Called to Give Back; Helping a
+Community Owner Doing $30K/Month Scale; Fear vs Regret; The Right Time to Leave Your Job; My
+Goals for 2026. All captions OK, 0 skipped, 0 no-captions. Unusually belief/bio-dense batch —
+several 2026-02-24 videos read like cuts from one interview session (2nd speaker/host on hire-
+talent, right-time-to-leave). Overlap to MERGE at synthesis: "fear only exists in the vague, not
+the specific" appears in BOTH Fear vs Regret and Right Time to Leave Your Job — promote once.
+Synthesis notes: This batch is heavy on persona/beliefs + biography ★ material for the next
+checkpoint (debt now 5/10):
+- **My Goals for 2026** (dSSkbsTQJeM) — dated inflection: 2026 is the first year since ~age 18
+  where making more money is NOT his goal (hit his "financially free" number); valuation targets
+  Skool ~$6–8B in 24 mo + acquisition.com ~$2–3B in 24–36 mo; "win at life, not just business."
+  → biography.md (2026 goals) + beliefs.md. VERIFY figures at synthesis.
+- **Meaning of Life = learning** (kn_GolFQcjA) — durable worldview: "meaning = the output of a
+  process"; life's output is learning (exposure to new conditions that change behavior); learning
+  is involuntary so ask if you're learning what you *want*. → beliefs.md.
+- **Give-back / legacy** (g-Udl7ngzsI) — mission-over-money; NEW bio: give-back book campaign
+  ($106M sales in 72 hrs; 17 books "Blue→Green"; 200-books-per-donor). → biography + beliefs.
+  VERIFY the $106M/72hr + "17 books" figures against other sources.
+- **Hard times / grief** (ylzfR5wwbis) — "how long I mourn ≠ how much I loved"; funeral test
+  (service + character endure, not accomplishments); Frankl stimulus/response gap; NEW bio:
+  recently wrote a eulogy. → beliefs.
+- **Hire Good Talent** (wN0Sq8Y3HcQ) — 3-part interview rubric (metrics tracked → behaviors to
+  move them → how they ladder to revenue); "assume you're bad at hiring → decentralize (panel)";
+  referral-cascade sourcing (Skool's Sam interviewed ~600 devs → CTO Daniel). → hiring-and-
+  recruiting topic.
+- **Community Owner $30K/mo** (6dED84QH8Yc, Skool high-value) — community-monetization cluster:
+  churn→avg-lifetime→LTV (12%/mo ≈ 8-mo life, ~$400 LTV, CAC ≤$100); annual-prepay (give ~4 mo
+  free because cash-flow-equivalent, lowers churn); segment toward recent-buyers/serious members;
+  thank-you-page self-liquidating offer above annual + $500–1K/mo AI-managed upsell on a low-ticket
+  membership; "don't blame the avatar / market-size reframe." → content-strategy/community-building.
+- **Decision/fear frameworks** (u4QLbGZVVZY + R_O5WczanGs) — "guarantee bad, chance at good";
+  decision-speed (decide→happen distance) measures power; fear lives in the vague not the specific
+  (de-catastrophize via next 2-3 concrete steps); job-quit math test but "the math is never the
+  real reason"; delay-discounting cuts both ways. → mindset/decision-making (merge the shared bits).
+Nothing contradicts existing positions.
