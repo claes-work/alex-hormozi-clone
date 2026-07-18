@@ -7156,3 +7156,42 @@ Synthesis notes (debt now 9/10 — checkpoint next batch) — ★ candidates:
 Softer/merge: "the work works on you more than you work on it" + "100 reps not the same 100 reps"
 (Vw1tjy5i5Jo) — MERGE with JUg2fj3UiNY into a deliberate-practice note. Reinforcing-only:
 competition-is-good (LlZWjsszR6M). Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 264 - @MoreMozi P2 (2026-02-21), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): $7M Agency — How Do I Sell?; The Reality of a Patent...; How
+Do I Pick Which Marketing Channel?; Client Acquisition for Agencies — How Do I Get to $1M/Month?;
+The Entrepreneurship Life Cycle...; What Jobs Set Me Up Best for Entrepreneurship?; You Need
+Recurring Revenue; Helping a Business Owner Build a Culture. All captions OK, 0 skipped, 0
+no-captions. Q&As have audience numbers self-reported; life-cycle + recurring-revenue are
+2-speaker (host context excluded). This batch closes 10 ingest batches since synthesis pass 27
+→ SYNTHESIS CHECKPOINT is now DUE (next loop iteration runs Stage S).
+RECONCILE at synthesis: "What Jobs Set Me Up Best" (Xu_3NPULjoo) has Alex saying NO early job
+taught him skills (rejects "born entrepreneur", credits reinforcement history) — check against
+the existing thread where he credits management consulting; likely nuance (low-skill teen jobs
+vs the consulting role), not a contradiction, but flag it.
+Synthesis notes (debt now 10/10 — DUE) — ★ candidates:
+- **Entrepreneur life cycle** (e_WNbl_NU9k): named 6-stage model (uninformed optimism → informed
+  pessimism → crisis/valley of despair → [doom loop vs] informed optimism → achievement); escape
+  via focus/"burn the boats"; focus = # of noes, commitment = elimination of alternatives; NEW
+  bio: 2024 = first FOMO-free year. → new mindset/business topic page.
+- **Culture how-to** (LlTJEc5NQ0I): operationalizes the earlier culture=rules framework — codify
+  rules by walking the conditions of behavior → chunk to ~3 values → transpose a champion (only
+  if home culture self-reinforces without them); "scale to zero" before replicating; hire people
+  "worthy of admiration." → business/culture-leadership (build alongside the Y6IGtYTrioE culture page).
+- **Sell-the-agency / enterprise value** (ebzHLIkxocE): margin not growth problem; run-rate =
+  sales-velocity × LTV, LTV = price ÷ churn; already-sold revenue is banked → sell margin;
+  nearshore vs "become an AI-native agency" (~80% of agency work AI-automatable). → scaling/EV.
+- **Recurring revenue = the true cap** (Q3IaK-c1VWU): retention (not niche/promotion) caps the
+  business; size ≈ half your past buyers × recurring price; "redo Gym Launch → fix retention 100%
+  first" retrospective; 6-month run-without-you test. → business/recurring-revenue + EV.
+- **Patent/defensibility** (5aZeFDdAxvU): a patent is worthless without a budget to defend it; IP
+  is only a moat if actively defended (ongoing capital cost); 5-person in-house legal team removes
+  50–200+ infringing accounts/week. → business/moats-defensibility.
+- **Recruiting supply as a process function** (uzdBX8r7-zA): refine the sales script to lower the
+  required skill → widens the hirable TAM; ~10 reps/director; directors = culture+training not
+  phone work. → hiring-and-recruiting/sales-org.
+- **Bio: early jobs + born-entrepreneur rejection** (Xu_3NPULjoo): Smoothie King "blended vendor",
+  Orthodox Jewish caterer, fur-coat brusher; entrepreneurial aptitude = reinforcement history not
+  nature; quit white-collar job at 22–23, ~$50k saved, 6 months, "most afraid I've ever been." →
+  biography + beliefs (reconcile w/ consulting thread).
+Softer: channel = the platform you use most / niche-community trust (21DcCeICYFU) → marketing.
