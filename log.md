@@ -7652,3 +7652,35 @@ Synthesis notes (debt now 1/10) — ★ candidates:
 - **Hiring** (jr9ITWlL5P8): the two-way **90-day-fit metric** (% where both employee AND manager rate
   it 10/10) + interview-volume "tunes your picker" — fold into the hiring rubric. → hiring-and-recruiting.
 Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 276 - fresh uploads: @AlexHormozi P1 (2) + @MoreMozi P1 (4), 6 videos
+
+Fresh-upload P1 drain (routed by the roster autopilot). **@AlexHormozi long-form is COMPLETE
+again** (re-drained after the 2026-07-19 discovery refresh); the driver printed the
+`>>> CHECKPOINT` banner, so the next loop iteration runs a synthesis pass (Stage S).
+
+- Ingested (L2, 6): [[2026-07-10-yt-j2TZMFkj71Q]] (Scale or Fail ep2, guest-attributed),
+  [[2026-07-19-yt-WttZ6b-KUP4]] ★ (newest AI position statement),
+  [[2026-07-15-yt-gI5qfmivSpc]], [[2026-07-16-yt-EuVFS2Keu7Y]],
+  [[2026-07-16-yt-aovpmQm7t7U]], [[2026-07-16-yt-OyuSvQMOVGM]] (re-release of
+  yt-E6xW-GCv31I but with segments the original cut — kept as L2 with dup note).
+- Skipped (1): yt-xv2TOH_5F6A — verbatim re-upload of the 2026-03-24 SaaS segment →
+  ledger `skipped`, `dup-of:yt-ol5LFgqTGag`, no page (dedup convention).
+- Unavailable (1): yt-V7iWBqV3D3c (video removed) — auto-marked by the driver.
+- Counts: 2,206 L2 / 19 L3; open long-form now @MoreMozi only. No rate limiting (0 yt-dlp failures).
+
+Synthesis notes: **WttZ6b-KUP4 ★** — AI explicitly re-ranked BELOW decision-making/prioritization
+in his leverage stack + the "has AI made me more money? if not, wrong constraint" diagnostic;
+⚠️ cools the Mar-Apr 2026 "AI #1 priority / 18-month window" urgency (cross-linked on
+ai-in-business); new anecdote: wealthiest friends advocate AI publicly but don't personally use it.
+**j2TZMFkj71Q** — "100 ponds and no oceans" scaling metaphor + launch ad-spend cadence (5-10%
+week-1 creative tests, 60-70% back-loaded into the final week); self-reported bio: $500K/day ad
+spend at his own launch peaks. **gI5qfmivSpc** — behavior-crossover hiring-avatar method (map
+micro-behaviors, recruit adjacent roles) → hiring-and-recruiting; NEW pro-human vs AI-mentor
+productization stance (2026-07-15). **EuVFS2Keu7Y** — platforms don't penalize posting frequency
+(citing Mosseri; manage impressions/month, evergreen-vs-perishable irrelevant); affiliate
+"become a whale" leverage + acquirer-side exit math. **aovpmQm7t7U** — arm's-length
+affiliate-with-kickback structure when front/back ends have different owners; quote "When I ran
+Gym Launch, I owned zero gyms"; ⚠️ hair-extension ratio variance vs [[2024-06-30-yt-jzKpAtzKQ54]].
+**OyuSvQMOVGM** — "accept their money is scaling practice number one"; 2012 anti-pattern
+anecdote (quit $5k/mo 4-hr/wk online fitness for 80-hr/wk gym at ~$12.50/hr) — bio/voice material.

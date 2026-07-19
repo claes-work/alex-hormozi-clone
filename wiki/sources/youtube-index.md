@@ -726,6 +726,8 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 | 2026-06-10 | [[2026-06-10-yt-k5-57282taI]] | How the top 1% think about trust — "trust = punishability", 4 types, zero-punishment | |
 | 2026-06-22 | [[2026-06-22-yt-Z5rKn1ZIp3A]] | "I can't hide this anymore" — Scale-or-Fail competition-show trailer (promo) | |
 | 2026-06-26 | [[2026-06-26-yt-zzleYxkf39k]] | Scale or Fail ep1 - moving-company offer tiers, brokerage channel, local-to-global sales | ★ |
+| 2026-07-10 | [[2026-07-10-yt-j2TZMFkj71Q]] | Scale or Fail ep2 - sticker-education membership: annual+trial offer, launch ad-spend cadence, "100 ponds" | |
+| 2026-07-19 | [[2026-07-19-yt-WttZ6b-KUP4]] | **Why AI won't make you rich in 2026** — AI re-ranked below decision-making; "has AI made me money?" diagnostic (⚠️ vs spring-2026 urgency) | ★ |
 
 ## @ACQofficial
 
@@ -2129,6 +2131,10 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-06 | [[2026-07-06-yt-kewx3UQAdAg]] | Clothing brand — product quality, repeat purchase, email backend, creator army | |
 | 2026-07-07 | [[2026-07-07-yt-ndne_8qRh8o]] | Marketing agency $1.2M→$8M — price to worst month, go up-market | |
 | 2026-07-08 | [[2026-07-08-yt-ufT6L4A4hRM]] | Project-management community — ascension, activation, job-placement upsell | |
+| 2026-07-15 | [[2026-07-15-yt-gI5qfmivSpc]] | Teen-coach delivery bottleneck — behavior-crossover hiring avatar, talent LTGP:CAC, pro-human vs AI | |
+| 2026-07-16 | [[2026-07-16-yt-EuVFS2Keu7Y]] | Affiliate creator — post more (impressions/month), become-a-whale leverage, acquirer exit math | |
+| 2026-07-16 | [[2026-07-16-yt-aovpmQm7t7U]] | Physique coach — aspirational anchor, UGC flywheel, affiliate-kickback ascension ("owned zero gyms") | |
+| 2026-07-16 | [[2026-07-16-yt-OyuSvQMOVGM]] | Solo headhunter re-release — "accept their money", non-solicit exchange, 2012 anecdote (dup+extras) | |
 
 ## @TheSkoolSchool
 
@@ -2227,7 +2233,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_2,200 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (177 rows dated, +44 P1)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_2,206 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
