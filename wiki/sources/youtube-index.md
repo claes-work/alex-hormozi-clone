@@ -2143,6 +2143,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-17 | [[2026-07-17-yt-CWK1kQTWagM]] | AI consultant $100K→$1M — $97 boot-camp front end ("low price is a feature"), one funnel, annual back end | |
 | 2026-07-17 | [[2026-07-17-yt-h0_UaXXYqxI]] | Price raises vs team raises — "mispriced or miscompensated" trap; make money neutral script | |
 | 2026-07-17 | [[2026-07-17-yt-bGH-zxgwRKs]] | BBQ caterer — drop the restaurant; worst-month thought experiment, seasonality = artificial constraint, start PPC | |
+| 2026-07-17 | [[2026-07-17-yt-WUdxhnBNzbo]] | Don't open a second location yet — manager 10-20% profit share (~$100k threshold), speed premium ($10k/yr ≈ $30k/30d) | |
+| 2026-07-17 | [[2026-07-17-yt-JE0WjdYsZ1o]] | Ketchup-packet customer — ~35% front-end close is healthy; assumed-close bolt-on upsell should hit 70-80% take rate | |
+| 2026-07-17 | [[2026-07-17-yt-0d7JlGtlsVs]] | Scale without a sales team — speed-to-lead (60s PPC / ~5min Meta), fix order offer→sales motion→traffic, "microwave" warm-up | |
+| 2026-07-18 | [[2026-07-18-yt-4fCY-znvWyM]] | Close 30% but no show-ups — "your ideal client is not special"; show-rate mechanics (captions back-translated, low voice weight) | |
+| 2026-07-18 | [[2026-07-18-yt-zpLNb5wUVPs]] | Don't start a software company — tech-enabled service multiples ladder (13-18x bottom line), focus doctrine | |
+| 2026-07-18 | [[2026-07-18-yt-17jgssxYtqw]] | Hiring in a town of 5,000 — "solve problems back to front" (churn first); labor-service = training business (14-day standard) | |
+| 2026-07-18 | [[2026-07-18-yt-4dFMX_fH7Us]] | Attract serious money — legitimacy/messaging sets buyer quality; X/LinkedIn as the accredited-investor channel | |
+| 2026-07-18 | [[2026-07-18-yt-t26d3FsKhOc]] | Work harder vs play more — rhetoric irrelevant if people keep doing; micro-discomfort vs macro-pride | |
 
 ## @TheSkoolSchool
 
@@ -2241,7 +2249,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_2,214 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **Only @MoreMozi long-form remains (incl. a tail of fresh-upload P1s).** Remaining open long-form: ~283 @MoreMozi (P1 ~16, P2 ~259, P3 ~8) + shorts dedup (~8,762). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_2,222 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **Only @MoreMozi long-form remains (incl. a tail of fresh-upload P1s).** Remaining open long-form: ~275 @MoreMozi (P1 ~8, P2 ~259, P3 ~8) + shorts dedup (~8,762). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

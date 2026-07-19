@@ -7718,3 +7718,29 @@ thought experiment diagnostic (if scooping all competitor demand makes your wors
 a lead problem, not seasonality); seasonality framed as artificial constraint/self-fulfilling prophecy;
 Harry & David + See's Candies proof points. **CWK1kQTWagM** — crisp "low price is a feature" front-end
 articulation ($97 vs $1,000 boot camp) + "one funnel to rule them all". **HA_6vMPAzDs** — none.
+
+## [2026-07-19] ingest | yt batch 278 - @MoreMozi P1 fresh uploads (2026-07-17 to 2026-07-18), 8 videos
+
+- Ingested 8 fresh-upload P1 long-form videos to L2 (parallel one-file subagents):
+  [[2026-07-17-yt-WUdxhnBNzbo]], [[2026-07-17-yt-JE0WjdYsZ1o]], [[2026-07-17-yt-0d7JlGtlsVs]],
+  [[2026-07-18-yt-4fCY-znvWyM]], [[2026-07-18-yt-zpLNb5wUVPs]], [[2026-07-18-yt-17jgssxYtqw]],
+  [[2026-07-18-yt-4dFMX_fH7Us]], [[2026-07-18-yt-t26d3FsKhOc]].
+  All coaching Q&A / interview cuts; questioner statements flagged audience/self-reported per
+  fidelity rules. 4fCY-znvWyM captions are machine back-translated — quotes carry bracket fixes
+  and a low-weight caveat for voice training.
+- Skipped/no-captions/unavailable: 0. No rate limiting (0 yt-dlp failures).
+- Counts: 2,222 L2 / 19 L3; open long-form: @MoreMozi 275 (P1:8 P2:259 P3:8); open shorts 8,762.
+
+Synthesis notes: **WUdxhnBNzbo** — concrete expansion economics: corporate-owned (non-franchise)
+service businesses run a **10-20% profit share for location managers** with a ~$100k/yr threshold;
+speed-premium rule of thumb (~$10k of demand over a year costs ~$30k to get in 30 days); bio: says
+he has scaled local chains three times (two portfolio chains + his own). **JE0WjdYsZ1o** — new KPI
+pairing: ~35% front-end close rate is normal for an appropriately priced offer, while a cheap
+bolt-on upsell positioned as an assumed close should hit **70-80% take rate**. **0d7JlGtlsVs** —
+concrete speed-to-lead numbers (PPC: double-dial + text within 60 seconds; Meta: ~5 minutes);
+explicit fix-order sequence "offer → sales motion → traffic"; "microwave" image (add friction/steps
+to warm up cold traffic). **zpLNb5wUVPs** — multiples ladder claim: tech-enabled services "sometimes
+can get 13, 15, 18 times bottom line" vs plain service, below true-SaaS multiples. **17jgssxYtqw** —
+"I solve problems back to front" (churn before attraction); a labor-service company is "actually in
+the training business" (14-day up-to-speed standard, 12-hours-on-feet hiring filter).
+**4fCY-znvWyM**, **4dFMX_fH7Us**, **t26d3FsKhOc** — none (established positions).
