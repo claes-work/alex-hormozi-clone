@@ -7469,3 +7469,40 @@ Synthesis notes (debt now 7/10) — ★ candidates:
 Reinforcing-only: bootstrap = client-financed acquisition (payback on customers not leads,
 XKTgFBWHR_c); content = raise real-world accomplishment / "influencer's influencer" (JfbYMmQ00v4).
 Nothing contradicts existing positions.
+
+## [2026-07-19] ingest | yt batch 272 - @MoreMozi P2 (2026-02-16 to 2026-02-17), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): Accelerate Cash Flow; Your New Ideas Are Killing Your
+Business; How to Scale In-Person Events; Why You Should Give Away All Your Secrets for Free; How
+I Train High-Performing Sales Teams; How to Make Your Products Better Than Your Competitors; The
+Business Model Behind Acquisition.com; "I Just Quit My Job. What Business?" All captions OK, 0
+skipped, 0 no-captions. Interview/Q&A clips — Alex-attributed only; company/audience figures
+self-reported.
+Synthesis notes (debt now 8/10 — checkpoint approaching) — ★ candidates:
+- **ACQ business model** (P2t_JmPBzyw, company/bio-significant): acquisition.com is a **family
+  office/holdco** ($40M pre-sale distributions + ~$46M Gym Launch sale funded it); it **pivoted
+  from minority 10–20% deals — 24 deals in 24 months, kept ~4 — to concentrated stakes** (Skool,
+  17M users); launched a **Jan-2024 SMB advisory practice** ($500K–$50M segment, positioned below
+  Gartner/McKinsey/Deloitte + above gurus, fly-in functional-director delivery); domain prices
+  (~$400K / $500K). → biography + entities/acquisition.com + wealth. VERIFY figures at synthesis.
+- **Product-quality / standards philosophy** (ri3EJB_-KNA): care more, optimize for the BEST
+  product over profit/growth, benchmark to the highest bar (Google/iPhone), highest-standards-
+  person leads, take every feature to its **"hypothetical ideal"** (not surface feature-parity) —
+  Skool vs Circle/Kajabi. → a product-quality/differentiation topic + beliefs (standards).
+- **Sales-team TRAINING method** (47mzDb6vU98): the **blackout script-memorization drill** + "breathe
+  the script" bar; daily-train / daily-roleplay / weekly-game-tape 1:1s; "interrupt 50–60× then lock
+  it in"; observe→document→memorize→roleplay cloning pipeline. → sales-team-scaling (training layer).
+- **Give-away rule = declarative vs procedural** (aDbc8y7ngBM): give away the INFORMATION (declarative:
+  how it works / what's possible → this sells), sell the IMPLEMENTATION (procedural: how-to); tactics
+  deliver value at a delay → kill present-tense buying intent. MERGE with the declarative-vs-procedural
+  cluster (ex5cfFy7LHw, Tk5PT1FfxMI) — 3rd telling. → content-strategy + mindset.
+- **Idea-restraint system** (7nxtW0pRvpo): a "big list of ideas" doc (+ linked memos) revisited only
+  when the team is rested; the Blind Side **"still want the shirt a week later" keep/discard test**;
+  release work only at the org's absorption rate. → discipline-and-decision-making / scaling.
+- **Cash-flow acceleration** (5wiBBXGMCNw): three cash-forward levers (upfront one-time fee, require
+  first-months-upfront, bundle adjacent one-time services bought at a life transition — "wallet's
+  already open"); monthly-vs-one-time price elasticity. → money-model/business-math.
+- **Event scaling** (u3o1_z1tS6o): constraint = internal ops capacity not demand; a dedicated events
+  coordinator; "I fly to you" vs "you fly to me" models tied to price/pull. → business.
+- **"Three Ps"** (e7c3b3gPg9M): pain / past profession / passion as the business-idea origins;
+  past-profession is the proven path; missionaries-vs-mercenaries founder story. → business/starting.
+Nothing contradicts existing positions. NEXT batch closes 10 → SYNTHESIS CHECKPOINT (Stage S) due.
