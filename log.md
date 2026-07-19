@@ -7506,3 +7506,44 @@ Synthesis notes (debt now 8/10 — checkpoint approaching) — ★ candidates:
 - **"Three Ps"** (e7c3b3gPg9M): pain / past profession / passion as the business-idea origins;
   past-profession is the proven path; missionaries-vs-mercenaries founder story. → business/starting.
 Nothing contradicts existing positions. NEXT batch closes 10 → SYNTHESIS CHECKPOINT (Stage S) due.
+
+## [2026-07-19] ingest | yt batch 273 - @MoreMozi P2 (2026-02-15 to 2026-02-16), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): How to Get High-Paying Clients in 2026; The Biggest Mistake
+Community Businesses Make With Offers; How Acquisition.com Makes Money; Online Fitness Coach —
+Content Q&A; Marketing Agency Scale Past $5M Q&A; How Making More Money Affects Your Life; How to
+Progress Faster Than 99%; $1.5M Nail Salon Key Man Risk Q&A. All captions OK, 0 skipped, 0
+no-captions. Interview/Q&A clips — Alex-attributed only; company/audience figures self-reported.
+Dedup: "How Acquisition.com Makes Money" (Y2ybvk5nsgI) is NOT a dup of yesterday's "Business Model
+Behind Acquisition.com" (P2t_JmPBzyw) — complementary (operational/revenue mechanics vs origin/
+money story); cross-linked both ways.
+Synthesis notes (debt now 9/10 — SYNTHESIS CHECKPOINT DUE NEXT ITERATION) — ★ candidates:
+- **Community-offer playbook** (AaUxdkGSB5Q, Skool HIGH-value): the biggest mistake is ignoring
+  qualifications — **who's in the room IS part of the offer**; segment like a doorman + prune
+  misfits (even $3k/mo) to protect culture; say no to money for ~6 months to build the brand; the
+  quantity↔quality **"accordion"** for cold-start; objective B2B/B2C entry standards; mine Skool
+  activity data for your ideal avatar; snowball → network effect. → community-building.
+- **ACQ operational/revenue mechanics** (Y2ybvk5nsgI): three arms — **ACQ Ventures** (~$50K–$1M
+  checks, 3–4 deals/mo, ~10-yr returns) / **private equity** (mix ~40% SaaS / 40% B2B svc / 20%
+  consumer, monetize via distributions) / **advisory** (Jan-2024, $1M–$100M, service fee/no equity,
+  "90-of-91-not-a-fit → charge for the free diligence" origin); criteria "5x every ~18 months";
+  keyman-risk rationale for keeping the portfolio private (Skool the deliberate exception). Pairs
+  with P2t_JmPBzyw. → entities/acquisition.com + biography. VERIFY figures.
+- **Intelligence = the rate of learning** (H_Ki4zxUVKo): intelligence reframed as a trainable speed-
+  of-behavior-change (not fixed IQ); learning = "same condition, new behavior"; the meta-method of
+  turning abstract words into observable "breakable" definitions. → MERGE into the operational-
+  definitions cluster (discipline = frustration tolerance; mental toughness = probability; focus/
+  commitment = elimination of alternatives) on the mindset hub.
+- **Franchise-as-exit / franchise-sales-org** (sTrQApreIqw + y-pa1YfIdEE — MERGE): sell franchises
+  for franchisors who can't promote (upfront fees + 10–30% equity in the *parent* co with real EV;
+  target ~95% of franchisors stalled before 100 locations); for an influencer-owned local business,
+  franchising is the exit vehicle. Plus the **founder-magic-inflates-margin diagnostic** (benchmark
+  $0 ad spend vs a normal 10–30% CAC → the transferable model runs ~0% margin). → business/scaling.
+- **Wealth-tiers beliefs** (QHD-53QteXs): spending well above ~$100k is a LEARNABLE skill; daily-
+  living variables max ~top-1% (~$500k); the life-improving spend = buy time back / remove
+  annoyances (study peak/taper figures are the INTERVIEWER's, not Alex's — keep out of persona). →
+  wealth/beliefs.
+- **Chat-funnel sorting question** (o0AOOKsbWNM): add an intent question ("free thing or lasting
+  results?") to filter freebie-seekers from buyers; repurpose proven-buyer organic winners into ads.
+  → sales-frameworks/content.
+Reinforcing-only: high-paying clients = ascension not cold high-ticket (vQGz6E_dM9I, dated).
+NEXT ITERATION: this closes 10 batches → run Stage S (synthesis pass 29 → system-prompt v37).
