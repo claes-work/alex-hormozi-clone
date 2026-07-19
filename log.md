@@ -7616,3 +7616,39 @@ more↔better accordion, distraction-elimination system); mental-toughness-and-l
 (AI-era value thesis; fewer-better + LLM-instances; time-study→GPT→role-set). Agents correctly
 deduped against pass-27/28 (hiring framework layer, SPCL-as-filter, manufacture-luck, AI-SDR/native-
 agency, mental-toughness 4-components) — cross-linked not re-added. Synthesis debt reset to 0.
+
+## [2026-07-19] ingest | yt batch 275 - @MoreMozi P2 (2026-02-14), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): How to Make Your Business Run Without You; How AI Will Change
+Social Media in 2026; There's No Easy Business; How Will AI Affect Business?; How to Find A Players
+for Your Business; How I Think About Pricing; Brutally Honest Advice for Outbound Sales; How to See
+Reality More Clearly Than 99% of People. All captions OK, 0 skipped, 0 no-captions. First batch
+after synthesis pass 29 (debt resets to 1). Two AI videos (Da3BBzNRKVs business-general +
+IDGuBEvXS80 social-media-specific) are complementary siblings, cross-linked. Another A-player video
+(jr9ITWlL5P8) overlaps the just-synthesized hiring cluster (kept light L2). Interviewer figures
+(Enzo on outbound; the $2.9M CPA owner) flagged self-reported.
+Synthesis notes (debt now 1/10) — ★ candidates:
+- **AI dual forecast** (Da3BBzNRKVs + IDGuBEvXS80): fundamentals don't change but AI raises leverage →
+  the first **one-/ten-person billion-dollar companies**; "man+tools vs man+tools" until "man vs
+  machine, machine wins"; + the media-specific calls — **long-form quality UP / short-form DOWN toward
+  raw**, **live+interactive = the AI-resistant alpha**, a barbell "win at an extreme, avoid the middle"
+  format strategy. DATED. → ai-in-business + content-engine (promote once, cross-linked).
+- **Supply-vs-demand-constrained diagnosis** (lvCdhky7Xm0): decides whether marketing is even the right
+  move; "no one with bad churn stops selling"; "**to be AI-first you must first be data-first**"; the
+  offshore→data→AI leverage sequence. → business-diagnostics / scaling.
+- **Pricing barbell** (doUE69BCmMk): expensive-to-few / cheap-to-everyone, "the middle is where people
+  die," tied explicitly to **scalability + incremental cost**; the customer-psychology case against the
+  bottom (low-money buyers = unsatisfiable). → pricing-psychology. (Flag: "Amazon raised $680B" is a
+  transcript garble.)
+- **Outbound four-lever taxonomy** (ER3Lpud8JcU): speed (=speed-to-contact + speed-of-response) /
+  personalization / volume / **availability** — with ALAN 4,000-appts/day data showing **availability
+  is the #1 correlation with shows** (~4x). → sales-frameworks / acquisition-channels.
+- **Unified operational-definition test** (O4xXOK4MQ24): "what would someone have to DO for me to say
+  [X] occurred?" applied across a whole vocabulary; explicit Skinner framing; habit reframe (behavior
+  repeats because of what came *after*, not what "triggered" it). MERGE with the operational-definitions
+  cluster (discipline/intelligence/mental-toughness) + the behavioral-lens thread. → mindset/beliefs.
+- **Keyman-risk fresh bits** (UQ1S2N4QJ3Q): the **rate-of-improvement talent metric** (prefer the
+  faster learner over the more experienced); the **shadow→supervise→support** handoff (decisions
+  automate back down); "eye of Sauron" overexpansion. → hiring / scaling.
+- **Hiring** (jr9ITWlL5P8): the two-way **90-day-fit metric** (% where both employee AND manager rate
+  it 10/10) + interview-volume "tunes your picker" — fold into the hiring rubric. → hiring-and-recruiting.
+Nothing contradicts existing positions.
