@@ -3,8 +3,8 @@ type: topic
 domain: content-strategy
 domains: [content-strategy, marketing]
 created: 2026-07-08
-updated: 2026-07-13
-sources: 23
+updated: 2026-07-19
+sources: 27
 tags: [content, media-playbook, volume, hooks, repurposing, personal-brand, give-first, marketing-machine]
 ---
 
@@ -576,7 +576,17 @@ then nobody buys your stuff." Of ten hours to advertise, spend the first eight o
   not the other way around, you no longer need to worry about what content to make."
 - **70-20-10 hook allocation** (Google's innovation rule applied to hooks): 70% proven/core
   hooks, 20% "winner-adjacent" concepts modeled from other niches, 10% brand-new risky
-  experiments.
+  experiments. **The same 70/20/10 is also a longevity / anti-burnout portfolio** (Feb 2026,
+  [[../../sources/2026-02-17-yt-a6SJktlwfgY]]): 70% repeating the proven format, 20% one-degree
+  adjacent experiments, 10% moonshots "that have nothing to do with the core." The 20/10 buckets
+  are the creative release valve, and counterintuitively they *raise total lifetime volume* —
+  "if you add those 20 and 10 you will do more because you'll do it longer... not on a weekly
+  basis but on like the next 5 years basis because you didn't want to stop." His guard on the
+  70%: "bottle lightning, then don't hit refresh" — once the bricks have assembled into a
+  building (a format that works), a random restart rarely builds a bigger one, so branch from
+  the proven format via the 20/10 rather than abandoning it. (He rates non-monetary returns on
+  the 20/10 as "just as good if not better," but the 70% core funds the freedom: "if you stop
+  making money, you won't be able to do this at all.")
 - **Record-count by format:** ~10 hooks per 1 ad; reuse every winning tweet as a short then
   expand the hook; record 3–4 hooks per long-form for the team to pick in post; split-test
   every email campaign and document winners.
@@ -734,6 +744,90 @@ further to **saves**.
 
 ---
 
+## First-principles authoring: define the thing, then break your own definitions (Feb 2026)
+
+His clearest account of *how he actually writes* content and books, given to a
+~$1M/yr language-course owner asking about his "writing hygiene"
+([[../../sources/2026-02-20-yt-L7GNLJ-rzfw]]). This underpins the prose rules in Section 8:
+those govern the sentence; this governs the *idea*.
+
+- **Reason from ground zero, not from prior material.** "I actually try and reason from
+  ground zero how something works. I start as though I know nothing" — admit only what's
+  provably true (his trusted base cases: **fast > slow, fewer steps > many, low risk >
+  high**), then build up, throwing out the field's received "mythology." (verbatim +
+  paraphrase)
+- **The authoring loop:** gather anecdotal findings of what works → find the
+  **through-lines that unify them into principles that hold across time** → **retroactively
+  test** each principle to confirm it's true. The *Leads* book was his hardest (19 drafts)
+  precisely because media changes so fast that time-invariant principles were hard to
+  isolate. (paraphrase)
+- **Define the thing, then try to break the definition.** Every book starts by defining
+  the subject ("What is an offer? A lead? Selling?"), then he actively hunts a
+  counterexample to break his own definition; whatever survives becomes the working
+  definition until something breaks it. (paraphrase)
+- **The reading-level filter (a content quality gate).** He writes to a **third-to-fifth-grade
+  reading level or below** and runs everything through that check "because people stop
+  learning the moment they get to a word they don't get" — and he *defines* any above-level
+  word in observable terms. (verbatim + paraphrase) *(This is the idea-level sibling of the
+  "observable / state facts / talk in terms of behavior" filters in Section 4 and the
+  "messenger = message, proof is load-bearing" point in the five-Ps section.)*
+- **Tonality, operationalized** (cracked for the sales handbook): reduce voice to what a
+  human can physically do, split into **3 constants** (loud enough to hear, articulate
+  enough to understand, slow enough to understand — violate any and you lose comprehension
+  and therefore persuasion) and **2 variables** (pitch: high solicits a *response*; pause:
+  solicits *attention*). It follows that the moment for maximum attention *and* response is
+  to **ask a question and shut up** — a sales script needs only two marks: where to stop
+  talking and where to raise your voice. (paraphrase + verbatim)
+
+> "When you make your voice high, it solicits a response. When you pause, it solicits
+> attention. And so it would make sense that the point in the sale where you solicit the
+> most attention and a response is where you ask a question and shut the [__] up."
+> — [[../../sources/2026-02-20-yt-L7GNLJ-rzfw]]
+
+## Proof is the top content lever — and design the source to be clippable (Feb 2026)
+
+From a coaching roundtable on growing organic reach faster
+([[../../sources/2026-02-18-yt-RcYnTNUxhSM]]). Two framings sharpen the engine beyond the
+"do more, better" baseline:
+
+- **Leverage = tech + people + proof, and proof is "the biggest one of all."** The real
+  question an audience is asking is "why should I believe you?" — the credibility problem
+  ("the big Vegas lights") outranks making more content. *(This ranks proof explicitly above
+  volume — the same proof-is-load-bearing thesis as the five-Ps section and the 2026
+  proof-report standard in Section 6, now stated as a leverage hierarchy.)*
+  > "You need to get more out for what you put in... a combination of tech, a combination of
+  > people, and the biggest one of all is a combination of proof."
+- **Start from the longest content and derive everything downward — and engineer it to be
+  natively clippable.** The efficient creators (podcasters, streamers) "start long and then
+  it gets short"; you can't make a long from a short. But it's a two-way optimization: plan
+  the prompts/questions inside the long-form so good clips *fall out* of it, rather than
+  chopping afterward. **Family Feud** (question → open loop → payoff → audience reaction) and
+  **Power Slap** (reportedly designed by Dana White from the outset for clipping) are formats
+  born to be clipped. *(Extends the write-first/atomic-unit engine of Section 4 and the
+  "long video = a sequence of tested loops" point in Section 4's Q&A refinements — here the
+  design constraint is retention-and-clippability baked into the source format.)*
+
+## "Good" content is subtraction toward the promise (Feb 2026)
+
+A short solo clip giving his working definition of quality
+([[../../sources/2026-02-19-yt-zOVioii6mCg]]). "Good" is **not a direct outcome you can aim
+at — it's tactical**: you make content good by systematically **removing everything that
+sucks** for the user, and not stopping.
+
+> "I want to make this good is not like an outcome you can do, but it is very tactical to
+> remove things that suck." — [[../../sources/2026-02-19-yt-zOVioii6mCg]]
+
+- Every piece of content carries an **implicit promise** (make money, find love, lose
+  weight); anything that gets in the way of that promise is the work. Fixing it is what
+  makes the content good.
+- The **ideal is frictionlessness** — "you hit a button and you lose weight... make money...
+  find love. The closer we can get to that kind of nirvana, the better the product is." The
+  principle applies to education broadly, not just content. *(This is the mirror image of the
+  saves-metric formula in the Feb 2026 section — "content as removing friction from people's
+  lives" — restated as a definition of quality rather than a metric.)*
+
+---
+
 ## Borrowed / credited ideas
 
 Alex is scrupulous about crediting others; these are not his coinages:
@@ -769,6 +863,9 @@ Alex is scrupulous about crediting others; these are not his coinages:
 - "The messenger and message are consumed within the same context. And so that's why proof is so important."
 - "You only save it if you don't know the 11 steps. So it can't be obvious."
 - "If I had to script things, I would have quit a long time ago."
+- "I start as though I know nothing... and only reason up from first principles."
+- "I want to make this good is not like an outcome you can do, but it is very tactical to remove things that suck."
+- "The biggest one of all is a combination of proof."
 
 ## Related
 

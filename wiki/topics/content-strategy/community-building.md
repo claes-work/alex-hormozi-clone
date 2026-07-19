@@ -376,6 +376,94 @@ questioner's own numbers are self-reported.
 
 ---
 
+## Qualifications — who's in the room IS part of the offer (2026 MoreMozi)
+
+From [[../../sources/2026-02-16-yt-AaUxdkGSB5Q]] — a MoreMozi interview clip, all Alex-attributed,
+dated **2026-02-16**, paraphrase unless quoted. This is a distinct pillar of the community offer
+that the design/monetization sections above don't cover: the *composition of the membership* is
+itself a value lever, not just the access/content/events inside it.
+
+### The mistake and the reframe
+
+- **The biggest thing most communities miss is qualifications.** Operators lean too hard into the
+  "grand slam offer" (the value/product) and forget that **who is in the community is part of the
+  offer** — "part of the offer can be who is there, and I think that is the most underrated
+  component of the offer of a community." (verbatim) The people in the room are the offer; almost
+  nobody designs for that.
+
+### Segment like a doorman
+
+- **A community should have someone at the door.** "If you go to a party in the real world, there's
+  somebody at the door who's saying you can't come in, you can come in. If you have a party where
+  you just let everybody in, it's going to be a weird party." (verbatim) Many paid communities feel
+  "weird" precisely because not everyone there should be there. (This sharpens the existing party/
+  doorman analogy: elsewhere the doorman *collects money*; here the doorman *decides who gets in*.)
+- **Segmenting is the whole point.** "The whole point of a community is to segment... you draw a
+  line in the sand. You say everyone else not, but this. And so you create this tiny little world"
+  — which you then have to protect. (verbatim)
+- **Prune misfits — even high-paying ones.** Be more aggressive about removing people; frame it as
+  fit, not judgment ("this isn't a fit for you, that's okay — we have a different vibe in here").
+  Alex says he has kicked out members paying **$3,000/month** because they were "messing up the
+  garden": "The people that I've kicked out were paying $3,000 a month. Like I don't give a [__].
+  Like you're [__] up my garden." (verbatim) People under-prune because they like watching MRR go
+  up — but revenue doesn't justify keeping someone who hurts the culture.
+  > ⚠️ Self-reported: the "$3,000/month kicked-out members" figure is Alex's own claim — unverified.
+
+### Say no to money for ~6 months (the gestation period)
+
+- **Holding the line early compounds.** Draw the line earlier and the work of running the community
+  later drops sharply. What goes *up* when you hold it: member **self-policing**, **stick/retention**,
+  **gross margins**, and **affiliate referrals** (members tell friends "these people are just like
+  us — you've got to join").
+- **The hard part is saying no to money.** Like most great things it's slower at the start, "because
+  you have to say no to money," which most people won't do. If you're willing to say no to money for
+  **at least ~6 months**, you can curate the culture and **create the brand of the community during
+  that gestation period** — the brand then proliferates, but you must keep protecting it.
+- **Garden / rose-bush metaphor.** "It's a lot like a garden... it takes a while and then finally
+  the good plants come in, but you still have to protect it and weed it." (verbatim) A whole rose
+  bush with weeds all over it ruins the entire view — so protect and weed continuously.
+
+### The accordion — solving cold-start (quantity ↔ quality)
+
+- The chicken-and-egg problem (raised by the co-host, resolved by Alex): as a beginner it's hard to
+  get even one person, yet quality demands selectivity. Alex's answer is the **accordion**:
+  "It's the accordion that goes back and forth between quality and quantity. So first you have to
+  get quantity, and then you're like, okay, of this can I select? And then you select a small
+  amount, and then you overcorrect a little bit and you're like, okay, I need some more people in,
+  and you kind of go back and forth." (verbatim) Oscillate: get quantity → select down to the
+  high-quality subset → overcorrect and let more in → repeat.
+
+### Objective qualification standards (B2B vs. B2C)
+
+- Use **objective, stated** entry standards, not vibes:
+  - **B2B**: a revenue threshold, a minimum customer count, a headcount, or investable assets (for
+    an investing-oriented community).
+  - **B2C**: demographic filters are legitimate — e.g. "you need to be a woman who's over 45 and
+    have at least two kids."
+- **Qualifying doesn't shrink the business if you have traffic.** There are "more than enough" of
+  any given avatar; with enough traffic, narrowing the door eventually **snowballs** rather than
+  starving the group.
+
+### Mine Skool activity data to find your avatar
+
+- **Let the platform's data tell you who to recruit.** Skool tells you who your **most active
+  members** are. Ask "who are they?" then "how do I find more of those people?" — which in turn
+  **narrows your marketing messaging** toward that ideal avatar.
+
+### End state: snowball → network effect ("broadcast → network")
+
+- The goal everyone wants: the **community itself becomes the magnet** for more of the same type of
+  person. At that point "you stop having to provide value to the community, and that's when the
+  community becomes... a true network effect." (verbatim)
+- **Sequence over time:** short term, sell services and one-on-one calls to make money — "there's
+  nothing wrong with that... you should do it." Then **shift from "me" to "you," from broadcast to
+  network**: "at some point you want to shift it from me to you... From broadcast to network. And
+  that shift has to come from the quality of the people who are inside of it." (verbatim) The quality
+  of the members is what powers the shift. (Complements the member-to-member "build the net between
+  members" thesis under Engagement & retention.)
+
+---
+
 ## Growth & traffic (funnel, six sources, influencer arbitrage, referrals)
 
 From [[../../sources/2025-03-29-yt-hdawvvYqmYo]] unless noted. The funnel:
@@ -598,6 +686,11 @@ Three analogies recur across the whole corpus and are useful persona/voice marke
 - [[../../sources/2026-02-24-yt-6dED84QH8Yc]] — Coaching a stuck ~$20K/mo membership: push not
   pivot; churn→8-month-lifetime→~$400 LTV→CAC≤$100; give-4-months-free annual prepay; segment
   toward sticky/recent buyers; thank-you-page SLO + AI-managed upsell; don't-blame-the-avatar.
+- [[../../sources/2026-02-16-yt-AaUxdkGSB5Q]] — Qualifications-as-offer: who's in the room IS part
+  of the offer; segment/prune like a doorman (kicked out $3K/mo members); say no to money ~6 months
+  to build the brand in the gestation period (garden/rose-bush); the accordion (quantity↔quality)
+  for cold-start; objective B2B/B2C entry standards; mine Skool data for the avatar; snowball →
+  network effect ("broadcast → network / me to you").
 - [[../../sources/2024-12-18-yt-V5hkdejbybQ]] — Skool VSL: party/doorman + Wikipedia
   analogies, "easiest business" positioning, success-story stacking.
 - [[../../sources/2025-02-22-yt-_Nz_0qxIyok]] — Skool VSL: party/Wikipedia analogies,

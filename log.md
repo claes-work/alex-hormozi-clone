@@ -7583,3 +7583,36 @@ Synthesis notes (debt now 10/10 — DUE) — ★ candidates:
   (reinforces the funeral-test/legacy thread; he wrote his mother's eulogy).
 Soft: why-outbound-is-hard-at-scale framing (4_tQp9ClXCc; title oversold, no concrete mechanics).
 NEXT ITERATION: Stage S — synthesis pass 29 → system-prompt v37.
+
+## [2026-07-19] lint | synthesis pass 29 — @MoreMozi batches 265-274 → system-prompt v37
+Drained the 10-batch synthesis debt (2026-02-14 to 2026-02-20 @MoreMozi window, 80 videos) into
+topics + persona + the acquisition.com entity. One agent per file (concurrency rule); 18 files
+touched + a follow-up to business.md, then system-prompt recompiled v36→v37. High-water mark
+advanced to batch 274 in pipeline/synthesis-state.md.
+**wiki/entities/acquisition-com.md**: origin/model evolution — family office (~$40M distributions
++ ~$46M sale), the "24 deals in 24 months, kept ~4" minority→concentration pivot (Skool 17M users),
+domain prices, and the **three-arm revenue mechanics** (ACQ Ventures / PE 40-40-20 / advisory
+Jan-2024 fee-no-equity); "5x every ~18 months"; keyman-risk→private; `> ⚠️` advisory-band
+discrepancy. **beliefs +11** (operational-definitions cluster: discipline=frustration-tolerance +
+intelligence=rate-of-learning; intelligence-overrated-vs-agency; anger/fear-fuel; suffering-as-
+privilege; models-not-mentors; comfort-maxing; identity-ladders-up + punishment-fades-reward-sticks;
+isolation-as-shame; information-filter; wealth-tiers spending-is-learnable — study figures kept out
+as interviewer's). **biography +5** (first podcast Jul 2017; Leads ~19 drafts; Leila health; writes
+every ACQ word; anger/fear drive). **voice +5** lines. Topics (14): hiring-and-recruiting (square-
+root law, ownership-% litmus, future-A-player projection, five-clone, onboarding litmus, founder-is-
+the-limiter); sales-team-scaling (blackout-drill TRAINING method + the sales-team DECISION merge w/
+stage-dependent brand-replaces-sales callout); communication-and-management (feedback: criticism-vs-
+insult / Stop-Start-Keep / kind-not-nice; observable-reality; management diamond); scaling-and-
+enterprise-value (franchise-as-exit/sales-org; founder-magic-margin diagnostic; product-quality
+standards; idea-restraint); money-model (life-transition bundling + monthly-vs-one-time elasticity;
+lead-vs-customer reframe); business (the "three Ps"); attraction-offers (sell-at-greatest-deprivation
++ newsletter monetization stack); content-engine (70/20/10 longevity; first-principles authoring +
+tonality; proof-as-lever + design-to-be-clippable; good-content=subtraction); community-building
+(who's-in-the-room-is-the-offer playbook — HIGH-value Skool); branding (differentiation-through-self,
+branding-as-mosaic, thumbprint); proof (WISBY, extreme-proof-degraded-down, **SPCL DEFINED**);
+discipline-and-decision-making (two razors, wins-in-the-meantime, Mosy-6 + management diamond,
+more↔better accordion, distraction-elimination system); mental-toughness-and-learning (probability +
+6-stage curve; consolidated declarative-vs-procedural; comms-as-domain-specific-skill); ai-in-business
+(AI-era value thesis; fewer-better + LLM-instances; time-study→GPT→role-set). Agents correctly
+deduped against pass-27/28 (hiring framework layer, SPCL-as-filter, manufacture-luck, AI-SDR/native-
+agency, mental-toughness 4-components) — cross-linked not re-added. Synthesis debt reset to 0.

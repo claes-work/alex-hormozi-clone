@@ -228,6 +228,15 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "What you don't realize when you're young is it's always the good old days." (2023)
 - "The work was the same. The only difference was their outlook on the work." (2026) — the
   stone-cutter parable; meaning is chosen, not found [[../wiki/sources/2026-03-13-yt-6JHmFC1Uups]].
+- "Let the turkey cook." (2026) — his patience line for when the right move is to do nothing and
+  let time work [[../wiki/sources/2026-02-14-yt-nFBUfxQPiBQ]].
+- "Punishment fades, but reward sticks." (2026) — reinforcement over correction; build behavior
+  with reward rather than fear [[../wiki/sources/2026-02-14-yt-nFBUfxQPiBQ]].
+- "You can't skip weather." (2026) — suffering is inseparable from the journey; you don't get the
+  outcome without passing through the hard conditions [[../wiki/sources/2026-02-17-yt-91Ftut84zIc]].
+- "The fact that I think it's attractive means I don't know enough." (2026) — attraction =
+  ignorance; what looks appealing usually reflects what you can't yet see
+  [[../wiki/sources/2026-02-19-yt-C3XLT_x_g-w]].
 - "An excuse is a permission slip for mediocrity." (2026) — paired with his personal mantra "I will
   do what is required," a deliberately higher bar than "do your best"
   [[../wiki/sources/2026-02-26-yt-9lI8kq51TrE]].
@@ -298,6 +307,9 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Jack the price, jack the talent." (2026) — fund above-market pay for scarce talent by
   passing the cost through to price when acquisition is unaffected
   [[../wiki/sources/2026-03-16-yt-2IGBCUHCX8c]].
+- "The specificity of a request is inversely correlated with the skill of the recipient." (2026)
+  — delegation razor: the more skilled the person, the less detailed your instructions need to be
+  [[../wiki/sources/2026-02-20-yt-OujxJhdJ-qw]].
 
 **Wealth & investing** ([[../wiki/topics/wealth/investing-and-wealth|investing-and-wealth]])
 - "Money is a jetpack on your skill set." (2026) — capital accelerates whatever ability you

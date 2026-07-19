@@ -2,8 +2,8 @@
 type: entity
 kind: company
 created: 2026-07-08
-updated: 2026-07-08
-sources: 3
+updated: 2026-07-19
+sources: 5
 ---
 
 # Acquisition.com
@@ -83,6 +83,69 @@ that turns "raw attention into money" and redeploys the cash. All figures below 
 > ⚠️ Note: the 2026-04 "$250M+ portfolio" figure is a portfolio-valuation framing, distinct
 > from the 2025 "over $200M/year" **portfolio revenue** figure in Facts above — different
 > metrics, both self-reported; not a direct contradiction.
+
+## Origin & model evolution (2026-02-16)
+
+Two same-day @MoreMozi interview clips fill in how the holdco was funded and how its deal
+model evolved — [[../sources/2026-02-16-yt-P2t_JmPBzyw|The Business Model Behind
+Acquisition.com]] (the origin/money story, cited below as **[origin]**) and
+[[../sources/2026-02-16-yt-Y2ybvk5nsgI|How Acquisition.com Makes Money]] (the
+operational/revenue mechanics, **[mechanics]**). All figures **self-reported** unless noted.
+
+- **Funding origin.** Before selling Gym Launch, Alex took **~$40M in distributions** out
+  of it, then **sold the company for ~$46M**; those combined proceeds seeded the family
+  office that became the Acquisition.com holdco. (Consistent with the $46M sale / ~$40M
+  distributions he has stated elsewhere; self-reported.) [origin]
+- **Minority-stake era → concentration pivot.** Original thesis: make content to attract
+  businesses for **minority (10–20%) deals** — capital only, no brand or operational
+  involvement. It "ended up sucking": he did **24 deals in 24 months, then exited almost
+  all of them except ~4**, and pivoted to **more meaningful (larger) stakes in fewer, far
+  better businesses**. Skool — cited here at **17M users** — is the archetype of the new
+  approach ("a deal that makes a ton of sense"). [origin]
+- **Domains.** Bought **acquisition.com for ~$400K** and **ACQ.com for ~$500K**; ACQ.com
+  had been owned **since 1996 by a Fortune 100 company** (contractually un-nameable) that
+  denied every prior approach until an internal contact brokered the sale. Skool's K-spelled
+  domain cost less than either. [origin]
+- **Three intake arms (operational mechanics).** A company enters via one of three paths,
+  and each arm earns differently: [mechanics]
+  - **ACQ Ventures** — seed capital for SaaS/software startups; checks **~$50K–$1M**,
+    **~3–4 deals/month** ("December did four, I think we did four in January"); lightweight
+    diligence; returns not expected "for 10 years." (Complements the "1–5% bets" framing in
+    the 2026-04 section above — this adds check size, cadence, and the ~10-yr horizon.)
+  - **Private equity** — the "big boy" side; deals **bespoke**, priced on the business's
+    valuation, upside, and ACQ's value-add. **Current portfolio mix ≈ 40% SaaS / 40% B2B
+    services / 20% consumer services**, drifting over time toward a **SaaS +
+    professional-services blend** ("where we do really well"). Monetized via **distributions**.
+  - **Advisory** — sold as a plain **service (fee for service; NO equity taken)**.
+- **Advisory arm — launch, positioning, origin story.** Launched **January 2024**,
+  industry-agnostic, for businesses **not yet portfolio-ready**. Positioned explicitly in
+  the **low-to-mid market — below Gartner / McKinsey / Deloitte and above the "guru
+  world."** Origin: for the ~3 prior years, non-fit prospects ("90 times out of 91") got
+  **4–6 free diligence calls + a change-list**; founders repeatedly called it the most
+  valuable thing they'd been through, so Alex decided to **charge for the same assessment** —
+  founders **fly to HQ** and meet functional directors (paid media, content, sales, etc.)
+  by constraint. Example: a **~$14M plumbing business** told which director roles to hire,
+  how recruiting ads should look per role, and how to solve technician/supply constraints.
+  [origin][mechanics]
+  > ⚠️ The two clips give different revenue bands for the advisory segment: [origin] pegs
+  > the sweet spot at **~$500K–$50M/yr**, while [mechanics] frames it as **$1M–$100M/yr**
+  > ($1M/$10M/$30M examples). Same-day framings, both self-reported; treat as an approximate
+  > "lower-mid-market SMB" band rather than a hard range.
+- **Deal-size criteria escalating ~5x every ~18 months:** ~$50M opportunities at the start
+  → ~$250M → **billion-dollar opportunities now** ("the businesses have to be a lot
+  bigger"). [mechanics]
+- **Why the portfolio stays private (keyman-risk rationale).** Lesson from selling Gym
+  Launch / **Prestige Labs** (a sister supplement company doing **~$20M/yr** off the
+  distribution base): in diligence, acquirers fixated on whether his then-**~10K-follower
+  Instagram** drove the sales and worried about his continued involvement. Seeing that
+  sensitivity, Alex keeps portfolio companies **unlisted** so he isn't tied to their
+  eventual exits (future **non-competes / promotion provisions**), avoids "shilling" optics,
+  and limits liability if a portfolio company "does something stupid." **Skool is the
+  deliberate exception** — a purposeful **brand-association-plus-money** bet he's "in for the
+  long haul." He puts the net benefit of going public at only "51 to 49," and notes ACQ
+  Ventures deals may already be public ("so it's really just the private equity side"). Also
+  plugs a free **10-stage 0→$100M+ roadmap** (broken into 8 business functions) at
+  acquisition.com/roadmap. [mechanics]
 
 ## Related
 

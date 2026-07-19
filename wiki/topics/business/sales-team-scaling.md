@@ -178,6 +178,123 @@ because you believe in the transformation — not from ego tied to closing.
 
 ---
 
+## February 2026 training mechanics & the "do you even need a team?" decision (MoreMozi)
+
+### Cloning the star rep: the training method
+
+Where the 2022 material above frames onboarding and per-rep coaching in broad strokes, a
+Feb 2026 clip supplies the concrete **training mechanics** acquisition.com uses to turn
+ordinary reps into top performers. The premise: you *can* clone your best rep — the felt
+"if only I had six Sarahs" fantasy is achievable — by (1) documenting what the star does in
+far more detail than businesses bother to, and (2) training far more frequently with far
+faster reinforcement cycles [[../../sources/2026-02-17-yt-47mzDb6vU98]]. All self-reported.
+
+- **The cloning pipeline: observe → document → memorize → roleplay.** Watch the star and
+  document the *exact words* they say and what they do; that documentation becomes the
+  script; memorization plus roleplay make every rep execute it identically.
+  > "There is a way to get six Shawns or six Sarah, and it's by breaking down what they do
+  > into significantly more detail than you probably have, and then training far more
+  > frequently with far faster reinforcement cycles."
+- **Explicit training cadence — daily/daily/weekly.** acquisition.com reps **train every
+  single day**, **roleplay every single day**, and get a **weekly 1:1 with "game tape"** and
+  their manager on exactly what to work on. Businesses vastly underestimate this volume — it
+  is a "belief breaker." (This is a tighter, more aggressive cadence than the 2022 "daily
+  huddle + weekly 1:1" stack above; treat it as the acquisition.com standard.) Roleplay is
+  the method of choice because it is "the fastest feedback loop you can give someone."
+- **Black-out script-memorization drill.** Put the script in front of the rep; they print a
+  second copy; they read it aloud, black out one word, read again, black out another, read
+  again — repeating until the whole page is blacked out. By the end they've said the script
+  as many times as it has words, and they know it cold.
+- **"Breathe the script" standard.** A rep must be able to deliver the entire blacked-out
+  script from memory *before* roleplay practice begins.
+  > "By the time you blacked out every single word, you've said the script for as many times
+  > as there are words in the script, and you tend to know it. … Once you can breathe the
+  > script … then we practice the role playing component."
+- **The interrupt-heavy roleplay method + "lock it in."** Warn the new rep up front that
+  they'll be interrupted **~50–60 times** before reaching the end — that's expected and
+  correct. The two *worst* ways to roleplay: (1) letting someone recite the whole script
+  uninterrupted, and (2) saving all feedback for the end (nobody remembers end-of-call
+  notes — too late to matter). Instead, the instant a rep messes up, stop them, "try it like
+  this," have them redo it immediately; when they get it right, say **"lock it in"** = do it
+  again, again, again. Immediate change → immediate feedback is why the correction sticks.
+  > "It's like they mess something up, we say, 'Hey, stop. Try it like this. Do it again.'
+  > … If they get it right, we say, 'Great. Lock it in.' That means do it again. Do it
+  > again. Do it again."
+- **Process above everyone (adherence as the core standard).** The goal is that *every rep
+  delivers the script the same way*. Alex positions the script as sacred — "we are like the
+  New England Patriots … no one's better than the process," thousands of hours went into it,
+  "you are not better than the script" — you say the exact words because those exact words
+  close people. The star who "does whatever he wants as long as he closes" is a
+  cowboy/primadonna and a **long-term cancer**; Alex would rather have a team of "all eights"
+  on a 10/10 process, which will always out-perform one star with no process.
+  > "Most of the time I would rather have a team of all eights closing on a 10 out of 10
+  > process, and that team will always outperform a team that has one star and no process."
+
+This connects to the pooled-bonus reversal below: adherence-to-process + team-lift
+incentives are two halves of the same "the system beats the individual star" philosophy.
+
+### Do you even need a sales team? — the decision & trade-off
+
+Two Feb 2026 clips together form a coherent **decision framework** for *whether* to run a
+sales team at all — a deliberate complement to (and partial tension with) all the
+team-*building* material above. Both self-reported.
+
+**The trade-off ([[../../sources/2026-02-15-yt-Rfja1J9xZk8]]).** Alex concedes up front
+that **a sales team makes most businesses more money** — it is the "make money fast button,"
+close to a guaranteed revenue lift, so going without is a real trade-off, not a strict
+upgrade. He models attention as a **pyramid**: a button-only, no-team motion converts only
+the high-intent sliver at the *top* automatically; a sales team reaches **lower and colder**
+into the pyramid, nudging and pulling people up. What a team buys you is *reach downward*.
+
+- **No-team is a volume/reach play.** Without a team you convert a *smaller percentage* of
+  those who see the offer, but ~**10x as many people** can see it — you shed scheduling,
+  no-shows, and the labor of getting to each prospect. The motion becomes **offer-driven**
+  (and brand-driven). Net can be more.
+  > "You will convert a smaller percentage of people who see the offer, but 10 times as many
+  > people might see the offer … because you don't have to deal with schedules, no shows,
+  > getting to somebody — all of that disappears."
+- **Button-only buyers are better buyers.** Higher intent, likely stay longer, fewer
+  chargebacks/refunds, lower reputational risk than phone-sold buyers.
+- **The information principle.** The amount of information a buyer needs scales with **price
+  relative to the prospect's qualification**. High qualification + low relative price → little
+  info (people buy $170k cars online); low-qualified buyer + big decision (a house) → much
+  more. **Brand functions as a proxy for that pre-purchase information**, so the buyer then
+  only needs enough info about the offer itself.
+  > "Functionally brand serves as the proxy for lots of information prior to the purchase.
+  > And then they just need enough information about the offer in order to buy."
+- **"$3,000+ requires a sales team" is a limiting belief.** "Go down to physics — no. People
+  are buying $170,000 cars online." What's actually required is *enough information to
+  decide*. Culture is shifting away from phone selling ("20 years ago, answering phone calls
+  was really normal. Now it's rude").
+- **Alex's dated 2026 commitment: deliberately no sales team.** Not because it converts best,
+  but because his traffic would require a ~**200-person** compliant team; he'd rather set it
+  as a company restriction ("we just won't have one"), figure out how to do without, and
+  generate data on it as a priority. Direction of travel is organic + media/brand (~80% of
+  his audience organic-first, up from ~10% five years ago).
+
+**The brand-replaces-the-team mechanism ([[../../sources/2026-02-18-yt-AMW6Ma08yZI]]).** The
+companion clip supplies *why* a strong brand can substitute for the machinery. His recent
+book-launch upsell sold with an **11-minute video, zero sales calls, and one button** —
+framed as "if you're the type of person who can be sold by an 11-minute video, this is a
+no-brainer." Once brand is high enough you can make an offer with **no promises** — "every
+other thing you've bought from me has been good, you'll like this too, trust me" — and people
+buy on accumulated trust. This runs on the **brand loop**: (1) what you say about you, (2)
+what others say about you, (3) what the customer concludes *after* you deliver (the decisive
+point). Its counterfeit is the internet-marketer testimonial treadmill — hype a product,
+cherry-pick ~10 good results out of 100–1,000 buyers, sell on those, underdeliver, repeat —
+which he calls "obviously lying in advertising."
+
+> ⚠️ STAGE/BRAND-DEPENDENT — NOT an absolute contradiction of the "build a sales team"
+> material above. The headline "You Don't Need a Sales Team" is a packaged hook; in-clip the
+> claim is **conditional**: a *strong enough brand* plus *high-qualification / no-brainer or
+> low-relative-price* offers can go button-only, whereas higher-ticket, lower-brand, or
+> lower-qualification motions still need the team-building system on this page. Read the two
+> Feb 2026 clips as: 02-15 = *when you do vs. don't need a team, and the trade-off math*;
+> 02-18 = *why a strong brand can replace it (brand loop + no-promises offer)*
+> [[../../sources/2026-02-15-yt-Rfja1J9xZk8]] · [[../../sources/2026-02-18-yt-AMW6Ma08yZI]].
+
+---
+
 ## March 2026 hiring & recruiting refinements (MoreMozi coaching)
 
 A cluster of March 2026 live-coaching cuts extends this page from *managing* a sales team
@@ -305,4 +422,7 @@ These figures are dated heuristics, not universal capacity standards.
 **Related:** [[sales-frameworks]] · [[sales-communication]] ·
 [[communication-and-management]] · hub: [[business]]
 **Sources:** [[../../sources/2021-11-15-yt-Lxp-e5NionA]] ·
-[[../../sources/2022-09-27-yt-2lA_A8BGRRs]]
+[[../../sources/2022-09-27-yt-2lA_A8BGRRs]] ·
+[[../../sources/2026-02-15-yt-Rfja1J9xZk8]] ·
+[[../../sources/2026-02-17-yt-47mzDb6vU98]] ·
+[[../../sources/2026-02-18-yt-AMW6Ma08yZI]]

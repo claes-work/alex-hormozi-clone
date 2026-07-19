@@ -1144,6 +1144,143 @@ companion to "don't ask others what math or a test can answer"
 > "We always have to think about listening to the people who are closest to our goals, not closest
 > to us."
 
+## Mid-Feb 2026: two razors, wins-in-the-meantime, the Mosy 6, and the more↔better accordion
+
+**Two decision razors — the "story frame" and "hard thing = right thing."** In a Feb 2026 clip,
+Hormozi offers two tie-breakers for when you are genuinely split between two options. The **"story
+frame" razor**: imagine yourself at 85, split between two life choices, and pick the one that makes
+the *cooler story*, because "at the end of your life it's the only thing you're going to be left
+with." The **"hard thing = right thing" razor**: between two options — usually a harder/right one
+and an easier one — take the harder one, because *if the easy option were right you would already
+have done it*; your very hesitation signals the hard one is correct
+[[../../sources/2026-02-20-yt-AOx6MaA3SqE]]. *(Distinct from the March "two-razor frame" — "what do
+I want to happen?" → "what increases the odds of that?" [[../../sources/2026-03-03-yt-mL4NZTjGUGc]]:
+those two questions structure the logic of a decision; these two razors break a tie between two
+already-framed options. The story razor also extends the 85-year-old-self device
+[[../../sources/2023-10-03-yt-bkEJhzxHHnc]], [[../../sources/2026-03-27-yt-wKG7QT0rjCo]] and the
+"suffering becomes a better story" frame [[../../sources/2026-04-27-yt-oxt3CnQJItQ]] into an
+explicit choice rule.)*
+
+> "When you're 85 and you're split between two choices in life, pick the cooler story, cuz at the
+> end of your life it's the only thing you're going to be left with anyways."
+
+> "If the easy thing were the right thing, you wouldn't have had to make this decision, because you
+> would have already done it. And so you're only hesitating because it's harder than you expect."
+
+**Reframe every external complaint as "I don't have the skill to X."** In the same clip, Hormozi's
+problem-solving move is to rewrite any market/other-people complaint as a first-person skill gap:
+"it's too crowded" becomes "I don't have the skill to get more leads"; "there are no good
+salespeople here" becomes "I don't have the skill to attract, hire, and manage a good salesperson."
+Stated that way, *you* own the outcome — you "become source, the one who can change it" — instead
+of "casting your power outside of yourself." He concedes the external excuse might even be true "and
+so what?" — some prizes (the "pity award" for worst circumstances) aren't worth winning, and
+succeeding *despite* a bad hand is the stronger, more useful story for the people following behind
+you [[../../sources/2026-02-20-yt-AOx6MaA3SqE]]. *(A skill-framed sharpening of the standing "power
+follows the blame finger" ownership doctrine above [[../../sources/2023-07-11-yt-mNcDKnq6-q8]].)*
+
+> "It just does not serve you to cast your power outside of yourself and give that as the reason for
+> why you lack the success that you want."
+
+> "As soon as you state it in that way, guess who owns the outcome? You. You become source. You
+> become the one who can change it."
+
+**Long-term thinking = engineering "wins in the meantime," not summoning patience.** In a Feb 2026
+podcast clip, Hormozi reframes long-term thinking as a design problem rather than a virtue: "be
+patient" is a *terrible* directive because nobody knows what to *do* with it, and experts don't have
+more impulse control — "they figure out more ways to win in the meantime." His method is **chunk +
+mini-reinforcers atop a long reinforcement loop**: break a long effort into manageable segments (the
+treadmill "five more five-minute chunks"; the marathon reframed as "how do I break this into a chunk
+I can manage?") and deliberately engineer small, frequent wins (a rewritten chapter, a visual that
+nails a concept) that keep you fed while the slow "long loop of reinforcement" pays off at the end.
+He adds that *time invested* (not merely elapsed) raises quality because a longer window lets
+creative solutions surface (his year-planned Prestige Labs launch was his best ever, vs. impatient
+12-week launches), and makes the case for enduring the grind via **diminishing returns on input but
+outsized value in the last increments**: doubling output can cost ~5x the work and tripling ~10x,
+yet the top marginal gains matter most (an Olympic sprinter trains four years to shave a tenth of a
+second, but first vs. second is "everything") — which is why he'll grind years to make his *first*
+book, not his third, the one people name [[../../sources/2026-02-15-yt-OljNyzzVf7c]]. *(A concrete
+operating method under the standing "longest time horizon wins" / delayed-gratification thread
+[[../../sources/2024-03-05-yt-XclY0Yl8u9M]]; complements the third-marshmallow / when-to-reap
+material [[../../sources/2026-03-17-yt-IhF1JG08ki8]] by supplying the "what to do while you wait"
+half.)*
+
+> "Patience isn't actually active. ... 'Be patient' — it's a terrible directive because no one knows
+> what to do when you say be patient."
+
+> "Experts at things don't really have more impulse control. ... They figure out more ways to win in
+> the meantime."
+
+> "If you want a double output outcome you might have to work five times harder, and a triple output
+> ten times harder ... but there's an outsized return on each diminishing increment of improvement."
+
+**The "Mosy 6" de-constraining decision tree.** In a Feb 2026 workshop talk, Hormozi presents the
+self-coaching decision tree he says he distilled from ~10,000 Q&As and runs on himself to decide
+"what should I do next?" It starts from one question — **"Why can't we do more?"** (because "more"
+of what already works is the highest risk-adjusted move; "new almost never works") — and sorts every
+"I can't do more" objection into six M's: **More, Market, Metrics, Model, Money, Manpower**. He
+drills the branches: **Model** (features-vs-bugs — every business has a hard component, and "the hard
+problem is the thing you get compensated for solving"; long time horizons make almost any vehicle
+viable — "most goals are attainable, just not on the timeline you gave yourself"); **Money**
+(splinters into leads-too-expensive / sales-too-low / LTV-too-low, plus churn); and **Manpower**
+(getting talent loops back through the *same* tree — supply side like demand side). For why a person
+(or you) isn't doing a thing he adds a second diagnostic, the **"management diamond,"** ordered by
+true likelihood — didn't know you wanted it / didn't know how / didn't know when / something's
+blocking them / didn't want to — noting entrepreneurs jump to "they didn't want to" first though it's
+almost always last [[../../sources/2026-02-18-yt-NucUq-K-YdU]]. *(Routing note: kept here as a named
+decision/self-diagnostic method alongside the existing constraint-chain diagnostic
+[[../../sources/2026-03-18-yt-XPjUSHYjUOc]] and the Solomon-paradox excuse-drill
+[[../../sources/2026-02-22-yt-9JOm_ibGcf8]] rather than in `business-diagnostics.md`, per the
+one-file rule; the operational Money/Manpower branch detail belongs in
+[[../business/business-diagnostics]] and should be expanded there in a later pass. The distinctively
+new pieces here are the named **6-M taxonomy** and the **management diamond**.)*
+
+> "There's an unlimited amount of ways that something doesn't work. There's a finite amount of ways
+> that it does. ... New almost never works."
+
+> "The hard problem that you have in front of you is the thing that you get compensated for solving.
+> Like that's the game."
+
+**The more↔better accordion — and "when unsure, start with more."** In a Feb 2026 clip, Hormozi
+describes the relationship between doing **more** and doing **better** as an "accordion": a normal,
+recurring oscillation, not a one-time choice. His YouTube-cadence walkthrough: go 1→5 videos a week
+and you get more views *and* notice one dramatically outperforms the other nine — which *reveals*
+what "better" is and pulls you to quality (drop to ~3 much-better videos that net more views); once
+you've mastered those, you swing back to *more* (10 at the new bar) and again one outperforms,
+restarting the cycle. The non-negotiable is that you must always be pushing one lever or the other,
+never neither; the tie-breaker: **"if you're not sure, start with more, because more will always
+make you better"** [[../../sources/2026-02-21-yt-SdyO4ZMe5yU]]. *(Adds the bidirectional
+volume↔quality dynamic — volume reveals what "better" is, mastery pulls you back to volume — and a
+crisp tie-breaker to the standing more/better/new material
+[[../../sources/2026-05-08-yt-N5tckVyDSs4]], [[../../sources/2026-03-17-yt-IhF1JG08ki8]].)*
+
+> "There tends to be this kind of accordion back and forth that happens between more and better. ...
+> If you're not sure, start with more, because more will always make you better."
+
+**Distraction-elimination system — engineer the environment so there is nothing else to do.** In a
+Feb 2026 interview, Hormozi details the concrete stack behind "peak productivity per unit of time,"
+his thesis being that "the vast majority of productivity hacks boil down to remove everything that
+isn't work." Concretely: a **phone-blocking app** that kills *everything* (texts, calls, Slack — "a
+dead element"), combined with **physically relocating the phone across the building** so unblocking
+it takes real effort; a **kitchen timer set to how long he expects the task to take** as the focus
+trigger ("there's nothing else to do"); an office with **no outside light** and **true silence**
+(earplugs plus headphones, no music); and **"productive rest"** — a 5–10 minute walk outside for
+natural light after ~45–60 minutes — treated as productive because it raises *net* output over a
+12-hour day. He rejects the "superhuman willpower" narrative, framing all behavior change as
+overcoming inertia via **carrots and sticks** rather than grit
+[[../../sources/2026-02-20-yt-EAUgBombgoA]]. *(A concrete tooling layer under focus-as-subtraction
+[[../../sources/2026-04-07-yt-rtpOMZu0ork]] and the timer-driven thirds workday
+[[../../sources/2026-02-21-yt-KbYRggnQUAc]]; the phone-relocation friction, the
+timer-set-to-expected-duration, the no-light/true-silence office, and the carrots-and-sticks framing
+of willpower are the genuinely-new specifics.)*
+
+> "The vast majority of productivity hacks can get boiled down to remove everything that isn't work."
+
+> "I just set a kitchen timer for how long I expect a task to last — that is when I'm at peak
+> productivity per unit of time, because there's nothing else to do."
+
+> "I don't want to pretend like I have some superhuman willpower. ... I think of everything in
+> carrots and sticks. ... They just have to overcome inertia."
+
 ## Sources
 
 - [[../../sources/2026-05-17-yt-CV48Gkckbn4]] — "12 by 30" work-ethic framework;
@@ -1246,3 +1383,16 @@ companion to "don't ask others what math or a test can answer"
   a proxy for high agency / independent thinking.
 - [[../../sources/2026-02-22-yt-ZKkukqBUcmQ]] — advice filter: listen to the people closest to your
   goals, not the people closest to you.
+- [[../../sources/2026-02-20-yt-AOx6MaA3SqE]] — the two razors ("story frame" — pick the cooler story
+  at 85; "hard thing = right thing"); reframe external complaints as "I don't have the skill to X."
+- [[../../sources/2026-02-15-yt-OljNyzzVf7c]] — long-term thinking = engineering "wins in the
+  meantime" (patience isn't active; chunk + mini-reinforcers atop a long loop); diminishing input,
+  outsized value of the last increments (Olympic margin).
+- [[../../sources/2026-02-18-yt-NucUq-K-YdU]] — the "Mosy 6" de-constraining decision tree ("why can't
+  we do more?" → More/Market/Metrics/Model/Money/Manpower); the management diamond. (Ops branch detail
+  belongs in [[../business/business-diagnostics]].)
+- [[../../sources/2026-02-21-yt-SdyO4ZMe5yU]] — the more↔better accordion (volume reveals what "better"
+  is; mastery pulls back to volume); tie-breaker "if unsure, start with more."
+- [[../../sources/2026-02-20-yt-EAUgBombgoA]] — distraction-elimination system (phone-killer app +
+  relocation, kitchen timer set to expected duration, no-light/true-silence office, productive-rest
+  walks, carrots/sticks over willpower).

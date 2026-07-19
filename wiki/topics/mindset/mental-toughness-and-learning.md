@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: [mindset]
-updated: 2026-07-13
+updated: 2026-07-19
 tags: [mental-toughness, learning, discipline]
 ---
 
@@ -88,6 +88,32 @@ specifically: "How long I mourn has nothing to do with how much I loved"
 > "first time on Joe Rogan") and the stimulus→response gap (Viktor Frankl, *Man's Search
 > for Meaning*) are cited by Alex but are **not his own** — attribute to their sources.
 > See [[../../sources/2025-11-21-yt-SE9_1PYsaP0]].
+
+### Feb 2026: the probability definition, drawn as a 6-stage response curve
+
+An earlier Feb 2026 solo cut supplies the **upstream conceptual half** of the four-component
+model above — the same probabilistic definition, this time drawn as a response curve
+([[../../sources/2026-02-19-yt-TyByzXCy89s]]). It restates toughness as a **percentage
+likelihood** rather than a binary (the chance a bad event changes how you act against your
+goals, so the question is "how *much* do you have?"), and defines "bad" narrowly as **against
+your preferences** — something you wish hadn't happened. The reframe strips toughness of
+"rah-rah, beat-your-chest, alpha-masculinity" connotations and treats it as plain, measurable
+**resilience**.
+
+What is new here is the **6-stage response curve** — "how we act when bad stuff happens":
+(1) normal baseline behavior → (2) a bad thing (or enough of them) forces a behavior change →
+(3) how low you go / the depth of the dip → (4) the recovery period back toward baseline →
+(5) a bidirectional fork, ending up better *or* worse than before → (6) the magnitude of that
+better/worse outcome. The six stages are the fine-grained version of the very curve the four
+components measure: **tolerance** governs stage 2 (how long before you're moved), **fortitude**
+stage 3 (how low), **resilience** stage 4 (how fast back), and **adaptability** stages 5–6 (the
+new baseline and by how much). Treat this cut and the
+[[#mental-toughness-the-4-components|four-component]] cut as one talk — this is the definition +
+diagram, that is the components + fixes.
+
+> "It's no longer a 'do you have mental toughness or not,' but instead it's how much mental
+> toughness do you have?" · "When you hear me say bad, I just mean against your preferences —
+> something that happened that you wish didn't happen." — [[../../sources/2026-02-19-yt-TyByzXCy89s]]
 
 ### March 2026 restatement: the same four variables, plus ownership and record-breaking work
 
@@ -461,6 +487,48 @@ across many emotional/physical states (cold, hot, angry, sad, inspired, bored) r
 > *finished great product*, and both reject undifferentiated raw time — but the two hour
 > figures should be quoted with their context, not conflated.
 
+### Feb 2026: declarative vs. procedural — accomplishment gap, parrots, and what to give away
+
+Three Feb 2026 cuts introduce the **declarative/procedural** distinction that the
+[[#march-2026-the-two-ways-to-learn--declarative-vs-procedural|March 2026 cut below]] later
+formalizes with the document→demonstrate→duplicate protocol. The split: **declarative knowledge**
+= knowing *that* something exists or is possible; **procedural knowledge** = knowing *how* to do
+it. The three tellings hit it from three angles:
+
+- **The accomplishment gap** ([[../../sources/2026-02-19-yt-ex5cfFy7LHw]]): among people who
+  actually start, remaining failure splits into these two buckets. "Mindset" and "manifestation"
+  talk is really just the *declarative* side — believing it's possible, which flips fast when you
+  meet a same-age, same-hometown peer already doing $10M/yr. Once you believe it's possible, the
+  only delta left is *procedural* — and **procedural knowledge cannot be gained from content**:
+  "you could listen to every private equity podcast in the world… but until you go through it, you
+  won't know how it works. And then once you do, you can do it again."
+- **Parrots vs. practitioners** ([[../../sources/2026-02-20-yt-Tk5PT1FfxMI]]): the same split,
+  renamed. A **parrot** can only repeat what others said (declarative) and fails the moment an
+  edge case appears; a **practitioner** did the reps and can reason from the ground up — "you can
+  read a hundred books on sales but you will learn more from your first hundred sales calls." The
+  belief corollary: "If you cannot explain why you believe what you believe, it's not your belief,
+  it's someone else's." (He ties this to Brian Chesky's "founder mode" — the founder knows the
+  *conditions* under which each rule was made, so knows when to break it; later hires only parrot
+  the rules.)
+- **The give-away rule** ([[../../sources/2026-02-17-yt-aDbc8y7ngBM]]): the *monetization* edge of
+  the same distinction. "Give away all the information and then sell the implementation."
+  Declarative is **what you use to sell**; procedural is **what you sell**. Free content should be
+  predominantly declarative — break beliefs (old model vs. new model), show what's possible and
+  why it works — because declarative value lands *instantly* (everyone in the room gets it just by
+  being there), whereas teaching tactics puts the value "at a delay" (they must go do it first),
+  kills present-tense buying intent, and leaves people with "a shitload of to-dos" thinking "I'm
+  good."
+
+Alex credits the declarative/procedural framing to standard education theory (~100 years old),
+"people just don't talk about it." The through-line: declarative is cheap, transferable, and
+*sells*; procedural is earned only by doing and is therefore the thing worth paying — and building
+— for.
+
+> "Declarative knowledge is knowledge about something. This is what you use to sell. Procedural
+> knowledge is about how to do something. This is what you sell."
+> — [[../../sources/2026-02-17-yt-aDbc8y7ngBM]] · "Parrots versus practitioners… being a
+> practitioner is the best way to learn." — [[../../sources/2026-02-20-yt-Tk5PT1FfxMI]]
+
 ### March 2026: the two ways to learn — declarative vs. procedural
 
 Two March 2026 cuts add a **taxonomy of learning** underneath the "same condition, new
@@ -603,6 +671,34 @@ the reps deposit in the operator.)*
 
 > "The work works on you more than you work on it." · "100 reps, not the same 100 reps." · "You got
 > better 10,000 times, you didn't make 10,000 calls." — [[../../sources/2026-02-22-yt-Vw1tjy5i5Jo]]
+
+### Feb 2026: communication is a domain-specific skill (reps don't transfer for free)
+
+A Feb 2026 interview cut sharpens the skill-acquisition thesis with a **non-transfer** rule: skills
+are domain-specific, so reps in one arena don't hand you competence in an adjacent one
+([[../../sources/2026-02-14-yt-reuODMHvcvc]]). Asked whether his 4,000+ in-person sales calls made
+him a strong communicator, Alex pushes back — the sales skill did **not** automatically translate
+into the *content* skill; he had to earn another ~4,000 reps at content specifically (his team now
+makes ~350 pieces of content a week). He offers this as a deliberately discouraging truth: no
+shortcut transfer.
+
+Two failure modes of the fast-feedback learning content otherwise enables:
+
+- **The "false data" trap.** Fast feedback only teaches when it's *true*. A prospect who was always
+  going to buy (referred by a friend) says yes after you "do something fancy," and you wrongly
+  credit your move — "she bought despite you… and so then you get false data," learning the wrong
+  lesson.
+- **Consistency without deliberate feedback = a flat line.** His podcast was flat for its first
+  *four years* (~2,000 monthly listens, ~400 episodes) because he "consistently made the podcast"
+  but took no feedback and made no deliberate attempt to improve. Volume alone yields a flat line,
+  not a growth curve; the inflection came only when he sold Gym Launch and freed attention to
+  *deliberately* learn the skill. This is the operative distinction between mere repetition and the
+  [[#feb-2026-the-reps-build-a-portable-skill-not-the-output|"100 reps, not the same 100 reps"]]
+  deliberate-practice loop above.
+
+> "I don't think the sales skill I had necessarily translated into the content skill. I had to get
+> 4,000 reps here." · "It was like four years of flatish nothing… I don't think I took any feedback
+> from my podcast. I just consistently made the podcast." — [[../../sources/2026-02-14-yt-reuODMHvcvc]]
 
 ## Skill compounding & luck surface area
 

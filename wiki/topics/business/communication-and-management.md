@@ -1,8 +1,8 @@
 ---
 type: topic
 domains: business
-updated: 2026-07-13
-tags: [communication, management, articulation]
+updated: 2026-07-19
+tags: [communication, management, articulation, feedback]
 ---
 
 # Communication & Management
@@ -70,6 +70,22 @@ why his content outperforms: he *defines the terms* other people leave undefined
 communicators pass bundled words back and forth; defining them into observables is the
 articulation edge (paraphrase, [[../../sources/2024-09-11-yt-s6tkRztZwYc]]).
 
+**Anchor everything to observable reality (Feb 2026).** A February 2026 interview clip
+gives debundling its most general statement: take the amorphous words people use loosely —
+"value," "brand," gut "feelings" — and break each one down into things you can actually
+observe. "All of my content is always focused on the observable reality" (verbatim,
+[[../../sources/2026-02-20-yt-2fc8mpumLFg]]). The instant a listener hits a word they don't
+understand, "they don't understand the rest of what you're saying" (verbatim) — so
+undefined bundled words don't just muddy one point, they cost you everything after it.
+Even *intuition* is reducible: a designer's "I feel like it's this feeling" is imprinted
+**pattern recognition** — they have seen many things go well and badly, and the good/bad
+cycle imprints until they recognize patterns faster. "Different words, same underlying
+mechanic" (paraphrase). Likewise "how do I get good at brand?" resolves to: study what did
+well, study what didn't, do more of what works for your industry (paraphrase,
+[[../../sources/2026-02-20-yt-2fc8mpumLFg]]). This is the concrete extension of the
+"clear, not clever" thread: not just simpler words, but words that point at observable
+things.
+
 ---
 
 ## The logic / evidence / utility filter
@@ -88,6 +104,58 @@ This is the diagnostic companion to debundling: debundling produces observable t
 logic/evidence/utility filter decides whether a statement built from them is worth
 uttering at all. He uses it both inbound (testing others' vague statements like "make a
 customer worth more in three ways") and on his own thinking.
+
+---
+
+## Feedback: criticism vs. insult, Stop / Start / Keep, "kind not nice" (Feb 2026)
+
+A February 2026 clip supplies the *feedback* half of the observable-behavior doctrine:
+how to correct someone without insulting them. It is the operational sibling of debundling
+— where debundling turns a vague directive into behaviors, this turns a vague *complaint*
+into behaviors ([[../../sources/2026-02-20-yt-zYz6i-sPN28]]).
+
+**Criticism vs. insult.** The core distinction:
+
+> "Criticism is a discrepancy between actual and desired. So, you were supposed to be on
+> time and this week you were late twice and so that is the discrepancy... and you're lazy
+> is the insult." — verbatim
+
+Criticism names the objective gap between actual and desired behavior; the **insult is the
+character judgment you attach to that gap** ("lazy," "a dick"). An insult is useless to the
+receiver — there is nothing to *do* with it: "You just get insulted and then you have
+nothing to do" (verbatim). The rule: **remove insults, focus on criticism, and tell people
+what to do instead** (verbatim).
+
+**Stop / Start / Keep.** His easiest correction format — name what to **stop**, what to
+**start** (do instead), and what to **keep** doing (verbatim, named framework).
+
+**Teach via condition + behavior.** Behavior change requires giving people the *conditions*
+under which to act, not exhortations: "when someone says X / if this occurs (condition), do
+this (behavior)." Most training does neither — it is just "level up / increase your
+performance," which is unactionable (paraphrase). Worked example: a high-performing director
+everyone called "a dick" — whom four executives failed to fix by telling him to "stop being
+a dick" (an insult he couldn't act on) — changed within a week once the complaint was
+translated into 3–4 conditional behaviors ("when someone else is talking, wait until they
+finish; if unsure, ask if they're done"; "don't give unsolicited advice on how to run
+someone's department — ask first, and if they say no, say nothing"):
+
+> "He wasn't a dick. He just didn't know how to behave... if you're trying to get someone to
+> be different, you have to give them the conditions under which they need to change." — verbatim
+
+The **"kind, not nice"** culture principle underwrites all of it: withholding correction to
+avoid offending is *unkind*, because you fail to maximize the person's odds of succeeding.
+
+> "Kind, not nice is one of the big ones, which is that you're actually being unkind to
+> someone by not maximizing the likelihood that they succeed in their role." — verbatim
+
+People rarely lose a job over one thing — "it's usually a hundred small things," so fixing
+the small things fast, from day one (setting a high-correction expectation up front:
+"we'll get through a third of the script and I'll stop you 30 times"), is how you help them
+(paraphrase + verbatim). Practical corollary: you can run a PIP *without announcing it* —
+skip "level up or you're on a PIP" and just issue the specific behavioral requirements
+directly (paraphrase). This connects the feedback loop to the Management Diamond below:
+correction is reason #1 (communication) and #2 (training) delivered continuously, not a
+year-end event.
 
 ---
 
@@ -145,6 +213,20 @@ first; the manager should find the missing condition before attacking the person
 hire for the smallest skill deficiency the company can afford to train, and treat
 intelligence operationally as rate of learning, not as a vague trait
 [[../../sources/2026-05-09-yt-IuOjYZMQu_I]].
+
+A February 2026 talk independently restates the diamond and makes the reversed-instinct
+point explicit: the rungs, *in true order of likelihood*, are (1) they didn't know you
+wanted it, (2) they didn't know how, (3) they didn't know when, (4) something was blocking
+them, and only then (5) they didn't want to. "[Not wanting to do it] in my experience is
+the first place that we go to as entrepreneurs, and typically the last one that's reality.
+Most people, when they have a job, prefer to keep it" (verbatim,
+[[../../sources/2026-02-18-yt-NucUq-K-YdU]]). The same clip stresses you should **run the
+diamond on yourself** — "I know I need to do more, why am I not?" — walking the same rungs
+(didn't know / don't know how / not urgent / something's blocking me) rather than assuming
+a willpower failure (paraphrase). In that source the diamond sits inside a larger
+constraint-finding decision tree (the "Mosy 6": More, Market, Metrics, Model, Money,
+Manpower); that de-constraining tree is documented separately in
+[[business-diagnostics]].
 
 ## Delegation vs. abdication
 
@@ -353,6 +435,9 @@ you let them break.
 - [[../mindset/mental-toughness-and-learning]] — observable-behavior and
   consequences-drive-behavior lens on how skills are actually acquired.
 - Source: [[../../sources/2024-09-11-yt-s6tkRztZwYc]]
+- Source: [[../../sources/2026-02-18-yt-NucUq-K-YdU]] — Management Diamond restated (motivation is the last rung, not the first); run it on yourself; Mosy 6 lives in business-diagnostics.
+- Source: [[../../sources/2026-02-20-yt-zYz6i-sPN28]] — feedback: criticism vs. insult, Stop/Start/Keep, "kind not nice", teach via condition + behavior.
+- Source: [[../../sources/2026-02-20-yt-2fc8mpumLFg]] — anchor communication to observable reality; intuition as imprinted pattern recognition.
 - Source: [[../../sources/2026-02-28-yt-zgAsBqZiyW4]] — ask every role how it makes money; invert bad outcomes into owned metrics.
 - Source: [[../../sources/2026-03-04-yt-2_SQTj98_Vs]] — manage the whole person: home life, "make history" mission, police rest.
 - Source: [[../../sources/2026-03-07-yt-V6X1WndkDzg]] — operationalizing a top performer; experts have more ways to win.

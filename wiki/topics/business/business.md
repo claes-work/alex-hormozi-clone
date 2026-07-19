@@ -70,3 +70,20 @@ Offers, leads, sales, scaling, money models, pricing, retention.
 - [[complaint-handling|Complaint Handling]] — "a refund is only an apology"; go negative → tragic-to-
   magic; the "angry boat" (own it, out-angry them, validate); the "box of responsibility"; fault = control.
 
+### Choosing what business to start — the "three Ps" (2026-02-16)
+
+From [[../../sources/2026-02-16-yt-e7c3b3gPg9M|"I Just Quit My Job — What Business Should I Start?"]]:
+a business idea should originate from one of **three Ps**:
+
+- **Past profession** — the *proven*, lowest-risk path. You already have the skill and a track
+  record, so you can charge for it on day one. Start here by default.
+- **Pain** — a problem you've personally lived through. Higher upside: the lived experience gives
+  you deep customer knowledge that outsiders can't fake.
+- **Passion** — something you'll obsess over for years. Also higher upside via that same deep,
+  intrinsic customer knowledge, though it carries more risk than the proven-skill route.
+
+Pain and passion trade higher risk for greater potential because the intimate customer
+understanding is hard to replicate. **Founder origin-story sells:** framing the business around
+*why* you started it (missionaries beat mercenaries; **demonstration beats description** — showing
+you've walked the path) out-sells a plain benefits pitch.
+

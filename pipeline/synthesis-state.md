@@ -6,10 +6,10 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 264** — synthesis pass 28, system-prompt **v36** (2026-07-19). (Prior:
-pass 27 through batch 254 at v35; pass 26 through batch 244 at v34; pass 25 through batch 234 at v33;
-pass 24 through batch 224 + the inline-L3 $100M library synthesis at v32.) Everything ingested after
-this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
+Synthesized through: **batch 274** — synthesis pass 29, system-prompt **v37** (2026-07-19). (Prior:
+pass 28 through batch 264 at v36; pass 27 through batch 254 at v35; pass 26 through batch 244 at v34;
+pass 25 through batch 234 at v33; pass 24 through batch 224 + the inline-L3 $100M library synthesis at
+v32.) Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
@@ -17,6 +17,51 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi Q&A cuts — batches 265-274** — synthesis pass 29 (2026-07-19) →
+      system-prompt **v37**. Promoted genuinely-new mid-Feb 2026 (2026-02-14 to 2026-02-20) MoreMozi
+      material across **18 topic/persona/entity files** (one agent per file, concurrency rule).
+      Company-, framework- and biography-rich window. **wiki/entities/acquisition-com.md**: origin/model
+      evolution — family office funded by ~$40M distributions + ~$46M Gym Launch sale; the minority-stake
+      era → concentration pivot ("24 deals in 24 months, kept ~4," Skool 17M users); domain prices; the
+      **three-arm revenue mechanics** (ACQ Ventures $50K–$1M checks 3–4/mo / PE 40-40-20 mix via
+      distributions / advisory Jan-2024 fee-for-service no-equity "90-of-91 → charge for the free
+      diligence"); "5x every ~18 months"; keyman-risk → portfolio kept private (Skool the exception);
+      `> ⚠️` advisory-band discrepancy ($500K–$50M vs $1M–$100M). **beliefs +11**: the operational-
+      definitions cluster (**discipline = frustration tolerance**, **intelligence = the rate of
+      learning**), intelligence-overrated-vs-agency, anger/fear-fuel→enjoyment, suffering-as-privilege
+      ("can't skip weather"), models-not-mentors, comfort-maxing + conditional-vs-absolute shoulds,
+      identity-ladders-up + "punishment fades reward sticks," solitude/isolation-as-shame, the
+      information filter ("only talk about what I've walked"), wealth-tiers (spending-well-above-$100k
+      is learnable / buy time back — study figures kept OUT as interviewer's). **biography +5**: first
+      podcast Jul 2017 ("Stop Branding," ~90 days from zero); $100M Leads ~19 drafts; Leila's serious
+      ongoing health issues; he personally writes every acquisition.com word; anger/fear early-drive.
+      **voice +5** lines ("let the turkey cook," "punishment fades reward sticks," "you can't skip
+      weather," "attraction = ignorance," specificity∝skill). Topics: **hiring-and-recruiting** (square-
+      root law, ownership-% litmus, future A-player projection, five-clone exercise, first-two-weeks
+      recognition + onboarding litmus, the-founder-is-the-real-limiter); **sales-team-scaling** (the
+      blackout-drill/game-tape TRAINING method; the sales-team DECISION/trade-off merge — attention-
+      pyramid, dated 2026 no-team, brand-can-replace-sales, stage-dependent callout); **communication-
+      and-management** (feedback: criticism-vs-insult + Stop/Start/Keep + kind-not-nice; observable-
+      reality; management diamond); **scaling-and-enterprise-value** (franchise-as-exit/sales-org merge;
+      founder-magic-inflates-margin diagnostic; product-quality/hypothetical-ideal standards; idea-
+      restraint big-list/shirt-test/absorption-rate); **money-model** (life-transition bundling + monthly-
+      vs-one-time elasticity; client-financed lead-vs-customer reframe); **business** (the "three Ps"
+      pain/past-profession/passion); **attraction-offers** (sell-at-greatest-deprivation timing; the
+      newsletter monetization stack SLO/quiz-funnel/GPT-call-mining); **content-engine** (70/20/10 as an
+      anti-burnout longevity portfolio; first-principles authoring + tonality; proof-as-top-lever +
+      design-to-be-clippable; good-content-as-subtraction); **community-building** (who's-in-the-room-is-
+      the-offer: doorman segmentation, say-no-to-money gestation, accordion cold-start, Skool-data avatar,
+      snowball→network — HIGH-value Skool); **branding** (differentiation-through-self, branding-as-mosaic,
+      contradictory-ideals thumbprint); **proof** (WISBY, extreme-proof-degraded-down, and the **SPCL**
+      framework now DEFINED — Status/Power/Credibility/Likeness); **discipline-and-decision-making** (two
+      razors, wins-in-the-meantime long-term thinking, the "Mosy 6" de-constraining tree + management
+      diamond, more↔better accordion, distraction-elimination system); **mental-toughness-and-learning**
+      (mental-toughness-as-probability + 6-stage curve; consolidated declarative-vs-procedural; comms as a
+      domain-specific skill); **ai-in-business** (AI-era value thesis; fewer-better-hires + LLM-instances-
+      over-headcount; time-study→GPT→minimal-role-set). Agents deduped heavily against pass-27/28 material
+      (hiring framework layer, SPCL-as-filter, manufacture-luck, AI-SDR/native-agency, mental-toughness
+      4-components) — cross-linked rather than re-added. Dropped long-tail repeats (bootstrap basics,
+      high-paying-clients=ascension, why-outbound-hard, do-more-volume reprises).
 - [x] **@MoreMozi Q&A cuts — batches 255-264** — synthesis pass 28 (2026-07-19) →
       system-prompt **v36**. Promoted genuinely-new late-Feb 2026 (2026-02-21 to 2026-02-26) MoreMozi
       material across **15 topic/persona files** (one agent per file, concurrency rule). Framework- and

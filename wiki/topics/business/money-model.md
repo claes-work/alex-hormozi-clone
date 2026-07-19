@@ -2,8 +2,8 @@
 type: topic
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-13
-sources: 11
+updated: 2026-07-19
+sources: 15
 ---
 
 # Money Model
@@ -235,6 +235,50 @@ pulling cash forward** — collecting revenue sooner so it can be redeployed int
 is the operational expression of the book's "$100M Money Model eliminates cash as a bottleneck"
 thesis, now with benchmarks and named mechanics.
 
+### Life-transition bundling & the monthly-vs-one-time elasticity (2026-02-17)
+
+In [[../../sources/2026-02-17-yt-5wiBBXGMCNw|Helping a Business Owner Accelerate Cash Flow]]
+(2026-02-17) Hormozi coaches a senior memory-care / assisted-living owner whose LTV is real but
+slow (residents stay 1+ year, but a customer isn't profitable for 2–3 months). His prescription is
+three levers to pull cash forward in any recurring/residency-style business, plus a pricing insight:
+
+- **Three cash-forward levers:** (1) charge an **upfront one-time fee** — setup, enrollment, or
+  onboarding — folded into the first payment; (2) **require the first months upfront** (e.g. first
+  three months); (3) ⭐ **bundle the adjacent one-time services the customer must buy anyway at the
+  moment of the life transition** and contract them out. In senior care the adjacents are
+  transportation, hair/nails/beauty, moving/boxes, and furniture upgrades — each a one-time charge
+  that pulls cash forward. (This maps his storage-facility parable — lock, boxes, insurance pull
+  cash forward; the bigger unit, being recurring, does not — onto a new vertical.)
+- **⭐ Monthly-vs-one-time price elasticity.** Customers are "very, very sensitive to the monthly
+  fee… but people are less sensitive to one-time fees because it's only once." So the play to raise
+  revenue is to **create one-time fees, not raise the recurring rate.** (This is the demand-side
+  complement to the later "you can charge 3–4x more for a one-time expense than recurring"
+  observation in the payment-plan-≠-membership clip below.)
+- **Tie the fee to a real problem, and sell on ease.** A one-time fee is more profitable *and*
+  easier to sell when attached to something the customer already has to solve — "if they do it
+  through you, then it just feels easier." Because the customer is at a stressful transition,
+  **"the wallet's already open"**: money is already leaving their pocket, so incremental
+  done-for-you offers ("we'll handle everything… we'll make it easy") meet little resistance and
+  convert on convenience, not price.
+
+### Bootstrap = client-financed acquisition, measured on customers not leads (2026-02-17)
+
+In [[../../sources/2026-02-17-yt-XKTgFBWHR_c|How to Bootstrap Any Business]] (2026-02-17) Hormozi
+restates his client-financed-acquisition / 30-day-payback principle with a professional-services
+worked example, adding one sharp reframe worth capturing:
+
+- **⭐ The 30-day payback clock runs on *customers*, not *leads*.** "I don't need a lead to be
+  profitable within 30 days. I prefer to have a customer." A slow-converting lead (60–90 days) is
+  fine because **nurture is cheap** — more emails and a little sales resource — whereas the real
+  cash bleed is carrying **cost of acquisition *and* cost of servicing** together without covering
+  both fast. Once someone transacts, he gives himself 30 days to offset the full cost of acquiring
+  *and* delivering that customer, then recycles that cash into the next — self-financing acquisition
+  "at basically infinite speed."
+- **Paid-diagnostic worked example (tax & accounting):** sell a **$10,000 tax assessment first** (a
+  paid diagnostic that offsets CAC up front), then upsell **implementation at $1,500/month**. It's
+  fine if the recurring sale takes ~two months, because the up-front assessment already covered
+  acquisition cost.
+
 ### Prepayment / prepay-in-full (2026-03-17)
 
 In [[../../sources/2026-03-17-yt-EhznoPDhzMs|The Best Offer You Can Add to Your Business]]
@@ -358,6 +402,8 @@ playbook above — pull the big up-front sale during the event, then mop up the 
 - [[../../sources/2021-05-17-yt-t9Vv7rK-4Jc|Service delivery cube]] (2021-05-17) — six-dimensional service packaging / hidden-value exercise.
 - [[../../sources/2021-10-08-yt-3P1XjUvo1b4|Starbucks recurring sales]] (2021-10-08) — retention/continuity via customer surplus (~1–2% churn)
 - [[../../sources/2026-07-04-yt--fzHdm7LGlk|In-person LTV sales motion]] (2026-07-04) — local venue front-end preserved, backend LTV expanded at check-in/check-out.
+- [[../../sources/2026-02-17-yt-5wiBBXGMCNw|Helping a Business Owner Accelerate Cash Flow]] (2026-02-17) — three cash-forward levers (upfront one-time fee / first-months-upfront / life-transition adjacent-services bundle); monthly-vs-one-time elasticity; "wallet's already open."
+- [[../../sources/2026-02-17-yt-XKTgFBWHR_c|How to Bootstrap Any Business]] (2026-02-17) — client-financed acquisition; 30-day payback runs on customers not leads; $10k paid-diagnostic → $1.5k/mo worked example.
 - [[../../sources/2026-03-17-yt-EhznoPDhzMs|The Best Offer You Can Add to Your Business]] (2026-03-17) — prepayment playbook: 10% time-value discount, prepay take-rate benchmarks, three sweetener levers, ~35% financing lift, layaway.
 - [[../../sources/2026-03-17-yt-HhDkTYspuxs|E-Com Supply Chain / working capital]] (2026-03-17) — supplier-terms renegotiation (net-0→net-90), sold-out/pre-orders, machine "priced off value" / manufacturing-as-defensibility.
 - [[../../sources/2026-03-22-yt-_9tKTLQqIcc|My Favorite Offer for Home Service Businesses]] (2026-03-22) — on-time/on-budget guarantee (20% bump + no-change contingency); risk/speed/ease value vectors.

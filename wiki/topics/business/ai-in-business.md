@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: [business, content-strategy, marketing]
-updated: 2026-07-10
+updated: 2026-07-19
 tags: [ai, future-of-work]
 ---
 
@@ -268,6 +268,21 @@ This extends the avatar mentions elsewhere on this page (Feb 2023 onboarding ava
 2026-04-21 skincare-avatar "proof-in-its-look" note) into an explicit **delivery-at-scale
 staffing** use case: the avatar replaces headcount for the recurring teaching workflow.
 
+**Execution is commoditizing → hire fewer-better, add LLM instances over headcount**
+(2026-02-20). As AI makes raw execution cheap and abundant, the scarce input flips to
+**taste and strategy**: hire *fewer, better* people for judgment, and scale capacity by
+spinning up **LLM ("Claude / GPT") instances instead of adding headcount**. The org grows by
+adding model instances against well-specified workflows, not by adding bodies to do
+commoditized doing [[../../sources/2026-02-20-yt-Y3g_EGua71M]]. This is the staffing
+corollary of the workflow-not-roles thesis above.
+
+**Time-study → GPT → minimal role set** (2026-02-17). A concrete method for the decomposition
+above: run a full **time study** of the founder's activities, feed the entire study into GPT,
+and have it output the **minimum set of roles + job descriptions that replace 100% of what the
+founder does**. The AI collapses a sprawling activity log into the smallest org that covers it,
+turning "what do I actually do all day" into a hiring/automation blueprint
+[[../../sources/2026-02-17-yt--Jo4ffVktEo]].
+
 **Automate your own job.** One task at a time, one layer beneath the role. If you don't
 automate it, someone else controls that automation.
 
@@ -488,6 +503,18 @@ toward ~zero (bounded only by energy cost), the last thing a human gets paid for
   real communities, and supplying recurring inputs the buyer continues to consume
   [[../../sources/2026-05-27-yt-D8mz-jmYL5M]]. This ties the AI thesis back to
   [[retention]] and [[../content-strategy/community-building]].
+  - **Earlier articulation (Feb 2026), with a "this isn't new" reframe.** He gave the same
+    value-stack answer in a February 2026 Q&A, explicitly deflating the AI panic: *AI isn't a
+    new phenomenon — information has been effectively free since the internet*, so the shift is
+    continuous, not a break. As information goes free, value migrates to three durable places:
+    **selection/curation**, **time-compression / friction-removal** (getting the buyer to the
+    result faster), and **authentic human community / realness** — the things generated
+    information can't supply [[../../sources/2026-02-18-yt-GiVLL6F6tx0]].
+  - **One-time vs. consumable value split (pricing/retention lens, Feb 2026).** In the same
+    talk he splits value into what's delivered **once** versus a recurring **"input of the
+    system"** the buyer keeps consuming — the consumable input is what sustains price and
+    retention, so build the offer around a recurring input rather than a one-shot deliverable
+    [[../../sources/2026-02-18-yt-GiVLL6F6tx0]]. Ties to [[retention]] and [[pricing]].
 - **De-mystify "intuition" / "taste"** (2026-03-31, 2026-04-21). Treat gut instinct as
   pattern recognition — observable behaviors producing an outcome — so it can be described,
   rewarded, and automated. His operations habit (strip out emotional/intangible words,

@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 188
+sources: 199
 ---
 
 # Beliefs
@@ -1474,6 +1474,144 @@ Synthesized from [[../wiki/topics/mindset/discipline-and-decision-making|discipl
   (Sharpens "a trait is a skill" / "everything is trainable" via reinforcement theory; pairs
   with the fear-vs-cowardice origin entry above. Self-reported biography.)
   [[../wiki/sources/2026-02-21-yt-Xu_3NPULjoo]]
+- **Operational definitions — discipline = frustration tolerance; intelligence = the *rate*
+  of learning** (2026) — two more entries in his "I just prefer to define terms" method (what
+  people read as "liking philosophy" is really nailing down a word before arguing it, then
+  testing each definition by trying to break it). **Discipline = frustration tolerance:**
+  **"you're not disciplined if you like the thing you're doing"** — consistency with things
+  you *enjoy* (lifting, boxing, time with a spouse you love) doesn't count; discipline is
+  **"your ability to do things that you don't want to do without an immediate reward for an
+  extended period of time,"** i.e. the count of punishing reps you'll do in a row without a
+  payoff. It is **"a skill, not a trait… you can learn it,"** built incrementally (10 → 20 →
+  50 → 100 outreaches; his Rule of 100). The "I wake up at 5 a.m." brag is usually a tell that
+  someone is only consistent where it's *easy* while neglecting the low-reward work (working
+  their leads). **Intelligence = the rate of learning:** first define **learning = "same
+  condition, new behavior"** (same situation, you act differently — you've learned), then
+  **intelligence is how *fast* you change your behavior** — "I don't care [about IQ] — how
+  quickly can you change your behavior?" Because rate is trainable, "how intelligent you are"
+  is effectively **controllable**, which he calls the real lever for progressing faster than
+  most people. (Extends the "everything is trainable / a trait is a skill" cluster and the
+  behavioral lens above into two crisp operational definitions; cross-links **commitment =
+  elimination of alternatives**, **focus = how much you say no to**, and **mental toughness =
+  a learnable skill**. Consistent with the later May-2026 Q&A definitions noted below.
+  Self-reported.) [[../wiki/sources/2026-02-18-yt-ya6Q_Q3eAiA]],
+  [[../wiki/sources/2026-02-15-yt-H_Ki4zxUVKo]]
+- **Intelligence is overrated vs. courage and agency — IQ's real value is recruiting** (2026)
+  — asked how much raw intelligence matters to entrepreneurial success, he says it matters
+  mostly at the extreme high end (building an AI company) and even there its value is chiefly
+  in **recruiting** — "you need to be smart enough that an engineer who couldn't do that is
+  impressed by you" — not in personally doing the technical work. For most businesses ("lawn
+  care… gyms") you can win "without being above 50% IQ." What matters more: **courage, high
+  agency** ("the ability to make your own decisions without being influenced by others"), and
+  **perseverance.** Entrepreneurship hands you effectively **unlimited "lottery tickets" you
+  buy with time**; most people never cash any in, and since "you only need one really big win
+  to change your life forever," sticking with it long enough gives you so many shots that
+  eventual luck becomes likely. (Reinforces the "determination is rewarded more than
+  intelligence" note in the 2025 "no one cares, just win" entry and the volume/shots-on-goal
+  thread; self-reported.) [[../wiki/sources/2026-02-20-yt-Ajn1i8-_C7U]]
+- **His early fuel was anger and fear, not faith** (2026) — asked whether faith or fear drove
+  him, he rejects the faith premise: **"fear and anger are what drove me to take action… I
+  didn't have a lot of faith. I had a lot of anger… so that's what I used"** — the early anger
+  tied to **proving people wrong.** Early Gym Launch had "zero faith, zero vision — the vision
+  was *don't be broke*"; he and Leila took home ~$1M/month in their 20s, but he was sure it
+  wouldn't last (told her "we have 18 months"), so they lived cheap and banked everything (it
+  was "still crushing it six years later"). Shifting off anger took **"years… like six,"** and
+  even now he wouldn't call himself "purely faith driven" — **fuel "is not a binary"**; his
+  current primary fuel is **enjoyment** ("I do a lot of what I do because I enjoy it… and I've
+  been rewarded for it"). Practical corollary: survival mode (fight-or-flight over rent/payroll)
+  makes long-term decisions almost impossible, so **cut recurring/stressful liabilities "to the
+  absolute greatest degree possible"** to "get your head above water" and think on a 10-year
+  horizon — an edge over competitors trapped in fear. (Dates and sharpens the recurring "use
+  anger as fuel, never as a weapon" (2021) and "use what you have — pain as fuel" (2023) entries
+  with a specific fuel-evolution timeline; self-reported biography.)
+  [[../wiki/sources/2026-02-20-yt-CDkAeGaDMI4]]
+- **Suffering is a privilege — "you can't skip weather"** (2026) — his most explicit
+  gratitude-through-suffering frame: getting to live even the painful parts (he relays a
+  friend-of-a-friend with aggressive cancer who felt grateful *while* going through it — "how
+  cool is it that I get to live this part of the human experience? So many people live their
+  whole lives and die not knowing what cancer was like") means experiencing dimensions of being
+  human that many people never touch. **"It's just a frame on… being human is the rainy and the
+  sunny days. You can't skip weather"** — embracing the *totality* produces gratitude for what
+  feels locally like a low point (explicitly a frame, **not** a justification or minimization of
+  anyone's trauma). Most defining moments only reveal their value when you **expand the time
+  horizon.** His 85-year-old self answers a complaint by asking who you want to become — so
+  **complaining is "wishing for the outcome but not willing to pay the price"** ("well, this is
+  what paying the price feels like… these will be the stories you tell"). (Sharpens the
+  pain-as-price / "this is what hard feels like" cluster; consistent with the 2026-03-12
+  refinement above — pain *accompanies* becoming, it isn't *required* — while suffering itself
+  remains a constant. Self-reported.) [[../wiki/sources/2026-02-17-yt-91Ftut84zIc]]
+- **"Models, not mentors" — all learning reduces to behavior change** (2026) — asked if you
+  need a mentor, he says no, but **you do need to learn from people ahead of you**: **"I think
+  in models, not mentors — what can I model about their behavior so it changes my behavior to
+  increase the likelihood that I win faster?"** A mentor isn't required (you *will* get there by
+  trial and error); the only variable is **time**, so paying for mentorship is a question of how
+  valuable your time is — would you pay in time or money to skip five years of mistakes?
+  Everything he does **"ladders up or down to behavior"** — training, advertising, sales are all
+  just raising the likelihood a person takes a desired action — which lets him dismiss
+  **"manifestation" / "energy and frequencies"** as empty ("remove the vibes and the outcome
+  still happens; remove the content + outreach and it doesn't"). He learns by proxy from figures
+  ahead of him (Elon, Bezos, Zuckerberg), studying their **decision-making process**, and his
+  highest-leverage gym-launch move wasn't one mentor but **paying into a room of operators** who'd
+  already made the mistakes ("in a day… I started my first gym on their backs. How much was that
+  worth? Years"). (Reinforces the "buy your way up / proximity / pay for speed" learning thread
+  and the behavioral lens above; self-reported.) [[../wiki/sources/2026-02-17-yt-9eUgEFHBIWc]]
+- **Comfort-maxing — willingness to act is the scarcity; conditional vs. absolute shoulds**
+  (2026) — built on his tweet "it has never been easier to be successful": tools (software, AI)
+  have dropped the bar to start, make content, or advertise to **near-zero**, but comfort ("we're
+  comfort-maxing" — Netflix, Uber, DoorDash) has dropped the bar to do *nothing* even lower, so
+  **the real scarcity is willingness to act, not opportunity** ("it's so hard to take a risk when
+  you could literally just do nothing"). He reframes the modern safety net as the *most exciting*
+  part — the worst case of a huge swing is now survivable ("you're not going to starve, you'll
+  have shelter") — so swing big. Someone who just scrolls is "a them thing," **not** a problem —
+  *unless* they make "a demand of the universe" that their life mean something while acting
+  otherwise; his only objection is the gap between what people *say* they want and how they act.
+  Distinguishes **conditional shoulds from absolute shoulds**: he rejects absolute "my life
+  *should* have meaning" but endorses conditional ones — "*if* you want to get in shape, maybe
+  don't eat more than you burn." (Ties directly to the "should is the root of all pain" thesis
+  above — sharpening it into a rejected-absolute vs. legitimate-conditional distinction; a dated
+  2026 AI-and-tools-optimism snapshot, comparative-across-time not absolute. Self-reported.)
+  [[../wiki/sources/2026-02-17-yt-BLDL_hE67Qw]]
+- **Identity ladders up from behavior; "punishment fades, but reward sticks"** (2026) — his
+  identity-change model: identity isn't a fixed trait but is built from repeated **behavior** —
+  **"you describe someone by what they do,"** so changing who you are means changing what you do
+  ("it's very hard to say someone is something without doing something about it"). The behaviors
+  he's had to build: **patience** and "figuring out what to do in the meantime," including the
+  discipline to do *nothing* when nothing is the right task ("let the turkey cook"). Change is
+  **never permanent** — "you have to fight it every day, like addiction." His replacement
+  mechanism: don't anthropomorphize the habit; recognize you were once *rewarded* for a behavior
+  that no longer serves you, and that **"punishment fades, but reward sticks"** — you remember
+  the reward (drinking, an ex) and forget the punishment (the hangover, the bad times), which is
+  why once-rewarding behaviors are the hardest to change, and **the only way to beat one is to
+  replace it with something that rewards you better** (replacement, not suppression). (Sharpens
+  the 2021 "change identity by turning affirmations into evidence / identity is fluid" entry and
+  the behavioral lens with a concrete reward-replacement framework; self-reported.)
+  [[../wiki/sources/2026-02-14-yt-nFBUfxQPiBQ]]
+- **Solitude and isolation — "shame only exists in the dark"** (2026) — a personal
+  self-narrative: he genuinely **likes being alone and rarely feels lonely** ("spending time
+  alone… is one of the most [valued states] for me"). He separates *loneliness* from
+  *isolation* — isolation is the sense that "no one else is dealing with this," which he frames
+  as a species of **shame that "only exists in the dark"**: speak the problem aloud (marriage,
+  weight, business) and it dissolves, because "there's a zillion other people dealing with that."
+  Intellectually knowing you're not alone is weaker than *meeting* someone in the exact same
+  struggle. (Cites his mother's maxim "the news is always the same, it's just the names change" —
+  humans doing human things. Reinforces the 2021 "shame only exists in darkness" note in the
+  "Strip the meaning" entry; the solitude self-report is the new biographical detail.
+  Self-reported.) [[../wiki/sources/2026-02-18-yt-g0ZYCcQRDUA]]
+- **Information filter — opportunity-cost consumption + "I won't talk about it until I've walked
+  it"** (2026) — every information input gets judged against one question: **"what am I going to
+  do?"** — media/education is only worth consuming to the extent it changes an action he'll
+  actually take. Applied to news/politics: being a *genuinely informed* voter costs **weeks, not
+  the "10 minutes" people claim** ("10 minutes only lets you click the buttons, not understand
+  which buttons to press"), and weighed against a single vote's near-zero impact that fails his
+  opportunity-cost test — he's voted once in his life (framed as **pro-informed, not
+  anti-voting**). Because he's uninformed on politics he **refuses to give political opinions** —
+  they'd be "made-up answers, the same as inventing business advice." This generalizes into an
+  epistemic-humility content rule: **he only speaks on what he has personally "walked"** — he'll
+  teach reaching eight figures/month because he's done it, but **won't teach nine figures/month
+  until he's been there,** despite already having a roadmap. He plays only "games I know I can
+  win." (Sharpens the "state facts / focus on the observable" content filter and the "no one
+  cares what you think about your product" proof stance; self-reported.)
+  [[../wiki/sources/2026-02-19-yt-sBW2akk_2eU]]
 
 ## Relationships & partner selection (2023–2026)
 
@@ -1904,6 +2042,24 @@ video sources; nearly every figure is self-reported napkin math).
   expensive.**" (Reinforces the book's "raise price until you make less money" and the 2026
   price-ladder / sell-to-the-rich entries above; Arnault/billionaire-loss figures are his
   on-the-fly, self-reported numbers.) [[../wiki/sources/2023-02-15-yt-ONV__y1z7MI]]
+- **Wealth tiers — needs max out near the top-1% line; spending well above ~$100k is a
+  learnable skill** (2026) — walking the "tiers of wealth," the biggest life-changing income
+  jumps happen **early** (anything → six figures/year; $10k → $20k → $40–50k/month), because
+  those move the **variables of daily living** — where you live, your kids' schools, vacations,
+  food, clothes — and almost all of those **max out around the top-1% earning line
+  (~$500k/year)**; above that it's "nicer and nicer" houses, then private travel, then
+  boats/houses "you literally can't consume." On money-and-happiness he argues (calling it his
+  controversial view) that money's contribution to well-being **keeps rising past the ~$70–75k /
+  ~$100k plateau**, and the real bottleneck is that **most people have a skill deficiency in how
+  to spend money above ~$100k/year to actually improve their lives** — and **spending well is a
+  learnable skill.** For him, the spend that genuinely "net enhances" life is buying **time
+  back** and paying to make **annoyances and frustrations go away** (plus, longer-term,
+  resources to make a real impact); by percentage of income he says he spends very little and
+  only spends because Leila does. (Reinforces the "money = a condensed unit of time" and
+  buy-back-your-time entries. **The interviewer's updated-study figures — ~$150k peak, ~$650–700k
+  taper, lower quality of life above ~$1M — are NOT Alex's claims** and are excluded per fidelity
+  rule 6, though he calls the >$1M dip "super believable," guessing it comes from more problems /
+  fake friends / money to manage. Self-reported.) [[../wiki/sources/2026-02-15-yt-QHD-53QteXs]]
 
 ## Frameworks — AI era (2026)
 
