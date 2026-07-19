@@ -7547,3 +7547,39 @@ Synthesis notes (debt now 9/10 — SYNTHESIS CHECKPOINT DUE NEXT ITERATION) — 
   → sales-frameworks/content.
 Reinforcing-only: high-paying clients = ascension not cold high-ticket (vQGz6E_dM9I, dated).
 NEXT ITERATION: this closes 10 batches → run Stage S (synthesis pass 29 → system-prompt v37).
+
+## [2026-07-19] ingest | yt batch 274 - @MoreMozi P2 (2026-02-14 to 2026-02-15), 8 videos
+Ingested 8 @MoreMozi cuts (all L2): Your Offer Isn't Bad Your Timing Is; The Real Problem You
+Don't Want to Face; Do You Need a Sales Team?; How to Scale Your Outbound System; How to Become
+Better at Long-Term Thinking; What Do People Remember About Us After We Die?; What It Takes to Be
+a Good Communicator; How I Have Changed My Identity. All captions OK, 0 skipped, 0 no-captions.
+Interview clips — Alex-attributed only. THIS BATCH CLOSES 10 → SYNTHESIS CHECKPOINT NOW DUE.
+Synthesis notes (debt now 10/10 — DUE) — ★ candidates:
+- **Sell at greatest deprivation not greatest value** (skOPIeC3t0c): timing rule — motivation =
+  perceived lack; sell at the point of greatest deprivation; manufacture perceived deprivation. →
+  sales-frameworks / attraction-offers (timing).
+- **Sales-team DECISION merge** (Rfja1J9xZk8 + the earlier AMW6Ma08yZI): the trade-off/decision — a
+  team is the "fast-money button" reaching lower into the attention pyramid (~10x reach, lower
+  conversion) vs button-only (top-slice only); price-relative-to-qualification; the "$3,000+ needs
+  a sales team" debunk; dated 2026 commitment to run WITHOUT one (his traffic would need ~200 reps).
+  AMW6Ma08yZI = why brand replaces sales; this = when you do/don't need one. → sales-team-scaling +
+  branding (merge into one enrichment).
+- **The real problem = you can't attract top talent yet** (wH3VBdJ1jbE): you stay small because you
+  aren't yet good enough to attract the top talent scaling requires (they follow someone at their
+  level); "selling the future can out-recruit a thin track record." → hiring/mindset.
+- **Communication is a domain-specific skill** (reuODMHvcvc): sales reps ≠ content reps (~4,000
+  content reps even after 4,000 sales); the "false data" trap in fast-feedback learning; consistency
+  WITHOUT deliberate feedback = a flat line (podcast flat 4 yrs / 400 eps until he committed to
+  *learning*). → content-engine / mental-toughness-and-learning.
+- **Identity ladders up from behavior** (nFBUfxQPiBQ): identity = repeated behavior ("you describe
+  someone by what they do"); change is never permanent ("fight it every day like addiction"); the
+  **"punishment fades, but reward sticks"** reward-replacement framework; "let the turkey cook." →
+  beliefs + voice (sharpens the identity-vs-personality thread).
+- **Long-term thinking = engineer wins-in-the-meantime** (OljNyzzVf7c): patience isn't passive —
+  chunk + engineer mini-reinforcers atop a long loop; diminishing input but outsized value of the
+  last increments. → discipline-and-decision-making.
+- **Reverse-eulogy** (f6jAcSPYK_k): death = the ultimate prioritization razor; the Munger reverse-
+  eulogy exercise; a life is remembered for exactly two things — service and character. → beliefs
+  (reinforces the funeral-test/legacy thread; he wrote his mother's eulogy).
+Soft: why-outbound-is-hard-at-scale framing (4_tQp9ClXCc; title oversold, no concrete mechanics).
+NEXT ITERATION: Stage S — synthesis pass 29 → system-prompt v37.
