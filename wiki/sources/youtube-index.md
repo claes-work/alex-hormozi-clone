@@ -2151,6 +2151,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-18 | [[2026-07-18-yt-17jgssxYtqw]] | Hiring in a town of 5,000 — "solve problems back to front" (churn first); labor-service = training business (14-day standard) | |
 | 2026-07-18 | [[2026-07-18-yt-4dFMX_fH7Us]] | Attract serious money — legitimacy/messaging sets buyer quality; X/LinkedIn as the accredited-investor channel | |
 | 2026-07-18 | [[2026-07-18-yt-t26d3FsKhOc]] | Work harder vs play more — rhetoric irrelevant if people keep doing; micro-discomfort vs macro-pride | |
+| 2026-07-18 | [[2026-07-18-yt-LPsP_KZqJBI]] | Glamping→retreats decision — "what changes about your day-to-day?" org-change test; sellability vs. passion, ramp cadence | ★ |
+| 2026-07-18 | [[2026-07-18-yt-FTylR_eMVcI]] | Content agency $800K→$3M — marketing = get the right person (90%); never move your best rep off a working flow until a match is trained | |
+| 2026-07-18 | [[2026-07-18-yt-GGj6zxdXSyw]] | Reuse your best hooks — recycle proven hooks (80%) w/ new bg/props + 20% new from a swipe-file; first 3-5s decides (lose 80% there) | |
+| 2026-07-18 | [[2026-07-18-yt-zri3X_1Cq7w]] | Invisible-value MSP — sell good outcomes not "nothing bad happened"; scoped conditional guarantee = "reverse insurance"; escape commoditization | |
+| 2026-07-18 | [[2026-07-18-yt-UCyMn1P4dow]] | Concierge dentist exit-the-chair — associate transfers trust, then patient-reveal reels + ManyChat DM offers | ★ |
+| 2026-07-19 | [[2026-07-19-yt-GT8lQuAfzVw]] | How much to charge — price = max willingness-to-pay, units×margin curve, front-load onboarding fees, 5x tiers to 2x revenue | ★ |
+| 2026-07-19 | [[2026-07-19-yt-iUGY8vCDWUE]] | New offer vs escape — judge a pivot on unit economics (lower churn/higher margin/big prosumer TAM), not novelty; $500/mo MSP pivot OK | |
+| 2026-07-19 | [[2026-07-19-yt-zd4iRzbTeUs]] | 40%-market-share firm, still not enough — buy competitors' FRONT END + plug into your delivery; go adjacent (same payback structure); path of least change | ★ |
 
 ## @TheSkoolSchool
 
@@ -2249,7 +2257,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_2,222 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **Only @MoreMozi long-form remains (incl. a tail of fresh-upload P1s).** Remaining open long-form: ~275 @MoreMozi (P1 ~8, P2 ~259, P3 ~8) + shorts dedup (~8,762). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_2,230 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **Only @MoreMozi long-form remains (fresh-upload P1 tail now drained 2026-07-19).** Remaining open long-form: 267 @MoreMozi (P1 0, P2 259, P3 8) + shorts dedup (~8,762). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

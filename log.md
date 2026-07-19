@@ -7744,3 +7744,39 @@ can get 13, 15, 18 times bottom line" vs plain service, below true-SaaS multiple
 "I solve problems back to front" (churn before attraction); a labor-service company is "actually in
 the training business" (14-day up-to-speed standard, 12-hours-on-feet hiring filter).
 **4fCY-znvWyM**, **4dFMX_fH7Us**, **t26d3FsKhOc** — none (established positions).
+
+## [2026-07-19] ingest | yt batch 279 - @MoreMozi P1 fresh uploads (2026-07-18 to 2026-07-19), 8 videos
+
+- Ingested 8 fresh-upload P1 long-form videos to L2 (parallel one-file subagents):
+  [[2026-07-18-yt-LPsP_KZqJBI]], [[2026-07-18-yt-FTylR_eMVcI]], [[2026-07-18-yt-GGj6zxdXSyw]],
+  [[2026-07-18-yt-zri3X_1Cq7w]], [[2026-07-18-yt-UCyMn1P4dow]], [[2026-07-19-yt-GT8lQuAfzVw]],
+  [[2026-07-19-yt-iUGY8vCDWUE]], [[2026-07-19-yt-zd4iRzbTeUs]].
+  All Alex-led coaching Q&A / monologue cuts; questioner statements flagged audience/self-reported
+  per fidelity rules and excluded from quote banks. Captions clean-to-lightly-garbled (a few
+  self-corrections / profanity redactions); no meaning-level garbles required bracket fixes.
+- Skipped/no-captions/unavailable/dup: 0. No rate limiting (0 yt-dlp failures).
+- This drains the @MoreMozi fresh-upload **P1 tail to 0**. Counts: 2,230 L2 / 19 L3;
+  open long-form: @MoreMozi 267 (P1:0 P2:259 P3:8); open shorts 8,762.
+- L3-candidates (★) flagged for next synthesis: LPsP_KZqJBI, UCyMn1P4dow, GT8lQuAfzVw, zd4iRzbTeUs.
+
+Synthesis notes: **GT8lQuAfzVw** (pricing, ★) — dense offer-design material: the "perfect price"
+= maximum willingness-to-pay, chosen on a units×margin curve (diminishing marginal value, not
+cost-plus); front-load onboarding/setup fees; price to different buyers; **5x-tier rule** — a tier
+priced 5× higher can roughly double total revenue; "premium price leader"; 51-to-1 wealth-fractal
+tier spread. **zd4iRzbTeUs** (M&A, ★) — growth path for a 40%-share regulated firm: **buy
+competitors' FRONT END and plug it into your existing delivery** (path of least change), then expand
+into adjacent verticals sharing the same government-payback structure; monopoly-appetite framing.
+**LPsP_KZqJBI** (decision razor, ★) — the "what does this actually change about your day-to-day /
+your Tuesday?" test as a reusable heuristic for org-model/pivot choices; sellability vs. passion,
+ramp cadence ($5k × 2/wk math). **UCyMn1P4dow** (owner-exit + content, ★) — "get out of the chair"
+playbook: hire an associate to **transfer trust off the founder**, then convert patient reveals into
+reels + ManyChat DM offers (content-engine application). **zri3X_1Cq7w** — scoped **conditional
+guarantee reframed as "reverse insurance"**; sell good outcomes, not "nothing bad happened," to
+escape commoditization (value-equation application). **GGj6zxdXSyw** — hook doctrine: recycle proven
+"greatest-hit" hooks (~80%) with fresh visuals/props + ~20% new from a swipe-file; first 3-5s decides
+(≈80% drop-off there). **FTylR_eMVcI** — "marketing is ~90% getting the right person in front of the
+offer"; operational rule: **never move your best rep off a working flow until a replacement match is
+trained**. **iUGY8vCDWUE** — refinement (not contradiction) of the anti-shiny-object stance: a pivot
+to a "new offer" is justified when it wins on **unit economics** (lower churn, higher margin, larger
+TAM), even though he says it's advice he doesn't normally give — "escape vs. genius" decided by the
+numbers, not novelty.
