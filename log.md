@@ -7684,3 +7684,37 @@ affiliate-with-kickback structure when front/back ends have different owners; qu
 Gym Launch, I owned zero gyms"; ⚠️ hair-extension ratio variance vs [[2024-06-30-yt-jzKpAtzKQ54]].
 **OyuSvQMOVGM** — "accept their money is scaling practice number one"; 2012 anti-pattern
 anecdote (quit $5k/mo 4-hr/wk online fitness for 80-hr/wk gym at ~$12.50/hr) — bio/voice material.
+
+## [2026-07-19] ingest | yt batch 277 - @MoreMozi P1 (2026-07-16 to 2026-07-17), 8 videos
+
+Fresh-upload P1 drain continues (routed by the roster autopilot; note: the autopilot expected
+Stage S, but synthesis-state showed 0 pending checkpoints — pass 29 already drained the
+@AlexHormozi-complete checkpoint — so the stage machine correctly selected Stage B).
+
+- Ingested (L2, 8): [[2026-07-16-yt-HA_6vMPAzDs]], [[2026-07-17-yt-DjVPfGfQyZ4]],
+  [[2026-07-17-yt-WiSjImHwlmY]], [[2026-07-17-yt-ObzXF0mF9RM]], [[2026-07-17-yt-ekv7efRxk6Y]],
+  [[2026-07-17-yt-CWK1kQTWagM]], [[2026-07-17-yt-h0_UaXXYqxI]], [[2026-07-17-yt-bGH-zxgwRKs]].
+  All live coaching Q&A cuts; questioner statements flagged audience/self-reported per fidelity rules.
+- Skipped/no-captions/unavailable: 0. No rate limiting (0 yt-dlp failures).
+- Counts: 2,214 L2 / 19 L3; open long-form: @MoreMozi 283 (P1:16 P2:259 P3:8); open shorts 8,762.
+
+Synthesis notes: **ekv7efRxk6Y** — NEW bio facts: Alex says he just lost **$17M in cash** on a bad
+business decision and ranks **2026 the hardest year of his last 8** (5th-worst of his last 13); new
+"anchor 100 ft below the surface" lifestyle-anchoring formulation; admits nihilism ("why bother") is
+his biggest personal struggle. **WiSjImHwlmY** — NEW offer structure: waive the onboarding fee for a
+12-month commitment with an early-cancel clawback (cancel pays what month-to-month would have cost),
+teased as "one of my favorite offers ever… coming out in the next book" (distinct from the 2026-03-22
+home-service "favorite offer" guarantee); upfront-fee-as-anchor mechanic; title phrase "ramps, not
+walls" sits in the questioner's captioned turn — verbatim attribution uncertain. **ObzXF0mF9RM** — new
+coinage "thinking surface area" (elegant problem-solving = multiple coats of paint, needs uninterrupted
+attention); bio refined: exactly one direct report (Leila's father, manages his books, monthly meeting;
+consistent with [[2026-02-14-yt-O4xXOK4MQ24]]); A16Z "technology business masquerading as a service
+business" applied to agencies+AI. **DjVPfGfQyZ4** — explicit whale/concentration-risk rule "we never
+stop a flow until we create another flow"; position: organic and paid have "more or less merged" —
+hire organic editors, not paid specialists (lower-third/spliced-CTA adaptation, ~50 creatives/week
+benchmark). **h0_UaXXYqxI** — named "mispriced or miscompensated" trap; "make money neutral" script for
+mission-driven teams (money can build hospitals or bombs — unused energy). **bGH-zxgwRKs** — worst-month
+thought experiment diagnostic (if scooping all competitor demand makes your worst month your best, it's
+a lead problem, not seasonality); seasonality framed as artificial constraint/self-fulfilling prophecy;
+Harry & David + See's Candies proof points. **CWK1kQTWagM** — crisp "low price is a feature" front-end
+articulation ($97 vs $1,000 boot camp) + "one funnel to rule them all". **HA_6vMPAzDs** — none.

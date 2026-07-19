@@ -2135,6 +2135,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-16 | [[2026-07-16-yt-EuVFS2Keu7Y]] | Affiliate creator — post more (impressions/month), become-a-whale leverage, acquirer exit math | |
 | 2026-07-16 | [[2026-07-16-yt-aovpmQm7t7U]] | Physique coach — aspirational anchor, UGC flywheel, affiliate-kickback ascension ("owned zero gyms") | |
 | 2026-07-16 | [[2026-07-16-yt-OyuSvQMOVGM]] | Solo headhunter re-release — "accept their money", non-solicit exchange, 2012 anecdote (dup+extras) | |
+| 2026-07-16 | [[2026-07-16-yt-HA_6vMPAzDs]] | Software consultancy $4M→$50M — constraint is sales capacity, not marketing; build the sales system | |
+| 2026-07-17 | [[2026-07-17-yt-DjVPfGfQyZ4]] | Merch whale customer — "never stop a flow until we create another flow"; organic+paid merged, ~50 creatives/week | |
+| 2026-07-17 | [[2026-07-17-yt-WiSjImHwlmY]] | Build ramps, not walls — waived-onboarding 12-month-commit offer w/ early-cancel clawback ("next book" tease) | |
+| 2026-07-17 | [[2026-07-17-yt-ObzXF0mF9RM]] | Agency founder spread thin — "thinking surface area", go pro on ONE business; one direct report (Leila's father) | |
+| 2026-07-17 | [[2026-07-17-yt-ekv7efRxk6Y]] | Keep going when it sucks — be useful not happy, anchor lifestyle low; $17M cash loss, 2026 hardest year of last 8 | |
+| 2026-07-17 | [[2026-07-17-yt-CWK1kQTWagM]] | AI consultant $100K→$1M — $97 boot-camp front end ("low price is a feature"), one funnel, annual back end | |
+| 2026-07-17 | [[2026-07-17-yt-h0_UaXXYqxI]] | Price raises vs team raises — "mispriced or miscompensated" trap; make money neutral script | |
+| 2026-07-17 | [[2026-07-17-yt-bGH-zxgwRKs]] | BBQ caterer — drop the restaurant; worst-month thought experiment, seasonality = artificial constraint, start PPC | |
 
 ## @TheSkoolSchool
 
@@ -2233,7 +2241,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_2,206 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **ALL P1 (landmark) videos complete across all 5 channels; only @MoreMozi Q&A cuts remain.** Remaining open long-form: ~808 total, including P2 (~800 @MoreMozi Q&A cuts) + shorts dedup (~8,701). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_2,214 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **Only @MoreMozi long-form remains (incl. a tail of fresh-upload P1s).** Remaining open long-form: ~283 @MoreMozi (P1 ~16, P2 ~259, P3 ~8) + shorts dedup (~8,762). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
