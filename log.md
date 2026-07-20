@@ -7865,3 +7865,44 @@ work) — names three next-book candidates: a profit/pricing book, a sales book,
 amorphous terms" personal-development book with a mental-toughness chapter (tolerance / fortitude / resilience
 / adaptability). All L2; several are candidate additions for the pricing, retention, mindset, and wealth topic
 pages at the next synthesis checkpoint.
+
+## [2026-07-20] ingest | yt batch 282 - @MoreMozi P2 long-form (2026-02-12/13), 8 videos
+
+Loop iteration (Stage B; synthesis debt 7/10 below checkpoint, persona not stale, all channels
+enumerated, P1 empty → open P2 long-form rows → Stage B, P2). Drained the next 8 @MoreMozi P2 rows
+in normal order (priority ASC, oldest-published-first): 3 × 2026-02-12 + 5 × 2026-02-13. All 8 fetched
+captions cleanly — 0 no-captions, 0 duplicates, 0 skipped, no rate limiting. All genuine Alex coaching /
+Q&A clips; callers/interviewers attributed to audience per rule 6 (context, not persona).
+
+- LNNBuh6jrHo — "I'm a Ghostwriter. How Do I Write Better Content?" (uncopyable real stories/proof; free clients for a track record) — content-strategy;marketing;business
+- pQsT3zLK4Z0 — "How to Choose the Right Business to Start" (return-on-time via attract/convert/deliver; everyone trades time for dollars) — business;mindset;wealth
+- RLiqT5DPhjc — "Death Creates Clarity" (mortality as forcing function; eulogy razor — service + character) — mindset
+- GmGOiCnk--w ★ — "You Need to Learn Meta Skills" (meta-skills; progress-not-outcome; input/output time-horizon) — mindset;business;content-strategy
+- vmjskf0NVlQ ★ — "How to train sales people" (end-to-end sales-training system: script memorization + role-play + process adherence) — business
+- 9vyekbNR3Zk — "How to Build a Business Someone Wants to Buy" (sellability = economics: retention + margins + channels + owner-independence) — business;wealth
+- hOeC6NRdsa4 ★ — "I Own a Marketing Agency and Teach People How to Start One. Which Should I Shut Down?" (credibility reframe; test-kitchen; sell-implementation offers; 20 shorts = 1 long) — business;marketing;content-strategy;mindset
+- bpX7w7cM3oo — "What Makes a Good Entrepreneur?" (operator vs market ~50/50; founder commonalities) — business;mindset;wealth
+
+Counts: 2,254 L2 / 19 L3; open long-form @MoreMozi 256 (P2:248 P3:8), P1:0; open shorts ~8,793.
+Synthesis debt: 8 ingest batches since synthesis pass 29 (checkpoint at 10).
+3 L3-candidates flagged (★): GmGOiCnk--w, vmjskf0NVlQ, hOeC6NRdsa4.
+
+Synthesis notes: **GmGOiCnk--w** (mindset/content-strategy) — a genuinely new framework: **meta skills**
+(skills that help you acquire other skills; "be a stem cell for knowledge") paired with the **input/output
+time-horizon asymmetry** (measure inputs in the short run, outputs in the long run) and "optimize for progress,
+not outcome," grounded in his own 10-year commitment story — promote to a mindset/learning topic + persona
+beliefs at the next checkpoint. **vmjskf0NVlQ** (business/sales) — a complete, reusable **sales-training
+system**: extract the winning script from your best rep, drill word-blackout memorization ("breathe the
+script"), run high-interruption role play with immediate "lock it in" repetition, and enforce "process above
+everyone" to cut key-man risk — extends the sales-frameworks topic. **hOeC6NRdsa4** (business/content) — the
+**credibility reframe** ("customers only care whether your advice makes them money, not whether you still run
+the business you teach"), an R&D "test-kitchen" rationale for keeping an operating business, sell-implementation
+self-liquidating offers, and a content-construction rule (**~20 proven shorts = 1 perfect long-form**). Also
+new/reinforcing: **9vyekbNR3Zk** — a concrete **sellability checklist** (~80% annual retention + high gross
+margins + multiple acquisition channels + not owner-reliant = a sellable asset regardless of category);
+**pQsT3zLK4Z0** — the contrarian **"everyone trades time for dollars, just at different efficiencies"** framing
+(rejects "never trade time for dollars"); **RLiqT5DPhjc** — new personal/values material, a **"reverse eulogy"
+razor** (service + character as life's real scorecard) tied to his mother's death; **bpX7w7cM3oo** — the
+**operator-vs-market "~50/50, market wins at the extremes"** formulation plus a founder-commonalities list
+(speed, product-obsession, long-term focus, pain/risk tolerance). All L2; candidates for the sales, pricing,
+mindset/learning, wealth, and content-strategy topic pages at the next synthesis checkpoint.
