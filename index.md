@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-20 (batch 280 (@MoreMozi P1, 8 — 2026-07-20 fresh-upload P1 tail; 5 P1 remain); 2,238 L2 videos; synthesis pass 29 (+ inline-L3 $100M library), system-prompt v37; new topic: hiring-and-recruiting)_
+_Last updated: 2026-07-20 (batch 281 (@MoreMozi, 8 — 5 × 2026-07-20 fresh-upload P1 tail + 3 P2; @MoreMozi P1 now empty); 2,246 L2 videos; synthesis pass 29 (+ inline-L3 $100M library), system-prompt v37; new topic: hiring-and-recruiting)_
 
 ## Sources
 

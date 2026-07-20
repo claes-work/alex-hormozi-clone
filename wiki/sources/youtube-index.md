@@ -807,7 +807,10 @@ situation is context-only, only Alex's advice is persona data.
 |---|---|---|---|
 | 2025-10-10 | [[2025-10-10-yt-kefMtQqgQBc]] | "If you went broke, how would you start over?" — gun-to-head test, rebuild-faster | ★ |
 | 2025-11-08 | [[2025-11-08-yt-k2u86J2VBsM]] | $100M Leads for real-estate deals (dup of Richard case) | |
+| 2026-02-12 | [[2026-02-12-yt-jtDzaRZTT5w]] | Does Pricing Affect Churn? — the **price-to-value discrepancy** (unused value ≈0 at low price vs. multiples at high price for qualified users); judge price/churn through full-funnel EPC, not churn alone | |
+| 2026-02-12 | [[2026-02-12-yt-8F0wNWHMtwU]] | How Much of Success Is Luck? — luck = a **supply-demand discrepancy within a window of time**; the **repeatability test** separates luck from skill | |
 | 2026-02-13 | [[2026-02-13-yt-JlY8cvqlXoI]] | **How I Started Gym Launch** — origin (Leila recruitment, 32 gyms/18mo, $6.8M→$26M) | ★ |
+| 2026-02-13 | [[2026-02-13-yt-OVVvonRkVds]] | What Book Should I Write Next? — three next-book candidates (profit/pricing, sales, an "operationalizing amorphous terms" personal-dev book w/ a mental-toughness chapter) | |
 | 2026-02-15 | [[2026-02-15-yt-8ExRKuE_KFs]] | **Story behind the $100M book series** — manuscript origin, Leila "publish it", all 3 at once | ★ |
 | 2026-02-17 | [[2026-02-17-yt-o-TQtwQfK9o]] | $3.5M men's coach → $100M (brand-as-constraint; overlaps taboo-niche) | |
 | 2026-02-20 | [[2026-02-20-yt-F60wS3_hc9Q]] | "I hit my first million. What now?" — constraint is leads not supply | |
@@ -2167,6 +2170,11 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-19 | [[2026-07-19-yt-ZgrmWfnJnhA]] | Lower prices to grow faster? — retention-first (30→65 repeat rate); price-cut worth it only with a backend/LTV moat (⚠️ vs raise-prices) | ★ |
 | 2026-07-19 | [[2026-07-19-yt--BSOPxkfrP4]] | Find people not on job boards — LCGP-to-CAC (supply-side LTV:CAC); "map behaviors not titles" hiring avatar | ★ |
 | 2026-07-19 | [[2026-07-19-yt-g9xwLNX5Zq0]] | Customers only buy once — one-and-done = arbitrage/media, not a "business business"; sellable only with repeat/retention | ★ |
+| 2026-07-20 | [[2026-07-20-yt-nljBRSUw-Eg]] | Helping a $1M/Month Bootcamp Get to $10M — scale via **ad-creative volume** (50 hooks→~150 ads/session; ~25/wk floor) + roll-up/PE; "which problem would you rather have" (Leila) | |
+| 2026-07-20 | [[2026-07-20-yt-cn6REBUMcsY]] | How to End a Partnership the Right Way — **wind-down vs. sale**: cutting growth spend turns revenue near-all-profit; "think of yourself as the asset" | |
+| 2026-07-20 | [[2026-07-20-yt-6WvSQcFI2jA]] | Show Proof When It's All Under NDA? — **present-tense proof** (anonymized call-recording playback) + free-trial as the ultimate risk-reversal | |
+| 2026-07-20 | [[2026-07-20-yt-qOy_FSeRU1M]] | How Do We Win Trust in a New City? — grand-opening CAC + the **"running-start" punch card** (pre-punch 2-3 of 10 → ~3x completion) | |
+| 2026-07-20 | [[2026-07-20-yt-TTHlgcUgpeo]] | Helping a $2M Coaching Business Cut Dead Weight — **opportunity-cost over sunk-cost** divestiture; bio: sold 6 gyms "for the price of one" in 90 days, $1M/mo in 6 months | |
 
 ## @TheSkoolSchool
 
@@ -2265,7 +2273,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_2,238 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **Only @MoreMozi long-form remains (2026-07-20 discovery refresh added 13 fresh-upload P1; 8 drained this batch, 5 P1 remain).** Remaining open long-form: 272 @MoreMozi (P1 5, P2 259, P3 8) + shorts dedup (~8,762). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_2,246 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **Only @MoreMozi long-form remains (2026-07-20 discovery refresh added 13 fresh-upload P1; all 13 now drained — P1 empty).** Remaining open long-form: 264 @MoreMozi (P2 256, P3 8) + shorts dedup (~8,793). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

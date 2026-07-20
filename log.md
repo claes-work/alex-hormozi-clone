@@ -7819,3 +7819,49 @@ Aspen landscaper (max willingness-to-pay + talent as the scaling constraint). **
 "mispriced or miscompensated" comp trap applied to retained senior staff after a labor-supply shock.
 Others (5LFcod6HAdM organic-volume doctrine, A8NatXxxOpo diagnose-the-constraint-before-rebuilding,
 MIqjRUq9Ojk working-rhythm/sacrifice bio) restate known positions — capture for voice, no new framework.
+
+## [2026-07-20] ingest | yt batch 281 - @MoreMozi (5 fresh-upload P1 tail + 3 P2), 8 videos
+
+Loop iteration (Stage B; synthesis debt 6/10 below checkpoint, persona not stale, all channels
+enumerated, open P1 rows → Stage B, P1 first). Ingested the last 5 @MoreMozi fresh-upload P1 rows
+from the 2026-07-20 discovery refresh (all published 2026-07-20), then filled the batch of 8 with the
+3 next P2 rows (oldest-published-first, 2026-02-12/13). **@MoreMozi P1 is now empty.** All 8 fetched
+captions cleanly — 0 no-captions, 0 duplicates, 0 skipped, no rate limiting. All genuine Alex coaching
+clips / interview clips; callers/interviewers attributed to audience per rule 6.
+
+- nljBRSUw-Eg — "Helping a $1M/Month Bootcamp Get to $10M" (ad-creative volume + roll-up/PE) — business;marketing;content-strategy
+- cn6REBUMcsY — "How to End a Partnership the Right Way" (wind-down vs. sale cash economics) — business;mindset
+- 6WvSQcFI2jA — "How Do You Show Proof When It's All Under NDA?" (present-tense proof + free trial) — business;marketing
+- qOy_FSeRU1M — "How Do We Win Trust in a New City?" (grand-opening CAC + running-start punch card) — business;marketing
+- TTHlgcUgpeo — "Helping a $2M Coaching Business Cut Dead Weight" (opportunity-cost divestiture; Gym Launch bio) — business;mindset
+- jtDzaRZTT5w — "Does Pricing Affect Churn?" (price-to-value discrepancy + full-funnel EPC) — business
+- 8F0wNWHMtwU — "How Much of Success Is Luck?" (luck = supply-demand discrepancy in a time window) — business;mindset
+- OVVvonRkVds — "What Book Should I Write Next?" (next-book candidates) — business;mindset
+
+Counts: 2,246 L2 / 19 L3; open long-form @MoreMozi 264 (P2:256 P3:8), P1:0; open shorts ~8,793.
+Synthesis debt: 7 ingest batches since synthesis pass 29 (checkpoint at 10).
+No L3-candidates flagged this batch (all default L2).
+
+Synthesis notes: **nljBRSUw-Eg** (content-strategy) — a concrete ad-production framework: build a session
+of ~50 hooks × 3-5 "meat" segments × 1 CTA → ~150 ads per session; creative-volume benchmarks (~25 pieces/
+week floor, up to ~50/day at $500K/day spend); paired with a roll-up/PE growth path (buy competitors' front
+ends, plug into your delivery) — extends the existing content-engine + M&A material. Attributes a "which
+problem would you rather have?" reframe to Leila (context, not persona). **cn6REBUMcsY** (wealth/mindset) —
+wind-down-vs-sale economics: shutting a business can spit off a lot of cash because, once growth spend and
+costs are cut, revenue nearly becomes profit; "think of yourself as the asset" (your capacity outlasts any
+one venture). **6WvSQcFI2jA** (proof) — a new proof mechanism under NDA: **present-tense proof** — play
+anonymized recorded client calls for prospects rather than relying only on past-result testimonials, plus
+**free trial as the ultimate risk-reversal**. **qOy_FSeRU1M** (retention) — the **"running-start" punch card**
+micro-tactic: pre-punch 2-3 of 10 slots so the card feels near-complete → ~3x completion (endowed-progress
+effect) on top of standard grand-opening CAC math. **TTHlgcUgpeo** (mindset/bio) — an **opportunity-cost-over-
+sunk-cost** divestiture rule (drop low-margin/high-headache businesses to free attention for the winner) and a
+fresh self-reported bio detail: sold all six gyms "for the price of one" within 90 days and hit ~$1M/month
+within 6 months (register alongside the Gym Launch origin). **jtDzaRZTT5w** (pricing) — the **price-to-value
+discrepancy** (unused value ≈0 at a low price vs. multiples of value at a high price for a qualified user) and
+the argument that price/churn tradeoffs must be judged through full-funnel EPC/conversion, not churn in
+isolation. **8F0wNWHMtwU** (mindset) — a working **definition of luck** as a "supply-demand discrepancy within
+a window of time," with a **repeatability test** to distinguish luck from skill. **OVVvonRkVds** (bio/future
+work) — names three next-book candidates: a profit/pricing book, a sales book, and an "operationalizing
+amorphous terms" personal-development book with a mental-toughness chapter (tolerance / fortitude / resilience
+/ adaptability). All L2; several are candidate additions for the pricing, retention, mindset, and wealth topic
+pages at the next synthesis checkpoint.
