@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-19 (Drive ingest COMPLETE: $100M Offers + Leads books + Lost Chapters + all 12 playbooks + Scaling Roadmap + 2 bonus chapters + Leila SOPs context; batch 279 (@MoreMozi P1, 8 — fresh-upload P1 tail drained); 2,230 L2 videos; synthesis pass 29 (+ inline-L3 $100M library), system-prompt v37; new topic: hiring-and-recruiting)_
+_Last updated: 2026-07-20 (batch 280 (@MoreMozi P1, 8 — 2026-07-20 fresh-upload P1 tail; 5 P1 remain); 2,238 L2 videos; synthesis pass 29 (+ inline-L3 $100M library), system-prompt v37; new topic: hiring-and-recruiting)_
 
 ## Sources
 
@@ -36,7 +36,7 @@ _Last updated: 2026-07-19 (Drive ingest COMPLETE: $100M Offers + Leads books + L
 
 ### YouTube
 
-- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**2,230 L2**; @AlexHormozi, @ACQofficial, @TheSkoolSchool, and @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19); only @MoreMozi long-form remains — fresh-upload P1 tail drained 2026-07-19, P2/P3 tail open). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
+- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**2,238 L2**; @AlexHormozi, @ACQofficial, @TheSkoolSchool, and @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19); only @MoreMozi long-form remains — 2026-07-20 fresh-upload P1 tail (5 P1 remain), P2/P3 tail open). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
 
 ## Topics
 

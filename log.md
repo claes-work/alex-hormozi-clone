@@ -7780,3 +7780,42 @@ trained**. **iUGY8vCDWUE** — refinement (not contradiction) of the anti-shiny-
 to a "new offer" is justified when it wins on **unit economics** (lower churn, higher margin, larger
 TAM), even though he says it's advice he doesn't normally give — "escape vs. genius" decided by the
 numbers, not novelty.
+
+## [2026-07-20] ingest | yt batch 280 - @MoreMozi P1 fresh uploads (2026-07-19), 8 videos
+
+Loop iteration (Stage B). Ingested 8 @MoreMozi P1 fresh-upload rows from the 2026-07-20
+discovery refresh (all published 2026-07-19), oldest-published-first. All 8 fetched captions
+cleanly — 0 no-captions, 0 duplicates, 0 skipped, no rate limiting. All genuine Alex coaching
+clips / one interview clip (MIqjRUq9Ojk); callers/interviewer attributed to audience per rule 6.
+
+- 5LFcod6HAdM — "The Answer to Organic Growth Is Disgusting Volume" (solar/personal-brand caller) — content-strategy;marketing
+- A8NatXxxOpo — "My Funnel Stopped Working. Do I Fix It or Replace It?" (investing-education caller) — business;marketing
+- d_QffM1688M — "You're Overpaying the People You Kept" (Long Island salon; post-COVID comp trap) — business;mindset
+- E7hp0xqxRiQ — "Helping a $7M Landscaper Charge Aspen Prices" (premium positioning) — business;marketing
+- MIqjRUq9Ojk — "What Sacrifices Do You Still Make?" (interview clip; working-rhythm bio/voice) — mindset;business
+- ZgrmWfnJnhA ★ — "Do I Lower Prices to Grow Faster?" (retention-first; conditional price-cut) — business;marketing
+- -BSOPxkfrP4 ★ — "Where Do I Find People Who Don't Exist on Job Boards?" (LCGP-to-CAC hiring) — business
+- g9xwLNX5Zq0 ★ — "My Customers Only Buy Once. How Do I Grow?" (one-and-done reframe) — business;marketing
+
+Counts: 2,238 L2 / 19 L3; open long-form @MoreMozi 272 (P1:5 P2:259 P3:8); open shorts ~8,762.
+Synthesis debt: 6 ingest batches since synthesis pass 29 (checkpoint at 10).
+L3-candidates (★) flagged for next synthesis: ZgrmWfnJnhA, -BSOPxkfrP4, g9xwLNX5Zq0.
+
+Synthesis notes: **ZgrmWfnJnhA** (pricing/retention, ★) — a conditional *pro*-price-cut argument that
+nuances his usual "raise prices / grand-slam offer" stance: cutting price to capture share is worth it
+ONLY when you have a monetization moat competitors can't match (backend/LTV, superior LTV:CAC), framed
+via Amazon/Uber/Netflix "capture the market, then you own it"; but his primary lever here is retention —
+lift repeat-purchase rate (his "30 → 65" target) because it compounds into referrals, lower blended CAC,
+and expansion into colder markets (Gymshark mechanism). Flagged as a soft contradiction (`> ⚠️`), not a
+reversal — it's conditional on a structural moat. Also a premium-positioning rule: match luxury-coded
+influencer faces ("Aspen not Carnival Cruise"). **-BSOPxkfrP4** (hiring, ★) — the **LCGP-to-CAC** ratio
+(lifetime gross profit per employee vs. cost to acquire talent) as the supply-side analog of LTV:CAC, plus
+a **"map behaviors, not titles"** hiring-avatar heuristic (find the smallest skill-gap candidate: camp
+counselors, rec coaches, underpaid teachers). **g9xwLNX5Zq0** (retention/LTV, ★) — reframe: a one-and-done
+purchase business is an **arbitrage / media business, not a "business business"** — its only real asset is
+cheaper-than-cost acquisition; it becomes a sellable business only once it converts to a brand with a
+demonstrable repurchase/retention rate. **E7hp0xqxRiQ** — premium-pricing via luxury positioning for an
+Aspen landscaper (max willingness-to-pay + talent as the scaling constraint). **d_QffM1688M** — the
+"mispriced or miscompensated" comp trap applied to retained senior staff after a labor-supply shock.
+Others (5LFcod6HAdM organic-volume doctrine, A8NatXxxOpo diagnose-the-constraint-before-rebuilding,
+MIqjRUq9Ojk working-rhythm/sacrifice bio) restate known positions — capture for voice, no new framework.

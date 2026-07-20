@@ -2159,6 +2159,14 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-19 | [[2026-07-19-yt-GT8lQuAfzVw]] | How much to charge — price = max willingness-to-pay, units×margin curve, front-load onboarding fees, 5x tiers to 2x revenue | ★ |
 | 2026-07-19 | [[2026-07-19-yt-iUGY8vCDWUE]] | New offer vs escape — judge a pivot on unit economics (lower churn/higher margin/big prosumer TAM), not novelty; $500/mo MSP pivot OK | |
 | 2026-07-19 | [[2026-07-19-yt-zd4iRzbTeUs]] | 40%-market-share firm, still not enough — buy competitors' FRONT END + plug into your delivery; go adjacent (same payback structure); path of least change | ★ |
+| 2026-07-19 | [[2026-07-19-yt-5LFcod6HAdM]] | Organic growth = "disgusting volume" — solar/personal-brand caller; content volume as the growth lever | |
+| 2026-07-19 | [[2026-07-19-yt-A8NatXxxOpo]] | Fix vs replace a broken funnel — investing-education caller; diagnose the constraint before rebuilding | |
+| 2026-07-19 | [[2026-07-19-yt-d_QffM1688M]] | Overpaying the people you kept — Long Island salon; comp/commission trap after COVID stylist loss | |
+| 2026-07-19 | [[2026-07-19-yt-E7hp0xqxRiQ]] | $7M→$30M Aspen landscaper — premium pricing + luxury-coded positioning ("Aspen not Carnival Cruise") | |
+| 2026-07-19 | [[2026-07-19-yt-MIqjRUq9Ojk]] | What sacrifices do you still make — interview clip; working rhythm, micro-discomfort (bio/voice) | |
+| 2026-07-19 | [[2026-07-19-yt-ZgrmWfnJnhA]] | Lower prices to grow faster? — retention-first (30→65 repeat rate); price-cut worth it only with a backend/LTV moat (⚠️ vs raise-prices) | ★ |
+| 2026-07-19 | [[2026-07-19-yt--BSOPxkfrP4]] | Find people not on job boards — LCGP-to-CAC (supply-side LTV:CAC); "map behaviors not titles" hiring avatar | ★ |
+| 2026-07-19 | [[2026-07-19-yt-g9xwLNX5Zq0]] | Customers only buy once — one-and-done = arbitrage/media, not a "business business"; sellable only with repeat/retention | ★ |
 
 ## @TheSkoolSchool
 
@@ -2257,7 +2265,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_2,230 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **Only @MoreMozi long-form remains (fresh-upload P1 tail now drained 2026-07-19).** Remaining open long-form: 267 @MoreMozi (P1 0, P2 259, P3 8) + shorts dedup (~8,762). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_2,238 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **Only @MoreMozi long-form remains (2026-07-20 discovery refresh added 13 fresh-upload P1; 8 drained this batch, 5 P1 remain).** Remaining open long-form: 272 @MoreMozi (P1 5, P2 259, P3 8) + shorts dedup (~8,762). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2
