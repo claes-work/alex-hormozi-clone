@@ -7906,3 +7906,50 @@ razor** (service + character as life's real scorecard) tied to his mother's deat
 **operator-vs-market "~50/50, market wins at the extremes"** formulation plus a founder-commonalities list
 (speed, product-obsession, long-term focus, pain/risk tolerance). All L2; candidates for the sales, pricing,
 mindset/learning, wealth, and content-strategy topic pages at the next synthesis checkpoint.
+
+## [2026-07-20] ingest | yt batch 283 - @MoreMozi P2 long-form (2026-02-11/12), 8 videos
+
+Loop iteration (Stage B; synthesis debt 8/10 below checkpoint, persona not stale — only 8 batches since
+pass 29 and the fresh-upload P1 trickle isn't the meaningful drain signal, all channels enumerated, P1
+empty → open P2 long-form rows → Stage B, P2). Drained the next 8 @MoreMozi P2 rows in normal order
+(priority ASC, oldest-published-first): 7 × 2026-02-11 + 1 × 2026-02-12. All 8 fetched captions cleanly —
+0 no-captions, 0 duplicates, 0 skipped, no rate limiting. All genuine Alex coaching / Q&A clips; callers /
+interviewers attributed to audience per rule 6 (context, not persona).
+
+- xsyFueNR8Qg — "I Own an E-Com Brand but Make Zero Profit. Should I Sell It?" (e-com sells the brand not media arbitrage; monetization-lever timing; 3PL to remove keyman ops) — business;mindset
+- NEbmiMje-s0 ★ — "I Own a Hail Damage Repair Business. I Don't Know Who to Hire" (operator-hiring compensation playbook: reverse sale, reverse-engineered OTE, four things equity carries, phantom profits-interest, growing-pie profit pool) — business
+- -H0XKeAI4oE — "I Own a Recruiting Company. What Do I Sell After I Get Someone a Job?" (next-problem retention; front-end 5-yr career vision sets the retention ceiling; one avatar for continuity) — business;marketing
+- E8wLDd9fnSI ★ — "If You Hate Them, You Don't Understand Them" (you cannot hate and understand someone at once — Pascal; anger = missing understanding; NEW bio: age-19 psych assignment on his mother) — mindset
+- aQkV3kE6Cxk ★ — "I Have a Software Business and a Coaching Business. Should I Shut One Down?" (coats of paint; one thing a year; ACQ memo culture → $100M-in-3-days launch; product + paying community = one business) — business;mindset
+- 9prcScIjsOo — "Helping an Accounting Business Hire Better Talent" (reframes a hiring complaint as underpricing via unit economics — gross margin vs 80% services rule + close rate → 2–3x price) — business
+- VY7ad5OSJ8w ★ — "The Biggest Factor Limiting the Growth of Your Business" (all growth is constrained by irrelevance — root constraint under both talent supply and demand; violent-effort urgency reframe) — business;mindset;marketing
+- xHwHz7rUmFI — "The Biggest Mistake Entrepreneurs Make" (early risk-taking is rewarded so hard it must be actively unlearned; fix the problem in front of you vs chasing "two or three masters"; 10-stage $0→$100M roadmap namecheck) — business;mindset
+
+Counts: 2,262 L2 / 19 L3; open long-form @MoreMozi 248 (P2:240 P3:8), P1:0; open shorts ~8,793.
+Synthesis debt: 9 ingest batches since synthesis pass 29 (checkpoint at 10 → next iteration is the Stage S checkpoint).
+4 L3-candidates flagged (★): NEbmiMje-s0, E8wLDd9fnSI, aQkV3kE6Cxk, VY7ad5OSJ8w.
+
+Synthesis notes: **E8wLDd9fnSI** (mindset) — a genuinely new belief + origin story: **"you cannot hate and
+understand someone at once"** (Pascal — "to understand is to forgive"), anger reframed as a signal of missing
+understanding, and "same genetics + same life = same worldview"; formalized from an **age-19 psychology
+assignment** in which he wrote his depressed/ADD mother's pathology from her own perspective and dissolved a
+decade of anger — NEW biographical detail (mother an immigrant, Serbian father, among the first female class at
+Johns Hopkins as a doctor). Promote to a mindset topic + persona beliefs/biography at the next checkpoint.
+**aQkV3kE6Cxk** (business/mindset) — the **"coats of paint"** framework (solution quality = number of attack
+vectors; the 5th/8th pass of thinking unlocks outsized results) with the **"one thing a year"** self-limit and
+ACQ's Bezos-derived **memo culture** tied to a $100M-in-3-days launch as proof of focus + patience; also the
+reframe that a product plus a paying feedback community is one business, not two. **VY7ad5OSJ8w** (business) —
+**"all growth is constrained by irrelevance"**: irrelevance as the single root constraint underlying both the
+supply (talent) and demand sides, solved by reach + more output + more ads, paired with a "violent effort"
+urgency reframe. **NEbmiMje-s0** (business/hiring) — a cohesive **operator-hiring compensation playbook**
+("reverse sale," reverse-engineered OTE, the four things equity carries — cash flow / sale / risk / control,
+phantom profits-interest vesting, a fixed-percentage growing-pie profit pool, per-store operators not tied to
+the bottom line) worth a business/hiring or business/compensation topic page. **xsyFueNR8Qg** (business) — a
+**monetization-lever timing rule** (most levers only improve with time → save them and juice ~6 months pre-sale
+to show acquirers a skyrocketing trajectory) with the "e-com sells brands, not media arbitrage" reframe.
+**-H0XKeAI4oE** (business) — the **"next-problem" retention framework** (sell the solution to the problem that
+solving the current one creates; front-end vision sets the retention ceiling). **9prcScIjsOo** (business) — a
+reusable diagnostic reframing a hiring/talent complaint as **underpricing** via a unit-economics probe.
+**xHwHz7rUmFI** (mindset) — the reframe that **early entrepreneurial risk-taking is rewarded so heavily it must
+be actively unlearned** (the "hit" of novelty drives shiny-object syndrome), plus a recurring namecheck of the
+10-stage $0→$100M+ roadmap (acquisition.com/roadmap) worth a topic anchor if it recurs.
