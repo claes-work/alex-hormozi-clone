@@ -1,9 +1,9 @@
 ---
 type: topic
 domains: [business]
-tags: [hiring, recruiting, talent, compensation, retention, delegation, a-players]
-updated: 2026-07-19
-sources: 25
+tags: [hiring, recruiting, talent, compensation, retention, delegation, a-players, sourcing, profit-share]
+updated: 2026-07-20
+sources: 31
 ---
 
 # Hiring & Recruiting
@@ -154,6 +154,27 @@ who lack business sense. Just call the owners directly.
 
 **Sequencing rule — supply first:** fix delivery capacity before scaling demand. "No, supply
 first. Get the people first." ([[2026-03-16-yt-2IGBCUHCX8c]]).
+
+**The unit-economics probe (earliest articulation, Feb 2026).** The same diagnosis appears in an
+earlier accounting-firm teardown, where Alex converts a stated *hiring* complaint into a *pricing*
+one by probing two numbers — **gross margin and close rate** (Feb 2026, [[2026-02-11-yt-9prcScIjsOo]]).
+An accountant producing ~$120k gross profit on ~$200k revenue is running ~60% margins, below his
+**80%-or-higher services rule of thumb** — so at target the firm should bill ~$400k per accountant.
+A **~80% close rate** is the tell that the price is far too low:
+
+> "80% means you've got a for sure double, maybe a triple in pricing. That's sitting right there." —
+> [[2026-02-11-yt-9prcScIjsOo]]
+
+> "So, you're supply constrained and in a supply constrained setup and with high close rates, that's a
+> clear, prescriptive, no question in my sleep double, triple in price." — [[2026-02-11-yt-9prcScIjsOo]]
+
+Doubling price frees ~$200k per head, which lets the firm pay accountants ~$150k (up from ~$80k) and
+still make more while being less busy — "if you don't close as many, guess what? Doesn't matter. Your
+supply can train anyways." The block is psychological, not economic: "you're intimidated by the fact
+that you just have to say a different number at the end of the phone call," and — the value test —
+"if you thought it was that good, you would charge more." Two recruiting tactics ride alongside the
+pricing fix: build a referral "farm system" with the **schools** where CPA/EA candidates train, and
+do **direct outreach** to other accountants ([[2026-02-11-yt-9prcScIjsOo]]).
 
 ## Pay more to get better talent — the A-player premium
 
@@ -412,6 +433,29 @@ itself a skill signal. Drill vague answers ("I'll coach the guys up") down to co
 for *any* role: ask how their work makes the company money; a support rep who answers "great
 support → more referrals, retention, and cross-sell" is operating above their title.
 
+## Two more interview mechanics — the two-way 90-day-fit metric and volume that "tunes your picker"
+
+Two sourcing/interview mechanics extend the metrics-based interview method above (Feb 2026,
+[[2026-02-14-yt-jr9ITWlL5P8]]). First, a concrete **talent-side metric an A-player recruiter tracks**:
+alongside cost-of-acquiring-talent and time-to-fill, the **two-way 90-day fit** — the % of hires where,
+90 days in, *both* the employee **and** the manager rate the fit 10/10. Alex learned it from the first
+strong HR pro he hired, who out-interviewed him by asking talent metrics he'd never tracked:
+
+> "She's like, 'Okay, what's your two-way fit in terms of what percentage of 90 days later do both the
+> employee and the manager say that it's a 10 out of 10 fit?' And I was like, 'Don't know.'" —
+> [[2026-02-14-yt-jr9ITWlL5P8]]
+
+That episode generalizes to a stated preference to **hire people who can teach you** — "you pay someone
+to say... you know way more than me. Go do that in here." Second, **interview volume is itself the
+sourcing mechanism, because it "tunes your picker."** Interview far more people than feels reasonable
+(use group interviews for frontline-through-manager roles, keep director/exec individual); the pattern
+recognition built across hundreds of conversations becomes one of the biggest assets in building each
+next company faster — though it carries a real **trial cost** (he burned ~five sales-manager hires and
+6–12 months each before learning what "good" looked like at that level).
+
+> "When you talk to your 50th person, you already know who's got game. And so what happens is it starts
+> to tune your picker." — [[2026-02-14-yt-jr9ITWlL5P8]]
+
 ## Recruiting senior / co-founder talent — the four elements of equity
 
 Persuading an exceptional, well-paid, comfortable senior person to leave security for an early,
@@ -446,6 +490,59 @@ the world" recruiting line. This complements the [[#The debt-choice framework fo
 hiring|equity-for-talent]] thread above: that section frames equity as the *founder's* debt choice;
 this one gives the *mechanics* of what you actually hand a senior hire.
 
+## The operator compensation playbook — profit pool, phantom equity, reverse-engineered OTE
+
+Distinct from the senior/co-founder *persuasion* above, Alex gives a full **operator-comp design** for a
+multi-unit owner ($5.5M auto hail-repair across four locations) whose binding constraint is a right-hand
+operator so problems stop routing back to him (Feb 2026, [[2026-02-11-yt-NEbmiMje-s0]]). At ~$5M he's
+likely mistitling: he needs a **VP/director-level operator, not a real C-suite** — and a great operator
+is "two levels above," leading people rather than doing the work, so industry fit is a bonus not a
+requirement:
+
+> "A really good operator can just come into just about any business and run it because they're usually
+> two levels above. Like they're not fixing cars, they're fixing people." — [[2026-02-11-yt-NEbmiMje-s0]]
+
+Hire a **leader of people, not a process-lover** — "they'll trick us entrepreneurs and they'll be like
+it's all the processes and systems... those people hate talking to people and that's not what you need
+relief from." Source via LinkedIn outreach and Indeed ads, expecting to reach ~500 targeted operators at
+similarly-sized businesses, with relocation offered as a signing bonus.
+
+**Compensation is a "reverse sale"** — what you offer scales to the leverage the candidate holds (less
+experience = less leverage = less to give up). The structure has three parts:
+
+- A **profit-share pool of 10–20%** (he likes ~10–15%) split among the leaders, where **the percentage
+  stays fixed while the pie grows** — so leaders think like owners and willingly dilute their slice to add
+  leaders who expand the total pool.
+  > "That percentage stays the same but the pie increases and so they think like owners like you do." —
+  > [[2026-02-11-yt-NEbmiMje-s0]]
+- **Reverse-engineer the percentage from a target OTE**, never pick an arbitrary number: decide what the
+  caliber of person should earn (e.g. ~$150k), then back into the percentage from store profit; set three
+  lines — bad = fired, mediocre = hits OTE, top performer = a defined higher number.
+  > "Fundamentally, we just reverse engineer OT... the percentage doesn't matter. I just want to reverse
+  > engineer how much money do I think this person should make." — [[2026-02-11-yt-NEbmiMje-s0]]
+- **Phantom profits-interest** (illustratively 4% vesting 1%/yr) that "comes back if they leave" and pays
+  out only on a sale, if the person is present and past a minimum tenure — giving distributions plus exit
+  upside without ever handing over stock (the employee pays ordinary income tax on the payout).
+
+This rests on the same **four things equity carries** the page records from the later co-founder clip —
+here framed **cash flow, sale, risk, control**, and this Feb-11 teardown is the *earliest* articulation of
+that list (see the [[#Recruiting senior / co-founder talent — the four elements of equity|four-elements]]
+section) — with the same insight that most people want cash flow and exit upside, not risk or control:
+
+> "So these are the four things that come with equity. And most people say they want equity, but you're
+> like, 'You want risk?' And they're like, 'No, no, I don't want risk.'" — [[2026-02-11-yt-NEbmiMje-s0]]
+
+A choice on the upside vehicle: for **fast-growth, geographically-unconstrained** businesses, pay a high
+share (e.g. 30%) of *year-over-year growth* (a rising high-water mark); for **geographically-constrained
+local** businesses like his, avoid growth-based pay (growth is hard and discourages people) and instead
+share a percentage of *profit*. Finally, a **multi-unit expansion rule**: he's never seen private
+brick-and-mortar expansion done well without an **operator with boots on the ground in each store who has
+no tie to the company bottom line** — a per-store profit-share is what lets you truly decentralize.
+
+> "I have yet to see someone do like an exceptional job expanding without having the equivalent of an
+> operator boots on the ground in each store that has no tie to the bottom line." —
+> [[2026-02-11-yt-NEbmiMje-s0]]
+
 ## Widen the hirable pool — reduce required skill, recruit adjacent, cap span of control
 
 When an owner names "not enough qualified sales directors" as the constraint, Alex reframes it as a
@@ -470,6 +567,31 @@ mechanism behind the prospect-not-salesman scripting in the [[#Sales-god → sal
 *less* product knowledge than frontline reps because teaching sales is teaching sales." Alex caps a
 director at **~10 reps** (15 is high) and starts splitting a team once two managers each carry ~7–8
 reps ([[2026-02-21-yt-uzdBX8r7-zA]]).
+
+## Map behaviors, not titles — the hiring avatar
+
+When an owner can't find a job *title* (here, 22–30-year-old male youth mentors for a $2.2M teen-coaching
+business), Alex reframes the search: don't hunt the title, **map the role's micro-behaviors and recruit
+from adjacent roles with the highest behavioral crossover**, so the skill gap left to train is as small as
+possible (July 2026, [[2026-07-15-yt-gI5qfmivSpc]], [[2026-07-19-yt--BSOPxkfrP4]]).
+
+> "When I'm trying to find an avatar for a specific role, I try and map behaviors rather than titles...
+> what are the micro behaviors that a... life coach has to do? And then what roles exist that have the
+> highest crossover with that already, so that my skill gap that I need to train is as small as possible."
+> — [[2026-07-15-yt-gI5qfmivSpc]]
+
+His off-the-cuff crossover pools for a youth-mentor role: **camp counselors, rec-league coaches, and young
+underpaid teachers** who would love to work from home ("probably got into teaching for that more than they
+got it for 6th grade history") — each an effectively endless pool. Three sourcing channels, all of which
+"will work": (1) search the titles on LinkedIn and "mass blast" them; (2) go to the forums those people
+already gather in and either pay the forum owner or post free, since a job opening is a value-add to that
+community ("just finding one or two forums would be literally all you need"); (3) run recruiting ads. The
+predicted *next* constraint is conversion, not volume — so build a **talent attraction-and-conversion
+system**, a "click-to-close" recruiting funnel with metrics, driving toward the supply-side LTGP:CAC
+described at the top of this page ([[2026-07-19-yt--BSOPxkfrP4]]). This is the concrete sourcing method
+behind the [[#Widen the hirable pool — reduce required skill, recruit adjacent, cap span of control|recruit-adjacent-pools]]
+lever. (Alex loosely calls the supply-side ratio "LTGP:CAC" in these July clips and "LTGP:CAT" in the
+March cluster — same concept, cost of acquiring talent vs. lifetime gross profit per employee.)
 
 ## The founder is the real limiter — become the magnet before blaming the market
 
@@ -546,6 +668,23 @@ at all levels, not just senior hires.
 > change when they start, that's also not that good of a sign either." —
 > [[2026-02-17-yt-2bfyiXLcqAw]]
 
+## Measure rate of improvement, not starting level — and the shadow → supervise → support handoff
+
+Alex says his talent-evaluation criterion *changed*: he used to grade employees on how well they
+**started**; he now grades them on how fast they **improve** — a faster-improving hire overtakes a
+higher-starting but flat one within 3–6 months (Feb 2026, [[2026-02-14-yt-UQ1S2N4QJ3Q]]).
+
+> "I used to measure employees by how well they started. I measure employees today on how fast they
+> improve... Intelligence I measure as rate of learning." — [[2026-02-14-yt-UQ1S2N4QJ3Q]]
+
+Because he equates intelligence with rate of learning, he'll take the **more-intelligent (faster-learning)
+hire over the more-experienced (slower-learning) one**, role depending. The development mechanic is a
+**three-step handoff**: (1) **shadow** — they watch you do it; (2) **supervise** — they do it in front of
+you; (3) **support independence** — "available but not involved." Early on a competent hire needs ad-hoc
+consults; over time their decisions "get automated back down to them" until they own the function
+completely. Accept **80% (sometimes 60%) as good as you at handoff**, provided there's a clear path to
+improvement. (The broader delegation/leverage math lives in [[communication-and-management]].)
+
 ## Square-root law, ownership-% litmus, and the firing-pain reframe
 
 Three sharper mechanics sit under the familiar "people are the organization" theme (Feb 2026,
@@ -575,6 +714,10 @@ mistake — but telling the truth is *making it right*. A hard termination lands
 
 ## Sources
 
+- [[2026-02-11-yt-9prcScIjsOo]] — Helping an Accounting Business Hire Better Talent (hiring complaint reframed as under-pricing; 80%-margin services rule + ~80% close rate → double/triple price to afford ~$150k talent; schools "farm system" + direct outreach; "say a different number" psychological block)
+- [[2026-02-11-yt-NEbmiMje-s0]] — I Own a Hail Damage Repair Business, I Don't Know Who to Hire (operator-comp playbook: reverse sale; 10–20% fixed-% growing-pie profit pool; reverse-engineer OTE; phantom profits-interest vesting; four things equity carries [earliest]; leader-not-process-lover; per-store operator with no tie to bottom line)
+- [[2026-02-14-yt-UQ1S2N4QJ3Q]] — How to Make Your Business Run Without You (rate-of-improvement talent metric / intelligence = rate of learning; prefer faster-learner over more-experienced; shadow→supervise→support handoff, decisions "automate back down"; accept 80% at handoff)
+- [[2026-02-14-yt-jr9ITWlL5P8]] — How to Find A Players for Your Business (two-way 90-day-fit metric; hire-people-who-teach-you; interview volume "tunes your picker"; group interviews frontline–manager; ~5-hire trial cost per level)
 - [[2026-02-15-yt-wH3VBdJ1jbE]] — The Real Problem You Don't Want to Face (the founder is the real limiter; best people follow someone at their level; magnetism = track record + selling the future; future-seller can out-recruit a thin record; proof-before-pudding / Gym Launch → Acquisition.com)
 - [[2026-02-17-yt-I3r6aupilBk]] — You Need to Hire Better Talent (future-A-player projection hack; five-clone opportunity-cost exercise → 10x rev, >10x EV, faster; "business becomes recruiting")
 - [[2026-02-17-yt-2bfyiXLcqAw]] — How to Hire A-Players (first-two-weeks recognition; onboarding litmus: life worse/unchanged=bad, dramatically-reallocated=A-player; "high activity, high alignment"; works at all levels)
@@ -601,6 +744,8 @@ mistake — but telling the truth is *making it right*. A hard termination lands
 - [[2026-03-17-yt-HUsN0HMfOoA]] — Helping a Dentist Get to $50M/Year (own core-economic-engine roles; headhunt one-time roles; one-hire-every-two-weeks; LinkedIn one-level-lower sourcing)
 - [[2026-03-04-yt-djDqESv_yIY]] — the 18-year-old who got hired at Acquisition.com (stand-out candidate playbook: reach every decision-maker with a personalized pitch, applied on his birthday, remove the blocker + out-work the room; first 3–5 hires set the culture)
 - [[2026-03-03-yt-Z_hOgtlFmss]] — How to make more money as an employee (pick a $10–20M+ vessel; become an "internal entrepreneur"; think vendor not employee; performance-based %-of-value asks; more owned risk = more upside)
+- [[2026-07-15-yt-gI5qfmivSpc]] — 'Demand Isn't My Problem. Delivery Is.' (hiring avatar: map behaviors not titles; camp counselors / rec coaches / underpaid teachers; LinkedIn / forums / ads sourcing; talent attraction-conversion funnel → supply-side LTGP:CAC)
+- [[2026-07-19-yt--BSOPxkfrP4]] — Where Do I Find People Who Don't Exist on Job Boards? (same Will teen-coaching teardown: map-behaviors-not-titles avatar; three sourcing channels; supply-side LTGP:CAC / "LCGP to CAC" ratio)
 
 ## Related
 

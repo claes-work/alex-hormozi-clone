@@ -1,8 +1,8 @@
 ---
 type: topic
 domains: [mindset]
-updated: 2026-07-19
-tags: [mental-toughness, learning, discipline]
+updated: 2026-07-20
+tags: [mental-toughness, learning, discipline, meta-skills, luck]
 ---
 
 # Mental Toughness & Learning
@@ -700,6 +700,85 @@ Two failure modes of the fast-feedback learning content otherwise enables:
 > 4,000 reps here." · "It was like four years of flatish nothing… I don't think I took any feedback
 > from my podcast. I just consistently made the podcast." — [[../../sources/2026-02-14-yt-reuODMHvcvc]]
 
+### Feb 2026: meta skills, the input/output time-horizon split, and "optimize for progress"
+
+A Feb 2026 @MoreMozi cut adds a layer *above* the skill-acquisition method: **meta skills — skills
+that help you learn other skills** ([[../../sources/2026-02-13-yt-GmGOiCnk--w]]). His examples:
+**being a good writer** is a meta skill for communication (it makes you good at copy, emails,
+captions, tweet-scripting, and short-form all at once), and **being a good reader** is a meta skill
+because it lets you absorb information faster and thus learn any downstream skill (copywriting,
+making ads) faster. He argues education should teach *only* meta skills so a person becomes
+**"a stem cell for knowledge"** — able to become anything — instead of narrow content like "17th
+century Aztec literature."
+
+> "Meta skills are skills that help you learn skills." · "In my opinion the education system should
+> only be on meta skills so that you become like a stem cell for knowledge."
+> — [[../../sources/2026-02-13-yt-GmGOiCnk--w]]
+
+The operating mechanic he pairs with it is an **asymmetric time horizon**: measure your *inputs* on
+a short horizon (fast feedback on what you did today) but measure your *outputs* on a long horizon.
+That asymmetry is what lets him **"optimize for progress, not the outcome"** — the only thing he
+watches is whether the work is getting better month over month.
+
+> "Expand the time horizon that you measure your output on, but shrink the time horizon that you
+> measure your inputs on. So measure what you do today faster, but measure what happens from what you
+> did today longer." · "Instead of optimizing for the outcome, I optimized for progress."
+> — [[../../sources/2026-02-13-yt-GmGOiCnk--w]]
+
+He grounds it in a self-reported story: when he started making content (~2 years prior) he hired a
+YouTube agency and on the first call committed to following their system **for 10 years before he
+needed an ROI** — which the agency owner called the weirdest thing he'd ever heard. What he actually
+tracked was *progress* (videos improving month over month, not video-to-video); ~6 months in it
+"started really cranking," and ~9 months in he brought the team in-house (parting amicably). He
+accepts he can't yet beat people who've done content for 10 years (he names Mr. Beast admiringly,
+noting he isn't literally competing with him); what satisfies him is being better in a month or two
+and being able to "draw the line" from now to 20 years out. The diagnosis for stalled progress
+reuses the [[#march-2026-what-makes-feedback-useful-latency--specificity|feedback]] lens: if you're
+doing the inputs but not improving, you have a **knowledge gap** and need someone to name the
+specific things to fix.
+
+> "If I can draw the line between now and 20 years from now, then it is a good outcome." · "You need
+> the awareness. You need someone to bridge that knowledge gap so that then you can bridge the effort
+> gap." — [[../../sources/2026-02-13-yt-GmGOiCnk--w]]
+
+### Feb 2026: the learning budget (a venture bet on yourself) and "control the mouse"
+
+Coaching a podiatrist whose ad budget was capped by an outside Google Ads specialist, Alex reframes
+the real problem — **"the constraint of the business is under someone else's control ... a tough
+position to be in"** — and prescribes learning the skill yourself, since PPC is "really not that
+hard" ([[../../sources/2026-02-10-yt-23lRx_9IePQ]]). Two reusable learning levers come out of it.
+
+**The learning budget / bet-on-yourself.** He recounts advice from a ~$30–35M/yr earner he met at a
+gathering of eight-figure earners: write down a percentage of your income as a **monthly learning
+budget**, spend it every month, and treat it as **venture bets on yourself** — expect ~9 of 10 to
+return nothing and the 10th to pay ~10x. When the business is small, **"you are the reinvestment"** —
+the highest-return place to put money is your own skills.
+
+> "Expect to have zero ROI on nine out of 10 things and then the 10th thing will make you 10 times
+> the money. It's almost like doing a venture bet on yourself from an education perspective." · "When
+> the business is small ... you are the reinvestment." — [[../../sources/2026-02-10-yt-23lRx_9IePQ]]
+
+**"Control the mouse."** His concrete method for extracting a skill from an agency: don't settle for
+weekly update calls — pay them to do *all* the work **live on ~2 calls a week while you operate the
+account** ("control the mouse"), having them tell you what to do and *why*, recording your screen as
+you go. Self-reported, this is how he learned national-scale Facebook ads: he hired an agency, drove
+the account himself, asked "why are we doing this?", and within ~6 weeks no longer needed them.
+
+> "I want to be the one who controls the mouse and I want them to tell me what to do and why they're
+> doing it." · "Within six weeks, I was like, 'I get it. I don't need this guy anymore.'"
+> — [[../../sources/2026-02-10-yt-23lRx_9IePQ]]
+
+This is the same live-with-an-expert principle as the
+[[#march-2026-the-two-ways-to-learn--declarative-vs-procedural|document → demonstrate → duplicate]]
+protocol above, told from the *learner-drives* angle rather than the expert-demonstrates angle.
+
+> ⚠️ Detail variance (how he learned national Facebook ads): this cut says he **hired an agency** and
+> needed ~**6 weeks** driving the account; the
+> [[#march-2026-the-two-ways-to-learn--declarative-vs-procedural|March 2026 telling]] describes
+> **eight ~1-hour sessions at $7.50/hr** with a single expert. Same skill and same core method (learn
+> live while operating the account), different specifics — quote each with its own source, don't merge
+> the numbers.
+
 ## Skill compounding & luck surface area
 
 Source: [[../../sources/2026-03-17-yt-GNuNSi_6spM]] (March 2026 interview clip).
@@ -750,6 +829,32 @@ readiness for it, and **opportunities multiply with skill** (the better you get,
 you can actually convert) ([[../../sources/2026-02-21-yt-QjII6h5nNEk]]). The one-word instruction is
 **"get good."** *(Paraphrase except "get good"; this pairs with the "remove luck from your lexicon"
 rule in the learning method above — luck is downstream of preparation and proficiency, not chance.)*
+
+### Feb 2026: a working definition of luck (supply-demand discrepancy) + the repeatability test
+
+Where the learning method says to **"remove 'luck' from your lexicon"** and the surface-area thread
+treats luck as downstream of shots and preparation, a Feb 2026 cut supplies Alex's *analytical*
+definition of luck ([[../../sources/2026-02-12-yt-8F0wNWHMtwU]]). Luck is real but rare among
+repeat/serial entrepreneurs (he says he's met only a couple he'd call "just lucky"), and it acts as
+**an accelerant, not the cause — "gas more than the thing that built the car"**: the lucky were
+already headed toward success and simply got more of it when factors aligned.
+
+> "It becomes gas more than the thing that built the car ... they were going to be successful, they
+> just got way more successful because they had multiple things aligned."
+> — [[../../sources/2026-02-12-yt-8F0wNWHMtwU]]
+
+His definition: **luck comes from a supply-demand discrepancy within a window of time** — large
+demand, small supply, and you happen to be one of the few who gets in. His examples of such windows:
+selling on Amazon in 2013, running Facebook ads in 2011, and SEO circa 2007–08 (when crude
+keyword-stuffing — white-on-white text stuffed with a keyword — still ranked because the algorithms
+weren't advanced enough). The caveat: recognizing and acting on the window is *itself a skill*, which
+blurs how much is luck — so he offers a **repeatability test** to separate the two: if you can repeat
+the outcome, it wasn't (just) luck.
+
+> "Luck will come from a supply-demand discrepancy within a window of time ... a huge amount of demand
+> and a small amount of supply and then you happen to be one of those people who gets in on that." ·
+> "The question of whether it's luck or not is whether you can repeat it."
+> — [[../../sources/2026-02-12-yt-8F0wNWHMtwU]]
 
 ## Passion vs. proficiency vs. pain-tolerance
 

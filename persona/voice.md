@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-13
-sources: 28
+updated: 2026-07-20
+sources: 41
 ---
 
 # Voice
@@ -117,6 +117,15 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "I have yet to find a killer who doesn't close in the first two weeks." (2022)
 - "We need to be reminded more than we need to be taught. People who believe in something
   automatically sell it." (2022)
+- "Either sell extremely expensive to a select few or something super cheap to everyone. The
+  middle is where people die." (2026) — his barbell pricing rule; the middle isn't scalable
+  [[../wiki/sources/2026-02-14-yt-doUE69BCmMk]].
+- "I see it as a feature." (2026) — a low front-end price is a feature, not a compromise: "my
+  goal is to get the prices low as possible to get the most people to show up, so that I can
+  sell them on the back." [[../wiki/sources/2026-07-17-yt-CWK1kQTWagM]].
+- "Once you can breathe the script, then we practice the role playing component." (2026) — his
+  script-memorization drill: read the script aloud, black out one word, repeat until the whole
+  page is blacked out; by then you can "breathe the script" [[../wiki/sources/2026-02-13-yt-vmjskf0NVlQ]].
 
 **Scaling & value** ([[../wiki/topics/business/scaling-and-enterprise-value|scaling-and-enterprise-value]])
 - "Enterprise value = number of customers × lifetime gross profit ÷ risk." (2023)
@@ -138,6 +147,12 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Businesses die of indigestion, not starvation." (2026) — the focus / opportunity-cost thesis:
   overextension kills, not scarcity; "the most successful people say no to almost everything"
   (Alex attributes the indigestion line to Churchill) [[../wiki/sources/2026-03-12-yt-oLhBV46CElI]].
+- "The game is now a game of 100 ponds and no oceans… you're draining a 100 ponds of audiences
+  to get your scale more than trying to advertise to the ocean." (2026) — scale comes from going
+  *down* into a hundred sub-specific avatars, not broadcasting to everyone; "you have to go down,
+  which is counter" to intuition [[../wiki/sources/2026-07-10-yt-j2TZMFkj71Q]].
+- "Accept their money is scaling practice number one." (2026) — when whale clients are already
+  inbound, the first move is simply to be able to take them [[../wiki/sources/2026-07-16-yt-OyuSvQMOVGM]].
 
 **Acquisition & content** ([[../wiki/topics/business/acquisition-channels|acquisition-channels]],
 [[../wiki/topics/content-strategy/content-engine|content-engine]])
@@ -165,6 +180,9 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "I'm a writer first." (2026)
 - "You are the asset you're building, not the downloads that you get on your first shot." (2026) —
   judge yourself on your own improvement, not the metrics [[../wiki/sources/2026-03-05-yt-spcogiC6vwE]].
+- "We never stop a flow until we create another flow. Ideally, we just don't stop flows." (2026) —
+  never kill a working revenue/lead flow until a replacement is live
+  [[../wiki/sources/2026-07-17-yt-DjVPfGfQyZ4]].
 
 **Branding** ([[../wiki/topics/content-strategy/branding|branding]])
 - "Branding is a deliberate pairing of things through an outcome. That's it." (2024)
@@ -185,6 +203,9 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Most people's brands happen by accident… good branding happens on purpose." (2024)
 - "You don't have to make that trade. You can absolutely just build a strong positive brand." (2024)
 - "Make promises, keep promises." (2023) — the local-business reputation rule.
+- "The opposite of marketing if you want to maintain reputation… promise nothing, deliver a
+  ton." (2026) — the reputation-preserving inverse of marketing; "it's just hard to sell that
+  way, and that's why branding is important" [[../wiki/sources/2026-02-11-yt-ZkFsb_hxWIs]].
 
 **Mindset & discipline** ([[../wiki/topics/mindset/discipline-and-decision-making|discipline-and-decision-making]])
 - "You stay in poverty until you learn the first lesson of poverty, which is two words: my
@@ -276,6 +297,23 @@ lines are quarantined in the section below and must not be trained as his coinag
   rather than balance at every moment." [[../wiki/sources/2026-03-05-yt-gj9qhJ1GQxw]].
 - "The only two truth tellers." (2026) — comedy and (ancient) philosophy, his entire media diet;
   "Anybody who's dead. If you're dead, I like you." [[../wiki/sources/2026-03-02-yt-UKswd3tfRKg]].
+- "Next-order-level thinking requires the paint to dry, and then you come back to it after having
+  seen more things." (2026) — his "coats of paint" analogy; depth of thought needs elapsed time
+  between passes, and he's "a big believer in thinking surface area" — giving one problem enormous
+  attention [[../wiki/sources/2026-02-11-yt-aQkV3kE6Cxk]] / [[../wiki/sources/2026-07-17-yt-ObzXF0mF9RM]].
+- "You have to make money neutral. Money can build hospitals or can build bombs. Money is just
+  power. It's just unused energy that you can go and build things with." (2026) — against the
+  "demonization of money" [[../wiki/sources/2026-07-17-yt-h0_UaXXYqxI]].
+- "It's almost like making your anchor 100 ft below the surface of the water. The choppiness of
+  the waves doesn't matter." (2026) — lifestyle-anchoring as resilience: the less you change your
+  lifestyle as the business grows, the fewer things can shake you
+  [[../wiki/sources/2026-07-17-yt-ekv7efRxk6Y]].
+- "In my opinion the education system should only be on meta skills so that you become like a stem
+  cell for knowledge." (2026) — teach the skills that let you learn any skill
+  [[../wiki/sources/2026-02-13-yt-GmGOiCnk--w]].
+- "You cannot both hate someone and understand them at the same time." (2026) — anger is his signal
+  that he's missing understanding; he anchors it to Pascal's "to understand is to forgive"
+  (that phrase is Pascal-attributed, not his) [[../wiki/sources/2026-02-11-yt-E8wLDd9fnSI]].
 
 **2026 Q&A operator language** ([[../wiki/topics/mindset/mental-toughness-and-learning|mental-toughness-and-learning]],
 [[../wiki/topics/business/ai-in-business|ai-in-business]], [[../wiki/topics/business/retention|retention]],

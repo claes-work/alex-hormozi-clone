@@ -8006,3 +8006,50 @@ control — already on scaling + discipline pages), **rW7sG_Rwpe0** (content val
 of entry, ~80/20 on-topic — already on content-engine), **q8DRFyn0uiw** (the Value Equation, verbatim from
 $100M Offers — already canonical), **jIQYdA5NcFk** (constant-suffering / shifting-constraint ladder / decision
 quality over effort — already on mental-toughness + discipline pages).
+
+## [2026-07-20] lint | synthesis pass 30 — @MoreMozi batches 275-284 (early-mid-Feb 2026 P2 + mid-July 2026 fresh uploads)
+
+Stage S synthesis checkpoint. `ingest_batch.py status` flagged **SYNTHESIS DUE** (10 ingest batches since
+pass 29); the synthesis-state Pending section held no checkpoint, so the coordinator registered and drained
+the batch-275–284 checkpoint per the first-matching-rule (Stage S) in `/ingest-loop`. Drained the accumulated
+`Synthesis notes:` debt from batches 275-284 into **16 topic/persona files**, one agent per file (concurrency
+rule). Recompiled `persona/system-prompt.md` **v37 → v38**; advanced the high-water mark in
+`pipeline/synthesis-state.md` to **batch 284** (pass 30, v38).
+
+Promoted (net-new, dated + cited, contradictions flagged with `> ⚠️`):
+- **persona/beliefs.md +12**: operational-definition test + habit-reinforcement reframe; meta-skills /
+  progress-not-outcome; hate-vs-understand (Pascal); reverse-eulogy (Munger); luck = supply-demand
+  discrepancy + repeatability test; suffering-is-constant; input-output 10x equation; risk-taking-must-be-
+  unlearned; self-education-as-venture-bets + control-the-mouse; operator-vs-market ≈50/50; everyone-trades-
+  time-for-dollars; and a **dated AI position update** (`⚠️`) re-ranking AI below decision-making + the
+  "has AI made me more money?" diagnostic (cools the Mar–Apr 2026 AI-urgency).
+- **persona/voice.md +12** verbatim lines; **persona/biography.md +6** self-reported facts with 3
+  `⚠️ CONTRADICTION` reconciliations (six-gyms exit, Serbian-vs-Macedonian family origin, 6wk-vs-2wk FB-ads).
+- **Topics**: ai-in-business (AI dual forecast + data-first + dated re-rank), pricing-psychology (perfect-
+  price/units×margin + 5x-tier + EPC-over-churn + low-price-is-a-feature), hiring-and-recruiting (map-
+  behaviors avatar + operator-comp playbook + 90-day-fit + rate-of-improvement + underpricing-talent),
+  scaling-and-enterprise-value (corporate-owned expansion econ + 13-18x tech-enabled multiples + buy-the-
+  front-end + pre-sale lever timing + sellability checklist + wind-down-vs-sale + equity-deal timeline),
+  sales-frameworks (outbound four-lever/availability + script-blackout training + speed-to-lead + offer→
+  sales→traffic), retention (next-problem framework + running-start punch card + one-and-done=arbitrage),
+  business-diagnostics (supply-vs-demand-constrained + irrelevance-is-the-root-constraint + solve-back-to-
+  front), content-engine (combinatorial ad-build + 80/20 hook recycle + organic/paid-merged + capture-the-
+  transformation + 20-shorts=1-long + content-drifts-to-the-room `⚠️ EVOLVING` + value-per-second),
+  branding (brand-associations framework = teaching-at-scale + reach×influence×direction + promise-nothing-
+  deliver-a-ton), proof (present-tense proof + free-trial risk-reversal), mental-toughness-and-learning
+  (meta-skills + learning-budget + luck definition), discipline-and-decision-making (operational-definition
+  method + "changes my Tuesday?" razor + 10x input-output + anti-shiny-object `⚠️ REFINEMENT` + risk-must-be-
+  unlearned + hate-vs-understand + reverse-eulogy + suffering-is-constant), money-model (waive-onboarding-
+  clawback + one-funnel low-price front-end `⚠️` multiple-"favorite"-offers).
+
+Agents corrected several brief dates against the actual source `source_date`, deduped hard against passes
+24-29 (LTGP:CAC, four-elements-of-equity, 70-20-10, operational-definitions cluster, anti-shiny-object) and
+cross-linked rather than re-added, and dropped long-tail repeats (they stay L2). No rate limits; no tooling
+errors.
+
+Synthesis notes: pass 30 — synthesis debt drained to **0** (high-water mark now batch 284; next `Synthesis
+notes:` debt accrues from batch 285 onward). One data-integrity catch carried forward: batch-280's log note
+described a "monetization-moat (Amazon/Uber/Netflix)" argument for ZgrmWfnJnhA that is **not present in that
+source** (a premium-resort-wear "don't lower price" call) — correctly NOT promoted (no fabrication); the
+batch note likely mis-mapped the ID. Genuine contradictions carried as visible `⚠️` callouts on the affected
+biography/topic pages (not silently resolved).

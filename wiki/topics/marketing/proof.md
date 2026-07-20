@@ -1,8 +1,8 @@
 ---
 type: topic
 domains: marketing
-updated: 2026-07-19
-tags: [proof, marketing, ads, persuasion, WISBY, SPCL, influence, branding, credibility]
+updated: 2026-07-20
+tags: [proof, marketing, ads, persuasion, WISBY, SPCL, influence, branding, credibility, nda, risk-reversal, free-trial]
 ---
 
 # Proof
@@ -147,6 +147,54 @@ does the down-scaling for you.
 > degrade that down… 'it'll probably keep me warm on the way from the car to the door of my
 > house.'"
 
+## Present-tense proof & the NDA workaround
+
+The page's 13 dimensions and "extreme proof" mechanic are all about *past-tense* case
+studies — results that already happened. Hormozi adds a second axis: **proof that happens in
+the present**, i.e. approximating what being a customer will feel like *before* the prospect
+buys (2026-07-20, source: [[../../sources/2026-07-20-yt-6WvSQcFI2jA]]). This surfaced in a
+coaching exchange with a caller selling marketing services to precision machine shops and
+aerospace suppliers, whose real wins are all locked behind NDAs.
+
+> "There's proof that happens in the past, but there's also proof that can happen in the
+> present."
+
+Three distinct moves, in escalating order:
+
+1. **Anonymize, don't omit.** When the strongest evidence can't be named, stay specific about
+   *what was done* and change the company/person names ("Acme Corp") rather than dropping the
+   story. Framing it as "we changed the names for anonymity" can actually unlock *more*
+   testimonials, not fewer (customers who'd never go on record otherwise). This is the NDA
+   workaround.
+
+   > "You can still do Acme Corp… you can still be incredibly specific about what you did and
+   > not necessarily name the company."
+
+2. **Play present-tense proof.** Approximate the post-purchase experience live. His example for
+   a lead-gen client: obtain **anonymized recorded client calls** (the leads coming in), play
+   those recordings for a new prospect, then ask directly whether they could handle that volume
+   ("can you handle 10 to 15 of these a week?"). The prospect experiences the deliverable before
+   buying instead of hearing about a past result.
+
+   > "Proof can come in a lot of different versions… It's not just case studies. It's how many
+   > ways can I approximate what life is going to be like on the other side of working with me
+   > and take as much risk out of that as I possibly can."
+
+3. **Free trial = the ceiling.** The "perfect world" of present-tense proof and risk-reversal
+   is a free trial: the prospect pays only *after* seeing the result, so no trust is required at
+   the outset.
+
+   > "The perfect world of this is a free trial. Like, don't trust me. Let me just do it, and
+   > then you can pay me after."
+
+This extends "Claim your proof / fix reality" above (working for free to deliver results before
+the buy) but is a distinct lever: there, free work *manufactures* a case study; here, the free
+trial *replaces* the need for one by letting the prospect self-verify. On the walk-away
+question, Hormozi said he would **not** drop a great client just because a win is unusable —
+*unless* usage rights were part of the original deal terms (e.g., a discount given in exchange
+for the right to use the case study), in which case the terms would simply be renegotiated
+(2026-07-20, source: [[../../sources/2026-07-20-yt-6WvSQcFI2jA]]).
+
 ## SPCL — the four-component influence framework
 
 Where proof answers *"will it work?"*, **SPCL** ("special," the memory hook) is Hormozi's
@@ -228,3 +276,6 @@ Feeds `persona/beliefs.md` (proof > promise as a differentiator; the Belief Cont
 - [[../../sources/2026-02-19-yt-fvjyOngt5ic]] — *Stop Trying to Build a Cult-Like Following*
   (2026-02-19): the four-step "reinforcer" restatement of SPCL and the contrarian anti-cult
   stance (cross-linked; primary home is branding/content-strategy).
+- [[../../sources/2026-07-20-yt-6WvSQcFI2jA]] — *How Do You Show Proof When It's All Under NDA?*
+  (2026-07-20): present-tense proof, the "Acme Corp" anonymization workaround, playing
+  anonymized client-call recordings, and free trial as the ceiling of risk-reversal.

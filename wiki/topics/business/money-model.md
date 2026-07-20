@@ -2,8 +2,8 @@
 type: topic
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-19
-sources: 15
+updated: 2026-07-20
+sources: 17
 ---
 
 # Money Model
@@ -393,6 +393,84 @@ playbook above — pull the big up-front sale during the event, then mop up the 
   not lie. But you can make it less convenient to purchase the thing you don't want them to
   purchase"* (offer monthly, but explicitly without the bonuses) — a small ethics-of-friction note.
 
+## Offer-structure refinements (July 2026)
+
+Two July 2026 MoreMozi coaching clips add offer-architecture material distinct from the
+cash-acceleration cluster above: a named offer structure Hormozi teases for his next book,
+and a funnel/offer-stack simplification for a stalled consultant.
+
+### Waived-onboarding-for-commitment — "one of my favorite offers ever" (2026-07-17)
+
+In [[../../sources/2026-07-17-yt-WiSjImHwlmY|Build Ramps, Not Walls]] (2026-07-17), coaching a
+B2B agency owner whose conversion drops off at a real onboarding cost (account build-out,
+integration, listing/content — up to $20k–25k by catalog size), Hormozi gives a two-option
+offer he calls **"one of my favorite offers ever"** and says is **coming out in the next
+book**:
+
+- **Option A — pay the onboarding down, month-to-month, no commitment** (he uses $30,000 as
+  the stand-in price).
+- **⭐ Option B — the seller waives/stomachs the onboarding entirely in exchange for a 12-month
+  commitment,** framed as the client accepting that results take time ("at least 6 months or at
+  least 12 months… for us to put all of our systems in place"). Verbatim: *"I'll stomach the
+  cost of getting you on board as long as you commit to 12. And if you get cold feet, you just
+  pay what you would have paid to go month to month."*
+- **The early-cancel CLAWBACK is what makes the waiver safe.** If the client cancels during the
+  term, the waived onboarding comes due — they pay what they would have paid month-to-month:
+  *"Now, for whatever reason 3 months from now you're like, 'Screw you.' Then I'm like, 'Then
+  you pay the onboarding.' And you're out."* The economics as he states them: the onboarding
+  cost is real and *"has to get paid one way or another"*; a 12-month commitment lets him
+  amortize it over the term, and *without* commitment he refuses to lose money bringing the
+  customer on — so it is a **choice architecture, not a discount** (both paths recover the cost;
+  "it's up to you").
+- **Consumer-price version (gym):** *"it's $500 to sign up… and $99 a month after that. Or…
+  I'll waive the 500, I'll onboard you myself, as long as you're willing to commit to a year.
+  And if for whatever reason during that year, you choose to cancel, you pay what you would have
+  paid if you went month to month."*
+- **⭐ The upfront fee doubles as a price anchor even when waived:** *"the 500 acts as an anchor.
+  It positions the price that you're doing monthly as much lower, which is nice for the sale."*
+  (Anchoring mechanics: cross-link [[pricing-psychology]].)
+
+The video's title framing — an offer that lets committed buyers "ramp" past the upfront wall —
+is captured as **"ramps, not walls"** (paraphrase; the phrase sits in the questioner's captioned
+turn and its attribution to Alex is uncertain per the [[../../sources/2026-07-17-yt-WiSjImHwlmY|source]]).
+
+> ⚠️ CONTRADICTION (soft): Hormozi applies "favorite offer" language to more than one distinct
+> structure. This waived-onboarding-for-commitment offer is *"one of my favorite offers ever"*
+> (2026-07-17), whereas the on-time/on-budget guarantee is *"My Favorite Offer for Home Service
+> Businesses"* ([[../../sources/2026-03-22-yt-_9tKTLQqIcc|2026-03-22]], see above). Not mutually
+> exclusive — the 2026-03 favorite is scoped to home service, and "one of my favorite offers"
+> permits several — but the persona should not present a single canonical "favorite offer."
+
+### Loss-leader front end + "one funnel to rule them all" (2026-07-17)
+
+In [[../../sources/2026-07-17-yt-CWK1kQTWagM|Helping an AI Consultant Scale From $100K to $1M]]
+(2026-07-17), coaching an AI/GPT consultant with too many overlapping offers, Hormozi reframes a
+self-diagnosed content problem as a **money-model problem** — *"You have a model issue"* — and
+prescribes an offer-stack + funnel simplification:
+
+- **Collapse the offer stack: kill the low-ticket one-time product; fold it in as a free
+  deliverable of the flagship front end.** The $497–997 one-time GPT build should stop being a
+  product: *"let's get rid of the 497 thing… make that a free deliverable for the boot camp…
+  what's the clear outcome that they're going to get? And then just upsell the rest of the boot
+  camp to 4K a year."*
+- **Price the recurring back end against the customer's own unit economics** — for
+  coaches/consultants, ~$4,000/yr ≈ the value of one customer, so *"5,000 a year will probably do
+  no problem."* (Avatar-economics pricing: cross-link [[pricing-psychology]].)
+- **⭐ "One funnel to rule them all."** Point all ad spend at the single front-end event; per-video
+  lead magnets are fine but every freebie must feed the one funnel: *"all widgets should still
+  lead to the one funnel [to] rule them all… that then leads to your boot camp that happens on
+  whatever cadence you want."* Content CTA formula = outcome + timeframe + monetization: *"if you
+  want to build something like this in five days or less that you can monetize, come to my boot
+  camp."*
+- **Low front-end price as a feature ($97 vs the $1,000 she proposed).** *"If you want to make
+  the boot camp a little better, charge like 97 bucks."* His money-model rationale: *"I see it as
+  a feature… my goal is to get the prices low as possible to get the most people to show up, so
+  that I can sell them on the back."* This is the loss-leader-front-end / monetize-on-the-back
+  logic — the front-end ticket is a volume lever, not the profit center; monetization happens on
+  the ascension. (The "low price *as a feature*" articulation is developed under
+  [[pricing-psychology]]; here it is the funnel-architecture rationale for a single cheap front end
+  feeding the back-end continuity offer.)
+
 ## Sources
 
 - [[../../sources/2025-08-16-100m-money-models|$100M Money Models]] (2025) — the entire framework
@@ -410,3 +488,5 @@ playbook above — pull the big up-front sale during the event, then mop up the 
 - [[../../sources/2026-03-21-yt-hkHOOqHq2aM|Stop Calling a Payment Plan a Membership]] (2026-03-21) — payment-plan (one-time) vs membership (consumable); light-touch alumni continuity.
 - [[../../sources/2026-03-19-yt-6aH8xPiGGew|Sales origin story]] (2026-03-19) — one-time expense charges 3–4x recurring, liquidating acquisition cost.
 - [[../../sources/2026-03-08-yt-dgQj5lEkzns|I Make $1M/Year Teaching Arts and Crafts]] (2026-03-08) — two-cart-close launch structure (annual-only + exclusive bonuses at event → post-event scoop-up to monthly with bonuses stripped); $300–600 consumer impulse window; physical-product tangibility premium.
+- [[../../sources/2026-07-17-yt-WiSjImHwlmY|Build Ramps, Not Walls]] (2026-07-17) — ⭐ waived-onboarding-for-12-month-commitment offer with early-cancel clawback; upfront-fee-as-anchor; teased as "one of my favorite offers ever," next book.
+- [[../../sources/2026-07-17-yt-CWK1kQTWagM|Helping an AI Consultant Scale From $100K to $1M]] (2026-07-17) — "you have a model issue": collapse offer stack (kill low-ticket one-time, fold in as free deliverable), price back end on avatar economics, "one funnel to rule them all," low front-end price as a volume feature.

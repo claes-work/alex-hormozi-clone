@@ -6,10 +6,11 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 274** — synthesis pass 29, system-prompt **v37** (2026-07-19). (Prior:
-pass 28 through batch 264 at v36; pass 27 through batch 254 at v35; pass 26 through batch 244 at v34;
-pass 25 through batch 234 at v33; pass 24 through batch 224 + the inline-L3 $100M library synthesis at
-v32.) Everything ingested after this is L2 (source pages exist) but **NOT yet promoted** to topics/persona.
+Synthesized through: **batch 284** — synthesis pass 30, system-prompt **v38** (2026-07-20). (Prior:
+pass 29 through batch 274 at v37; pass 28 through batch 264 at v36; pass 27 through batch 254 at v35;
+pass 26 through batch 244 at v34; pass 25 through batch 234 at v33; pass 24 through batch 224 + the
+inline-L3 $100M library synthesis at v32.) Everything ingested after this is L2 (source pages exist) but
+**NOT yet promoted** to topics/persona.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
@@ -17,6 +18,64 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi — batches 275-284 (early-mid-Feb 2026 P2 + mid-July 2026 fresh uploads)** — synthesis
+      pass 30 (2026-07-20) → system-prompt **v38**. Promoted the genuinely-new material across **16
+      topic/persona files** (one agent per file, concurrency rule): a mixed window of Feb-2026 P2 long-form
+      Q&A and mid-July-2026 fresh uploads. **persona/beliefs.md +12**: the **operational-definition test**
+      (unifying "what would someone have to *do* for me to say [X]?" + the reinforcement reframe of habit
+      change — "it's about what happened *after*, not what triggered it," Leila/anger example);
+      **meta-skills** ("stem cell for knowledge") + **optimize-for-progress-not-outcome** (inputs short-run
+      / outputs long-run); **"you cannot hate and understand someone at once"** (Pascal borrowed); the
+      **reverse-eulogy razor** (Munger borrowed); **luck = supply-demand discrepancy in a time window** +
+      repeatability test; **"suffering is constant, only its nature changes"** (scale by wait/focus/
+      attraction/decisions, not push); the **input-output 10x equation** (orders of magnitude, leverage via
+      relinquishing control); **early risk-taking must be unlearned** (shiny-object); **self-education as
+      venture bets** ("when small, you ARE the reinvestment" + control-the-mouse); **operator vs. market
+      ≈50/50, market wins at extremes** (Buffett borrowed); **"everyone trades time for dollars at different
+      efficiencies"**; and a **dated AI position update** (AI ranks BELOW decision-making; "has AI made me
+      more money? if not, wrong constraint" — `⚠️` POSITION UPDATE cooling the Mar–Apr 2026 AI-urgency).
+      **voice +12** verbatim lines ("the middle is where people die," "I see it as a feature," "breathe the
+      script," "100 ponds and no oceans," "we never stop a flow until we create another flow," "promise
+      nothing deliver a ton," "coats of paint"/"thinking surface area," "make money neutral," "anchor 100 ft
+      below the surface," "a stem cell for knowledge," "accept their money is scaling practice number one";
+      Pascal line correctly kept as borrowed). **biography +6** (self-reported, with 3 `⚠️ CONTRADICTION`
+      reconciliations): ~$17M cash loss + 2026-hardest-of-8 + nihilism struggle; exactly ONE direct report
+      (Leila's father); scaled local chains 3×; ~$500K/day launch ad spend; national-FB-ads-in-6-weeks; the
+      age-19 mother's-perspective psych essay + immigrant-mother/Johns-Hopkins detail — flags on the
+      six-gyms exit (all-six-for-one vs kept-one), Serbian-vs-Macedonian origin, and 6wk-vs-2wk FB-ads
+      timeline. Topics: **ai-in-business** (the AI dual forecast — one-/ten-person billion-$ cos, long-form
+      up / short-form down, live+interactive = the alpha, data-first-before-AI-first; + the dated AI
+      re-rank `⚠️`); **pricing-psychology** (the "perfect price" = max WTP on a units×margin curve, 5x-tier
+      rule, premium-price-leader, price-to-value/EPC-over-churn, "low price is a feature," defend-premium
+      `⚠️`); **hiring-and-recruiting** (map-behaviors-not-titles avatar, operator compensation playbook —
+      reverse sale / reverse-engineered OTE / four things equity carries / growing-pie pool, two-way
+      90-day-fit metric, rate-of-improvement + shadow→supervise→support, underpricing-your-talent);
+      **scaling-and-enterprise-value** (corporate-owned expansion economics 10-20% mgr profit-share, 13-18x
+      tech-enabled multiples, buy-the-front-end-plug-into-delivery, monetization-lever pre-sale timing,
+      sellability checklist, wind-down-vs-sale + "you are the asset," equity-vs-marketing-deal timeline);
+      **sales-frameworks** (outbound four-lever taxonomy — availability the #1 correlate of shows; the
+      script-blackout sales-training system; speed-to-lead numbers + offer→sales→traffic fix-order);
+      **retention** (next-problem framework + front-end vision sets the ceiling; running-start punch card;
+      one-and-done = arbitrage/media business); **business-diagnostics** (supply-vs-demand-constrained
+      diagnosis; "all growth is constrained by irrelevance"; solve-problems-back-to-front); **content-engine**
+      (combinatorial ad-build ~150 ads/session + volume benchmarks; 80/20 hook recycling; hire-organic-
+      editors organic/paid-merged; capture-the-transformation reels+DM; 20-shorts=1-long; the
+      content-drifts-to-the-room self-correction `⚠️ EVOLVING`; value-per-second + 80/20 on-topic);
+      **branding** (the brand-associations framework — known+unknown-through-an-outcome = "teaching at
+      scale," reach×influence×direction, net-positive rule, "promise nothing deliver a ton," avoid the
+      incestuous speaking circuit); **proof** (present-tense proof — play anonymized recorded client calls;
+      free-trial as ultimate risk-reversal); **mental-toughness-and-learning** (meta-skills + progress-not-
+      outcome; learning-budget bet-on-yourself + control-the-mouse; luck definition + repeatability test);
+      **discipline-and-decision-making** (the operational-definition method + reinforcement reframe;
+      "what does it change about my Tuesday?" razor; the 10x input-output equation; unit-economics exception
+      to anti-shiny-object `⚠️ REFINEMENT`; risk-taking-must-be-unlearned; hate-vs-understand; reverse-
+      eulogy; suffering-is-constant); **money-model** (waive-onboarding-for-12mo-commitment with early-cancel
+      clawback + upfront-fee-as-anchor; "one funnel to rule them all" low-price front-end — `⚠️` noting he
+      labels multiple offers "favorite"). Agents corrected several source dates against the actual source
+      pages and deduped heavily against passes 24-29 (LTGP:CAC talent ratio, four-elements-of-equity,
+      70-20-10, operational-definitions cluster, anti-shiny-object) — cross-linked rather than re-added.
+      Dropped long-tail repeats. Note: batch-280's Amazon/Uber/Netflix "monetization-moat" gloss on
+      ZgrmWfnJnhA was NOT supported by that source and was correctly not promoted (no fabrication).
 - [x] **@MoreMozi Q&A cuts — batches 265-274** — synthesis pass 29 (2026-07-19) →
       system-prompt **v37**. Promoted genuinely-new mid-Feb 2026 (2026-02-14 to 2026-02-20) MoreMozi
       material across **18 topic/persona/entity files** (one agent per file, concurrency rule).

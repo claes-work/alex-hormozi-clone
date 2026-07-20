@@ -1,7 +1,7 @@
 ---
 type: topic
 domains: [business, content-strategy, marketing]
-updated: 2026-07-19
+updated: 2026-07-20
 tags: [ai, future-of-work]
 ---
 
@@ -14,7 +14,9 @@ a human's durable edge remains. This page consolidates three solo talks from spr
 and [[../../sources/2026-05-26-yt-XsWSvz-aewA]] ("The New Way of Making Content In The Age of AI").
 
 > All positions on this page are **as of 2026** and represent Hormozi's **current** stance.
-> His views on AI timelines are explicitly time-sensitive and expected to evolve.
+> His views on AI timelines are explicitly time-sensitive and expected to evolve — and they have:
+> his **newest** statement (2026-07-19) cools the spring-2026 adoption urgency (see the
+> *July 2026 update* under the core thesis below).
 
 Related: [[../content-strategy/content-engine]] · [[scaling-and-enterprise-value]]
 
@@ -62,6 +64,48 @@ Supporting points (2026-03-31):
 - **Business Darwinism:** the most adaptable survive, not the strongest or smartest.
   Laggards ("no one will replace humans") are like people still using fax machines — easy
   to beat.
+
+### July 2026 update: AI re-ranked below decision-making — the urgency cools
+
+> ⚠️ POSITION UPDATE (dated, reconcilable — the newest statement to date). In a July 2026 solo
+> monologue ([[../../sources/2026-07-19-yt-WttZ6b-KUP4]], 2026-07-19), Hormozi makes "a case
+> against AI" — against the misconception that AI *canceled every other form of leverage* — and
+> this **tempers the spring-2026 urgency above**: "learning how to use AI should become your
+> number one priority… and your number 10 priority" (2026-03-31) and the "~18 months… huge amount
+> of wealth that can be created by people who have nothing" window (2026-04-21, see the moat
+> section). The emphasis rotates from *adopt urgently* to *AI-maxing without constraint diagnosis
+> makes you no money*. He does **not** recant adoption — he still calls his company "very early and
+> very aggressive adopters," and the constraint-first / "amplification, not automation" /
+> tool-not-identity threads were already present — but as the newest dated statement it should
+> temper how the spring-2026 urgency quotes are voiced going forward.
+
+Key moves in the July talk (all 2026-07-19, Alex-attributed):
+- **AI is explicitly re-ranked BELOW decision-making/prioritization in the leverage stack.** AI
+  increases leverage but did not cancel capital, media, or people as multiplicative sources of it;
+  the single highest-leverage activity — "even higher leverage than AI" — is making good decisions.
+- **The "did AI actually make me more money?" diagnostic.** If implementing AI hasn't made you more
+  money, you were likely using it in the wrong place — return to identifying the **true constraint**
+  and aim your "speck" of resources at the one needle-moving thing.
+- **AI-maxing automates the unimportant.** Because AI expands capacity, owners now execute
+  low-priority work they previously (correctly) skipped; scarcity used to *force* prioritization and
+  AI removes that forcing function. His own recent revenue step-up "is not because of AI" — it would
+  have happened anyway.
+- **Anecdote — wealthy insiders advocate AI publicly but don't personally use it.** His wealthiest,
+  oldest friends keep up public pro-AI appearances while admitting they don't use AI day to day;
+  their *teams* use it and are being trained up. *(Self-reported, anonymized private conversations.)*
+- **Current AI ≈ access to lots of cheap virtual assistants** (his own explicitly-imperfect analogy)
+  — a form of leverage that has *always* existed without changing who wins; a terrible offer is not
+  rescued by AI on the back end.
+
+> "AI, though it increases leverage, does not cancel other forms of leverage." (2026-07-19)
+
+> "I'll tell you the highest leverage thing that you can do, even higher leverage than AI. Ready for
+> it? Making good decisions." (2026-07-19)
+
+> "Has implementing AI in my business made me more money? If it hasn't, then you were likely using
+> it in the wrong place." (2026-07-19)
+
+> "AI is just a tool. It's not the answer." (2026-07-19)
 
 ---
 
@@ -146,6 +190,36 @@ extra time.
 
 Cross-cutting note (2026-04-21): even on the consumer side, a beautiful AI skincare avatar
 carries proof in its *look*, whereas a B2B AI avatar "with no proof... is just GPT words."
+
+**Feb 2026 media playbook: the long/short production-quality split and the live+interactive alpha.**
+From [[../../sources/2026-02-14-yt-IDGuBEvXS80]] (2026-02-14), framed as what he is changing in his
+own 2026 media operation. Because AI can now make everything look highly produced, **production quality
+is commoditizing**, so value "zigs back" toward authenticity — and he splits his formats accordingly:
+
+- **Long form goes UP in production quality; short form goes DOWN toward raw.** He judges his own
+  current shorts "too produced" and plans to switch them to raw, talk-to-camera, rant-style, while
+  letting long form go heavier on production and structure. (By "quality" he means *production*
+  quality, not substance.)
+- **Live and interactive content are the "alpha" because AI has a harder time reproducing them** —
+  "if you're live, you're live," and real-time audience interactivity is significantly harder to
+  fake, so both earn better-than-market return on effort. (This sharpens the "capture, don't create /
+  live and interactive" method above from a production *tactic* into an explicit *AI-resistance*
+  thesis.)
+- **Barbell format strategy: win at an extreme, avoid the middle.** Either a polished format people
+  love *or* super-raw all-in-podcast style — "the middle is not where you want to be." (The same
+  barbell mental model he applies to business strategy in the March 2026 section below.)
+
+> "I think long form is going up in quality and short form is going down in quality. When I say
+> quality, I mean like production quality." (2026-02-14)
+
+> "production quality is almost commoditized because AI can make everything super high quality and
+> so it's almost zigging back." (2026-02-14)
+
+> "live and interactive. Those are things that AI will have a harder time doing... if you're live
+> you're live... interactivity with the audience... is significantly more difficult for like AI to
+> kind of reproduce." (2026-02-14)
+
+> "it's a barbell strategy. The middle is not where you want to be." (2026-02-14)
 
 ---
 
@@ -437,6 +511,15 @@ the layer order is data/architecture first, then AI on top with reinforcement tr
 > data first company. Because AI works with data. If you don't have data, then there's no AI."
 > (2026-03-18)
 
+He gave the **same data-first line even earlier** (2026-02-14), in a CPA/CFO-advisory Q&A, embedded
+in a fuller **operating-leverage sequence** for a supply-constrained service firm: (1) increase
+operating leverage via **offshore talent** giving each existing employee ~2–3x capacity, (2) build a
+**data layer**, (3) add an **AI layer** on top, (4) *then* resume selling — i.e. **offshore → data →
+AI, with AI as the last leverage layer, not the first move** [[../../sources/2026-02-14-yt-lvCdhky7Xm0]].
+(Same phrasing, earliest dated instance: "The first thing that you have to do in order to have an
+AI-first company is you have to be a data-first company, because AI works with data. If you don't have
+data, then there's no AI." — 2026-02-14.)
+
 **UX compresses.** He expects the next 12-24 months to reduce interface navigation as users
 ask agents for answers instead of clicking through software screens. That makes workflow
 mapping more important, not less: if the interface disappears, the underlying task logic
@@ -460,6 +543,25 @@ $2,000/month price is the typical cost of labor; if the price holds while cost d
 $500 to $50 or $5, margin and operational leverage explode — one person can drive millions
 in revenue, because coordinating humans is one of the biggest costs of scaling. Ties into
 [[scaling-and-enterprise-value]].
+
+**The first one-person (and ten-person) billion-dollar companies** (2026-02-14). In a MoreMozi
+segment, Hormozi predicts AI-raised leverage will produce the first one-person, ten-person, etc.
+billion-dollar companies — a business with more AI-enhanced levers "gets more out for what it puts
+in." He frames the underlying constant as **fundamentals-vs-tools-vs-players: AI does not change the
+fundamentals that make business business; it changes the *tools* available to the players, and
+eventually the *players* themselves** [[../../sources/2026-02-14-yt-Da3BBzNRKVs]]. He pairs it with a
+decision heuristic — reject "AI can do everything so nothing matters" as unproductive (you could say
+that of literally anything) and instead **reverse any prediction to "what does this knowledge change
+about my behavior?"** This is his earliest dated (2026-02-14) articulation of the man-plus-tools moat
+developed in the moat section below ("since the dawn of time it has been man-plus-tools against
+man-plus-tools… nothing has really changed until… man against machine and the machine wins"; the
+game is "the same game it's always been, just more fierce").
+
+> "This is where they'll be the first, you know, one person billion dollar companies, 10 person
+> billion dollar companies, etc." (2026-02-14)
+
+> "AI is not going to change the fundamentals that make business business, but it will change the
+> tools available to the players and sometimes in the future even the players themselves." (2026-02-14)
 
 **Barbell strategy** (2026-03-31, borrowing Jeff Bezos's "bet on what won't change"):
 - **One end — AI-first / AI-native**: high-risk, high-reward. Now is the best-ever time to

@@ -378,6 +378,24 @@ durable retention levers plus a continuity mechanic (2026-02-23)
 > about what that new problem is, that becomes continuity."
 > — [[../../sources/2026-02-23-yt-0c21D8j5aqI]]
 
+- **What you sell on the front end sets the retention ceiling (earlier articulation, 2026-02-11).**
+  Twelve days before the promise-strength Q&A above, Hormozi gave the same "next problem" continuity
+  logic a front-end twist to a recruiting-community operator ($39/mo, lands members their ideal
+  corporate job in ~60 days): once the current problem is solved, sell the solution to the problem that
+  solving it *creates* (after placement, the next problem is upward trajectory — raises, skill
+  upleveling, negotiating a matching raise). Crucially, **what you sell up front determines how long
+  people stay**: sell just "the foot in the door" and they leave once placed; paint a larger five-year
+  career vision and they stay for the whole journey. And this continuity is only viable if you **niche
+  down to one avatar**, because only then do you know that avatar's sequence of problems well enough to
+  keep solving them (2026-02-11) [[../../sources/2026-02-11-yt--H0XKeAI4oE]].
+
+> "It depends on really what you sell on the front end... you could just sell the foot in the door...
+> But if you paint a larger vision of this is a career for you and the five-year playbook is this, you
+> could keep people much longer." — [[../../sources/2026-02-11-yt--H0XKeAI4oE]]
+
+> "All of this is really enabled by niching down enough that you can really know the problems of the
+> specific avatar and provide very high value solutions." — [[../../sources/2026-02-11-yt--H0XKeAI4oE]]
+
 ## Consumable recurring inputs
 
 The **"education + news" consumable model** is Hormozi's strongest observed anti-churn
@@ -454,6 +472,40 @@ his playbook for engineering reoccurring revenue:
 > "If we can just show that half the people continue to buy something from us every year that
 > still makes it a very viable business." — [[../../sources/2026-03-30-yt-wlaMQa-Vw5I]]
 
+**Without repurchase, a one-and-done business is an arbitrage/media play — and unsellable.** The harder
+edge of the same thesis. Coaching a men's-wedding-band e-commerce owner (LTV:CAC ~1.6, ~20% repeat rate,
+shrinking market), Hormozi reframes rather than optimizes: a one-and-done purchase is fundamentally an
+*arbitrage* business — a "smash and grab" whose only real asset is acquiring customers cheaper than they
+cost — which makes it a media business, not a durable "business business." The retention consequence is a
+sellability rule: such a business is **not sellable until it becomes a brand and can show repurchase
+(retention) rates** — the same revenue-retention-is-the-metric thesis, stated as the line between an
+arbitrage play and a sellable asset (2026-07-19) [[../../sources/2026-07-19-yt-g9xwLNX5Zq0]].
+
+> "one-and-done purchases are fundamentally built off of arbitrage businesses... you just run as much
+> through that thing as you can." / "it's not like a business business... that's a media business...
+> It's just smash and grab." — [[../../sources/2026-07-19-yt-g9xwLNX5Zq0]]
+
+> "it's definitely not a sellable business until it becomes a brand and you can show repurchase rates."
+> — [[../../sources/2026-07-19-yt-g9xwLNX5Zq0]]
+
+**Return-rate is the LTV proxy for brick-and-mortar — and it's "super doable."** Coaching a 13-location
+macro-smoothie chain on a new-market trust/CAC problem, Hormozi names the *single most important metric*
+as the percentage of first-time customers who come back, and rejects the caller's claim that LTV is
+uncomputable for brick-and-mortar — a **30-day return window** is a fine proxy for a smoothie shop (no
+return within a month = they weren't thrilled) (2026-07-20) [[../../sources/2026-07-20-yt-qOy_FSeRU1M]].
+
+> "the thing that's going to be most important about this entire thing is what percentage of customers
+> come back." — [[../../sources/2026-07-20-yt-qOy_FSeRU1M]]
+
+- **"Running-start" punch cards (endowed-progress effect).** Pre-punch two or three of a ten-slot card
+  *before* handing it over, so it feels near-complete; customers are then roughly **3x more likely to
+  finish** it. A repeat-visit micro-tactic that stacks on top of standard grand-opening CAC math
+  [[../../sources/2026-07-20-yt-qOy_FSeRU1M]].
+
+> "instead of having if you have 10 on the card, you want to punch three two or three up front when you
+> give it to them... psychologically, they're like three times more likely to finish it."
+> — [[../../sources/2026-07-20-yt-qOy_FSeRU1M]]
+
 ## Free trials as earnings-per-click math
 
 Coaching a Skool operator who feared a new free trial was dragging down MRR and attracting
@@ -526,6 +578,14 @@ conversion (2026-02-25) [[../../sources/2026-02-25-yt-2-ldIepwdt8]].
 - [[../../sources/2026-03-30-yt-wlaMQa-Vw5I]] — "How To Build Revenue Retention in a 1-Time
   Purchase Business": recurring vs. "reoccurring" revenue (Coca-Cola), seasonal campaigns,
   maintenance upsells, tracking repeat-buy rate to raise business value.
+- [[../../sources/2026-07-19-yt-g9xwLNX5Zq0]] — "My Customers Only Buy Once. How Do I Grow?":
+  a one-and-done business without repurchase is an arbitrage / "media" / smash-and-grab play, not a
+  "business business," and is unsellable until it becomes a brand showing repurchase (retention) rates.
+- [[../../sources/2026-07-20-yt-qOy_FSeRU1M]] — "How Do We Win Trust in a New City?": brick-and-mortar
+  return-rate as the LTV proxy (30-day window), "running-start" punch cards (~3x completion), grand-
+  opening CAC playbook.
+- [[../../sources/2026-02-11-yt--H0XKeAI4oE]] — recruiting-community Q&A: the front-end vision (five-year
+  career playbook) sets the retention ceiling; "next problem" continuity requires niching to one avatar.
 - [[../../sources/2026-03-30-yt-o9fYl33Xzuc]] — "Why Most Accounting Firms Stay Small":
   clients infer internal quality from the external experience; proactive/pushed communication
   cadence defends retention in sticky professional-services firms.

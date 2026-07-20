@@ -3,8 +3,8 @@ type: topic
 domain: business
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-13
-sources: 27
+updated: 2026-07-20
+sources: 30
 tags: [diagnostics, constraints, scaling]
 ---
 
@@ -185,6 +185,73 @@ the same revenue for 2+ years (self-reported).
 
 ---
 
+## Root constraint beneath the triage: irrelevance (2026)
+
+Source: [[../../sources/2026-02-11-yt-VY7ad5OSJ8w|The Biggest Factor Limiting the Growth of Your Business]] (2026).
+
+Sitting *above* the supply/demand triage, Hormozi names a single root constraint that —
+absent a zero-marginal-cost viral product — underlies **both** sides at once: **irrelevance**.
+If every person in the world knew your business, you would have both the customers (demand)
+*and* the talent (supply) to grow; so whichever side currently binds, the deeper limit is how
+few people know you exist.
+
+> "all growth is constrained by irrelevance." (verbatim)
+
+> "whether you're supply or demand constrained your growth is being limited by the fact that
+> you are irrelevant within the scheme of the larger universe." (verbatim)
+
+The remedy collapses to three moves — reach more people, make more for the people you serve,
+advertise more:
+
+> "I can probably solve this by reaching out to more people by making more stuff for the
+> people that I want to serve and by advertising more." (verbatim)
+
+He pairs it with a **"violent effort" urgency reframe**: a "year-long" project (e.g. hiring
+~40 sales reps) is a chosen timeline, not a fixed one — asking a roofing owner to imagine
+"your kids are going to get abducted [at] the end of this month, unless you have 40 sales
+guys" to prove the same hire could be done in weeks; reinforced by a deca-billionaire friend
+who "hired 300 people in seven days and they did like 2,000 interviews" to staff a new venture
+(self-reported anecdotes). The urgency lens is developed in the mindset material; here it is
+the fuel for attacking whichever constraint the triage surfaces.
+
+> ⚠️ TENSION: This "reach/advertise more" root-fix (2026-02-11) sits in tension with the
+> supply-constraint diagnosis three days later (2026-02-14, below), where marketing is
+> explicitly the *wrong* move for a firm that "can't even take people." Reconcile by scope:
+> irrelevance is the long-run **strategic ceiling** (the ultimate cap is how many know you),
+> while the supply-constraint rule is a short-run **sequencing** rule (fix capacity to absorb
+> reach *before* generating it). They point opposite directions on "should I market more?"
+> right now, so read the date and the constraint before applying either.
+
+---
+
+## A supply-constraint diagnostic tell: "no one with bad churn stops selling" (2026)
+
+Source: [[../../sources/2026-02-14-yt-lvCdhky7Xm0|There's No Easy Business]] (2026).
+
+A live case that sharpens the supply-side diagnosis. A CPA / CFO-advisory firm (~$2.9M/yr,
+~190 recurring clients, all-organic) wanted to *market harder* — sell books/courses it had
+already made. Hormozi's counter-diagnosis: the firm is **supply-constrained**, so more
+marketing is the wrong lever — you can't pour leads into a bucket you already can't service.
+
+> "You're supply constraint. And so you're like, how do I market more? I'm like, you can't
+> even take people." (verbatim)
+
+The genuinely new move is a **diagnostic tell for stickiness**: the fact that the owner was
+*comfortable pausing new sales* is itself evidence the product is sticky — because nobody with
+a retention problem would ever voluntarily stop selling.
+
+> "No one who has bad churn stops selling... the fact that you're comfortable enough that
+> you're like, 'Oh, we don't need to take customers for a while' — I'm sure your stuff is
+> better than you think." (verbatim)
+
+His prescribed sequence fixes the constraint before adding demand: raise operating leverage
+(offshore talent for ~2–3x capacity) → build a data layer → add an AI layer → *then* resume
+selling, deploying the books/courses as demand-generation assets only once supply is fixed
+("save them in your back pocket"). The leaky-bucket rule restated: fix the constraint, don't
+add leads to a business that can't serve them.
+
+---
+
 ## What business are you really in? (the big-hairy-problem)
 
 Source: [[../../sources/2025-04-15-yt-q9OmYf_IlQ0|The Top 1% of Business Owners Aren't Smarter Than You]] (2025).
@@ -239,6 +306,40 @@ scalable. You're just not good enough." (verbatim). Corollary distraction-check 
 "woman in the red dress": anything that isn't the core business is a distraction; "the
 grass is always greener... because no one sees what it's fertilized with" (this line he
 credits to his former CFO, not himself).
+
+---
+
+### The "training business" reframe, and churn-before-attraction (2026)
+
+Source: [[../../sources/2026-07-18-yt-17jgssxYtqw|"How Do I Hire in a Town of 5,000 People?"]] (2026).
+
+Applied live to a rural cleaning service ($1.3–1.4M, ~25 techs) whose stated constraint was
+staffing. Two diagnostic moves extend this page (the fine-grained training mechanics —
+observable-actions decomposition, cohort role-play, kudos → model → role-play, "lock it in" —
+are operations detail, not diagnostics, and live elsewhere):
+
+- **Churn before attraction — "I solve problems back to front."** Faced with "a turnover issue
+  *or* an attraction issue," Hormozi fixes retention in the *existing* hiring flow first ("the
+  force of gravity"); only if a deficit remains does he attack attraction. Same instinct as the
+  leaky-bucket rule above and the moving-company back-to-front order below, now applied to the
+  *talent* funnel.
+
+  > "I solve problems back to front. So, I want to solve the churn first... in your existing
+  > flow, so the force of gravity, and that might be enough... and we still have a deficit,
+  > then we can solve the attraction problem." (verbatim)
+
+- **What business are you really in? The *training* business.** In a low-leverage labor
+  business with narrow pay bands (you "can't... get 10x leverage on" a cleaning tech the way
+  you can an engineer or salesperson), the people problem is the feature, not the bug — so
+  almost all focus belongs on the supply side. This is the same "service = teaching business"
+  reframe from the 4-shapes section below, sharpened with concrete standards: a **14-day
+  up-to-speed** target, retention via career path, and a hiring filter that puts trainees **on
+  their feet for 12 hours** so physically mismatched hires wash out fast.
+
+  > "What business are you really in? You're actually in the training business... the feature
+  > not the bug of your business — is the people problem. And that's never going to go away...
+  > you should pride yourself on being able to take anyone off the street and then get them up
+  > to speed in 14 days and not churn based on your career path and opportunity." (verbatim)
 
 ---
 
@@ -670,10 +771,14 @@ saturation: "this is a $60 billion industry, I don't even have 1% of it."
 ## How the lenses fit together
 
 - **Supply vs demand** is the fast triage — always run first.
-- **Back-to-front diagnosis** is the live-coaching order: first fix what is sold, then how
-  it is sold, then who it is sold to, then how those buyers find out. Hormozi uses this
-  order in a 2026 moving-company diagnosis before touching channel tactics
-  [[../../sources/2026-06-26-yt-zzleYxkf39k]].
+- **Back-to-front diagnosis** is the live-coaching order: fix the retention/fulfillment side
+  before the attraction side. Hormozi runs it as first fix what is sold, then how it is sold,
+  then who it is sold to, then how those buyers find out (a 2026 moving-company diagnosis,
+  before touching channel tactics [[../../sources/2026-06-26-yt-zzleYxkf39k]]) — and applies
+  the same instinct to the *talent* funnel ("I solve problems back to front" = fix churn
+  before attraction) in a 2026 cleaning-business diagnosis
+  [[../../sources/2026-07-18-yt-17jgssxYtqw]]. Same principle, different funnels: don't add
+  inflow to a bucket that leaks.
 - **What business are you really in / big hairy problem** goes one level deeper when the
   triage answer keeps moving or a whole revenue stage is stuck.
 - **The 4 vectors** diagnose *how you'll win* the demand side once you're competing.
@@ -710,3 +815,6 @@ machinery ([[money-model]]) at that one thing.
 - [[../../sources/2026-02-27-yt-A5I1CyfdAVU]] (2026) — the 3 strategic buckets (customers / LTGP / risk) at 70/20/10; strategy = prioritization; the EV levers.
 - [[../../sources/2026-02-27-yt-c9tDMmuZcHs]] (2026) — first-time vs third-time founders: secrecy→openness, certainty→humility, binary→nuanced constraint diagnosis.
 - [[../../sources/2026-03-05-yt-5brXkXO66_k]] (2026) — startup-debt taxonomy: financial / management / technical; pick the easiest to repay; sub-$1M runs on sales debt, product wins long-term.
+- [[../../sources/2026-02-11-yt-VY7ad5OSJ8w|The Biggest Factor Limiting the Growth of Your Business]] (2026) — irrelevance as the root constraint beneath supply/demand; reach/make/advertise more; "violent effort" urgency reframe.
+- [[../../sources/2026-02-14-yt-lvCdhky7Xm0|There's No Easy Business]] (2026) — supply-constraint diagnosis; the "no one with bad churn stops selling" stickiness tell; fix the constraint before marketing.
+- [[../../sources/2026-07-18-yt-17jgssxYtqw|"How Do I Hire in a Town of 5,000 People?"]] (2026) — "I solve problems back to front" (churn before attraction on the talent funnel); the "training business" reframe with 14-day / 12-hours-on-feet standards.

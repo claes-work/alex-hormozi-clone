@@ -3,9 +3,9 @@ type: topic
 domain: content-strategy
 domains: [content-strategy, marketing]
 created: 2026-07-08
-updated: 2026-07-19
-sources: 27
-tags: [content, media-playbook, volume, hooks, repurposing, personal-brand, give-first, marketing-machine]
+updated: 2026-07-20
+sources: 34
+tags: [content, media-playbook, volume, hooks, repurposing, personal-brand, give-first, marketing-machine, ad-creative, swipe-file, organic-paid-merge, value-per-second]
 ---
 
 # The Hormozi Content Engine
@@ -828,6 +828,175 @@ sucks** for the user, and not stopping.
 
 ---
 
+## Ad-creative volume: the combinatorial ad-build and the benchmark (July 2026)
+
+Three July 2026 @MoreMozi coaching clips sharpen the *paid-creative* half of the engine —
+how many ads to make, and how to manufacture them cheaply. This is the operational floor
+beneath the 2025 hook-first order (record-count ~10 hooks per ad) and the write-first
+engine of Section 4; here it is a concrete assembly line.
+
+**The combinatorial ad-build.** Asked how he makes ads, Alex gives a recipe that
+mass-produces variants from a handful of ideas
+([[../../sources/2026-07-20-yt-nljBRSUw-Eg]]): write ~50 **hooks**, pair them with 3–5
+**"meat" segments** (the core pitch/proof — market-growth stats, credibility claims,
+program length), and one **settled CTA** (test it once, then reuse). Recombined, that
+yields ~150 ad variants from a single recording session, so only 3–5 actual "media angles"
+need to be conceived per session.
+
+> "So, this is how we make ads. So, you make 50 hooks." … "50 even times three is going to
+> get you 150 ads." (verbatim) — [[../../sources/2026-07-20-yt-nljBRSUw-Eg]]
+
+**Creative-volume benchmark (scales with spend).** His prescribed creative output tracks ad
+spend: a business spending ~$500K/day typically runs ~50 pieces of creative *per day*; at
+~$200–250K/month he sets a floor of ~25/week ([[../../sources/2026-07-20-yt-nljBRSUw-Eg]]);
+at ~$25K/month (~$1K/day) his target is ~50 *per week*, which he calls "not hard" — the
+founder films the raw material "in like an hour and a half," then "you just have a couple
+editors" ([[../../sources/2026-07-17-yt-DjVPfGfQyZ4]]). (paraphrase; both are on-the-spot
+prescriptions to callers — **self-reported** benchmarks.)
+
+**No ad-spy tools — mine live ads as a swipe file.** He pays for no ad-intelligence
+subscription; instead he stays a **non-premium user of every platform so he is served
+ads**, watches which ads and viral organic pieces are running heavily (persistent spend
+signals a winner), and saves them to a folder to pull up in ad-creation mode
+([[../../sources/2026-07-20-yt-nljBRSUw-Eg]], [[../../sources/2026-07-18-yt-GGj6zxdXSyw]]).
+
+> "I'm a non-premium user of every platform. So, I get ads for everything because I like
+> seeing the ads." (verbatim) — [[../../sources/2026-07-18-yt-GGj6zxdXSyw]]
+
+**Hooks generalize across niches.** A proven hook is portable — he reports reusing the same
+hook across four completely different businesses (B2B, B2C, tech, service) and adapting
+cross-industry hooks (a hotel or weight-loss hook reworked for another vertical)
+([[../../sources/2026-07-20-yt-nljBRSUw-Eg]], [[../../sources/2026-07-18-yt-GGj6zxdXSyw]]).
+"The cool thing with hooks is that they work across everything." (verbatim, cleaned)
+
+### Reuse your greatest-hit hooks (the 80/20, first-3–5-seconds doctrine)
+
+His hook-writing method is mostly *recycling*, not invention
+([[../../sources/2026-07-18-yt-GGj6zxdXSyw]]): review every hook he has done and write new
+ones out of the old; reuse all-time "greatest hits" repeatedly, keeping the hook ~the same
+and only changing background, shirt, and props to make it look fresh. ~80% of effort goes
+to this proven bread-and-butter, ~20% to testing new hooks from the swipe file.
+
+> "I reuse the greatest hits of all time all the time. And I just make them look different…
+> but the hook stays more or less the same." (verbatim)
+> — [[../../sources/2026-07-18-yt-GGj6zxdXSyw]]
+
+The justification is a sharper drop-off statistic than elsewhere on this page: the first
+**3–5 seconds** decide everything, and **~80% of viewers are lost in that opening window**
+— so put ~80% of creative effort into the hook and "the rest gets really easy."
+
+> "You lose 80% of people in that first period. So… just put 80% of your effort there and
+> the rest gets really easy." (verbatim) — [[../../sources/2026-07-18-yt-GGj6zxdXSyw]]
+
+> ⚠️ Two different 80/20s, and a coarser 70-20-10. This "80% proven hooks / 20% new" split
+> is a coarser restatement of the **70-20-10 hook allocation** in the 2025 hook-first
+> section (70% core / 20% adjacent / 10% moonshot), not a contradiction. It is also a
+> *different* 80/20 from the on-topic-vs-personal 80/20 below
+> ([[../../sources/2026-02-10-yt-rW7sG_Rwpe0]]) — don't conflate them.
+
+### Hire organic editors — "organic and paid have merged"
+
+His current hiring doctrine for the creative team: staff **organic-content people, not
+paid-ads specialists**, "because organic and paid have more or less merged"
+([[../../sources/2026-07-17-yt-DjVPfGfQyZ4]]). The proven-best organic pieces are the ones
+you put money behind anyway; the only paid-specific change is a **lower-third CTA banner**
+on an existing winning creative, or a **CTA spliced onto the end** with a freebie/lead
+magnet. Net motion — the **organic→paid flywheel**: editors ramp organic → organic gets
+leads → the proven organic *becomes* the paid ads.
+
+> "organic and paid have more or less merged." … "you'll literally take all that organic
+> and make it paid." (verbatim) — [[../../sources/2026-07-17-yt-DjVPfGfQyZ4]]
+
+*(This extends — and puts a hiring/tactical face on — the "content and ads merged: make
+lots of content, turn winners into ads" refinement already in Section 4,
+[[../../sources/2026-05-28-yt-trAAFADIAZw]].)*
+
+### Capture the transformation you already produce (reels + ManyChat)
+
+For a service business that produces a visible before/after, Alex's content prescription is
+to **capture the customer journey you already run** and turn it into reels at near-zero
+marginal cost, then automate the ask ([[../../sources/2026-07-18-yt-UCyMn1P4dow]]). Seeing
+8–10 patients/day, a clinic could post 8–10 times/day; even if only 3–4 consent, "that's
+still three or four hundred times more than you're posting right now." Study the accounts
+with the best "veneer game" and copy their **reveal story-arc** (walk-in → reveal) as the
+template. The three-step system: (1) capture the customer journey, (2) post it as reels,
+(3) connect **ManyChat** to DM every new follower an offer to book. One editor handles the
+formulaic volume; content "pairs really nicely with running ads."
+
+> "Customers come in every day… and then they look better afterwards and they smile. We
+> need to capture that process." (verbatim) — [[../../sources/2026-07-18-yt-UCyMn1P4dow]]
+
+---
+
+## The room is your real audience: a recording pitfall and a brand-tone correction (Feb 2026)
+
+Alex's clearest post-mortem on how *who is physically in the room* silently steers content
+([[../../sources/2026-02-11-yt-5OqwZV2huJE]]). Because his delivery is **prompt-driven, not
+scripted** (the same trait as the production OS above), it drifts toward whoever is nodding
+and reacting in front of him.
+
+- **Content drifts to the people in the room.** "The person behind the camera is who I end
+  up talking to, not necessarily like the quote audience." (verbatim) His young-male
+  (20s–30s) camera crew became his **de facto audience**; had the room been, say, five women
+  aged 45+, the content would differ. Their real-time reactions are a live signal — "that's
+  how my content actually just moves while I'm making it" — that decides which topics he
+  expands. (verbatim + paraphrase)
+- **The self-fulfilling brand loop.** Some of that steering was him covertly coaching his
+  own team through the lens ("yelling at my team to pull their heads out of their asses…
+  but I said it to the camera"), which skewed the early content **"hardcore."** The podcast
+  circuit then read that tone as "what Hormozi is about" and asked matching questions, which
+  he answered in kind — "and so that created a self-fulfilling loop." (verbatim)
+- **The fix: engineer a broader room.** He now runs **live streams** specifically to read
+  the chat in real time and diversify who he is addressing; starting over, he would
+  deliberately build a broader in-room audience. (paraphrase)
+
+> ⚠️ EVOLVING POSITION (brand tone). This refines the "hardcore" persona baked into his
+> earlier content: Alex now frames that tone as a **recording artifact**, not an accurate
+> reflection of who he is, and says he will do fewer red-pill/masculinity-adjacent
+> appearances (naming Logan Paul as the type) and "more on the other side." Mechanistically
+> this is the failure mode behind Section 9's **"For us → For you"**: content made for the
+> media team / the room instead of the buyer.
+
+---
+
+## Value-per-second and the on-topic / personal 80/20 (Feb 2026)
+
+Asked how to stand out in a saturated, education-flooded niche, Alex reduces content
+selection to one metric and one ratio ([[../../sources/2026-02-10-yt-rW7sG_Rwpe0]]):
+
+- **Make content for the buyer you want; disregard views/likes.** Pick topics that attract
+  the *specific* buyer, not the biggest crowd. *(Same "For you, not views" thesis as
+  Section 9's edutainment→education and views→revenue shifts — restated as a targeting rule.)*
+- **Maximize the highest value per second.** "If you just double down on what is the
+  absolute highest value per second that you can make for that audience, you will do great."
+  (verbatim) — a compression metric that pairs with the saves metric (the value lives
+  underneath the obvious answer).
+- **Packaging is the ticket of entry, not the substance.** Learn the packaging by format
+  (hooks, visual hooks, pacing) as table stakes, but keep the core "as focused as possible
+  on the thing that the people who are buying your stuff want." (verbatim)
+- **80/20 on-topic vs. personal.** Keep ~80% "straight down the barrel" on-topic; sprinkle
+  in ~20% personal "pixie dust" — but anchor even the philosophy/fitness/relationship
+  content back through a **business lens**. He confirms he would do exactly this starting
+  from scratch today. (paraphrase + verbatim)
+
+---
+
+## The perfect long-form = ~20 proven shorts on one theme (Feb 2026)
+
+The **earliest and most concrete** statement of the "long video is a sequence of tested
+loops" idea that Section 4 later restates (the May 2026
+[[../../sources/2026-05-30-yt-kp68MDBTpWY]] refinement)
+([[../../sources/2026-02-13-yt-hOeC6NRdsa4]]): "the perfect long is 20 shorts put together
+on one single theme." (verbatim) His own execution — his "brutally honest advice" videos
+reliably crack a million views — is to **take his top tweets from the last 30–45 days and
+say them in a row**, each already tested for resonance, each "a little loop" that holds
+retention and widens reach. The harder skill is **scheduling in advance where the shorts
+will be** inside the long — thinking in "60-minute sound bites" yields easier clips *and*
+better longs. *(This is the write-first atomic-unit engine of Section 4 applied to the
+long-form spine, and it predates the May 2026 phrasing already on this page.)*
+
+---
+
 ## Borrowed / credited ideas
 
 Alex is scrupulous about crediting others; these are not his coinages:
@@ -866,6 +1035,12 @@ Alex is scrupulous about crediting others; these are not his coinages:
 - "I start as though I know nothing... and only reason up from first principles."
 - "I want to make this good is not like an outcome you can do, but it is very tactical to remove things that suck."
 - "The biggest one of all is a combination of proof."
+- "So, you make 50 hooks... 50 even times three is going to get you 150 ads."
+- "You lose 80% of people in that first period. So... just put 80% of your effort there and the rest gets really easy."
+- "Organic and paid have more or less merged."
+- "The person behind the camera is who I end up talking to, not necessarily like the quote audience."
+- "Double down on... the absolute highest value per second that you can make for that audience."
+- "The perfect long is 20 shorts put together on one single theme."
 
 ## Related
 

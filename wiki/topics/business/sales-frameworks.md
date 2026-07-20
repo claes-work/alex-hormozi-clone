@@ -2,9 +2,9 @@
 type: topic
 domains: [business]
 created: 2026-07-08
-updated: 2026-07-13
+updated: 2026-07-20
 tags: [sales]
-sources: 31
+sources: 34
 ---
 
 # Sales Frameworks
@@ -880,6 +880,162 @@ interest" — the point-of-sale frame owns post-sale retention, not just the clo
 > you'll be the first ones to get the lower rate." — 2026
 > ([[../../sources/2026-03-17-yt-wOjKcCodC8w]])
 
+### The script-extraction & role-play training loop — "breathe the script," then interrupt
+
+Coaching a lawn-care owner whose one strong rep closes 40–45% but "doesn't follow
+anything," Hormozi lays out his complete, reusable **training pipeline** for turning a star
+rep's tacit skill into a standardized motion any hire can run — the mechanical drill behind
+the standardize-and-scale material above ([[../../sources/2026-02-13-yt-vmjskf0NVlQ]]):
+
+1. **Extract the script by observation.** A top rep who "doesn't follow a script" *is*
+   following one — he just doesn't know what it is; there are specific words in a specific
+   order that get people to buy. Observe him dispassionately — "like a court reporter,"
+   emotionless — recording word choice, order, where the voice rises, where he pauses.
+   **~10 observed conversations capture ~80% of the effective script.**
+2. **Compress it.** Eliminate as many words as humanly possible; star reps "get cute" and
+   add words. When acquisition.com fixes a process they "typically cut the script in half
+   or more" — stripping out **"superstition"** (extra steps kept because they worked once).
+3. **Memorize via word-blackout drill.** Rep reads the script aloud, black out one word,
+   read again, black out another, repeat until the whole page is blacked out. By then he's
+   said the script as many times as it has words and knows it cold — he can **"breathe the
+   script."** Only *then* move to role play.
+4. **Drill with high-interruption role play.** Role-play "until your eyes bleed" — the
+   fastest feedback loop for training any skill. The **worst** way is to let someone deliver
+   the whole script uninterrupted; the **second worst** is saving all feedback for the end
+   (no one remembers it, and it's too late). Tell the rep up front you'll interrupt **~50–60
+   times.** Feedback is immediate — "Hey, stop. Try it like this. Do it again." — the same
+   instant-feedback mechanism that breeds superstition. When he gets it right, **"lock it
+   in"**: repeat it again and again to cement it, so every rep delivers it identically.
+5. **Enforce "the process is above everyone."** Hormozi wants adherence above all — "like
+   the New England Patriots… no one's better than the process" — and frames the script as
+   hard-won so reps buy in. A star who freelances becomes a **"cowboy"/primadonna**, "a
+   cancer long term." He'd rather field a team of **"all eights" on a "10 out of 10
+   process"** than one star with no process; the process-driven team always wins.
+
+Why it matters: sales is highly trainable — an exceptional org "can take almost anyone and
+make them a savage." Standardizing the motion is also **key-man-risk insurance** — the star
+can't leave and take the business, because "the business is the model," not the individual.
+(The owner-must-know-the-sales-process / ownership angle sits on
+[[sales-team-scaling]].)
+
+> "He is following a script. He just doesn't know what it is… If you observe 10 of his
+> conversations, you'll get 80% of them." — 2026 ([[../../sources/2026-02-13-yt-vmjskf0NVlQ]])
+
+> "By the time you blacked out every single word, you've said the script for as many times
+> as there are words in the script and you tend to know it… Once you can breathe the script,
+> then we practice the role playing component." — 2026
+> ([[../../sources/2026-02-13-yt-vmjskf0NVlQ]])
+
+> "Just to be clear, we're going to interrupt you probably like 50 or 60 times by the time
+> you get to the end of it. That's okay." — 2026 ([[../../sources/2026-02-13-yt-vmjskf0NVlQ]])
+
+> "They mess something up, we say, 'Hey, stop. Try it like this. Do it again.' … If they get
+> it right, we say, 'Great. Lock it in.' That means do it again. Do it again. Do it again."
+> — 2026 ([[../../sources/2026-02-13-yt-vmjskf0NVlQ]])
+
+> "We are like the New England Patriots… the process is above everyone. No one's better than
+> the process." — 2026 ([[../../sources/2026-02-13-yt-vmjskf0NVlQ]])
+
+> "I would rather have a team of all eights closing on a 10 out of 10 process. And that team
+> will always outperform a team that has one star and no process." — 2026
+> ([[../../sources/2026-02-13-yt-vmjskf0NVlQ]])
+
+## 17. 2026 outbound conversion levers, speed-to-lead numbers, and the warm-to-cold "microwave"
+
+Two 2026 cuts sharpen the **lead → conversation → booked** layer that sits just ahead of the
+closing frameworks above — the nurture/speed-to-lead mechanics that decide whether a
+prospect ever reaches a close.
+
+### Four levers restated + net-new mechanics (2026-02-14)
+
+A mechanics-dense outbound Q&A that **corroborates §15's four pillars** (Availability, Speed,
+Personalization, Volume) from a *different* data cut, and adds specifics
+([[../../sources/2026-02-14-yt-ER3Lpud8JcU]]):
+
+- **Speed has two components, not one:** (a) **speed-to-contact** (how fast you first reach
+  a new lead) and (b) **speed-of-response** in the ongoing back-and-forth — replying in a
+  minute vs. a day lifts both overall response *and* show rates. It's the in-between
+  exchanges, not just the first touch. *(§15 lists "Speed" as one undivided pillar; this
+  splits it.)*
+- **Availability was the #1 correlation with shows** across the ALAN data (his data-science
+  team running **4,000+ appointments/day**) — at the extreme, zero availability = zero
+  appointments, so almost nothing else zeroes out shows so cleanly. A shop selling only
+  **Mon–Thu afternoons** is "leaving a 4x on the table" — it could ~**4x** its sales by
+  being available roughly **7 days/week, ~12 hours/day**; the constraint is staffing.
+  Diminishing returns exist but land far further out than people expect.
+- **Personalization is where AI is huge** — e.g. **personal VSLs**, "a pitch that I made
+  just for you" — a temporary AI **arbitrage window** (like early-TikTok attention
+  arbitrage) that audiences will grow "banner blind" to over time. AI is *not* mandatory,
+  though — it just buys better margins and leverage.
+- **Reframe — "everyone has the same tools now" is false.** People have always had the same
+  tools; they just improve in a predator/prey cat-and-mouse cycle. **Execution and volume**
+  still separate winners, because most people do nothing.
+
+> ⚠️ NOT a contradiction (corroboration): §15 sources the four pillars and "availability is
+> the biggest lever" to ~1M rows of ALAN appointment data from **COVID-2020**; this 2026
+> clip sources the same conclusion to ALAN running **4,000+ appointments/day**. Same system,
+> two framings, same verdict — availability outranks speed. Treat as independent
+> confirmation, not a competing claim.
+
+> "The number one correlation… was max availability. Because if you think about the other
+> extreme, if you have zero availability, you will have no appointments." — 2026
+> ([[../../sources/2026-02-14-yt-ER3Lpud8JcU]])
+
+> "That company is probably leaving a 4x on the table. They could 4x their sales by simply
+> being available seven days a week, like 12 hours a day." — 2026
+> ([[../../sources/2026-02-14-yt-ER3Lpud8JcU]])
+
+> "Now you can have personal sales letters today… Like a pitch that I made just for you."
+> — 2026 ([[../../sources/2026-02-14-yt-ER3Lpud8JcU]])
+
+> "All we're trying to do is maximize the percentage of people who see a message who are
+> qualified. That's it." — 2026 ([[../../sources/2026-02-14-yt-ER3Lpud8JcU]])
+
+### Speed-to-lead numbers, the fix-order, and the "microwave" (2026-07-17)
+
+From an MSP-scaling coaching Q&A, concrete numbers and a sequencing rule that extend the
+"Speed" lever and §9's cold-first process ([[../../sources/2026-07-17-yt-0d7JlGtlsVs]]):
+
+- **Speed-to-lead is the dominant variable in PPC:** **double-dial + text within 60 seconds**
+  or lose to a competitor; **Meta allows ~5 minutes.** Explicitly extended to home-services
+  businesses. *(Concrete numbers behind §15's Speed pillar.)*
+- **PPC vs. social trade-off:** PPC is easier to start (less creative, warmer leads) but
+  lead costs are higher, so it demands a more dialed-in sales motion; it **channels demand
+  that already exists.** Social "sells in a vacuum" — it **creates** demand for things
+  nobody wakes up wanting (e.g. IT services).
+- **Fix-order for scaling: offer → sales motion → traffic** ("That'll be the order"). Fix
+  the offer first, then the motion, then pour on traffic — not the reverse.
+- **Warm offers die on cold traffic; scaling = converting a warm acquisition motion into a
+  cold one.** A "just buy our stuff" offer only works on people who already know you or know
+  a buyer. Most referral- and content-based businesses stall on cold not because the channel
+  failed but because they're running the **wrong motion for the traffic.**
+- **The "microwave" (counterintuitive):** to warm cold traffic you *add* steps and friction
+  to the sales process — "build a microwave to turn your cold into hot," then run the motion.
+  (Same spirit as §9's **good friction** — deliberate steps that build belief/heat before
+  the close.)
+- **Founder-must-sell:** "if you cannot collect money, you do not have a business"; he
+  **never outsources acquisition** (traffic, conversion, delivery), only legal/accounting/
+  insurance. The founder **always closes better** than a hire — more conviction (ties §4),
+  more knowledge, more ability to improvise. Hiring rule: **"new process, old person"** —
+  dial the process yourself until it's proven, *then* add the new hire. (Ownership/key-man
+  angle overlaps [[sales-team-scaling]].)
+
+> "With PPC — and this goes for everybody, especially the home services guys — the speed to
+> lead matters more than anything… You have to double dial [and] text within 60 seconds…
+> Meta, you can get away with about 5 minutes." — 2026
+> ([[../../sources/2026-07-17-yt-0d7JlGtlsVs]])
+
+> "Basically, the way we're going to fix this is offer, sales motion, traffic. That'll be
+> the order." — 2026 ([[../../sources/2026-07-17-yt-0d7JlGtlsVs]])
+
+> "You need to build a microwave to turn your cold into hot… you have to put more friction to
+> make the heat. It's counterintuitive — you end up actually adding steps to your sales
+> process with cold to make it warm." — 2026 ([[../../sources/2026-07-17-yt-0d7JlGtlsVs]])
+
+> "You will always close better than anyone else. Because you'll be more convicted, and
+> you'll have more knowledge. So you have two massive advantages over any salesperson."
+> — 2026 ([[../../sources/2026-07-17-yt-0d7JlGtlsVs]])
+
 ## Related pages
 
 - Hub: [[business]]
@@ -943,3 +1099,10 @@ interest" — the point-of-sale frame owns post-sale retention, not just the clo
   graduated to; distinct commission; funnel to one savage closer (2026)
 - [[../../sources/2026-03-17-yt-wOjKcCodC8w]] — cancellation is a sales problem; set the true
   timeline at point of sale and frame the wait as a benefit (2026)
+- [[../../sources/2026-02-13-yt-vmjskf0NVlQ]] — script-extraction & role-play training loop:
+  observe → compress → word-blackout "breathe the script" → high-interruption drill;
+  "process above everyone" (2026)
+- [[../../sources/2026-02-14-yt-ER3Lpud8JcU]] — four outbound conversion levers; speed's two
+  components; availability = #1 show correlation (4x); personal-VSL AI arbitrage (2026)
+- [[../../sources/2026-07-17-yt-0d7JlGtlsVs]] — speed-to-lead numbers (60s PPC / ~5min Meta);
+  offer→sales-motion→traffic fix-order; warm-to-cold "microwave" (2026)

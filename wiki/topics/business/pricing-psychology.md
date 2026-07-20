@@ -495,6 +495,204 @@ running: **percentage off** ("40% off"), **absolute amount off** ("$200 off"), *
 equivalent** ("that's like getting X free"), or **simply the discounted price** (state the new
 number, no reference to the old one).
 
+## The "perfect price" = maximum willingness-to-pay, on a units×margin curve (2026-07-19)
+
+Source: [[../../sources/2026-07-19-yt-GT8lQuAfzVw]] (solo coaching answer, "How much should I actually charge?").
+
+**Three wrong ways to price — all are about you, not the buyer.** (1) Average what everyone
+else charges — this "guarantees you are a commodity in a commoditized marketplace"; (2) charge
+slightly less for slightly more than average — worse; (3) cost-plus markup (cost × a fixed
+margin) — better because you at least considered margin, but still flawed because it is anchored
+on *your* cost, not the customer's willingness to pay.
+
+> "It's about the customer. It's about what they're willing to pay, not what you're willing to
+> charge." *(verbatim)*
+
+**The perfect price is the maximum a customer is willing *and able* to spend.**
+
+> "The perfect price is one that a customer will buy that is the maximum that they're able to
+> spend." *(verbatim)*
+
+**Willingness to pay moves three ways**, so there is no single right number: (1) *within one
+customer over time* — diminishing marginal value (a first post-skiing beer worth $7, the second
+$3, the third $1, eventually none at any price); (2) *across the changing nature of the
+deliverable* — "the reason people buy is not always the reason people stay" (joined to lose
+weight, stayed for the friends); (3) *between customers* — the same $2,000 offer is trivial to a
+rich buyer and impossible for a poor one though the service is identical, so the poor buyer
+simply isn't the fit.
+
+**Front-load price where value and pain are highest.** Because marginal value peaks at the start
+— when the customer has the most pain and is most deprived of the outcome — Alex favors
+non-linear pricing: onboarding / upfront charges (which also offset CAC). His gym breakthrough:
+instead of selling a hard-won lead a free trial, charge **$500 / $2,000 / $5,000 on the first
+transaction** and a cheaper ongoing rate, because join-day is peak pain and peak motivation.
+
+> "This moment is the maximum moment where I can charge." *(verbatim)*
+
+(This is the value-timing logic *underneath* the setup/onboarding fees noted in "Giant jumps"
+above; the CAC-offset arithmetic lives on [[business-math]].)
+
+**The profit objective is a curve, not a point: units × gross margin.**
+
+> "if you want the formula, it's number of units sold times gross margin." *(verbatim)*
+
+Two prices on either side of the curve yield the *same* total profit (many cheap units, or few
+expensive ones), so pricing is a zone that shifts with the market — and the revenue-maximizing
+price sits *between* the extremes, not at the top of willingness-to-pay (pricing the beer at $3
+beats pricing it at $7).
+
+**Be the premium price leader in human-delivered services.** If 10 customers make the same money
+as 100, the 10-customer business is far easier to scale — and once you *can* service 100, you're
+already 10x bigger in absolute profit with more ad-spend capacity.
+
+> "If you make the same money serving 10 customers as 100 customers, wouldn't it be nicer to
+> scale the 10 customer business?" *(verbatim)*
+
+**Tiers span the customer "fractal" — reach up *and* down.** No offer has a perfect price without
+a real-time market function (Uber surge), so tiers of service signal to each customer type that
+"this is for them." Citing his "51-1 rule" video on the fractal nature of customers (of $100 of
+US wealth, the bottom 50% holds ~$2.70 while the top 1% holds roughly 11–13x that — *Alex-
+presented figures, not independently verified*), he argues tiered offers should reach up and down
+the wealth spectrum to extract the most revenue from an existing audience.
+
+> "You go where the money is and service those customers because they will give some of it to
+> you." *(verbatim)*
+
+The dominant mistake: **"they do not go high enough and they do not go low enough"** — and
+bumping a tier from your own wallet ($129→$149/mo) just re-targets the same buyer. Start from the
+price and work backwards.
+
+> "I start with the price and then I work backwards." *(verbatim)*
+
+**Tier-doubling math.** His target: every tier should **double the core's overall revenue**.
+Because most upsells land at 20–30% uptake, a tier priced ~5x the base (then *built* to be worth
+5x) roughly doubles total revenue.
+
+> "I typically like to make sure that every offer tier doubles my revenue overall of my core."
+> *(verbatim)*
+
+(This supplies the explicit revenue-doubling rationale behind the 5–10x rungs already described
+in "Giant jumps," above.)
+
+## Does price cause churn? Judge price through EPC, not churn in isolation (2026-02-12)
+
+Source: [[../../sources/2026-02-12-yt-jtDzaRZTT5w]] ("Does Pricing Affect Churn?").
+
+**Churn is not *caused* by price.** Asked whether a $47/mo tier churns harder than a $3,000/mo
+tier, Alex says no — the correlation he *has* observed (higher price → higher churn) comes from
+two *other* variables: failing to match value to price, and failing to qualify who is allowed to
+buy.
+
+> "the higher the price the churn is higher and I think that's not because of the price... it's
+> because people do not appropriately match the value a and b the qualification of the prospect
+> who should be able to buy that thing" *(verbatim)*
+
+**The price-to-value discrepancy.** At very low prices, *unused* value is effectively **zero**
+(the customer never uses it); at very high prices a well-qualified, engaged buyer can get many
+multiples of the price back. Price and realized value are different axes.
+
+**Cutting price to reduce churn is the wrong question — LTV is king, not churn.** Lower price and
+hold all else constant and churn will almost certainly fall — but that's irrelevant unless you
+make more money overall (a 50% cut that only trims churn 20% is a bad trade).
+
+> "it's not even necessarily thinking about... make churn king... really is LTV is king."
+> *(verbatim)*
+
+**Everything rolls up into earnings per click (EPC).** Every pricing/churn/conversion lever feeds
+one "box" a click falls into; optimize the whole box, not one metric inside it. A price *cut*
+that worsens churn can still win if it lifts conversion enough ($100→$50 with 20% worse churn
+still wins if conversion doubles).
+
+> "everything is going to come down to earnings per click... you just want to make sure that
+> every input that goes into that box is worth as much as possible." *(verbatim)*
+
+**The price-response curve is flatter than people assume**, and marginal price tweaks don't drive
+order-of-magnitude growth: a 50% price increase can carry a ~40% conversion drop; an operator
+moving $1,250→$1,350 may capture ~+2%, not the full +8%. What produces 10x is **offer quality**
+priced to the buyer's qualification, not fine-tuning price.
+
+> "the big thing is like how good is the food?... if the food is good and you're priced
+> appropriately for the qualification of the prospect you have, you're going to make a lot of
+> money." *(verbatim)*
+
+This nuances the page's raise-price bias: raising price is high-leverage on the *bottom line*,
+but price is neither the churn knob nor the growth knob — value-match and qualification are.
+
+## Barbell pricing & the psychology against the bottom of the market (2026-02-14)
+
+Source: [[../../sources/2026-02-14-yt-doUE69BCmMk]] ("How I Think About Pricing"). The barbell
+itself is applied to agencies under "the SMB/agency pricing barbell" above; the net-new material
+here is the general statement and the *customer-psychology* case against the bottom.
+
+**Sell expensive to a few, or cheap to everyone — decided by scalability, not product.**
+
+> "either sell extremely expensive to a select few or something super cheap to everyone. The
+> middle is where people die." *(verbatim)*
+
+If the offer needs humans (not scalable), price at the **highest gross margins** and sell
+up-market; serving the mass market requires a truly scalable product with near-zero incremental
+cost (and usually large capital), so a service provider goes up-market *first* and descends only
+after retention and near-zero marginal cost exist.
+
+**The psychological case against the bottom.** For low-money buyers a small price is a large share
+of income/savings, so they carry **the expectations of someone handing over their life savings** —
+almost nothing satisfies them, and serving them drains reputation and team morale.
+
+> "They will have the expectations of someone who gives you their life savings. And so there's
+> almost nothing that can satisfy." *(verbatim)*
+
+His expectation-management preference is the mirror image: **set expectations at zero and
+pleasantly surprise**, rather than promise the world and under-deliver.
+
+> "I would prefer to set my expectations at zero and then... pleasantly surprised rather than
+> promise the world and never be able to fulfill." *(verbatim)*
+
+(This is the psychology behind "avoid the bottom" in the Tesla-roadmap section above; the
+10x-pricing point — "you might as well get paid 10 times as much... they just don't know you
+exist" — is already covered there.)
+
+## "Low price is a feature" on a front end (2026-07-17)
+
+Source: [[../../sources/2026-07-17-yt-CWK1kQTWagM]] (coaching an AI-consultant with too many small
+offers — "You have a model issue").
+
+Alex pushes the **front-end price *down*, deliberately**: to make her boot camp better, charge
+~**$97, not $997**. When she objects that she'd charge $1,000, he explains a low front-end price
+is an *asset*, because monetization happens on the back end (upsell into a ~$4–5k/yr platform,
+priced against the buyer's own unit economics — for coaches, $4k ≈ one client).
+
+> "I see it as a feature, though. So, my goal is to get the prices low as possible to get the most
+> people to show up, so that I can sell them on the back." *(verbatim)*
+
+This operationalizes the "cheap-to-everyone" arm of the barbell as a front end: the low ticket is
+not a margin concession but a *volume mechanism* feeding a high-margin back end (see
+[[upsell-offers]] · [[attraction-offers]]).
+
+## Defend a premium price; move the growth lever off price (2026-07-19)
+
+Source: [[../../sources/2026-07-19-yt-ZgrmWfnJnhA]] (coaching a premium resort-wear brand, ~$4.5M/yr;
+bikinis $200–400 on ~$30–40 cost, considering *lowering* price to reach a broader avatar).
+
+Alex says no — but notably he also does **not** tell her to raise. He moves the growth lever off
+price entirely and onto **repeat purchase** (30% → 65%), which compounds into referrals, lower
+blended CAC, and expansion into colder markets (the Gymshark mechanism).
+
+> "I don't think you should lower your price." *(verbatim)*
+
+**Premium price is audience-relative — match luxury-coded faces.** A premium price reads as a
+*complaint* to a mass audience but a *bargain* to a luxury one, so associate the brand with
+luxury-coded influencers rather than mass-market ones.
+
+> "if you go on Carnival Cruise and put a $200 bikini, they're going to say... put in jail. But if
+> you do it at Aspen, they'll be like, oh my god, it's half off." *(verbatim)*
+
+> ⚠️ SOFT NUANCE (not a reversal). Alex is publicly the "raise your prices" persona, yet here he
+> neither raises nor cuts: for an *already-premium* brand at healthy margins, price is treated as
+> already correct and the binding constraint becomes retention/brand, not price. This is consistent
+> with the luxury inversion and "charge what it's worth" — the refinement is that once price is
+> right, the next lever is repeat-purchase, not a further price move. (Retention mechanics live on
+> [[retention]]; positioning on [[sales-frameworks]].)
+
 ## See also
 
 - [[business-math]] — the quantitative counterpart (margins, unit economics, take-home math)

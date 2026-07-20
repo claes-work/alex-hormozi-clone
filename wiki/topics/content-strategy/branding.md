@@ -3,9 +3,9 @@ type: topic
 domain: content-strategy
 domains: [content-strategy, marketing, business]
 created: 2026-07-08
-updated: 2026-07-19
-sources: 22
-tags: [branding, associations, positioning, direct-response, give-give-give, pricing-power, flywheel, arbitrage, moats, ecommerce, value-equation, goodwill, influence, reinforcement, differentiation, authenticity, mosaic, thumbprint]
+updated: 2026-07-20
+sources: 23
+tags: [branding, associations, positioning, direct-response, give-give-give, pricing-power, flywheel, arbitrage, moats, ecommerce, value-equation, goodwill, influence, reinforcement, differentiation, authenticity, mosaic, thumbprint, teaching-at-scale, reputation, promise-nothing-deliver-a-ton]
 ---
 
 # Hormozi's Branding Framework
@@ -686,6 +686,98 @@ brick" evolution and the [[content-engine]] anti-brand "180-degree flip.")
 > dated by its publication date, 2026-02-17. "Never dilute yourself" is Alex quoting **Leila** (context
 > person). Business claims ("zero to billion") are self-reported.
 
+## 15. Choosing which associations to accept — the personal-brand selection discipline (2026)
+
+**February 2026 — applying the framework to himself.** In a MoreMozi clip prompted by his appearance
+on Logan Paul's podcast, Hormozi is asked how he decides who to associate his *personal* brand with,
+and turns the branding theory of §1/§3 onto his own choices ([[../../sources/2026-02-11-yt-ZkFsb_hxWIs]]).
+He restates the core definition — brand is "the association we make between two things through an
+outcome" (the same pairing-through-outcome of §1) — and the `reach × influence × direction` triad of
+§3, then uses them as a decision rule for which appearances and stages to accept.
+
+### Branding is "teaching at scale"
+
+New framing of the §1 mechanism: you place a thing people **don't** know next to a thing they **do**
+know, positive associations transfer, and eventually the known anchor is no longer needed — the same
+process by which a child learns to attach the sound "tree" to the object. (Complements the §1
+"Learning means same condition, new behavior" line — branding as the teaching side of that learning.)
+
+> "You put thing you don't know next to thing you do know. If you have positive associations, these
+> positive associations transfer until eventually you don't need to have this thing anymore."
+> — [[../../sources/2026-02-11-yt-ZkFsb_hxWIs]]
+
+> "That's what branding is fundamentally. It's teaching at scale." — [[../../sources/2026-02-11-yt-ZkFsb_hxWIs]]
+
+### Judge every association by the net (with a new influence-vs-reach example)
+
+Any brand change loses some people and gains others; good branding **nets more than it loses** — the
+same net rule as §3's "don't let five mean comments stop you from gaining the 500 new people." New
+illustration for the reach/influence/direction triad: **parents** are the extreme of *very high
+influence over very small reach* (the inverse of a mass-reach / low-influence brand).
+
+> "Parents have super strong brand for you for very tiny reach." — [[../../sources/2026-02-11-yt-ZkFsb_hxWIs]]
+
+His operational test for accepting an appearance (paraphrase): *will it cost me audience, will it
+expose me to people not previously introduced to me, and will I net more than I lose?* For Logan Paul
+he judged the answer favorable — reach into people who'd never heard of him, plus a chance to show a
+less-philosophical side than his many Chris Williamson / Modern Wisdom appearances imply. But
+**positioning still overrides reach**: being introduced to an audience by comparison to a "scumbag"
+would be a bad move regardless of how large that audience is.
+
+### Avoiding involuntary associations — the "incestuous" speaking circuit
+
+Because associations attach whether or not you want them, he **declines to headline others' stages**,
+mainly to avoid being paired with the other speakers. He calls the speaking world "incestuous" and
+notes his business is far larger than nearly everyone on that circuit, so the pairing would be an
+unwanted one he cannot opt out of once he is on the bill. (This is the §2 "pull the weeds" discipline
+run *pre-emptively* — refusing the pairing rather than pruning it later.)
+
+> "I don't headline really anyone's stuff. And that's mostly because I don't want to associate with
+> the other speakers." — [[../../sources/2026-02-11-yt-ZkFsb_hxWIs]]
+
+### The biggest brand risk is self-inflicted: say-do violation
+
+The thing most likely to cost him audience is **not** any specific association but **acting against
+the values he claims to hold** — an echo of the credibility = say-do-correspondence definition in §4
+and the "courage to be yourself" of §14. His strongest *positive* move is therefore the simplest one:
+keep being himself and deliver on what he says.
+
+> "If I do things or say things that are against the values that I supposedly have, then that would
+> lose me more than anything else does." — [[../../sources/2026-02-11-yt-ZkFsb_hxWIs]]
+
+> "The strongest branding move I can do is continue to do things as myself and achieve things that I
+> say that I will do." — [[../../sources/2026-02-11-yt-ZkFsb_hxWIs]]
+
+### Reputation: "promise nothing, deliver a ton"
+
+For *preserving reputation* (as distinct from making the sale) he offers the **inverse of marketing**:
+promise nothing and over-deliver. No one resents Harvard, he argues, because Harvard promises nothing.
+The catch is that it is hard to *sell* that way — which is precisely why branding matters.
+
+> "The idea is kind of the opposite of marketing if you want to maintain reputation, which is promise
+> nothing, deliver a ton. It's just hard to sell that way, right? And that's why branding is
+> important." — [[../../sources/2026-02-11-yt-ZkFsb_hxWIs]]
+
+> ⚠️ TENSION (not a contradiction): "**promise nothing, deliver a ton**" (2026,
+> [[../../sources/2026-02-11-yt-ZkFsb_hxWIs]]) sits against the local-business rule "**Make promises,
+> keep promises**" of §8 (2023, [[../../sources/2023-06-07-yt-LGq0uVspNms]]). Reconciling view: both
+> forbid overselling. "Make promises, keep promises" is the *sales-necessary floor* — a local business
+> must promise something to win the first customer, then must keep it; "promise nothing, deliver a
+> ton" is the *reputation-maximizing ceiling* — safest for trust, hardest to sell, and only affordable
+> once the brand does the selling for you.
+
+### Credibility in "alternative education": the problem is lying
+
+Coaching, courses, and helping people are fine in themselves; what corrodes credibility in the
+direct-response / education world is that **people lie** — about credentials, about results, and by
+omission through unrealistic claims and expectations. Worked example (numbers self-reported, some
+possibly caption-garbled): someone who builds a $100M-in-sales business over 12 years at 20% margins
+($20M profit), loses half to taxes, lives off some, and actually holds ~$4M should not be calling
+themselves a "centimillionaire."
+
+> "There's nothing wrong with coaching. There's nothing wrong with helping people. There's nothing
+> wrong with making courses. The problem is that people lie." — [[../../sources/2026-02-11-yt-ZkFsb_hxWIs]]
+
 ## Borrowed / credited ideas
 
 - **"Jab, jab, jab, right hook"** — Gary Vaynerchuk ([[../../sources/2024-02-12-yt-z8WPl1v39P8]]).
@@ -730,6 +822,11 @@ brick" evolution and the [[content-engine]] anti-brand "180-degree flip.")
 - "The vast majority of products and services are commoditized... you probably aren't [better], but you will be different." (§14, Feb 2026)
 - "Never dilute yourself." (§14, Feb 2026 — Alex quoting Leila)
 - "Each piece of content is a little tile that has a single color on it... if you see a thousand of them, you get to see the whole picture." (§14, Feb 2026)
+- "That's what branding is fundamentally. It's teaching at scale." (§15, Feb 2026)
+- "Parents have super strong brand for you for very tiny reach." (§15, Feb 2026)
+- "The strongest branding move I can do is continue to do things as myself and achieve things that I say that I will do." (§15, Feb 2026)
+- "Promise nothing, deliver a ton." (§15, Feb 2026)
+- "The problem is that people lie." (§15, Feb 2026)
 
 ## Related
 

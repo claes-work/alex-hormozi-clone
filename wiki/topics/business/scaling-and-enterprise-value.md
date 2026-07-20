@@ -3,8 +3,8 @@ type: topic
 domain: business
 domains: [business, wealth]
 created: 2026-07-08
-updated: 2026-07-19
-sources: 59
+updated: 2026-07-20
+sources: 66
 tags: [scaling, enterprise-value]
 ---
 
@@ -1310,6 +1310,206 @@ profitable thing you can do is wait") [[../../sources/2026-02-17-yt-7nxtW0pRvpo]
   > "I have a document that's called Alex's big list of ideas... and then I keep living my
   > life. And then when I finally see the team looks like they have smiles on their faces...
   > then I pull back out my big list of ideas."
+
+---
+
+## 17. February 2026 refinements (part 4): exit timing, wind-down, sellability, equity-vs-cashflow
+
+Three late-February 2026 MoreMozi coaching clips clustered around **exit and
+sellability**. In coachings only Alex-attributed material is persona data; caller
+figures are self-reported and unverified.
+
+- **Save monetization levers, then juice ~6 months before a sale (2026-02-11).** Coaching
+  a founder whose thriving 3PL was "at the brink of breaking from growth," Alex counsels
+  *against* pulling new monetization levers now: **most levers only improve with time, so
+  don't spend one just because you can** — add urgency to a lever only if the opportunity
+  itself is about to disappear. The optimal moment to activate saved levers is **inside a
+  sales process**: juice the business ~6 months before the sale so acquirers see a
+  skyrocketing trajectory and "want to catch it before it gets too big." (When a business
+  is already breaking from growth, fix the operating constraints one by one first, rather
+  than stacking new profit levers on top.) [[../../sources/2026-02-11-yt-xsyFueNR8Qg]]
+  (Adds an explicit **exit-timing** mechanic to the EV/sellability material; complements
+  §8's "cash-flow story with a trend" and §5b(8).)
+  > "Just because you can pull a lever doesn't mean you should."
+  > "The vast majority of monetization levers that are available in most businesses only
+  > get better with time, not worse."
+  > "The best time to do it is when you're in a sales process. So save that thing, juice it
+  > six months before the sale, they're going to see it skyrocketing. They want to catch it
+  > before it gets too big."
+
+- **E-commerce sells brands, not media arbitrage (2026-02-11).** Same clip. Alex reframes
+  a stalled 9-year wellness ecom (scaled on Meta ads, now ~zero profit) as **a media-
+  arbitrage business that has lost its arbitrage** — and **the only sellable thing in
+  e-commerce is a brand** (a spokesperson, named collaborations), which this owner never
+  built ("just ads on products they picked"). His verdict is a **"full green light to wind
+  it down"** rather than waste time chasing an acquisition that won't come; redeploy the
+  marketing/sales skills — and the "two or three genuinely great people" — into the
+  stronger venture. [[../../sources/2026-02-11-yt-xsyFueNR8Qg]] (A **category-specific
+  sellability rule** that sharpens §9d/§12's "the category doesn't make you sellable, the
+  economics do"; the wind-down-as-legitimate-exit thread continues in §18 below.)
+  > "You have a media arbitrage business and you no longer have the arbitrage."
+  > "The only thing that's sellable in e-commerce is going to be a brand. No one buys media
+  > arbitrage."
+
+- **Sellability is a property of the economics, not the category (2026-02-13).** Asked
+  whether a "school group" (community/course platform) can be a sellable asset, Alex says
+  it has **nothing to do with the platform and everything to do with the economics that
+  underpin the revenue**. His compact **sellability checklist**: **~80% annual retention +
+  high gross margins + multiple acquisition channels + not owner-reliant = "absolutely a
+  sellable business,"** in any category. [[../../sources/2026-02-13-yt-9vyekbNR3Zk]] (The
+  tight, dated restatement of §5b's ten criteria and §9d's "EV is a bundle of
+  characteristics"; the genuinely-new bits are the **~80% retention benchmark** and the
+  dry-cleaner framing.)
+  > "The guy who has 80% annual retention on his customers and has super high gross margins
+  > and multiple acquisition channels... and it's not relying on him or her. That is
+  > absolutely a sellable business."
+  > "It's like saying is a dry cleaner sellable? Well, good ones are and bad ones aren't."
+
+- **Equity vs. cash-flow deal reduces to timeline; on the equity path only exit value
+  matters (2026-02-11).** Coaching a 45%-owner of a D2D pest-control branch weighing
+  keeping his equity+ops stake vs. switching to a pure marketing/sales deal to own his own
+  companies later, Alex calls it a **"happy to glad" problem** that **reduces almost
+  entirely to timeline: shorter timeline favors staying equity; longer timeline favors
+  owning your own.** On the equity path the **per-customer cash flow is a distraction —
+  only exit value matters, because "most of those businesses basically eat cash until you
+  sell"** (every new branch goes negative on opening — "that's the whole game"). Exit math:
+  these carry good multiples (**"just pencil a 10 in"**); **five stores at ~$1.5–2M EBITDA
+  each ≈ $10M EBITDA × 10x ≈ a $100M exit** (45% ≈ $45M), taxed at favorable **long-term
+  cap-gains ~20%** (netting "high 30s" percent). Non-negotiable partner mechanic: **get
+  written sell-trigger alignment up front** ("if we get an offer above X, we take it") —
+  most partners asked if they'd sell at a $100M offer say yes, so paper it and sprint.
+  [[../../sources/2026-02-11-yt-mDPxjhn2k9Q]] (Extends §14's "cash flow vs. enterprise value
+  is a level question" with the **eats-cash-until-you-sell** mechanics of a multi-unit
+  roll-up and a concrete exit-math + written-sell-trigger playbook that complements §12's
+  "agree all rights up front.")
+  > "It's the only thing that's going to matter on the 45% equity one is the exit value.
+  > Like most of those businesses basically eat cash until you sell."
+  > "Basically once you get five stores... you basically cobble together 10 million, you've
+  > got a $100 million exit right there."
+  > "On a shorter timeline, it makes more sense to just go equity. On a longer timeline, it
+  > makes sense to own your own."
+
+---
+
+## 18. July 2026 refinements: the tech-enabled-service multiple, front-end roll-up, and wind-down economics
+
+Four July 2026 MoreMozi coaching clips — the current frontier. In coachings only
+Alex-attributed material is persona data; caller figures are self-reported and unverified.
+
+- **The tech-enabled-service multiple — keep the tooling proprietary (2026-07-18).**
+  Coaching a $24M/$60M-run-rate immigration law firm that wanted to spin its internal
+  software out and sell it to other firms, Alex answers **"Don't start a software
+  company."** Services naturally become tech-enabled over time to **expand the service
+  ratio** (one person serving ~100 customers instead of ~10, which dramatically lifts
+  margin) — but selling that tooling (especially to competitors) is a mistake. True SaaS is
+  "a different animal" and its multiples are unreachable anyway (you won't "burn your
+  business to the ground"). Instead capture the **multiples ladder**: plain service
+  revenue/EBITDA multiples **< tech-enabled service ("13, 15, 18 times bottom line") <**
+  true SaaS. **Keep the software proprietary as a moat** — the alpha is the **enterprise-
+  value lift from *having* the tools, not from selling them** — drive more EBITDA than
+  everyone else and force competitors to copy your software to copy you.
+  [[../../sources/2026-07-18-yt-zpLNb5wUVPs]] (A concrete **multiples data point** and a
+  "moat-not-product" rule that sharpen §12's "software doesn't make you sellable — the
+  *economics* software can have do" and §9d's "EV is a bundle of characteristics." The
+  clip's focus/constraint-avoidance angle — starting a new business rather than dealing
+  with the constraint — is the same "do more, not new" already in §10/§13; not re-expanded
+  here.)
+  > "Don't start a software company."
+  > "You have tech-enabled service, which sometimes can get 13, 15, 18 times bottom line.
+  > And then you have true SaaS multiples, which you're just not going to have anyways cuz
+  > you're not going to burn your business to the ground."
+  > "Just keep using it to maintain and multiply your competitive advantage... You drive
+  > more EBITDA than everyone else does, and for them to copy you, they have to copy your
+  > software."
+
+- **Roll-ups: buy the front end, not the back end — and the brand-portfolio play
+  (2026-07-19).** Coaching a veteran-claims firm at $55M (→$100M contracted) that already
+  owns ~40% of its Australian market on a no-win-no-fee model (~$20K LTV, ~$350K government
+  payout — "great slam offer... 350 grand over two years, do nothing"), Alex names two
+  growth levers — **take more market share or go adjacent** — and gives an acquisition
+  razor: **buy competitors' FRONT END (their marketing/sales team, the thing they beat you
+  on), not their back end, and plug it into your own superior delivery.** This works
+  *specifically because* the firm's back-end delivery scales cheaply, so acquired demand
+  routes into existing rails. He favors a **portfolio of brands under one parent** (like
+  news companies): keep each acquired front end targeting its own sub-segment/avatar,
+  "powered by" short term, swallowed into the parent long term. Choose an **adjacent
+  vertical that shares the same structural/payback components** (here: a single government
+  payer where the client "just has to file the papers the right way"). Decision rule:
+  **optimize for the path of least change** — if a new avatar is merely swapping the
+  avatar in the ads inside the existing system, that beats onboarding a whole company.
+  **Monopoly appetite:** going 40%→60% share is hard, but owning 60% also makes you very
+  hard to compete against — a dominant, monopoly-like position (the $1B target itself is
+  "100% arbitrary"). Don't run both plays (acquire share *and* build the adjacency) at
+  once — pick one. [[../../sources/2026-07-19-yt-zd4iRzbTeUs]] (The **buy-the-front-end**
+  tactic and **adjacency-by-shared-payback-structure** rule are new; "path of least change"
+  sharpens §11's avatar heuristic "what does it change about my day-to-day?" and the
+  monopoly framing reinforces §11's "monopolistic levers / take the oxygen out of the
+  room.")
+  > "So what I would think about is... I'd buy their front end." / "Buy the stuff they're
+  > beating you on."
+  > "There's an underrated amount of value to owning different brands that all are like many
+  > news companies... owned by the same parent company."
+  > "You're either going to go adjacent or you take over market share." / "I would optimize
+  > for the path of least to change."
+
+  > ⚠️ CONTRADICTION (scope-dependent, not a reversal): In
+  > [[../../sources/2026-03-29-yt-n0Rw4KT6boI|the March 2026 home-services roll-up]] (§8b)
+  > Hormozi calls **single-brand consolidation** — rebranding acquisitions under one brand —
+  > "the big play" that earns a valuation premium. Here (2026-07-19) he prizes a **portfolio
+  > of distinct brands** under one parent. These reconcile by **what the acquired front ends
+  > serve**: §8b rolls up *same-service local competitors* (dog-waste removal) where one
+  > brand adds recognition; this clip keeps brands separate because each front end appeals to
+  > a *different avatar/sub-segment*. Same goal (buy demand, run it on shared delivery),
+  > opposite branding call driven by avatar overlap.
+
+- **Grand-opening speed premium + the manager profit-share benchmark (2026-07-17).**
+  Coaching a music-lesson owner making "the jump from one location to two," Alex first
+  reverses the premise (**don't open the second until the first is really profitable — "it's
+  only going to get less profitable"**; "nail it then scale it," restating §8/§12). The
+  genuinely-new mechanics: (1) the **speed premium** — demand that would cost **~$10k
+  acquired over a year costs ~$30k compressed into 30 days**; budget that into the grand-
+  opening spend and the new-location return-on-capital calc, which yields a **predictable
+  week (6, 12…) at which the location turns profitable**; and (2) the **manager comp
+  benchmark** — every **corporate-owned (non-franchise) service business he's aware of runs
+  a 10–20% profit share** for the on-site manager ("a boot on the ground who acts like an
+  owner"): **~10% if they get a base, up to 20% if lucrative, and the seat only works if the
+  manager clears six figures a year.** He also singles out an **"insane grand-opening SOP"**
+  as the one common denominator of every very successful local chain (Gym Launch's edge was
+  "filling up locations in 30 days"). [[../../sources/2026-07-17-yt-WUdxhnBNzbo]] (The speed
+  premium is the local-expansion instance of §6's "you pay for growth in profit or in growth
+  rate"; the **10–20% / six-figure profit-share benchmark** is the *general market* figure
+  that contrasts with §12's specific "cell phone talk" operator template of ~$100k + 5–10%
+  vested profit + ~10% EBITDA at sale.)
+  > "Every corporate-owned service business that I'm aware of has a 10 to 20% profit share
+  > set up... It's what I have seen work outside of franchise models."
+  > "10% if they get some sort of base, and then 10 or 20 if it's very lucrative... Usually
+  > the number is they got to make over six figures a year. That's the number for the
+  > manager for where it's worth it."
+  > "Normally, to get that amount of return, it might cost you 10 grand over a year. But if
+  > you want to do it in 30 days, it'll cost you 30."
+
+- **Wind-down economics — and "think of yourself as the asset" (2026-07-20).** Coaching a
+  50/50 heat-pump-install owner in Germany who wants out of a partnership but can't just
+  quit, Alex frames **deliberately shutting a business down as a legitimate exit that can
+  spin off a lot of cash**: growth investment drops to zero and costs get cut hard, so
+  **"revenue almost becomes profit"** during the wind-down; run it until customers/staff
+  attrit away, then take the accumulated cash into the next venture. Method: open the
+  partner conversation directly ("do you feel like this is working?") with a **wind-down
+  plan already prepared** (run rate, profit, costs; wind down over ~12 months). Emotional
+  honesty: **"shutting down is just as hard as selling, without the payday"** — the upside
+  is hard-won caution about future partnerships and the skills to run every function solo.
+  He closes on the resilience razor: **"think of yourself as the asset"** — your own
+  capacity outlasts any single venture, which is what carried him through losing everything
+  multiple times. [[../../sources/2026-07-20-yt-cn6REBUMcsY]] (Pairs with §17's e-com
+  "full green light to wind it down"; the **wind-down-throws-off-cash** economics and the
+  **you-are-the-asset** framing are new to this page and connect to §5's "you get returns
+  on what you own, you get paid for what you do.")
+  > "Shutting down businesses can spit off a ton of cash because you just invest zero in
+  > growth and you cut as many costs as you can. And basically, revenue almost becomes
+  > profit for that period of time."
+  > "Shutting down, by the way, is just as hard as selling without the payday. It sucked."
+  > "Having lost everything multiple times... just thinking of yourself as the asset is what
+  > got me through a lot of that."
 
 ---
 
