@@ -7953,3 +7953,56 @@ reusable diagnostic reframing a hiring/talent complaint as **underpricing** via 
 **xHwHz7rUmFI** (mindset) — the reframe that **early entrepreneurial risk-taking is rewarded so heavily it must
 be actively unlearned** (the "hit" of novelty drives shiny-object syndrome), plus a recurring namecheck of the
 10-stage $0→$100M+ roadmap (acquisition.com/roadmap) worth a topic anchor if it recurs.
+
+## [2026-07-20] ingest | yt batch 284 - @MoreMozi P2 long-form (2026-02-10/11), 8 videos
+
+Loop iteration (Stage B). Stage selection at iteration start: synthesis debt 9/10 (below the 10-batch
+checkpoint — `ingest_batch.py status` did NOT print SYNTHESIS DUE; `synthesis_batch.py prepare` reported
+"No pending checkpoints — synthesis is caught up"); persona not stale (only 9 batches since pass 29, no new
+topic pages exist since it, and the fresh-upload P1 trickle isn't the meaningful drain signal); all channels
+enumerated; P1 empty → open P2 long-form rows → Stage B, P2. Drained the next 8 @MoreMozi P2 rows in normal
+order (priority ASC, oldest-published-first): 4 × 2026-02-10 + 4 × 2026-02-11. All 8 fetched captions cleanly —
+0 no-captions, 0 duplicates, 0 skipped, no rate limiting. All genuine Alex coaching / Q&A / monologue clips;
+callers / interviewers attributed to audience per rule 6 (context, not persona).
+
+- da00CukmxWI — "I Have a Challenge for You..." (the input-output equation: define the one input that moves your goal, then do 10x more of it — think orders of magnitude, not doubles; leverage ladder do-it → hire → recruit-a-recruiter, unlocked by relinquishing control; the founder ultimately gives up being needed) — business;mindset;content-strategy
+- rW7sG_Rwpe0 — "I Do $20M/Year as an AI Agency. How Do I Build a Personal Brand?" (make content for the buyers you want, ignore views/likes; maximize highest-value-per-second; packaging = ticket of entry, ~80/20 on-topic vs personal sprinkles; anchor everything through a business lens) — marketing;content-strategy;business
+- q8DRFyn0uiw — "How to Make an Offer So Good People Feel Stupid Saying No" (restates the Value Equation — dream outcome ÷ time/effort/likelihood; raise price by maxing speed, minimizing effort, killing risk via proof + guarantees; his edge = conversion data across the portfolio) — business;marketing
+- 23lRx_9IePQ ★ — "Helping a Local Business Owner With Google Ads" (binding constraint sits under the agency's control → owner should learn PPC himself; learning budget = venture bet on yourself, ~1-in-10 pays off; control-the-mouse live-call method to extract agency skill — how he learned national FB ads in ~6 weeks; when small, you are the reinvestment) — business;marketing;mindset
+- ZkFsb_hxWIs ★ — "My Framework for Brand Associations" (brand = the association of a known + unknown thing through an outcome = "teaching at scale"; the reach × influence × direction triad; every brand change nets some audience and loses some → aim net-positive; avoids the "incestuous" speaking circuit; "promise nothing, deliver a ton") — marketing;business;mindset
+- jIQYdA5NcFk — "Learning to Live With Constant Suffering..." (suffering is constant, only its nature changes; scaling = how long you wait / how focused / who you attract / decision quality, not how hard you push; shifting-constraint ladder; entrepreneurship = forcing function for pain AND progress) — mindset;business
+- mDPxjhn2k9Q — "I Own a D2D Pest Control Company, How Do I Sell It?" (equity-vs-marketing-deal reduces to timeline; on the equity path only exit value matters — cash-eating, ~10x multiple, 5 stores × ~$1.5–2M EBITDA → ~$100M; get written sell-trigger alignment with partners; LT cap-gains ~20%) — business;wealth
+- 5OqwZV2huJE ★ — "Don't Make This Mistake When You Record Content" (prompt-driven content drifts to the people physically in the room; his young-male crew became the de-facto audience → a skewed "hardcore" tone the podcast circuit read as his brand and reinforced in a self-fulfilling loop; now live-streams to diversify who he addresses; dated red-pill/masculinity self-correction) — content-strategy;marketing;mindset
+
+Counts: 2,270 L2 / 19 L3; open long-form @MoreMozi 240 (P2:232 P3:8), P1:0; open shorts ~8,793.
+Synthesis debt: now 10 ingest batches since synthesis pass 29 (checkpoint at 10) → **SYNTHESIS DUE**; the next
+loop iteration is the Stage S checkpoint (drain the accumulated Synthesis notes: from batches 275–284).
+3 L3-candidates flagged (★): 23lRx_9IePQ, ZkFsb_hxWIs, 5OqwZV2huJE.
+
+Synthesis notes: **ZkFsb_hxWIs** (marketing/branding) — a genuinely-new reusable **brand-associations
+framework**: brand = the association created between a known thing and an unknown thing through an OUTCOME
+(positive associations transfer until the known anchor is no longer needed → "branding is teaching at scale");
+the **reach × influence × direction** triad (Trump = high influence, polarizing, big reach; parents = very high
+influence, tiny reach); every brand change nets some audience and loses some → judge associations by whether
+they net positive; the reputation inverse **"promise nothing, deliver a ton"**; and why he avoids the
+"incestuous" speaking circuit (unwanted associations attach involuntarily). Promote to content-strategy/branding
++ persona at the checkpoint. **5OqwZV2huJE** (content-strategy/mindset) — the **"content drifts to the people in
+the room"** insight: prompt-driven (not scripted) delivery skews toward whoever is physically reacting; his
+young-male camera crew became the de-facto audience → an unintentionally "hardcore" tone the podcast circuit
+mirrored back (self-fulfilling brand loop); fix = live-streams / a deliberately broader in-room audience; PLUS a
+dated **red-pill/masculinity self-correction** (expects to do fewer such podcasts, names Logan Paul) — a genuine
+self-image/position update worth a persona note (content-engine + voice/beliefs). **23lRx_9IePQ**
+(business/mindset) — the **learning-budget / bet-on-yourself** principle (treat self-education as venture bets:
+9 of 10 return nothing, the 10th pays many times over) + the concrete **"control-the-mouse"** method for
+extracting skill from an agency (pay them to work live on ~2 calls/week while YOU drive and ask why), tied to a
+bio detail (learned national Facebook ads himself in ~6 weeks), and "when the business is small, you ARE the
+reinvestment." Promote to a wealth/investing-in-yourself or mindset/learning page + a light bio note.
+**mDPxjhn2k9Q** (business/wealth) — mostly restatement, but a clean worked example of the equity-vs-cashflow /
+timeline decision for a cash-eating high-multiple rollup (exit value is the only number that matters; ~10x
+EBITDA; get written sell-trigger alignment) worth a cross-link on scaling-and-enterprise-value / M&A. The
+remaining four are solid restatements of canonical positions already on topic/persona pages and are DROPPED as
+repeats (they stay L2): **da00CukmxWI** (input-output equation / 10x-not-2x / leverage ladder / relinquish
+control — already on scaling + discipline pages), **rW7sG_Rwpe0** (content value-per-second, packaging as ticket
+of entry, ~80/20 on-topic — already on content-engine), **q8DRFyn0uiw** (the Value Equation, verbatim from
+$100M Offers — already canonical), **jIQYdA5NcFk** (constant-suffering / shifting-constraint ladder / decision
+quality over effort — already on mental-toughness + discipline pages).
