@@ -8092,3 +8092,46 @@ generate the outlier dataset that defines quality" rationale.
 (5) minor: hD-Yh6P8EEg's per-platform content-team org chart + weekly batch-record workflow (fuller operational
 detail for `content-strategy/content-engine`); xsVVMfrFTCI's declarative-vs-procedural content axis; Thj1jN1T1eQ's
 resource-tiered reach-out/content/ads trichotomy one-liner.
+
+## [2026-07-20] ingest | yt batch 286 - @MoreMozi P2 long-form (2026-02-09), 8 videos
+
+Loop iteration (Stage B). Stage selection at iteration start (first-matching-rule-wins): synthesis debt 1/10
+(`ingest_batch.py status` printed "ingest batches since last synthesis: 1" — the batch-285 log entry sits after
+synthesis pass 30; no `SYNTHESIS DUE`, checkpoint at 10); persona not stale (pass 30 recent, no new topic pages
+since); all channels enumerated; P1 empty → open P2 long-form rows → **Stage B, P2**. Drained the next 8 @MoreMozi
+P2 rows in normal order (priority ASC, oldest-published-first): all 8 × 2026-02-09. All 8 fetched captions cleanly
+— 0 no-captions, 0 duplicates, 0 skipped, no rate limiting. All genuine Alex coaching / Q&A clips; audience
+questioners attributed to context per rule 6 (not persona); guest-reported business figures flagged and kept out
+of persona data.
+
+- xh1jVWwl3gM — "How Do I Become an Authority in the Personal Brand Niche?" (pick the avatar & match the business model FIRST; **branding is hard to sell to SMBs** — mostly big companies actually buy "brand" — so fix avatar/model before touching price) — marketing;business;content-strategy
+- 9kRw7XVbuDU — "'I Do $10M/Year Building Luxury Homes. How Do I Attract A Players?'" (recruit A-player salespeople via **outreach at volume** — LinkedIn sourcing + relocation offers; the reframe that a business can be **demand-constrained for talent** just as for customers) — business;marketing
+- rOIQjq2Gfew — "How to Build a Product So Good People Feel Stupid Saying No" (**great vs world-class** craftsmanship: ~20x front-end input for ~3x output, and that surplus is what makes customers do the promoting — word-of-mouth compounding. NOTE: despite the offer-flavored title this is NOT the Grand Slam Offer / value-equation material) — business;mindset;content-strategy
+- j7cpqvmEMvc — "How to Beat Competitors Bigger Than You" (the **small-dog frame** for new/small players: reframe the buyer's comparison to founder-motivation vs an indifferent employee — "comparison works in the vague, not the specific") — business;marketing;sales;mindset
+- zS-1zMTxgGY ★ — "One of My Biggest Mistakes in 2025" (**NEW bio**: invested without adequate due diligence in a company later found to be doing non-compliant things, gave the equity back and lost millions purely to avoid association; meta-lesson that acquisition.com's biggest mistake category is **people/hiring** since "every hire is a deal"; and they **dropped heavy recruiting personality/ability testing** after the recruiting team became over-reliant on scores — now a red-flag/contradiction check only) — business;mindset;wealth
+- KVAaAf1Qb38 — "How to Make Content That Promotes Your Business" (**enumerate every micro-task** in the niche and make one content piece per task as the schedule; add short proof-of-result demo clips) — marketing;content-strategy;business
+- bCxYJ5XB3m4 — "How to Make Money as a Coach in the Finance Niche" (give away the info, **sell the implementation**; the same information in a different medium commands a different price — a pricing ladder) — business;wealth;marketing
+- rLVyErufDSc ★ — "'I'm Stuck at $3M/Year With My Coaching Business'" (live coaching diagnostic across market / metrics / advertising → lead-magnet fix + **"accordion the launch"**: extend launch content across the between-launch time horizon) — business;marketing;content-strategy
+
+Counts: 2,286 L2 / 19 L3; open long-form @MoreMozi 224 (P2:216 P3:8), P1:0; open shorts ~8,793.
+Synthesis debt: 2 ingest batches since synthesis pass 30 (checkpoint at 10) — not due.
+2 L3-candidates flagged (★): zS-1zMTxgGY, rLVyErufDSc.
+
+Synthesis notes: genuinely-new material for the next Stage S checkpoint —
+(1) **zS-1zMTxgGY** (bio + mindset/business) — a dated **2025 mistake**: a specific investment loss (invested
+without due diligence in a company later found to be non-compliant; returned equity; lost millions to avoid
+association), the reframe that **people/hiring is the largest mistake category** because "every hire is a deal,"
+and an evolution in recruiting practice — they **dropped heavy personality/ability testing** (team became
+over-reliant on the scores, "law of least effort") and now use tests only to flag contradictions/dishonesty.
+Promote into biography + `wiki/topics/business/hiring-and-recruiting`.
+(2) **rLVyErufDSc** (business/content-strategy) — **"accordion the launch"**: stretch launch content to cover
+the time horizon between launches; plus a full stuck-at-$3M coaching-business diagnostic (market / metrics /
+advertising) — candidate for a scaling/coaching-business framework page.
+(3) **j7cpqvmEMvc** (business/sales) — the **"small-dog frame"**: for new/small entrants, reframe the buyer's
+comparison to founder-motivation vs an indifferent employee; "comparison works in the vague, not the specific."
+(4) **rOIQjq2Gfew** (business/mindset) — **"great vs world-class"** craftsmanship thesis: ~20x input for ~3x
+output, and the surplus is what turns customers into promoters. (Also flag for synthesis: the title implies
+Grand Slam Offer but the content is a craftsmanship/effort argument — do not mis-file.)
+(5) minor: xh1jVWwl3gM's "branding is hard to sell to SMBs" positioning caution (fix avatar/model before price);
+bCxYJ5XB3m4's give-away-info / sell-implementation + same-info-different-medium pricing ladder; KVAaAf1Qb38's
+task-enumeration-as-content-schedule; 9kRw7XVbuDU's "demand-constrained for talent" recruiting-by-outreach point.
