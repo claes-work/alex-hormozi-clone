@@ -8053,3 +8053,42 @@ described a "monetization-moat (Amazon/Uber/Netflix)" argument for ZgrmWfnJnhA t
 source** (a premium-resort-wear "don't lower price" call) — correctly NOT promoted (no fabrication); the
 batch note likely mis-mapped the ID. Genuine contradictions carried as visible `⚠️` callouts on the affected
 biography/topic pages (not silently resolved).
+
+## [2026-07-20] ingest | yt batch 285 - @MoreMozi P2 long-form (2026-02-09/10), 8 videos
+
+Loop iteration (Stage B). Stage selection at iteration start (first-matching-rule-wins): synthesis debt 0/10
+(`ingest_batch.py status` printed "ingest batches since last synthesis: 0"; the last log entry is synthesis
+pass 30, which reset the high-water mark to batch 284 — no `SYNTHESIS DUE`); persona not stale (pass 30 just
+ran, no new topic pages since, no fresh drain signal); all channels enumerated; P1 empty → open P2 long-form
+rows → Stage B, P2. Drained the next 8 @MoreMozi P2 rows in normal order (priority ASC, oldest-published-first):
+2 × 2026-02-09 + 6 × 2026-02-10. All 8 fetched captions cleanly — 0 no-captions, 0 duplicates, 0 skipped, no
+rate limiting. All genuine Alex coaching / Q&A / monologue clips; callers / interviewers attributed to audience
+per rule 6 (context, not persona); guest-reported business figures flagged and kept out of persona data.
+
+- xsVVMfrFTCI — "I Have a 3.6M-Person Facebook Group. How Do I Monetize It With AI Coaching?" (declarative-vs-procedural content axis applied to AI-demo content — show the built result + a per-avatar lead magnet, not the how-to; collapse the vanity 3.6M headcount to the ~100K monthly-active Western subset as the real "pseudo email list"; "reverse label / raise your hand" self-identification tactic) — business;marketing;content-strategy
+- hD-Yh6P8EEg — "Building a Content Team From Scratch" (per-platform org chart with one owner each — YT shorts / YT long + strategist + editor / IG / LinkedIn / FB; once-a-week 3-4hr live batch-record yielding ~30 hrs clippable raw; "an ounce of pre is worth a pound of post" pre-production leverage; the "four-minute voice memo" critique of unstructured creators) — content-strategy;business
+- AFsKZf2am6M ★ — "How Small Brands Should Think About Content Strategy" (the "accordion" volume↔quality tradeoff as an oscillating compress-then-expand cycle, not a fixed choice; volume must come first because it generates the outlier dataset you need before you can even define "quality") — content-strategy;marketing
+- lYe2eEK76Go ★ — "Helping a $3M/Year Business Owner Make Better Content" (market to the BUYER, not the end-customer — keep the subject material + hooks but reframe each piece from the buyer's POV so interest-based media serves aspiring practitioners, not end-customers; interest-based media > social media; "you're only 6 inches off / change the wrapper, not the meat"; the giving-away-secrets rebuttal; audience-you-attract = framing not topic) — marketing;content-strategy;business
+- RZ1O_K5PteQ — "Helping an Agency Owner Scale" (niche / pick-one positioning; front-end acquisition into a low-churn, high-margin, scalable back end; SMB churn volatility; simplification as the scaling constraint) — business;marketing
+- Thj1jN1T1eQ — "The Simplest Way to Advertise Your Business" (resource-tiered channel-selection heuristic — "if you're poor reach out; less poor make content; least poor run ads" — a crisp framing of the reach-out/content/ads trichotomy tied to the four levers of traffic) — business;marketing
+- xfC3cHk3C7g ★ — "My Investment Thesis for 2026" (dated turn toward "fabulous businesses at fair prices"; 24 deals / 3 winners (80/20) over acquisition.com's first 24 months; better operators cede less equity → his best deals were higher-valuation, less-equity, all-cash; current "we just write checks" money-for-equity model, help without expectation) — wealth;business
+- OuZMlb3U7Bs ★ — "What to Do If You're Constrained by Your Market" (named deconstraining cycle: Metric → Market → Model → Money → Manpower, looping back; "features versus bugs" reframe attributed to CFO Suzanne Shifflet; "hard problem = what you get paid to solve / $50M reframe"; TAM as an opportunity-vehicle / time-horizon question) — business;mindset;marketing
+
+Counts: 2,278 L2 / 19 L3; open long-form @MoreMozi 232 (P2:224 P3:8), P1:0; open shorts ~8,793.
+Synthesis debt: 1 ingest batch since synthesis pass 30 (checkpoint at 10) — not due.
+4 L3-candidates flagged (★): AFsKZf2am6M, lYe2eEK76Go, xfC3cHk3C7g, OuZMlb3U7Bs.
+
+Synthesis notes: genuinely-new material for the next Stage S checkpoint —
+(1) **OuZMlb3U7Bs** (business) — a named, teachable **deconstraining cycle** (Metric → Market → Model → Money →
+Manpower, looping) plus the **"features versus bugs"** reframe (credited to CFO Suzanne Shifflet) and the
+"hard problem = what you get paid to solve" framing; strong candidate for a `wiki/topics/business/` framework page.
+(2) **xfC3cHk3C7g** (wealth) — Alex's dated **2026 investment thesis**: "fabulous businesses at fair prices,"
+24-deals/3-winners track record, the better-operators-cede-less-equity insight, and the "we just write checks"
+model — promote into `wealth/investing-and-wealth` as an explicitly-2026 (not timeless) position.
+(3) **lYe2eEK76Go** (content-strategy/marketing) — a cleaner statement of the **"market to the buyer, not the
+end-customer"** content thesis (interest-based media targeting via buyer-POV framing).
+(4) **AFsKZf2am6M** (content-strategy) — the **"accordion"** volume↔quality oscillation and the "volume first to
+generate the outlier dataset that defines quality" rationale.
+(5) minor: hD-Yh6P8EEg's per-platform content-team org chart + weekly batch-record workflow (fuller operational
+detail for `content-strategy/content-engine`); xsVVMfrFTCI's declarative-vs-procedural content axis; Thj1jN1T1eQ's
+resource-tiered reach-out/content/ads trichotomy one-liner.
