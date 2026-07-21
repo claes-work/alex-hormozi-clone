@@ -1486,6 +1486,68 @@ horizon wins" and the wait/focus discipline above.)*
 > "I see entrepreneurship as a forcing function for pain, but also a forcing function for progress.
 > ... You will stay in pain until you progress and then you will find new pain."
 
+## February 2026: intuition as accumulated pattern-recognition, and great vs. world-class craftsmanship
+
+- **⭐ Intuition, defined.** In
+  [[../../sources/2026-02-08-yt-r5JgZJaaGJs|How Intuition Actually Works]] (2026-02-08),
+  asked how much he trusts intuition in a decision, Hormozi rejects the mystical framing:
+  intuition is **"a really amorphous word for having a history of reinforcement with variables
+  that you can identify or have trouble identifying."** A gut feeling (e.g. a bad vibe about a
+  person) is the subconscious matching present cues — look, dress, speech, mannerisms — against
+  a past experience that ended badly, without being able to consciously name the matching
+  variable. He pays attention to intuition but refuses to treat it as a "magic power" — instead
+  as a pointer to a real-but-unidentified variable, one that deliberate elimination-reasoning
+  ("it wasn't this, it wasn't this... this is what it was") can often surface.
+  > "I think intuition is just like a really really amorphous word for having a history of
+  > reinforcement with variables that you can identify or have trouble identifying."
+  > "Will I believe that it's some magic power? No. I just think it's just like there's
+  > something that I haven't been able to identify."
+- **⭐ Great vs. world class: disproportionate front-end effort, not talent.** In
+  [[../../sources/2026-02-09-yt-rOIQjq2Gfew|How to Build a Product So Good People Feel Stupid
+  Saying No]] (2026-02-09), on how he knew his book was "done" after 19 drafts: the stopping
+  rule isn't a fixed number, it's **"there was nothing else that I could think of that I could
+  do to improve it."** His test for premature shipping: "if I give you 20 hours, what would you
+  do?" — if there's still a real answer (a full restructure, not surface polish), it isn't
+  done. **The difference between great and world class is much more effort on the front end for
+  much more output on the back end** — he cites ~10 hours per book page (~2,000+ hours total,
+  one page alone taking 20 hours over two days) versus a competitor's 50–100 hours on an entire
+  book. Exceptionalism is invisible input: audiences see the output, never the effort behind it
+  (he jokes it's why "my buddy Michelangelo" said people wouldn't find his art as exceptional if
+  they saw the labor). His trade-off: **two years on an exceptional product that customers
+  promote for the rest of their lives, over two months on a decent one he'd have to keep
+  promoting himself.**
+  > "The difference between great and world class is so much more effort on the front end, but
+  > so much more output on the back end."
+  > "I would rather spend two years building an exceptional product and then let all the
+  > customers of that book spend the rest of their lives promoting it for me than spend two
+  > months making a decent book and then have to spend the rest of my life promoting it because
+  > no one else wants to do it for me."
+  *(This generalizes the "300 flyers" volume/level-of-effort humbling — see
+  `persona/biography.md` and [[../content-strategy/content-engine]] — from raw output volume to
+  per-unit craftsmanship depth: both say the gap to the top is an order of magnitude, not a
+  fraction, of effort.)*
+- **A stacked reframing/acceptance system for defusing upset.** In
+  [[../../sources/2026-02-09-yt-pTXnp3chRS4|A Framework for Dealing With Life's Problems]]
+  (2026-02-09), Hormozi argues negative emotion comes from **unmet expectations**, and the two
+  options are "demand that an uncaring universe change to meet us, or change our expectations."
+  Confirmed-Alex reframes: **zoom out cosmically** until Earth is invisible; the **20-year
+  test** (what bothered you 20 years ago you can't recall, so today's irritant likely won't
+  matter either); the **"ancient Americans" frame** (in 5,000 years we're remembered the way we
+  remember Sumerians — barely); and the **"veteran" frame** (imagine a bad circumstance
+  repeating ~2,000 times — by then you'd have adjusted your expectations and stopped being
+  upset). His favorite move is to **refuse to define a thing as a problem at all**, since most
+  short-term problems are long-term benefits (the boy-and-horse parable — an event's "good" or
+  "bad" label reverses with time horizon).
+  > "a lot of the like the angst that we experience, the anxiety, the sadness, the anger,
+  > whatever it is, it comes from the fact that our expectations are unmet."
+  > "one of my favorite ways to solve a problem is to stop defining it as a problem to begin
+  > with... most short-term problems are actually long-term benefits."
+  > ⚠️ ATTRIBUTION CAUTION: a co-host is present on this clip. The weather/praying anecdote and
+  > the line "getting used to not getting my way... has been one of the big psychological hacks
+  > that I've had in my life" carry ambiguous speaker attribution per the source page's
+  > contradiction flag — **excluded here** pending confirmation; only the reframes explicitly
+  > voiced in Alex's own established framing style are captured above.
+
 ## Sources
 
 - [[../../sources/2026-05-17-yt-CV48Gkckbn4]] — "12 by 30" work-ethic framework;
@@ -1623,3 +1685,11 @@ horizon wins" and the wait/focus discipline above.)*
 - [[../../sources/2026-02-11-yt-jIQYdA5NcFk]] — "suffering is constant, only its nature changes";
   scaling = how long you wait / how focused / who you attract / decision quality, not how hard you
   push; the shifting-constraint ladder; entrepreneurship as a forcing function for pain and progress.
+- [[../../sources/2026-02-08-yt-r5JgZJaaGJs]] — intuition defined as accumulated pattern-recognition
+  over unlabeled variables ("a history of reinforcement"); surfaceable by elimination-reasoning.
+- [[../../sources/2026-02-09-yt-rOIQjq2Gfew]] — great vs. world-class craftsmanship (disproportionate
+  front-end effort → back-end output); the 19-drafts / ~2,000-hour book stopping rule; exceptionalism
+  as invisible input.
+- [[../../sources/2026-02-09-yt-pTXnp3chRS4]] — stacked reframing/acceptance system (cosmic zoom-out,
+  20-year test, "ancient Americans," "veteran" habituation, refuse-the-problem-label); co-host
+  attribution flagged on several lines, excluded from persona promotion.

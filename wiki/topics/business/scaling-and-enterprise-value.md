@@ -1513,6 +1513,44 @@ Alex-attributed material is persona data; caller figures are self-reported and u
 
 ---
 
+## 19. February 2026: pick a high-retention opportunity for your skill, not a linear pivot
+
+In [[../../sources/2026-02-08-yt-Zk4iYqISxe4|Scaling a Marketing Agency That Works With Martial
+Arts Schools]] (2026-02-08), coaching an agency owner stuck at ~$35K/month serving martial-arts
+studios, Hormozi (with a second coach on the call) diagnoses the **market itself as
+un-sellable**: martial-arts studios are small, volatile, high-churn operators, and that
+volatility flows straight through into any agency built to serve them — the agency inherits the
+retention problem of its clients' clients.
+
+- **Revenue retention is the precondition for a valuable business**, not an optimization on top
+  of one: "once you have revenue retention, if you know how to acquire customers, you just grow
+  a business. Every year it just gets bigger... the hardest thing is revenue retention."
+- **⭐ "Level-eight skill on a level-three opportunity."** The member's acquisition skill is
+  genuinely valuable and transferable; the fix isn't abandoning it but **re-platforming it onto
+  an industry that already has high customer stick** (payment processors, CRMs, insurance are
+  named contrasts to marketing, which clients "turn out of left and right") — apply the
+  acquisition skill on top of a sticky product for "the full stack."
+  > "you have like a level eight skill that you're using on like a level three opportunity."
+- **Pick the opportunity worth the pain, since building any business is ~50% suffering
+  regardless of size** — a small gym was emotionally as hard to build as acquisition.com — so
+  the size/difficulty of the *pain* isn't the variable to optimize; the *ceiling* of the
+  opportunity is.
+  > "it is just as hard to build a small business as it is to build a big business... pick an
+  > opportunity that's worth the pain because it's going to be pain no matter what."
+- **You don't feel ready for an opportunity exponentially different from your current one —
+  you get ready by starting**, and high performers "die" by picking something too easy, since
+  disengagement sets in once they can already play out the ending.
+- Practical de-risking method: brainstorm high-retention opportunities against your existing
+  skills, then test cheaply (become an affiliate, or contract as an in-house marketer for one
+  big client) funded by savings so a miss doesn't threaten your living — "you learn more trying
+  something than you are going to learn thinking about it."
+
+> Attribution note: several of the sharpest lines on this call ("level eight skill," "revenue
+> retention is the hardest thing," "pick an opportunity worth the pain") are voiced by a second
+> coach on the call (voice cues suggest Leila Hormozi) rather than Alex directly — flagged
+> `[coach — attribution uncertain]` on the source page and excluded from first-person `persona/`
+> promotion; captured here as third-person wiki teaching only, per fidelity rule 6.
+
 ## Cross-cutting throughlines
 
 - **Get the owner out of the business.** "Scale zero" (§3), "getting the owner out of
@@ -1539,4 +1577,6 @@ Alex-attributed material is persona data; caller figures are self-reported and u
 - Source additions: [[../../sources/2021-05-31-yt-gpKz22P84iM]] (Talent Grid predecessor);
   [[../../sources/2026-06-30-yt-mcAqxwL7ig0]], [[../../sources/2026-07-04-yt-W2KWccTKZuM]],
   [[../../sources/2026-07-02-yt-TvB7L-FMZSk]], [[../../sources/2026-06-30-yt-5pfq_BtWs8E]]
-  (talent-side LTGPE:CAT, senior layer, micro-promotions, premium technician recruiting).
+  (talent-side LTGPE:CAT, senior layer, micro-promotions, premium technician recruiting);
+  [[../../sources/2026-02-08-yt-Zk4iYqISxe4]] (retention-before-acquisition sellability driver;
+  "level-eight skill on a level-three opportunity"; pick-the-opportunity-worth-the-pain).

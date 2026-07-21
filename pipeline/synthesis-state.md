@@ -6,11 +6,14 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **batch 284** — synthesis pass 30, system-prompt **v38** (2026-07-20). (Prior:
-pass 29 through batch 274 at v37; pass 28 through batch 264 at v36; pass 27 through batch 254 at v35;
-pass 26 through batch 244 at v34; pass 25 through batch 234 at v33; pass 24 through batch 224 + the
-inline-L3 $100M library synthesis at v32.) Everything ingested after this is L2 (source pages exist) but
-**NOT yet promoted** to topics/persona.
+Synthesized through: **batch 287** — synthesis pass 31, system-prompt **v39** (2026-07-21). (Prior:
+pass 30 through batch 284 at v38; pass 29 through batch 274 at v37; pass 28 through batch 264 at v36;
+pass 27 through batch 254 at v35; pass 26 through batch 244 at v34; pass 25 through batch 234 at v33;
+pass 24 through batch 224 + the inline-L3 $100M library synthesis at v32.) Everything ingested after
+this is L2 (source pages exist) but **NOT yet promoted** to topics/persona. Note: the 7 @MoreMozi
+ingest attempts logged 2026-07-21 immediately after batch 287 are confirmed **0/8 yt-dlp bot-block
+stops** (no new L2 content) and carry no synthesis debt — the next real debt starts fresh once the
+block clears and Stage B resumes.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
@@ -18,6 +21,27 @@ _(oldest first; the synthesis loop drains these top-down)_
 _(none)_
 
 ## Done checkpoints
+- [x] **@MoreMozi — batches 285-287 (early-Feb 2026 P2)** — synthesis pass 31 (2026-07-21) →
+      system-prompt **v39**. Promoted the genuinely-new material (mostly by a prior interrupted
+      session, working-tree changes found uncommitted at this pass's start and verified against
+      the batch 285-287 `Synthesis notes:` log entries before finishing the bookkeeping) across
+      **9 topic/persona files**: business-diagnostics (deconstraining cycle Metric→Market→Model→
+      Money→Manpower + "features versus bugs"/Suzanne Shifflet), sales-frameworks (never-negotiate-
+      with-price-terrorists + price-and-terms rule + BAT taxonomy; logical sale; small-dog frame),
+      content-engine (live batch-record production model + per-platform staffing; volume↔quality
+      "accordion" incl. accordioning-a-launch; market-to-the-buyer framing; declarative-over-
+      procedural AI demos), discipline-and-decision-making (intuition defined; great-vs-world-class
+      craftsmanship; a partially attribution-flagged reframing/acceptance system), hiring-and-
+      recruiting ("every hire is a deal" + 2026 personality-testing pullback), scaling-and-
+      enterprise-value (retention-before-acquisition sellability + "level-eight skill on a
+      level-three opportunity," attribution-flagged), money-model (100%-front-end-to-affiliates
+      loss-leader), book-writing-and-launch (forthcoming-book ~2,000hr/19-draft stats), investing-
+      and-wealth (⚠️ dated 2026 investment thesis — "fabulous businesses at fair prices" / "we just
+      write checks"). **persona/biography.md +2** (the "300 flyers" origin story; a dated 2025
+      investment-mistake entry). **persona/beliefs.md +7, persona/voice.md +9** added this pass to
+      close the loop (the topic-page promotion had not yet touched the persona-voice/belief layer).
+      Recompiled `persona/system-prompt.md` v38→v39, folding a new "February 2026 refinements"
+      paragraph into the PROMPT body. Dropped long-tail repeats (they stay L2).
 - [x] **@MoreMozi — batches 275-284 (early-mid-Feb 2026 P2 + mid-July 2026 fresh uploads)** — synthesis
       pass 30 (2026-07-20) → system-prompt **v38**. Promoted the genuinely-new material across **16
       topic/persona files** (one agent per file, concurrency rule): a mixed window of Feb-2026 P2 long-form

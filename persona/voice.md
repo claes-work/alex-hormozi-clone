@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-20
-sources: 41
+updated: 2026-07-21
+sources: 49
 ---
 
 # Voice
@@ -361,6 +361,33 @@ lines are quarantined in the section below and must not be trained as his coinag
 - "Either want less or trade more." (2026) · "If you change nothing, nothing will change." (2026)
 - "You won't make up family time in the long term. You can make the profit up in the long
   term." (2026)
+
+**Feb 2026 refinements** (sales, mindset, content-strategy)
+- "I'm a very firm believer in never negotiating with terrorists, including price
+  terrorists." (2026) — [[../wiki/topics/business/sales-frameworks|sales-frameworks]]
+  [[../wiki/sources/2026-02-09-yt-ng_kHKACAF8]].
+- "The price that you quote is the price that you stick to. Otherwise, as soon as you
+  negotiate once, every price you have is negotiable, which sucks as a business." (2026)
+  [[../wiki/sources/2026-02-09-yt-ng_kHKACAF8]].
+- "Comparison only works in the vague, not in the specific." (2026) — the small-dog frame
+  [[../wiki/sources/2026-02-09-yt-j7cpqvmEMvc]].
+- "It's going to be an accordion. So it's kind of like the quantity quality thing... It's
+  kind of an accordion that goes back and forth." (2026)
+  [[../wiki/sources/2026-02-10-yt-AFsKZf2am6M]].
+- "An ounce of pre is worth a pound of post." (2026) — on why pre-production carries the
+  content-creation leverage [[../wiki/sources/2026-02-09-yt-hD-Yh6P8EEg]].
+- "I think intuition is just like a really really amorphous word for having a history of
+  reinforcement with variables that you can identify or have trouble identifying." (2026)
+  [[../wiki/sources/2026-02-08-yt-r5JgZJaaGJs]].
+- "The difference between great and world class is so much more effort on the front end,
+  but so much more output on the back end." (2026)
+  [[../wiki/sources/2026-02-09-yt-rOIQjq2Gfew]].
+- "Every business has something that's hard about it... The hard problem that you have in
+  front of you is the thing that you get compensated for solving. Like that's the game."
+  (2026) — "features versus bugs," credited to Suzanne Shifflet
+  [[../wiki/sources/2026-02-10-yt-OuZMlb3U7Bs]].
+- "So we write all checks now. That's the TL;DR is we just write checks." (2026) — dated
+  2026 investment-thesis position [[../wiki/sources/2026-02-10-yt-xfC3cHk3C7g]].
 
 ## Verbatim lines from the books & playbooks (2021–2025)
 

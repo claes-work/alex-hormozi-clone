@@ -746,6 +746,49 @@ mistake — but telling the truth is *making it right*. A hard termination lands
 - [[2026-03-03-yt-Z_hOgtlFmss]] — How to make more money as an employee (pick a $10–20M+ vessel; become an "internal entrepreneur"; think vendor not employee; performance-based %-of-value asks; more owned risk = more upside)
 - [[2026-07-15-yt-gI5qfmivSpc]] — 'Demand Isn't My Problem. Delivery Is.' (hiring avatar: map behaviors not titles; camp counselors / rec coaches / underpaid teachers; LinkedIn / forums / ads sourcing; talent attraction-conversion funnel → supply-side LTGP:CAC)
 - [[2026-07-19-yt--BSOPxkfrP4]] — Where Do I Find People Who Don't Exist on Job Boards? (same Will teen-coaching teardown: map-behaviors-not-titles avatar; three sourcing channels; supply-side LTGP:CAC / "LCGP to CAC" ratio)
+- [[../../sources/2026-02-09-yt-zS-1zMTxgGY]] — One of My Biggest Mistakes in 2025 ("every hire is a deal" / people = biggest mistake category; dropped heavy personality/ability testing — law-of-least-effort reversal; red-flag-only test use)
+- [[../../sources/2026-02-09-yt-9kRw7XVbuDU]] — "I Do $10M/Year Building Luxury Homes. How Do I Attract A Players?" (demand-constrained-for-talent reframe; outreach-at-volume recruiting)
+
+## "Every hire is a deal," and why acquisition.com pulled back from heavy personality testing (2026)
+
+In [[../../sources/2026-02-09-yt-zS-1zMTxgGY|One of My Biggest Mistakes in 2025]] (2026-02-09),
+asked to slice acquisition.com's mistakes into a pie chart (due diligence vs. other causes),
+Hormozi reframes the premise: **the single largest category of mistakes is people, not
+diligence** — "even when you're bringing in talent like it's a deal. Like you're signing an
+agreement between two parties in exchange for money." Because the firm does a large volume of
+deals and hires continuously, mistakes are structurally inevitable; the aim is to learn and let
+decision-making quality compound over time.
+
+- **His decision rule for fix-vs-cut a bad situation is the founder/hire's *willingness to make
+  things right*, not the severity of the problem itself** — an unknowing party who fixes a gap
+  once flagged is fine; one who's told and does nothing is not.
+- **⭐ Recruiting-testing reversal:** acquisition.com used to run heavy personality and ability
+  testing (for both deal partners and recruiting candidates) and **pulled back** because the
+  recruiting team became over-reliant on the scores — a high scorer got waved through as "a
+  stud, bring this guy in," substituting the test for judgment.
+  > "if you tend to give a team a tool and they have to make a lot of decisions and the tool
+  > supposedly helps them with the decision the law of least effort will typically reign and
+  > they'll just start using the test to make all the decisions and I think that makes for
+  > worse decisions than actually just using everything else."
+- The remaining legitimate use of a test is as a **red-flag check**: only when a result
+  starkly contradicts what they otherwise observe (e.g. a self-described detail-oriented,
+  timely candidate who presents as scattered) does it become useful — at that point it's
+  flagging a lie, not informing a judgment call.
+  > "I tend to be somewhat binary in this... either we believe this 100%. Or we kind of don't."
+
+> ⚠️ This is a **dated evolution**, not a rejection of testing in general — earlier pages on
+> this topic (2026-02 through 2026-03 clips above) describe active use of interviews, trial
+> hires, and behavioral rubrics; this pass narrows specifically the personality/ability-*score*
+> as a primary decision input, replaced by judgment plus a red-flag-only backstop.
+
+## Recruiting by outreach when the constraint is talent supply, not demand (2026)
+
+In [[../../sources/2026-02-09-yt-9kRw7XVbuDU|"I Do $10M/Year Building Luxury Homes. How Do I
+Attract A Players?"]] (2026-02-09), Hormozi extends the supply/demand framing from
+[[business-diagnostics]] to hiring directly: **a business can be demand-constrained for
+customers and simultaneously supply-constrained for talent.** The fix mirrors customer
+acquisition — go find A-player salespeople via **outreach at volume** (LinkedIn sourcing,
+relocation offers) rather than waiting for inbound applicants.
 
 ## Related
 

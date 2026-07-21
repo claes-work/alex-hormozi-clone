@@ -8502,3 +8502,64 @@ install access should either add one of those, or the roster dispatcher should h
 entirely until resolved rather than spending further identical iterations.
 
 Synthesis notes: none (nothing ingested this iteration).
+
+## [2026-07-21] lint | synthesis pass 31 — @MoreMozi batches 285-287 (early-Feb 2026 P2)
+
+Stage S synthesis checkpoint (roster-dispatched iteration, batch size 8). Orient: `ingest_batch.py
+status` showed only `@MoreMozi` open (P2:217 P3:8, P1 empty everywhere) and flagged **SYNTHESIS DUE**
+(debt counter = 10). Cross-checked the debt against `log.md`: only 3 of those 10 `ingest |` entries
+(batches 285, 286, 287) carry real new L2 content — the other 7 are the 2026-07-21 consecutive
+yt-dlp bot-block stops (0/8 ingested each, now confirmed **global** per the last log entry). Per
+first-matching-rule-wins, Synthesis checkpoint due beats Stage B regardless, and unlike Stage B,
+Stage S does not touch yt-dlp at all — so it sidesteps the confirmed network block entirely.
+`synthesis_batch.py status`/`prepare` reported "no pending checkpoints" because the debt counter and
+the `pipeline/synthesis-state.md` Pending list are two independently-maintained mechanisms (the
+latter isn't auto-populated); registered a batches-285-287 checkpoint manually.
+
+**Discovery: the promotion step was already done, uncommitted.** `git status` showed 11 modified
+files with no matching commit — a prior session (interrupted, likely by the same bot-block or a
+budget/context limit) had already completed Step 2 of `tools/SYNTHESIS.md` (topic-page promotion)
+for batches 285-287 but never reached Step 3 (persona layer, recompile, state/log bookkeeping,
+commit). Verified the diff line-by-line against the three batches' `Synthesis notes:` entries in
+this file — content matched cleanly (dated, cited to the right `wiki/sources/` pages, verbatim vs.
+paraphrase kept, the Zk4iYqISxe4/pTXnp3chRS4 attribution-uncertain material correctly excluded from
+persona promotion) and covered effectively all of the real findings from the three batches. Finished
+the loop myself:
+
+- **Topics (9 files, already promoted by the prior session, verified this pass):**
+  business-diagnostics (deconstraining cycle Metric→Market→Model→Money→Manpower + "features versus
+  bugs"/Suzanne Shifflet), sales-frameworks (never-negotiate-with-price-terrorists + price-and-terms
+  rule + BAT taxonomy; logical sale; small-dog frame), content-engine (live batch-record production
+  model + per-platform staffing; volume↔quality "accordion" incl. accordioning-a-launch;
+  market-to-the-buyer framing; declarative-over-procedural AI demos), discipline-and-decision-making
+  (intuition defined; great-vs-world-class craftsmanship; a partially attribution-flagged
+  reframing/acceptance system), hiring-and-recruiting ("every hire is a deal" + 2026
+  personality-testing pullback), scaling-and-enterprise-value (retention-before-acquisition
+  sellability + "level-eight skill on a level-three opportunity," attribution-flagged to a second
+  coach), money-model (100%-front-end-to-affiliates loss-leader), book-writing-and-launch
+  (forthcoming-book ~2,000hr/19-draft stats), investing-and-wealth (⚠️ dated 2026 investment thesis
+  — "fabulous businesses at fair prices" / "we just write checks").
+- **persona/biography.md +2** (already promoted): the "300 flyers" gym-marketing origin story;
+  a dated 2025 investment-mistake entry (due-diligence gap, gave back equity, lost millions to avoid
+  association).
+- **persona/beliefs.md +7, persona/voice.md +9** (added this pass — the prior session's promotion
+  had not yet reached the persona voice/belief layer): the deconstraining cycle + "features versus
+  bugs"; the price-terrorists/price-and-terms rule; intuition defined; great-vs-world-class
+  craftsmanship; the small-dog frame; the volume↔quality accordion; the ⚠️ dated 2026 investment
+  thesis — plus matching verbatim lines in voice.md.
+- **Recompiled `persona/system-prompt.md` v38 → v39** (`compiled_from_sources` extended through
+  batch 287): added a "February 2026 refinements" paragraph to the `### What you believe` body
+  folding in all of the above, plus a new changelog entry.
+- **`pipeline/synthesis-state.md`**: advanced the high-water mark to batch 287 (pass 31, v39),
+  moved the checkpoint to Done, and noted the 7 subsequent bot-block entries carry zero debt.
+- **`index.md`**: refreshed the freshness banner and the stale "Compiled v28" persona/system-prompt
+  line (had drifted 11 versions behind actual; now v39).
+
+No rate limits during this pass (no yt-dlp calls — Stage S is caption-independent). No tooling
+errors. Dropped nothing as a repeat; all promoted material was genuinely new.
+
+Synthesis notes: pass 31 — synthesis debt drained to **0** (high-water mark now batch 287; next
+`Synthesis notes:` debt accrues from batch 288 onward, once Stage B can run again — the yt-dlp
+bot-block from the preceding 7 log entries is still unresolved and out of this iteration's scope;
+a maintainer with shell/package-install access is still needed for the PO-token-provider or
+authenticated-cookies fix noted there).

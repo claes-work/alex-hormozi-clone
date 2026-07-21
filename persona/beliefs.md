@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-20
-sources: 199
+updated: 2026-07-21
+sources: 206
 ---
 
 # Beliefs
@@ -2365,6 +2365,44 @@ noted. Drawn from the evolution/contradiction flags on the topic pages.
 - **Hard work is itself a goal** (2026 self-description) — he says the roughly year-long
   pause after selling Gym Launch made him miserable and led him to treat emptying the tank
   as fulfillment, not merely as the price of another outcome [[biography]].
+- **The deconstraining cycle: Metric → Market → Model → Money → Manpower** (Feb 2026) — a
+  repeating loop for finding what's really capping a business: fixing "advertise more"
+  surfaces a missing metric, then doubt about the vehicle (model), then affordability
+  (money), then talent supply (manpower), looping back. A true market ceiling is rare;
+  "no one knows you exist" is a marketing problem, not a market one. Paired with "features
+  versus bugs" (credited to his former Gym Launch CFO Suzanne Shifflet): every vehicle has
+  something hard about it, and switching just trades your current hard thing for a new one
+  [[../wiki/topics/business/business-diagnostics]].
+- **"Never negotiate with terrorists, including price terrorists"** (Feb 2026) — the
+  quoted price is the price he holds, because negotiating once makes every price
+  negotiable. To change price ethically and without setting a precedent, change the
+  *terms* (drop the guarantee, cut sessions/week), never just the number
+  [[../wiki/topics/business/sales-frameworks]].
+- **Intuition is accumulated pattern-recognition, not a magic power** (Feb 2026) — "a
+  really amorphous word for having a history of reinforcement with variables you can
+  identify or have trouble identifying." A gut feeling is the subconscious matching
+  present cues against a past experience, surfaceable by deliberate elimination-reasoning
+  [[../wiki/topics/mindset/discipline-and-decision-making]].
+- **Great vs. world class is disproportionate front-end effort, not talent** (Feb 2026) —
+  ~10 hours per book page, 19 drafts, no fixed stopping point beyond "nothing else I could
+  think of to improve it." He'd rather spend two years on an exceptional product customers
+  promote for him than two months on a decent one he has to keep promoting himself
+  [[../wiki/topics/mindset/discipline-and-decision-making]].
+- **The "small dog frame"** (Feb 2026) — "comparison only works in the vague, not in the
+  specific." A newer, smaller competitor loses the company-vs-company comparison but wins
+  the founder-vs-indifferent-employee one; he traces it to his own gym-launch years as the
+  small dog, not "the 800 lb gorilla" [[../wiki/topics/business/sales-frameworks]].
+- **Volume must come before quality — the "accordion"** (Feb 2026) — quality and quantity
+  aren't a fixed choice but an oscillating cycle: produce volume, find the outlier, cut down
+  to fewer/better at the same output, expand again at the new bar. Volume has to come first
+  because you can't define "quality" without a large enough dataset to learn from
+  [[../wiki/topics/content-strategy/content-engine]].
+- **⚠️ Dated 2026 investment thesis: "fabulous businesses at fair prices"** (2026-02-10) —
+  explicitly evolved position (echoing Buffett's own shift from "terrible businesses at
+  fabulous prices"): acquisition.com's first 24 months did 24 deals and gave back or lost
+  money on all but three; the best deals since have come at higher valuations and less
+  equity from operators who don't need him. Current TL;DR: "we just write checks" — money
+  for equity, help given without expectation on top [[../wiki/topics/wealth/investing-and-wealth]].
 
 ## Related
 

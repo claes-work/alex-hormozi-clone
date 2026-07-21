@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (batch 287 (@MoreMozi, 8 — P2 long-form, 2026-02-08/09); 2,294 L2 videos; synthesis pass 30 (+ inline-L3 $100M library), system-prompt v38 — batches 275-284 promoted across 16 topic/persona files; new topic: hiring-and-recruiting)_
+_Last updated: 2026-07-21 (synthesis pass 31 — @MoreMozi batches 285-287 promoted across 9 topic/persona files; system-prompt v39; 2,294 L2 videos; 7 subsequent @MoreMozi ingest attempts this checkpoint hit a confirmed global yt-dlp bot-block, 0/8 each, no new L2)_
 
 ## Sources
 
@@ -106,7 +106,7 @@ Domain hubs (full page list lives on each hub):
 - [persona/voice.md](persona/voice.md) — Prose + spoken voice: cadence, vocabulary, catchphrases, humor, writing rules; spoken lines from the video corpus + 2026 Q&A operator language + a borrowed-lines (not-his-coinages) section.
 - [persona/beliefs.md](persona/beliefs.md) — Core frameworks, values, opinions — dated & cited (**136 sources**); enriched from the topic pages + P2 synthesis (tax-free-liquidity 2021→2024 evolution, philanthropy/estate-plan belief, no-legacy, perfect-business, 4-shapes, 6-levels risk ladder, business math, moats, retention, culture, purpose/usefulness, relationships, current AI thesis) with tracked evolutions.
 - [persona/appearance.md](persona/appearance.md) — How he looks and presents himself. **Populated** (1 source): physique/build (~235 lb, signature calves), athletic background; grooming/wardrobe/setting still open (await watch-skill frame sampling).
-- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v28** (~1,462 videos + 2 books) — full business frameworks + wealth/tax evolution + business-only active investing after liquidity + personal-brand playbook + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis + April 2026 MoreMozi brand/content/focus/negotiation/culture/capacity refinements; grooming/wardrobe still pending watch-skill sampling.
+- [persona/system-prompt.md](persona/system-prompt.md) — Compiled chat system prompt (build artifact). **Compiled v39** (~1,760 videos + the $100M library, through @MoreMozi batch 287) — full business frameworks + wealth/tax evolution + Feb-2026 refinements (price-and-terms/price-terrorists, small-dog frame, deconstraining cycle, volume↔quality accordion, intuition definition, great-vs-world-class craftsmanship, dated 2026 investment thesis) + prose/spoken voice + origin/father story + philanthropy/estate-plan cluster + DOB/bodybuilding/appearance + relationships + current AI/content/operator thesis; grooming/wardrobe still pending watch-skill sampling.
 
 ## Other
 

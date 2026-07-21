@@ -471,6 +471,18 @@ prescribes an offer-stack + funnel simplification:
   [[pricing-psychology]]; here it is the funnel-architecture rationale for a single cheap front end
   feeding the back-end continuity offer.)
 
+### Zero-margin front end for affiliate-driven acquisition (2026-02-08)
+
+In [[../../sources/2026-02-08-yt-f6hBE2ZJxZM|I Make $50M/Year Selling Supplements but I Feel
+Lost With My Messaging]] (2026-02-08), coaching a genetic-testing/supplements business, Hormozi
+extends the loss-leader-front-end logic to an **influencer-affiliate acquisition channel**:
+recruit health-and-wellness affiliates and pay them **100% of the profit on the front-end
+genetic test** so they're maximally motivated to drive volume — the business makes zero margin
+on the front end by design — and monetize entirely on the back end via segmentation/follow-up
+sequences plus the ancillary word-of-mouth the volume generates.
+> "I would say I'll give you a 100% of the profit on the front end test because I want as many
+> people as possible to get tested... So you make zero on that which you'll love."
+
 ## Sources
 
 - [[../../sources/2025-08-16-100m-money-models|$100M Money Models]] (2025) — the entire framework
@@ -490,3 +502,4 @@ prescribes an offer-stack + funnel simplification:
 - [[../../sources/2026-03-08-yt-dgQj5lEkzns|I Make $1M/Year Teaching Arts and Crafts]] (2026-03-08) — two-cart-close launch structure (annual-only + exclusive bonuses at event → post-event scoop-up to monthly with bonuses stripped); $300–600 consumer impulse window; physical-product tangibility premium.
 - [[../../sources/2026-07-17-yt-WiSjImHwlmY|Build Ramps, Not Walls]] (2026-07-17) — ⭐ waived-onboarding-for-12-month-commitment offer with early-cancel clawback; upfront-fee-as-anchor; teased as "one of my favorite offers ever," next book.
 - [[../../sources/2026-07-17-yt-CWK1kQTWagM|Helping an AI Consultant Scale From $100K to $1M]] (2026-07-17) — "you have a model issue": collapse offer stack (kill low-ticket one-time, fold in as free deliverable), price back end on avatar economics, "one funnel to rule them all," low front-end price as a volume feature.
+- [[../../sources/2026-02-08-yt-f6hBE2ZJxZM|I Make $50M/Year Selling Supplements but I Feel Lost With My Messaging]] (2026-02-08) — 100%-front-end-profit-to-affiliates loss-leader packaging for an influencer-affiliate acquisition channel; back-end monetization via segmentation sequences.

@@ -1036,6 +1036,46 @@ From an MSP-scaling coaching Q&A, concrete numbers and a sequencing rule that ex
 > you'll have more knowledge. So you have two massive advantages over any salesperson."
 > — 2026 ([[../../sources/2026-07-17-yt-0d7JlGtlsVs]])
 
+## 18. February 2026 refinements: price-and-terms, "never negotiate with price terrorists," the logical sale, and the small-dog frame
+
+- **⭐ "Price and terms."** In
+  [[../../sources/2026-02-09-yt-ng_kHKACAF8|How to Handle Price Objections]] (2026-02-09),
+  Hormozi diagnoses a "no" as never monolithic — probe which of **budget, authority, timing**
+  (BAT) or value/details is actually behind it, since some objections (a genuine need mismatch)
+  shouldn't be overcome at all. On price specifically: **"never negotiate with terrorists,
+  including price terrorists"** — the quoted price is the price you hold, because negotiating
+  once makes every price negotiable. His rule for changing price: **change the terms, not just
+  the number** — drop the guarantee, cut sessions per week — never simply "I'll do it for
+  less," both as business discipline (price standardization — "people talk") and an ethical
+  one (you can't sell the same thing to one buyer cheaper than another).
+  > "I'm a very firm believer in never negotiating with terrorists, including price terrorists."
+  > "The price that you quote is the price that you stick to. Otherwise, as soon as you
+  > negotiate once, every price you have is negotiable, which sucks as a business."
+  > "I can't ethically sell you the same thing as somebody else for $5,000 for $3,000. I can't
+  > do it. What I can do is I can remove a component."
+- **The logical sale (analytical buyers).** In
+  [[../../sources/2026-02-08-yt-V5y5295KSn8|"I help web developers get jobs. How do I
+  monetize?"]] (2026-02-08), coaching a dev-community monetizer: engineers/developers are
+  highly analytical, so sell them with a **"logical sale"** — stick to facts, spell out the
+  income delta and graduation rate in black-and-white ROI terms. Buyers who purchase on logic
+  both convert and **refund less**.
+  > "believe it or not engineers if you make a logical argument will make a logical purchase.
+  > They're also less likely to refund if they make a logical purchase."
+- **⭐ The "small dog frame."** In
+  [[../../sources/2026-02-09-yt-j7cpqvmEMvc|How to Beat Competitors Bigger Than You]]
+  (2026-02-09), coaching a two-month-old events company competing against 15-year incumbents:
+  **"comparison only works in the vague, not in the specific."** Don't fight the
+  company-vs-company comparison (the incumbent wins that one) — reframe it to *you* vs. "employee
+  number 86" at the incumbent. Concede the incumbent's longer track record, then flip it: the
+  client is "just a number" there, routed to an indifferent account rep, versus a motivated
+  founder who will do everything to make the client succeed. He grounds it in his own gym-launch
+  years as the small dog, not "the 800 lb gorilla," and says on founder-motivation vs.
+  clock-in/clock-out-employee he wins "10 times out of 10."
+  > "comparison only works in the vague, not in the specific."
+  > "it's not is my company better than their company. The question you have to ask yourself is
+  > whether I'm better and more motivated to help you... compared to their hourly or salaried
+  > employee who clocks in and clocks out and doesn't care."
+
 ## Related pages
 
 - Hub: [[business]]
@@ -1106,3 +1146,9 @@ From an MSP-scaling coaching Q&A, concrete numbers and a sequencing rule that ex
   components; availability = #1 show correlation (4x); personal-VSL AI arbitrage (2026)
 - [[../../sources/2026-07-17-yt-0d7JlGtlsVs]] — speed-to-lead numbers (60s PPC / ~5min Meta);
   offer→sales-motion→traffic fix-order; warm-to-cold "microwave" (2026)
+- [[../../sources/2026-02-09-yt-ng_kHKACAF8]] — "price and terms" rule; BAT objection taxonomy;
+  "never negotiate with price terrorists"; ethical price standardization (2026)
+- [[../../sources/2026-02-08-yt-V5y5295KSn8]] — the "logical sale" for analytical/engineer
+  buyers; avatar-end-goal survey before building a paid offer (2026)
+- [[../../sources/2026-02-09-yt-j7cpqvmEMvc]] — the "small dog frame"; comparison works in the
+  vague not the specific (2026)

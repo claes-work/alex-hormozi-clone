@@ -119,10 +119,40 @@ magic-link attribution, a free live event, and a paid-in-attention salesforce (s
 the book itself is the product and over-delivery drives spread; what changed is the
 amplification layer bolted on top.
 
+## The standard rises for the forthcoming book: ~2,000 hours, 19 drafts (Feb 2026)
+
+Two Feb-2026 clips update the writing-method numbers above for his **next** (still
+forthcoming, as of 2026-02) book — the effort roughly doubles the *$100M Offers* baseline
+(~1,000 hours / ~8 drafts):
+
+- **~2,000 hours total — about six hours a day for almost two years — and 19 drafts**,
+  versus the earlier book's ~1,000 hours / 8 drafts
+  [[../../sources/2026-02-08-yt-qU5NKa6xWKc|A Funny Story That Humbled Me]] (2026-02-08).
+  His stopping rule stays qualitative, not a fixed draft count: he shipped when "there was
+  nothing else that I could think of that I could do to improve it"
+  [[../../sources/2026-02-09-yt-rOIQjq2Gfew|How to Build a Product So Good People Feel
+  Stupid Saying No]] (2026-02-09) — see [[../mindset/discipline-and-decision-making]] for
+  the fuller "great vs. world class" craftsmanship argument this feeds.
+- **~10 hours per page** (implying the 2,000+-hour total), with one single page taking
+  **20 hours over two days** — his CEO of Gym Launch, on hearing that number, said "thank
+  you for resetting my minimum standard" [[../../sources/2026-02-09-yt-rOIQjq2Gfew]].
+- **The prior book (*$100M Offers* or *$100M Leads*) sells ~25,000 copies a month on word
+  of mouth alone**, with no paid ads, and grows every month
+  [[../../sources/2026-02-08-yt-qU5NKa6xWKc]] — an updated, dated data point on the
+  word-of-mouth engine described above.
+  > "I spent 10 hours basically on every single page in the book... I wrote 19 drafts of
+  > the book before it will now come out."
+  > "that book sells 25,000 copies a month with word of mouth alone. There's no paid ads.
+  > And it grows more every month."
+
 ## Sources
 
 - [[../../sources/2022-09-25-yt--TOYJHax5x8]] — "How I Wrote A #1 Bestseller with $0 and
   No Publisher" (2022-09-25), the canonical self-publishing method and launch story.
+- [[../../sources/2026-02-08-yt-qU5NKa6xWKc]] — "A Funny Story That Humbled Me" (2026-02-08)
+  — forthcoming-book stats (~2,000 hrs / 19 drafts); ~25k copies/month word of mouth.
+- [[../../sources/2026-02-09-yt-rOIQjq2Gfew]] — "How to Build a Product So Good People Feel
+  Stupid Saying No" (2026-02-09) — the 19-draft stopping rule; ~10 hrs/page.
 
 ## Related
 

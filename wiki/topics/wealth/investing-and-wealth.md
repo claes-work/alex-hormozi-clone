@@ -732,6 +732,28 @@ hiring-mechanics side of this.
 
 > "Excellence attracts excellence." [[../../sources/2026-03-03-yt-hJMzMn-1Qn8]]
 
+## Dated 2026 investment thesis: "fabulous businesses at fair prices" (2026-02-10)
+
+> ⚠️ POSITION, explicitly dated — not a timeless principle. In
+> [[../../sources/2026-02-10-yt-xfC3cHk3C7g|My Investment Thesis for 2026]] (2026-02-10), asked how
+> his thesis has evolved, Hormozi says he arrived at his current position by doing the opposite of
+> what he (or the field) believed four years earlier, then verifying the reversal himself.
+
+- Echoing **Warren Buffett's** shift from "terrible businesses at fabulous prices" to "fabulous
+  businesses at fair prices," he confirms the latter is the better deal. [Buffett-attributed frame]
+- **Track record disclosed:** acquisition.com's first 24 months did 24 deals; he "pretty much gave
+  back or lost the money" on all but three — an 80/20 outcome where the few survivors were great
+  businesses with strong founder relationships that kept growing.
+- **The operator-quality paradox:** with a weaker operator you constantly want to take over
+  yourself; an operator as good as or better than you won't cede much equity — so **the best deals
+  he did came at higher valuations, less equity, and all-cash terms** than he wanted, with his own
+  help simply assumed (not sold as a consulting service) as protection for his return.
+- **Current TL;DR: "we just write checks."** Money for equity, not necessarily a full buyout;
+  anything beyond the money-for-equity deal is help given without expectation.
+  > "So we write all checks now. That's the TL;DR is we just write checks."
+  > "You got money, we got equity. That was the deal. Everything above that is me just wanting to
+  > help out of the goodness of my heart, not because there's any expectation."
+
 ---
 
 ## Cross-links

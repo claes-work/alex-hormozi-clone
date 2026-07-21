@@ -768,6 +768,43 @@ saturation: "this is a $60 billion industry, I don't even have 1% of it."
 
 ---
 
+## The deconstraining cycle: Metric → Market → Model → Money → Manpower (2026)
+
+In [[../../sources/2026-02-10-yt-OuZMlb3U7Bs|What to Do If You're Constrained by Your Market]]
+(2026-02-10), Hormozi names a repeating cycle for deconstraining any business, arguing a genuine
+market-size ceiling is rare (his example of real limits: a lounge literally in the Sahara Desert).
+Almost everyone who *feels* market-constrained isn't — a B2B operator serving 100 of ~50,000
+chiropractors hasn't saturated anything; "no one knows you exist" is a marketing problem, not a
+market one.
+
+- **The cycle:** fixing "advertise more" surfaces the next constraint (no data to know what
+  "more" even means → **Metric**), then doubt about the vehicle itself (**Model**), then
+  affordability (**Money**, which splits into lead cost / close rate / LTV), then talent supply
+  (**Manpower**, which runs the identical sub-cycle on the supply side) — and it loops back to
+  the top. He corrects his own drawn order live: **Metric should come before Market.**
+- **⭐ "Features versus bugs"** (credited to Suzanne Shifflet, his former Gym Launch CFO):
+  every business has something hard about it; wanting to switch vehicles just trades your
+  current hard thing for a different one you haven't hit yet (home cleaning: labor is hard,
+  customers are easy; fitness: customers are easy, get them to show up is hard).
+  > "Every business has something that's hard about it... The hard problem that you have in
+  > front of you is the thing that you get compensated for solving. Like that's the game."
+- **Reframe the hard problem by its enterprise-value payoff** — e.g. a recruiting/training
+  engine that upskills low-skill labor faster than competitors could add $10–50M of EV, which
+  "tends to perk me up a little bit" about a problem that otherwise feels undesirable.
+- **Time horizon dissolves most "wrong vehicle" panic.** Nearly any vehicle compounds to
+  extraordinary wealth over decades (his Panda-Express-owning neighbor: 5 stores × ~$3M topline
+  at 27% margin, unremarkable — until 45 years compounds it to ~$3.7B/yr revenue); people
+  obsess over getting rich in 36 months when the same vehicles can make them rich in 36 years.
+  A **low-opportunity-vehicle market is an advantage**, not a defect — competitors there are
+  typically unsophisticated, versus AI where you compete "against the best capitalized,
+  smartest human beings on the earth" (Raising Cane's cited as a low-tech vehicle → billionaire
+  outcome).
+  > "Most of the goals that you have are probably attainable just not on the timeline that you
+  > gave yourself."
+- This complements the existing "what business are you really in" and "4 shapes" lenses above:
+  the deconstraining cycle is the *procedural* loop you run once you've named the constraint
+  category, while those lenses name *which* category you're in.
+
 ## How the lenses fit together
 
 - **Supply vs demand** is the fast triage — always run first.
@@ -818,3 +855,4 @@ machinery ([[money-model]]) at that one thing.
 - [[../../sources/2026-02-11-yt-VY7ad5OSJ8w|The Biggest Factor Limiting the Growth of Your Business]] (2026) — irrelevance as the root constraint beneath supply/demand; reach/make/advertise more; "violent effort" urgency reframe.
 - [[../../sources/2026-02-14-yt-lvCdhky7Xm0|There's No Easy Business]] (2026) — supply-constraint diagnosis; the "no one with bad churn stops selling" stickiness tell; fix the constraint before marketing.
 - [[../../sources/2026-07-18-yt-17jgssxYtqw|"How Do I Hire in a Town of 5,000 People?"]] (2026) — "I solve problems back to front" (churn before attraction on the talent funnel); the "training business" reframe with 14-day / 12-hours-on-feet standards.
+- [[../../sources/2026-02-10-yt-OuZMlb3U7Bs|What to Do If You're Constrained by Your Market]] (2026) — the deconstraining cycle (Metric→Market→Model→Money→Manpower); "features versus bugs" (Suzanne Shifflet); time-horizon reframe.
