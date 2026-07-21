@@ -8638,3 +8638,48 @@ Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token bloc
 unresolved and infra-level, same escalation as the prior eight entries — this looks like it needs
 a human-side fix, e.g. a PO-token provider plugin or cookies file, rather than further automated
 retries).
+
+## [2026-07-21] ingest | Stage B: @MoreMozi P2 batch — yt-dlp PO-token block persists, tenth consecutive stop, 0/8 ingested
+
+Loop iteration (dispatched as a roster-autopilot subagent, new session, batch size 8, collapsed-
+nesting instruction in effect: write pages directly, no per-video subagents). Stage selection via
+`ingest_batch.py status` (first-matching-rule-wins): open long-form only `@MoreMozi 225 (P2:217
+P3:8)`, P1:0 everywhere; synthesis debt 2/10 (well under checkpoint) → not Stage S; persona
+refreshed in pass 31 (v39, 2026-07-21) with no new topic pages since → not Stage P; all 5 target
+channels already have ledger rows → not Stage A; P1 open = 0 → skip; P2 open (@MoreMozi) →
+**Stage B, P2** (first-matching-rule).
+
+Ran `ingest_batch.py prepare --channel @MoreMozi --n 8` to get a fresh read (ninth entry had
+skipped the prepare call in favor of a bare probe; this iteration ran it to double-check the tool
+itself hadn't changed behavior). Result: identical to the prior nine stops — all 8 selected rows
+(8fk8WaFmc6I, B0v5k_9iG3M, PWn_FCefCXY, enLlQLUH4As, NSpxfFTz4KI, DQLjQAXGK4g, Ma4rpdS41Tw,
+4rbx2gzJzi4) came back `no-captions`. Manually reproduced against the queue head (`8fk8WaFmc6I`)
+with a direct `yt-dlp --skip-download --write-subs --write-auto-subs` call: same signature as
+every prior stop —
+`WARNING: [youtube] 8fk8WaFmc6I: There are missing subtitles languages because a PO token was not
+provided. Automatic captions for 1 languages are missing.` / `[info] There are no subtitles for
+the requested languages`. This is a false negative, not genuinely missing captions — the
+`prepare` command's classifier only pattern-matches stderr/stdout for `"no subtitles"`, which the
+PO-token failure message also happens to contain, so it silently mismarks a transient
+infra-level block as a permanent no-captions row (same known classifier gap flagged in the sixth
+entry). Because `prepare` (without `--no-mark`) auto-writes ledger status on this misclassification,
+it had already set these 8 rows to `status=L1, notes=no-captions` in `pipeline/ledger.csv`; reverted
+that with `git checkout -- pipeline/ledger.csv` before doing anything else, restoring all 8 to their
+prior `L0-discovered` state. No environment change found (no PO-token-provider plugin, no cookies
+file); this is the tenth consecutive reproduction of the identical signature across sessions.
+
+No captions fetched → no source pages, no `wiki/sources/`/`youtube-index.md`/`index.md` bookkeeping
+this iteration; ledger restored to its pre-iteration state (net diff: none). Counts unchanged:
+L2=2296 / L3=19; open long-form @MoreMozi 225 (P2:217 P3:8), P1:0 everywhere; open shorts 8,814.
+Synthesis debt: 2 (unchanged; no new L2 material this iteration to accrue debt from).
+
+Ending this iteration per the safety rail (well past 3 consecutive yt-dlp failures; tenth stop on
+this exact signature across sessions — further automated retries are not expected to change the
+outcome without an infra-side fix). Not scheduling a wakeup or starting a loop (dispatched as a
+one-shot roster subagent per instruction). No repo state change beyond this log entry — nothing to
+commit in wiki/pipeline/persona; committing this log entry alone.
+
+Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token block remains
+unresolved and infra-level, same escalation as the prior nine entries — needs a human-side fix,
+e.g. a PO-token provider plugin (e.g. bgutil) or an authenticated cookies file, rather than further
+automated retries).
