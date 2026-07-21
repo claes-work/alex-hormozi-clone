@@ -8440,3 +8440,65 @@ or authenticated `--cookies-from-browser`), or have the next dispatcher route to
 dedup, 8,814 open) or hold, since P1/P2 long-form is structurally blocked right now.
 
 Synthesis notes: none (nothing ingested this iteration).
+
+## [2026-07-21] ingest | Stage B: @MoreMozi P2 batch — yt-dlp bot-block persists (PO-token), seventh consecutive stop; confirmed GLOBAL (shorts + multi-client)
+
+Loop iteration (dispatched fresh as a roster-autopilot subagent — new session, batch size 8,
+collapsed-nesting instruction in effect: write pages directly, no per-video subagents). Stage
+selection via `ingest_batch.py status` (first-matching-rule-wins): open long-form only
+`@MoreMozi 225 (P2:217 P3:8)`, P1:0 everywhere; synthesis debt 9/10, no `SYNTHESIS DUE` → not
+Stage S (also: the six prior zero-yield stops produced no new material to promote — advancing the
+counter alone isn't real debt, per the immediately-preceding log entry); persona last refreshed at
+synthesis pass 30 (2026-07-20), no new topic pages since → not Stage P; all 5 target channels
+already have ledger rows → not Stage A; P1 open = 0 → skip; P2 open (@MoreMozi 217 of 225, plus
+P3:8) → **Stage B, P2** (first-matching-rule).
+
+Given SIX prior consecutive dispatches already confirmed a persistent YouTube PO-token/bot-block on
+this exact @MoreMozi P2 queue, re-verified before spending the batch — and this time widened the
+probe to test whether the block is actually queue-specific or fully global, since the prior entries'
+own recommendation was to consider routing to Stage C (shorts) or holding:
+
+1. `yt-dlp --list-subs` on `Zk4iYqISxe4` (already-ingested, real-transcript video) → same
+   `WARNING: ... a PO token was not provided ...` → "has no automatic captions"/"has no subtitles".
+   **Seventh** confirmation of this exact signature.
+2. **New probe — shorts:** tested an open @AlexHormozi P2 **short** (`yt-zgYQT-fdLL4`, selected via
+   `ingest_batch.py prepare --channel @AlexHormozi --n 3 --include-shorts --dry-run`) directly with
+   `yt-dlp --list-subs` → **identical** PO-token warning, no captions returned. This confirms the
+   block is **not specific to @MoreMozi or to long-form** — Stage C (shorts dedup) would fail
+   identically, so it is not a viable fallback this iteration either.
+3. **New probe — player clients:** re-ran `--list-subs` against `Zk4iYqISxe4` with
+   `--extractor-args "youtube:player_client=<X>"` for `tv`, `web`, `web_creator`, `mweb`, `ios`.
+   All five failed: `tv`/`mweb`/`ios`/`web_creator` → explicit `Sign in to confirm you're not a
+   bot` / `Please sign in` errors; `web` → the same PO-token warning. No client-selection
+   workaround exists without authentication.
+4. Checked for a low-effort infra fix: no PO-token provider plugin installed (`yt-dlp
+   --list-extractors` has no `pot`/`bgutil` entries), and this sandbox has no `pip`, `node`, `npm`,
+   or `docker` binary and no browser profile to source `--cookies-from-browser` from — installing a
+   PO-token-provider server (e.g. `bgutil-ytdlp-pot-provider`, which needs a running Node.js HTTP
+   helper) is out of scope for a single ingest iteration and was not attempted.
+
+Because every probe (P2 long-form, shorts, and 5 player clients) reproduces the identical
+environment-level block, this is now confirmed **global** — not a queue- or content-type-specific
+throttle. `ingest_batch.py prepare` was **not** run this iteration (no point risking another false
+`no-captions` auto-mark on the ledger when the diagnosis is already this thorough) — all 217 P2 +
+8 P3 @MoreMozi rows and all 8,814 open shorts remain untouched (`L0-discovered`/open), confirmed via
+`git status` (clean, no ledger/wiki changes).
+
+No captions fetched → no source pages, no `wiki/sources/`/`youtube-index.md`/`index.md`/ledger
+bookkeeping this iteration. Counts unchanged: 2,296 L2 / 19 L3; open long-form @MoreMozi 225
+(P2:217 P3:8), P1:0; open shorts 8,814. Synthesis debt: 9 ingest batches since synthesis pass 30
+(checkpoint at 10) — this entry advances the log-based counter to 10, but per the note above there
+is no new ingested material behind it; the next dispatcher should NOT treat this as real synthesis
+debt and should skip Stage S until actual new L2 content lands.
+
+Ending this iteration per the safety rail (rate-limit/bot-block assumed; seven-for-seven across
+four separate dispatch sessions, now spanning both content types and five player-client variants).
+Not scheduling a wakeup or starting a loop (dispatched as a one-shot roster subagent). **Escalating
+past "recommend": every caption-dependent stage (B on any priority, C on shorts) is now confirmed
+blocked** — there is no in-scope fallback stage left to try. The fix is strictly infra-level and
+outside this iteration's tool access (a yt-dlp PO-token-provider plugin needing Node.js, or
+authenticated YouTube cookies sourced from a real browser session) — a maintainer with shell/package
+install access should either add one of those, or the roster dispatcher should hold on this clone
+entirely until resolved rather than spending further identical iterations.
+
+Synthesis notes: none (nothing ingested this iteration).
