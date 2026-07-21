@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-20 (batch 286 (@MoreMozi, 8 — P2 long-form, 2026-02-09); 2,286 L2 videos; synthesis pass 30 (+ inline-L3 $100M library), system-prompt v38 — batches 275-284 promoted across 16 topic/persona files; new topic: hiring-and-recruiting)_
+_Last updated: 2026-07-21 (batch 287 (@MoreMozi, 8 — P2 long-form, 2026-02-08/09); 2,294 L2 videos; synthesis pass 30 (+ inline-L3 $100M library), system-prompt v38 — batches 275-284 promoted across 16 topic/persona files; new topic: hiring-and-recruiting)_
 
 ## Sources
 
@@ -36,7 +36,7 @@ _Last updated: 2026-07-20 (batch 286 (@MoreMozi, 8 — P2 long-form, 2026-02-09)
 
 ### YouTube
 
-- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**2,246 L2**; @AlexHormozi, @ACQofficial, @TheSkoolSchool, and @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19); only @MoreMozi long-form remains — P1 empty, P2/P3 tail open). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
+- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**2,254 L2**; @AlexHormozi, @ACQofficial, @TheSkoolSchool, and @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19); only @MoreMozi long-form remains — P1 empty, P2/P3 tail open). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
 
 ## Topics
 

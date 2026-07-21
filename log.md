@@ -8135,3 +8135,55 @@ Grand Slam Offer but the content is a craftsmanship/effort argument — do not m
 (5) minor: xh1jVWwl3gM's "branding is hard to sell to SMBs" positioning caution (fix avatar/model before price);
 bCxYJ5XB3m4's give-away-info / sell-implementation + same-info-different-medium pricing ladder; KVAaAf1Qb38's
 task-enumeration-as-content-schedule; 9kRw7XVbuDU's "demand-constrained for talent" recruiting-by-outreach point.
+
+## [2026-07-21] ingest | yt batch 287 - @MoreMozi P2 long-form (2026-02-08/09), 8 videos
+
+Loop iteration (Stage B). Stage selection at iteration start (first-matching-rule-wins): synthesis debt 2/10
+(`ingest_batch.py status` printed "ingest batches since last synthesis: 2" — batches 285 & 286 sit after synthesis
+pass 30; no `SYNTHESIS DUE`, checkpoint at 10); persona not stale (pass 30 recent, no new topic pages since); all
+channels enumerated; P1 empty → open P2 long-form rows → **Stage B, P2**. Drained the next 8 @MoreMozi P2 rows in
+normal order (priority ASC, oldest-published-first): 6 × 2026-02-08 + 2 × 2026-02-09. All 8 fetched captions
+cleanly — 0 no-captions, 0 duplicates, 0 skipped, no rate limiting. Genuine Alex solo essays + coaching/Q&A clips;
+audience questioners attributed to context per rule 6 (not persona); two clips carry co-host/second-speaker
+interjections (pTXnp3chRS4, qU5NKa6xWKc, Zk4iYqISxe4) — those lines are attribution-flagged and kept out of
+persona data until confirmed.
+
+- r5JgZJaaGJs ★ — "How Intuition Actually Works" (intuition = subconscious **pattern-matching over unlabeled / hard-to-identify variables** — "a history of reinforcement," not magic; he treats gut feelings as pointers to a real-but-unnamed variable, surfaced via deliberate elimination-reasoning) — mindset;business
+- r39uYWBv01A ★ — "How I Actually Make YouTube Videos" (his **live-recording production model**: one weekly ~3-4hr live batch-record → ~3 polished videos + shorts + a bonus ~100k-view live asset; belief that the physical room shapes tone; live viewer questions treated as value-adding gaps, not interruptions; corrects a guest premise that lives are inferior to polished) — content-strategy;marketing
+- qU5NKa6xWKc ★ — "A Funny Story That Humbled Me" (**300-flyer** gym-marketing origin story; **volume / level-of-effort thesis** — 30x not 2x; ~350 content pieces/week; NEW bio + forthcoming-book stats: ~2,000 hrs / ~6 hrs a day for ~2 yrs / 19 drafts, prior book ~25k copies/month word-of-mouth. NOTE: "great work takes great struggle / low-hanging fruit" lines voiced by a second speaker — attribution flagged) — mindset;marketing;content-strategy
+- f6hBE2ZJxZM — "I Make $50M/Year Selling Supplements but I Feel Lost With My Messaging" (chunk-up the message, quiz/segmentation funnel, and a **100%-front-end-to-affiliates** loss-leader offer monetized on the back end — applied to an influencer-affiliate acquisition model) — marketing;business
+- Zk4iYqISxe4 — "Scaling a Marketing Agency That Works With Martial Arts Schools" (**solve for revenue retention/stick before acquisition** — it drives sellability; "level-8 skill on a level-3 opportunity" mismatch; "pick the opportunity worth the pain — all businesses are ~50% suffering." NOTE: a second coach (voice suggests Leila) shares the call — several claims/quotes marked attribution-uncertain) — business;mindset
+- V5y5295KSn8 ★ — "'I help web developers get jobs. How do I monetize?'" (**survey the audience** to find the avatar's end-goal before building the paid offer; the **"logical sale"** — sell analytical/engineer buyers on facts, numbers, ROI deltas; they buy on logic and refund less) — business;marketing
+- pTXnp3chRS4 ★ — "A Framework for Dealing With Life's Problems" (stacked **reframes** to defuse upset: cosmic zoom-out, 20-year test, "ancient Americans" 5,000-yr frame, the "veteran" habituation frame, surrender-to-reality, and refusing to define the thing as a problem — "most short-term problems are long-term benefits" / boy-and-horse parable. NOTE: co-host interjections; the Christianity/weather anecdote + "getting used to not getting my way" hack are attribution-flagged as a **CONTRADICTION** — kept out of persona until confirmed against the video) — mindset
+- ng_kHKACAF8 ★ — "How to Handle Price Objections" (diagnose the real "no" via the **BAT** taxonomy — budget/authority/timing, plus value/details; **never negotiate** — "don't negotiate with price terrorists"; change price ONLY by changing **terms/components**, e.g. drop the guarantee or cut sessions/week; ethical rationale for price standardization) — business
+
+Counts: 2,294 L2 / 19 L3; open long-form @MoreMozi 216 (P2:208 P3:8), P1:0; open shorts ~8,793.
+Synthesis debt: 3 ingest batches since synthesis pass 30 (checkpoint at 10) — not due.
+6 L3-candidates flagged (★): r5JgZJaaGJs, r39uYWBv01A, qU5NKa6xWKc, V5y5295KSn8, pTXnp3chRS4, ng_kHKACAF8.
+
+Synthesis notes: genuinely-new material for the next Stage S checkpoint —
+(1) **ng_kHKACAF8** (business/sales) — the **"price and terms" rule** (never drop price without removing a
+component — e.g. remove the guarantee or reduce sessions/week) + the **BAT objection-diagnosis taxonomy**
+(no-based-on value/details/authority/timing) + the **"price terrorists / never negotiate"** stance and the ethical
+price-standardization rationale. Promote into `wiki/topics/business/sales-frameworks`.
+(2) **r39uYWBv01A** (content-strategy) — the **"one live batch-record = multiple assets"** production model
+(weekly ~3-4hr live → ~3 polished videos + shorts + a ~100k-view live asset), plus the beliefs that the physical
+room shapes tone and that live viewer questions add value. Promote into `content-strategy/content-engine`.
+(3) **pTXnp3chRS4** (mindset) — a compact **reframing/acceptance system** (cosmic zoom-out, 20-year test,
+"ancient Americans," the "veteran" habituation frame, surrender-to-reality, refuse-the-problem-label /
+"short-term problem = long-term benefit"). Candidate mindset topic page on reframing/emotional regulation.
+ATTRIBUTION CAUTION: co-host shares this clip — the Christianity/praying-for-weather anecdote and the
+"getting used to not getting my way" hack are flagged uncertain; confirm speaker before any persona promotion.
+(4) **r5JgZJaaGJs** (mindset) — Hormozi's **definition of intuition** as subconscious pattern-matching over
+unlabeled variables ("a history of reinforcement"), surfaceable by elimination-reasoning — fits
+mindset/discipline-and-decision-making.
+(5) **qU5NKa6xWKc** (bio + content-strategy) — NEW **biographical** origin story (early gym marketing: mentor
+advised flyers, put out only ~300, got a complaint call about a dinged Mercedes) + **forthcoming-book stats**
+(~2,000 hrs / ~6 hrs a day for ~2 yrs / 19 drafts; prior book ~25k copies/month on word-of-mouth) + stated
+current cadence ~350 pieces/week — promote datable bits into biography; volume/level-of-effort thesis into
+content-strategy. NOTE second-speaker attribution on the "great work / low-hanging fruit" lines.
+(6) minor: V5y5295KSn8's **"logical sale"** (sell analytical/engineer buyers on numbers/ROI; refund less) +
+survey-for-avatar-end-goal-before-offer; Zk4iYqISxe4's **retention/stick-before-acquisition** sellability driver +
+"level-N skill vs level-N opportunity" mismatch + "pick the opportunity worth the pain" (second coach on-call —
+attribution uncertain); f6hBE2ZJxZM's **100%-front-end-to-affiliates** loss-leader packaging for an
+influencer-affiliate acquisition model.
