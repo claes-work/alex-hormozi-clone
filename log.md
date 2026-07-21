@@ -8302,3 +8302,39 @@ addressing at the infra layer (`--cookies-from-browser`/authenticated cookies, o
 egress) before spending a fourth iteration retrying the same queue unchanged.
 
 Synthesis notes: none (nothing ingested this iteration).
+
+## [2026-07-21] ingest | Stage B: @MoreMozi P2 batch — yt-dlp bot-block persists (PO-token), fourth consecutive stop (new dispatch), 0/8 ingested
+
+Loop iteration (Stage B, dispatched fresh as a roster-autopilot subagent — new session, batch size
+8). Stage selection at iteration start via `ingest_batch.py status` (first-matching-rule-wins):
+synthesis debt 6/10, no `SYNTHESIS DUE` → not Stage S; last synthesis pass (30, 2026-07-20) recompiled
+system-prompt and only 3 ingest batches (285-287) have landed since, well under the 10-batch/new-
+topic staleness bar → not Stage P; all 5 target channels already have ledger rows → not Stage A; P1
+open = 0 → skip; P2 open (@MoreMozi 217 of 225, plus P3:8) → **Stage B, P2**.
+
+Given the prior THREE consecutive iterations all hit the identical YouTube PO-token/bot-detection
+block on this exact @MoreMozi P2 queue, re-verified before spending a batch: (1) a direct `yt-dlp
+--list-subs` against `yt-Zk4iYqISxe4` (a video already confirmed L2-ingested with a real transcript)
+still returns `WARNING: ... a PO token was not provided ...` → "has no automatic captions" / "has no
+subtitles" — the same false-negative, now confirmed a fourth time, in a brand-new dispatch/session (so
+this is not merely one session's transient IP throttle — it has persisted across a new session start).
+(2) Ran `ingest_batch.py prepare --channel @MoreMozi --n 8 --no-mark` (read-only, no ledger mutation)
+for an authoritative work order: it selected the identical 8 rows as all three prior iterations
+(yt-8fk8WaFmc6I, yt-B0v5k_9iG3M, yt-PWn_FCefCXY, yt-enLlQLUH4As, yt-NSpxfFTz4KI, yt-DQLjQAXGK4g,
+yt-Ma4rpdS41Tw, yt-4rbx2gzJzi4) and returned 8/8 `no-captions` (false), 0 ok, 0 retry.
+`pipeline/ledger.csv` confirmed untouched (`git status` clean before and after); all 8 rows remain
+`L0-discovered`.
+
+No captions fetched → no source pages, no `wiki/sources/`/`youtube-index.md`/`index.md`/ledger
+bookkeeping this iteration. Counts unchanged from batch 287: 2,296 L2 / 19 L3; open long-form
+@MoreMozi 225 (P2:217 P3:8), P1:0; open shorts 8,814. Synthesis debt: 6 ingest batches since synthesis
+pass 30 (checkpoint at 10) — unchanged.
+
+Ending this iteration per the safety rail (rate-limit/bot-block assumed; this is now the fourth
+straight confirmation, including across a fresh session boundary). Not scheduling a wakeup or
+starting a loop (dispatched as a one-shot subagent). Escalating the recommendation: this is very
+unlikely to self-resolve — the fix needs to happen at the infra layer (authenticated cookies via
+`--cookies-from-browser`, a PO-token provider plugin for yt-dlp, or egress/IP rotation) before further
+identical retries burn more iterations for zero yield.
+
+Synthesis notes: none (nothing ingested this iteration).
