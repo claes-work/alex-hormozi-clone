@@ -8187,3 +8187,35 @@ survey-for-avatar-end-goal-before-offer; Zk4iYqISxe4's **retention/stick-before-
 "level-N skill vs level-N opportunity" mismatch + "pick the opportunity worth the pain" (second coach on-call —
 attribution uncertain); f6hBE2ZJxZM's **100%-front-end-to-affiliates** loss-leader packaging for an
 influencer-affiliate acquisition model.
+
+## [2026-07-21] ingest | Stage B: @MoreMozi P2 batch — yt-dlp bot-block, 0/8 ingested (rate-limit stop)
+
+Loop iteration (Stage B, dispatched as a subagent — batch size 8). Stage selection at iteration
+start (first-matching-rule-wins): `ingest_batch.py status` showed synthesis debt 3/10 (no
+`SYNTHESIS DUE`) → not Stage S; persona last refreshed at pass 30, only 3 batches since → not
+Stage P; all 5 target channels have ledger rows (AlexHormozi 5305, ACQofficial 2283, MoreMozi
+2757, GymLaunch 892, TheSkoolSchool 221) → not Stage A; P1 open = 0 → skip; P2 open
+(@MoreMozi 217, growing to 225 after an interim `ledger: discovery refresh` commit by roster
+autopilot) → **Stage B, P2**.
+
+`ingest_batch.py prepare --channel @MoreMozi --n 8` selected the next 8 open P2 rows
+(oldest-published-first: yt-8fk8WaFmc6I, yt-B0v5k_9iG3M, yt-PWn_FCefCXY, yt-enLlQLUH4As,
+yt-NSpxfFTz4KI, yt-DQLjQAXGK4g, yt-Ma4rpdS41Tw, yt-4rbx2gzJzi4) — **all 8 caption fetches
+errored**. Direct `yt-dlp` invocation (bypassing the driver) reproduced the same failure twice,
+on two different video IDs, a few seconds apart: `ERROR: [youtube] <id>: Sign in to confirm
+you're not a bot. Use --cookies-from-browser or --cookies for the authentication.` This is
+YouTube's bot-detection block, not a transient HTTP 429 — the driver's `error` outcome bucket
+doesn't distinguish it from other failures, but it is the same class of "assume rate-limiting"
+per the safety rail (3+ consecutive yt-dlp failures; here 8/8). No captions were fetched, so
+**no source pages were written and no ledger rows were touched** — all 8 rows remain
+`L0-discovered`, open for retry next iteration. Nothing to promote; no bookkeeping changes to
+`youtube-index.md` or `index.md` (both unchanged this iteration).
+
+Counts unchanged from batch 287: 2,296 L2 / 19 L3; open long-form @MoreMozi 225 (P2:217 P3:8),
+P1:0; open shorts 8,814. Synthesis debt: still 3 ingest batches since synthesis pass 30
+(checkpoint at 10) — this iteration produced no new batch (0 ingested), so debt does not advance.
+
+Ending this iteration per the safety rail (rate-limit/bot-block assumed). Not scheduling a
+wakeup or starting a loop (dispatched as a one-shot subagent this run).
+
+Synthesis notes: none (nothing ingested this iteration).
