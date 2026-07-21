@@ -80,9 +80,15 @@ top-by-views to P1; if it rate-limits, log and continue). Delete staging CSVs. L
 
 ## Stage B — Ingest batch (the normal case)
 
-Parallelize with one subagent per video. **Concurrency rule: subagents write ONLY their own
-`wiki/sources/<page>.md`; they must NOT touch index.md, log.md, or pipeline/ledger.csv — the
-coordinator does all shared-file updates after agents return.**
+**Spawn model (read first).** If you are the TOP-LEVEL loop (a human ran
+`/loop /ingest-loop` in this clone), you MAY parallelize with one subagent per video for
+speed. If you were yourself DISPATCHED as a subagent (e.g. by the roster autopilot), write the
+source pages DIRECTLY — one transcript after another — and do NOT spawn a subagent per video: a
+second nesting level multiplies as batch × clones × iterations and exhausts the session-wide
+`CLAUDE_CODE_MAX_SUBAGENTS_PER_SESSION`. When in doubt, write directly. **Concurrency rule
+(either mode):** whoever writes a `wiki/sources/<page>.md` writes ONLY that file — never
+index.md, log.md, or pipeline/ledger.csv; the coordinator does all shared-file updates after
+the pages are written.
 1. `python tools/ingest_batch.py prepare --channel <handle> --n $ARGUMENTS` (default 8). It
    picks the next open rows (priority ASC, oldest published first), fetches captions, converts
    them to text, auto-marks no-captions/unavailable rows, and prints a work order. Eyeball the
@@ -99,7 +105,8 @@ coordinator does all shared-file updates after agents return.**
    one-line stub with `attribution` flag + empty quote bank; clearly-Alex → normal L2. Don't
    spend 8 full agents to find 1 Alex video. Prefer interleaving higher-Alex channels when
    their P1 is still open.
-2. Per OK video in the work order: a subagent reads the transcript and writes the source page —
+2. Per OK video in the work order, read the transcript and write the source page (yourself when
+   writing directly, or via that video's subagent when parallelizing) —
    frontmatter (type, source_date, url, channel, ingested, tier: L2, domains, tags), summary,
    dated key claims, a verbatim quote bank, guest attribution (only Alex-attributed = persona
    data; uncertain → flag). Default **L2**; mark L3-candidates with ★ for the next synthesis
