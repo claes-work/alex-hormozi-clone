@@ -8262,3 +8262,43 @@ block, or runs with `--cookies-from-browser`/authenticated cookies to supply the
 since two consecutive iterations now confirm this is not a per-video caption gap.
 
 Synthesis notes: none (nothing ingested this iteration).
+
+## [2026-07-21] ingest | Stage B: @MoreMozi P2 batch — yt-dlp bot-block persists (PO-token), third consecutive stop, 0/8 ingested
+
+Loop iteration (Stage B, dispatched as a subagent — batch size 8). Stage selection at iteration
+start (first-matching-rule-wins) via `ingest_batch.py status`: synthesis debt 5/10 (no `SYNTHESIS
+DUE`) → not Stage S; persona last refreshed at synthesis pass 30, well under the 10-batch/new-topic
+staleness bar → not Stage P; all 5 target channels already have ledger rows → not Stage A; P1 open
+= 0 → skip; P2 open (@MoreMozi 217 of 225) → **Stage B, P2**.
+
+Before running the mechanical driver, given the prior TWO consecutive iterations both hit a
+YouTube bot-detection block on this exact @MoreMozi P2 queue (first as an explicit "Sign in to
+confirm you're not a bot" error, second as a false `no-captions` classification caused by a missing
+PO token — see the two log entries immediately above), ran a lightweight pre-check first: a direct
+`yt-dlp --list-subs` against `yt-Zk4iYqISxe4`, a video already confirmed L2-ingested with a real
+transcript and wiki/sources page. Result: identical `WARNING: ... a PO token was not provided ...`
+followed by "has no automatic captions" / "has no subtitles" — i.e. the same false-negative block,
+now confirmed a third time against a video known to have real captions.
+
+Then ran the actual driver read-only (`ingest_batch.py prepare --channel @MoreMozi --n 8
+--no-mark`, which fetches but does not touch the ledger) to get an authoritative work order without
+risking a third false `L1`/no-captions auto-mark. It selected the same 8 rows as the prior two
+iterations (yt-8fk8WaFmc6I, yt-B0v5k_9iG3M, yt-PWn_FCefCXY, yt-enLlQLUH4As, yt-NSpxfFTz4KI,
+yt-DQLjQAXGK4g, yt-Ma4rpdS41Tw, yt-4rbx2gzJzi4) and returned 8/8 `no-captions` (false — same
+PO-token block), 0 ok, 0 retry. Because `--no-mark` was used, `pipeline/ledger.csv` was not
+modified (confirmed clean via `git status`); all 8 rows remain `L0-discovered`, open for retry.
+
+This is the third consecutive iteration to hit the identical bot-block on the identical queue —
+well past the 3-consecutive-failure safety-rail threshold. No captions were fetched, so no source
+pages were written and no `wiki/sources/`, `youtube-index.md`, `index.md`, or ledger bookkeeping
+applies this iteration. Counts unchanged from batch 287: 2,296 L2 / 19 L3; open long-form @MoreMozi
+225 (P2:217 P3:8), P1:0; open shorts 8,814. Synthesis debt: 5 ingest batches since synthesis pass 30
+(checkpoint at 10) — unchanged, since 0 ingested this iteration.
+
+Ending this iteration per the safety rail (rate-limit/bot-block assumed, three-for-three). Not
+scheduling a wakeup or starting a loop (dispatched as a one-shot subagent this run). The block looks
+IP/session-level and persistent across three separate iterations rather than transient — worth
+addressing at the infra layer (`--cookies-from-browser`/authenticated cookies, or a different
+egress) before spending a fourth iteration retrying the same queue unchanged.
+
+Synthesis notes: none (nothing ingested this iteration).
