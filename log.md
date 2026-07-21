@@ -8379,3 +8379,64 @@ priority (shorts dedup / Stage C, or hold), rather than burning another iteratio
 0-ok queue. Not scheduling a wakeup or starting a loop (dispatched as a one-shot roster subagent).
 
 Synthesis notes: none (nothing ingested this iteration).
+
+## [2026-07-21] ingest | Stage B: @MoreMozi P2 batch — yt-dlp bot-block persists (PO-token), sixth consecutive stop (roster dispatch), 0/8 ingested
+
+Loop iteration (Stage B, dispatched fresh as a roster-autopilot subagent — new session, batch size
+8, collapsed-nesting instruction in effect: write pages directly, no per-video subagents). Stage
+selection via `ingest_batch.py status` (first-matching-rule-wins): synthesis debt 8/10, no
+`SYNTHESIS DUE` → not Stage S (no channel/era completed since pass 30 either — @AlexHormozi's P1/P2
+were already folded into that pass); only ~4-5 real ingest batches since pass 30 → not Stage P; all
+5 target channels already have ledger rows → not Stage A; P1 open = 0 → skip; P2 open (@MoreMozi 225:
+P2:217 P3:8) → **Stage B, P2**.
+
+Given FIVE prior consecutive dispatches (spanning multiple fresh sessions across 2026-07-21) already
+confirmed a persistent YouTube PO-token/bot-detection block on automatic-caption retrieval — not
+specific to @MoreMozi's catalog — re-verified directly before spending the batch: `yt-dlp --list-subs`
+against `Zk4iYqISxe4` (a video already confirmed L2-ingested with a real transcript) and against
+`8fk8WaFmc6I` (head of the current queue) both still return `WARNING: ... a PO token was not
+provided ... Automatic captions for 1 languages are missing.` → "has no automatic captions" / "has no
+subtitles" — the identical false-negative, now confirmed a **sixth** time. Environment check: no
+PO-token provider plugin is installed (`pip list` has no `bgutil`/`pot` package; `yt-dlp
+--list-extractors` has no `pot`/`bgutil` entries beyond unrelated GameSpot/Snapchat matches), and
+`yt-dlp` is current (2026.07.04) — this is an infra gap (missing PO-token provider or authenticated
+cookies), not a transient per-session throttle.
+
+Ran `ingest_batch.py prepare --channel @MoreMozi --n 8 --no-mark` (read-only) for the authoritative
+work order: selected the identical 8 rows as all five prior iterations (yt-8fk8WaFmc6I,
+yt-B0v5k_9iG3M, yt-PWn_FCefCXY, yt-enLlQLUH4As, yt-NSpxfFTz4KI, yt-DQLjQAXGK4g, yt-Ma4rpdS41Tw,
+yt-4rbx2gzJzi4), 8/8 `no-captions` (false), 0 ok, 0 retry. `--no-mark` used → `pipeline/ledger.csv`
+confirmed untouched (`git status --short pipeline/ledger.csv` empty); all 8 rows remain
+`L0-discovered`, open for retry once the infra is fixed.
+
+**Side finding (not fixed this iteration, flagging for the next maintainer):** `cmd_status`'s
+`FLAG_RE = re.compile(r"429|...")` does a plain substring search, which false-positives on ordinary
+view-count notes containing the digits "429" — e.g. `@AlexHormozi` rows `yt-zh0bklzwI3g`
+(`notes=views=42991`) and `yt-kGfzLjPNsBU` (`notes=views=144294`) are genuinely open P2 `L0-discovered`
+long-form rows with no real block, but `ingest_batch.py status` silently omits them from the "OPEN
+long-form rows" table because their view-count digits happen to contain the substring "429". Confirmed
+via direct ledger inspection (both rows: `status=L0-discovered`, `priority=2`, no genuine
+429/no-captions/unavailable/dup-of notes). Did not attempt these 2 videos this iteration since the
+PO-token block confirmed above is global/YouTube-side (reproduced on an unrelated already-ingested
+video), not channel-specific, so they would almost certainly fail identically — but a future
+maintainer should tighten the regex (e.g. anchor on the actual note strings used by the auto-marker,
+`"429-persistent"` etc., rather than a bare `"429"`) so the status table doesn't under-report
+@AlexHormozi's true remaining open count.
+
+No captions fetched → no source pages, no `wiki/sources/`/`youtube-index.md`/`index.md`/ledger
+bookkeeping this iteration. Counts unchanged: 2,296 L2 / 19 L3; open long-form @MoreMozi 225 (P2:217
+P3:8), P1:0; open shorts 8,814. Synthesis debt: 8 ingest batches since synthesis pass 30 (checkpoint
+at 10) — this entry itself advances the log-based debt counter to 9 (per `batches_since_synthesis()`
+counting every `ingest |`-headed entry regardless of yield), but no new material exists to synthesize;
+the next dispatcher should note this and not treat counter-driven "SYNTHESIS DUE" from zero-yield
+stops as real debt.
+
+Ending this iteration per the safety rail (rate-limit/bot-block assumed; six-for-six across three
+separate dispatch sessions and multiple independent verification videos — well past the 3-consecutive
+threshold). Not scheduling a wakeup or starting a loop (dispatched as a one-shot roster subagent).
+**Recommend, strongly**: do not spend a seventh identical iteration on this unchanged @MoreMozi P2
+queue — either fix the infra (a yt-dlp PO-token provider plugin such as `bgutil-ytdlp-pot-provider`,
+or authenticated `--cookies-from-browser`), or have the next dispatcher route to Stage C (shorts
+dedup, 8,814 open) or hold, since P1/P2 long-form is structurally blocked right now.
+
+Synthesis notes: none (nothing ingested this iteration).
