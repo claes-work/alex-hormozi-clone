@@ -8219,3 +8219,46 @@ Ending this iteration per the safety rail (rate-limit/bot-block assumed). Not sc
 wakeup or starting a loop (dispatched as a one-shot subagent this run).
 
 Synthesis notes: none (nothing ingested this iteration).
+
+## [2026-07-21] ingest | Stage B: @MoreMozi P2 batch — yt-dlp bot-block persists (PO-token), 0/8 ingested, second consecutive stop
+
+Loop iteration (Stage B, dispatched as a subagent — batch size 8). Stage selection at iteration
+start (first-matching-rule-wins): `ingest_batch.py status` showed open long-form only
+`@MoreMozi 225 (P2:217 P3:8)`, no P1 anywhere, synthesis debt 4/10 (no `SYNTHESIS DUE`; high-water
+mark still batch 284/pass 30 per `pipeline/synthesis-state.md`) → not Stage S; persona refreshed
+at pass 30 only ~3-4 batches ago → not Stage P; all target channels already have ledger rows → not
+Stage A; P1 open = 0 → skip; P2 open (@MoreMozi) → **Stage B, P2**.
+
+`ingest_batch.py prepare --channel @MoreMozi --n 8` selected the **same 8 rows** as the immediately
+prior iteration (yt-8fk8WaFmc6I, yt-B0v5k_9iG3M, yt-PWn_FCefCXY, yt-enLlQLUH4As, yt-NSpxfFTz4KI,
+yt-DQLjQAXGK4g, yt-Ma4rpdS41Tw, yt-4rbx2gzJzi4) — that prior iteration had left them open after a
+bot-block. This time the driver's caption fetch returned **`no-captions` for all 8** (auto-marking
+the ledger to `L1`), but manual `yt-dlp --list-subs`/direct-fetch verification exposed this as a
+**false classification**: every fetch logs `WARNING: ... There are missing subtitles languages
+because a PO token was not provided. Automatic captions for 1 languages are missing.`, then reports
+"no subtitles" — which the driver's regex (`"no subtitles" in low`) matches as genuine
+no-captions. To confirm this is bot-blocking and not real caption absence, re-ran `--list-subs`
+against `yt-Zk4iYqISxe4` — a video **already ingested as L2** in an earlier successful batch (has a
+real wiki/sources page with quotes) — and got the identical "no automatic captions / no subtitles"
+result due to the same missing-PO-token warning. A video with confirmed real captions cannot
+genuinely have none now, so this is the same class of YouTube bot-detection block the prior
+iteration hit (there: "Sign in to confirm you're not a bot"; here: missing PO token blocking
+auto-caption retrieval) — just manifesting as a different yt-dlp message that slipped past the
+classifier's `no-captions` bucket instead of landing in `error`/`429`.
+
+Because the auto-mark was a false positive, **reverted `pipeline/ledger.csv`** for all 8 rows back
+to their pre-batch state (`L0-discovered`, `notes=views=0`) via `git checkout HEAD --
+pipeline/ledger.csv` — they must stay open for retry, not be permanently miscoded as no-captions.
+No source pages were written; no other ledger rows, `youtube-index.md`, or `index.md` touched.
+
+Counts unchanged: 2,296 L2 / 19 L3; open long-form @MoreMozi 225 (P2:217 P3:8), P1:0; open shorts
+8,814. Synthesis debt: still ~4 ingest batches since synthesis pass 30 (checkpoint at 10) — this
+iteration produced no new batch (0 ingested), so debt does not advance.
+
+Ending this iteration per the safety rail (2nd consecutive rate-limit/bot-block on this exact
+batch — well past the 3-failure threshold, 8/8 both times). Not scheduling a wakeup or starting a
+loop (dispatched as a one-shot subagent this run). **Recommend**: next attempt either waits out the
+block, or runs with `--cookies-from-browser`/authenticated cookies to supply the missing PO token,
+since two consecutive iterations now confirm this is not a per-video caption gap.
+
+Synthesis notes: none (nothing ingested this iteration).
