@@ -8600,3 +8600,41 @@ wiki/pipeline/persona; committing this log entry alone.
 
 Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token block remains
 unresolved and infra-level, same escalation as the prior seven entries).
+
+## [2026-07-21] ingest | Stage B: @MoreMozi P2 batch — yt-dlp PO-token block persists, ninth consecutive stop, 0/8 ingested
+
+Loop iteration (dispatched as a roster-autopilot subagent, new session, batch size 8, collapsed-
+nesting instruction in effect: write pages directly, no per-video subagents). Stage selection via
+`ingest_batch.py status` (first-matching-rule-wins): open long-form only `@MoreMozi 225 (P2:217
+P3:8)`, P1:0 everywhere; synthesis debt 1/10 (well under checkpoint) → not Stage S; persona
+refreshed in pass 31 (biography/beliefs/voice/system-prompt v39, 2026-07-21) and no new topic
+pages since → not Stage P; all 5 target channels already have ledger rows → not Stage A; P1 open =
+0 → skip; P2 open (@MoreMozi) → **Stage B, P2** (first-matching-rule).
+
+Given eight prior consecutive stops already confirmed a persistent, environment-level yt-dlp
+PO-token block (reproduced across long-form, shorts, and five player-client variants), ran one
+fresh confirmation before touching the ledger: a direct `yt-dlp --list-subs` probe on an open P2
+row (`B0v5k_9iG3M`, "Helping a Pest Control Company Get to $10M/Year") reproduced the identical
+`WARNING: ... a PO token was not provided ...` signature and reported zero automatic captions and
+zero subtitles — same as the prior eight. Checked the sandbox for anything that might have changed
+infra-side since the last stop: no `bgutil`/PO-token-provider plugin present, no browser-cookie
+source, `deno` present (already used for JS-challenge solving) but insufficient on its own to
+satisfy the PO-token requirement. Nothing has changed. Deliberately did **not** run
+`ingest_batch.py prepare` this time (it would only re-mark the same 8 rows `no-captions` and
+require another revert) — the direct probe alone is sufficient confirmation, per the precedent of
+minimizing false-negative ledger churn.
+
+No captions fetched → no source pages, no `wiki/sources/`/`youtube-index.md`/`index.md`/ledger
+bookkeeping this iteration (ledger untouched, never entered a false state). Counts unchanged:
+L2=2296 / L3=19; open long-form @MoreMozi 225 (P2:217 P3:8), P1:0 everywhere; open shorts 8,814.
+Synthesis debt: 1 (unchanged; no new L2 material this iteration to accrue debt from).
+
+Ending this iteration per the safety rail (well past 3 consecutive yt-dlp failures; ninth stop on
+this exact signature across sessions). Not scheduling a wakeup or starting a loop (dispatched as a
+one-shot roster subagent per instruction). No repo state change beyond this log entry — nothing to
+commit in wiki/pipeline/persona; committing this log entry alone.
+
+Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token block remains
+unresolved and infra-level, same escalation as the prior eight entries — this looks like it needs
+a human-side fix, e.g. a PO-token provider plugin or cookies file, rather than further automated
+retries).
