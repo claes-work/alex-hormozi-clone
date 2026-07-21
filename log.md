@@ -8338,3 +8338,44 @@ unlikely to self-resolve — the fix needs to happen at the infra layer (authent
 identical retries burn more iterations for zero yield.
 
 Synthesis notes: none (nothing ingested this iteration).
+
+## [2026-07-21] ingest | Stage B: @MoreMozi P2 batch — yt-dlp bot-block persists (PO-token), fifth consecutive stop (roster dispatch), 0/8 ingested
+
+Loop iteration (Stage B, dispatched fresh as a roster-autopilot subagent — new session, batch size
+8, per the roster's collapsed-nesting instruction: write pages directly, no per-video subagents).
+Stage selection via `ingest_batch.py status` (first-matching-rule-wins): synthesis debt 7/10, no
+`SYNTHESIS DUE` → not Stage S; last synthesis pass (30, 2026-07-20) recompiled system-prompt and
+only 4 ingest batches (285-288, all 0-ok blocked attempts) have landed since → well under the
+10-batch/new-topic staleness bar → not Stage P; all 5 target channels already have ledger rows →
+not Stage A; P1 open = 0 → skip; P2 open (@MoreMozi 217 of 225, plus P3:8) → **Stage B, P2**.
+
+Ran `ingest_batch.py prepare --channel @MoreMozi --n 8` (not `--no-mark` this time — first check
+the actual failure signature directly). It selected the identical 8 rows as all four prior
+iterations (yt-8fk8WaFmc6I, yt-B0v5k_9iG3M, yt-PWn_FCefCXY, yt-enLlQLUH4As, yt-NSpxfFTz4KI,
+yt-DQLjQAXGK4g, yt-Ma4rpdS41Tw, yt-4rbx2gzJzi4), auto-marked all 8 `L1`/`no-captions` in
+`pipeline/ledger.csv`, and returned 8/8 no-captions, 0 ok, 0 retry. Cross-checked the failure
+mode manually against `yt-8fk8WaFmc6I` directly and separately against `yt-4Z6-iA-Pg6I` (a video
+already confirmed L2-ingested with a real transcript, cited in `youtube-index.md` under
+2022-12-16) — both return the same `WARNING: [youtube] ...: There are missing subtitles languages
+because a PO token was not provided. Automatic captions for 1 languages are missing.` followed by
+`[info] There are no subtitles for the requested languages`. Confirmed no PO-token provider plugin
+is installed (`yt-dlp --list-extractors` has no `pot`/`bgutil` entries). This is the same
+environmental bot-block documented in the four log entries immediately above (2026-07-21), now
+confirmed a **fifth** consecutive time, across yet another fresh dispatch. Reverted the incorrect
+`no-captions` auto-marks with `git checkout -- pipeline/ledger.csv` (all 8 rows restored to
+`L0-discovered`, `git status` confirmed clean) so they stay open for retry once the infra is fixed.
+
+No captions fetched → no source pages, no `wiki/sources/`/`youtube-index.md`/`index.md` bookkeeping
+this iteration; ledger left exactly as before (all 8 rows open). Counts unchanged from batch 287:
+2,296 L2 / 19 L3; open long-form @MoreMozi 225 (P2:217 P3:8), P1:0; open shorts 8,814. Synthesis
+debt: 7 ingest batches since synthesis pass 30 (checkpoint at 10) — unchanged (still not due).
+
+Ending this iteration per the safety rail (rate-limit/bot-block assumed; five-for-five across two
+separate dispatch sessions and multiple verification methods). Repeating this exact retry is very
+unlikely to yield anything — **recommend the next dispatcher skip Stage B on @MoreMozi entirely**
+until the infra fix lands (a yt-dlp PO-token provider plugin such as `bgutil-ytdlp-pot-provider`,
+or authenticated `--cookies-from-browser`) and instead let the loop route to whatever is next in
+priority (shorts dedup / Stage C, or hold), rather than burning another iteration on an unchanged
+0-ok queue. Not scheduling a wakeup or starting a loop (dispatched as a one-shot roster subagent).
+
+Synthesis notes: none (nothing ingested this iteration).
