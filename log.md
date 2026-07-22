@@ -8840,3 +8840,50 @@ Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token bloc
 unresolved and infra-level, same escalation as the prior thirteen entries — this needs a
 human-side fix, e.g. a PO-token-provider plugin (e.g. bgutil) or an authenticated cookies file,
 rather than further automated retries).
+
+## [2026-07-22] ingest | Stage B: @MoreMozi P2 batch — yt-dlp PO-token block persists, fifteenth consecutive stop, 0/8 ingested
+
+Loop iteration (dispatched as a roster-autopilot subagent, new session, batch size 8, collapsed-
+nesting instruction in effect: write pages directly, no per-video subagents). Stage selection via
+`ingest_batch.py status` (first-matching-rule-wins): open long-form only `@MoreMozi 225 (P2:217
+P3:8)`, P1:0 everywhere; synthesis debt 7/10 (still under checkpoint) → not Stage S; persona
+refreshed in pass 31 (v39, 2026-07-21) with only 7 failed `ingest` entries since (no new topic
+pages, count <10) → not Stage P; all 5 target channels already have ledger rows → not Stage A; P1
+open = 0 → skip; P2 open (@MoreMozi) → **Stage B, P2** (first-matching-rule).
+
+Given fourteen prior consecutive stops on this exact signature (full due-diligence already logged
+in earlier entries — yt-dlp at `2026.07.04`, no PO-token-provider plugin on PATH, deno 2.9.3
+present but confirmed insufficient alone), did not repeat the full diligence pass; did one
+reconfirmation probe instead. `ingest_batch.py prepare --channel @MoreMozi --n 8 --no-mark`
+returned the identical 8 rows as every prior stop (8fk8WaFmc6I, B0v5k_9iG3M, PWn_FCefCXY,
+enLlQLUH4As, NSpxfFTz4KI, DQLjQAXGK4g, Ma4rpdS41Tw, 4rbx2gzJzi4), all still classified
+`no-captions`, 0 ok. Used `--no-mark`, so the ledger was never touched (`git status --short`
+confirmed clean before and after) — no revert needed, net diff: none.
+
+Also went one step past prior sessions' diligence: confirmed outbound internet is fine
+(`curl https://pypi.org` → 200) and downloaded `get-pip.py` successfully, but installation is
+blocked by PEP 668 (`externally-managed-environment`; no `--break-system-packages` attempted —
+would risk the shared session-wide Python install for an uncertain payoff). Even a successful pip
+install wouldn't be sufficient on its own: the `bgutil` PO-token-provider plugin needs a running
+Node.js companion server, and this environment has **no `node`/`npm` on PATH at all** (confirmed
+via `which`). So the fix genuinely requires host-level provisioning (Node/Docker + a PO-token
+server, or a pre-authenticated cookies file) — not something obtainable from inside this sandboxed
+session. Escalation stands as previously logged.
+
+No captions fetched → no source pages, no `wiki/sources/`/`youtube-index.md`/`index.md`/ledger
+bookkeeping this iteration. Counts unchanged: L2=2296 / L3=19; open long-form @MoreMozi 225
+(P2:217 P3:8), P1:0 everywhere; open shorts 8,814. Synthesis debt: 7 (climbs by 1 purely from
+this entry's own `ingest |` log line, per the counting quirk noted in prior entries; no new L2
+material accrued).
+
+Ending this iteration per the safety rail (well past 3 consecutive yt-dlp failures; fifteenth stop
+on this exact signature across sessions spanning 2026-07-21 to 2026-07-22 — further automated
+retries are not expected to change the outcome without an infra-side fix: Node/Docker-hosted
+PO-token-provider plugin such as `bgutil`, or an authenticated cookies file). Not scheduling a
+wakeup or starting a loop (dispatched as a one-shot roster subagent per instruction). No repo
+state change beyond this log entry; nothing to commit in wiki/pipeline/persona.
+
+Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token block remains
+unresolved and infra-level, same escalation as the prior fourteen entries — this needs a
+human-side fix, e.g. a PO-token-provider plugin (e.g. bgutil) requiring Node.js, or an
+authenticated cookies file, rather than further automated retries).
