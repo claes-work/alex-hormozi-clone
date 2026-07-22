@@ -9024,3 +9024,54 @@ YouTube cookies file before Stage B (@MoreMozi P2:217, P3:8) can resume.
 Synthesis notes: none (debt drained mechanically to 0; the underlying yt-dlp PO-token block that
 generated the debt is unchanged and out of this iteration's scope — next real debt accrues once
 Stage B can ingest again).
+
+## [2026-07-22] ingest | Stage B: @MoreMozi P2 batch — yt-dlp PO-token block persists, eighteenth consecutive stop, 0/8 ingested
+
+Loop iteration (dispatched as a roster-autopilot subagent, new session, batch size 8, collapsed-
+nesting instruction in effect: write pages directly, no per-video subagents; fresh_open=0, no
+freshness-routing hint this iteration). Stage selection via `ingest_batch.py status`
+(first-matching-rule-wins): synthesis debt 0/10 (pass 32 just drained it) → not Stage S; persona
+refreshed in pass 31 (v39, 2026-07-21), no new topic pages since pass 32 confirmed zero promotion
+→ not Stage P; all 5 target channels already have ledger rows → not Stage A; P1 open = 0
+everywhere → skip; only open long-form is `@MoreMozi 225 (P2:217 P3:8)` → **Stage B, P2**
+(first-matching-rule).
+
+Ran `ingest_batch.py prepare --channel @MoreMozi --n 8` (without `--no-mark`, to get a fresh
+end-to-end read after pass 32's checkpoint). Result: identical to all seventeen prior stops — the
+same 8 queue-head rows (8fk8WaFmc6I, B0v5k_9iG3M, PWn_FCefCXY, enLlQLUH4As, NSpxfFTz4KI,
+DQLjQAXGK4g, Ma4rpdS41Tw, 4rbx2gzJzi4) came back `no-captions`, 0 ok. The `prepare` call
+auto-wrote `status=L1, notes=no-captions` for all 8 to `pipeline/ledger.csv`. Manually reproduced
+against the queue head (`8fk8WaFmc6I`) with a direct `yt-dlp --skip-download --write-subs
+--write-auto-subs --sub-langs en.*` call: identical signature to every prior stop — `WARNING:
+[youtube] 8fk8WaFmc6I: There are missing subtitles languages because a PO token was not provided.
+Automatic captions for 1 languages are missing.` / `[info] There are no subtitles for the
+requested languages`. Confirmed this is the same known classifier false-negative (flagged since
+the sixth/tenth entries): the PO-token block message contains the substring the classifier
+pattern-matches for "no subtitles," so a transient infra-level block gets mismarked as a
+permanent no-captions row. Reverted the false marks with `git checkout -- pipeline/ledger.csv`,
+restoring all 8 rows to `L0-discovered`. Re-ran `ingest_batch.py status` afterward to confirm: open
+long-form counts identical to pre-iteration (`@MoreMozi 225, P2:217 P3:8`), L2=2296/L3=19
+unchanged, synthesis debt 0/10 unchanged.
+
+Environment re-check (brief, given seventeen prior exhaustive checks already ruled this out): no
+`node`/`npm` on PATH, no `pip`/`pipx` on PATH, no `bgutil` PO-token-provider module importable,
+`yt-dlp --version` reports `2026.07.04` (same version as before). Nothing host-side has changed.
+This remains an infra-level block needing a maintainer with shell/package-install access to add a
+PO-token-provider plugin (e.g. `bgutil`) or an authenticated YouTube cookies file — no further
+automated retry is expected to change the outcome.
+
+No captions fetched → no source pages, no `wiki/sources/`/`youtube-index.md`/`index.md` bookkeeping
+this iteration; ledger restored to its pre-iteration state (net diff: none). Counts unchanged:
+L2=2296 / L3=19; open long-form @MoreMozi 225 (P2:217 P3:8), P1:0 everywhere; open shorts 8,814.
+Synthesis debt: 0 (unchanged; no new L2 material this iteration to accrue debt from).
+
+Ending this iteration per the safety rail (three consecutive yt-dlp failures triggers it; this is
+the eighteenth consecutive reproduction of the identical PO-token signature across sessions).
+Dispatched as a one-shot roster subagent per instruction: not scheduling a wakeup, not starting a
+loop, and the roster repo itself was left untouched. No repo state change beyond this log entry —
+nothing to commit in wiki/pipeline/persona; committing this log entry alone.
+
+Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token block remains
+unresolved and infra-level, same escalation as the prior seventeen entries — needs a human-side
+fix, e.g. a PO-token-provider plugin or an authenticated cookies file, rather than further
+automated retries).
