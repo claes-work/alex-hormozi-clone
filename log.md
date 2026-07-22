@@ -8725,3 +8725,42 @@ Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token bloc
 unresolved and infra-level, same escalation as the prior ten entries — this needs a human-side
 fix, e.g. a PO-token-provider plugin (e.g. bgutil) or an authenticated cookies file, rather than
 further automated retries).
+
+## [2026-07-22] ingest | Stage B: @MoreMozi P2 batch — yt-dlp PO-token block persists, twelfth consecutive stop, 0/8 ingested
+
+Loop iteration (dispatched as a roster-autopilot subagent, new session, batch size 8, collapsed-
+nesting instruction in effect: write pages directly, no per-video subagents). Stage selection via
+`ingest_batch.py status` (first-matching-rule-wins): open long-form only `@MoreMozi 225 (P2:217
+P3:8)`, P1:0 everywhere; synthesis debt 4/10 (well under checkpoint, and per
+`pipeline/synthesis-state.md` the intervening 0/8 stops carry no synthesis debt) → not Stage S;
+persona refreshed in pass 31 (v39, 2026-07-21) with no new topic pages since → not Stage P; all 5
+target channels already have ledger rows → not Stage A; P1 open = 0 → skip; P2 open (@MoreMozi) →
+**Stage B, P2** (first-matching-rule).
+
+Given eleven prior consecutive stops on this exact signature (all logged 2026-07-21/22, confirmed
+GLOBAL and infra-level, full due-diligence already done in the tenth/eleventh entries — yt-dlp at
+latest `2026.07.04`, no PO-token-provider plugin on PATH, deno present but insufficient alone), did
+not repeat the full diligence pass. Confirmed the block is still live with two checks: (1) a direct
+`yt-dlp --skip-download --write-subs --write-auto-subs --sub-langs en` probe on `8fk8WaFmc6I`
+reproduced the identical `WARNING: ... a PO token was not provided ...` signature, zero subtitles;
+(2) `ingest_batch.py prepare --channel @MoreMozi --n 8 --no-mark` returned the exact same 8 rows as
+every prior stop (8fk8WaFmc6I, B0v5k_9iG3M, PWn_FCefCXY, enLlQLUH4As, NSpxfFTz4KI, DQLjQAXGK4g,
+Ma4rpdS41Tw, 4rbx2gzJzi4), all classified `no-captions`, 0 ok. Used `--no-mark` throughout, so the
+ledger was never touched — no revert needed, net diff: none.
+
+No captions fetched → no source pages, no `wiki/sources/`/`youtube-index.md`/`index.md`/ledger
+bookkeeping this iteration. Counts unchanged: L2=2296 / L3=19; open long-form @MoreMozi 225
+(P2:217 P3:8), P1:0 everywhere; open shorts 8,814. Synthesis debt: 4 (unchanged; no new L2 material
+this iteration to accrue debt from).
+
+Ending this iteration per the safety rail (well past 3 consecutive yt-dlp failures; twelfth stop on
+this exact signature across sessions spanning 2026-07-21 to 2026-07-22 — further automated retries
+are not expected to change the outcome without an infra-side fix, e.g. a PO-token-provider plugin
+such as `bgutil` or an authenticated cookies file). Not scheduling a wakeup or starting a loop
+(dispatched as a one-shot roster subagent per instruction). No repo state change beyond this log
+entry; nothing to commit in wiki/pipeline/persona.
+
+Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token block remains
+unresolved and infra-level, same escalation as the prior eleven entries — this needs a human-side
+fix, e.g. a PO-token-provider plugin (e.g. bgutil) or an authenticated cookies file, rather than
+further automated retries).
