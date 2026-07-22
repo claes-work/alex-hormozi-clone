@@ -2223,6 +2223,7 @@ situation is context-only, only Alex's advice is persona data.
 | 2026-07-20 | [[2026-07-20-yt-6WvSQcFI2jA]] | Show Proof When It's All Under NDA? — **present-tense proof** (anonymized call-recording playback) + free-trial as the ultimate risk-reversal | |
 | 2026-07-20 | [[2026-07-20-yt-qOy_FSeRU1M]] | How Do We Win Trust in a New City? — grand-opening CAC + the **"running-start" punch card** (pre-punch 2-3 of 10 → ~3x completion) | |
 | 2026-07-20 | [[2026-07-20-yt-TTHlgcUgpeo]] | Helping a $2M Coaching Business Cut Dead Weight — **opportunity-cost over sunk-cost** divestiture; bio: sold 6 gyms "for the price of one" in 90 days, $1M/mo in 6 months | |
+| 2026-07-21 | [[2026-07-21-yt-leEMptOPyZ8]] | Volume Negates Luck. Violence Is the Answer — sales-handbook credos; "controllables"; "a man must have a quest"; hopelessness (no options) vs. anxiety (no priorities) | |
 
 ## @TheSkoolSchool
 
@@ -2321,7 +2322,7 @@ testimonials). Reviewed videos are cataloged; only Alex-attributed ones carry pe
 | 2022-09-01 → 09-21 | (8 pages) | ⚠️ **no Alex** — Kale Owen gym-tactic series (CLOSER, retention "5 horsemen", wedding-cake model, semi-private upsell, supplements, hybrid bolt-on) | |
 | 2022-12-16 | [[2022-12-16-yt-4Z6-iA-Pg6I]] | **Alex** live Q&A for Gym Lords — recession focus, free-offer economics, brand=product−promise; **NEW bio**: values shift net-worth→goodwill ~Dec 2022 | ★ |
 
-_2,294 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **Only @MoreMozi long-form remains (2026-07-20 discovery refresh added 13 fresh-upload P1; all 13 now drained — P1 empty).** Remaining open long-form: 216 @MoreMozi (P2 208, P3 8) + shorts dedup (~8,793). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
+_2,295 videos ingested (L2). @ACQofficial + @TheSkoolSchool + @AlexHormozi + @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19 after discovery refresh)._ **Only @MoreMozi long-form remains. 2026-07-22 discovery refresh added 18 fresh-upload P1 (18 new videos + 28 new shorts); 1 of 18 drained this batch before a persistent yt-dlp PO-token bot-block stopped further fetches (17 P1 remain open, left for retry once the block clears).** Remaining open long-form: 242 @MoreMozi (P1 17, P2 217, P3 8) + shorts dedup (~8,842). 95 videos skipped/marked unavailable (Leila/promo/joke/title-triaged Kale/unavailable). The first 44 L3-candidates were **synthesized into 7 topic pages**
 (2026-07-08): business/{sales-frameworks, scaling-and-enterprise-value, acquisition-channels},
 content-strategy/{content-engine, branding}, mindset/discipline-and-decision-making,
 wealth/investing-and-wealth. 5 videos contain no Alex speech (3 Leila solo talks + 2

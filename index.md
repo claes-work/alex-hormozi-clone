@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-22 (synthesis checkpoint pass 32 — debt drained mechanically to 0; zero promotable content this pass, since all 10 `ingest |` log entries since pass 31 are consecutive @MoreMozi yt-dlp PO-token bot-block stops, 0/8 each, 17 in a row total since 2026-07-21; system-prompt unchanged at v39; 2,296 L2 videos; Stage B remains blocked pending an infra-side fix — PO-token-provider plugin (e.g. bgutil, needs Node.js) or authenticated cookies)_
+_Last updated: 2026-07-22 (Stage B: @MoreMozi P1 fresh-upload batch — 1/8 ingested (yt-leEMptOPyZ8, "Volume Negates Luck. Violence Is the Answer") before the yt-dlp PO-token bot-block reasserted itself (7 consecutive errors, confirmed same "Sign in to confirm you're not a bot" signature as prior sessions), 18th+ consecutive partial/total block since 2026-07-21; 2,297 L2 videos; 17 @MoreMozi P1 remain open for retry once the block clears)_
 
 ## Sources
 
@@ -36,7 +36,7 @@ _Last updated: 2026-07-22 (synthesis checkpoint pass 32 — debt drained mechani
 
 ### YouTube
 
-- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**2,254 L2**; @AlexHormozi, @ACQofficial, @TheSkoolSchool, and @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19); only @MoreMozi long-form remains — P1 empty, P2/P3 tail open). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
+- **[wiki/sources/youtube-index.md](wiki/sources/youtube-index.md)** — sub-index of all ingested YouTube videos (**2,255 L2**; @AlexHormozi, @ACQofficial, @TheSkoolSchool, and @GymLaunch long-form complete (@AlexHormozi re-drained 2026-07-19); only @MoreMozi long-form remains — P1 17 open (2026-07-22 fresh-upload batch, yt-dlp blocked), P2/P3 tail open). Individual video pages live under `wiki/sources/YYYY-MM-DD-yt-<id>.md`.
 
 ## Topics
 

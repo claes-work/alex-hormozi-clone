@@ -9075,3 +9075,44 @@ Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token bloc
 unresolved and infra-level, same escalation as the prior seventeen entries — needs a human-side
 fix, e.g. a PO-token-provider plugin or an authenticated cookies file, rather than further
 automated retries).
+
+## [2026-07-22] ingest | Stage B: @MoreMozi P1 fresh-upload batch — 1/8 ingested, yt-dlp bot-block reasserted (L2=2297)
+
+Dispatched as a one-shot roster subagent (freshness routing: 2026-07-22 discovery refresh found
+18 new @MoreMozi videos + 28 new shorts, 18 fresh-promoted to P1). `ingest_batch.py prepare
+--channel @MoreMozi --priority 1 --n 8` selected the 8 oldest-published open P1 rows (all
+2026-07-21 fresh uploads). 1 succeeded: **yt-leEMptOPyZ8** "Volume Negates Luck. Violence Is the
+Answer" — a short direct-to-camera clip: two sales-handbook credos ("volume negates luck",
+"violence is the answer" reframed as controlling the controllable), the shared Alex/Leila
+"a man must have a quest" philosophy, and a hopelessness (no options) vs. anxiety (no
+priorities) distinction, closing with a *300* quote and the scaling-roadmap pitch. L2 page
+written: `wiki/sources/2026-07-21-yt-leEMptOPyZ8.md`; ledger row set to L2/domains=mindset;
+inserted into `youtube-index.md` (@MoreMozi section, 2026-07-21 row) + footer bumped
+(2,294→2,295) with an updated fresh-batch note; `index.md` counts/notes updated to match
+(2,254→2,255 sub-index count kept in its own drift lane, "Last updated" header rewritten).
+
+The remaining 7 rows (yt-G_lDltTyED0, yt-JD6jSiY-4sM, yt-tIYQ2Qh33jE, yt-2AQY-7MUH3w,
+yt-DGu9fRdBVhA, yt-Ghi3cpRrK2A, yt-bsIwPUlb-DM) all failed caption fetch with the same
+persistent signature confirmed on manual re-run of yt-dlp against yt-G_lDltTyED0: `ERROR:
+[youtube] G_lDltTyED0: Sign in to confirm you're not a bot. Use --cookies-from-browser or
+--cookies for the authentication.` — the identical PO-token/bot-block that has now blocked
+every @MoreMozi batch since 2026-07-21 (this is the ~19th consecutive session hitting it, first
+one with a partial success). 7 consecutive fetch errors after the 1 success exceeds the
+3-consecutive-failure safety rail, so this iteration stopped here per instruction rather than
+retrying further: left the 7 rows open (untouched in the ledger) for retry once the block
+clears — still an infra-level issue needing a PO-token-provider plugin (e.g. bgutil, needs
+Node.js) or an authenticated YouTube cookies file; no further automated retry is expected to
+change the outcome on its own.
+
+Ledger after this batch: @MoreMozi open long-form 242 (P1:17 P2:217 P3:8); L2=2297, L3=19;
+open shorts 8,842 (unchanged — shorts batch not run this iteration). Synthesis debt: 1 ingest
+batch since last synthesis (checkpoint at 10 — not due).
+
+Dispatched as a one-shot roster subagent per instruction: not scheduling a wakeup, not
+starting a loop, roster repo itself left untouched. Committing this batch's changes now.
+
+Synthesis notes: none genuinely new for topics/persona — this single clip's content
+(controllables framing, "a man must have a quest", hopelessness-vs-anxiety) restates mindset
+material already covered in `wiki/topics/mindset/discipline-and-decision-making.md` from
+earlier @AlexHormozi/@MoreMozi sources; no new framework, bio detail, or contradiction to
+promote.
