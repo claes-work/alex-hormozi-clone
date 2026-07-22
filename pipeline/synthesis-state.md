@@ -10,10 +10,15 @@ Synthesized through: **batch 287** — synthesis pass 31, system-prompt **v39** 
 pass 30 through batch 284 at v38; pass 29 through batch 274 at v37; pass 28 through batch 264 at v36;
 pass 27 through batch 254 at v35; pass 26 through batch 244 at v34; pass 25 through batch 234 at v33;
 pass 24 through batch 224 + the inline-L3 $100M library synthesis at v32.) Everything ingested after
-this is L2 (source pages exist) but **NOT yet promoted** to topics/persona. Note: the 7 @MoreMozi
-ingest attempts logged 2026-07-21 immediately after batch 287 are confirmed **0/8 yt-dlp bot-block
-stops** (no new L2 content) and carry no synthesis debt — the next real debt starts fresh once the
-block clears and Stage B resumes.
+this is L2 (source pages exist) but **NOT yet promoted** to topics/persona. Note: **all 17**
+@MoreMozi ingest attempts logged 2026-07-21→2026-07-22 immediately after batch 287 are confirmed
+**0/8 yt-dlp PO-token bot-block stops** (no new L2 content) and carry no synthesis debt — the next
+real debt starts fresh once the block clears and Stage B resumes. Synthesis pass 32 (2026-07-22,
+roster-dispatched checkpoint iteration) mechanically drained the debt counter (which had climbed
+to 10 purely from 10 of those consecutive failed-batch log entries, stops 8-17) back to 0 with
+**zero promotion** — there was nothing genuinely new to promote (unlike pass 31, which still had 3
+real batches, 285-287, mixed into its debt window). system-prompt stays at v39; no topic/persona
+file changed this pass.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_

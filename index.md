@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (synthesis pass 31 — @MoreMozi batches 285-287 promoted across 9 topic/persona files; system-prompt v39; 2,294 L2 videos; 7 subsequent @MoreMozi ingest attempts this checkpoint hit a confirmed global yt-dlp bot-block, 0/8 each, no new L2)_
+_Last updated: 2026-07-22 (synthesis checkpoint pass 32 — debt drained mechanically to 0; zero promotable content this pass, since all 10 `ingest |` log entries since pass 31 are consecutive @MoreMozi yt-dlp PO-token bot-block stops, 0/8 each, 17 in a row total since 2026-07-21; system-prompt unchanged at v39; 2,296 L2 videos; Stage B remains blocked pending an infra-side fix — PO-token-provider plugin (e.g. bgutil, needs Node.js) or authenticated cookies)_
 
 ## Sources
 

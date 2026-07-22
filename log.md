@@ -8984,3 +8984,43 @@ Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token bloc
 unresolved and infra-level, same escalation as the prior sixteen entries — this needs a human-side
 fix, e.g. a PO-token-provider plugin (e.g. bgutil) requiring Node.js, or an authenticated cookies
 file, rather than further automated retries).
+
+## [2026-07-22] lint | synthesis pass 32 — checkpoint drained, zero promotable content (@MoreMozi still yt-dlp blocked)
+
+Stage S synthesis checkpoint (roster-dispatched iteration, batch size 8, one subagent, no per-video
+nesting per the collapsed-spawn instruction — moot this pass since Stage S doesn't touch yt-dlp).
+Orient: `python tools/ingest_batch.py status` showed only `@MoreMozi` open (P2:217, P3:8, P1 empty
+everywhere) and flagged **SYNTHESIS DUE** (debt counter = 10). Per the stage machine's
+first-matching-rule-wins order, Synthesis checkpoint due beats Stage B regardless of the open P2
+backlog — and the prior log entry (seventeenth consecutive yt-dlp stop) explicitly flagged that the
+next iteration should run Stage S even with the block unresolved, since synthesis promotes already-
+ingested L2 material and is caption-independent.
+
+`python tools/synthesis_batch.py prepare` reported "no pending checkpoints — nothing to do" (the
+debt counter and the `pipeline/synthesis-state.md` Pending list are independently-maintained
+mechanisms; nothing had been registered there). Cross-checked the debt manually against `log.md`
+instead, same method as pass 31: all 10 `ingest |` entries since pass 31 (`## [...] ingest | Stage B:
+@MoreMozi P2 batch — yt-dlp PO-token block persists, eighth` through `seventeenth consecutive stop`)
+are 0/8 yt-dlp bot-block failures — every one ends `Synthesis notes: none`. Unlike pass 31 (which had
+3 real batches, 285-287, mixed into its debt window), **none** of this window's 10 entries carry any
+new L2 content, so there is nothing genuinely new to promote into `wiki/topics/` or `persona/` this
+pass. Confirmed no topic pages or persona files have drifted from the v39 system-prompt beyond what
+pass 31 already captured.
+
+Bookkeeping (no promotion, so a light pass):
+- `pipeline/synthesis-state.md`: extended the high-water-mark note to cover all 17 consecutive
+  bot-block stops (was 7, now 17 — stops 8-17 happened after pass 31 closed) and recorded that this
+  checkpoint drained the debt counter to 0 with zero promotion.
+- `index.md`: refreshed the freshness banner (date, pass number, L2 count 2,296, yt-dlp status).
+- `persona/system-prompt.md`: unchanged, stays v39 — nothing to recompile.
+
+No rate limits during this pass (no yt-dlp calls — Stage S is caption-independent, same as pass 31).
+No tooling errors. Did not re-attempt Stage B or re-run yt-dlp infra diligence: the prior 17 entries
+already exhausted that (no `node`/`npm` on PATH, `bgutil` PO-token-provider plugin unavailable, pip
+blocked by PEP 668) and nothing host-side has changed to warrant re-testing it — still needs a
+maintainer with shell/package-install access to add a PO-token-provider plugin or an authenticated
+YouTube cookies file before Stage B (@MoreMozi P2:217, P3:8) can resume.
+
+Synthesis notes: none (debt drained mechanically to 0; the underlying yt-dlp PO-token block that
+generated the debt is unchanged and out of this iteration's scope — next real debt accrues once
+Stage B can ingest again).
