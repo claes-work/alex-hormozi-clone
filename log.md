@@ -8936,3 +8936,51 @@ Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token bloc
 unresolved and infra-level, same escalation as the prior fifteen entries — this needs a human-side
 fix, e.g. a PO-token-provider plugin (e.g. bgutil) requiring Node.js, or an authenticated cookies
 file, rather than further automated retries).
+
+## [2026-07-22] ingest | Stage B: @MoreMozi P2 batch — yt-dlp PO-token block persists, seventeenth consecutive stop, 0/8 ingested
+
+Loop iteration (dispatched as a roster-autopilot subagent, new session, batch size 8, collapsed-
+nesting instruction in effect: write pages directly, no per-video subagents; the 60-minute back-off
+from the sixteenth stop had just expired, so this was a genuine fresh attempt, not a formality).
+Stage selection via `ingest_batch.py status` (first-matching-rule-wins): open long-form only
+`@MoreMozi 225 (P2:217 P3:8)`, P1:0 everywhere; synthesis debt 9/10 (still under the checkpoint, no
+`SYNTHESIS DUE` flag printed) → not Stage S; persona kept current inline by synthesis pass 31 (v39,
+2026-07-21) with fewer than 10 `ingest` entries since and no unreflected new topic pages → not
+Stage P; all 5 target channels already have ledger rows → not Stage A; P1 open = 0 → skip; P2 open
+(`@MoreMozi` 217) → **Stage B, P2** (first-matching-rule).
+
+Ran `ingest_batch.py prepare --channel @MoreMozi --n 8` **without** `--no-mark` first (repeated the
+same slip the sixteenth-stop entry flagged) — selected the identical 8 rows as the last sixteen
+stops (8fk8WaFmc6I, B0v5k_9iG3M, PWn_FCefCXY, enLlQLUH4As, NSpxfFTz4KI, DQLjQAXGK4g, Ma4rpdS41Tw,
+4rbx2gzJzi4), classified all 8 `no-captions`, and wrote those false marks into
+`pipeline/ledger.csv` (confirmed via `git status --short`). Reverted immediately with
+`git checkout -- pipeline/ledger.csv` (confirmed clean before proceeding) — no lasting ledger
+damage. Re-ran with `--no-mark`: identical 8 rows, identical `no-captions` classification, ledger
+confirmed untouched before and after. Manually probed `8fk8WaFmc6I` directly (`yt-dlp
+--write-subs --write-auto-subs --sub-langs en.* --skip-download --sub-format vtt`) and reconfirmed
+the cause is unchanged: `WARNING: [youtube] 8fk8WaFmc6I: There are missing subtitles languages
+because a PO token was not provided.` → `[info] There are no subtitles for the requested
+languages`. The back-off expiry did not clear the block — seventeenth consecutive stop on this
+exact signature, spanning 2026-07-21 to 2026-07-22. Did not repeat the full infra diligence already
+logged in entries 8-16 (no `node`/`npm` on PATH, `bgutil` PO-token-provider plugin unavailable, pip
+blocked by PEP 668) — nothing has changed host-side to warrant re-testing it.
+
+No captions fetched → no source pages, no `wiki/sources/`/`youtube-index.md`/`index.md`/ledger
+bookkeeping this iteration. Counts unchanged: L2=2296 / L3=19; open long-form @MoreMozi 225
+(P2:217 P3:8), P1:0 everywhere; open shorts 8,814. Synthesis debt: 10 (climbs by 1 purely from this
+entry's own `ingest |` log line, per the counting quirk noted in prior entries; no new L2 material
+accrued) — this crosses the `SYNTHESIS DUE` checkpoint (10), so the next iteration should run Stage
+S even if the yt-dlp block hasn't cleared, since synthesis promotes already-ingested L2 material
+and doesn't depend on yt-dlp.
+
+Ending this iteration per the safety rail (well past 3 consecutive yt-dlp failures; seventeenth
+stop on this exact signature — further automated retries are not expected to change the outcome
+without an infra-side fix: Node/Docker-hosted PO-token-provider plugin such as `bgutil`, or an
+authenticated cookies file). Not scheduling a wakeup or starting a loop (dispatched as a one-shot
+roster subagent per instruction). No repo state change beyond this log entry (the accidental ledger
+mutation was reverted pre-commit); nothing else to commit in wiki/pipeline/persona.
+
+Synthesis notes: none (nothing ingested this iteration; the yt-dlp PO-token block remains
+unresolved and infra-level, same escalation as the prior sixteen entries — this needs a human-side
+fix, e.g. a PO-token-provider plugin (e.g. bgutil) requiring Node.js, or an authenticated cookies
+file, rather than further automated retries).
